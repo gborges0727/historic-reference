@@ -1,0 +1,474 @@
+{
+  "year": 1969,
+  "tier": "broadcast",
+  "headline": "Apollo 11 landed on the Moon, Woodstock filled a dairy farm, and the Stonewall riots began in New York",
+  "texture": [
+    "Ariana Afghan Airlines Flight 701 came down on a house short of Gatwick on January 5, killing 50 of the 62 aboard and two people inside. Viasa Flight 742 fell into a Maracaibo neighbourhood on March 16, killing 84 on the aircraft and 71 on the ground. HMAS Melbourne sliced into the destroyer Frank E. Evans in the South China Sea on June 3 and 74 American sailors drowned. Allegheny Airlines Flight 853 hit a Piper trainer over Fairland, Indiana on September 9, killing all 83 in both aircraft.",
+    "An explosion aboard the carrier Enterprise off Hawaii on January 14 injured 314. Union Oil's Platform A blew out off Santa Barbara on January 28 and put 80,000 to 100,000 barrels of crude into the channel and onto the beaches. Close to 300 students, most of them from Students for a Democratic Society, seized the Harvard administration building on April 9, and 184 were arrested. National Guard helicopters dusted Berkeley with skin-stinging powder on May 20 after the fight over People's Park.",
+    "The Saturday Evening Post printed its last weekly issue on February 8 after 147 years. The $500, $1,000, $5,000 and $10,000 bills were taken out of circulation on July 14. Donald and Doris Fisher opened the first Gap on Ocean Avenue in San Francisco on August 21, Wal-Mart incorporated on October 31, and Dave Thomas opened a hamburger restaurant in a former steakhouse in downtown Columbus on November 15 and named the chain after his eight-year-old daughter.",
+    "Edward Kennedy drove off a bridge on Chappaquiddick Island in July and Mary Jo Kopechne died in the submerged car, and he left it nine or ten hours before reporting the accident. Sirhan Sirhan told a Los Angeles court on March 3 that he had killed Robert F. Kennedy, and was found guilty on April 17. James Earl Ray pleaded guilty in Memphis on March 10 to assassinating Martin Luther King Jr., then retracted the plea. Star Trek showed its last new episode on June 3 after NBC cancelled it."
+  ],
+  "lead": [
+    "pol.us_president",
+    "tech.apollo_11",
+    "music.woodstock",
+    "culture.stonewall",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Lyndon B. Johnson (D) until January 20, then Richard Nixon (R)",
+      "detail": "Hubert Humphrey was vice president until January 20 and Spiro Agnew from that date. Earl Warren was Chief Justice until June 23 and Warren E. Burger from June 23, sworn in by Warren himself. John William McCormack was Speaker of the House and Mike Mansfield Senate majority leader. The 90th Congress sat until January 3 and the 91st from that date. The US year page lists Nixon first as a Republican of New York and then of California.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "pol.nixon_inauguration": {
+      "section": "politics",
+      "label": "Nixon inaugurated as the 37th president",
+      "value": "Sworn in at the East Portico of the United States Capitol by Chief Justice Earl Warren, with Senate minority leader Everett Dirksen administering the vice presidential oath to Spiro Agnew",
+      "detail": "The date carries a checkable internal constraint and it holds. Both year pages put the swearing-in on January 20, and the dedicated article gives Monday, January 20, which the calendar bears out. That article, cited here, adds the East Portico, the count of this as the 46th inauguration, the two men who administered the oaths, and that Nixon was the first non-incumbent vice president to be inaugurated as president. Neither year page carries any of that, and the US year page gives only the bare line that Nixon was sworn in as the 37th president and Agnew as the 39th vice president.",
+      "date": "1969-01-20",
+      "source": "https://en.wikipedia.org/wiki/First_inauguration_of_Richard_Nixon"
+    },
+    "pol.vietnamization": {
+      "section": "politics",
+      "label": "Nixon Doctrine and the first troop withdrawals",
+      "value": "Nixon declared on July 25 that the United States expected its Asian allies to take care of their own military defence, which started the Vietnamization of the war, and the first US troop withdrawals had been made on July 8",
+      "detail": "He met South Vietnamese president Nguyen Van Thieu at Midway Island on June 8 and announced that 25,000 US troops would be withdrawn by September, then made an unscheduled visit to South Vietnam on July 30. Operation Breakfast, the covert bombing of Cambodia by US planes, had begun on March 18. Henry Kissinger and the North Vietnamese representative Xuan Thuy opened secret negotiations at the Paris apartment of the French intermediary Jean Sainteny on August 4, and the two sides never agreed terms.",
+      "date": "1969-07-25",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "pol.moratorium": {
+      "section": "politics",
+      "label": "Moratorium to End the War in Vietnam",
+      "value": "Americans marched against the war on October 15, and between 250,000 and 500,000 protesters demonstrated peacefully in Washington on November 15, including a symbolic March Against Death",
+      "detail": "The two cached year pages give the October 15 turnout differently. The US year page says 15 million Americans marched and the year page says only that hundreds of thousands took part in demonstrations across the country, and this fact names both rather than choosing one. The music page describes the November 15 rally as 500,000 people and the largest antiwar rally in United States history, with Arlo Guthrie, Pete Seeger, Peter, Paul and Mary, Richie Havens and John Denver performing from the stage.",
+      "date": "1969-10-15",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "pol.silent_majority": {
+      "section": "politics",
+      "label": "Nixon's silent majority speech",
+      "value": "He addressed the nation on television and radio, asking the silent majority to stand with him on the war and to support his policies",
+      "detail": "Vice President Spiro Agnew denounced the president's critics as an effete corps of impudent snobs and nattering nabobs of negativism.",
+      "date": "1969-11-03",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "pol.my_lai": {
+      "section": "politics",
+      "label": "My Lai becomes public",
+      "value": "Lieutenant William Calley was charged on September 5 with six counts of premeditated murder over the deaths of 109 Vietnamese civilians at My Lai, and the independent investigative journalist Seymour Hersh broke the story on November 12",
+      "detail": "The killings had taken place in 1968. The Plain Dealer of Cleveland published explicit photographs of dead villagers, which the US year page dates to November 20 and the year page to November 19.",
+      "date": "1969-09-05",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "pol.draft_lottery": {
+      "section": "politics",
+      "label": "First US draft lottery since World War II",
+      "value": "September 14 came out first of the 366 days drawn, so men born on that date in the years from 1944 to 1951 would be summoned first",
+      "detail": "The US year page notes that men with a September 14 birthday marked it that year without knowing the date would be drawn first.",
+      "date": "1969-12-01",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "pol.fred_hampton": {
+      "section": "politics",
+      "label": "Fred Hampton and Mark Clark killed in a police raid",
+      "value": "The two Black Panther Party members were shot dead in their sleep during a raid by 14 Chicago police officers",
+      "detail": "Hampton was born in 1948.",
+      "date": "1969-12-04",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "world.de_gaulle_resigns": {
+      "section": "world",
+      "label": "De Gaulle steps down in France",
+      "value": "He left the presidency on April 28 after losing a constitutional referendum the day before, and Georges Pompidou was elected president on June 15",
+      "date": "1969-04-28",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "world.libya_coup": {
+      "section": "world",
+      "label": "Gaddafi takes power in Libya",
+      "value": "A bloodless coup ousted King Idris and brought Colonel Muammar Gaddafi to power",
+      "detail": "Gaddafi had visited Mecca on May 14.",
+      "date": "1969-09-01",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "Golda Meir became the first female prime minister of Israel, March 17",
+        "Ayub Khan resigned as president of Pakistan and handed power to Yahya Khan, March 25",
+        "Olof Palme replaced Tage Erlander as prime minister of Sweden, October 14",
+        "Willy Brandt became chancellor of West Germany, October 21",
+        "Siad Barre came to power in Somalia in a coup, October 21"
+      ],
+      "detail": "Yahya Khan imposed martial law on Pakistan on March 26. Brandt's Social Democrats and Walter Scheel's Free Democrats formed a coalition after the West German federal election of September 28, once the Social Democrats broke with Chancellor Kurt Georg Kiesinger's Christian Democratic Union. Siad Barre's coup came six days after the assassination of President Abdirashid Ali Shermarke. Suleyman Demirel formed a new Turkish government on November 3, the 31st.",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "world.sino_soviet": {
+      "section": "world",
+      "label": "Soviet and Chinese forces clash on the border",
+      "value": "They fought at a border outpost on the Ussuri River on March 2, and serious border clashes followed on August 13",
+      "date": "1969-03-02",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "world.northern_ireland": {
+      "section": "world",
+      "label": "British troops deployed in Northern Ireland",
+      "value": "Troops went in on August 14 to restore order after three days of political and sectarian violence, the start of Operation Banner, four months after troops had arrived on April 20 to reinforce the Royal Ulster Constabulary",
+      "detail": "The Reverend Ian Paisley, the Northern Irish Unionist leader who founded the Free Presbyterian Church of Ulster, was jailed for three months for illegal assembly on January 27.",
+      "date": "1969-08-14",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "world.hurricane_camille": {
+      "section": "world",
+      "label": "Hurricane Camille",
+      "value": "The Category 5 storm hit the Mississippi coast, killed 248 people and caused US$1.5 billion of damage in 1969 dollars",
+      "detail": "The US year page calls it the most powerful tropical cyclonic system at landfall in history.",
+      "date": "1969-08-17",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Butch Cassidy and the Sundance Kid, $29,200,000, 20th Century Fox",
+        "The Love Bug, $21,000,000, Buena Vista",
+        "Midnight Cowboy, $20,500,000, United Artists",
+        "Easy Rider, $16,900,000, Columbia",
+        "Hello, Dolly!, $15,000,000, 20th Century Fox"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Domestic rentals. Bob & Carol & Ted & Alice took sixth at $14,600,000, Paint Your Wagon and True Grit gave Paramount seventh and eighth, and A Boy Named Charlie Brown reached ninth at $12,000,000 for National General Pictures.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Midnight Cowboy, produced by Jerome Hellman",
+      "detail": "Awarded the following spring at the 42nd Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles with no official host for the second year running. Midnight Cowboy carried an X rating, the first X-rated film to take the award, and won three awards from seven nominations, among them Best Director for John Schlesinger and adapted screenplay for Waldo Salt. Anne of the Thousand Days led on nominations with ten, and Butch Cassidy and the Sundance Kid won the most awards with four, including William Goldman's original screenplay. They Shoot Horses, Don't They? set a record with nine nominations and none of them for Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/42nd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, John Wayne, True Grit",
+        "Best Actress, Maggie Smith, The Prime of Miss Jean Brodie",
+        "Best Supporting Actor, Gig Young, They Shoot Horses, Don't They?",
+        "Best Supporting Actress, Goldie Hawn, Cactus Flower"
+      ],
+      "detail": "Not one of the four winning performances came from a film nominated for Best Picture. Dustin Hoffman and Jon Voight were both nominated for Midnight Cowboy and neither won, and Jack Nicholson took his first nomination, for Easy Rider. Cary Grant received the Academy Honorary Award for his unique mastery of the art of screen acting, described as the most popular award of the evening. Fred Astaire danced on the broadcast for the first time, in a performance billed as impromptu and in fact scripted and rehearsed.",
+      "source": "https://en.wikipedia.org/wiki/42nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Z, directed by Costa-Gavras, submitted by Algeria",
+        "If...., directed by Lindsay Anderson, United Kingdom",
+        "Rani Radovi (Early Works), directed by Zelimir Zilnik, Yugoslavia"
+      ],
+      "detail": "Z won the Academy Award for Best Foreign Language Film and the Golden Globe in the same category, and took two Oscars from five nominations while also being nominated for Best Picture. If.... won the Palme d'Or at Cannes and Rani Radovi the Golden Bear at Berlin. The film page lists The Color of Pomegranates under August 29 and says it is now regarded as a landmark in film history, without saying what happened on that date and without naming a director, so it is left out of the list above. That page also records this as the last year of prize giving at the Venice Film Festival before a run of non-competitive editions.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_film"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases",
+      "value": [
+        "Midnight Cowboy, an X-rated John Schlesinger film, May 25",
+        "Butch Cassidy and the Sundance Kid, starring Paul Newman and Robert Redford, limited release September 23",
+        "A Boy Named Charlie Brown, the first feature film based on the Peanuts comic strip, December 4",
+        "Injun Trouble, September 20, the last Warner Bros. cartoon of the original theatrical Looney Tunes series"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Me, Natalie reached cinemas on July 13 with Al Pacino making his film debut, and Change of Habit on November 10 as the last film of Elvis Presley's career.",
+      "detail": "Louis F. Polk Jr. became president and chief executive of Metro-Goldwyn-Mayer on January 14, Kinney National Services acquired substantially all the assets of Warner Bros.-Seven Arts on July 8, and Kirk Kerkorian bought 24 percent of MGM on August 8 to become its biggest shareholder. Jack and Jill: A Postscript became the first feature film to receive an Australian Film Institute Award.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1969",
+      "value": [
+        "Rowan & Martin's Laugh-In, NBC, 26.3 rating",
+        "Gunsmoke, CBS, 25.9",
+        "Bonanza, NBC, 24.8",
+        "Mayberry R.F.D., CBS, 24.4",
+        "Family Affair, CBS, 24.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Marcus Welby, M.D. at eighth with a 23.7 was ABC's highest placement, and The Beverly Hillbillies had fallen to eighteenth at 21.7. Three programmes tied for fifteenth on a 21.8, My Three Sons on CBS, Ironside on NBC and The Johnny Cash Show on ABC.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1969%E2%80%9370"
+    },
+    "tv.moon_broadcast": {
+      "section": "tv",
+      "label": "Networks carry the Moon landing live",
+      "value": "All three commercial networks broadcast a live transmission from the Moon, and viewers saw a scan from the Honeysuckle Creek Tracking Station followed by Parkes Observatory in Australia",
+      "detail": "The television page puts the worldwide audience at 720 million while both year pages give an estimated 650 million for the moment Armstrong stepped out at 10:56 pm EDT, and this fact names both counts rather than picking one. The year page calls it the largest television audience for a live broadcast to that point.",
+      "date": "1969-07-20",
+      "source": "https://en.wikipedia.org/wiki/1969_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Johnny Cash Show, ABC, June 7",
+        "Hee Haw, CBS, June 15",
+        "H.R. Pufnstuf, NBC, September 6",
+        "Scooby-Doo, Where Are You!, CBS, September 13",
+        "Marcus Welby, M.D., ABC, September 23",
+        "The Brady Bunch, ABC, September 26",
+        "Sesame Street, NET, November 10"
+      ],
+      "detail": "The Courtship of Eddie's Father and Room 222 both started on ABC on September 17, Medical Center on CBS on September 24, and Love, American Style on ABC on September 29. Dastardly and Muttley in Their Flying Machines and The Perils of Penelope Pitstop joined Scooby-Doo on CBS on September 13. Frosty the Snowman had its first showing on CBS on December 7.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_American_television"
+    },
+    "tv.agnew_on_the_networks": {
+      "section": "tv",
+      "label": "Agnew attacks the network news",
+      "value": "The vice president used a televised speech from Des Moines to attack the network news commentaries, and stirred up a national controversy",
+      "detail": "Starting on September 8, all daytime programming on ABC and CBS was presented in colour.",
+      "date": "1969-11-13",
+      "source": "https://en.wikipedia.org/wiki/1969_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Sugar, Sugar, The Archies",
+        "Aquarius/Let the Sunshine In, The 5th Dimension",
+        "I Can't Get Next to You, The Temptations",
+        "Honky Tonk Women, The Rolling Stones",
+        "Everyday People, Sly and the Family Stone"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 27, compiled from the Hot 100 charts of January 4 through December 13. Sly and the Family Stone took fifth and seventh, Tommy James and the Shondells tenth and twelfth, and Creedence Clearwater Revival and Marvin Gaye each had three songs on the list. The Cowsills were thirteenth with Hair. The music page's summary traces Aquarius/Let the Sunshine In back to the 1967 stage musical Hair.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1969"
+    },
+    "music.woodstock": {
+      "section": "music",
+      "label": "Woodstock Festival",
+      "value": "Held on Max Yasgur's dairy farm at Bethel, New York, with Jimi Hendrix, Janis Joplin, The Who, The Band, Joan Baez, Crosby, Stills, Nash & Young, Jefferson Airplane, Santana, Country Joe and the Fish, Ten Years After and Sly & the Family Stone among the performers",
+      "detail": "The three cached pages describe it three ways. The music page dates it August 15 to 17 and puts it on Yasgur's farm at Bethel, near Woodstock. Both year pages give August 15 to 18, the year page locating it near White Lake, New York and the US year page saying only upstate New York. The caption on the year page's lead image puts the crowd at over 400,000. The Harlem Cultural Festival ran in New York City from June 29 to August 24, and the music page's summary calls it Black Woodstock.",
+      "date": "1969-08-15",
+      "source": "https://en.wikipedia.org/wiki/1969_in_music"
+    },
+    "music.altamont": {
+      "section": "music",
+      "label": "Altamont Free Concert",
+      "value": "Meredith Hunter was stabbed to death by Hells Angels at the Altamont Speedway concert hosted by the Rolling Stones",
+      "detail": "The music page's summary says the Hells Angels had been hired to provide security for the event. The US year page calls the concert an attempt at a Woodstock West.",
+      "date": "1969-12-06",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "music.beatles": {
+      "section": "music",
+      "label": "The Beatles play in public for the last time and finish Abbey Road",
+      "value": "They played on the roof of the Apple building at 3 Savile Row in London on January 30 and police stopped it early after neighbours complained about the noise, held their last studio session with all four present on August 20, and released Abbey Road in the United Kingdom on September 26",
+      "detail": "John Lennon, George Harrison and Ringo Starr hired Allen Klein as business manager on February 3 against Paul McCartney's wishes, and McCartney engaged Linda Eastman's father's law firm as counsel for Apple Records the next day. Iain Macmillan photographed the album cover at a north London zebra crossing near Abbey Road Studios on August 8. Lennon decided to leave the group for good after playing the Toronto Rock and Roll Revival with the Plastic Ono Band on September 13.",
+      "date": "1969-01-30",
+      "source": "https://en.wikipedia.org/wiki/1969_in_music"
+    },
+    "music.stones_hyde_park": {
+      "section": "music",
+      "label": "The Rolling Stones play Hyde Park two days after Brian Jones died",
+      "value": "A free concert in Hyde Park, London on July 5 as a tribute to Jones and the band's first with Mick Taylor, who had joined on June 13, with the crowd estimated at between 250,000 and 400,000",
+      "detail": "The band opened a United States tour at Fort Collins, Colorado on November 7.",
+      "date": "1969-07-05",
+      "source": "https://en.wikipedia.org/wiki/1969_in_music"
+    },
+    "tech.apollo_11": {
+      "section": "tech",
+      "label": "Apollo 11 lands two men on the Moon",
+      "value": "The Lunar Module Eagle came down on the surface at 3:17 pm ET on July 20, and Neil Armstrong took the first steps at 10:56 pm ET with Buzz Aldrin following soon afterwards",
+      "detail": "The mission lifted off from Cape Kennedy in Florida on July 16 with Armstrong, Aldrin and Michael Collins aboard. The three returned on July 24 and were put in biological isolation for several days in case they had brought back lunar germs.",
+      "date": "1969-07-20",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "tech.apollo_12": {
+      "section": "tech",
+      "label": "Apollo 12 makes the second Moon landing",
+      "value": "Launched on November 14 with Pete Conrad, Richard Gordon and Alan Bean, and Conrad and Bean landed at Oceanus Procellarum on November 19 as the third and fourth people to walk on the Moon",
+      "detail": "The spacecraft splashed down safely in the Pacific on November 24. The year page names the commander Pete Conrad in the launch entry and Charles Conrad in the landing entry.",
+      "date": "1969-11-14",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "tech.arpanet": {
+      "section": "tech",
+      "label": "First message sent between two computers on ARPANET",
+      "value": "Sent between the University of California, Los Angeles and SRI International in California at around 10:30 pm local time",
+      "detail": "The Request for Comments series had begun on April 7 with Network Working Group RFC 1, on ARPANET host software. The year page separately says the first ARPANET link was established on November 21, without reconciling that entry with the October 29 message between two connected computers, and this fact takes the dated October 29 line.",
+      "date": "1969-10-29",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "tech.unix": {
+      "section": "tech",
+      "label": "Unix invented",
+      "value": "Written under the possible name Unics, after Multics",
+      "detail": "No date, because the year page places it in the summer with no month or day and names nobody who worked on it.",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "tech.boeing_747": {
+      "section": "tech",
+      "label": "The Boeing 747 flies",
+      "value": "First flown on February 9 from the Boeing airfield at Everett, Washington, and it carried passengers for the first time on December 2, taking 191 people from Seattle to New York City, most of them reporters and photographers",
+      "date": "1969-02-09",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "tech.concorde": {
+      "section": "tech",
+      "label": "Concorde's first test flight",
+      "value": "Flown at Toulouse in France",
+      "date": "1969-03-02",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.35 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.60 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two men walking on the Moon in July, four hundred thousand people on a dairy farm in August, and birthdays drawn in order for the draft in December."
+    },
+    "culture.stonewall": {
+      "section": "culture",
+      "label": "Stonewall riots",
+      "value": "Rioting began in New York City, the start of the modern gay rights movement in the United States",
+      "detail": "Gay intercourse had been officially legalised in Canada the day before, on June 27.",
+      "date": "1969-06-28",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "culture.manson_murders": {
+      "section": "culture",
+      "label": "Manson Family murders in Los Angeles",
+      "value": "Members of the group entered the home of the film director Roman Polanski on August 9 on Charles Manson's orders and killed his pregnant wife, the actress Sharon Tate, along with four others, then killed Leno and Rosemary LaBianca the next day",
+      "detail": "The US year page names the other four dead at the Polanski house as Abigail Folger, Wojciech Frykowski, Jay Sebring and Steven Parent, and says more than 100 stab wounds were found on the victims apart from Parent, who was shot almost as soon as the group came onto the property. The year page has Manson allowed to defend himself at the Tate-LaBianca murder trial on December 24.",
+      "date": "1969-08-09",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "culture.alcatraz_occupation": {
+      "section": "culture",
+      "label": "Alcatraz Island occupied",
+      "value": "A group of American Indians led by Richard Oakes seized the island as a symbolic gesture and offered the federal government $24 for the property",
+      "detail": "The two cached pages disagree on the sequence. The US year page dates the seizure to November 9 and says a longer occupation began eleven days later, on November 20, run by a group calling itself Indians of All Tribes and lasting eighteen months. The year page instead has Oakes returning with ninety followers on November 19 to start an occupation of nineteen months. Both give the purpose as calling attention to US treaty obligations and Indian policy, and the US page treats the island as surplus federal land under the Fort Laramie treaty of 1868.",
+      "date": "1969-11-09",
+      "source": "https://en.wikipedia.org/wiki/1969_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Samuel Beckett",
+        "Peace, the International Labour Organization",
+        "Physics, Murray Gell-Mann",
+        "Chemistry, Derek Barton and Odd Hassel",
+        "Physiology or Medicine, Max Delbruck, Alfred Hershey and Salvador Luria",
+        "Economics, Ragnar Frisch and Jan Tinbergen"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Mets beat the Baltimore Orioles four games to one",
+      "detail": "Played from October 11 to 16. The US year page calls them the miracle Mets and the Orioles heavily favoured. Tom Seaver of the Mets was Associated Press Male Athlete of the Year.",
+      "date": "1969-10-16",
+      "source": "https://en.wikipedia.org/wiki/1969_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl III",
+      "value": "The New York Jets of the American Football League beat the National Football League's Baltimore Colts 16 to 7 at the Miami Orange Bowl, with 75,389 in the stands",
+      "detail": "Joe Namath was the game's most valuable player, and the sports page says the game is remembered for his guaranteeing a victory beforehand. The date is on the year page, which the sports page does not give.",
+      "date": "1969-01-12",
+      "source": "https://en.wikipedia.org/wiki/1969_in_sports"
+    },
+    "sports.laver_grand_slam": {
+      "section": "sports",
+      "label": "Rod Laver wins the tennis Grand Slam",
+      "value": "The Australian took the Australian Open, the French Open, Wimbledon and the US Open in the same year, for the second time in his career",
+      "detail": "Margaret Court won the Australian Open, the French Open and the US Open, and Ann Haydon-Jones took Wimbledon. The United States beat Romania 5 to 0 in the Davis Cup. Rafael Osuna died in an air crash, dated June 6 on the sports page and June 4 in the year page's list of deaths. Maureen Connolly, the first winner of the women's Grand Slam, died on June 21 at 34.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_sports"
+    },
+    "sports.baseball_expansion": {
+      "section": "sports",
+      "label": "Major League Baseball expands and splits into divisions",
+      "value": "The American League added the Kansas City Royals and the Seattle Pilots and the National League added the Montreal Expos and the San Diego Padres, taking both leagues to 12 teams, and each league was then divided into two divisions",
+      "detail": "The Montreal Expos were the first Major League team outside the United States. Mack Jones hit a three-run home run and a two-run triple in an 8 to 7 win over the St. Louis Cardinals at Jarry Park on April 14, the Expos' first home victory, and his home run was the first hit in a Major League game outside the United States. Mickey Mantle announced his retirement on March 1.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the St. Louis Blues, four games to none",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to three",
+        "NCAA basketball, UCLA 92, Purdue 72, a third consecutive title",
+        "European Cup, A.C. Milan 4, Ajax 1",
+        "FA Cup, Manchester City 1, Leicester City 0",
+        "Grey Cup, Ottawa Rough Riders 29, Saskatchewan Roughriders 11"
+      ],
+      "detail": "Eddy Merckx of Belgium won the Tour de France and Felice Gimondi of Italy the Giro d'Italia. George Archer won the Masters and Tony Jacklin the British Open, and the Ryder Cup was tied 16 all. Diana Crump became the first woman jockey to ride against men in United States racing on February 11, and Barbara Jo Rubin the first woman to win a race there on February 22. The swimmer Debbie Meyer was Associated Press Female Athlete of the Year.",
+      "source": "https://en.wikipedia.org/wiki/1969_in_sports"
+    },
+    "deaths.eisenhower": {
+      "section": "deaths",
+      "label": "Dwight D. Eisenhower",
+      "value": "Died March 28. Born 1890",
+      "detail": "US Army general and 34th President of the United States, who died after a long illness at the Walter Reed Army Medical Center in Washington. His body was taken by caisson to the Capitol Rotunda to lie in state on March 30.",
+      "date": "1969-03-28",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "deaths.garland": {
+      "section": "deaths",
+      "label": "Judy Garland",
+      "value": "Died June 22. Born 1922",
+      "detail": "American actress and singer. The film page adds that she died in London at 47 of an accidental barbiturate overdose, and the music page has her marrying Mickey Deans there on March 15.",
+      "date": "1969-06-22",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "deaths.jones": {
+      "section": "deaths",
+      "label": "Brian Jones",
+      "value": "Died July 3. Born 1942",
+      "detail": "British rock musician, found dead in the swimming pool at his home in Sussex almost a month after leaving the Rolling Stones, according to the music page.",
+      "date": "1969-07-03",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "deaths.ho_chi_minh": {
+      "section": "deaths",
+      "label": "Ho Chi Minh",
+      "value": "Died September 2. Born 1890",
+      "detail": "Vietnamese communist politician, the first prime minister and first president of North Vietnam, who died at the age of 79.",
+      "date": "1969-09-02",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    },
+    "deaths.kerouac": {
+      "section": "deaths",
+      "label": "Jack Kerouac",
+      "value": "Died October 21. Born 1922",
+      "detail": "American author.",
+      "date": "1969-10-21",
+      "source": "https://en.wikipedia.org/wiki/1969"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1969. figures_basis is rentals: the box office table's column header reads Rank, Title, Distributor, Domestic rentals, checked with bo.mjs rather than assumed from the era. Date check. The brief's rule applies to the inauguration, so pol.nixon_inauguration cites https://en.wikipedia.org/wiki/First_inauguration_of_Richard_Nixon, pulled as raw wikitext and the only source here from outside the cache. It gives Monday, January 20, 1969 at the East Portico of the United States Capitol, the 46th inauguration, Earl Warren administering the presidential oath and Everett Dirksen the vice presidential oath. January 20, 1969 was a Monday, which the calendar confirms, so the constraint holds and there is no disagreement to name, only a gap: the US year page has a one-line entry with no venue and no names, and the year page's event list carries the swearing-in without any of the rest. The dedicated article's forward-looking lines were left out, being the comparison to a later non-incumbent vice president and the note about Hail, Columbia. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that. The broadcast of the year that used radio, Nixon's November 3 address, went out on television and radio together, and pol.silent_majority says so because the US year page does. No film.ticket_price fact, because the movie ticket series carries a null for this year. The Nielsen ranking covers a season that began in the autumn of 1969 and ran into the following spring, which tv.top_shows states without naming a second year. ARPANET sits under tech.arpanet rather than a tech.internet id, because the tech.internet window does not open until 1993 and the availability check would reject the fact. Month-only or undated facts: tech.unix carries no date, because the year page puts the invention in the summer with no day and names nobody. Source disagreements labelled rather than resolved. Woodstock is August 15 to 17 at Max Yasgur's farm in Bethel on the music page, August 15 to 18 near White Lake on the year page, and August 15 to 18 in upstate New York on the US year page, and music.woodstock names all three. The Moon landing audience is 720 million on the television page and 650 million on both year pages, and tv.moon_broadcast names both. The October 15 Moratorium is 15 million Americans on the US year page and hundreds of thousands on the year page, and pol.moratorium names both. The My Lai photographs in The Plain Dealer are November 20 on the US year page and November 19 on the year page. The Alcatraz occupation is a November 9 seizure and a separate eighteen-month occupation from November 20 on the US year page, against Oakes returning with ninety followers on November 19 for nineteen months on the year page. The first ARPANET link is November 21 on the year page while the first message between two connected computers is October 29 on the same page, and tech.arpanet takes the October 29 entry and says so. Apollo 12's commander is Pete Conrad in one year-page entry and Charles Conrad in the next. Rafael Osuna's death is June 6 in the sports page's tennis section and June 4 in the year page's list of deaths, and sports.laver_grand_slam names both. The Chappaquiddick accident is July 18 on the US year page, with Mary Jo Kopechne dying in the early hours of July 19, against July 19 on the year page, so the texture says only that it happened in July. The USS Enterprise explosion killed 28 on the year page and 27 on the US year page, both giving 314 injured, so the texture carries the injury count and no death count. Facts drawing on more than one cached page, recorded here rather than left for a reader to notice. pol.moratorium cites the US year page and takes the November 15 performers from the music page. music.woodstock cites the music page and takes the August 15 to 18 span, the White Lake location and the over-400,000 crowd caption from the year pages. music.altamont cites the year page and takes the hired-security line from the music page's summary and the Woodstock West line from the US year page. culture.manson_murders cites the US year page and takes the December 24 self-representation from the year page. film.how_people_watched cites the film page, which is the only page carrying the MGM and Warner Bros.-Seven Arts ownership changes, the Al Pacino debut and the end of Elvis Presley's film career. film.other_releases cites the US year page for all four entries. deaths.garland and deaths.jones take their dates and birth years from the year page and name the page each piece of extra material came from. sports.world_series cites the sports page for the result and takes the October 11 to 16 span, the miracle line and the heavily favoured line from the year pages, and Tom Seaver's Athlete of the Year award from the sports page's awards list. sports.super_bowl cites the sports page for the venue, attendance and most valuable player and takes January 12 from the year page, which the fact states. sports.champions cites the sports page and takes the third consecutive UCLA title from the year page. Dropped for lack of a source that says enough, or to hold the section counts down: China's underground nuclear test of September 23, which the year page gives in one clause with no site and no yield, and which would have had to be parked in the detail of a border-conflict fact it has no stated connection to; the 41st Academy Awards of April 14, which honoured the previous year of film and would put a second Best Picture on the page; the 11th Grammy Awards of March 12, which honoured the previous year's recordings; Tinker v. Des Moines of February 24; the Football War between Honduras and El Salvador from July 14; the first successful docking of two crewed spacecraft, Soyuz 4 and Soyuz 5, on January 16, and the near-fatal Soyuz 5 re-entry of January 18; Venera 5 and Venera 6 reaching Venus on May 16 and 17; Mariner 6 launched February 24 and Mariner 7's Mars fly-by of August 5; the first temporary artificial heart, implanted by Denton Cooley on April 4; the charge-coupled device invented by Willard S. Boyle and George Smith at Bell Laboratories on October 17; the first US automatic teller machine, installed at Rockville Centre on September 2; the first published evidence of quarks on October 20; the attempted assassination of Leonid Brezhnev on January 22; the Baghdad hangings of January 27; Yasser Arafat's election as Palestine Liberation Organization leader on February 4; the Al-Aqsa Mosque fire of August 21 and the Rabat conference that followed; the founding of the Organisation of the Islamic Conference on September 25; Boris Spassky taking the world chess title on June 17; the Piazza Fontana bombing of December 12; the Barroteran coal mine disaster of March 31; the Portugal earthquake of February 28; the Beijing Subway opening on October 1; the SS United States withdrawn from service on November 14; Pele's 1,000th goal on November 19; the Eurovision Song Contest of March 29, which ended in a four-way tie; Nixon's visit to Romania on August 2 as the first by a sitting US president to a communist state since the start of the Cold War; the Turn-On cancellation after a single airing on February 5; the deaths of Boris Karloff on February 2, Rocky Marciano on August 31 in an air crash, Ludwig Mies van der Rohe and Otto Stern on August 17, Frank Loesser on July 28, Allen Dulles on January 29, Sharon Tate on August 9, whose killing is a culture fact instead, and Fred Hampton on December 4, whose killing is a politics fact instead. Texture material taken from the cached pages but given no fact of its own: Ariana Afghan Airlines Flight 701; Viasa Flight 742; the Melbourne and Frank E. Evans collision; Allegheny Airlines Flight 853; the USS Enterprise explosion; the Santa Barbara oil spill; the Harvard administration building seizure; the powder sprayed on Berkeley after People's Park; the last weekly Saturday Evening Post; the large-denomination bills withdrawn; the first Gap store; the incorporation of Wal-Mart; Dave Thomas's first restaurant; Chappaquiddick; Sirhan Sirhan's admission and conviction; James Earl Ray's guilty plea; the last new episode of Star Trek. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first and on television later, which film.how_people_watched implies without stating, and which comes out if challenged. Names and titles are written in ASCII per the corpus convention, so Nguyen Van Thieu, Zelimir Zilnik, Suleyman Demirel, Max Delbruck and Pele lose their diacritics, and If.... keeps its four full stops because that is the title. Deaths carry a birth year rather than an age, because the year page gives only the year; Ho Chi Minh's age at death is stated because the year page's event entry gives it. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for. Politics runs to 8 against the roughly 7 the brief suggests, which is inside what 1963 and 1964 already do, because the year carries the change of president, the turn in Vietnam policy and the My Lai disclosures at once."
+}

@@ -1,0 +1,478 @@
+{
+  "year": 1968,
+  "tier": "broadcast",
+  "headline": "Martin Luther King Jr. and Robert Kennedy were shot, Warsaw Pact tanks entered Prague, and Apollo 8 orbited the Moon",
+  "texture": [
+    "The ferry Wahine struck a reef at the mouth of Wellington Harbour on April 10 with the loss of 53 lives, in Cyclone Giselle, which produced the windiest conditions ever recorded in New Zealand. The Belice earthquake in Sicily killed 380 and injured around 1,000 on January 15. Ronan Point, a 23-floor tower block in Canning Town, partially collapsed after a gas explosion on May 16 and killed five. Two charter buses were forced into the Hida River in Japan on August 18 by heavy rain, killing 104. The Farmington Mine disaster in West Virginia killed 78 men on November 20.",
+    "Enoch Powell made his Rivers of Blood speech in Birmingham on April 20, deploring the effects of immigration, and was dismissed from the Shadow Cabinet the following day. The Commonwealth Immigrants Act had further reduced the right of entry for Commonwealth citizens on March 1. Baggeridge Colliery closed on March 2, ending over 300 years of coal mining in the Black Country. British Rail ran the last steam passenger service on August 11, the Fifteen Guinea Special, 120 miles from Liverpool to Carlisle and back. London Bridge was sold on April 18 to the American entrepreneur Robert P. McCulloch for reconstruction at Lake Havasu City in Arizona.",
+    "Eartha Kitt denounced the Vietnam War to Lady Bird Johnson at a White House crime conference on January 19. Benjamin Spock was indicted on January 5 for conspiracy to violate the draft laws, and the Catonsville Nine took draft records from a Selective Service office in Maryland on May 17 and burned them with napalm. Valerie Solanas shot Andy Warhol at The Factory on June 3, and he survived a five-hour operation. Jacqueline Kennedy married Aristotle Onassis on Skorpios on October 20. The Pennsylvania and New York Central railroads merged into Penn Central on February 1, the largest corporate merger to that date.",
+    "Highway patrolmen broke up a demonstration against a segregated bowling alley in Orangeburg on February 8 and killed three African American students, the first time police killed student protesters on an American campus. The Kerner Commission reported on February 29 on the causes of the 1967 race riots. Walter Cronkite showed his disdain for the war effort in a February 28 broadcast. Nerve gas leaked from the Dugway Proving Ground near Skull Valley in Utah on March 14. Yale announced on November 14 that it would admit women, and Elvis Presley taped a comeback special in Burbank that NBC aired on December 3."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.king_assassination",
+    "pol.rfk_assassination",
+    "pol.election",
+    "world.prague_spring",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Lyndon B. Johnson (D)",
+      "detail": "Hubert Humphrey was Vice President and became the Democratic nominee for president in August. Earl Warren was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 90th Congress was in session.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "pol.johnson_withdraws": {
+      "section": "politics",
+      "label": "Johnson announces he will not seek re-election",
+      "value": "Told the nation he would not run again, three weeks after edging out the antiwar candidate Eugene McCarthy in the New Hampshire Democratic primary on March 12",
+      "detail": "The US year page credits Walter Cronkite's broadcast of February 28, in which he showed his disdain for the war effort, with influencing the decision. Robert F. Kennedy had entered the race for the Democratic nomination on March 16. Johnson endorsed Humphrey and did not seek or accept another nomination.",
+      "date": "1968-03-31",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "pol.king_assassination": {
+      "section": "politics",
+      "label": "Martin Luther King Jr. assassinated in Memphis",
+      "value": "Shot at the Lorraine Motel at 6:01 pm CST and pronounced dead at St. Joseph's Hospital at 7:05 pm, aged 39",
+      "detail": "The date was checked against the dedicated article rather than copied from the year pages, and all three agree on April 4, a Thursday by the calendar. The two year pages give the motel and the city and nothing more; the times, the hospital and his age come from the dedicated article, which is what this fact cites. The pages disagree on the shooter: the 1968 year page states flatly that James Earl Ray shot him, while the dedicated article lists the perpetrators as disputed and calls Ray the alleged assassin, arrested at London's Heathrow Airport on June 8 and later sentenced to 99 years. King had come to Memphis for the sanitation strike that began on February 12 after two black waste collectors were crushed to death, and delivered his I've Been to the Mountaintop speech at Mason Temple on April 3. Riots followed in Washington, D.C., Chicago and Baltimore, and more than 40 people were killed during the month of protest.",
+      "date": "1968-04-04",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr."
+    },
+    "pol.rfk_assassination": {
+      "section": "politics",
+      "label": "Robert F. Kennedy assassinated in Los Angeles",
+      "value": "Shot at 12:15 am at the Ambassador Hotel by the 24-year-old Sirhan Sirhan, in a kitchen hallway after addressing supporters in the Embassy Ballroom, and died the following day at Good Samaritan Hospital, aged 42",
+      "detail": "He had won the California and South Dakota primaries the day before. The two year pages put the shooting on June 5 and the death the next day, which the year page's own deaths list confirms as June 6; the 12:15 am time, the Embassy Ballroom, the kitchen hallway, the hospital and the interval of nearly 25 hours come from the dedicated article, which this fact cites. The year page calls Sirhan Palestinian-born, the dedicated article a Palestinian Christian with anti-Zionist beliefs who testified that he killed Kennedy with 20 years of malice aforethought. Five other people were wounded.",
+      "date": "1968-06-05",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy"
+    },
+    "pol.civil_rights_act": {
+      "section": "politics",
+      "label": "Civil Rights Act of 1968",
+      "value": "Johnson signed it a week after the assassination in Memphis, prohibiting housing discrimination based on race",
+      "detail": "Passed with bipartisan congressional support. The US year page calls it John F. Kennedy's legacy, carried through by Johnson's expertise.",
+      "date": "1968-04-11",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "pol.chicago_convention": {
+      "section": "politics",
+      "label": "Police clash with protesters at the Democratic convention",
+      "value": "Officers fought antiwar demonstrators in Chicago outside the convention between August 22 and 30, which nominated Hubert Humphrey for president and Edmund Muskie for vice president",
+      "detail": "The Republican convention at Miami Beach had nominated Richard Nixon and Spiro Agnew between August 5 and 8. The year page ties the riots and the trials that followed to the activism of the Youth International Party.",
+      "date": "1968-08-22",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Richard Nixon beat Vice President Hubert Humphrey and the American Independent Party candidate George Wallace",
+      "detail": "The date has a checkable internal constraint and it holds: November 1 fell on a Friday, so the first Monday was November 4 and the Tuesday after it was November 5, which is the date both year pages give. Nixon campaigned on a promise of peace with honor and an appeal to what he called the silent majority. The US year page reads Wallace's strong showing as a measure of continuing racial division. Luis A. Ferre of the newly formed New Progressive Party was elected Governor of Puerto Rico the same day, the island's first statehooder governor.",
+      "date": "1968-11-05",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "pol.bombing_halt": {
+      "section": "politics",
+      "label": "Johnson halts the bombing of North Vietnam",
+      "value": "Announced a complete cessation of all air, naval, and artillery bombardment of North Vietnam, effective November 1, citing progress in the Paris peace talks that had begun on May 13",
+      "detail": "The Department of Defense had announced on October 14 that the Army and Marines would send about 24,000 troops back to Vietnam for involuntary second tours. Operation Commando Hunt began in November to interdict the Ho Chi Minh trail through Laos, and dropped 3 million tons of bombs on Laos before it ended. The year page dates the start of Commando Hunt to November 15 and the US year page to November 11.",
+      "date": "1968-10-31",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.tet_offensive": {
+      "section": "world",
+      "label": "Tet Offensive",
+      "value": "Viet Cong forces launched surprise attacks across South Vietnam on January 30, attacked the United States embassy in Saigon on January 31, and were halted on February 24 when South Vietnam recaptured Hue",
+      "detail": "The Battle of Khe Sanh had opened on January 21 and ran to April 8. Nguyen Ngoc Loan, a South Vietnamese national police chief, summarily executed the Viet Cong officer Nguyen Van Lem on February 1, and Eddie Adams photographed it; the year page says the picture made headlines around the world and swayed American opinion against the war. The First Battle of Saigon ended on March 7 and the offensive itself came to an end on September 23.",
+      "date": "1968-01-30",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.prague_spring": {
+      "section": "world",
+      "label": "Prague Spring ended by a Warsaw Pact invasion",
+      "value": "Alexander Dubcek was chosen leader of the Communist Party of Czechoslovakia on January 5, and 750,000 Warsaw Pact troops with 6,500 tanks and 800 aircraft invaded the country over August 20 and 21",
+      "detail": "The year page calls it the largest military operation in Europe since the end of World War II. Albania formally withdrew from the Warsaw Pact on September 13 over the invasion, having stopped taking active part in 1962. Protests were heard at the Proms in London on the evening of August 21 when the USSR Symphony Orchestra played with Mstislav Rostropovich as soloist.",
+      "date": "1968-08-20",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.may_68": {
+      "section": "world",
+      "label": "May 1968 in France",
+      "value": "Authorities closed the Nanterre campus of the University of Paris on May 2, students began fighting police in the streets on May 6, and the main left trade union federations called a one-day general strike on May 13 and joined a million-strong march through Paris",
+      "detail": "Daniel Cohn-Bendit and seven other students had occupied the administration building at Nanterre on March 22. The Grenelle agreements of May 27 offered a large increase in minimum wages and were rejected by the unions. De Gaulle left Paris on May 29 without telling his prime minister Georges Pompidou where he was going, in fact to the French Forces in Germany headquarters at Baden-Baden to assure himself of military support, and called an election on May 30. The Gaullist Union pour la defense de la Republique won an absolute majority in the legislative election of June 23 to 30, the first party in French political history to do so, and Pompidou resigned afterwards.",
+      "date": "1968-05-02",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.my_lai": {
+      "section": "world",
+      "label": "My Lai massacre",
+      "value": "American troops killed between 347 and 504 unarmed civilians in South Vietnam",
+      "detail": "The year page gives the range and says the killings were initially covered up as a military victory. The US year page says only that American troops killed scores of civilians.",
+      "date": "1968-03-16",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.tlatelolco": {
+      "section": "world",
+      "label": "Tlatelolco massacre",
+      "value": "A student demonstration at La Plaza de las Tres Culturas in Mexico City ended in bloodshed ten days before the Olympic Games opened in the same city, with an estimated 300 to 400 killed",
+      "detail": "Student demonstrations had also run through the year in Yugoslavia from June 2, in Poland, where the first protests of the political crisis broke out on March 8, and in Brazil, where police shot the high school student Edson Luis de Lima Souto on March 28 at a protest over the price of meals at a restaurant for low-income students, 28 died in a demonstration outside the Jornal do Brasil building in Rio de Janeiro on June 21, and the March of the One Hundred Thousand filled the streets of Rio on June 26.",
+      "date": "1968-10-02",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.pueblo": {
+      "section": "world",
+      "label": "North Korea seizes the USS Pueblo",
+      "value": "Took the ship on January 23, claiming it had violated North Korean territorial waters while spying, and released the crew on December 23 after 11 months in captivity",
+      "detail": "The seizure date and the claim come from the year page, which spells the charge as violating territorial waters; the US year page says invaded. The release date comes from the US year page.",
+      "date": "1968-01-23",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that became independent",
+      "value": [
+        "Nauru, declared independent from Australia, Britain and New Zealand by president Hammer DeRoburt, January 31",
+        "Mauritius, from British rule, March 12",
+        "Swaziland, from the United Kingdom, September 6",
+        "Equatorial Guinea, from Spain, October 12"
+      ],
+      "detail": "Nigerian forces captured Port Harcourt on May 19 and closed a ring around the Biafrans, which the year page says worsened a humanitarian disaster among a population already starving. Modibo Keita's government in Mali was overthrown in a bloodless coup led by Moussa Traore on November 19.",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "world.nuclear": {
+      "section": "world",
+      "label": "A nonproliferation treaty and a French hydrogen bomb",
+      "value": "The Nuclear Non-Proliferation Treaty opened for signature on July 1, and France exploded its first hydrogen bomb in the Canopus test at Fangataufa atoll in French Polynesia on August 24",
+      "detail": "An American B-52 Stratofortress crashed in Greenland near Thule Air Base on January 21 carrying four nuclear bombs, which the US year page says did not explode. The Boxcar device was tested at the Nevada Test Site on April 26, the biggest detonation of Operation Crosstie. The Soviet Union tested at Semipalatinsk in eastern Kazakhstan on January 18.",
+      "date": "1968-07-01",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Funny Girl, $24,900,000, Columbia",
+        "2001: A Space Odyssey, $21,500,000, MGM",
+        "The Odd Couple, $20,000,000, Paramount",
+        "Bullitt, $19,000,000, Warner Bros.",
+        "Oliver!, $16,800,000, Columbia"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Domestic rentals, and the sentence above it on the same page calls the figures box office gross in North America; the file follows the header. The US year page separately calls the Stanley Kubrick film ranked second here the most profitable of the year at $56.7 million, a figure more than double its rentals line and on a different basis, which is why the two pages appear to rank the year differently.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Oliver!, produced by John Woolf",
+      "detail": "Awarded the following spring at the 41st Academy Awards, the first staged at the Dorothy Chandler Pavilion in Los Angeles and the first with no host since the 20th Academy Awards. Oliver! led the field with 11 nominations and won five, including Best Director for Carol Reed, and Onna White took an honorary award for its choreography, handed to her by the ten-year-old Mark Lester who played the title role. It is the only Best Picture winner to have carried a G rating before it won. Nominees were announced on February 24 of the following year.",
+      "source": "https://en.wikipedia.org/wiki/41st_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Cliff Robertson, Charly",
+        "Best Actress, tie, Katharine Hepburn, The Lion in Winter, and Barbra Streisand, Funny Girl",
+        "Best Supporting Actor, Jack Albertson, The Subject Was Roses",
+        "Best Supporting Actress, Ruth Gordon, Rosemary's Baby"
+      ],
+      "detail": "The first and so far only tie for Best Actress, and the third tie in Oscar history. Hepburn became the second actress to win an acting Oscar two years running, after Guess Who's Coming to Dinner the previous year, and the first performer to win three in lead categories. Gordon was 72 and told the audience she could not say how encouraging a thing like this is. Robertson's win drew complaints, with Time reporting within two weeks that many Academy members thought it rested more on promotion than on performance. Mel Brooks won Original Screenplay for The Producers, and Stanley Kubrick took the only Oscar of his career, for visual effects.",
+      "source": "https://en.wikipedia.org/wiki/41st_Academy_Awards"
+    },
+    "film.mpaa_ratings": {
+      "section": "film",
+      "label": "The MPAA rating system replaces the Hays Code",
+      "value": "The Motion Picture Association of America introduced its film rating system, ending the Hays Code that had governed American releases",
+      "detail": "The film page records only that the rating system was introduced on this date. That it replaced the old Hays Code comes from the 41st Academy Awards page, which notes the change in explaining that Oliver! carried a G rating when it won Best Picture.",
+      "date": "1968-11-01",
+      "source": "https://en.wikipedia.org/wiki/1968_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Festival prizes and the foreign-language Oscar",
+      "value": [
+        "Palme d'Or, Cannes, canceled because of the events of May 1968",
+        "Golden Lion, Venice, Die Artisten in der Zirkuskuppel: Ratlos, directed by Alexander Kluge, West Germany",
+        "Golden Bear, Berlin, Ole dole doff, directed by Jan Troell, Sweden",
+        "Academy Award for Best Foreign Language Film, War and Peace, Soviet Union"
+      ],
+      "detail": "The Venice winner is translated on the film page as Artists under the Big Top: Perplexed and the Berlin winner as Who Saw Him Die?. Gillo Pontecorvo was nominated for Best Director for The Battle of Algiers, which also took a screenplay nomination.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Planet of the Apes reached cinemas on April 3, Rosemary's Baby premiered on June 12, and Night of the Living Dead premiered on October 1.",
+      "detail": "Stanley Kubrick's space film premiered in Washington, D.C. on April 2. Oliver! opened in the United States on December 11, having been released in Britain first. The 40th Academy Awards, honouring the previous year of film, were held on April 10 at the Santa Monica Civic Auditorium with Bob Hope hosting, and In the Heat of the Night won five awards including Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1968",
+      "value": [
+        "Rowan & Martin's Laugh-In, NBC, 31.8 rating",
+        "Gomer Pyle, U.S.M.C., CBS, 27.2",
+        "Bonanza, NBC, 26.6",
+        "Mayberry R.F.D., CBS, 25.4",
+        "Family Affair, CBS, 25.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Julia, in its first season, sat seventh at 24.6, one place above The Dean Martin Show. Gunsmoke had climbed back to sixth at 24.9. The Smothers Brothers Comedy Hour was twenty-seventh at 20.6 and The Mod Squad tied for twenty-eighth at 20.5.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1968%E2%80%9369"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Rowan & Martin's Laugh-In, NBC, January 22",
+        "Mister Rogers' Neighborhood, NET, February 19",
+        "One Life to Live, ABC, July 15",
+        "Julia, NBC, September 17",
+        "Hawaii Five-O, CBS, September 20",
+        "60 Minutes, CBS, September 24"
+      ],
+      "detail": "Adam-12 began on NBC on September 21, The Mod Squad and The Doris Day Show on September 24, and The Archie Show and Wacky Races on CBS on September 14. Black Journal started on NET on June 12 and Soul! on WNDT on September 12. WABC-TV launched the Eyewitness News format on November 17 for its news director Al Primo. The Man from U.N.C.L.E. ended on NBC on January 15, and the last new episode of The Monkees aired on March 25.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_American_television"
+    },
+    "tv.heidi_game": {
+      "section": "tv",
+      "label": "The Heidi Game",
+      "value": "NBC cut away from the last 1:05 of an American Football League game between the Oakland Raiders and the New York Jets to start a scheduled broadcast of the film Heidi, and viewers missed two Oakland touchdowns that turned a 32 to 29 deficit into a 43 to 32 win",
+      "detail": "Thousands of football viewers flooded the network switchboards to protest.",
+      "date": "1968-11-17",
+      "source": "https://en.wikipedia.org/wiki/1968_in_American_television"
+    },
+    "tv.olympics_in_colour": {
+      "section": "tv",
+      "label": "Both Olympics carried in colour",
+      "value": "ABC's coverage of the Winter Games at Grenoble from February 6 was the first Olympics of either kind telecast in colour on an American network, and its coverage of the Mexico City Summer Games from October 12 to 27 was the first Summer Games in colour in the United States",
+      "detail": "The television page also records that American manufacturers made the last round-screen colour sets during the year.",
+      "date": "1968-02-06",
+      "source": "https://en.wikipedia.org/wiki/1968_in_American_television"
+    },
+    "tv.broadcasts_from_space": {
+      "section": "tv",
+      "label": "Television from a spacecraft",
+      "value": "The first live television broadcast from a spacecraft in orbit went out during Apollo 7 on October 14, one of six broadcasts across the eleven-day mission, and the Apollo 8 reading from the Book of Genesis was telecast on December 24 through the Intelsat 3 satellite",
+      "detail": "COMSAT put the Intelsat satellite into operation a week ahead of schedule so audiences outside the United States could follow the flight, and the reading reached over thirty countries across the Americas and Europe. It was the fourth broadcast from the Apollo 8 spacecraft.",
+      "date": "1968-10-14",
+      "source": "https://en.wikipedia.org/wiki/1968_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Hey Jude, The Beatles",
+        "Love is Blue, Paul Mauriat",
+        "Honey, Bobby Goldsboro",
+        "(Sittin' On) The Dock of the Bay, Otis Redding",
+        "People Got to Be Free, The Rascals"
+      ],
+      "detail": "Compiled from the Hot 100 charts dated January 6 through December 14 and published in the Billboard issue of the following January. Gary Puckett & The Union Gap had four songs on the list, more than any other act, and Aretha Franklin three. The two cached pages do not agree on the order: the music page prints a points-based reconstruction that puts Marvin Gaye's I Heard It Through the Grapevine second, and that record does not appear anywhere on the Billboard year-end list this fact cites. Diana Ross & The Supremes replaced Hey Jude at number one on November 17 with Love Child, the last of five turnovers at number one between the two acts.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1968"
+    },
+    "music.white_album": {
+      "section": "music",
+      "label": "The Beatles release The White Album",
+      "value": "The double album titled simply The Beatles came out on the same day as The Kinks Are the Village Green Preservation Society",
+      "detail": "Recording had begun on May 30 and the sessions ran more than four months, ending on October 14. John Lennon and Paul McCartney had introduced Apple Corps at a New York press conference on May 14, describing a company with a recording studio, a record label and a clothing store. Lennon and Yoko Ono's Unfinished Music No. 1: Two Virgins was released in the United States on November 11, three days after his divorce from Cynthia Lennon, and flopped. The group, with Mike Love, Mia Farrow and Donovan, had gone to Rishikesh in India on February 16 to visit Maharishi Mahesh Yogi.",
+      "date": "1968-11-22",
+      "source": "https://en.wikipedia.org/wiki/1968_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "10th Annual Grammy Awards",
+      "value": "Sgt. Pepper's Lonely Hearts Club Band won Album of the Year, the first rock LP to take the award, The 5th Dimension's Up, Up and Away won both Record of the Year and Song of the Year, and Bobbie Gentry won Best New Artist",
+      "detail": "Held across Chicago, Los Angeles, Nashville and New York, hosted by Stan Freberg.",
+      "date": "1968-02-29",
+      "source": "https://en.wikipedia.org/wiki/1968_in_music"
+    },
+    "music.hair": {
+      "section": "music",
+      "label": "Hair opens on Broadway",
+      "value": "The rock musical opened at the Biltmore Theatre",
+      "detail": "The music page dates the opening to April 29 and names the venue; the US year page says only that the musical officially opened on Broadway that day. The first performance of an Andrew Lloyd Webber and Tim Rice musical had taken place on March 1, when pupils of a London private school performed Joseph and the Amazing Technicolor Dreamcoat in its original form as a pop cantata.",
+      "date": "1968-04-29",
+      "source": "https://en.wikipedia.org/wiki/1968_in_music"
+    },
+    "music.bands_formed_and_broken": {
+      "section": "music",
+      "label": "Bands that started and bands that stopped",
+      "value": "Led Zeppelin played for the first time as The New Yardbirds on September 7, two months after the Yardbirds disbanded on July 7, and Cream played a farewell concert at the Royal Albert Hall on November 26",
+      "detail": "The two cached pages disagree on Led Zeppelin's first performance: the music page gives September 7 under the New Yardbirds billing, and the year page gives October 25 at Surrey University. Buffalo Springfield played together for the last time in Long Beach on May 5. Small Faces broke up on December 31 when Steve Marriott walked off the stage. David Gilmour joined Pink Floyd on February 18 in place of Syd Barrett, whose departure the group announced on April 6.",
+      "date": "1968-09-07",
+      "source": "https://en.wikipedia.org/wiki/1968_in_music"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Apollo 6, the second and last uncrewed test flight of the Saturn V, launched April 4",
+        "Zond 5 returned to Earth on September 21 from an uncrewed Soviet lunar flyby with its biological payload intact",
+        "Apollo 7 launched October 11 with Wally Schirra, Donn Eisele and Walter Cunningham, the first crewed Apollo mission",
+        "Apollo 8 launched December 21 and entered orbit around the Moon on December 24 with Frank Borman, Jim Lovell and William Anders"
+      ],
+      "detail": "The Apollo 8 crew were the first humans to see the far side of the Moon and the Earth whole, and travelled further from Earth than anyone before them. Anders photographed Earthrise. NASA revealed on November 12 that the flight would go to lunar orbit, and the crew answered reporters' questions at the Manned Spacecraft Center in Houston on November 16. Surveyor 7 had launched on January 6, the last of the uncrewed probes sent to soft-land on the Moon.",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "tech.computing": {
+      "section": "tech",
+      "label": "Computing",
+      "value": "Johnson ordered on March 11 that every computer bought by the federal government support ASCII character encoding, and Intel was founded on July 18 in what came to be called the Silicon Valley of California",
+      "detail": "The dates come from the US year page, which carries both; the Silicon Valley wording is from the year page.",
+      "date": "1968-03-11",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "tech.engelbart_demo": {
+      "section": "tech",
+      "label": "The Mother of All Demos",
+      "value": "Douglas Engelbart publicly demonstrated his hypertext system NLS in San Francisco, together with the computer mouse",
+      "detail": "The name came later. The US year page records the demonstration without the mouse or the nickname, both of which are on the year page.",
+      "date": "1968-12-09",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "tech.heart_transplants": {
+      "section": "tech",
+      "label": "Heart transplants on two continents",
+      "value": "N. E. Shumway performed the first adult cardiac transplant in the United States on January 6, and surgeons at the Hopital de la Pitie in Paris performed Europe's first heart transplant on April 23, on Clovis Roblain",
+      "detail": "The American operation comes from the US year page and the Paris one from the year page, which names the patient.",
+      "date": "1968-01-06",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.34 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.60 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A civil rights leader shot in April and a presidential candidate shot in June, tanks in Prague and police fighting demonstrators outside a Chicago convention hall in the same August week, and a Christmas Eve reading broadcast from lunar orbit."
+    },
+    "culture.miss_america_protest": {
+      "section": "culture",
+      "label": "Protest against the Miss America pageant",
+      "value": "About 150 members of New York Radical Women arrived in Atlantic City to picket the pageant as exploitative of women, led by Robin Morgan",
+      "detail": "The US year page calls it one of the first large demonstrations of second wave feminism and the point at which women's liberation began attracting press attention.",
+      "date": "1968-09-07",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "culture.humanae_vitae": {
+      "section": "culture",
+      "label": "Humanae vitae",
+      "value": "Pope Paul VI published the encyclical, restating the Catholic Church's opposition to artificial birth control",
+      "date": "1968-07-25",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Yasunari Kawabata",
+        "Peace, Rene Cassin",
+        "Physics, Luis Walter Alvarez",
+        "Chemistry, Lars Onsager",
+        "Physiology or Medicine, Robert W. Holley, Har Gobind Khorana and Marshall W. Nirenberg"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Detroit Tigers beat the St. Louis Cardinals four games to three after trailing three games to one, winning the seventh game 4 to 1",
+      "detail": "Mickey Lolich was the series MVP. The US year page calls the Cardinals heavily favoured behind Bob Gibson. Jose Feliciano sang a personalised, slow, Latin jazz version of The Star-Spangled Banner at Tiger Stadium before game five on October 7, which the US year page calls highly controversial and the music page calls the first performance of the anthem in a different style.",
+      "date": "1968-10-10",
+      "source": "https://en.wikipedia.org/wiki/1968_in_the_United_States"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Olympic Games",
+      "value": "Mexico City held the Summer Games from October 12 to 27, where the United States won the most medals with 107 and the most golds with 45, and Grenoble held the Winter Games from February 6 to 18, where Norway took the most medals with 14 and the most golds with 6",
+      "detail": "Tommie Smith and John Carlos raised their fists in a Black Power salute on October 16 after taking gold and bronze in the men's 200 metres, with the support of the Australian silver medallist Peter Norman. Bob Beamon broke the long jump world record by 55 centimetres on October 18. Pakistan took the men's field hockey gold ahead of Australia and India.",
+      "date": "1968-10-12",
+      "source": "https://en.wikipedia.org/wiki/1968_in_sports"
+    },
+    "sports.pitching_records": {
+      "section": "sports",
+      "label": "Two pitching records in one season",
+      "value": "Denny McLain of the Detroit Tigers won 30 or more games, the first to do it since Dizzy Dean in 1934, and Bob Gibson of the St. Louis Cardinals recorded a 1.12 earned run average, a live-ball era record and the major league record over 300 or more innings pitched",
+      "detail": "McLain was Associated Press Male Athlete of the Year. Jim Northrup of the Tigers hit grand slams in consecutive at-bats on June 24, in the fifth and sixth innings. The Kansas City Athletics moved to Oakland during the year.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_sports"
+    },
+    "sports.open_era": {
+      "section": "sports",
+      "label": "The open era begins in tennis",
+      "value": "All four Grand Slam events admitted professionals for the first time",
+      "detail": "Rod Laver beat Tony Roche in the Wimbledon men's singles and Ken Rosewall beat Laver for the French title. Billie Jean King won the Wimbledon women's singles over Judy Tegart Dalton and the Australian over Margaret Smith Court, then lost the American final to Virginia Wade. Arthur Ashe beat Tom Okker 14 to 12 in the first set on the way to the American men's title. The sports page gives no date for the change, only the year.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Super Bowl II, Green Bay Packers 33, Oakland Raiders 14, at the Miami Orange Bowl before 75,546",
+        "Stanley Cup, Montreal Canadiens over the St. Louis Blues, four games to none",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to two",
+        "NCAA basketball, UCLA 78, North Carolina 55",
+        "European Championship, Italy beat Yugoslavia 2 to 0 in a replay after a 1 to 1 final",
+        "FA Cup, West Bromwich Albion 1, Everton 0, after extra time",
+        "Heisman Trophy, O. J. Simpson of USC"
+      ],
+      "detail": "Manchester United won the European Cup Final on May 29, the first English club to do so, eleven days after Manchester City took the First Division by two clear points over them. Bob Goalby won the Masters after Roberto DeVicenzo signed for a 4 instead of a 3 at the seventeenth hole. Eddy Merckx won the Giro d'Italia and Jan Janssen the Tour de France. Lee Trevino became the first golfer to shoot in the sixties in every round of the US Open. Peggy Fleming was world figure skating champion and Associated Press Female Athlete of the Year.",
+      "source": "https://en.wikipedia.org/wiki/1968_in_sports"
+    },
+    "deaths.gagarin": {
+      "section": "deaths",
+      "label": "Yuri Gagarin",
+      "value": "Died March 27. Born 1934",
+      "detail": "Soviet cosmonaut, the first human in space, killed in the crash of a test plane.",
+      "date": "1968-03-27",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "deaths.keller": {
+      "section": "deaths",
+      "label": "Helen Keller",
+      "value": "Died June 1. Born 1880",
+      "detail": "American activist and spokeswoman for the deaf and blind.",
+      "date": "1968-06-01",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "deaths.hahn": {
+      "section": "deaths",
+      "label": "Otto Hahn",
+      "value": "Died July 28. Born 1879",
+      "detail": "German chemist and Nobel laureate, credited on the year page with the discovery of nuclear fission. Lise Meitner, credited on the same page with the same discovery, died on October 27, born 1878.",
+      "date": "1968-07-28",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "deaths.sinclair": {
+      "section": "deaths",
+      "label": "Upton Sinclair",
+      "value": "Died November 25. Born 1878",
+      "detail": "American writer.",
+      "date": "1968-11-25",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    "deaths.steinbeck": {
+      "section": "deaths",
+      "label": "John Steinbeck",
+      "value": "Died December 20. Born 1902",
+      "detail": "American writer and Nobel laureate in literature.",
+      "date": "1968-12-20",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1968, with two dedicated articles pulled as raw wikitext for the date checks. One validator failure is left in place on purpose. validate-data reports anachronism: film.gross.value[1] contains 2001, later than 1968. The token is the title of the year's second highest earning film, 2001: A Space Odyssey, and a year inside a title is a proper noun rather than a claim about when something happened, which is the reasoning the check's own carve-out states. That carve-out is written narrowly for the revue convention, matching only the film section, only the very next year, and only the of YYYY shape, so a title carrying a distant year falls outside it. The brief for this file forbids editing the validators and says to leave a wrong check failing and report it, so the title stays written correctly and the check stays untouched. The title appears exactly once in the file, in film.gross, and film.acting_awards and film.how_people_watched refer to the same picture by its director to hold the failure to a single line. figures_basis is rentals: bo.mjs reports the box office table's column header as Rank, Title, Distributor, Domestic rentals, checked rather than assumed from the era. The sentence directly above that table on the same page calls the figures box office gross in North America, and film.gross names the contradiction rather than picking a side. Separately, the US year page calls 2001: A Space Odyssey the most profitable film of the year at $56.7 million, which is more than double the $21,500,000 the rentals table gives it and sits second there behind Funny Girl; film.gross records both figures and labels the basis rather than reconciling them. Date checks. The election has a checkable internal constraint and it holds: November 1 fell on a Friday, so the first Monday was November 4 and the Tuesday after it was November 5, which is what both year pages give, and pol.election states the check. The two assassinations were checked against their dedicated articles. https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr. agrees with both year pages on April 4, a Thursday by the calendar, and adds the 6:01 pm CST time, St. Joseph's Hospital, the 7:05 pm pronouncement and King's age of 39, none of which the year pages carry; the one real disagreement is the shooter, since the 1968 year page states flatly that James Earl Ray shot him while the dedicated article lists the perpetrators as disputed and calls Ray the alleged assassin, and pol.king_assassination names that split and cites the dedicated article. https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy agrees with both year pages that the shooting was on June 5 and the death the following day, which the year page's own deaths list puts at June 6, and adds the 12:15 am time, the Embassy Ballroom, the kitchen hallway, Good Samaritan Hospital, the interval of nearly 25 hours, Kennedy's age of 42 and Sirhan's age of 24; pol.rfk_assassination cites it and notes that the year page calls Sirhan Palestinian-born where the dedicated article calls him a Palestinian Christian with anti-Zionist beliefs. The November 1 MPAA rating date was not checked against a dedicated article because it has no internal constraint to check and two cached pages agree on it: the film page's events list and the 41st Academy Awards page, which is where the claim that the system replaced the Hays Code comes from. No radio fact, because the radio window closed after 1959, and this file writes none rather than smuggling radio material into another section; the year's radio-shaped material stays out of the fact list too, with the Elvis comeback special of December 3 in texture and the filming of The Rolling Stones Rock and Roll Circus on December 11 recorded only here, since the US year page says it was not released for decades. No film.ticket_price fact, because the movie ticket series has a null for this year and for the two either side of it. The Nielsen ranking covers a season that began in the autumn of 1968 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved: the year-end singles chart, where the Billboard list this file cites has Hey Jude, Love is Blue, Honey, The Dock of the Bay and People Got to Be Free in the top five while the music page prints a points-based reconstruction putting Marvin Gaye's I Heard It Through the Grapevine second, a record absent from the Billboard list altogether, so music.hot100_year_end cites the Billboard list and names the gap; Led Zeppelin's first performance, September 7 as The New Yardbirds on the music page against October 25 at Surrey University on the year page, both given in music.bands_formed_and_broken; the start of Operation Commando Hunt, November 15 on the year page and November 11 on the US year page, with pol.bombing_halt using neither as its own date and naming both; the My Lai toll, between 347 and 504 on the year page and scores of civilians on the US year page; the USS Pueblo charge, violated territorial waters on the year page and invaded them on the US year page. Facts drawing on more than one cached page, recorded here rather than left for a reader to notice. pol.king_assassination takes the Memphis sanitation strike and the Mountaintop speech from the US year page and the riot cities and the figure of more than 40 dead from the same page's opening section. world.pueblo takes the seizure from the year page and the December 23 release from the US year page. world.nuclear takes the treaty and the Canopus test from the year page, the Thule crash detail that the bombs did not explode from the US year page, and the Semipalatinsk test from the US year page. tech.computing takes both the ASCII order and the founding of Intel from the US year page and the Silicon Valley wording from the year page. tech.engelbart_demo cites the year page because only that page names the mouse and the nickname. tech.heart_transplants takes the American operation from the US year page and the Paris one from the year page. film.how_people_watched cites the US year page because the film page's events list runs to only three entries and carries none of the release dates; the Rosemary's Baby premiere of June 12 is the one release date the film page does carry, and it agrees. film.world_cinema cites the film page for the three festival outcomes and the foreign-language Oscar, and takes the Best Director and Original Screenplay nominations for The Battle of Algiers from the 41st Academy Awards page. film.mpaa_ratings cites the film page for the November 1 date and takes the replacement of the Hays Code from the 41st Academy Awards page. sports.world_series takes the comeback, the score and the Feliciano anthem from the US year page and the Lolich MVP line from the sports page. Dropped for lack of a source that says enough, or for want of a date: the Khmer Rouge's formation, the Prudhoe Bay oil field, the drainage of the Flevopolder and the arrival of HIV in the United States, all undated on their pages; the Censored Eleven cartoons pulled by United Artists, undated; the founding of the Cincinnati Bengals and the Phoenix Suns; the Motorsport section, which is a bare link to a list. Dropped to hold section counts down rather than for want of a source: the Orangeburg Massacre of February 8, the Kerner Commission report of February 29 and Yale's announcement of November 14, all moved to texture; the opening of Madison Square Garden on February 11; the Glenville Shootout of July 23 to 28; the Columbia University occupation of April 23 to 30 and the Howard University sit-in of March 19 to 23; the shootout between Black Panthers and Oakland police on April 6 in which the 17-year-old Bobby Hutton was killed; the Richmond, Indiana explosion of April 6; the S&P 500 closing above 100 for the first time on June 4 at 100.38 and the Dow Jones at 906.4 on January 2, both of which would sit oddly beside two gas and wage series figures; the repeal of the gold reserve requirement on March 18; the rise in first-class postage from five cents to six on January 7; the interracial kiss in the Star Trek episode Plato's Stepchildren on November 22; the PocketDisc test-market release of September 15; the 300 million yen robbery of December 10; the first Zodiac Killer murders of December 20, which the year page places on Lake Herman Road in Vallejo and the US year page in Benicia; the Special Olympics Summer Games of July 20; Tysons Corner Center on July 25; Hot Wheels on May 18; the sale of London Bridge and the Fifteen Guinea Special, both moved to texture. Three facts were written and then cut to bring the count inside the band the brief asks for, and each is sourced and could go back in unchanged: the first 9-1-1 call, placed by the Alabama state senator Rankin Fite in Haleyville on February 16 per the US year page; Johnny Cash recording At Folsom Prison live at Folsom State Prison in California on January 13, both cached pages carrying the date, with his marriage to June Carter in Franklin, Kentucky on March 1 and Merle Kilgore as best man; and the death of Marcel Duchamp, French artist, on October 2, born 1887, per the year page. Other deaths that would have earned a place with more room: Lise Meitner on October 27, named in deaths.hahn because the year page credits her and Hahn with the same discovery; Trygve Lie on December 30; Thomas Merton and Karl Barth on December 10; Tallulah Bankhead on December 12; Carl Theodor Dreyer on March 20; Lev Landau on April 1; Jim Clark on April 7; Frankie Lymon on February 27; Little Willie John on May 26; Salvatore Quasimodo on June 14. Deaths carry a birth year rather than an age because the year page gives only the year, and the Meitner line inside deaths.hahn follows the same form. Names and titles are written in ASCII per the corpus convention, so Alexander Dubcek, Hue, Nguyen Ngoc Loan, Nguyen Van Lem, Edson Luis de Lima Souto, Modibo Keita, Moussa Traore, the Hopital de la Pitie, Rene Cassin, Jose Feliciano, the Union pour la defense de la Republique and Roberto DeVicenzo lose their diacritics. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first and at home later, which film.how_people_watched answers without stating, and which comes out if challenged. This file runs 52 facts across 10 sections, at the top of the 40 to 52 band the brief asks for, because 1968 carries two assassinations, a presidential election, the Tet Offensive, the invasion of Czechoslovakia and the May events in France. Politics runs to 8 facts and world to 8 against the roughly 7 the brief suggests, which is inside what 1961 and 1963 already do. Culture runs to 4 and tech to 4, below the 5 the neighbouring years use, because the room went to politics and world instead."
+}

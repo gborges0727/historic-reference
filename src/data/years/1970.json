@@ -1,0 +1,497 @@
+{
+  "year": 1970,
+  "tier": "broadcast",
+  "headline": "Guardsmen shot four students at Kent State, Apollo 13 aborted after an explosion, and McCartney left the Beatles",
+  "texture": [
+    "The Club Cinq-Sept fire in Saint-Laurent-du-Pont killed 146 on November 1. A gas explosion at a subway construction site in Osaka killed 79 on April 8 and injured over 400. Dan-Air Flight 1903 flew into mountains north of Barcelona on July 3 through navigational error and killed all 112 aboard, and Air Canada Flight 621 killed all 109 near Toronto International Airport two days later. An avalanche at a tuberculosis sanatorium in the French Alps killed 74 on April 11, most of them young boys. A section of the new West Gate Bridge in Melbourne fell into the river on October 15 with 35 construction workers on it.",
+    "Wichita State's Gold plane went down in Colorado on October 2 on the way to a game at Utah State, killing most of the football team. Six weeks later Southern Airways Flight 932 crashed in Wayne County, West Virginia with 37 Marshall University players and five coaches aboard, and all 75 on board died. Dock Ellis of the Pittsburgh Pirates threw a no-hitter against the San Diego Padres on June 12, later revealed to have been thrown under the influence of LSD. Tom Dempsey, born with a deformed right foot, kicked a 63-yard field goal at Tulane Stadium on November 8 to beat the Detroit Lions 19 to 17.",
+    "American Top 40 first went out on July 4, with Casey Kasem counting down the Billboard Hot 100. Ray Davies of the Kinks flew from New York to London and back on June 3 to re-record one word of Lola, changing Coca-Cola to cherry cola so British radio would play it, then flew back again on November 20 to fix a line in Apeman. Elvis Presley drew 36,299 to the Houston Astrodome on February 28, about 10,000 more than the previous record, and opened his first concert tour since 1958 at the Veterans Memorial Coliseum in Phoenix on September 9.",
+    "The Expo '70 World's Fair opened at Suita in Osaka on March 15, and the census that began on April 1 counted 203,392,031 residents of the United States. Willy Brandt went down on his knees before the monument to the victims of the Warsaw Ghetto on December 7. Yukio Mishima and his Tatenokai followers seized the headquarters of the Japan Self-Defense Forces in Tokyo on November 25, and Mishima committed seppuku after his speech failed to win the garrison over to restoring the powers of the Emperor. The Royal Navy stopped the daily rum ration on July 31, an eighth of an imperial pint that sailors had drawn since 1866."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.kent_state",
+    "world.bhola_cyclone",
+    "tech.apollo_13",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Richard Nixon (R)",
+      "detail": "Spiro Agnew was Vice President, Warren E. Burger was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 91st Congress was in session.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "pol.cambodia_incursion": {
+      "section": "politics",
+      "label": "US incursion into Cambodia",
+      "value": "American forces crossed into Cambodia to hunt out the Viet Cong, and large anti-war protests followed across the United States",
+      "detail": "The US year page carries the invasion under April 29 and then, under May 1, has Nixon ordering forces to cross into neutral Cambodia, sparking nationwide riots and leading to the Kent State shootings. It does not reconcile the two entries. US ground troops withdrew from Cambodia on June 28. Nixon asked Congress on November 18 for $155,000,000 in supplemental aid to the Cambodian government, of which $85,000,000 was military assistance to prevent the Khmer Rouge and North Vietnam overthrowing Lon Nol.",
+      "date": "1970-04-29",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "pol.kent_state": {
+      "section": "politics",
+      "label": "Kent State shootings",
+      "value": "Four students at Kent State University in Ohio were killed and nine wounded by National Guardsmen at a protest against the incursion into Cambodia",
+      "detail": "The year page writes Ohio National Guardsmen and the US year page writes Ohio State National Guardsmen, so this fact names neither. Unionized construction workers attacked about 1,000 students and others protesting the shootings near the corner of Wall Street and Broad Street and at New York City Hall on May 8, in what became known as the Hard Hat Riot. On May 9, 100,000 people demonstrated against the war in Washington and Nixon made an impromptu visit to the Lincoln Memorial to meet protesters.",
+      "date": "1970-05-04",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "pol.jackson_state": {
+      "section": "politics",
+      "label": "Jackson State killings",
+      "value": "State law enforcement officers fired into demonstrators on the second day of violent demonstrations at Jackson State University in Jackson, Mississippi, killing two and injuring twelve",
+      "date": "1970-05-14",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "pol.tonkin_repeal": {
+      "section": "politics",
+      "label": "Gulf of Tonkin Resolution repealed",
+      "value": "The United States Senate voted to repeal it",
+      "detail": "The cached pages carry the repeal as a bare line and do not say what the resolution had authorised. The Supreme Court voted 6 to 3 on November 9 not to hear a case brought by the state of Massachusetts on the constitutionality of a state law granting Massachusetts residents the right to refuse military service in an undeclared war.",
+      "date": "1970-06-24",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "pol.nixon_signings": {
+      "section": "politics",
+      "label": "Laws Nixon signed",
+      "value": [
+        "Public Health Cigarette Smoking Act, April 1, banning cigarette advertisements on American television",
+        "Voting Rights Act Amendments of 1970, June 22, lowering the voting age to 18",
+        "Occupational Safety and Health Act, December 29"
+      ],
+      "detail": "The cigarette advertising ban was written to take effect at the start of the following year rather than on signature. All three entries come from the US year page. The year page carries only the Occupational Safety and Health Act, on the same date.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Congressional midterm elections",
+      "value": "Democrats swept the congressional midterms, Ronald Reagan was re-elected Governor of California and Jimmy Carter was elected Governor of Georgia",
+      "detail": "The date has a checkable constraint and it holds. November 1 fell on a Sunday, so the first Monday was November 2 and the Tuesday after it was November 3, which is the date the US year page gives.",
+      "date": "1970-11-03",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "pol.environmental_agencies": {
+      "section": "politics",
+      "label": "Federal environmental agencies created",
+      "value": [
+        "National Oceanic and Atmospheric Administration, formed October 3, with the Weather Bureau renamed the National Weather Service as part of it",
+        "Environmental Protection Agency, established December 2"
+      ],
+      "detail": "The Environmental Science Services Administration Corps, one of the seven federal uniformed services, was renamed the NOAA Commissioned Officer Corps on October 2 under the National Environmental Policy Act, ahead of the parent agency's formation. The year page says the Environmental Protection Agency was established on December 2 and the US year page says it began operations on December 2, without reconciling the two.",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.biafra_surrender": {
+      "section": "world",
+      "label": "Biafra surrenders and the Nigerian Civil War ends",
+      "value": "Biafran forces under Philip Effiong formally surrendered to General Yakubu Gowon after a 32-month fight for independence from Nigeria",
+      "date": "1970-01-15",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.cambodia_coup": {
+      "section": "world",
+      "label": "Sihanouk deposed and the Khmer Republic proclaimed",
+      "value": "General Lon Nol ousted Prince Norodom Sihanouk on March 18 and held Queen Sisowath Kossamak under house arrest, and the Khmer Republic was proclaimed on October 9, escalating the civil war between the government and the Khmer Rouge",
+      "detail": "Cambodian government forces broke the siege of Kompong Thom on September 10 after three months.",
+      "date": "1970-03-18",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.earthquakes": {
+      "section": "world",
+      "label": "Earthquakes in China and Peru",
+      "value": [
+        "Tonghai, January 5, magnitude 7.1 in Tonghai County, Yunnan province, China, between 10,000 and 14,621 killed and 30,000 injured",
+        "Ancash, May 31, magnitude 7.9 in Peru, with a landslide burying the town of Yungay, between 66,794 and 70,000 killed and 50,000 injured"
+      ],
+      "detail": "Both tolls are ranges on the year page rather than single figures. The Tonghai shaking reached a maximum Mercalli intensity of X, which the page glosses as Extreme, and the Ancash shaking VIII, glossed as Severe.",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.black_september": {
+      "section": "world",
+      "label": "Black September in Jordan",
+      "value": "An assassination attempt against King Hussein on September 1 precipitated the crisis, the Popular Front for the Liberation of Palestine hijacked four airliners to a desert airstrip in Jordan on September 6, and Hussein ordered the Jordanian Armed Forces to oust the Palestinian fedayeen on September 17",
+      "detail": "The hijacked aircraft were taken from Pan Am, TWA and Swissair on flights to New York from Brussels, Frankfurt and Zurich. Fighting broke out between Arab guerillas and government forces in Amman on September 7, the government and the guerillas made repeated unsuccessful truces between September 8 and 10, Hussein formed a military government under Muhammad Daoud on September 15, and Syrian armoured forces crossed the Jordanian border on September 20. The government of Ahmad Toukan resigned on October 28 and Wasfi al-Tal became prime minister.",
+      "date": "1970-09-01",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.allende": {
+      "section": "world",
+      "label": "Allende elected president of Chile",
+      "value": "The Socialist senator Salvador Allende took 36.2 percent of the vote on September 4 against 34.9 for the former right-wing president Jorge Alessandri and 27.8 for the Christian Democrat Radomiro Tomic, was elected by a run-off vote in the National Congress on October 24, and took office on November 3",
+      "detail": "Chilean army commander Rene Schneider was shot in Santiago on October 22 and died on October 25, and the government declared a state of emergency.",
+      "date": "1970-09-04",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.october_crisis": {
+      "section": "world",
+      "label": "October Crisis in Quebec",
+      "value": "The Front de liberation du Quebec kidnapped British trade commissioner James Cross in Montreal on October 5 and Quebec labour minister Pierre Laporte on October 10, the Canadian government declared a state of emergency and outlawed the group on October 16, and Laporte was found murdered in south Montreal on October 17",
+      "detail": "Cross was released on December 3 after 60 days in captivity, with Canada granting five members of the group's Chenier Cell safe passage to Cuba in return. The suspected killers of Laporte, Jacques and Paul Rose and Francis Sunard, were arrested near Montreal on December 28.",
+      "date": "1970-10-05",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "world.bhola_cyclone": {
+      "section": "world",
+      "label": "Bhola cyclone",
+      "value": "The storm made landfall on the East Pakistan coast during the evening of November 12, around the time of the local high tide, and at least 300,000 people died, possibly as many as 500,000, most of them in the storm surge that flooded the low-lying islands of the Ganges Delta",
+      "detail": "The date was checked against the dedicated article rather than copied from the year page, which carries the storm twice and dates it twice: on November 3, making landfall around high tide and killing over 500,000, and on November 13, hitting the Ganges Delta region of East Pakistan and killing an estimated 500,000. The dedicated article puts the landfall on the evening of November 12 and has the system weakening to a cyclonic storm on November 13, which fits the second of the year page's entries and not the first. In Tazumuddin, the worst affected upazila, over 45 percent of a population of 167,000 were killed. Over 3.6 million people were directly affected and damage was put at $86,400,000.",
+      "date": "1970-11-12",
+      "source": "https://en.wikipedia.org/wiki/1970_Bhola_cyclone"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that changed status",
+      "value": [
+        "Guyana became a republic within the Commonwealth of Nations, February 22",
+        "Rhodesia's white minority government declared itself a republic and severed its last tie with the United Kingdom, March 1",
+        "Tonga gained independence from the United Kingdom, June 4",
+        "Fiji became independent, October 10"
+      ],
+      "detail": "Fiji adopted God Bless Fiji as its national anthem on the day of independence. Law 70-001, enacted on December 23, made the Democratic Republic of the Congo a one-party state by amending article 4 of its constitution.",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Love Story, $50,000,000, Paramount",
+        "Airport, $44,500,000, Universal",
+        "M*A*S*H, $30,000,000, 20th Century Fox",
+        "Patton, $27,000,000, 20th Century Fox",
+        "Woodstock, $16,400,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The sentence above the table on the film page calls these the top ten films by box office gross in North America while the column header reads Domestic rentals, and the file follows the header. Nine of the ten figures are sourced to Joel Waldo Finler's The Hollywood Story and the Woodstock figure to a domestic revenue database instead. Little Big Man was sixth at $15,000,000 for National General Pictures, Tora! Tora! Tora! seventh at $13,700,000 for 20th Century Fox and Toei together, and Ryan's Daughter eighth at $13,400,000 for MGM.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Patton, produced by Frank McCarthy",
+      "detail": "Awarded the following spring at the 43rd Academy Awards, where Patton took seven awards from ten nominations, including Best Director for Franklin J. Schaffner, Best Original Screenplay for Francis Ford Coppola and Edmund H. North, and the sound, art direction and film editing awards. Airport matched it on ten nominations and won one. The Academy Awards page notes this as the most recent ceremony at which the four highest-grossing films of the year were all nominated for Best Picture, those being Love Story, Airport, M*A*S*H and Patton. Woodstock won Best Documentary Feature and its three nominations made it the most nominated documentary in Oscar history to that point.",
+      "source": "https://en.wikipedia.org/wiki/43rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, George C. Scott, Patton, declined",
+        "Best Actress, Glenda Jackson, Women in Love",
+        "Best Supporting Actor, John Mills, Ryan's Daughter",
+        "Best Supporting Actress, Helen Hayes, Airport"
+      ],
+      "detail": "Scott was the first actor to decline an Oscar. He had protested his Best Supporting Actor nomination for The Hustler in 1961 and called the awards a two-hour meat parade, a public display with contrived suspense for economic reasons, and said it was degrading for actors to compete against one another. His Patton co-star Karl Malden agreed but thought the denunciation could have been made more subtly. Hayes became the first performer to win Oscars in both a lead and a supporting category, 39 years after her Best Actress win for The Sin of Madelon Claudet. All five Best Actress nominees were first-time nominees, and no Best Actor nominee had a previous nomination in that category.",
+      "source": "https://en.wikipedia.org/wiki/43rd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Investigation of a Citizen Above Suspicion, Italy, winner of the Academy Award for Best Foreign Language Film",
+        "First Love, Switzerland",
+        "Hoa-Binh, France",
+        "Paix sur les champs, Belgium",
+        "Tristana, Spain"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country. The Palme d'Or at Cannes went to M*A*S*H, directed by Robert Altman of the United States, so the year's festival winner is not a foreign entry. The Golden Globe for Best Foreign Language Film went to Rider on the Rain. Federico Fellini was nominated for Best Director for Fellini Satyricon and Ken Russell for Women in Love, and Eric Rohmer for the original screenplay of My Night at Maud's.",
+      "source": "https://en.wikipedia.org/wiki/43rd_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The IMAX projection system premiered at the Fuji Pavilion at Expo '70 in Osaka.",
+      "detail": "In Culver City, MGM began selling off its studio back lot property and movie props. Stanley R. Jaffe was appointed president of Paramount Pictures in July, succeeding Charles Bludhorn, who stayed on as chairman and chief executive. Joan Crawford's last film, the low-budget horror picture Trog, opened in the United States and the United Kingdom on October 24.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1970",
+      "value": [
+        "Marcus Welby, M.D., ABC, 29.6 rating",
+        "The Flip Wilson Show, NBC, 27.9",
+        "Here's Lucy, CBS, 26.1",
+        "Ironside, NBC, 25.7",
+        "Gunsmoke, CBS, 25.5"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Five network movie slots appear in the top thirty, the ABC Movie of the Week highest at sixth with a 25.1. The Mary Tyler Moore Show came twenty-second at 20.3 and The Partridge Family tied for twenty-fifth at 19.8. The Virginian appears under its new title The Men from Shiloh, eighteenth at 21.2.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1970%E2%80%9371"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "All My Children, ABC, January 5",
+        "McCloud, NBC, February 17",
+        "The Flip Wilson Show, NBC, September 17",
+        "The Mary Tyler Moore Show, CBS, September 19",
+        "The Odd Couple, ABC, September 24",
+        "The Partridge Family, ABC, September 25"
+      ],
+      "detail": "Josie and the Pussycats began on CBS on September 12, and Barefoot in the Park on ABC on September 24, which ran only until December 17. Among the programs that finished were The Hollywood Palace on ABC on February 7, Petticoat Junction on CBS on April 4, Get Smart on NBC on May 15 and I Dream of Jeannie on NBC on May 26.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_American_television"
+    },
+    "tv.monday_night_football": {
+      "section": "tv",
+      "label": "Monday Night Football debuts",
+      "value": "ABC broadcast the first game, with the Cleveland Browns beating the New York Jets 31 to 21",
+      "detail": "The television page lists it as NFL Monday Night Football and gives no score. The score is on the US year page.",
+      "date": "1970-09-21",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "tv.pbs": {
+      "section": "tv",
+      "label": "PBS goes on the air",
+      "value": "The Public Broadcasting Service broadcast for the first time as the replacement for National Educational Television, and most NET member stations joined the new service at its sign-on",
+      "detail": "The US year page has National Educational Television ending operations on October 4, the day before the PBS sign-on.",
+      "date": "1970-10-05",
+      "source": "https://en.wikipedia.org/wiki/1970_in_American_television"
+    },
+    "tv.nbc_nightly_news": {
+      "section": "tv",
+      "label": "Chet Huntley retires and NBC renames its evening news",
+      "value": "Huntley anchored his final newscast with David Brinkley on July 31, ending 14 years at NBC News, and The Huntley-Brinkley Report became NBC Nightly News on August 3",
+      "detail": "NBC went to full-service newscasts seven nights a week with NBC Sunday News on August 2, replacing The Frank McGee Report.",
+      "date": "1970-07-31",
+      "source": "https://en.wikipedia.org/wiki/1970_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Bridge Over Troubled Water, Simon & Garfunkel",
+        "(They Long to Be) Close to You, The Carpenters",
+        "American Woman, The Guess Who",
+        "Raindrops Keep Fallin' on My Head, B.J. Thomas",
+        "War, Edwin Starr"
+      ],
+      "detail": "Compiled from the Hot 100 charts dated January 3 through November 28. The Jackson 5 had four songs on the list, more than any other act, with I'll Be There seventh, ABC fifteenth, The Love You Save sixteenth and I Want You Back twenty-eighth. Simon & Garfunkel had two. The music page prints a reconstructed version of the same year-end chart with a different order, putting Raindrops Keep Fallin' on My Head second, I'll Be There third and George Harrison's My Sweet Lord fifth, and explains that Billboard's late December print deadline stopped about 60 records from completing their chart runs. My Sweet Lord, released on November 23, does not appear on Billboard's published list at all.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1970"
+    },
+    "music.beatles_breakup": {
+      "section": "music",
+      "label": "The Beatles break up",
+      "value": "Paul McCartney announced on April 10, in a mock-interview press release included with promotional copies of his first solo album, that he had left the group, and on December 31 he filed suit in Britain to dissolve their partnership",
+      "detail": "The Daily Mirror carried the April announcement as a headline in the United Kingdom. McCartney's solo album came out on April 20. The band's last LP, Let It Be, was released on May 8, and the film of the same name premiered in London and Liverpool on May 20 with none of the four present at either screening. The Long and Winding Road became their last American number one on June 13 and was never released as a single in Britain. John Lennon gave Jann Wenner of Rolling Stone a long interview on December 8 that included his account of the breakup.",
+      "date": "1970-04-10",
+      "source": "https://en.wikipedia.org/wiki/1970_in_music"
+    },
+    "music.bridge_over_troubled_water": {
+      "section": "music",
+      "label": "Simon & Garfunkel's last album together",
+      "value": "Bridge over Troubled Water was released on January 26, and the album and its title track each held the top of the Billboard charts for six weeks",
+      "detail": "The music page lists the duo among the acts that broke up during the year, with both members going on to solo careers.",
+      "date": "1970-01-26",
+      "source": "https://en.wikipedia.org/wiki/1970_in_music"
+    },
+    "music.black_sabbath": {
+      "section": "music",
+      "label": "Black Sabbath's debut album",
+      "value": "The English band released their self-titled first album in the United Kingdom, credited by the Rock and Roll Hall of Fame as the first major album in the heavy metal genre",
+      "detail": "Mountain, another band credited with influence on the development of heavy metal, released their debut Climbing! on March 7.",
+      "date": "1970-02-13",
+      "source": "https://en.wikipedia.org/wiki/1970_in_music"
+    },
+    "music.isle_of_wight": {
+      "section": "music",
+      "label": "Isle of Wight Festival",
+      "value": "Some 600,000 people attended the festival at East Afton Farm off the coast of England between August 26 and 30, which the music page calls the largest rock festival of all time",
+      "detail": "The bill included The Moody Blues, Jimi Hendrix, The Who, The Doors, Chicago, Leonard Cohen, Miles Davis, Richie Havens, John Sebastian, Joan Baez, Ten Years After, Emerson, Lake & Palmer and Jethro Tull.",
+      "date": "1970-08-26",
+      "source": "https://en.wikipedia.org/wiki/1970_in_music"
+    },
+    "tech.apollo_13": {
+      "section": "tech",
+      "label": "Apollo 13",
+      "value": "Jim Lovell, Fred Haise and Jack Swigert launched toward the Moon on April 11, an oxygen tank exploded on April 13 and forced the crew to abort the mission, and they splashed down safely in the Pacific on April 17",
+      "detail": "On April 15 the crew set the record for the farthest humans have travelled, 400,171 miles.",
+      "date": "1970-04-11",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "tech.venera_7": {
+      "section": "tech",
+      "label": "First spacecraft to land on Venus",
+      "value": "Venera 7 was launched from the Soviet Union toward Venus on August 17 and on December 15 became the first spacecraft to land successfully on Venus and transmit data back to Earth",
+      "detail": "The year page describes the same craft in two places, once as the first to transmit data from the surface of another planet successfully and once as the first to land successfully on Venus and transmit data back.",
+      "date": "1970-12-15",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "tech.lunokhod": {
+      "section": "tech",
+      "label": "First roving robot on another world",
+      "value": "The Soviet Union landed Lunokhod 1 on Mare Imbrium, the Sea of Rains, released by the orbiting Luna 17 spacecraft that had been launched on November 9",
+      "detail": "Luna 16 had landed on the Moon on September 20, lifted off the next day with samples and landed back on Earth on September 24. The Soviet Union launched the Zond 8 lunar probe on October 20.",
+      "date": "1970-11-17",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "tech.xerox_parc": {
+      "section": "tech",
+      "label": "Xerox PARC opens",
+      "value": "The computer laboratory opened in Palo Alto, California",
+      "date": "1970-07-01",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "tech.satellites": {
+      "section": "tech",
+      "label": "First satellites for Japan and China",
+      "value": [
+        "Ohsumi, Japan's first satellite, launched on a Lambda-4 rocket, February 11",
+        "Dong Fang Hong 1, China's first satellite, launched into orbit on a Long March-1 rocket, April 24"
+      ],
+      "detail": "Explorer 1, the first American satellite, reentered the Earth's atmosphere on March 31 after 12 years in orbit.",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.36 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.60 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Four students shot dead in Ohio in May and two in Mississippi ten days later, the Beatles ending in a press release in April and a lawsuit on the last day of December, and the deadliest storm on record coming ashore in the Bay of Bengal in November."
+    },
+    "culture.earth_day": {
+      "section": "culture",
+      "label": "First Earth Day",
+      "value": "Celebrated in the United States, founded by Senator Gaylord Nelson of Wisconsin",
+      "date": "1970-04-22",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "culture.womens_strike": {
+      "section": "culture",
+      "label": "Women's Strike for Equality",
+      "value": "The march went down Fifth Avenue in New York City",
+      "detail": "Women's Liberation protesters disrupted the Miss World 1970 pageant at the Royal Albert Hall in London on November 20, which Bob Hope was hosting. Earlier the same evening The Angry Brigade placed a bomb under a BBC outside broadcast vehicle in protest at South Africa entering separate black and white contestants.",
+      "date": "1970-08-26",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "culture.doonesbury": {
+      "section": "culture",
+      "label": "Doonesbury debuts",
+      "value": "Garry Trudeau's comic strip appeared in approximately two dozen American newspapers",
+      "date": "1970-10-26",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Aleksandr Solzhenitsyn",
+        "Peace, Norman Borlaug",
+        "Physics, Hannes Alfven and Louis Neel",
+        "Chemistry, Luis Federico Leloir",
+        "Physiology or Medicine, Bernard Katz, Ulf von Euler and Julius Axelrod",
+        "Economic Sciences, Paul Samuelson"
+      ],
+      "detail": "The year page lists the economics award separately from the five original prizes, under its full name, the Nobel Memorial Prize in Economic Sciences.",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Baltimore Orioles beat the Cincinnati Reds four games to one, taking Game 5 on October 15 by 9 to 3, for their second title",
+      "date": "1970-10-15",
+      "source": "https://en.wikipedia.org/wiki/1970_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl IV",
+      "value": "The Kansas City Chiefs of the AFL beat the NFL's Minnesota Vikings 23 to 7 at Tulane Stadium in front of 80,562, with the Kansas City quarterback Len Dawson named most valuable player",
+      "detail": "The US year page calls the Vikings heavily favored and gives the score without the attendance or the most valuable player.",
+      "date": "1970-01-11",
+      "source": "https://en.wikipedia.org/wiki/1970_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Brazil beat Italy 4 to 1 in Mexico on June 21 for a third title, which let them keep the Jules Rimet Trophy permanently, in a tournament that opened on May 31 and was the first to permit tactical substitutes",
+      "detail": "The year page adds that the trophy was subsequently stolen and lost.",
+      "date": "1970-06-21",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Boston Bruins over the St. Louis Blues, four games to none",
+        "NBA Finals, New York Knicks over the Los Angeles Lakers, four games to three",
+        "NCAA basketball, UCLA 80, Jacksonville 69",
+        "European Cup, Feyenoord 2, Celtic 1",
+        "Grey Cup, Montreal Alouettes 23, Calgary Stampeders 10",
+        "World Snooker Championship, Ray Reardon over John Pulman, 37 to 33"
+      ],
+      "detail": "Bobby Orr took the Conn Smythe Trophy as most valuable player of the Stanley Cup final, the Hart Memorial Trophy as the most valuable player in the NHL, and the Art Ross Trophy as the first defenceman in league history to lead the NHL in scoring. The Bruins had not won the Cup for 29 years. Eddy Merckx of Belgium won both the Giro d'Italia and the Tour de France, and Nijinsky won all three English Triple Crown races and the Irish Derby. George Blanda and the runner Chi Cheng were the Associated Press athletes of the year.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_sports"
+    },
+    "sports.margaret_court": {
+      "section": "sports",
+      "label": "Margaret Court wins the tennis Grand Slam",
+      "value": "She took the Australian Open, the French Open, Wimbledon and the US Open in the same year",
+      "detail": "The men's singles titles went four ways: Arthur Ashe in Australia, Jan Kodes in France, John Newcombe at Wimbledon and Ken Rosewall at the US Open. The United States won the Davis Cup 5 to 0 over the side the sports page calls Germany F.R. The first women's only tennis tournament, the Houston Women's Invitation, began on September 23.",
+      "source": "https://en.wikipedia.org/wiki/1970_in_sports"
+    },
+    "deaths.de_gaulle": {
+      "section": "deaths",
+      "label": "Charles de Gaulle",
+      "value": "Died November 9. Born 1890",
+      "detail": "French general and statesman, 98th Prime Minister and 18th President of France.",
+      "date": "1970-11-09",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "deaths.nasser": {
+      "section": "deaths",
+      "label": "Gamal Abdel Nasser",
+      "value": "Died September 28. Born 1918",
+      "detail": "31st Prime Minister of Egypt and 2nd President of Egypt. Vice President Anwar Sadat was named temporary president the same day, a referendum backed him with 90.04 percent on October 15, and he officially became president on October 17, naming Mahmoud Fawzi as his prime minister on October 20.",
+      "date": "1970-09-28",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "deaths.hendrix": {
+      "section": "deaths",
+      "label": "Jimi Hendrix",
+      "value": "Died September 18. Born 1942",
+      "detail": "American rock musician, aged 27, who made his last appearance two days earlier jamming with Eric Burdon and War at Ronnie Scott's Club in London. The three cached pages give the cause three ways: the year page says drug-related, the music page says a barbiturate overdose at his London hotel, and the US year page says alcohol-related complications.",
+      "date": "1970-09-18",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "deaths.joplin": {
+      "section": "deaths",
+      "label": "Janis Joplin",
+      "value": "Died October 4. Born 1943",
+      "detail": "American rock singer, aged 27, found dead of a heroin overdose sixteen days after Hendrix. The year page says only an overdose and puts the hotel in Hollywood, the US year page names heroin and puts it in Los Angeles, and the music page names the Landmark Motor Hotel in Hollywood.",
+      "date": "1970-10-04",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "deaths.russell": {
+      "section": "deaths",
+      "label": "Bertrand Russell",
+      "value": "Died February 2. Born 1872",
+      "detail": "British logician and philosopher, recipient of the Nobel Prize in Literature.",
+      "date": "1970-02-02",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    },
+    "deaths.forster": {
+      "section": "deaths",
+      "label": "E. M. Forster",
+      "value": "Died June 7. Born 1879",
+      "detail": "English writer.",
+      "date": "1970-06-07",
+      "source": "https://en.wikipedia.org/wiki/1970"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1970. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence directly above that table on the same page calls the entries the top ten films by box office gross in North America, and film.gross names the contradiction rather than picking a side. Date checks. The midterm elections have a checkable constitutional constraint and it holds: November 1 fell on a Sunday, so the first Monday was November 2 and the Tuesday after it was November 3, which is the date the US year page gives. The Bhola cyclone did not hold. The year page carries the storm twice under two different dates, on November 3 and again on November 13, and gives the toll as over 500,000 in one entry and an estimated 500,000 in the other, so world.bhola_cyclone cites https://en.wikipedia.org/wiki/1970_Bhola_cyclone, uses the November 12 landfall that article gives, takes its at least 300,000 and possibly 500,000 figures, and names the disagreement. That article was pulled as raw wikitext for this check and is the one source in this file from outside the cache. Its dollar conversions to a later year were left out because a figure dated after 1970 cannot appear in a fact. No radio fact, because the radio window closed after 1959. The radio material of the year that mattered, the first broadcast of American Top 40 on July 4 with Casey Kasem, and Ray Davies re-recording Lola so British radio would play it, is in texture instead, which is where the brief puts it. No film.ticket_price fact, because the movie ticket series has a null for this year. The Nielsen ranking covers a season that began in the autumn of 1970 and ran into the following spring, which tv.top_shows states without naming a second year. The 43rd Academy Awards ceremony and its nomination announcement both fall in the following year, so film.best_picture says awarded the following spring and gives no ceremony date. Source disagreements labelled rather than resolved: the Kent State guardsmen are Ohio National Guardsmen on the year page and Ohio State National Guardsmen on the US year page, so pol.kent_state names neither and says why; the Cambodian incursion begins on April 29 on the US year page and is separately ordered by Nixon on May 1 on the same page, and pol.cambodia_incursion uses April 29 and records both entries; the Environmental Protection Agency is established on December 2 on the year page and begins operations on December 2 on the US year page; Hendrix's death is drug-related on the year page, a barbiturate overdose on the music page and alcohol-related on the US year page; Joplin's overdose is unnamed and in Hollywood on the year page and heroin in Los Angeles on the US year page; the Marshall University aircraft is Southern Airways Flight 932 on the year page and Southern Airlines Flight 932 on the US year page, and the texture uses the year page's name; the Lubbock tornado kills 26 on the year page and 28 on the US year page, which is why it is in neither the facts nor the texture; the Billboard year-end singles chart is ordered one way on the dedicated chart page and another on the music page, which prints a reconstruction that adds George Harrison's My Sweet Lord at fifth, and music.hot100_year_end follows the chart page and names the difference and its cause. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.independence cites the year page and takes God Bless Fiji from the music page; tv.monday_night_football cites the US year page for the score, which the television page does not carry, and says so; tv.pbs cites the television page and takes National Educational Television's October 4 closure from the US year page; culture.womens_strike cites the US year page for the Fifth Avenue march and takes the Miss World disruption and The Angry Brigade bomb from the year page; sports.super_bowl cites the sports page for the score, attendance and most valuable player and takes heavily favored from the US year page; sports.margaret_court cites the sports page and takes the Houston Women's Invitation from the US year page; pol.nixon_signings cites the US year page, which carries all three laws, while the year page has only the Occupational Safety and Health Act; deaths.hendrix and deaths.joplin cite the year page and name all three pages in their details, because the year page alone does not give a cause of death for either. Dropped for lack of a source that says enough, or because the cached pages give no day: the founding of the Virgin Group, dated only to February on the year page; the discovery of the Sweet Track, the last forced child migration from the United Kingdom to Australia, the first Regional Technical Colleges in Ireland and the founding of the Omani Women's Association, all undated; the release of Songs of the Humpback Whale, dated only to August on the music page. Dropped to hold the section counts down rather than for want of a source: the postal strike that began in New York City on March 18 and spread to 210,000 of 750,000 postal employees; the Chicago Seven acquittal of February 18; the Weathermen townhouse bomb of March 6 and the Sterling Hall bombing of August 24; the My Lai charges of March 17 and William Calley's trial from November 17; the Chicano Moratorium of August 29 and the death of Ruben Salazar; the Hunley wreck found off Charleston on October 25; the first female generals in the United States, Anna Mae Hays and Elizabeth P. Hoisington, on June 11; the Penn Central bankruptcy of June 21; the North Tower of the World Trade Center topped out at 1,368 feet on December 23; the Ford Pinto of September 11 and the Chevrolet Vega of September 10; the land speed record of 622.407 mph set by Gary Gabelich in the Blue Flame at Bonneville, which the year page dates October 28 and the US year page October 26; the Nuclear Non-Proliferation Treaty entering force on March 5 after 56 ratifications; the Aswan High Dam completed on July 21; Hafez al-Assad taking power in Syria on November 13; the first flights of the Lockheed L-1011 TriStar on November 16 and the Grumman F-14 Tomcat on December 21, and the Tupolev Tu-144 exceeding Mach 2 on May 26; the 12th Annual Grammy Awards of March 11, which honoured the previous year's recordings; the Eurovision Song Contest won by Dana in Amsterdam on March 21; the first New York City Marathon on September 13; the release of Layla and Other Assorted Love Songs on November 9; the Omani coup of July 23 in which Qaboos deposed his father Said bin Taimur with covert British support and abolished chattel slavery; the Cotton Bowl, which the sports page lists under this year but labels the 1969 season and leaves undated; Soyuz 9, launched June 1 for nearly 18 days in orbit, an endurance record at the time. Those last three were cut rather than parked in the detail of a fact they do not elaborate. Deaths that would have earned a place with more room: Sukarno on June 21, Mark Rothko on February 25, Vince Lombardi on September 3, Erich Maria Remarque on September 25, Max Born on January 5, Antonio de Oliveira Salazar on July 27, John Dos Passos on September 28, Jochen Rindt on September 5, Sonny Liston on December 30. Texture material taken from the cached pages but given no fact of its own: the Club Cinq-Sept fire; the Osaka subway gas explosion; Dan-Air Flight 1903 and Air Canada Flight 621; the French Alps sanatorium avalanche; the West Gate Bridge collapse; the Wichita State and Marshall University football team plane crashes; Dock Ellis's no-hitter; Tom Dempsey's 63-yard field goal; American Top 40; Ray Davies re-recording Lola and Apeman; Elvis Presley at the Houston Astrodome and the start of his Phoenix tour; Expo '70; the census count of 203,392,031; Willy Brandt at the Warsaw Ghetto monument; Yukio Mishima's attempted coup and suicide; Black Tot Day. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question and which comes out if challenged. Names and titles are written in ASCII per the corpus convention, so Hannes Alfven, Louis Neel, Suleyman Demirel, the Front de liberation du Quebec, Rene Schneider, Jan Kodes, Eric Rohmer, Zurich and Eddy Merckx lose their diacritics. Deaths carry a birth year rather than an age, because the year page gives only the year; Hendrix and Joplin also carry the age 27 because both pages state it outright. This file runs 54 facts across 10 sections, two above the 40 to 52 the brief asks for. Politics and world each run to 8 against the roughly 7 the brief suggests, which is inside what 1963 already does at 9 and 9."
+}

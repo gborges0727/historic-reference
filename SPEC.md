@@ -279,7 +279,13 @@ The build fails on any error below. Wire `npm run validate` into `npm run build`
 1. **Schema.** Zod parse of every year file. Filename matches `year`.
 2. **Source coverage.** Every fact requiring a source per the rules above has a non-empty `https://` URL. No exceptions, no placeholder URLs.
 3. **Lead integrity.** Every lead id resolves to an existing fact. Array indexes are in range. Lead length 4 to 8. No duplicates.
-4. **Anachronism.** No 4-digit year later than the page year appears anywhere in `facts` or `texture`. One narrow exemption: a fact in the `film` section may contain the very next year in the shape `of YYYY`, because revue films were conventionally titled for the coming year and a 1935 page correctly lists *Broadway Melody of 1936*. A year inside a title is a proper noun, not a claim about time. Nothing further out than year plus one qualifies, no other section qualifies, and no other shape qualifies, so a fact claiming something *happened* in a later year still fails. A 1931 page referencing 1975 is a hallucination or a retrospective framing, and both are wrong here. The anchoring module is computed outside the data files and is exempt.
+4. **Anachronism.** No 4-digit year later than the page year appears anywhere in `facts` or `texture`. A year inside a film title is a proper noun rather than a claim about time, so there are two exemptions, both confined to the `film` section.
+
+   The first is generative: a film fact may contain the very next year in the shape `of YYYY`, because revue films were conventionally titled for the coming year and a 1935 page correctly lists *Broadway Melody of 1936*. Nothing further out than year plus one qualifies and no other shape qualifies.
+
+   The second is a named list, `src/data/title_years.json`, for titles carrying a year that no shape rule can recognise. *2001: A Space Odyssey* in a 1968 rentals table is the case that forced it. The exemption applies only when the full title string is present in the text, so the token alone never passes, and a bare-number title cannot be listed at all, because that string is indistinguishable from the stray year the check exists to catch. Each entry is added one at a time with its justification in the file.
+
+   Everything else still fails. A fact claiming something *happened* in a later year fails, and a 1931 page referencing 1975 is a hallucination or a retrospective framing. The anchoring module is computed outside the data files and is exempt.
 5. **Section availability.** No fact in a section that is unavailable for that year's tier.
 6. **Tier.** Stored `tier` matches the computed tier.
 7. **Coverage.** All 106 files exist, none empty.

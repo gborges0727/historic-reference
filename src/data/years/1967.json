@@ -1,0 +1,502 @@
+{
+  "year": 1967,
+  "tier": "broadcast",
+  "headline": "Fire killed the Apollo 1 crew in January, Israel won the Six-Day War in June, and 43 died in the Detroit riot",
+  "texture": [
+    "Bushfires in southern Tasmania killed 62 people on February 7 and destroyed 2,642.7 square kilometres of land. The Innovation department store in central Brussels burned down on May 22, leaving 323 dead and missing and 150 injured, the most devastating fire in Belgian history. The supertanker Torrey Canyon ran aground between Land's End and the Scilly Isles on March 18, and Fleet Air Arm and Royal Air Force aircraft bombed and sank the wreck on March 29. The Silver Bridge over the Ohio River at Point Pleasant, West Virginia collapsed on December 15 and killed 46.",
+    "Ronald Ryan became the last man hanged in Australia on February 3, for murdering a guard while escaping from prison. Luis Monge died in Colorado's gas chamber on June 2, the last execution in the United States before Furman. Jimmy Hoffa began an eight-year sentence on March 7 for attempting to bribe a jury. Mick Jagger and Keith Richards were sentenced to jail on June 29 for drug possession, and William Rees-Mogg asked in The Times two days later who breaks a butterfly upon a wheel. Svetlana Alliluyeva defected through the American embassy in New Delhi on March 9.",
+    "McDonald's introduced the Big Mac at Uniontown, Pennsylvania on April 22. Sweden moved all road traffic from the left side to the right at five o'clock on the morning of September 3. New Zealand decimalised its currency on July 10 at one pound to two dollars. The Census Bureau's population clock recorded 200 million Americans at three minutes past eleven on the morning of November 20. Muriel Siebert became the first woman to own a seat on the New York Stock Exchange on December 28, and Hyundai Motor was founded the next day.",
+    "The BBC restructured its national radio services on September 30, putting pop on Radio 1 and turning the Light Programme into Radio 2, with the voice of Tony Blackburn and the Move's Flowers in the Rain as the first full single played. The Marine Broadcasting Offences Act had declared participation in offshore pirate radio illegal on August 15, and Radio Caroline defied it and kept broadcasting. Harold Wilson won a libel action against the Move in the High Court on October 11 over a promotional postcard for that record, and the royalties went to charity."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.six_day_war",
+    "tech.apollo_1",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Lyndon B. Johnson (D)",
+      "detail": "Hubert Humphrey was vice president, Earl Warren was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 89th Congress sat until January 3 and the 90th from that date. Ronald Reagan was inaugurated governor of California on January 2 and Lester Maddox was sworn in as governor of Georgia on January 11.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    },
+    "pol.vietnam": {
+      "section": "politics",
+      "label": "Secretary of Defense resigns over the war",
+      "value": "Robert McNamara announced he would leave to run the World Bank, after Johnson rejected his recommendations to freeze troop levels, stop the bombing of North Vietnam and hand ground fighting to South Vietnam",
+      "detail": "Johnson had met a group he called the Wise Men on November 2 and asked how to unite the country behind the war, and they concluded that Americans should be given more optimistic reports on it. He told the nation on November 17 that much remained to be done but that the United States was inflicting greater losses than it was taking. General William Westmoreland told reporters on November 21 that he was absolutely certain the enemy was losing. Heavy casualties fell on both sides at the Battle of Dak To, which began on November 3 near the Cambodian border and which American troops narrowly won on November 22.",
+      "date": "1967-11-29",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "pol.thurgood_marshall": {
+      "section": "politics",
+      "label": "Thurgood Marshall sworn in to the Supreme Court",
+      "value": "The first African American justice took his seat",
+      "detail": "Johnson nominated the Solicitor General on June 13 and the Senate confirmed him on August 30.",
+      "date": "1967-10-02",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    },
+    "pol.loving": {
+      "section": "politics",
+      "label": "Loving v. Virginia",
+      "value": "The Supreme Court declared all state laws prohibiting interracial marriage unconstitutional",
+      "date": "1967-06-12",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    },
+    "pol.25th_amendment": {
+      "section": "politics",
+      "label": "Twenty-fifth Amendment ratified",
+      "value": "Nevada's ratification completed the amendment on presidential succession and disability, submitted to the states by the 89th Congress in 1965",
+      "detail": "The article on the amendment gives February 10 as the day the requisite 38 states had ratified, with Nevada last. The US year page carries three separate entries for it, ratified on February 10, enacted on February 23 and added to the Constitution on May 25, without reconciling them, and this fact follows the date the amendment's own article gives.",
+      "date": "1967-02-10",
+      "source": "https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution"
+    },
+    "pol.detroit_riot": {
+      "section": "politics",
+      "label": "Detroit riot",
+      "value": "The 12th Street Riot began in the predominantly African American inner city, killing 43, injuring 342 and burning 1,400 buildings",
+      "detail": "Rioting had broken out in Newark on July 12 after the arrest of a cab driver and ran five days, in Plainfield on July 14, and on Plymouth Street in north Minneapolis on July 19. Rochester followed on July 23 and Milwaukee on July 30, which shut that city down for ten days from August 1. Riots reached Washington on August 1. The Buffalo riot had begun on June 26, run to July 1 and led to 200 arrests, which the year page instead puts at over 180.",
+      "date": "1967-07-23",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    },
+    "pol.antiwar_march": {
+      "section": "politics",
+      "label": "March on the Pentagon",
+      "value": "About 70,000 protesters marched in Washington and rallied at the Lincoln Memorial, and 50,000 went on to the Pentagon, where Allen Ginsberg, Abbie Hoffman and Jerry Rubin chanted to levitate the building and exorcise the evil within",
+      "detail": "Hundreds of thousands had marched from Central Park to the United Nations on April 15 behind the National Mobilization Committee to End the War in Vietnam, among them Martin Luther King Jr., Harry Belafonte and Benjamin Spock, with a simultaneous march in San Francisco attended by Coretta Scott King. The US year page puts the Pentagon march on October 27 with several thousand people at it, against the October 21 and the crowd figures on the year page, which is what this fact follows.",
+      "date": "1967-10-21",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "pol.stokes": {
+      "section": "politics",
+      "label": "First African American mayor of a major US city",
+      "value": "Carl B. Stokes was elected mayor of Cleveland",
+      "detail": "The date holds against its own constraint. November 1 fell on a Wednesday, so the first Monday was November 6 and the Tuesday after it was November 7, which is the date both year pages give.",
+      "date": "1967-11-07",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.six_day_war": {
+      "section": "world",
+      "label": "Six-Day War",
+      "value": "Israel opened with Operation Focus against Egyptian Air Force airfields on June 5, took East Jerusalem on June 7 and agreed a United Nations ceasefire with Syria on June 10",
+      "detail": "Egypt had closed the Straits of Tiran to Israeli shipping on May 23, blockading Eilat and Israel's whole Red Sea coastline, after demanding on May 17 that the UN Emergency Force withdraw from Sinai. East Jerusalem was taken without artillery to avoid damaging the Holy City. Israeli forces attacked the United States Navy spy ship Liberty on June 8, killing 34 crew, and Egypt severed relations with Washington the same day. Israel declared the annexation of East Jerusalem on June 28, and UN Security Council Resolution 242 was adopted on November 22.",
+      "date": "1967-06-05",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.china_hbomb": {
+      "section": "world",
+      "label": "China's first hydrogen bomb",
+      "value": "Tested under Project 639",
+      "date": "1967-06-17",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.che_guevara": {
+      "section": "world",
+      "label": "Che Guevara captured and executed in Bolivia",
+      "value": "Taken with his men on October 8 and executed the following day",
+      "detail": "Argentine communist revolutionary, born 1928.",
+      "date": "1967-10-08",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.biafra": {
+      "section": "world",
+      "label": "Biafra declares independence",
+      "value": "The eastern region of Nigeria announced its independence, which was not recognised",
+      "detail": "Nigerian forces invaded the secessionist region on July 6.",
+      "date": "1967-05-30",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.greek_coup": {
+      "section": "world",
+      "label": "Greek military coup",
+      "value": "A group of military officers seized power and installed a dictatorship led by Georgios Papadopoulos",
+      "detail": "The government accused Andreas Papandreou of treason on May 10 and held him as a political prisoner until December 25. It banned playing or listening to the music of Mikis Theodorakis by army decree on June 1 and jailed him on August 21 for five months, stripped 480 Greeks of their citizenship on July 12 and exiled Melina Mercouri. King Constantine II fled the country on December 13 when his own counter-coup failed.",
+      "date": "1967-04-21",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.suharto": {
+      "section": "world",
+      "label": "Suharto takes power in Indonesia",
+      "value": "Power passed from Sukarno on February 22, and on March 12 the Indonesian State Assembly stripped Sukarno of all presidential powers and named Suharto acting president",
+      "date": "1967-02-22",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "world.pound_devalued": {
+      "section": "world",
+      "label": "Pound sterling devalued",
+      "value": "One pound went from 2.80 to 2.40 US dollars",
+      "detail": "Harold Wilson had announced on May 2 that the United Kingdom would apply for membership of the European Economic Community, the United Kingdom and Ireland applied officially on May 11, and Charles de Gaulle vetoed British entry on October 27 for the second time in the decade.",
+      "date": "1967-11-18",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Graduate, $43,100,000, United Artists and Embassy",
+        "Guess Who's Coming to Dinner, $25,500,000, Columbia",
+        "Bonnie and Clyde, $22,000,000, Warner Bros.",
+        "The Dirty Dozen, $20,100,000, MGM",
+        "Valley of the Dolls, $20,000,000, 20th Century Fox"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Domestic rentals. The same page's release calendar puts The Graduate on December 21 and Guess Who's Coming to Dinner on December 12, so the two largest figures come from films in cinemas for weeks rather than months. To Sir, with Love took $19,100,000 at six, You Only Live Twice $18,000,000 at seven, The Jungle Book $13,000,000 at nine and Camelot $12,300,000 at ten.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "In the Heat of the Night",
+      "detail": "Awarded the following spring at the 40th Academy Awards, where it took five awards from seven nominations, more wins than any other film. Bonnie and Clyde and Guess Who's Coming to Dinner led on nominations with ten each and Doctor Dolittle had nine. Bonnie and Clyde, The Graduate and Guess Who's Coming to Dinner were each nominated for Picture, Director, Actor, Actress and Screenplay, the first time three films had managed that in one year, and none of the three won Best Picture. Mike Nichols won Best Director for The Graduate, which won nothing else. Cinematography, art direction and costume design were merged into single categories, having been split between colour and monochrome films until then.",
+      "source": "https://en.wikipedia.org/wiki/40th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Rod Steiger, In the Heat of the Night",
+        "Best Actress, Katharine Hepburn, Guess Who's Coming to Dinner",
+        "Best Supporting Actor, George Kennedy, Cool Hand Luke",
+        "Best Supporting Actress, Estelle Parsons, Bonnie and Clyde"
+      ],
+      "detail": "Warren Beatty, Dustin Hoffman and Paul Newman were the other Best Actor nominees along with Spencer Tracy, nominated posthumously for Guess Who's Coming to Dinner. Anne Bancroft and Faye Dunaway were both nominated for Best Actress. An all-out push by Academy president Gregory Peck got 18 of the 20 acting nominees to the ceremony, the absentees being Tracy and Katharine Hepburn. Edith Evans, nominated for The Whisperers, was the last performer born in the 1880s to receive an acting nomination. Edith Head went without a costume design nomination for the first time since the category began, after 30 nominations and 7 wins in 18 years.",
+      "source": "https://en.wikipedia.org/wiki/40th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Belle de jour, directed by Luis Bunuel, France and Italy",
+        "Playtime, directed by and starring Jacques Tati, France",
+        "Weekend, directed by Jean-Luc Godard, France",
+        "Le samourai, starring Alain Delon, France",
+        "Le depart, directed by Jerzy Skolimowski, Belgium",
+        "Elvira Madigan, directed by Bo Widerberg, Sweden"
+      ],
+      "detail": "Belle de jour took the Golden Lion at Venice and Le depart the Golden Bear at Berlin. The Palme d'Or at Cannes went to Blowup, directed by Michelangelo Antonioni of Italy. Closely Watched Trains won the Academy Award for Best Foreign Language Film and Live for Life the Golden Globe. Playtime reached cinemas on December 16 and Belle de jour on May 24. Charlie Chaplin made his last film, A Countess from Hong Kong, the only one of his films shot in colour, and wrote its score.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_film"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases",
+      "value": [
+        "You Only Live Twice, starring Sean Connery, June 13",
+        "The Dirty Dozen, June 15",
+        "In the Heat of the Night, directed by Norman Jewison, starring Sidney Poitier and Rod Steiger, August 2",
+        "Cool Hand Luke, November 1",
+        "In Cold Blood, directed by Richard Brooks, December 14",
+        "Doctor Dolittle, December 19"
+      ],
+      "detail": "Bonnie and Clyde premiered on August 13 with Warren Beatty, Faye Dunaway and Gene Hackman, and broke the taboo against showing violence on screen. The Producers opened on November 22, Wait Until Dark on October 26, Camelot on October 25 and Valley of the Dolls on December 15. Seven Arts Productions acquired substantially all the assets and business of Warner Bros. on July 15, creating Warner Bros.-Seven Arts, and the MPAA adopted a new logo.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The Jungle Book premiered on October 18, the last animated feature Walt Disney personally supervised, on a double bill with the true-life adventure Charlie, the Lonesome Cougar.",
+      "detail": "The prototype of the IMAX large-format film acquisition and screening system was exhibited at Expo 67 in Montreal on April 28. The Jungle Book soundtrack was scored by George Bruns and included The Bare Necessities.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$1.22",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1967",
+      "value": [
+        "The Andy Griffith Show, CBS, 27.6 rating",
+        "The Lucy Show, CBS, 27.0",
+        "Gomer Pyle, U.S.M.C., CBS, 25.6",
+        "Gunsmoke, CBS, 25.5",
+        "Family Affair, CBS, 25.5",
+        "Bonanza, NBC, 25.5"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Gunsmoke, Family Affair and Bonanza are tied at fourth on the same 25.5. Saturday Night at the Movies on NBC sits at ten with a 23.6, the Friday night movies on CBS at fifteen, Tuesday Night at the Movies on NBC at twenty and the Thursday night movie on CBS at twenty-three, so four of the top twenty-four slots go to films. Rowan and Martin's Laugh-In is at twenty-one with a 21.3.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1967%E2%80%9368"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Dragnet, NBC, January 12",
+        "The Smothers Brothers Comedy Hour, CBS, February 5",
+        "The Flying Nun, ABC, September 7",
+        "Spider-Man, ABC, September 9",
+        "The Carol Burnett Show, CBS, September 11",
+        "Ironside, NBC, September 14"
+      ],
+      "detail": "Saturday morning on September 9 brought George of the Jungle, The Herculoids, Fantastic Four, Shazzan, Journey to the Center of the Earth, Moby Dick and Mighty Mightor, Super Chicken and The Superman/Aquaman Hour of Adventure, and NBC aired what turned out to be the pilot of Rowan and Martin's Laugh-In the same day. What's My Line ended on September 3, having started in February 1950, and Gilligan's Island ended on September 4. The Phil Donahue Show began on WLWD on November 6.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_American_television"
+    },
+    "tv.fugitive_finale": {
+      "section": "tv",
+      "label": "The Fugitive ends",
+      "value": "The second half of the two-part finale, The Judgment, was watched in 25.7 million households, 45.9 percent of American households with a television set and a 72 percent share, the most watched episode of a television series to that point",
+      "detail": "More than 78 million people tuned in for the final confrontation between Dr. Richard Kimble and the one-armed man. The series had started on ABC in September 1963.",
+      "date": "1967-08-29",
+      "source": "https://en.wikipedia.org/wiki/1967_in_American_television"
+    },
+    "tv.super_bowl_broadcast": {
+      "section": "tv",
+      "label": "First Super Bowl carried by two networks at once",
+      "value": "CBS and NBC each broadcast the game from the Los Angeles Memorial Coliseum, seen by a combined 51.18 million viewers between them",
+      "detail": "Dark Shadows on ABC and As the World Turns on CBS became the first daytime soap operas on their networks to broadcast in colour, both on August 21.",
+      "date": "1967-01-15",
+      "source": "https://en.wikipedia.org/wiki/1967_in_American_television"
+    },
+    "tv.our_world": {
+      "section": "tv",
+      "label": "Our World, the first live international satellite broadcast",
+      "value": "Over 400 million viewers in 25 countries saw it, and the Beatles closed the programme from London with the live debut of All You Need Is Love",
+      "detail": "Eric Clapton and members of the Rolling Stones and the Who sang backing vocals. The first colour television broadcasts in the United Kingdom began on BBC2 on July 1, the first of them from the Wimbledon championships.",
+      "date": "1967-06-25",
+      "source": "https://en.wikipedia.org/wiki/1967_in_music"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "To Sir With Love, Lulu",
+        "The Letter, The Box Tops",
+        "Ode to Billie Joe, Bobbie Gentry",
+        "Windy, The Association",
+        "I'm a Believer, The Monkees"
+      ],
+      "detail": "Billboard published the survey in its issue of December 30. The Monkees had four songs on the list, more than any other artist, with A Little Bit Me, a Little Bit You at 60, Pleasant Valley Sunday at 74 and Daydream Believer at 94. The Supremes had three, at 26, 29 and 41, and the Young Rascals three, with Groovin' at nine. Light My Fire by the Doors was at six and Respect by Aretha Franklin at 13.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1967"
+    },
+    "music.sgt_pepper": {
+      "section": "music",
+      "label": "Sgt. Pepper's Lonely Hearts Club Band released",
+      "value": "Rush released in the United Kingdom as mono and stereo LPs ahead of its scheduled June 1 date, and out in the United States on June 2",
+      "detail": "The Beatles had recorded A Day in the Life at Abbey Road on February 10 with the London Philharmonic Orchestra, and the BBC then refused to air it over alleged drug references. They posed with a photographic collage and wax figures from Madame Tussaud's for the cover at Chelsea Manor Studios on March 30, and Linda Eastman photographed them at the London press party on May 19, where the media present were perplexed by the band's clothes and by the music.",
+      "date": "1967-05-26",
+      "source": "https://en.wikipedia.org/wiki/1967_in_music"
+    },
+    "music.monterey_pop": {
+      "section": "music",
+      "label": "Monterey Pop Festival",
+      "value": "Three days at Monterey, California with the Who, Simon and Garfunkel, the Byrds, Jefferson Airplane, Big Brother and the Holding Company with Janis Joplin, Jimi Hendrix and Ravi Shankar, and an estimated 55,000 in attendance",
+      "detail": "Otis Redding and the MG's went on at one in the morning after Jefferson Airplane. The KFRC Fantasy Fair and Magic Mountain Music Festival at Mount Tamalpais in Marin County the previous weekend, on June 10 and 11, had drawn between 20,000 and 40,000 to a charity bill with Canned Heat, the Byrds, the Seeds, Blues Magoos, Jefferson Airplane, the Doors and Country Joe and the Fish.",
+      "date": "1967-06-16",
+      "source": "https://en.wikipedia.org/wiki/1967_in_music"
+    },
+    "music.debut_albums": {
+      "section": "music",
+      "label": "Debut albums",
+      "value": [
+        "The Doors, The Doors, January 4",
+        "The Velvet Underground & Nico, The Velvet Underground, March 12",
+        "Are You Experienced, The Jimi Hendrix Experience, May 12 in the United Kingdom",
+        "David Bowie, David Bowie, June 1",
+        "The Piper at the Gates of Dawn, Pink Floyd, August 4"
+      ],
+      "detail": "The Piper at the Gates of Dawn peaked at number six on the UK Albums Chart and was the only Pink Floyd album made under the leadership of Syd Barrett. Jefferson Airplane's Surrealistic Pillow came out on February 1 and Cream's Disraeli Gears on November 10. Capitol Records pulled the plug on the Beach Boys' Smile project on May 2, after Brian Wilson had spent more than a year on it and could not bring himself to finish it.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_music"
+    },
+    "tech.apollo_1": {
+      "section": "tech",
+      "label": "Apollo 1 fire",
+      "value": "Gus Grissom, Ed White and Roger Chaffee were killed when fire broke out in their spacecraft during a launch pad test",
+      "detail": "Grissom was born in 1926, White in 1930 and Chaffee in 1935. NASA announced the crew of Apollo 7, the first Apollo flight with a crew, on May 18: Wally Schirra, Donn F. Eisele and R. Walter Cunningham. The astronaut Edward Givens died on June 6 and Clifton Williams on October 5.",
+      "date": "1967-01-27",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "tech.outer_space_treaty": {
+      "section": "tech",
+      "label": "Outer Space Treaty signed",
+      "value": "The United States, the Soviet Union and the United Kingdom signed it, prohibiting weapons of mass destruction from space",
+      "detail": "The Soviet Union ratified it on May 19 and it came into force on October 10. The Rescue Agreement, setting out rights and obligations in outer space, was voted into consensus by the United Nations General Assembly on December 19.",
+      "date": "1967-01-27",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Surveyor 3 landed on the Moon, April 20",
+        "Vladimir Komarov became the first Soviet cosmonaut to die when the parachute of his Soyuz 1 capsule failed on re-entry, April 24",
+        "Venera 4 launched, the first space probe to analyse another planet's atmosphere and return data, June 12",
+        "Mariner 5 launched toward Venus, June 14, and flew past it on October 19",
+        "The first Saturn V rocket carried the uncrewed Apollo 4 test spacecraft into Earth orbit from Cape Kennedy, November 9"
+      ],
+      "detail": "Venera 4 descended through the Venusian atmosphere on October 18. NASA launched Lunar Orbiter 3 on February 5 and Lunar Orbiter 4 on May 4. An X-15 flown by William J. Knight set an unofficial world fixed-wing speed record of Mach 6.7 on October 3, and the test pilot Michael Adams was killed on November 15 when his X-15 tumbled out of control during re-entry and disintegrated.",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "tech.atm": {
+      "section": "tech",
+      "label": "First automatic cash machine",
+      "value": "A voucher-based machine was installed at the Barclays Bank office in Enfield",
+      "date": "1967-06-27",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "tech.astronomy": {
+      "section": "tech",
+      "label": "Discoveries in astronomy",
+      "value": [
+        "Jocelyn Bell and Antony Hewish noted a pulsar on August 6, and the first pulsar found by Earth observers was located in the constellation Vulpecula on November 28 and named PSR B1919+21",
+        "John Archibald Wheeler used the term black hole for the first time, December 19"
+      ],
+      "detail": "The year page carries the pulsar as two entries, noted by Bell and Hewish on August 6 and first discovered on November 28, without reconciling them, and this fact keeps both rather than choosing. The August 6 entry rests on a newspaper report that an entirely novel kind of star came to light on that date. The black hole coinage is on the US year page, not the year page.",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "tech.heart_transplant": {
+      "section": "tech",
+      "label": "First human heart transplant",
+      "value": "Christiaan Barnard carried it out at Groote Schuur Hospital in Cape Town",
+      "date": "1967-12-03",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.33 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.40 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Fire in a capsule on the launch pad in January and Detroit burning through the last week of July, be-ins in Golden Gate Park and Griffith Park in between, and a world's fair running in Montreal from April to October."
+    },
+    "culture.expo67": {
+      "section": "culture",
+      "label": "Expo 67 opens in Montreal",
+      "value": "Lester B. Pearson lit the Expo Flame at the Place des Nations to mark the centennial of Canadian Confederation, and the fair opened to the public the next day with over 310,000 people attending",
+      "detail": "Al Carter of Chicago was the first visitor through the gates, as noted by Expo officials. Expo 67 closed on October 29 after attracting more than 50 million visitors in six months. Canada celebrated its first hundred years of Confederation on July 1, and Charles de Gaulle called out Vive le Quebec libre during a state visit on July 24.",
+      "date": "1967-04-27",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "culture.summer_of_love": {
+      "section": "culture",
+      "label": "Summer of Love",
+      "value": "Held in San Francisco",
+      "detail": "No date, because the US year page lists it undated. The Human Be-In had taken place in Golden Gate Park on January 14. The Mantra-Rock Dance, called the ultimate high of the hippie era, followed in San Francisco on January 28 with Swami Bhaktivedanta, Janis Joplin, the Grateful Dead and Allen Ginsberg. A second Human Be-In was held in Griffith Park in Los Angeles on February 25, and 10,000 gathered for a be-in in Central Park on March 26.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    },
+    "culture.rolling_stone": {
+      "section": "culture",
+      "label": "First issue of Rolling Stone",
+      "value": "Published in San Francisco, with a cover dated November 9 carrying a photograph of John Lennon in the film How I Won the War",
+      "detail": "The music page has the first issue rolling off the press at about half past five in the afternoon on October 18 under that November 9 cover date, while the US year page dates the publication itself to November 9. This fact follows the press date. The magazine's original inspiration was Bomp! magazine in California.",
+      "date": "1967-10-18",
+      "source": "https://en.wikipedia.org/wiki/1967_in_music"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Physics, Hans Bethe",
+        "Chemistry, Manfred Eigen, Ronald George Wreyford Norrish and George Porter",
+        "Physiology or Medicine, Ragnar Granit, Haldan Keffer Hartline and George Wald",
+        "Literature, Miguel Angel Asturias",
+        "Peace, not awarded"
+      ],
+      "detail": "Two past Peace laureates died during the year, Albert Luthuli on July 21 and Norman Angell on October 7.",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Boston Red Sox four games to three for their eighth title",
+      "detail": "Boston had clinched the American League pennant on October 1, finishing 92 and 70 and one game ahead of the Minnesota Twins and the Detroit Tigers, and Carl Yastrzemski won the Triple Crown. The Kansas City Athletics became the Oakland Athletics in October, for the following season.",
+      "date": "1967-10-12",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl I",
+      "value": "Green Bay Packers of the NFL beat the Kansas City Chiefs of the AFL 35 to 10 at the Los Angeles Memorial Coliseum, with 61,946 in the stadium",
+      "detail": "Bart Starr, the Green Bay quarterback, was most valuable player.",
+      "date": "1967-01-15",
+      "source": "https://en.wikipedia.org/wiki/1967_in_sports"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Green Bay Packers beat the Dallas Cowboys 21 to 17 at Lambeau Field in the game known as the Ice Bowl",
+      "detail": "The Oakland Raiders beat the Houston Oilers 40 to 7 for the American Football League championship, and the New Orleans Saints were formed.",
+      "date": "1967-12-31",
+      "source": "https://en.wikipedia.org/wiki/1967_in_sports"
+    },
+    "sports.ali_stripped": {
+      "section": "sports",
+      "label": "Muhammad Ali stripped of the heavyweight title",
+      "value": "The various commissions took his titles and banned him from boxing for refusing to be inducted into the United States Army",
+      "detail": "He had refused military service in Houston on April 28 and was barred from professional boxing for the next three years.",
+      "date": "1967-05-09",
+      "source": "https://en.wikipedia.org/wiki/1967_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Toronto Maple Leafs over the Montreal Canadiens, four games to two",
+        "NBA Finals, Philadelphia 76ers over the San Francisco Warriors, four games to two",
+        "NCAA basketball, UCLA 79, Dayton 64",
+        "European Cup, Celtic beat Internazionale 2 to 1 in Lisbon",
+        "FA Cup, Tottenham Hotspur 2, Chelsea 1",
+        "Wimbledon singles, John Newcombe over Wilhelm Bungert and Billie Jean King over Ann Haydon-Jones"
+      ],
+      "detail": "Celtic were the first British club to win the European Cup, and took the Scottish league championship, the Scottish Cup and the Scottish League Cup in the same season with a side born entirely within 30 miles of Glasgow. The UCLA win was the first of a record seven consecutive titles, and the American Basketball Association began play against the NBA. The Toronto win was the last game of the Original Six era, six more teams joining the NHL in the autumn. Jack Nicklaus led the PGA Tour with $188,998 and Kathy Whitworth the LPGA Tour with $32,937. Foinavon won the Grand National. Carl Yastrzemski and Billie Jean King were the Associated Press athletes of the year.",
+      "source": "https://en.wikipedia.org/wiki/1967_in_sports"
+    },
+    "deaths.oppenheimer": {
+      "section": "deaths",
+      "label": "J. Robert Oppenheimer",
+      "value": "Died February 18. Born 1904",
+      "detail": "American physicist.",
+      "date": "1967-02-18",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "deaths.adenauer": {
+      "section": "deaths",
+      "label": "Konrad Adenauer",
+      "value": "Died April 19. Born 1876",
+      "detail": "German statesman, the first Chancellor of the Federal Republic of Germany.",
+      "date": "1967-04-19",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "deaths.tracy": {
+      "section": "deaths",
+      "label": "Spencer Tracy",
+      "value": "Died June 10. Born 1900",
+      "detail": "American actor, of a heart attack.",
+      "date": "1967-06-10",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "deaths.coltrane": {
+      "section": "deaths",
+      "label": "John Coltrane",
+      "value": "Died July 17. Born 1926",
+      "detail": "American jazz saxophonist.",
+      "date": "1967-07-17",
+      "source": "https://en.wikipedia.org/wiki/1967"
+    },
+    "deaths.redding": {
+      "section": "deaths",
+      "label": "Otis Redding",
+      "value": "Died December 10. Born 1941",
+      "detail": "American soul singer, aged 26, killed when the plane he was on crashed into Lake Monona near Madison, Wisconsin. Ben Cauley was the only survivor.",
+      "date": "1967-12-10",
+      "source": "https://en.wikipedia.org/wiki/1967_in_the_United_States"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1967. figures_basis is rentals: bo.mjs reports RENTALS and the box office table's column header reads Rank, Title, Distributor, Domestic rentals. Nothing on the film page contradicts the header this year, so film.gross states the basis without having to name a conflict. Date checks. The Carl Stokes election has a checkable internal constraint and it holds: November 1 fell on a Wednesday, so the first Monday was November 6 and the Tuesday after it was November 7, which is what both year pages give. The Academy Awards ceremony date holds too, the 40th Academy Awards page giving April 10 of the following year for films of 1967, which matches the awards table on the film page; the ceremony year is not named in any fact string because it is later than this file's year, and film.best_picture says the following spring instead. That page also records that the ceremony was pushed back two days from April 8 after the assassination of Martin Luther King Jr., which is left out for the same reason. The Twenty-fifth Amendment did not hold on the year pages. The US year page has three entries for it, ratified February 10, enacted February 23 and added to the Constitution May 25, and the year page repeats the first two. The article on the amendment itself gives February 10 as the day the requisite 38 states had ratified, with Nevada last, so pol.25th_amendment cites https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution, uses February 10, and names the three entries in its detail. That article was pulled for this check and is the one source here from outside the cache. Other source disagreements labelled rather than resolved. The year page puts the Pentagon march on October 21 with about 70,000 in Washington and 50,000 going on to the building, while the US year page has tens of thousands on October 21 and a separate March on the Pentagon of several thousand on October 27; pol.antiwar_march follows October 21 and says so. The year page carries the pulsar twice, noted August 6 and first discovered November 28, and tech.astronomy keeps both entries rather than choosing. Rolling Stone is dated October 18 by the music page, which has the issue coming off the press under a November 9 cover date, and November 9 by the US year page; culture.rolling_stone follows the press date and names the split. The Mantra-Rock Dance is January 28 on the US year page and January 29 on the music page, and culture.summer_of_love uses the US year page date because the rest of that detail comes from the same page. The Marine Broadcasting Offences Act is August 14 on the music page and August 15 on the year page; the texture paragraph uses August 15 from the year page. The Buffalo riot led to 200 arrests on the US year page and over 180 on the year page, and pol.detroit_riot gives the figure from the page it cites and names the other. The Otis Redding crash killed all five members of his band with Ben Cauley the only survivor according to the US year page, while the music page says four of the six Bar-Kays died among six dead in total; deaths.redding carries only the survivor, which both pages agree on. No radio fact, because the radio window closed after 1959. The BBC radio restructuring of September 30, the launch of Radio 1 and Radio 2, and the Marine Broadcasting Offences Act are carried in texture instead, which is where radio material belongs in this era. The Nielsen ranking covers a season that began in the autumn of 1967 and ran into the following spring, which tv.top_shows states without naming a second year. Month-only or undated facts: culture.summer_of_love has no date field because the US year page lists it under Undated, and its detail says so. Facts that take part of their content from a second cached page, recorded here rather than left for a reader to find. music.sgt_pepper takes the May 26 rush release and the recording and cover sessions from the music page, and the June 2 United States release date from the US year page. sports.world_series takes the October 12 result and the pennant race from the US year page, while Bob Gibson as series MVP is on the sports page and is left out to keep the fact on one page. sports.ali_stripped takes May 9 and the ban from the sports page and the April 28 refusal in Houston from the year page. tech.astronomy takes the pulsar from the year page and the black hole coinage of December 19 from the US year page, and its detail names the split. tv.our_world takes the 400 million viewers in 25 countries and the backing singers from the music page, and the first United Kingdom colour broadcasts of July 1 from the year page. world.greek_coup takes the coup, Papandreou, the 480 citizenships and the exile of Melina Mercouri from the year page, and the army decree of June 1 banning Theodorakis and his five-month jailing from August 21 from the music page. film.best_picture and film.acting_awards come from the 40th Academy Awards page. Dropped for lack of a source that says enough: the Grammy Awards, because the music page carries only a bare link and the ceremony of March 2 honoured the previous year's recordings; Lonsdaleite in the Barringer Crater, PAL's introduction in Germany, Warner Bros. becoming a subsidiary of Seven Arts, and Albania being declared an atheist state, all undated on the year pages; Islamabad becoming Pakistan's political capital, which the year page gives as November with no day. Dropped to hold the section counts down rather than for want of a source: the Australian referendum of May 27 that removed two discriminatory sentences about Indigenous Australians with 90 percent support; the Public Broadcasting Act signed November 7, which created the Corporation for Public Broadcasting; the Hong Kong riots of May and October; the Freedom of Information Act taking effect July 5; the Boeing 737's first flight on April 9 and Concorde's unveiling at Toulouse on December 11; the founding of ASEAN in Bangkok on August 8; the fire aboard the carrier Forrestal in the Gulf of Tonkin on July 29 that left 134 dead; Hair opening off-Broadway on October 17; the first North Sea gas coming ashore at Easington on March 4; the tornado outbreak of April 21 that killed 33 around Chicago; the Lisbon floods of November 26 that killed 462; Aretha Franklin recording Respect on February 14 and Aretha Franklin Day being declared in Detroit two days later; Jimi Hendrix setting fire to his guitar at the London Astoria on March 31; and Evel Knievel's crash at Caesars Palace on December 31. Deaths that would have earned a place with more room: Clement Attlee on October 8, Woody Guthrie and Malcolm Sargent both on October 3, Rene Magritte on August 15, Vivien Leigh on July 8, Brian Epstein on August 27, Carl Sandburg on July 22, Dorothy Parker on June 7, Langston Hughes on May 22, Edward Hopper on May 15, Puyi on October 17, Jayne Mansfield on June 29, Harold Holt lost at Cheviot Beach on December 17. Che Guevara has a world fact rather than a death fact, because the capture and the execution are the event and a second entry would only repeat it. Deaths carry a birth year rather than an age, because the year page gives only the year; the exception is Otis Redding, whose age of 26 comes from the US year page. Names and titles are written in ASCII per the corpus convention, so Luis Bunuel, Le samourai, Le depart, Miguel Angel Asturias and Gomer Pyle, U.S.M.C. lose their diacritics. General knowledge rather than a claim from the cached pages: that a 1967 audience saw new releases in a theatre, which film.how_people_watched states as the answer to its own question and which comes out if challenged; and the inference in film.gross that a rentals figure for a film released in the second half of December must include earnings past the end of the year, which the fact states as release dates only and leaves for the reader."
+}

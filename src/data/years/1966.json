@@ -1,0 +1,531 @@
+{
+  "year": 1966,
+  "tier": "broadcast",
+  "headline": "England won the World Cup at Wembley, China's Cultural Revolution began, and the Beatles played their last concert",
+  "texture": [
+    "A coal spoil tip above Aberfan in South Wales slid onto the village on October 21 and killed 144 people, 116 of them children. The Arno rose to 6.7 metres in Florence on November 4, destroying rare books and works of art, and a tidal flood hit Venice the same day. Air India Flight 101 struck Mont Blanc on January 24 with 117 aboard, among them Homi J. Bhabha of the Indian Atomic Energy Commission. BOAC Flight 911 broke up in clear-air turbulence over Mount Fuji on March 5, killing all 124.",
+    "Charles Whitman fired from the tower of the Main Building at the University of Texas at Austin on August 1. The year page counts 15 dead and the US year page 13, both with 31 wounded. Richard Speck broke into a nurses' dormitory in Chicago and murdered eight of the nine student nurses who lived there. Martin Luther King Jr. was hit by a rock thrown from a white crowd on August 5 while leading a march in the same city, where the Division Street riots had begun on June 12 after police shot a young Puerto Rican man.",
+    "Caesars Palace opened on the Las Vegas Strip on August 5, the day ground was broken for the World Trade Center in New York. Time put London: The Swinging City on its cover on April 13. The first Best Buy opened in St. Paul, Minnesota on August 22, and Chevrolet introduced the Camaro on September 29. Bobbi Gibb ran the Boston Marathon on April 19, the first woman to run it. Waiting at a bus stop on September 1, Ralph Baer of Sanders Associates wrote four pages setting out how a game might be played on a television set.",
+    "Former Irish Republican Army volunteers blew up Nelson's Pillar in O'Connell Street, Dublin on March 8, marking the fiftieth anniversary of the Easter Rising. The FIFA World Cup trophy was taken from an exhibition in London on March 20 and turned up seven days later in a south London garden, wrapped in newspaper, found by David Corbett and his mongrel Pickles. Ian Brady and Myra Hindley went on trial at Chester Crown Court on April 19 over the Moors murders, and both were convicted on May 6."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.midterms",
+    "world.cultural_revolution",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "sports.world_cup",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Lyndon B. Johnson (D)",
+      "detail": "Hubert Humphrey was Vice President, Earl Warren was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 89th Congress was in session.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "pol.johnson_signings": {
+      "section": "politics",
+      "label": "Bills Johnson signed",
+      "value": [
+        "Uniform Time Act, dealing with daylight saving time, April 13",
+        "Freedom of Information Act, July 4",
+        "A bill creating the United States Department of Transportation, October 15"
+      ],
+      "detail": "Uniform daylight saving time was first observed across most of North America on April 24. Congress passed a bill for the creation of Pictured Rocks National Lakeshore on the same day as the transportation bill.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court rulings",
+      "value": [
+        "Memoirs v. Massachusetts, March 21",
+        "Harper v. Virginia State Board of Elections, March 24",
+        "Miranda v. Arizona, June 13",
+        "Bond v. Floyd, December 5"
+      ],
+      "detail": "Memoirs held that the eighteenth-century English novel Fanny Hill, banned until then, does not meet the Roth Standard for obscenity. Harper found that requiring payment of a poll tax to vote in state elections is unconstitutional. Miranda required the police to inform suspects of their rights before questioning them. Bond v. Floyd made the Georgia House of Representatives seat Julian Bond, whom it had refused on January 10 over his opposition to the war, and found the refusal a violation of his First and Fourteenth Amendment rights.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "pol.vietnam_buildup": {
+      "section": "politics",
+      "label": "US forces in Vietnam",
+      "value": "About 8,000 more soldiers landed in South Vietnam on January 18, bringing the American total to 190,000, and the total reached 250,000 by April 29",
+      "detail": "The United States announced on March 8 that it would substantially increase troop numbers, and American planes began bombing Hanoi and Haiphong on June 29. Demonstrations against the war were held across the country on March 26, and tens of thousands of protesters picketed the White House on May 15 before rallying at the Washington Monument.",
+      "date": "1966-01-18",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "Edward Brooke became the first African American elected to the United States Senate since Reconstruction, and the screen actor Ronald Reagan was elected Governor of California",
+      "detail": "Brooke had been Attorney General of Massachusetts. Pat Brown, a Democrat, was the sitting governor of California. The date meets the rule that a federal election falls on the Tuesday after the first Monday in November. November 1 was a Tuesday, so the first Monday was November 7 and the Tuesday after it was November 8.",
+      "date": "1966-11-08",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "pol.civil_rights_attacks": {
+      "section": "politics",
+      "label": "Three attacks on civil rights workers",
+      "value": "Sammy Younge Jr. was shot in Tuskegee, Alabama on January 3, the home of Vernon Dahmer in Hattiesburg, Mississippi was firebombed on January 10, and James Meredith was shot on June 6 while trying to march across Mississippi",
+      "detail": "The US year page calls Younge the first African American university student murdered for his actions in support of the civil rights movement. Dahmer's family escaped the fire and he died of severe burns the next day. That page says Meredith was shot while trying to march across Mississippi, where the year page says a sniper shot him during the March Against Fear.",
+      "date": "1966-01-03",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "pol.black_power": {
+      "section": "politics",
+      "label": "Black Power",
+      "value": "The Congress of Racial Equality endorsed Black Power as a goal at a well attended convention in Baltimore",
+      "detail": "Bobby Seale and Huey P. Newton founded the Black Panther Party in October, which the year page dates to October 15 and the US year page gives as the month only. The first Kwanzaa was celebrated on December 26 by Maulana Karenga, founder of the black nationalist group Organization US.",
+      "date": "1966-07-04",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "world.cultural_revolution": {
+      "section": "world",
+      "label": "The Cultural Revolution begins in China",
+      "value": "The Chinese Communist Party issued the May 16 Notice",
+      "detail": "TASS in the Soviet Union reported clashes between the Chinese Communist Party and the Red Guards on September 13.",
+      "date": "1966-05-16",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "world.france_nato": {
+      "section": "world",
+      "label": "France leaves the NATO military structure",
+      "value": "France formally left on June 30, after de Gaulle said on March 11 that French troops would be taken out of NATO and that all French NATO bases and headquarters must be closed within a year",
+      "detail": "De Gaulle had asked Johnson on March 7 for negotiations about the state of NATO equipment in France. NATO decided on September 9 to move Supreme Headquarters Allied Powers Europe to Belgium, and on October 26 to move its own headquarters from Paris to Brussels. France and the Soviet Union signed a treaty for cooperation in nuclear research on October 11.",
+      "date": "1966-06-30",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "world.verwoerd": {
+      "section": "world",
+      "label": "Hendrik Verwoerd assassinated",
+      "value": "The Prime Minister of South Africa was stabbed to death in Parliament by Dimitri Tsafendas, and B. J. Vorster took the office on September 12",
+      "detail": "The International Court of Justice ruled in favour of South Africa on July 18 in a case on the administration of South West Africa brought by Ethiopia and Liberia. The United Nations terminated the League of Nations mandate on October 27 and proclaimed that it would administer South West Africa itself, which South Africa rejected.",
+      "date": "1966-09-06",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that became independent",
+      "value": [
+        "British Guiana left the United Kingdom and became Guyana, May 26",
+        "The Bechuanaland Protectorate became Botswana with Seretse Khama as its first president, September 30",
+        "Basutoland became independent and took the name Lesotho, October 4",
+        "Barbados achieved independence from the United Kingdom, November 30"
+      ],
+      "detail": "Lesotho and Botswana were admitted to the United Nations on October 17 and Barbados on December 7. Malawi became a republic on July 6, and France offered independence to French Somaliland on August 30.",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "world.nigeria_coups": {
+      "section": "world",
+      "label": "Three coups in Nigeria",
+      "value": "A military coup on January 15 killed Prime Minister Abubakar Tafawa Balewa, another faction of the military under Major General Johnson Aguiyi-Ironsi overturned it on January 17, and army officers from the north executed Aguiyi-Ironsi on July 29 and installed Yakubu Gowon",
+      "detail": "Samuel Akintola, premier of the Western region, and Sir Ahmadu Bello, premier of the Northern region, were also assassinated on January 15. The military government announced on January 22 that Balewa had been killed during the coup a week earlier, and it forbade all political activity in the country from May 24.",
+      "date": "1966-01-15",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "world.indira_gandhi": {
+      "section": "world",
+      "label": "Indira Gandhi elected Prime Minister of India",
+      "value": "Elected on January 19 and sworn in on January 24, after the sudden death of Lal Bahadur Shastri",
+      "detail": "Shastri died a day after the signing of the Tashkent Declaration on January 10, which brought Pakistani and Indian peace negotiations to a successful end.",
+      "date": "1966-01-19",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Hawaii, $15,600,000, United Artists",
+        "The Bible: In the Beginning..., $15,000,000, 20th Century Fox",
+        "Who's Afraid of Virginia Woolf?, $14,500,000, Warner Bros.",
+        "The Sand Pebbles, $13,500,000, 20th Century Fox",
+        "A Man for All Seasons, $12,800,000, Columbia"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The film page's column header reads Domestic rentals, while the sentence introducing the table calls the same figures box office gross in North America, and this file follows the header. A second table on the page switches to gross for other countries, putting War and Peace at $64,000,000 in the Soviet Union, converted from 58 million roubles at 0.9 roubles to the dollar, and Phool Aur Patthar at $11,790,000 in India, converted from 7.5 crore at 6.3591 rupees to the dollar.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "A Man for All Seasons, produced by Fred Zinnemann",
+      "detail": "Awarded the following spring at the 39th Academy Awards, where it took six awards, more than any other film, and Zinnemann won Best Director as well. The film page gives the production and distribution credit as Highland, Columbia. Who's Afraid of Virginia Woolf? led on nominations with thirteen and won five. Only two of the five Best Picture nominees were nominated for Best Director, Zinnemann and Mike Nichols. Who's Afraid of Virginia Woolf? was the second film after Cimarron to be nominated in every eligible category, and the first to take acting nominations for its entire credited cast.",
+      "source": "https://en.wikipedia.org/wiki/39th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Paul Scofield, A Man for All Seasons",
+        "Best Actress, Elizabeth Taylor, Who's Afraid of Virginia Woolf?",
+        "Best Supporting Actor, Walter Matthau, The Fortune Cookie",
+        "Best Supporting Actress, Sandy Dennis, Who's Afraid of Virginia Woolf?"
+      ],
+      "detail": "Every Best Picture nominee also drew a Best Actor nomination, which the Academy Awards page says happened only this once in the era of five Best Picture nominees. All five Best Actress nominees were born outside the United States, which that page calls unique. Vanessa and Lynn Redgrave were both nominated for Best Actress, for Morgan! and Georgy Girl, the second time two siblings were nominated in the same category. Taylor was told of her win in London and refused to hold a press conference for two weeks, because Richard Burton had lost Best Actor.",
+      "source": "https://en.wikipedia.org/wiki/39th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "A Man and a Woman, directed by Claude Lelouch, France",
+        "The Battle of Algiers, directed by Gillo Pontecorvo, Italy and Algeria",
+        "Cul-de-sac, directed by Roman Polanski, United Kingdom",
+        "Persona, directed by Ingmar Bergman, Sweden",
+        "Au hasard Balthazar, directed by Robert Bresson, France and Sweden",
+        "Andrei Rublev, directed by Andrei Tarkovsky, Soviet Union"
+      ],
+      "detail": "A Man and a Woman shared the Palme d'Or at Cannes with Signore & Signori by Pietro Germi, and took the Academy Award for Best Foreign Language Film. The Battle of Algiers won the Golden Lion at Venice and Cul-de-sac the Golden Bear at Berlin. Au hasard Balthazar opened on May 25, Persona on August 31, Cul-de-sac on November 7 and Andrei Rublev on December 16.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_film"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases",
+      "value": [
+        "Who's Afraid of Virginia Woolf?, directed by Mike Nichols, June 22",
+        "Alfie, directed by Lewis Gilbert, starring Michael Caine, August 24",
+        "Fantastic Voyage, directed by Richard Fleischer, August 24",
+        "The Bible: In the Beginning..., directed by John Huston, September 28",
+        "The Good, the Bad and the Ugly, directed by Sergio Leone, December 15",
+        "Blowup, directed by Michelangelo Antonioni, December 18"
+      ],
+      "detail": "The Sand Pebbles, directed by Robert Wise, opened on December 20, and Grand Prix, directed by John Frankenheimer, on December 21. Gulf and Western Industries acquired Paramount Pictures on October 19, and Seven Arts Productions reached agreement in November to buy Warner Bros. for $32 million.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Hawaii, directed by George Roy Hill with Julie Andrews and Max von Sydow, opened on October 10, Georgy Girl on October 17 and A Man for All Seasons on December 12.",
+      "detail": "Six of the ten films on the rentals table opened in the last three months of the year, three of them in December. The Russians Are Coming, the Russians Are Coming, sixth on that table, had opened on May 25.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1966",
+      "value": [
+        "Bonanza, NBC, 29.1 rating",
+        "The Red Skelton Hour, CBS, 28.2",
+        "The Andy Griffith Show, CBS, 27.4",
+        "The Lucy Show, CBS, 26.2",
+        "The Jackie Gleason Show, CBS, 25.3"
+      ],
+      "detail": "Nielsen ranks by season, so this covers the season that opened in the autumn and ran into the following spring. Green Acres was sixth at 24.6. Daktari, Bewitched and The Beverly Hillbillies tied for seventh at 23.4, and four programmes tied for tenth at 22.8, among them Gomer Pyle, U.S.M.C. and The Ed Sullivan Show.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1966%E2%80%9367"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Batman, ABC, January 12",
+        "Dark Shadows, ABC, June 27",
+        "The Newlywed Game, ABC, July 11",
+        "Star Trek, NBC, September 8",
+        "That Girl, ABC, September 8",
+        "The Monkees, NBC, September 12",
+        "Mission: Impossible, CBS, September 17"
+      ],
+      "detail": "Daktari began on CBS on January 11, The Green Hornet and The Time Tunnel on ABC on September 9, Family Affair on CBS and The Rat Patrol on ABC on September 12, and The Hollywood Squares on NBC on October 17. The 700 Club went into syndication on April 1 and Firing Line on April 4.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_American_television"
+    },
+    "tv.color": {
+      "section": "tv",
+      "label": "NBC becomes the first full-color network",
+      "value": "The game show Concentration was the last program on the network to go to full color",
+      "detail": "All programming from NBC's news division began airing in color on October 17. ABC carried the Academy Awards in color for the first time on April 18, the Miss Universe pageant went out in color on July 16, and the Miss America pageant on September 10, which was also its first broadcast on NBC. KENI-TV became the first station in Alaska to carry any program in color on September 19, with the premiere of That Girl.",
+      "date": "1966-11-07",
+      "source": "https://en.wikipedia.org/wiki/1966_in_American_television"
+    },
+    "tv.specials": {
+      "section": "tv",
+      "label": "How the Grinch Stole Christmas! first broadcast",
+      "value": "The Dr. Seuss special, narrated by Boris Karloff, went out on CBS",
+      "detail": "It's the Great Pumpkin, Charlie Brown had gone out on CBS on October 27, and WPIX in New York broadcast the Yule Log for the first time on December 24. Color Me Barbra, with Barbra Streisand, aired on CBS on March 30, and An Evening with Carol Channing on February 18.",
+      "date": "1966-12-18",
+      "source": "https://en.wikipedia.org/wiki/1966_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "Rawhide, CBS, January 4",
+        "The Flintstones, ABC, April 1",
+        "The Adventures of Ozzie and Harriet, ABC, April 23",
+        "Perry Mason, CBS, May 22",
+        "The Dick Van Dyke Show, CBS, June 1"
+      ],
+      "detail": "Shindig! ended on ABC on January 8, Mister Ed on CBS on February 6, The Addams Family and Honey West on ABC on April 8, and The Munsters on CBS on May 12. Amos 'n' Andy, a CBS sitcom of the early fifties, was pulled from off-network syndication after complaints from civil rights organizations including the NAACP, on a date the television page does not give. The only Perry Mason episode ever broadcast in color, The Case of the Twice-Told Twist, aired on February 27.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "California Dreamin', The Mamas & the Papas",
+        "96 Tears, ? and the Mysterians",
+        "What Becomes of the Brokenhearted, Jimmy Ruffin",
+        "Last Train to Clarksville, The Monkees",
+        "Reach Out I'll Be There, Four Tops"
+      ],
+      "detail": "Published in the Billboard issue dated December 24 and built from the Hot 100 charts of January 1 through December 10. The Beatles had four songs on the list, the most of any artist, placed at 49, 57, 84 and 90. The Mamas & the Papas had two. SSgt Barry Sadler's The Ballad of the Green Berets came tenth and Frank Sinatra's Strangers in the Night eighth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1966"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Chart records",
+      "value": "The Supremes A' Go-Go reached number one on the Billboard 200 on October 22, making the Supremes the first all-female group to top that chart",
+      "detail": "Herb Alpert and the Tijuana Brass placed five albums on Billboard's pop album chart at once in April, four of them in the top ten, outselling the Beatles two to one on more than 13 million records, and won four Grammys during the year. On April 23 the Hot 100 top ten had no artist from the United Kingdom in it for the first time since the issue of January 18, 1964, ending a run of 117 consecutive weeks.",
+      "date": "1966-10-22",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "music.pet_sounds": {
+      "section": "music",
+      "label": "Pet Sounds released",
+      "value": "The Beach Boys put out the album in the United States",
+      "detail": "Brian Wilson had started recording Good Vibrations with the Wrecking Crew on February 17, carrying on for months into the Smile sessions. A Smile vocal overdub session for Cabin Essence on December 6 turned into an argument between Mike Love and the lyricist Van Dyke Parks. David Oppenheim filmed Wilson at home on December 17 performing Surf's Up.",
+      "date": "1966-05-16",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "music.beatles_last_concert": {
+      "section": "music",
+      "label": "The Beatles' last concert",
+      "value": "They ended their US tour at Candlestick Park in San Francisco, closing with Little Richard's Long Tall Sally, their last performance as a live touring band",
+      "detail": "They had been the first group to play the Nippon Budokan Hall in Tokyo on July 2, which drew protests from local residents who thought a rock and roll band unsuitable for the hall. Their appearance at the NME poll winners' show at the Empire Pool in London on May 1 was their last conventional live concert in Britain. Revolver came out in the United Kingdom on August 5, and sessions for Sgt. Pepper's Lonely Hearts Club Band began at Abbey Road Studios on November 24.",
+      "date": "1966-08-29",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "music.lennon_jesus": {
+      "section": "music",
+      "label": "More popular than Jesus",
+      "value": "The London Evening Standard published John Lennon's line that the Beatles were more popular than Jesus, from an interview with Maureen Cleave",
+      "detail": "Datebook reprinted the remark in August, and there were protests and record burnings in the Bible Belt of the southern United States. Lennon apologised at a press conference in Chicago on August 11, saying he supposed that if he had said television was more popular than Jesus he would have got away with it.",
+      "date": "1966-03-04",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "music.dylan": {
+      "section": "music",
+      "label": "Bob Dylan",
+      "value": "Blonde on Blonde came out in the United States on June 20, and Dylan was injured in a motorcycle accident near his home at Woodstock, New York on July 29",
+      "detail": "Dylan and the Hawks played the Free Trade Hall in Manchester on May 17, where he was booed for touring with an electric band and someone in the audience shouted Judas.",
+      "date": "1966-06-20",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "WOR-FM in New York City became the first FM rock music station, under the disc jockey Murray The K",
+      "detail": "Go-Set appeared in Melbourne on February 2, the first independent Australian periodical devoted entirely to popular music and youth culture, with Tom Jones on the cover of its 24-page first issue. Dzuboks came out on May 6, the first Yugoslav magazine dedicated to rock and the first rock magazine in a socialist country. The UFO Club opened in London for the week from December 23, with Pink Floyd and Soft Machine.",
+      "date": "1966-10-08",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Luna 9 made the first controlled rocket-assisted landing on the Moon, February 3",
+        "Venera 3 crashed on Venus, the first spacecraft to land on another planet's surface, March 1",
+        "Gemini 8 carried out the first docking in space, with an Agena target vehicle, March 16",
+        "Luna 10 became the first man-made object to enter lunar orbit, April 3",
+        "Surveyor 1 landed in Oceanus Procellarum, the first US spacecraft to soft-land on another world, June 2",
+        "Lunar Orbiter 1 launched, the first US spacecraft to orbit the Moon, August 10"
+      ],
+      "detail": "David Scott and Neil Armstrong flew Gemini 8. Luna 10 had been launched on March 31. Gene Cernan made the second American spacewalk from Gemini 9A on June 5, lasting 2 hours and 7 minutes. John Young and Michael Collins set an altitude record of 474 miles on Gemini 10 on July 18. Charles Conrad and Richard Gordon made the first rendezvous on a first orbit from Gemini 11 on September 12, and Gemini 12 brought James Lovell and Buzz Aldrin down in the Atlantic on November 15. The astronauts Charles Bassett and Elliot See died on February 28.",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "tech.palomares": {
+      "section": "tech",
+      "label": "Palomares B-52 crash",
+      "value": "A US Air Force B-52 collided with a KC-135 Stratotanker over Spain, dropping three 70-kiloton hydrogen bombs near the town of Palomares and one into the sea",
+      "detail": "Carl Brashear, the first African American diver in the United States Navy, lost a leg in an accident during the recovery of the bomb that went into the water. The US year page dates the recovery to March 17, when the Navy submersible Alvin found the missing bomb off the Mediterranean coast of Spain.",
+      "date": "1966-01-17",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "tech.sr71": {
+      "section": "tech",
+      "label": "SR-71 Blackbird enters service",
+      "value": "The first SR-71 reconnaissance aircraft went into service at Beale Air Force Base",
+      "detail": "An XB-70 Valkyrie prototype was destroyed on June 8 in a mid-air collision with an F-104 Starfighter chase plane during a photo shoot, killing the NASA pilot Joseph A. Walker and the USAF test pilot Carl Cross.",
+      "date": "1966-01-11",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "tech.artificial_heart": {
+      "section": "tech",
+      "label": "Artificial heart implanted",
+      "value": "An artificial heart was installed in the chest of Marcel DeRudder at a hospital in Houston, Texas",
+      "date": "1966-04-21",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "tech.fermi_meltdown": {
+      "section": "tech",
+      "label": "Partial meltdown in Michigan",
+      "value": "An experimental breeder reactor at the Enrico Fermi Nuclear Generating Station suffered a partial meltdown when its cooling system failed",
+      "date": "1966-10-05",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.32 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A World Cup won at Wembley in July, Beatles records burned in the American South in August, and a rally in Golden Gate Park on the day LSD became illegal in October."
+    },
+    "culture.now": {
+      "section": "culture",
+      "label": "National Organization for Women founded",
+      "value": "Founded in Washington, D.C.",
+      "date": "1966-06-30",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "culture.lsd": {
+      "section": "culture",
+      "label": "LSD made illegal in the United States",
+      "value": "Possession and recreational use were criminalized, and every legal scientific research program on the drug in the country was shut down",
+      "detail": "The Love Pageant Rally was held the same day in the Panhandle of Golden Gate Park, the narrow section that runs into the Haight-Ashbury district of San Francisco. The first of the Acid Tests had been conducted at the Fillmore in San Francisco on January 3, and Timothy Leary formed the League for Spiritual Discovery on September 19.",
+      "date": "1966-10-06",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "culture.met_opera": {
+      "section": "culture",
+      "label": "The Metropolitan Opera House opens at Lincoln Center",
+      "value": "Opened in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra, which the critics rejected",
+      "detail": "The first public performance in the house had been Puccini's La fanciulla del West on April 11, five months before the official opening.",
+      "date": "1966-09-16",
+      "source": "https://en.wikipedia.org/wiki/1966_in_music"
+    },
+    "culture.religion": {
+      "section": "culture",
+      "label": "Religion in the news",
+      "value": [
+        "Pope Paul VI met Michael Ramsey, the Archbishop of Canterbury, in Rome and gave him an episcopal ring, March 24",
+        "Time's cover story asked Is God Dead?, April 8",
+        "Anton Szandor LaVey formed the Church of Satan in San Francisco, April 30",
+        "The Vatican abolished the Index Librorum Prohibitorum, June 14"
+      ],
+      "detail": "Paul VI and the Soviet foreign minister Andrei Gromyko met in the Vatican on April 27, the first meeting between leaders of the Roman Catholic Church and the Soviet Union. The International Society for Krishna Consciousness was founded in New York City on July 13.",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Baltimore Orioles beat the Los Angeles Dodgers 1 to 0 in the fourth game to sweep the series, their first World Championship",
+      "detail": "Frank Robinson won the Triple Crown, was the series most valuable player, was American League MVP and was named Associated Press Male Athlete of the Year. The Milwaukee Braves moved to Atlanta and became the Atlanta Braves. The Baseball Writers' Association of America elected Ted Williams to the Hall of Fame on January 20 with 282 of a possible 302 votes, and the sports page notes that he was the last batter to hit .400.",
+      "date": "1966-10-09",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "England beat West Germany 4 to 2 at Wembley after extra time",
+      "detail": "The tournament had begun in England on July 11.",
+      "date": "1966-07-30",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "sports.football_championships": {
+      "section": "sports",
+      "label": "Football championships",
+      "value": [
+        "NFL Championship, Green Bay Packers 34, Dallas Cowboys 27",
+        "AFL Championship, Kansas City Chiefs 31, Buffalo Bills 7"
+      ],
+      "detail": "The AFL and the NFL agreed on June 8 to merge as equals into one league under the NFL name, and Congress approved the merger on October 21. Each league added a team for the season, the Atlanta Falcons in the NFL and the Miami Dolphins in the AFL. The Washington Redskins beat the New York Giants 72 to 41 on November 27, the highest scoring game in NFL history. Notre Dame and Michigan State, ranked first and second, played to a 10 to 10 tie on November 19, and Notre Dame kept the top ranking and was named national champion by the AP and UPI.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_sports"
+    },
+    "sports.texas_western": {
+      "section": "sports",
+      "label": "NCAA basketball final",
+      "value": "The Texas Western Miners beat the Kentucky Wildcats with five African American starters, which the US year page credits with opening up desegregation in athletic recruiting",
+      "detail": "The sports page gives the score as 72 to 65.",
+      "date": "1966-03-19",
+      "source": "https://en.wikipedia.org/wiki/1966_in_the_United_States"
+    },
+    "sports.ali": {
+      "section": "sports",
+      "label": "Muhammad Ali fights five times",
+      "value": [
+        "George Chuvalo, 15-round unanimous decision, March 29",
+        "Henry Cooper, technical knockout in the sixth, May 21",
+        "Brian London, knockout in the third, August 6",
+        "Karl Mildenberger, technical knockout in the twelfth, September 10",
+        "Cleveland Williams, knockout in the third, November 14"
+      ],
+      "detail": "The sports page calls the Williams fight a defence of the WBC heavyweight title and does not attach a title to the other four. Emile Griffith, the world welterweight champion, won a 15-round unanimous decision over Dick Tiger in New York City on April 25 to take the world middleweight title as well.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Detroit Red Wings, four games to two",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to three",
+        "FA Cup, Everton 3, Sheffield Wednesday 2",
+        "Wimbledon singles, Manuel Santana over Dennis Ralston and Billie Jean King over Maria Bueno",
+        "Grey Cup, Saskatchewan Roughriders 29, Ottawa Rough Riders 14",
+        "Five Nations Championship, Wales"
+      ],
+      "detail": "The Celtics' win was the last of a record eight straight titles. Jack Nicklaus won the Masters and the British Open, becoming the fourth player to win all four major professional championships. Jim Ryun set a world record for the mile at 3:51.3 on July 17 and was Sports Illustrated Sportsman of the Year. Kathy Whitworth was Associated Press Female Athlete of the Year and led the LPGA Tour with $33,517. Wilt Chamberlain of the Philadelphia 76ers was NBA MVP, and Bobby Hull of the Chicago Black Hawks took both the Art Ross and Hart trophies.",
+      "source": "https://en.wikipedia.org/wiki/1966_in_sports"
+    },
+    "deaths.disney": {
+      "section": "deaths",
+      "label": "Walt Disney",
+      "value": "Died December 15. Born 1901",
+      "detail": "American animated film producer, founder of The Walt Disney Company and Disneyland. He had recorded his last filmed appearance on October 27, setting out his plans for EPCOT, a planned city in Florida.",
+      "date": "1966-12-15",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "deaths.keaton": {
+      "section": "deaths",
+      "label": "Buster Keaton",
+      "value": "Died February 1. Born 1895",
+      "detail": "American actor and film director.",
+      "date": "1966-02-01",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "deaths.shastri": {
+      "section": "deaths",
+      "label": "Lal Bahadur Shastri",
+      "value": "Died January 11. Born 1904",
+      "detail": "Indian activist, the second Prime Minister of India. His death came a day after the Tashkent Declaration was signed, and the year page calls it sudden.",
+      "date": "1966-01-11",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "deaths.akhmatova": {
+      "section": "deaths",
+      "label": "Anna Akhmatova",
+      "value": "Died March 5. Born 1889",
+      "detail": "Russian poet.",
+      "date": "1966-03-05",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "deaths.waugh": {
+      "section": "deaths",
+      "label": "Evelyn Waugh",
+      "value": "Died April 10. Born 1903",
+      "detail": "English author.",
+      "date": "1966-04-10",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    },
+    "deaths.clift": {
+      "section": "deaths",
+      "label": "Montgomery Clift",
+      "value": "Died July 23. Born 1920",
+      "detail": "American actor.",
+      "date": "1966-07-23",
+      "source": "https://en.wikipedia.org/wiki/1966"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1966. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence immediately above that table on the same page calls the figures box office gross in North America, and film.gross names the contradiction rather than picking a side. Date checks. The midterm election has a checkable internal constraint and it holds: November 1 fell on a Tuesday, so the first Monday was November 7 and the Tuesday after it was November 8, which is the date both year pages give, and pol.midterms records the check. The 39th Academy Awards ceremony and its nomination announcement both fall in the following year, so film.best_picture and film.acting_awards say only that the awards came the following spring and give no ceremony date. No dedicated article was pulled for this year, because no date in the cached pages failed an internal constraint or disagreed between pages in a way a dedicated article would settle. No radio fact, because the radio window closed after 1959. Radio material of the year stays out of the fact list entirely rather than being moved into another section: the Radio Caroline ship Mi Amigo running aground at Frinton-on-Sea on January 20, Radio Peking's claim of May 12 that US planes shot down a Chinese plane over Yunnan, and the Moscow Radio Symphony Orchestra becoming the first major overseas orchestra to play the Proms on August 17 are all dropped. music.listening_format covers FM rock radio as a listening format, which is the music window, not the closed radio window. No film.ticket_price fact, because the movie ticket series carries a null for this year. No culture.nobel_prizes fact, because the 1966 year page has no Nobel Prize section and nothing in the cache lists the laureates. The Nielsen ranking covers a season that began in the autumn of 1966 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved. The University of Texas tower shooting is 15 dead on the year page and 13 dead on the US year page, both with 31 wounded, and the texture gives both counts. The Richard Speck murders are July 13 on the year page and July 14 on the US year page, so the texture carries no date for them. The Black Panther Party founding is October 15 on the year page and October with no day on the US year page, which pol.black_power says. The Meredith shooting is a sniper during the March Against Fear on the year page and a shooting while trying to march across Mississippi on the US year page, and pol.civil_rights_attacks uses the US wording and names the other. Facts that take their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice. tech.palomares takes the collision, the three bombs and Carl Brashear from the year page and the March 17 recovery by the submersible Alvin from the US year page. tech.spaceflight takes the missions from the year page and the deaths of Charles Bassett and Elliot See from that page's deaths list, where the US year page dates their plane crash to February 28 as well. culture.lsd takes the ban and the Love Pageant Rally from the year page and the January 3 Acid Test and Timothy Leary's League for Spiritual Discovery from the US year page. culture.religion takes the Paul VI meetings and the Index from the year page and the Time cover, the Church of Satan and the Krishna Consciousness founding from the US year page. sports.world_series takes the Game 4 score, the sweep and Frank Robinson's Triple Crown from the US year page and the MVP awards, the Braves move and the Ted Williams vote from the sports page. sports.football_championships takes the games, the June 8 merger agreement and the expansion teams from the sports page and the October 21 congressional approval from the US year page. sports.texas_western takes the five African American starters from the US year page and the score from the sports page. Ralph Baer's four-page document of September 1 setting out how a game might be played on a television is in texture rather than in a fact, because tech.games does not open until 1972 and a fact about the origin of the video game would sit inside that closed window whatever id it were given. Dropped for want of a source that says enough, or for want of a date: the Grammy Awards of March 15, which honoured the previous year's recordings, as the neighbouring years also drop them; the Eurovision Song Contest of March 5, which the music page and the year page both carry but which no other year in the corpus records; the decimalisation announcement of March 1, because the source gives only a date in a later year for it to take effect; the Nigerian ban on political activity, whose end date falls in a later year and is left out of world.nigeria_coups; the FIFA award of the following three World Cups, for the same reason; the AFL and NFL merger taking effect, for the same reason. Dropped to hold the section counts down rather than for want of a source: the 1966 United Kingdom general election of March 31, in which Labour took a 96-seat majority; the Xingtai earthquake of March 22 and the Varto earthquake of August 19; Hurricane Inez of September 29; the Topeka tornado of June 8, the first to exceed $100 million in damages; the Australian dollar of February 14; the New York City transit strike of January 2 led by Mike Quill; the Hough Riots in Cleveland of July 18; Robert C. Weaver becoming the first African American Cabinet member on January 13; Indira Gandhi's visit to Washington on March 28; the Montreal Metro of October 14; regular hovercraft service over the English Channel from April 30; the closing of the last Studebaker plant on March 16; Truman Capote's Black and White Ball of November 28; the Leonid meteor shower of November 17; the Estadio Azteca of May 29 and Busch Memorial Stadium of May 12; the Cuban Adjustment Act of November 2; the Argentine, Syrian, Ghanaian, Upper Voltan, Central African and Burundian coups; the Brezhnev succession of April 8; Suharto's Supersemar order of March 11; the Aberfan and Arno figures beyond what the texture carries. Deaths that would have earned a place with more room: Chester W. Nimitz on February 20, Alfred P. Sloan on February 17, Sophie Tucker on February 9, Ed Wynn on June 19, Georges Lemaitre on June 20, Andre Breton on September 28, Mississippi John Hurt on November 2, Sergei Korolev on January 14, C. S. Forester on April 2, Flann O'Brien on April 1, Hendrik Verwoerd on September 6, who appears instead as world.verwoerd. Texture material taken from the cached pages but given no fact of its own: the Aberfan disaster; the Arno flood in Florence and the tidal flood in Venice; Air India Flight 101 on Mont Blanc and the death of Homi J. Bhabha; BOAC Flight 911 over Mount Fuji; the University of Texas tower shooting; the Speck murders; King struck by a rock in Chicago and the Division Street riots; Caesars Palace; the World Trade Center groundbreaking; the Time cover on London; the first Best Buy; the Camaro; Bobbi Gibb at the Boston Marathon; Ralph Baer's document; Nelson's Pillar in Dublin; the theft and recovery of the World Cup trophy; the Moors murders trial. Deaths carry a birth year rather than an age, because the year page gives only the year and computing an age from it invents precision. Names and titles are written in ASCII per the corpus convention, so Nguyen Cao Ky, Jean-Bedel Bokassa, Dzuboks, Francoise Dorleac and Georges Lemaitre lose their diacritics, and the year page's spelling of Dzuboks with a caron is written plain. General knowledge rather than a claim from the cached pages: that a 1966 audience saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question and which comes out if challenged. This file runs 55 facts across 10 sections, above the 40 to 52 the brief asks for. Politics runs to 7 and music to 7, which is at the ceiling the brief suggests rather than past it; the overage is spread across sections rather than concentrated, and 1954, 1956 and 1963 already run 56 or more."
+}

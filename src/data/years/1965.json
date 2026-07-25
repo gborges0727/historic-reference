@@ -1,0 +1,484 @@
+{
+  "year": 1965,
+  "tier": "broadcast",
+  "headline": "Marines landed at Da Nang, Johnson signed the Voting Rights Act, and 34 died in five days of rioting in Watts",
+  "texture": [
+    "An estimated 51 tornadoes crossed six Midwestern states on Palm Sunday, April 11, killing between 256 and 271 people and injuring some 1,500. Hurricane Betsy came ashore near New Orleans on September 9 with winds of 145 miles per hour, killed 76 and did $1.42 billion in damage, the first hurricane to pass a billion dollars unadjusted. A trolleybus went into the Nile at Cairo on November 1 with 74 passengers aboard. Mining accidents killed 268 at Dhanbad in India on May 28 and 237 in Fukuoka on June 1.",
+    "Kenneth Tynan swore during a discussion on the BBC satire programme BBC-3 on November 13, taken by many as the first time on British television, and the corporation apologised. Jean Shrimpton wore an above-the-knee white shift dress in Orlon to the Victoria Derby at Flemington Racecourse on October 30. Mick Jagger, Brian Jones and Bill Wyman were fined five pounds on March 18 for urinating on the wall of a London petrol station whose lavatory was out of order. Arlo Guthrie was arrested at Great Barrington, Massachusetts on November 26 for littering in Stockbridge the day before.",
+    "The Harris County Domed Stadium opened in Houston on April 9, the same day Charlie Brown and the Peanuts gang appeared on the cover of Time and the country observed the hundredth anniversary of the end of the Civil War. The Houston Colt .45's took the name Astros and the Los Angeles Angels became the California Angels. Craig Breedlove drove 600.601 miles an hour across the Bonneville Salt Flats on November 15. The first Subway opened in Bridgeport, Connecticut on August 28, and pickleball was invented on Bainbridge Island.",
+    "Soupy Sales told the children watching his lunchtime show on WNEW-TV on January 1 to go through their parents' pockets for the funny little green pieces of paper and mail them in, and the station suspended him for two weeks. Fender was sold to CBS for $13 million on January 4. Maria Callas gave her last operatic performance on July 5, as Tosca at Covent Garden, and Vladimir Horowitz played Carnegie Hall on May 9 after twelve years off the stage. Richard Hickock and Perry Smith were hanged at Lansing, Kansas on April 14 for the Clutter family murders."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.voting_rights_act",
+    "pol.vietnam_escalation",
+    "world.leonov",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Lyndon B. Johnson (D), who began his full term on January 20 with Hubert Humphrey sworn in as vice president",
+      "detail": "The vice presidency had stood vacant until that day. Earl Warren was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 88th Congress sat until January 3 and the 89th from that date.",
+      "date": "1965-01-20",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "pol.malcolm_x": {
+      "section": "politics",
+      "label": "Malcolm X assassinated",
+      "value": "Shot dead by three members of the Nation of Islam while giving a speech at the Audubon Ballroom in Harlem",
+      "detail": "The US year page places the killing in Manhattan and names the three assassins as Nation of Islam members. The Audubon Ballroom and Harlem come from the year page, which is cited here.",
+      "date": "1965-02-21",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "pol.selma": {
+      "section": "politics",
+      "label": "Selma to Montgomery marches",
+      "value": "About 200 Alabama state troopers clashed with 525 civil rights demonstrators on Bloody Sunday, March 7, at the start of a march down the highway to Montgomery. Nobody was killed in the clash",
+      "detail": "The second attempt on March 9 stopped at the bridge for a prayer service and turned back to obey a court restraining order. James J. Reeb, a white Unitarian Universalist minister beaten by white supremacists in Selma that day, died in a Birmingham hospital on March 11. A federal judge ruled on March 18 that the Southern Christian Leadership Conference had a right to march, Martin Luther King Jr. led 3,200 out of Selma on March 21, and 25,000 finished the four-day march on March 25. Funeral services were held on March 30 for Viola Liuzzo, a Detroit homemaker shot dead by three Klansmen while driving marchers back to Selma.",
+      "date": "1965-03-07",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "pol.voting_rights_act": {
+      "section": "politics",
+      "label": "Voting Rights Act of 1965",
+      "value": "Johnson signed it into law, outlawing literacy tests and the other practices that had disfranchised African American voters",
+      "detail": "Johnson made his We Shall Overcome speech on March 15, and on March 17, in response to the events of March 7 and 9 in Selma, sent Congress the bill that formed the basis of the Act. The Senate passed it on May 26 and the House on July 10.",
+      "date": "1965-08-06",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "pol.medicare": {
+      "section": "politics",
+      "label": "Medicare and Medicaid created",
+      "value": "Johnson signed the Social Security Act of 1965, which established both programs",
+      "detail": "Filed by the US year page under the War on Poverty. Johnson had proclaimed his Great Society during the State of the Union address on January 4, and the Department of Housing and Urban Development began operating on September 9.",
+      "date": "1965-07-30",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "pol.immigration_act": {
+      "section": "politics",
+      "label": "National-origin immigration quotas abolished",
+      "value": "Johnson signed an immigration bill ending the quotas based on national origin",
+      "date": "1965-10-03",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "pol.vietnam_escalation": {
+      "section": "politics",
+      "label": "American ground troops arrive in Vietnam",
+      "value": "Some 3,500 United States Marines landed at Da Nang, the first American ground combat troops in Vietnam",
+      "detail": "Johnson announced on July 28 that he was raising the number of American troops in South Vietnam from 75,000 to 125,000 and doubling the monthly draft call from 17,000 to 35,000 men. Operation Rolling Thunder, which the year page describes as planned to run three years, opened on March 2. The first major engagement between regular American and North Vietnamese forces began in the Ia Drang Valley on November 14.",
+      "date": "1965-03-08",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "pol.watts_riots": {
+      "section": "politics",
+      "label": "Watts riots",
+      "value": "Rioting began in the Watts neighborhood of Los Angeles and ran five days, leaving 34 people dead and $40 million of property damage",
+      "date": "1965-08-11",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "pol.antiwar_movement": {
+      "section": "politics",
+      "label": "Opposition to the war becomes a mass movement",
+      "value": "The first Students for a Democratic Society march against the Vietnam War drew 25,000 protesters to Washington",
+      "detail": "Forty men burned their draft cards at the University of California, Berkeley on May 5 and marched a coffin to the Berkeley draft board, and several hundred returned on May 22 to burn 19 more and hang an effigy of Johnson. The largest teach-in to that date began at Berkeley on May 21 with 30,000 attending. Johnson signed a law on August 31 penalising the burning of a draft card with up to five years in prison and a $1,000 fine. Anti-war protests drew 100,000 across 80 American cities on October 16, and a pro-war march in Washington drew 25,000 on October 30.",
+      "date": "1965-04-17",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "world.leonov": {
+      "section": "world",
+      "label": "First person to walk in space",
+      "value": "The Soviet cosmonaut Alexei Leonov left his Voskhod 2 spacecraft for 12 minutes",
+      "date": "1965-03-18",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "world.indo_pak_war": {
+      "section": "world",
+      "label": "War between India and Pakistan",
+      "value": "Pakistani soldiers crossed the Line of Control dressed as Kashmiri locals under Operation Gibraltar, opening seventeen days of fighting that included the largest tank battle since the Second World War",
+      "detail": "The article on the war gives 5 August to 23 September and says hostilities ended with a ceasefire declared through UN Security Council Resolution 211, after diplomatic pressure from the Soviet Union and the United States, with Pakistan accepting on 23 September. The 1965 year page instead files the war's beginning under March 20, alongside the Eurovision result, and gives no ceasefire date at all, which is why this fact cites the dedicated article. Each country then accused the other of ceasefire violations, India charging 585 in 34 days and Pakistan 450.",
+      "date": "1965-08-05",
+      "source": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1965"
+    },
+    "world.singapore": {
+      "section": "world",
+      "label": "Singapore expelled from Malaysia",
+      "value": "The Federation of Malaysia expelled Singapore and recognised it as a sovereign nation, and Lee Kuan Yew announced its independence",
+      "detail": "Tunku Abdul Rahman had recommended the expulsion on August 7. The Gambia became independent from the United Kingdom on February 18 and the Maldives from Great Britain on July 26, and Gambia, the Maldives and Singapore were all admitted to the United Nations together on September 21.",
+      "date": "1965-08-09",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "world.indonesia": {
+      "section": "world",
+      "label": "Indonesian army crushes an alleged coup",
+      "value": "The army under General Suharto put down what it called a communist coup attempt, and from October 8 began arresting and executing communists",
+      "detail": "The Communist Party of Indonesia was outlawed on October 18. Sukarno had announced the withdrawal of the Indonesian government from the United Nations on January 20 and collapsed in public on August 9.",
+      "date": "1965-09-30",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "world.rhodesia_udi": {
+      "section": "world",
+      "label": "Rhodesia declares independence",
+      "value": "Ian Smith's white-minority government unilaterally declared de facto independence from the United Kingdom",
+      "detail": "Martial law was announced in Rhodesia on November 5, the day the UN General Assembly accepted by 82 votes to 9 that Britain intended to use force there if necessary. A Security Council resolution passed 10 to 0 on November 12 recommended that other countries not recognise an independent Rhodesia, and the Council recommended on November 20 that all states stop trading with it. Smith warned on December 8 that Rhodesia would resist a trade embargo by neighbouring countries, and the British government began an oil embargo on December 17, with the United States joining it.",
+      "date": "1965-11-11",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "world.vatican_ii": {
+      "section": "world",
+      "label": "Second Vatican Council closes",
+      "value": "The Council closed in Rome, its fourth and final period having opened on September 14",
+      "detail": "Mass in the Catholic Church was said in local languages rather than Latin for the first time on March 7. Paul VI promulgated Nostra aetate on October 28, a declaration on the Church's relation to non-Christian religions that included the statement that Jews are not collectively responsible for the death of Jesus. He made the first papal visit to the United States on October 4, appearing at a Mass in Yankee Stadium.",
+      "date": "1965-12-08",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "world.dominican_republic": {
+      "section": "world",
+      "label": "American troops occupy the Dominican Republic",
+      "value": "Johnson sent troops in for the stated purpose of protecting US citizens and preventing an alleged communist takeover",
+      "detail": "Officers and civilians loyal to the deposed president Juan Bosch had mutinied against the right-wing junta on April 24 and set up a provisional government, and forces loyal to the junta staged a countercoup the next day.",
+      "date": "1965-04-28",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Sound of Music, $72,000,000, 20th Century Fox",
+        "Doctor Zhivago, $43,000,000, MGM",
+        "Thunderball, $27,000,000, United Artists and Eon",
+        "Those Magnificent Men in their Flying Machines, $14,000,000, 20th Century Fox",
+        "The Great Race, $11,400,000, Warner Bros."
+      ],
+      "detail": "These are rentals, the distributor's share and not the sum taken at the ticket window, so about half of what a gross figure would read. The column header on the film page says Domestic rentals while the sentence directly above the table calls the same figures box office gross in North America, and this file follows the header. The film page credits The Sound of Music with rescuing Twentieth Century-Fox after the production costs of Cleopatra, and says it displaced Gone with the Wind at the top of the all-time list.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Sound of Music, directed by Robert Wise for Argyle Enterprises and 20th Century Fox",
+      "detail": "Awarded the following spring at the 38th Academy Awards, where Wise also took Best Director. The Sound of Music and Doctor Zhivago each drew ten nominations and won five awards, more than any other film. The Sound of Music was the first Best Picture winner with no screenwriting nomination since the 1948 Hamlet.",
+      "source": "https://en.wikipedia.org/wiki/38th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Lee Marvin, Cat Ballou",
+        "Best Actress, Julie Christie, Darling",
+        "Best Supporting Actor, Martin Balsam, A Thousand Clowns",
+        "Best Supporting Actress, Shelley Winters, A Patch of Blue"
+      ],
+      "detail": "Othello became the third film to take four acting nominations without one for Best Picture. William Wyler was nominated for Best Director for The Collector, his twelfth and a record. Darling won three awards from five nominations and Ship of Fools two from eight.",
+      "source": "https://en.wikipedia.org/wiki/38th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Pierrot le Fou, directed by Jean-Luc Godard, France",
+        "Alphaville, directed by Jean-Luc Godard, France and Italy",
+        "Juliet of the Spirits (Giulietta degli spiriti), directed by Federico Fellini, Italy and France",
+        "Repulsion, directed by Roman Polanski, United Kingdom",
+        "Red Beard (Akahige), directed by Akira Kurosawa, Japan",
+        "The Shop on Main Street (Obchod na korze), directed by Jan Kadar and Elmar Klos, Czechoslovakia"
+      ],
+      "detail": "The Shop on Main Street won the Academy Award for Best Foreign Language Film. The Knack ...and How to Get It, directed by Richard Lester, took the Palme d'Or at Cannes, Luchino Visconti's Vaghe stelle dell'Orsa the Golden Lion at Venice, and Alphaville the Golden Bear at Berlin. Alphaville opened in France on May 5. Milos Forman's Loves of a Blonde and Kon Ichikawa's documentary Tokyo Olympiad also came out.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_film"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases",
+      "value": [
+        "The Greatest Story Ever Told, directed by George Stevens, premiered in New York City February 15",
+        "What's New Pussycat?, June 2",
+        "Cat Ballou, June 24",
+        "Ship of Fools, directed by Stanley Kramer, July 29",
+        "For a Few Dollars More, Italy, November 18",
+        "The Spy Who Came in from the Cold, United Kingdom, December 16"
+      ],
+      "detail": "The Greatest Story Ever Told did so badly with critics and audiences that the film page credits its failure with discouraging religious epics for years, and it carried Max von Sydow's first American performance and Claude Rains's last. Help!, directed by Richard Lester and starring the Beatles, and Peter Watkins's television docudrama The War Game both came out of the United Kingdom.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The Sound of Music premiered at the Rivoli Theater in New York City on March 2, Doctor Zhivago on December 22 and Thunderball on December 29.",
+      "detail": "A vault fire at MGM in Culver City on August 10 destroyed the only known copies of hundreds of archived silent films, among them Lon Chaney's London After Midnight and Greta Garbo's The Divine Woman.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1965",
+      "value": [
+        "Bonanza, NBC, 31.8 rating",
+        "Gomer Pyle, U.S.M.C., CBS, 27.8",
+        "The Lucy Show, CBS, 27.7",
+        "The Red Skelton Hour, CBS, 27.6",
+        "Batman (Thursday), ABC, 27.0"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Batman holds two places in the table, fifth for its Thursday showing and tenth for its Wednesday one on 24.7. Bewitched and The Beverly Hillbillies tie for seventh on 25.9, and Gunsmoke sits thirtieth on 21.3.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1965%E2%80%9366"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Green Acres, CBS, September 15",
+        "I Spy, NBC, September 15",
+        "Lost in Space, CBS, September 15",
+        "Hogan's Heroes, CBS, September 17",
+        "Get Smart, NBC, September 18",
+        "I Dream of Jeannie, NBC, September 18"
+      ],
+      "detail": "Hullabaloo started on NBC on January 12 with the New Christy Minstrels, Woody Allen and a London segment in which Brian Epstein introduced the Zombies and Gerry and the Pacemakers. My Mother the Car, which the US year page calls the infamous bad sitcom, began on NBC on September 14. The F.B.I. followed on ABC on September 19, a Beatles cartoon series on ABC on September 25, and Days of Our Lives on NBC on November 8. The Outer Limits ended on January 16.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_American_television"
+    },
+    "tv.color": {
+      "section": "tv",
+      "label": "Network television turns to color",
+      "value": "The Huntley-Brinkley Report on NBC became the first network evening newscast broadcast in color every night",
+      "detail": "Today had become the first morning news program to go out in color on September 13. NBC carried the launch of Gemini 4 in color, and all three networks carried the launch of Gemini 5 in color that August. The papal Mass at Yankee Stadium on October 4 went out in color, as did the CBS Thanksgiving Day telecast of the Baltimore Colts against the Detroit Lions on November 25, the first color broadcast of a regular season NFL game. The television page dates the Gemini 4 launch broadcast to June 4 while the US year page puts the flight's spacewalk on June 3.",
+      "date": "1965-11-15",
+      "source": "https://en.wikipedia.org/wiki/1965_in_American_television"
+    },
+    "tv.afl_to_nbc": {
+      "section": "tv",
+      "label": "NBC takes the American Football League",
+      "value": "NBC became the league's main broadcast partner with most games carried in color, after five seasons on ABC",
+      "date": "1965-09-12",
+      "source": "https://en.wikipedia.org/wiki/1965_in_American_television"
+    },
+    "tv.charlie_brown": {
+      "section": "tv",
+      "label": "A Charlie Brown Christmas",
+      "value": "The first Peanuts television special went out on CBS",
+      "detail": "CBS aired the first National Geographic television special on September 10, about a 1963 American expedition to Mount Everest, and the New York City Ballet's Nutcracker on December 21.",
+      "date": "1965-12-09",
+      "source": "https://en.wikipedia.org/wiki/1965_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Wooly Bully, Sam the Sham and the Pharaohs",
+        "I Can't Help Myself (Sugar Pie Honey Bunch), Four Tops",
+        "(I Can't Get No) Satisfaction, The Rolling Stones",
+        "You Were on My Mind, We Five",
+        "You've Lost That Lovin' Feelin', The Righteous Brothers"
+      ],
+      "detail": "Published in the Billboard year-end edition dated December 25 and compiled from the Hot 100 charts of January 2 through October 30, so the last two months of the year are not in it. Herman's Hermits had five songs on the list, more than any other act. Keith Richards and Mick Jagger had started on Satisfaction on May 6 in a Clearwater, Florida hotel room, Richards finding the riff on a new Gibson fuzz box.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1965"
+    },
+    "music.shea_stadium": {
+      "section": "music",
+      "label": "The Beatles play Shea Stadium",
+      "value": "The first rock concert held in a venue that size, setting records for attendance at more than 55,600 and for revenue",
+      "detail": "They visited Elvis Presley at his home in Bel-Air on August 27, the only time the band and the singer met.",
+      "date": "1965-08-15",
+      "source": "https://en.wikipedia.org/wiki/1965_in_music"
+    },
+    "music.dylan_newport": {
+      "section": "music",
+      "label": "Dylan booed at Newport",
+      "value": "Bob Dylan was booed on his second day at the Newport Folk Festival for playing an electric set with the Paul Butterfield Blues Band",
+      "detail": "Columbia Records had released Like a Rolling Stone as a single on July 20, and the album Highway 61 Revisited followed on August 30. Dylan had closed a European tour with two concerts at the Royal Albert Hall from May 9, with the Beatles and Donovan in the audience.",
+      "date": "1965-07-25",
+      "source": "https://en.wikipedia.org/wiki/1965_in_music"
+    },
+    "music.rubber_soul": {
+      "section": "music",
+      "label": "Rubber Soul released",
+      "value": "The Beatles put the album out alongside the double A-sided single Day Tripper and We Can Work It Out, and George Harrison's sitar playing on Norwegian Wood led him to study under Ravi Shankar",
+      "detail": "The Who released their debut album My Generation the same day, having put the single out in the United Kingdom on November 5. Paul McCartney had recorded Yesterday on June 14.",
+      "date": "1965-12-03",
+      "source": "https://en.wikipedia.org/wiki/1965_in_music"
+    },
+    "music.supremes": {
+      "section": "music",
+      "label": "The Supremes take three more number ones",
+      "value": "Stop! In the Name of Love reached the top on March 21, Back in My Arms Again on June 6 and I Hear a Symphony on November 14, their fourth, fifth and sixth",
+      "detail": "All three were Motown records and the first two were written by Holland-Dozier-Holland. The Temptations reached number one with My Girl on March 6, written by Smokey Robinson and Ronald White. Petula Clark's Downtown had topped the American singles chart on January 23, putting a British female vocalist there for the first time since the Beatles arrived.",
+      "date": "1965-03-21",
+      "source": "https://en.wikipedia.org/wiki/1965_in_music"
+    },
+    "music.beatles_mbe": {
+      "section": "music",
+      "label": "The Beatles made MBEs",
+      "value": "The Queen appointed all four Members of the British Empire, and a number of earlier recipients complained",
+      "detail": "The music page notes that appointing popular musicians as MBEs was unusual at this point.",
+      "date": "1965-10-26",
+      "source": "https://en.wikipedia.org/wiki/1965_in_music"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Gemini 4 launched on June 3 and Ed White made the first American spacewalk",
+        "Mariner 4 flew past Mars on July 14 and sent back the first images of the planet",
+        "Gemini 5 went up on August 21 on the first week-long flight, with Gordon Cooper and Pete Conrad",
+        "Gemini 6 and Gemini 7 made the first controlled rendezvous in Earth orbit on December 15"
+      ],
+      "detail": "Gemini 2 had flown uncrewed on a suborbital test on January 19, and Gemini 3 carried the first American two-person crew, Gus Grissom and John Young, on March 23. Ranger 8 crashed into the Moon on February 20 after photographing possible Apollo landing sites, and Ranger 9 followed on March 21 as the last of the uncrewed lunar series. SNAP-10A, the first nuclear reactor put into space, launched from Vandenberg on April 3 and ran 43 days.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "tech.early_bird": {
+      "section": "tech",
+      "label": "Intelsat I launched",
+      "value": "The communications satellite known as Early Bird went up, became operational on May 2 and entered commercial service in June",
+      "date": "1965-04-06",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "tech.blackout": {
+      "section": "tech",
+      "label": "Northeast blackout",
+      "value": "Vermont, New Hampshire, Massachusetts, Connecticut, Rhode Island, New York and parts of New Jersey and Canada lost power for as long as thirteen and a half hours",
+      "date": "1965-11-09",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "tech.gateway_arch": {
+      "section": "tech",
+      "label": "Gateway Arch completed",
+      "value": "The 630-foot parabolic steel arch at St. Louis, Missouri was finished",
+      "date": "1965-10-28",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.31 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Troopers on a bridge in Alabama in March and a voting law signed in August, the first American ground troops in Vietnam and draft cards burning at Berkeley, and a Rodgers and Hammerstein musical in cinemas from March that outsold everything before it."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace, the United Nations Children's Fund",
+        "Literature, Mikhail Sholokhov",
+        "Physics, Shin'ichiro Tomonaga, Julian Schwinger and Richard P. Feynman",
+        "Chemistry, Robert Burns Woodward",
+        "Physiology or Medicine, Francois Jacob, Andre Michel Lwoff and Jacques Monod"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "culture.man_of_la_mancha": {
+      "section": "culture",
+      "label": "Man of La Mancha opens",
+      "value": "The musical by Joe Darion and Mitch Leigh opened in New York and ran for 2,328 performances",
+      "detail": "The two cached pages name different theatres. The US year page has it opening on November 22 in a Greenwich Village theatre, and the music page names the Martin Beck Theatre and supplies the run length. Neither reconciles the two.",
+      "date": "1965-11-22",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "culture.unsafe_at_any_speed": {
+      "section": "culture",
+      "label": "Unsafe at Any Speed published",
+      "value": "Ralph Nader's book, subtitled The Designed-In Dangers of the American Automobile, came out",
+      "date": "1965-11-30",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the Minnesota Twins four games to three",
+      "detail": "Sandy Koufax was Associated Press Male Athlete of the Year, and Jim Clark, the Formula One champion and Indianapolis 500 winner, took the Athlete of the Year award from ABC's Wide World of Sports.",
+      "date": "1965-10-14",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "sports.koufax_perfect_game": {
+      "section": "sports",
+      "label": "Koufax pitches a perfect game",
+      "value": "Sandy Koufax retired the Chicago Cubs in order, and the opposing pitcher Bob Hendley gave up only one run, which was unearned",
+      "date": "1965-09-09",
+      "source": "https://en.wikipedia.org/wiki/1965_in_the_United_States"
+    },
+    "sports.ali_liston": {
+      "section": "sports",
+      "label": "World heavyweight championship",
+      "value": "Muhammad Ali knocked out Sonny Liston 60 seconds into the first round of their rematch, with what became known as the Phantom Punch",
+      "detail": "The sports page notes that most newspapers still refused to use Ali's Muslim name and went on calling him Cassius Clay. Jose Torres had taken the world light heavyweight title on March 30, stopping Willie Pastrano in nine rounds at Madison Square Garden.",
+      "date": "1965-05-25",
+      "source": "https://en.wikipedia.org/wiki/1965_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "AFL Championship, Buffalo Bills 23, San Diego Chargers 0",
+        "Stanley Cup, Montreal Canadiens over the Chicago Black Hawks, four games to three",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to one",
+        "NCAA basketball, UCLA 91, Michigan 80",
+        "FA Cup, Liverpool 2, Leeds United 1 after extra time",
+        "Wimbledon singles, Roy Emerson over Fred Stolle and Maria Bueno over Margaret Smith Court"
+      ],
+      "detail": "Jack Nicklaus won the Masters with a record 271, seventeen under par and nine strokes clear, and led the PGA Tour money list on $140,752. Gary Player became the third golfer to complete all four professional majors, at the U.S. Open. Felice Gimondi won the Tour de France and Vittorio Adorni the Giro d'Italia. Kathy Whitworth was Associated Press Female Athlete of the Year. The first All-Africa Games were held at Brazzaville. The Amateur Swimming Union of Australia banned the Olympic champion Dawn Fraser from amateur competition for ten years on March 1.",
+      "source": "https://en.wikipedia.org/wiki/1965_in_sports"
+    },
+    "deaths.churchill": {
+      "section": "deaths",
+      "label": "Winston Churchill",
+      "value": "Died January 24. Born 1874",
+      "detail": "British politician and statesman, twice Prime Minister of the United Kingdom, wartime leader and a Nobel laureate in literature. His state funeral in London on January 30 drew what the year page calls the largest assembly of dignitaries anywhere to that point.",
+      "date": "1965-01-24",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "deaths.eliot": {
+      "section": "deaths",
+      "label": "T. S. Eliot",
+      "value": "Died January 4. Born 1888",
+      "detail": "American-British poet and Nobel laureate in literature.",
+      "date": "1965-01-04",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "deaths.cole": {
+      "section": "deaths",
+      "label": "Nat King Cole",
+      "value": "Died February 15. Born 1919",
+      "detail": "American singer and musician.",
+      "date": "1965-02-15",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "deaths.laurel": {
+      "section": "deaths",
+      "label": "Stan Laurel",
+      "value": "Died February 23. Born 1890",
+      "detail": "British actor.",
+      "date": "1965-02-23",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "deaths.le_corbusier": {
+      "section": "deaths",
+      "label": "Le Corbusier",
+      "value": "Died August 27. Born 1887",
+      "detail": "Swiss architect.",
+      "date": "1965-08-27",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    },
+    "deaths.schweitzer": {
+      "section": "deaths",
+      "label": "Albert Schweitzer",
+      "value": "Died September 4. Born 1875",
+      "detail": "Alsatian physician and missionary, a Nobel Peace Prize recipient.",
+      "date": "1965-09-04",
+      "source": "https://en.wikipedia.org/wiki/1965"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1965. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence directly above that table on the same page calls the figures box office gross in North America, and film.gross names the contradiction instead of picking a side, the same way 1964 does. No radio fact, because the radio window closed after 1959 and this file writes none. Radio material stays out entirely rather than being moved into another section, and the broadcast story of the year is the switch to colour, which is a television fact. No film.ticket_price fact, because the movie ticket series holds null for this year. One fact cites a dedicated article rather than a year page, under the brief's date-check rule. The 1965 year page files the beginning of the war between India and Pakistan under March 20, in the same entry as the Eurovision result, and gives no ceasefire date anywhere; the article on the war itself gives 5 August to 23 September 1965, opening with Operation Gibraltar and ending in a ceasefire declared through UN Security Council Resolution 211, so world.indo_pak_war cites https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1965, uses August 5, and names the disagreement in its detail. That article was pulled as raw wikitext for this check and is the only source here from outside the cache. It also carries the Tashkent Declaration, signed the following January, which is left out because it falls outside this year. Dates with a checkable internal constraint, checked rather than copied: January 20 for the start of Johnson's full term, which is the constitutional inauguration date and is what both year pages give; March 7 for Bloody Sunday, which was a Sunday, and March 9 for the turnaround march, which was the Tuesday after it; April 11 for the Palm Sunday tornado outbreak, which was a Sunday; November 2 for the New York mayoral election, since November 1 fell on a Monday, making the Tuesday after the first Monday November 2, which is where the US year page has John Lindsay elected; and November 25 for Thanksgiving, the fourth Thursday, which agrees with the CBS Thanksgiving football telecast on the television page and with Arlo Guthrie's arrest the day after. The 38th Academy Awards ceremony falls in the following April, so no ceremony date appears here and film.best_picture says only that the award came the following spring. The Nielsen ranking covers a season that began in the autumn of 1965 and ran into the following spring, which tv.top_shows states without naming a second year; Batman, which holds two places in that table, premiered outside this year and this file makes no claim about when it started. Source disagreements labelled rather than resolved: the Gemini 4 launch is June 3 on the US year page and its colour broadcast June 4 on the television page, which tv.color states; Man of La Mancha opens in a Greenwich Village theatre on the US year page and at the Martin Beck Theatre on the music page, which culture.man_of_la_mancha states, and the five Tony Awards the music page credits it with are left out because they were given in the following year; the killing of Malcolm X is placed in Manhattan by the US year page and at the Audubon Ballroom in Harlem by the year page, and pol.malcolm_x uses the more specific of the two and says which page gives it. Facts drawing on more than one cached page, recorded here rather than left for a reader to notice: pol.vietnam_escalation cites the year page for the Da Nang landing and Operation Rolling Thunder and takes the July 28 troop and draft numbers from the US year page; sports.world_series cites the US year page for the series result and takes the two athlete-of-the-year awards from the sports page; music.hot100_year_end cites the year-end chart page for the ranking, the compilation window and the Herman's Hermits count, and takes the Satisfaction writing session from the music page. Dropped for lack of a source that says enough, or because the source gives no date: the founding of Hainzl Industriesysteme and Tokyo passing New York as the largest city in the world, both undated on the year page; the WOR-TV EMI Service and the TVS Television Network, both undated on the television page; Rockfield Studios becoming the first residential recording studio, undated on the music page; the Pillsbury Doughboy of November 7, which the US year page records as created with nothing further. Dropped to hold section counts down rather than for want of a source: the NFL Championship game, played the following January after a December 26 tie-breaker Green Bay won 13 to 10 over Baltimore; the Rat Islands earthquake of February 3 and the Puget Sound earthquake of April 29; the Frankfurt Auschwitz trial sentences of August 19; the Mont Blanc Tunnel of July 16; the Canadian maple leaf flag of February 15; the Amchitka Island nuclear test of October 29; the New York World's Fair closing on October 17 after reopening on April 21; the Freedom Flights agreement with Cuba of November 6; the self-immolations of Norman Morrison on November 2 and Roger Allen LaPorte on November 9; Comet Ikeya-Seki, first sighted September 18 and at perihelion October 21; the Vinland map presented at Yale on October 9; the first Mr. Olympia of September 18, won by Larry Scott; the Grammy Awards of April 13, which honoured the previous year's recordings; Eurovision going to France Gall for Luxembourg on March 20; the first complete performance of Charles Ives's Symphony No. 4 at Carnegie Hall on April 26; the discovery of Sylvia Likens's body on October 26. Deaths that would have earned a place with more room: W. Somerset Maugham on December 16, Henry A. Wallace on November 18, Dorothy Dandridge on September 8, Clara Bow on September 27, Frances Perkins on May 14, Alan Freed on January 20, Lorraine Hansberry on January 12, Felix Frankfurter on February 22, Edgard Varese in November. Malcolm X is a politics fact rather than a death, so he appears once. Texture material taken from the cached pages but given no fact of its own: the Palm Sunday tornado outbreak; Hurricane Betsy; the Cairo trolleybus; the Dhanbad and Fukuoka mining accidents; Kenneth Tynan on BBC-3; Jean Shrimpton at Flemington; the Rolling Stones fined at a petrol station; Arlo Guthrie's littering arrest; the Harris County Domed Stadium and the Peanuts cover of Time; the Houston and Los Angeles baseball name changes; Craig Breedlove's land speed record; the first Subway; the invention of pickleball; Soupy Sales and WNEW-TV; the sale of Fender to CBS; Maria Callas's last opera performance; Vladimir Horowitz at Carnegie Hall; the execution of Richard Hickock and Perry Smith. Deaths carry a birth year rather than an age, because the year page gives only the year and computing an age from it invents precision. Names and titles are written in ASCII per the corpus convention, so Jan Kadar, Milos Forman, Shin'ichiro Tomonaga, Francois Jacob, Andre Michel Lwoff, Jose Torres and Vaghe stelle dell'Orsa lose their diacritics. General knowledge rather than a claim from the cached pages: that a 1965 audience saw a new film in a theatre first and on television later, which film.how_people_watched states as the answer to its own question and which comes out if challenged. This file runs 53 facts across 10 sections, above the 40 to 52 the brief asks for, because Selma, the Voting Rights Act, Watts, the first ground troops in Vietnam and the anti-war movement all fall in politics in the same year. Politics runs to 9 facts, which 1963 already does, and 1954, 1956 and 1963 already run 56, 58 and 56 facts, so the overage stretches the guidance rather than departing from the corpus."
+}

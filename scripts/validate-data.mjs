@@ -44,6 +44,9 @@ const PLACEHOLDER_MARKERS = [
 
 const YEAR_TOKEN = /\b(1[0-9]{3}|20[0-9]{2})\b/g;
 
+/** Film titles holding a year that is not a claim about time. See title_years.json. */
+const titleAllowlist = readJson(DATA_DIR, 'title_years.json').titles;
+
 /** The substance floor. Every pilot year clears these comfortably. */
 const MIN_FACTS = 14;
 const MIN_SECTIONS = 6;
@@ -146,9 +149,19 @@ for (const file of files) {
       // proper noun rather than a claim about when something happened. Narrow on
       // purpose: only the film section, only the very next year, and only in the
       // "of YYYY" shape the convention actually uses.
-      const isTitleYear =
+      const isRevueTitle =
         field.startsWith('film.') && found === year.year + 1 && titled.has(found);
-      if (isTitleYear) continue;
+      // Some films carry a year in the title that is neither the release year nor the
+      // one after it, and no shape rule can spot them: "2001: A Space Odyssey" in a
+      // 1968 list is a title, not a claim that anything happened in 2001. Those are
+      // named one at a time in title_years.json, and the exemption only applies when
+      // the full title string is actually present in the text.
+      const isNamedTitle =
+        field.startsWith('film.') &&
+        titleAllowlist.some(
+          (title) => title.includes(String(found)) && text.includes(title),
+        );
+      if (isRevueTitle || isNamedTitle) continue;
       report.error(
         scope,
         'anachronism',
