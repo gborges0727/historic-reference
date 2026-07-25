@@ -1,0 +1,16 @@
+{
+  // Cloudflare Workers deployment for a purely static site.
+  //
+  // There is no Worker script and there is not meant to be one: `main` and the
+  // `assets.binding` field are both omitted, which is what the docs require for an
+  // assets-only Worker. Every request either matches a file in dist or gets a 404.
+  //
+  // `not_found_handling` is left at its default. The two named modes are for single
+  // page applications and for sites with a 404.html, and this site has neither: it is
+  // 106 prerendered year pages plus an index and a corrections page.
+  "name": "historic-reference",
+  "compatibility_date": "2026-07-25",
+  "assets": {
+    "directory": "./dist"
+  }
+}
