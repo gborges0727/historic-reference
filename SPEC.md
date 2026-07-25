@@ -37,6 +37,8 @@ CORRECTIONS.md
 scripts/
   validate-data.mjs      schema, sources, anachronisms
   validate-prose.mjs     overlap, density, banned phrases
+  fetch-sources.mjs      research helper, pulls a year's source pages as raw text
+  scaffold-year.mjs      research helper, fills the facts the series already cover
   lib/corpus.mjs         shared loading and reporting for both validators
 src/
   content.config.ts      the year collection, glob loader plus the shared schema
@@ -76,7 +78,7 @@ src/
 - **Astro 7 removed the legacy content collections API.** There is no `type: 'data'` and no `src/content/config.ts`. Data collections are a glob loader over JSON files, and the config file lives at `src/content.config.ts`. The year files moved to `src/data/years/` because `src/content/` is no longer a special directory.
 - **The schema lives in `src/lib/year-schema.mjs`, not in the content config.** Both Astro and `scripts/validate-data.mjs` import it, so `npm run validate` fails on exactly what the build would fail on. Restating the schema in two places would let them drift.
 - **`src/lib` is `.mjs` rather than `.ts`.** The validator scripts run under bare node with no build step, so shared modules cannot carry type annotations. Collection entries are still typed inside `.astro` files, because Astro generates those types from the Zod schema either way.
-- **Series files are `{ label, unit, coverage, sources, note, retrieved, updated, values }`** with the year map under `values`, rather than years and metadata mixed at the top level. Code that iterates years never has to filter metadata keys out. `sources` is a list of `{ years, name, url }` because five of the seven series are spliced from more than one source, and each range needs its own citation.
+- **Series files are `{ label, unit, coverage, sources, note, retrieved, updated, values }`** with the year map under `values`, rather than years and metadata mixed at the top level. Code that iterates years never has to filter metadata keys out. `sources` is a list of `{ years, from, until, name, url }` because five of the seven series are spliced from more than one source and each range needs its own citation. `from` and `until` repeat the prose `years` field as integers so `scaffold-year.mjs` can pick the right citation for a given year without parsing English.
 
 ## Year data schema
 
@@ -298,6 +300,22 @@ Per year, in order:
 3. **Texture pass.** Write 2 to 4 paragraphs using only material already in `facts`, plus specific detail from the research that did not warrant its own fact. Aim for the specific and slightly odd. In 2011 you still burned through a data plan by accident because unlimited was ending, and Netflix split itself in half and reversed within a month. That texture distinguishes 2011 from 2016. "Smartphones were becoming ubiquitous" is true of fifteen consecutive years and distinguishes nothing.
 4. **Lead pass.** Choose 4 to 8 fact ids.
 5. **Validate.** Run both scripts. Fix and repeat.
+
+### The two research helpers
+
+Neither one runs at build time and neither is in the deploy workflow. They exist because doing 106 years at the cost of the first one is not worth doing.
+
+```
+node scripts/fetch-sources.mjs 1931 1958      pulls source pages into .sources/<year>/
+node scripts/scaffold-year.mjs 1931           writes .sources/<year>/scaffold.json
+node scripts/scaffold-year.mjs 1931 --write   writes src/data/years/<year>.json
+```
+
+`fetch-sources.mjs` requests year-indexed pages as **raw wikitext** and writes them to `.sources/`, which is gitignored. Raw, and read locally, because a page fetched through a summarising tool comes back with half the year quietly missing, and you discover it when a fact turns out not to exist. It picks its candidate titles from the year: radio pages only up to 1959, television and Nielsen pages from 1950, Hot 100 from 1958, games from 1972, and the Academy Awards ceremony numbered `year - 1927`. Misses are printed rather than treated as failures, because coverage genuinely varies by year. 1931 returns seven pages and about 312KB.
+
+`scaffold-year.mjs` writes a year file with the facts that need no year-specific research, meaning everything the seven static series already cover: gas price, minimum wage, and ticket price, each carrying the source URL for the range the year falls in and the basis label in force that year. It then prints which availability windows are open, which are closed, and what the anchoring inputs are. The output fails validation on purpose until the research pass fills the headline, the texture, the lead, and the sourced facts. `--write` refuses to overwrite an existing year file.
+
+What the helpers do not do is write prose or choose the lead. The prose validator fails any 5-gram that appears in three years, so the writing is per-year work by construction.
 
 Sourcing constraints:
 

@@ -5,6 +5,8 @@
   "sources": [
     {
       "years": "1913 to 2025",
+      "from": 1913,
+      "until": 2025,
       "name": "Federal Reserve Bank of Minneapolis, Consumer Price Index 1913 to present, from BLS CPI-U",
       "url": "https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-"
     }

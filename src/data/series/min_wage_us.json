@@ -5,6 +5,8 @@
   "sources": [
     {
       "years": "1938 to 2025",
+      "from": 1938,
+      "until": 2025,
       "name": "US Department of Labor, Wage and Hour Division, History of Federal Minimum Wage Rates Under the Fair Labor Standards Act",
       "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
     }

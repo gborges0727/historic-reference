@@ -5,6 +5,8 @@
   "sources": [
     {
       "years": "1949 to 2025",
+      "from": 1949,
+      "until": 2025,
       "name": "US Energy Information Administration, Monthly Energy Review, Table 9.4, Retail Motor Gasoline and On-Highway Diesel Fuel Prices",
       "url": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
     }

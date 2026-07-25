@@ -5,6 +5,8 @@
   "sources": [
     {
       "years": "1948 to 2022",
+      "from": 1948,
+      "until": 2022,
       "name": "National Association of Theatre Owners, Annual Average U.S. Ticket Price, archived January 2024",
       "url": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
     }

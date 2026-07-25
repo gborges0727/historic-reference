@@ -5,6 +5,8 @@
   "sources": [
     {
       "years": "1920 to 2025",
+      "from": 1920,
+      "until": 2025,
       "name": "Our World in Data, Population, long run with projections. HYDE 3.5 before 1950, UN World Population Prospects 2024 revision from 1950",
       "url": "https://ourworldindata.org/grapher/population-long-run-with-projections"
     }

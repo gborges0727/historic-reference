@@ -5,26 +5,36 @@
   "sources": [
     {
       "years": "1920 to 2018",
+      "from": 1920,
+      "until": 2018,
       "name": "CDC NCHS, Death rates and life expectancy at birth, dataset w9j2-ggv5",
       "url": "https://data.cdc.gov/resource/w9j2-ggv5.json"
     },
     {
       "years": "2019 and 2020",
+      "from": 2019,
+      "until": 2020,
       "name": "CDC NCHS Data Brief 427, Mortality in the United States, 2020",
       "url": "https://www.cdc.gov/nchs/products/databriefs/db427.htm"
     },
     {
       "years": "2021",
+      "from": 2021,
+      "until": 2021,
       "name": "CDC NCHS Data Brief 456, Mortality in the United States, 2021",
       "url": "https://www.cdc.gov/nchs/products/databriefs/db456.htm"
     },
     {
       "years": "2022 and 2023",
+      "from": 2022,
+      "until": 2023,
       "name": "CDC NCHS Data Brief 521, Mortality in the United States, 2023",
       "url": "https://www.cdc.gov/nchs/products/databriefs/db521.htm"
     },
     {
       "years": "2024",
+      "from": 2024,
+      "until": 2024,
       "name": "CDC NCHS Data Brief 548, Mortality in the United States, 2024",
       "url": "https://www.cdc.gov/nchs/products/databriefs/db548.htm"
     }

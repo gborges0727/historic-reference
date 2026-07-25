@@ -5,21 +5,29 @@
   "sources": [
     {
       "years": "1920 to 1999",
+      "from": 1920,
+      "until": 1999,
       "name": "US Census Bureau, Historical National Population Estimates, July 1, 1900 to July 1, 1999",
       "url": "https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/totals/popclockest.txt"
     },
     {
       "years": "2000 to 2009",
+      "from": 2000,
+      "until": 2009,
       "name": "US Census Bureau, Intercensal Estimates of the Resident Population, April 1 2000 to July 1 2010, Table 1",
       "url": "https://www2.census.gov/programs-surveys/popest/tables/2000-2010/intercensal/national/us-est00int-01.csv"
     },
     {
       "years": "2010 to 2019",
+      "from": 2010,
+      "until": 2019,
       "name": "US Census Bureau, Vintage 2020 national population totals, NST-EST2020-ALLDATA",
       "url": "https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/national/totals/nst-est2020-alldata.csv"
     },
     {
       "years": "2020 to 2025",
+      "from": 2020,
+      "until": 2025,
       "name": "US Census Bureau, Vintage 2025 national and state population totals, NST-EST2025-ALLDATA",
       "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv"
     }
