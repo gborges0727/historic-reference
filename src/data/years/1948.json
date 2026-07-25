@@ -1,0 +1,317 @@
+{
+  "year": 1948,
+  "tier": "early",
+  "headline": "Gandhi was shot in January, Israel declared independence in May, and Berlin was supplied by air from June",
+  "texture": [
+    "The Winter Games opened at St Moritz on the day Nathuram Godse shot Gandhi in New Delhi, and Orville Wright died the same day. A DC-3 came down at Los Gatos Creek near Coalinga on January 29, killing four US citizens and twenty-eight deportees, and Woody Guthrie wrote a protest song about it. Thomas Mantell of the Kentucky Air National Guard had crashed on January 7 chasing an object he could not identify. Eliza Moore, listed as the last person born into slavery in the United States, died on January 21.",
+    "The Empire Windrush docked at Tilbury on June 22 with more than 800 Afro-Caribbean passengers, and David Lean's Oliver Twist opened in Britain the same day. It was banned in the United States over the portrayal of Fagin. The airlift into Berlin ran as Operation Vittles on the American side. Police in Blackburn took 46,253 sets of fingerprints to find who had killed three-year-old June Anne Devaney. A dike on the Columbia River gave way on May 30 and Vanport, Oregon was gone within minutes. Fifteen people died and tens of thousands lost their homes.",
+    "General Film Distributors had both the top rentals title in America and the Best Picture winner, and both were British. Jane Wyman won Best Actress for a role with no spoken lines, the first performer since the silent era to do it. Bill France Sr. founded NASCAR on February 21 and the Hells Angels started in California on March 17. The Idaho Department of Fish and Game parachuted beavers into the Chamberlain Basin. Killer smog settled over Donora, Pennsylvania on October 26, and Arturo Toscanini had made his television debut in March conducting Wagner."
+  ],
+  "lead": [
+    "pol.us_election",
+    "world.gandhi_assassination",
+    "world.israel_declared",
+    "world.berlin_blockade",
+    "pol.desegregation_order",
+    "film.gross#0",
+    "film.ticket_price"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "detail": "The vice presidency was vacant all year. The Speaker of the House and the Senate majority leader of the 80th Congress were both Republicans.",
+      "source": "https://en.wikipedia.org/wiki/1948_in_the_United_States"
+    },
+    "pol.us_election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Truman beat the Republican Thomas E. Dewey, the Dixiecrat Strom Thurmond and the Progressive Henry A. Wallace",
+      "detail": "The Chicago Daily Tribune printed the headline Dewey Defeats Truman, and Truman was photographed holding it up.",
+      "date": "1948-11-02",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "pol.desegregation_order": {
+      "section": "politics",
+      "label": "Executive Order 9981",
+      "value": "Truman signed the order ending racial segregation in the United States Armed Forces",
+      "date": "1948-07-26",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "pol.marshall_plan": {
+      "section": "politics",
+      "label": "Marshall Plan signed",
+      "value": "Truman signed the plan authorizing aid for 16 countries",
+      "detail": "The two cached source pages give different authorization totals, so no dollar figure is stated here.",
+      "date": "1948-04-03",
+      "source": "https://en.wikipedia.org/wiki/1948_in_the_United_States"
+    },
+    "pol.hiss_indicted": {
+      "section": "politics",
+      "label": "Alger Hiss indicted",
+      "value": "The Justice Department charged him with two counts of perjury after Whittaker Chambers testified that he had been a communist",
+      "detail": "Chambers made the allegation to the House Un-American Activities Committee on August 3, and said it again on Meet the Press on August 27. The committee held its first televised hearing on August 25.",
+      "date": "1948-12-15",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.gandhi_assassination": {
+      "section": "world",
+      "label": "Gandhi assassinated",
+      "value": "Nathuram Godse shot him in New Delhi",
+      "detail": "Gandhi had begun a fast-unto-death in Delhi on January 12 to stop communal violence during the Partition of India.",
+      "date": "1948-01-30",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.israel_declared": {
+      "section": "world",
+      "label": "Israel declares independence",
+      "value": "David Ben-Gurion became the first prime minister, and Chaim Weizmann was elected the first president on May 16",
+      "detail": "The British Mandate of Palestine was terminated on May 15 and expeditionary forces from Egypt, Transjordan, Syria and Iraq invaded.",
+      "date": "1948-05-14",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.berlin_blockade": {
+      "section": "world",
+      "label": "Berlin Blockade",
+      "value": "The blockade of Berlin began, and the airlift into the city began two days later",
+      "date": "1948-06-24",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.czechoslovak_coup": {
+      "section": "world",
+      "label": "Czechoslovak coup",
+      "value": "President Edvard Benes ceded control of the country to the Communist Party",
+      "detail": "The regime that followed marked the day as Victorious February.",
+      "date": "1948-02-25",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.burma_independence": {
+      "section": "world",
+      "label": "Burma and Ceylon independent",
+      "value": "Burma left the United Kingdom on January 4 as a republic under Sao Shwe Thaik and U Nu, and Ceylon became independent on February 4 inside the British Commonwealth",
+      "detail": "Ceylon kept George VI as its king.",
+      "date": "1948-01-04",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.korea_divided": {
+      "section": "world",
+      "label": "Two Korean states declared",
+      "value": "The Republic of Korea was established in the south on August 15, and the north was declared the Democratic People's Republic of Korea on September 9 with Kim Il Sung as prime minister",
+      "date": "1948-08-15",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.nhs": {
+      "section": "world",
+      "label": "National Health Service begins",
+      "value": "The United Kingdom began providing universal healthcare, free at the point of use",
+      "date": "1948-07-05",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.human_rights": {
+      "section": "world",
+      "label": "Universal Declaration of Human Rights",
+      "value": "The United Nations General Assembly adopted it, a day after adopting the Genocide Convention",
+      "date": "1948-12-10",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "world.south_africa": {
+      "section": "world",
+      "label": "South Africa changes government",
+      "value": "Daniel Francois Malan defeated Jan Smuts and became prime minister",
+      "detail": "The source dates the start of apartheid to this change of government.",
+      "date": "1948-05-28",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Red Shoes, $5,000,000, General Film",
+        "Red River, $4,506,825, United Artists",
+        "The Paleface, $4,500,000, Paramount",
+        "Johnny Belinda, $4,266,000, Warner Bros.",
+        "Easter Parade, $4,144,000, MGM"
+      ],
+      "detail": "Rentals are the distributor's share rather than the ticket window total, so these figures sit well below what a gross would say. The table header states rentals while the sentence above it says gross.",
+      "source": "https://en.wikipedia.org/wiki/1948_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Hamlet",
+      "detail": "Laurence Olivier's film was the first non-Hollywood production to win the award, and the first time someone directed himself to an acting Oscar. It won four awards, and Best Costume Design was handed out for the first time.",
+      "source": "https://en.wikipedia.org/wiki/21st_Academy_Awards"
+    },
+    "film.paramount_decree": {
+      "section": "film",
+      "label": "Supreme Court rules against the studios",
+      "value": "United States v. Paramount Pictures held that block booking and studio ownership of theatre chains were anti-competitive and monopolistic",
+      "date": "1948-05-03",
+      "source": "https://en.wikipedia.org/wiki/1948_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Bicycle Thieves, Vittorio De Sica, Italy",
+        "Drunken Angel, Akira Kurosawa, Japan",
+        "Spring in a Small Town, Fei Mu, China",
+        "Oliver Twist, David Lean, Great Britain"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1948_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$0.36",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, on a programme that included a newsreel. Warner Brothers showed the first colour newsreel on January 5, of the Tournament of Roses Parade and the Rose Bowl Game.",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Buttons and Bows, Dinah Shore",
+        "Twelfth Street Rag, Pee Wee Hunt",
+        "Manana (Is Soon Enough for Me), Peggy Lee",
+        "A Tree in the Meadow, Margaret Whiting",
+        "I'm Looking Over a Four Leaf Clover, Art Mooney"
+      ],
+      "detail": "Ranked by combining Billboard's best-selling retail, most-played-on-air and juke box charts. Buttons and Bows held number one for ten weeks and sold 2.5 million copies.",
+      "source": "https://en.wikipedia.org/wiki/1948_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On 78 rpm discs. Columbia demonstrated a 33 and a third rpm long-playing record at the Waldorf-Astoria in New York, holding 25 minutes a side against the four minutes a 78 held.",
+      "detail": "The music page dates the public demonstration June 21 and the year page dates the format's introduction June 18, so no date is given here.",
+      "source": "https://en.wikipedia.org/wiki/1948_in_music"
+    },
+    "radio.am_fm_simulcast": {
+      "section": "radio",
+      "label": "First programme on AM and FM",
+      "value": "The Voice of Firestone became the first radio programme carried on both AM and FM stations",
+      "detail": "Thirty-two FM stations joined a first coast-to-coast FM network programme on September 28.",
+      "date": "1948-03-22",
+      "source": "https://en.wikipedia.org/wiki/1948_in_radio"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cleveland Indians beat the Boston Braves, four games to two",
+      "detail": "The Homestead Grays beat the Birmingham Black Barons four games to one in the Negro World Series.",
+      "source": "https://en.wikipedia.org/wiki/1948_in_sports"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "The Games opened in London, the first Summer Olympics since Berlin",
+      "date": "1948-07-29",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "sports.olympic_medals": {
+      "section": "sports",
+      "label": "Olympic medals",
+      "value": "The United States won the most medals, 84, and the most gold medals, 38",
+      "detail": "Fanny Blankers-Koen of the Netherlands won four golds. The women's 200 metres, long jump and shot put were contested for the first time.",
+      "source": "https://en.wikipedia.org/wiki/1948_in_sports"
+    },
+    "sports.joe_louis": {
+      "section": "sports",
+      "label": "Heavyweight title",
+      "value": "Joe Louis knocked out Jersey Joe Walcott in the 11th round at Yankee Stadium, holding the title for the 25th time, and announced his retirement shortly after",
+      "date": "1948-06-25",
+      "source": "https://en.wikipedia.org/wiki/1948_in_sports"
+    },
+    "sports.bradman_final_test": {
+      "section": "sports",
+      "label": "Bradman's last Test",
+      "value": "Eric Hollies bowled Don Bradman for a duck at The Oval, leaving his career Test batting average at 99.94",
+      "detail": "Australia won the match by an innings and 149 runs, and the Ashes four to nil.",
+      "date": "1948-08-14",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "culture.kinsey": {
+      "section": "culture",
+      "label": "Kinsey Report published",
+      "value": "The first of the Kinsey Reports, Sexual Behavior in the Human Male, was published",
+      "date": "1948-01-05",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Berlin supplied by aircraft from the end of June, an assassination in Delhi in January, and a presidential result one newspaper had already printed the other way."
+    },
+    "tech.transistor_patent": {
+      "section": "tech",
+      "label": "Transistor patent filed",
+      "value": "William Shockley filed the original patent for the grown-junction transistor, the first bipolar junction transistor",
+      "date": "1948-06-26",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "tech.shannon": {
+      "section": "tech",
+      "label": "A Mathematical Theory of Communication",
+      "value": "Claude Shannon published the paper in the Bell System Technical Journal, and the term bit was adopted from it",
+      "detail": "The source gives the publication as running from July to October, with no single date.",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.40 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "deaths.gandhi": {
+      "section": "deaths",
+      "label": "Mahatma Gandhi",
+      "value": "Assassinated January 30. Born 1869",
+      "detail": "Leader of the Indian independence movement.",
+      "date": "1948-01-30",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "deaths.wright": {
+      "section": "deaths",
+      "label": "Orville Wright",
+      "value": "Died January 30. Born 1871",
+      "detail": "American co-inventor of the airplane.",
+      "date": "1948-01-30",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "deaths.eisenstein": {
+      "section": "deaths",
+      "label": "Sergei Eisenstein",
+      "value": "Died February 11. Born 1898",
+      "detail": "Soviet film director.",
+      "date": "1948-02-11",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "deaths.griffith": {
+      "section": "deaths",
+      "label": "D. W. Griffith",
+      "value": "Died July 23. Born 1875",
+      "detail": "American film director, of The Birth of a Nation.",
+      "date": "1948-07-23",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    },
+    "deaths.ruth": {
+      "section": "deaths",
+      "label": "Babe Ruth",
+      "value": "Died August 16. Born 1895",
+      "detail": "American baseball player for the New York Yankees, in the Baseball Hall of Fame.",
+      "date": "1948-08-16",
+      "source": "https://en.wikipedia.org/wiki/1948"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1948. figures_basis is rentals: the box office table's column header reads Domestic rentals, though the sentence introducing the table calls the figures gross. The disagreement is recorded in the film.gross detail. Two other source disagreements are labelled rather than resolved. The Marshall Plan authorization is $5 billion on the 1948 page and $15 billion on the 1948 in the United States page, so pol.marshall_plan carries no dollar figure. The long-playing record is dated June 21 on the music page as a public demonstration and June 18 on the year page as an introduction, so music.listening_format carries no date. tech.shannon carries no date because the source gives the publication as July to October. Dropped for lack of a source in the cached pages: the Polaroid Land Camera going on sale, and any figure for how many US households had a television set. Texture material taken from the year pages but not given its own fact: Operation Vittles as the American name for the airlift, from the US page; the Empire Windrush at Tilbury; Oliver Twist being banned in the United States over Fagin; the Los Gatos crash and Woody Guthrie's song; the Mantell crash; Eliza Moore; the Blackburn fingerprint count; the Vanport dike; the founding of NASCAR and the Hells Angels; the Idaho beaver drop; the Donora smog; Toscanini's television debut; Malan defeating Smuts. General knowledge rather than claims from the source pages: that a cinema programme included a newsreel, that 78 rpm discs were what people played at home, and that The Red Shoes and Hamlet sharing General Film Distributors is a link drawn across the film page and the Academy Awards page. Deaths carry birth years, matching the 1944 and 1945 files. Names and titles are written in ASCII per the corpus convention, so the source's Francois Malan and Manana are spelled without the cedilla and the tilde."
+}

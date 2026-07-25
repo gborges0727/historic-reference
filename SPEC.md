@@ -266,6 +266,10 @@ Nielsen seasons run from autumn to spring, so no season matches a calendar year.
 
 The label never names the second year, because check 4 fails on a future year anywhere in the facts and the exemption would be a hole exactly where a wrong year is hardest to spot. The detail line carries the explanation instead.
 
+### Names and titles are ASCII
+
+Every name, place and title in the data files is written without diacritics: Francois Malan, Sciuscia, La Belle et la Bete, Manana. This started as a per-file accident and is now a stated convention, because the alternative is worse. Restoring a diacritic means either re-reading the source for every name already written or supplying the mark from memory, and supplying it from memory is the failure mode the accuracy rule exists to prevent. A dropped mark is a transliteration a reader can still search on. A wrong mark is a wrong name. Any file that notes a stripped diacritic says which name it stripped.
+
 ## Validation
 
 The build fails on any error below. Wire `npm run validate` into `npm run build` and into CI before deploy.

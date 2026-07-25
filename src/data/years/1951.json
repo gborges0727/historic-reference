@@ -1,0 +1,349 @@
+{
+  "year": 1951,
+  "tier": "broadcast",
+  "headline": "Truman relieved MacArthur in April, armistice talks opened at Kaesong, and I Love Lucy went on the air",
+  "texture": [
+    "A top secret report from his National Security Resources Board reached Truman on January 11, urging a global offensive against communism with sustained bombing of Red China and diplomatic moves to build moral justification for a nuclear attack on the Soviet Union. Mostly Australian forces drove the Chinese back at Maryang-san in October. Mount Lamington erupted in Papua New Guinea on January 21, killing nearly three thousand people in Oro Province, and a fire on a train at Sakuragicho in Yokohama killed more than a hundred passengers on April 24.",
+    "In July a mob of four thousand white residents attacked an apartment building in Cicero, Illinois, because one Black family had moved in. In December a petition called We Charge Genocide went to the United Nations, describing what the government had done to Black Americans. A Pennsylvania Railroad passenger train derailed near Woodbridge, New Jersey, on February 6, killing eighty-five people and injuring more than five hundred. Ilse Koch, whose husband had commanded Buchenwald, was sentenced to life by a West German court on January 15.",
+    "King George VI opened the Festival of Britain on May 3, including the Royal Festival Hall. Guy Burgess and Donald Maclean left Britain on May 25 and defected to the Soviet Union. The Treaty of Paris, adopted on April 18, established the European Coal and Steel Community. The Marshall Plan expired on December 31 after sending more than $13.3 billion in aid to rebuild Europe. Avalanches in the Alps killed 240 people in January and buried 45,000 for a time.",
+    "Shoppers World opened in Framingham, Massachusetts, on October 4, and the New Jersey Turnpike on November 5. Direct dial telephone service between the coasts started on November 10. The first live transcontinental television broadcast had gone out on September 4, from the Japanese peace conference in San Francisco, and NBC carried the first coast-to-coast sporting event on September 29, a Duke and Pittsburgh college football game. On December 24 NBC broadcast Gian Carlo Menotti's Amahl and the Night Visitors, forty-five minutes long and the first opera written for television."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.macarthur",
+    "world.korea_armistice_talks",
+    "world.treaty_san_francisco",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#0",
+    "tech.univac"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "detail": "Alben W. Barkley of Kentucky was vice president.",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "pol.macarthur": {
+      "section": "politics",
+      "label": "Truman relieves MacArthur",
+      "value": "The general lost his Far Eastern commands",
+      "detail": "The Senate Armed Services and Foreign Relations committees began closed door hearings into the dismissal on May 3.",
+      "date": "1951-04-11",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "pol.rosenbergs": {
+      "section": "politics",
+      "label": "Rosenberg espionage trial",
+      "value": "Julius and Ethel Rosenberg were convicted of conspiracy to commit espionage on March 29 and sentenced to death on April 5",
+      "detail": "The trial had opened on March 6.",
+      "date": "1951-03-29",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "pol.twenty_second_amendment": {
+      "section": "politics",
+      "label": "Twenty-second Amendment ratified",
+      "value": "Presidents limited to two terms",
+      "date": "1951-02-27",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.korea_seoul": {
+      "section": "world",
+      "label": "Seoul changes hands twice",
+      "value": "Chinese and North Korean forces took the city on January 4, and United Nations troops retook it on March 14 in Operation Ripper",
+      "date": "1951-01-04",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.korea_armistice_talks": {
+      "section": "world",
+      "label": "Korean War armistice talks",
+      "value": "Negotiations opened at Kaesong",
+      "detail": "The United Nations General Assembly had declared China an aggressor in the war on February 1.",
+      "date": "1951-07-10",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.treaty_san_francisco": {
+      "section": "world",
+      "label": "Treaty of San Francisco",
+      "value": "Forty-eight of the fifty-one representatives attending signed a peace treaty with Japan, formally ending the Pacific War",
+      "detail": "The Soviet Union, Poland and Czechoslovakia did not sign, favoring separate treaties. The US-Japan Security Treaty, which allows American forces to be stationed in Japan, was signed the same day.",
+      "date": "1951-09-08",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.tibet": {
+      "section": "world",
+      "label": "Seventeen Point Agreement",
+      "value": "The Tibetan government signed it with the People's Republic of China on May 23, and Chinese forces moved into Lhasa on September 9",
+      "date": "1951-05-23",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.iran": {
+      "section": "world",
+      "label": "Iranian oil",
+      "value": "The United Kingdom began an economic boycott of Iran",
+      "detail": "The year page summarises the dispute as the nationalization of the Iranian oil industry under Mohammad Mosaddegh.",
+      "date": "1951-09-10",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.assassinations": {
+      "section": "world",
+      "label": "Two leaders assassinated",
+      "value": "King Abdullah I of Jordan was killed at Friday prayers in Jerusalem on July 20, and Prime Minister Liaquat Ali Khan of Pakistan was assassinated on October 16",
+      "detail": "Abdullah was succeeded by his son Talal.",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.churchill": {
+      "section": "world",
+      "label": "Churchill returns as prime minister",
+      "value": "The general election defeated Clement Attlee's Labour government after six years in power",
+      "detail": "Churchill was a month short of his 77th birthday.",
+      "date": "1951-10-26",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "world.libya": {
+      "section": "world",
+      "label": "Libyan independence",
+      "value": "Independent of Britain and France, with Idris I proclaimed king",
+      "date": "1951-12-24",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Quo Vadis, $11,143,000, MGM",
+        "Show Boat, $5,293,000, MGM",
+        "David and Bathsheba, $4,720,000, 20th Century Fox",
+        "The Great Caruso, $4,309,000, MGM",
+        "A Streetcar Named Desire, $4,250,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The same page separately credits Quo Vadis with a worldwide gross of $30,028,513, a figure that includes later re-releases.",
+      "source": "https://en.wikipedia.org/wiki/1951_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "An American in Paris",
+      "detail": "Awarded the following spring at the 24th Academy Awards. A Streetcar Named Desire arrived with twelve nominations, more than any other film, and won three of the four acting awards it was up for. An American in Paris took six Oscars without a single acting nomination.",
+      "source": "https://en.wikipedia.org/wiki/24th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Rashomon wins the Golden Lion",
+      "value": "The Japanese film took the top prize at the Venice Film Festival, bringing wide attention to Japanese cinema",
+      "detail": "Raj Kapoor's Awaara was released in India on December 14 and is credited with a worldwide gross of $30,660,000, most of it earned outside India and including later re-releases.",
+      "date": "1951-09-10",
+      "source": "https://en.wikipedia.org/wiki/1951_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Sets were arriving in American homes fast, and a new picture still played theatres and nowhere else.",
+      "source": "https://en.wikipedia.org/wiki/1951_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1951",
+      "value": [
+        "Arthur Godfrey's Talent Scouts, CBS, 53.8 rating",
+        "Texaco Star Theater, NBC, 52.0",
+        "I Love Lucy, CBS, 50.9",
+        "The Red Skelton Show, NBC, 50.2",
+        "The Colgate Comedy Hour, NBC, 45.3"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in autumn and ran on through the following spring. Arthur Godfrey fronted two of the top six.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1951%E2%80%9352"
+    },
+    "tv.i_love_lucy": {
+      "section": "tv",
+      "label": "I Love Lucy begins",
+      "value": "The first episode went out on CBS, starring Lucille Ball and her husband Desi Arnaz",
+      "detail": "It placed third in the Nielsen ranking for its first season.",
+      "date": "1951-10-15",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "tv.color": {
+      "section": "tv",
+      "label": "Color television",
+      "value": "CBS put out its first commercial color telecast on June 25, with Arthur Godfrey, Ed Sullivan and Faye Emerson",
+      "detail": "The Supreme Court had upheld the FCC's approval of the CBS color system on May 28. A Brooklyn Dodgers and Boston Braves double-header on August 11 was the first baseball televised in color, and a World Series game got the first color telecast on October 3.",
+      "date": "1951-06-25",
+      "source": "https://en.wikipedia.org/wiki/1951_in_American_television"
+    },
+    "radio.freed": {
+      "section": "radio",
+      "label": "Alan Freed on WJW",
+      "value": "Freed launched The Moondog House on WJW in Cleveland, a nighttime rhythm and blues show sponsored by a record shop owned by Leo Mintz",
+      "detail": "The source credits the programme with the first known use of the term rock and roll to describe the music.",
+      "date": "1951-07-11",
+      "source": "https://en.wikipedia.org/wiki/1951_in_radio"
+    },
+    "radio.state": {
+      "section": "radio",
+      "label": "Network schedules thin out",
+      "value": "Long-running series ended their network runs. The Adventures of Sam Spade ended its network run on April 27, The Adventures of Philip Marlowe on September 15, and The Carnation Contented Hour on December 30.",
+      "detail": "The Archers began on the BBC Light Programme on January 1, and The Goon Show on the BBC Home Service on May 28 under the title Crazy People.",
+      "source": "https://en.wikipedia.org/wiki/1951_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Billboard number one singles",
+      "value": [
+        "How High the Moon, Les Paul and Mary Ford, nine weeks from April 21",
+        "Because of You, Tony Bennett, eight weeks from September 8",
+        "Come On-a My House, Rosemary Clooney, six weeks from July 28",
+        "Cold, Cold Heart, Tony Bennett, six weeks from November 3",
+        "Too Young, Nat King Cole, five weeks from June 23"
+      ],
+      "detail": "Singles that reached the top of Billboard's charts, ordered here by weeks spent at number one. Perry Como's If held it for five weeks from March 17. Johnnie Ray's Cry took the top spot on December 29 and stayed there past the end of the year.",
+      "source": "https://en.wikipedia.org/wiki/1951_in_music"
+    },
+    "music.rocket_88": {
+      "section": "music",
+      "label": "Rocket 88 recorded",
+      "value": "Jackie Brenston and His Delta Cats cut it at Sam Phillips's Sun Studio in Memphis, a candidate for the first rock and roll record",
+      "detail": "The band was really Ike Turner's Kings of Rhythm. The record came out in April, and Bill Haley and His Saddlemen recorded their own version on June 14. The music page dates the session March 3 to 5 and the US page says March 3 or 5.",
+      "date": "1951-03",
+      "source": "https://en.wikipedia.org/wiki/1951_in_music"
+    },
+    "music.king_and_i": {
+      "section": "music",
+      "label": "The King and I opens",
+      "value": "The Rodgers and Hammerstein musical opened on Broadway, the first they wrote for a particular actress, Gertrude Lawrence",
+      "detail": "The source says the show ran three years and made a star of Yul Brynner.",
+      "date": "1951-03-29",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "tech.univac": {
+      "section": "tech",
+      "label": "First UNIVAC I delivered",
+      "value": "Remington Rand handed the machine to the US Census Bureau on March 31, and it was dedicated on June 14",
+      "detail": "In Britain, LEO ran what the source calls the world's first commercial computer program on November 29, valuing bakery output for the tea shops of J. Lyons and Co.",
+      "date": "1951-03-31",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "tech.transistor": {
+      "section": "tech",
+      "label": "Grown-junction transistor",
+      "value": "William Shockley of Bell Labs announced it, jointly invented with John Bardeen and Walter Brattain",
+      "detail": "General Electric and RCA developed the alloy-junction transistor the same year.",
+      "date": "1951-07-04",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "tech.ebr1": {
+      "section": "tech",
+      "label": "Experimental Breeder Reactor I",
+      "value": "EBR-1 opened in Idaho, the world's first experimental nuclear power plant",
+      "date": "1951-12-20",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "tech.nuclear_tests": {
+      "section": "tech",
+      "label": "Nuclear testing",
+      "value": "Testing began at the Nevada Test Site with a one kiloton bomb dropped on Frenchman Flat, northwest of Las Vegas",
+      "detail": "Operation Greenhouse fired the George test on Enewetak Atoll on May 8, described as the world's first thermonuclear burn. The Desert Rock exercises on November 1 were the first military exercises for nuclear warfare with infantry troops included.",
+      "date": "1951-01-27",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.27 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A war in Korea that neither side could move, a spy trial that ended in two death sentences, and evenings in the front room rearranged around a television set."
+    },
+    "culture.catcher_in_the_rye": {
+      "section": "culture",
+      "label": "The Catcher in the Rye",
+      "value": "J. D. Salinger's novel was published by Little, Brown and Company in New York City",
+      "date": "1951-07-16",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "culture.gigi": {
+      "section": "culture",
+      "label": "Gigi on Broadway",
+      "value": "The play opened with Audrey Hepburn, then little known, in the lead",
+      "date": "1951-11-24",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the New York Giants four games to two",
+      "detail": "The fourteenth title for the Yankees.",
+      "date": "1951-10-10",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "sports.shot_heard": {
+      "section": "sports",
+      "label": "Shot Heard Round the World",
+      "value": "Bobby Thomson of the New York Giants hit a home run in the bottom of the ninth off the Brooklyn pitcher Ralph Branca to take the National League pennant",
+      "detail": "The Giants had been fourteen games behind. The sports page gives the score as five to four and calls it a three-run walk-off.",
+      "date": "1951-10-03",
+      "source": "https://en.wikipedia.org/wiki/1951_in_the_United_States"
+    },
+    "sports.dimaggio": {
+      "section": "sports",
+      "label": "Joe DiMaggio's last game",
+      "value": "He played his final regular season game",
+      "date": "1951-09-30",
+      "source": "https://en.wikipedia.org/wiki/1951_in_sports"
+    },
+    "deaths.lewis": {
+      "section": "deaths",
+      "label": "Sinclair Lewis",
+      "value": "Died January 10. Born 1885",
+      "detail": "American writer and Nobel laureate in literature.",
+      "date": "1951-01-10",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "deaths.gide": {
+      "section": "deaths",
+      "label": "Andre Gide",
+      "value": "Died February 19. Born 1869",
+      "detail": "French writer and Nobel laureate in literature.",
+      "date": "1951-02-19",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "deaths.wittgenstein": {
+      "section": "deaths",
+      "label": "Ludwig Wittgenstein",
+      "value": "Died April 29. Born 1889",
+      "detail": "Austrian philosopher.",
+      "date": "1951-04-29",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "deaths.schoenberg": {
+      "section": "deaths",
+      "label": "Arnold Schoenberg",
+      "value": "Died July 13. Born 1874",
+      "detail": "Austrian composer.",
+      "date": "1951-07-13",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    },
+    "deaths.hearst": {
+      "section": "deaths",
+      "label": "William Randolph Hearst",
+      "value": "Died August 14. Born 1863",
+      "detail": "American newspaper publisher.",
+      "date": "1951-08-14",
+      "source": "https://en.wikipedia.org/wiki/1951"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Box office is rentals: the table header on the film page reads Rank, Title, Distributor, Domestic rentals. The Nielsen ranking is published as the 1951-52 season, so it covers autumn 1951 through spring 1952; the fact says so in words because the anachronism check forbids a second year token in a fact string. Deaths carry a birth year rather than an age because the source gives only the year, and computing an age without a birth date invents precision. The Rocket 88 session is dated March 3 to 5 on the music page and March 3 or 5 on the US page, so the fact carries the month only. Dropped for want of an agreed date: the CBS eye logo, which the television page puts on October 20, the US page on October 17 and the radio page on October 19. Kurosawa is not named in the Rashomon fact because the film page does not name him. The claim in film.how_people_watched that a new release played theatres and nowhere else is general knowledge rather than a claim from the year pages, as is the reading of the Cicero attack in the second texture paragraph as a response to one family moving in, which the US page states directly. Left out for length rather than for want of a source: the first Pan American Games, the first NBA All-Star Game, Randy Turpin beating Sugar Ray Robinson, the NFL championship carried coast to coast by DuMont, Judy Garland's Palace Theatre run, the first Sanremo festival, the death of Philippe Petain while serving a life sentence on the Ile d'Yeu, and the first appearance of Dennis the Menace."
+}

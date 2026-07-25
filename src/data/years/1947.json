@@ -1,0 +1,388 @@
+{
+  "year": 1947,
+  "tier": "early",
+  "headline": "Truman promised aid against communism in March, India and Pakistan split in August, Yeager flew past sound in October",
+  "texture": [
+    "Pakistan took independence at midnight on August 14 and India on the 15th, dates thirty minutes apart because Pakistan Standard Time ran half an hour behind India's. Nehru took his oath from Mountbatten, governor-general and no longer viceroy. The migration between the two dominions killed hundreds of thousands, and Pakistan Army units with Pashtun fighters overran Mirpur in November. In Britain the heaviest snow of the century closed the railways through January and February, and the thaw put the Thames over its banks on March 14.",
+    "Sam Rayburn gave up the Speaker's chair to Joseph Martin on January 3, and the new Congress wrote the Taft-Hartley Act into law over Truman's veto in June. Truman had no vice president, so in July he signed an act putting the Speaker next in line after the vice presidency. The Hollywood hearings opened in October. By the end of November the Screen Actors Guild had sworn an anti-communist oath, the House had voted contempt citations against ten writers and directors, and the studio executives meeting at the Waldorf had put those ten out of work.",
+    "A hoaxed flying disc turned up at Twin Falls on July 11, weeks after Kenneth Arnold reported objects near Mount Rainier and started the craze. Thor Heyerdahl's balsa raft hit the reef at Raroia in August after 101 days and 4,300 miles. Forest fires in Maine burned more than 200,000 acres in October and November, destroyed over a thousand homes, and killed 16 people. Howard Hughes flew his Hercules flying boat for eight minutes in November and never took it up again."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.truman_doctrine",
+    "world.partition_india",
+    "world.un_palestine_partition",
+    "film.gross#0",
+    "tech.transistor",
+    "sports.color_barrier",
+    "culture.flying_discs"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "detail": "The vice presidency stood vacant. Republicans held both houses from January 3, with Joseph William Martin Jr. as Speaker and Wallace H. White Jr. leading the Senate.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "pol.truman_doctrine": {
+      "section": "politics",
+      "label": "Truman Doctrine proclaimed",
+      "value": "Announced to help stem the spread of communism",
+      "detail": "The source page dates the start of the Cold War to this announcement.",
+      "date": "1947-03-12",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "pol.greece_turkey_aid": {
+      "section": "politics",
+      "label": "Aid to Greece and Turkey",
+      "value": "Truman signed an act granting $400 million in military and economic aid to the two countries",
+      "date": "1947-05-22",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "pol.marshall_plan": {
+      "section": "politics",
+      "label": "Marshall Plan outlined",
+      "value": "Secretary of State George Marshall set out a programme of American reconstruction and relief aid for Europe",
+      "date": "1947-06-05",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "pol.taft_hartley": {
+      "section": "politics",
+      "label": "Taft-Hartley Act",
+      "value": "The Senate followed the House in overriding Truman's veto of the act",
+      "date": "1947-06-23",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "pol.national_security_act": {
+      "section": "politics",
+      "label": "National Security Act",
+      "value": "Truman signed the act creating the Central Intelligence Agency, the National Security Council, the Joint Chiefs of Staff and the National Military Establishment that later became the Department of Defense",
+      "detail": "Most provisions took effect on September 18. The Air Force was made a separate branch of the military on September 26.",
+      "date": "1947-07-26",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "pol.hollywood_ten": {
+      "section": "politics",
+      "label": "Hollywood Ten cited for contempt",
+      "value": "The House voted 346 to 17 to approve contempt of Congress citations against ten screenwriters and directors who would not answer the House Un-American Activities Committee",
+      "detail": "The committee had opened its investigation of communism in Hollywood in October.",
+      "date": "1947-11-24",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "world.partition_india": {
+      "section": "world",
+      "label": "Partition of India",
+      "value": "The Dominion of Pakistan gained independence from the British Empire on August 14 and the Dominion of India on August 15, ending 190 years of British rule",
+      "detail": "Muhammad Ali Jinnah became the first governor-general of Pakistan and Liaquat Ali Khan its first prime minister. Jawaharlal Nehru took office as the first prime minister of India, sworn in by Louis Mountbatten.",
+      "date": "1947-08-15",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "world.partition_violence": {
+      "section": "world",
+      "label": "Killing during the migration",
+      "value": "Pakistan Army units and Pashtun fighters overran Mirpur in Kashmir, and 20,000 Hindus and Sikhs died there",
+      "detail": "Hindus and Muslims had clashed in Punjab in March. The source puts the deaths during the mass migration between the two new states at 400,000, and notes that the date of the Mirpur event needs confirmation.",
+      "date": "1947-11-25",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "world.kashmir_war": {
+      "section": "world",
+      "label": "War in Kashmir",
+      "value": "Fighting began along the border between India and Pakistan",
+      "detail": "The first Azad Kashmir government was established within Pakistan on October 24.",
+      "date": "1947-10-20",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "world.un_palestine_partition": {
+      "section": "world",
+      "label": "UN vote on Palestine",
+      "value": "The General Assembly voted for a plan partitioning Mandatory Palestine between Arab and Jewish regions",
+      "detail": "Britain began withdrawing its troops from Palestine on November 16. The ship Exodus had left France in July with 4,500 Jewish refugees aboard, and British troops captured it and sent the passengers back to Europe.",
+      "date": "1947-11-29",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "world.paris_peace_treaties": {
+      "section": "world",
+      "label": "Paris peace treaties",
+      "value": "The wartime Allies signed treaties with Italy, Hungary, Romania, Bulgaria and Finland",
+      "detail": "Italy ceded most of Istria to Yugoslavia.",
+      "date": "1947-02-10",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "world.taiwan_incident": {
+      "section": "world",
+      "label": "February 28 incident in Taiwan",
+      "value": "Civil disorder was put down with large loss of civilian life",
+      "detail": "The source page's own summary gives 18,000 to 28,000 killed, followed by decades of martial law.",
+      "date": "1947-02-28",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "world.texas_city": {
+      "section": "world",
+      "label": "Texas City disaster",
+      "value": "The ammonium nitrate cargo of the Liberty ship Grandcamp exploded in port, killing at least 581 people",
+      "detail": "All but one member of the city fire department died. At least 5,000 were injured and 20 city blocks destroyed. The remains of 113 of the dead were never found.",
+      "date": "1947-04-16",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Welcome Stranger, $6,100,000, Paramount",
+        "The Egg and I, $5,500,000, Universal",
+        "Life with Father, $5,057,000, Warner Bros.",
+        "Forever Amber, $5,000,000, 20th Century Fox",
+        "Unconquered, $4,633,486, Paramount"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Gentleman's Agreement",
+      "detail": "Darryl F. Zanuck produced it for 20th Century Fox. Elia Kazan won Best Director for it, and Gregory Peck and Dorothy McGuire were nominated for the two lead roles without winning.",
+      "source": "https://en.wikipedia.org/wiki/20th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting awards",
+      "value": "Ronald Colman won Best Actor for A Double Life, Loretta Young won Best Actress for The Farmer's Daughter, Edmund Gwenn won Best Supporting Actor as Kris Kringle in Miracle on 34th Street, and Celeste Holm won Best Supporting Actress for Gentleman's Agreement",
+      "detail": "The Golden Globes gave Best Actress to Rosalind Russell for Mourning Becomes Electra instead, and agreed with the Academy on the other three.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films outside Hollywood",
+      "value": [
+        "Black Narcissus, Michael Powell and Emeric Pressburger, GB",
+        "Odd Man Out, Carol Reed, GB",
+        "Quai des Orfevres, Henri-Georges Clouzot, France",
+        "Monsieur Vincent, with Pierre Fresnay, France",
+        "One Wonderful Sunday, Akira Kurosawa, Japan"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1947_in_film"
+    },
+    "film.blacklist": {
+      "section": "film",
+      "label": "Waldorf Statement",
+      "value": "The executives of the American film industry issued the statement that began the Hollywood blacklist, the day after the contempt vote",
+      "date": "1947-11-25",
+      "source": "https://en.wikipedia.org/wiki/1947_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and from August 31 at a festival: the first Edinburgh International Film Festival opened at the Playhouse Cinema, presented by the Edinburgh Film Guild and specialising in documentaries",
+      "source": "https://en.wikipedia.org/wiki/1947_in_film"
+    },
+    "radio.philco_tape": {
+      "section": "radio",
+      "label": "Tape reaches network radio",
+      "value": "Philco Radio Time, starring Bing Crosby on ABC, introduced taped broadcasting to primetime network radio",
+      "detail": "The show had been recorded on large wax transcription discs until then. The source gives no date for the change.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_radio"
+    },
+    "radio.you_bet_your_life": {
+      "section": "radio",
+      "label": "You Bet Your Life premieres",
+      "value": "The show began on ABC radio, with Groucho Marx",
+      "date": "1947-10-27",
+      "source": "https://en.wikipedia.org/wiki/1947_in_radio"
+    },
+    "radio.world_series_rights": {
+      "section": "radio",
+      "label": "Radio rights to the World Series",
+      "value": "Sold for $475,000 covering three years",
+      "date": "1947-10-20",
+      "source": "https://en.wikipedia.org/wiki/1947_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Near You, Francis Craig and His Orchestra",
+        "Heartaches, Ted Weems and His Orchestra",
+        "Ballerina, Vaughn Monroe and His Orchestra",
+        "Peg o' My Heart, The Harmonicats",
+        "Linda, Buddy Clark with the Ray Noble Orchestra"
+      ],
+      "detail": "Ranked on a points total across Billboard's charts of the period. Near You held number one for seventeen weeks, stayed on the chart for twenty-five, and sold 2.5 million copies on the Bullet label.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_music"
+    },
+    "music.race_records": {
+      "section": "music",
+      "label": "Top race record",
+      "value": "Ain't Nobody Here but Us Chickens, Louis Jordan and His Tympany Five, on Decca",
+      "detail": "Billboard's Most-Played Juke Box Race Records ranking, counted over a twelve month window ending in November. Jordan held five of its top ten places. Julia Lee's Snatch and Grab It, third on the list, sold over 500,000 copies.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_music"
+    },
+    "tech.polaroid": {
+      "section": "tech",
+      "label": "Instant camera demonstrated",
+      "value": "Edwin Land showed the Polaroid Land Camera to a meeting of the Optical Society of America in New York City",
+      "date": "1947-02-21",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "tech.transistor": {
+      "section": "tech",
+      "label": "First practical transistor",
+      "value": "John Bardeen and Walter Brattain, working under William Shockley at Bell Labs, demonstrated it in December",
+      "detail": "The year page dates the work from November 17 to December 23 and describes it as a demonstration of the transistor effect.",
+      "date": "1947-12-22",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "tech.sound_barrier": {
+      "section": "tech",
+      "label": "Speed of sound passed",
+      "value": "Captain Chuck Yeager flew a Bell X-1 rocket plane faster than sound",
+      "detail": "The first time it had been done in level flight or climbing.",
+      "date": "1947-10-14",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "tech.television": {
+      "section": "tech",
+      "label": "Meet the Press on television",
+      "value": "The programme made its television debut on the NBC network",
+      "detail": "World Series games had been broadcast on television for the first time on October 6.",
+      "date": "1947-11-06",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "pol.first_televised_address": {
+      "section": "politics",
+      "label": "First televised White House address",
+      "value": "Truman spoke from the White House on the world food crisis, the first such address carried on television",
+      "date": "1947-10-05",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.40 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Dollars promised to Europe and a loyalty oath signed in Hollywood, two new dominions where British India had been, and the strangest reports of the year coming out of the sky over Washington state and New Mexico."
+    },
+    "culture.flying_discs": {
+      "section": "culture",
+      "label": "The flying disc craze",
+      "value": "Kenneth Arnold's sighting near Mount Rainier was the first widely reported one and set the craze going",
+      "detail": "A downed craft was reported near Roswell in July, dated July 7 by the US page and July 8 by the year page. The Rhodes photographs of a shoe-heel shaped object were taken over Phoenix, and a hoaxed disc was recovered at Twin Falls on July 11.",
+      "date": "1947-06-24",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "culture.streetcar": {
+      "section": "culture",
+      "label": "A Streetcar Named Desire opens",
+      "value": "Tennessee Williams's play opened at the Ethel Barrymore Theatre on Broadway, starring Marlon Brando, with Jessica Tandy as Blanche Du Bois",
+      "date": "1947-12-03",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "culture.anne_frank_diary": {
+      "section": "culture",
+      "label": "Anne Frank's diary published",
+      "value": "Published in Amsterdam as Het Achterhuis, two years after the writer died at Bergen-Belsen",
+      "date": "1947-06-25",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "culture.doomsday_clock": {
+      "section": "culture",
+      "label": "Doomsday Clock introduced",
+      "value": "Introduced by the Bulletin of the Atomic Scientists",
+      "detail": "The source gives June with no day.",
+      "date": "1947-06",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Brooklyn Dodgers, four games to three",
+      "detail": "The New York Cubans beat the Cleveland Buckeyes four games to one in the Negro World Series.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_sports"
+    },
+    "sports.color_barrier": {
+      "section": "sports",
+      "label": "Jackie Robinson plays in the majors",
+      "value": "The first African American to play Major League Baseball since the 1880s",
+      "detail": "He signed with the Brooklyn Dodgers on April 1 and played on April 15. Larry Doby became the first African American to play in the American League on July 5.",
+      "date": "1947-04-15",
+      "source": "https://en.wikipedia.org/wiki/1947_in_the_United_States"
+    },
+    "sports.misaka": {
+      "section": "sports",
+      "label": "Wataru Misaka joins the Knicks",
+      "value": "He made the New York roster and became the first person of color to play in modern professional basketball",
+      "date": "1947-11-13",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Chicago Cardinals beat the Philadelphia Eagles 28 to 21 at Comiskey Park",
+      "source": "https://en.wikipedia.org/wiki/1947_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Toronto Maple Leafs beat the Montreal Canadiens, four games to two",
+      "detail": "Ted Kennedy scored the winning goal late in game six.",
+      "source": "https://en.wikipedia.org/wiki/1947_in_sports"
+    },
+    "deaths.capone": {
+      "section": "deaths",
+      "label": "Al Capone",
+      "value": "Died January 25. Born 1899",
+      "detail": "American gangster.",
+      "date": "1947-01-25",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "deaths.gibson": {
+      "section": "deaths",
+      "label": "Josh Gibson",
+      "value": "Died January 20, aged 35",
+      "detail": "American baseball player, a famed slugger in the Negro leagues, three months before Robinson's first major league game.",
+      "date": "1947-01-20",
+      "source": "https://en.wikipedia.org/wiki/1947_in_sports"
+    },
+    "deaths.ford": {
+      "section": "deaths",
+      "label": "Henry Ford",
+      "value": "Died April 7. Born 1863",
+      "detail": "American industrialist and automobile manufacturer.",
+      "date": "1947-04-07",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "deaths.planck": {
+      "section": "deaths",
+      "label": "Max Planck",
+      "value": "Died October 4. Born 1858",
+      "detail": "German physicist and Nobel laureate.",
+      "date": "1947-10-04",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "deaths.lubitsch": {
+      "section": "deaths",
+      "label": "Ernst Lubitsch",
+      "value": "Died November 30. Born 1892",
+      "detail": "German film director.",
+      "date": "1947-11-30",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    },
+    "deaths.baldwin": {
+      "section": "deaths",
+      "label": "Stanley Baldwin",
+      "value": "Died December 14. Born 1867",
+      "detail": "British Conservative politician, three times prime minister of the United Kingdom.",
+      "date": "1947-12-14",
+      "source": "https://en.wikipedia.org/wiki/1947"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. figures_basis is rentals: the 1947_in_film table header reads \"Domestic rentals\". Month-only dates: culture.doomsday_clock, because the year page gives June with no day. radio.philco_tape carries no date because the radio page marks it date unknown. The Roswell report is dated July 7 by 1947_in_the_United_States and July 8 by 1947, and culture.flying_discs cites both readings. The year page asks for confirmation of the date it gives for Mirpur, and its figure of 400,000 deaths during the migration sits under a December 21 entry rather than attaching to a single dated event, so world.partition_violence says both things plainly. Texture claims not carried by a fact, all from the cached pages: the thirty minute offset between Pakistan Standard Time and Indian standard time and the two independence dates, Mountbatten holding the governor-generalship but no longer the viceroyalty, the Rayburn to Martin handover on January 3, the Presidential Succession Act of July 18, the Screen Actors Guild loyalty oath of November 17, the Twin Falls hoax of July 11, the Kon-Tiki raft striking the reef at Raroia after 101 days and 4,300 miles, the Maine forest fires of October and November, and the eight minute flight of the Hughes H-4 Hercules on November 2. No fact or texture sentence rests on general knowledge; every date, figure and name comes from a cached page listed above. Review pass moved two television milestones out of film.how_people_watched, which is about how films were seen: the first televised World Series games of October 6 sit in tech.television's detail, both from the US page, and Truman's first televised White House address of October 5 became pol.first_televised_address, which the year page carries and the US page does not. film.how_people_watched now carries the first Edinburgh International Film Festival from the film page instead. Dropped for lack of a clean source: the 19th Academy Awards ceremony, which the US page dates March 13 and the year page March 19 and which honoured the previous year of film in any case; and a ticket price, because the series begins after this year. The tornado outbreak of April 9 is dropped because the two pages disagree on the death toll, 184 against 181, and nothing else distinguishes them."
+}

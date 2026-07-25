@@ -1,0 +1,388 @@
+{
+  "year": 1950,
+  "tier": "broadcast",
+  "headline": "North Korea crossed the 38th parallel, McCarthy claimed 205 Communists, and Peanuts began in seven newspapers",
+  "texture": [
+    "North Korean troops and T-34 tanks crossed the 38th parallel on June 25 and took Seoul three days later. South Korean engineers blew the Hangang Bridge while it was crowded with refugees, North Korean troops killed around 800 staff and patients at Seoul National University Hospital, and South Korean forces and police began the Bodo League executions, at least 100,000 people suspected of sympathy with the north. The 24th Infantry Division lost Taejon in July, and the delay let the Pusan Perimeter be established.",
+    "Joseph McCarthy told a Republican women's club at the McClure Hotel in Wheeling on February 9 that the State Department was full of 205 Communists. Klaus Fuchs had walked into the War Office in London on January 24 and confessed to seven years of passing nuclear weapons research to the Soviet Union. Red Channels, a report on communist influence in radio and television, was published in June. Griselio Torresola and Oscar Collazo tried to kill Truman at the Blair-Lee House on November 1, where he was living while the White House was repaired.",
+    "Truth or Consequences moved from radio to CBS television on September 7, You Bet Your Life followed to NBC on October 4, and Your Hit Parade had crossed in July. Desi Arnaz and Lucille Ball founded Desilu Productions in May. The FCC approved the CBS color system in October, due to take effect on November 20, and RCA disputed the license and blocked it. Radio was still ordering new shows, and NBC put Tallulah Bankhead in front of The Big Show on November 5.",
+    "Sam Phillips opened Sun Records at 706 Union Avenue in Memphis on January 3. Eleven thieves took more than two million dollars from an armored car in Boston on January 17. Zenith marketed the first television remote control, called Lazy Bones. Gwendolyn Brooks won the Pulitzer for poetry on May 1, the first African American to win one. Polio went through Wythe County, Virginia, over the summer, 189 cases and 17 deaths. Johann Sebastian Bach was reburied in St. Thomas Church in Leipzig."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.korea_begins",
+    "pol.red_scare",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "detail": "Alben W. Barkley was Vice President, Fred M. Vinson was Chief Justice, and the 81st Congress sat.",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "pol.h_bomb": {
+      "section": "politics",
+      "label": "Truman orders the hydrogen bomb",
+      "value": "Ordered its development in response to the Soviet Union's first atomic test",
+      "detail": "NSC 68, issued on April 14 and approved on September 30, argued for building it, for military aid to allies and for rolling back communist expansion.",
+      "date": "1950-01-31",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "pol.red_scare": {
+      "section": "politics",
+      "label": "McCarthy at Wheeling",
+      "value": "Told the Republican Women's Club at the McClure Hotel that the State Department was filled with 205 Communists",
+      "detail": "Alger Hiss was convicted of perjury on January 21. Klaus Fuchs confessed to spying on January 24 and was convicted in London on March 1. A Senate subcommittee report made public on December 15 recommended against federal employment of homosexuals.",
+      "date": "1950-02-09",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "pol.blair_house": {
+      "section": "politics",
+      "label": "Attempt on Truman's life",
+      "value": "Griselio Torresola and Oscar Collazo tried to kill Truman at the Blair-Lee House, where he was staying during White House repairs",
+      "detail": "The Jayuya Uprising against US rule in Puerto Rico had begun on October 30.",
+      "date": "1950-11-01",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "pol.sweatt": {
+      "section": "politics",
+      "label": "Sweatt v. Painter",
+      "value": "The Supreme Court decided a challenge to the separate but equal doctrine in education",
+      "date": "1950-06-05",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "world.korea_begins": {
+      "section": "world",
+      "label": "The Korean War begins",
+      "value": "North Korean troops and T-34 tanks crossed the 38th parallel, and Seoul fell on June 28",
+      "detail": "Truman ordered American forces to the defence of South Korea on June 27. The South Korean army blew up the Hangang Bridge while it was crowded with refugees, and the Bodo League executions of at least 100,000 suspected sympathizers began.",
+      "date": "1950-06-25",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.inchon": {
+      "section": "world",
+      "label": "Battle of Inchon",
+      "value": "Allied troops under Douglas MacArthur landed at Inchon to begin a UN counteroffensive",
+      "date": "1950-09-15",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.china_enters": {
+      "section": "world",
+      "label": "China enters the war",
+      "value": "Thousands of Chinese soldiers crossed the Yalu River",
+      "detail": "A counterattack at the Ch'ongch'on River and the Chosin Reservoir followed on November 26, and MacArthur threatened to use nuclear weapons on November 30. On November 8 an American F-80 shot down two MiG-15s near the Yalu in the first jet-to-jet dogfight.",
+      "date": "1950-10-19",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "United Kingdom general election",
+      "value": "Labour under Clement Attlee stayed in office while the Conservatives under Winston Churchill gained seats",
+      "date": "1950-02-23",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.india_republic": {
+      "section": "world",
+      "label": "India becomes a republic",
+      "value": "Promulgated its constitution, and Rajendra Prasad was sworn in as its first president",
+      "detail": "The Kingdom of Mysore was merged into the new republic.",
+      "date": "1950-01-26",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.schuman": {
+      "section": "world",
+      "label": "Schuman Declaration",
+      "value": "Robert Schuman proposed a pan-European organisation, which he called indispensable to permanently peaceful relations between the nations of the continent",
+      "date": "1950-05-09",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.tibet": {
+      "section": "world",
+      "label": "China annexes Tibet",
+      "value": "The People's Liberation Army invaded across the Jinsha River, took the border town of Chamdo by October 19, and the Tibetan army surrendered",
+      "detail": "Tenzin Gyatso, aged 15, was enthroned as the 14th Dalai Lama and temporal ruler of Tibet on November 17.",
+      "date": "1950-10-07",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "world.group_areas": {
+      "section": "world",
+      "label": "Group Areas Act",
+      "value": "South Africa passed the act formally segregating the races",
+      "detail": "The Suppression of Communism Act, passed on June 26, came into force on July 17.",
+      "date": "1950-04-27",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Samson and Delilah, $9,000,000, Paramount",
+        "King Solomon's Mines, $5,047,000, MGM",
+        "Annie Get Your Gun, $4,708,000, MGM",
+        "Cheaper by the Dozen, $4,425,000, 20th Century Fox",
+        "Cinderella, $4,275,000, RKO and Walt Disney"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Cinderella was the studio's most successful film since Dumbo and cleared four million dollars of Disney debt.",
+      "source": "https://en.wikipedia.org/wiki/1950_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "All About Eve",
+      "detail": "Awarded the following spring at the 23rd Academy Awards. It arrived with a record fourteen nominations, past a previous record of thirteen, and won six.",
+      "source": "https://en.wikipedia.org/wiki/23rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jose Ferrer, Cyrano de Bergerac",
+        "Best Actress, Judy Holliday, Born Yesterday",
+        "Best Supporting Actor, George Sanders, All About Eve",
+        "Best Supporting Actress, Josephine Hull, Harvey"
+      ],
+      "detail": "All About Eve took four of the female acting nominations, two for Best Actress and two for Best Supporting Actress, and none of them won. Sunset Boulevard had a nomination in every acting category and won none either.",
+      "source": "https://en.wikipedia.org/wiki/23rd_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, city by city rather than everywhere at once. Samson and Delilah played New York for three weeks before it opened in Los Angeles on January 13.",
+      "source": "https://en.wikipedia.org/wiki/1950_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Outside Hollywood",
+      "value": [
+        "Rashomon, directed by Akira Kurosawa, Japan",
+        "Los Olvidados, directed by Luis Bunuel, Mexico",
+        "Orphee, directed by Jean Cocteau, France"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1950_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, the first Nielsen season",
+      "value": [
+        "Texaco Star Theater, NBC, 61.6 rating",
+        "Fireside Theatre, NBC, 52.6",
+        "Philco TV Playhouse, NBC, 45.3",
+        "Your Show of Shows, NBC, 42.6",
+        "The Colgate Comedy Hour, NBC, 42.0"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. The top six programs were all on NBC.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1950%E2%80%9351"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "What's My Line, CBS, February 2",
+        "Your Show of Shows, NBC, February 25",
+        "Truth or Consequences, CBS, September 7, from radio",
+        "The Colgate Comedy Hour, NBC, September 10",
+        "You Bet Your Life, NBC, October 4, from radio"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1950_in_American_television"
+    },
+    "tv.color": {
+      "section": "tv",
+      "label": "Color television approved",
+      "value": "The FCC approved the CBS color system, with approval due to take effect on November 20",
+      "detail": "RCA disputed the licence and blocked it from taking effect. The US year page dates the licence to October 11 rather than October 10.",
+      "date": "1950-10-10",
+      "source": "https://en.wikipedia.org/wiki/1950_in_American_television"
+    },
+    "tv.desilu": {
+      "section": "tv",
+      "label": "Desilu Productions founded",
+      "value": "Desi Arnaz and Lucille Ball set up their own television production company",
+      "date": "1950-05",
+      "source": "https://en.wikipedia.org/wiki/1950_in_American_television"
+    },
+    "radio.radio_free_europe": {
+      "section": "radio",
+      "label": "Radio Free Europe begins",
+      "value": "Broadcast 30 minutes of American programming to Czechoslovakia from a 7,500 watt short wave transmitter at Lampertheim in West Germany",
+      "detail": "Romania became the second communist country sent broadcasts from the station, on July 14.",
+      "date": "1950-07-04",
+      "source": "https://en.wikipedia.org/wiki/1950_in_radio"
+    },
+    "radio.red_channels": {
+      "section": "radio",
+      "label": "Red Channels",
+      "value": "Red Channels: The Report of Communist Influence in Radio and Television was published",
+      "date": "1950-06-22",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Records that reached number one",
+      "value": [
+        "Goodnight, Irene, Gordon Jenkins and The Weavers, 13 weeks",
+        "The Third Man Theme, Anton Karas, 11 weeks",
+        "The Tennessee Waltz, Patti Page, 9 weeks from December 30",
+        "Mona Lisa, Nat King Cole, 5 weeks",
+        "Music! Music! Music!, Teresa Brewer, 4 weeks"
+      ],
+      "detail": "From Billboard's charts, ordered by weeks at the top. Twelve records reached number one during the year, beginning with Gene Autry's Rudolph the Red-Nosed Reindeer in the first week of January. Patti Page became the first artist to hold a number one on the pop, rhythm and blues and country charts concurrently.",
+      "source": "https://en.wikipedia.org/wiki/1950_in_music"
+    },
+    "music.sun_records": {
+      "section": "music",
+      "label": "Sun Records launched",
+      "value": "Sam Phillips started the label at 706 Union Avenue in Memphis",
+      "date": "1950-01-03",
+      "source": "https://en.wikipedia.org/wiki/1950_in_music"
+    },
+    "music.bach": {
+      "section": "music",
+      "label": "Bach reburied",
+      "value": "Johann Sebastian Bach was reburied in St. Thomas Church, Leipzig",
+      "source": "https://en.wikipedia.org/wiki/1950_in_music"
+    },
+    "tech.diners_club": {
+      "section": "tech",
+      "label": "First charge card payment",
+      "value": "A payment was made with a Diners Club card in New York, the first use of a charge card",
+      "date": "1950-02-08",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "tech.remote_control": {
+      "section": "tech",
+      "label": "Television remote control",
+      "value": "Zenith Radio marketed the Lazy Bones, the first television remote control",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "tech.californium": {
+      "section": "tech",
+      "label": "Element 98",
+      "value": "Researchers at the University of California, Berkeley announced its creation and named it californium",
+      "date": "1950-03-17",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "tech.turing_test": {
+      "section": "tech",
+      "label": "Turing test proposed",
+      "value": "Alan Turing published Computing Machinery and Intelligence in the journal Mind, replacing the question of whether a machine can think with a test of whether it can be told apart from a person",
+      "detail": "The year page dates it to October and says nothing further, so the description comes from the paper's own page.",
+      "date": "1950-10",
+      "source": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.27 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A war in Asia five years after the last one finished, senators hunting communists in the State Department and in broadcasting studios, and a television set arriving on the street."
+    },
+    "culture.peanuts": {
+      "section": "culture",
+      "label": "Peanuts begins",
+      "value": "Charles M. Schulz's comic strip was first published in seven US newspapers",
+      "date": "1950-10-02",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "culture.brooks": {
+      "section": "culture",
+      "label": "Pulitzer Prize for Poetry",
+      "value": "Gwendolyn Brooks won it for Annie Allen, the first African American to win a Pulitzer",
+      "date": "1950-05-01",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "World Cup",
+      "value": "Uruguay beat Brazil 2 to 1 in the deciding match at the Maracana, remembered as the Maracanazo",
+      "detail": "The stadium had opened on June 16, eight days before the tournament began. The United States beat England 1 to 0 in the group stage on June 29.",
+      "date": "1950-07-16",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees swept the Philadelphia Phillies four games to none, their 13th title",
+      "date": "1950-10-07",
+      "source": "https://en.wikipedia.org/wiki/1950_in_the_United_States"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Cleveland Browns beat the Los Angeles Rams 30 to 28 at Cleveland Stadium",
+      "source": "https://en.wikipedia.org/wiki/1950_in_sports"
+    },
+    "sports.f1": {
+      "section": "sports",
+      "label": "Formula One World Championship",
+      "value": "The first championship race was run at Silverstone, and Giuseppe Farina took the title",
+      "detail": "Farina became the first champion on September 3.",
+      "date": "1950-05-13",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Detroit Red Wings beat the New York Rangers four games to three",
+      "source": "https://en.wikipedia.org/wiki/1950_in_sports"
+    },
+    "deaths.shaw": {
+      "section": "deaths",
+      "label": "George Bernard Shaw",
+      "value": "Died November 2. Born 1856",
+      "detail": "Irish writer and Nobel laureate in literature.",
+      "date": "1950-11-02",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "deaths.jolson": {
+      "section": "deaths",
+      "label": "Al Jolson",
+      "value": "Died October 23. Born 1886",
+      "detail": "American singer and actor, who starred in The Jazz Singer.",
+      "date": "1950-10-23",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "deaths.weill": {
+      "section": "deaths",
+      "label": "Kurt Weill",
+      "value": "Died April 3. Born 1900",
+      "detail": "German-born composer.",
+      "date": "1950-04-03",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "deaths.smuts": {
+      "section": "deaths",
+      "label": "Jan Smuts",
+      "value": "Died September 11. Born 1870",
+      "detail": "Second Prime Minister of South Africa.",
+      "date": "1950-09-11",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    },
+    "deaths.millay": {
+      "section": "deaths",
+      "label": "Edna St. Vincent Millay",
+      "value": "Died October 19. Born 1892",
+      "detail": "American poet.",
+      "date": "1950-10-19",
+      "source": "https://en.wikipedia.org/wiki/1950"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. The box office table header states domestic rentals, so figures_basis is rentals. Deaths carry a birth year rather than an age because the source gives only the year. The Nielsen ranking is a season that starts in the autumn of 1950 and runs into the spring of 1951, so the fact says the first Nielsen season instead of naming both years. Truman's hydrogen bomb order responded to the Soviet atomic test of 1949, which the fact cannot date because no other year token may appear in a fact string. Two cached sources disagree on colour television: the American television page dates the FCC approval of the CBS system to October 10 with effect from November 20 (https://en.wikipedia.org/wiki/1950_in_American_television), and the US year page dates the first colour licence to October 11 and records RCA blocking it (https://en.wikipedia.org/wiki/1950_in_the_United_States). Both are cited on the fact. Dropped for lack of a settled source: the pilot of The Archers, which the year page dates May 29 and the radio page June 7; the claim that one million American households owned a television set, which the television page carries with a citation needed tag. The Diners Club line on the year page is tagged as needing a better source and is kept anyway, flagged here, because it is the only cached statement of the first charge card payment. The year page gives the Turing test only as \"October - Turing test published\", so tech.turing_test cites https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence for the paper's title, journal and argument, and keeps the year page's month. Samson and Delilah tops the rentals table for this year although its world premiere came in the previous December, three weeks before its Los Angeles opening on January 13, which is the basis the film page uses. Nothing in the prose or the facts comes from general knowledge; the polio outbreak in Wythe County, the Brinks robbery figure and the Bach reburial are all on the cached pages."
+}

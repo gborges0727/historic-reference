@@ -1,0 +1,339 @@
+{
+  "year": 1946,
+  "tier": "early",
+  "headline": "Churchill spoke of an Iron Curtain in March, the Bikini Atoll tests began in July, and ten hanged at Nuremberg",
+  "texture": [
+    "Churchill went to Westminster College in Fulton, Missouri on March 5 and put the phrase Iron Curtain into general use. Operation Crossroads opened on July 1 with Able detonated 520 feet above Bikini Atoll, and the Baker device was fired underwater on July 25, sinking the surplus USS Saratoga. Hermann Goering poisoned himself in his cell on October 15, two hours before he was due to hang, and the ten other condemned men were hanged the next morning in a gymnasium at the Palace of Justice.",
+    "ENIAC was unveiled at the University of Pennsylvania on February 14, sixty thousand pounds of it, occupying a big room. Louis Slotin triggered a fission reaction at Los Alamos on May 21, saved the men working around him, and died of the dose nine days later. The first V-2 to fly successfully from American soil went up from White Sands on May 10. Tokyo Telecommunications Engineering was founded on May 7 with about twenty employees, and the first Tupperware reached department and hardware stores.",
+    "Al Jolson rerecorded his own old hits for the Columbia biopic of his life, which reached American cinemas on October 10, and he became a star to the postwar audience too. Olivia de Havilland took Best Actress for To Each His Own, and Eddy Howard's record of that name held the top of the chart for eight weeks. Harold Russell, a veteran who had lost both hands, was handed an honorary award because the academy assumed a non-actor could not win the competitive one, and then he won that too."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.iron_curtain",
+    "world.operation_crossroads",
+    "world.nuremberg_executions",
+    "world.philippines_independence",
+    "film.gross#0",
+    "film.best_picture",
+    "tech.eniac"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "source": "https://en.wikipedia.org/wiki/1946_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "Senate and House elections both returned Republican majorities",
+      "detail": "Held on November 5. The year-in-the-United-States page dates them November 6, which was a Wednesday, and the elections page gives the statutory Tuesday.",
+      "date": "1946-11-05",
+      "source": "https://en.wikipedia.org/wiki/1946_United_States_elections"
+    },
+    "pol.atomic_energy_act": {
+      "section": "politics",
+      "label": "Atomic Energy Act signed",
+      "value": "Truman signed the act establishing the United States Atomic Energy Commission",
+      "detail": "He signed the Fulbright Program of international educational exchange scholarships into being the same day.",
+      "date": "1946-08-01",
+      "source": "https://en.wikipedia.org/wiki/1946_in_the_United_States"
+    },
+    "pol.civil_rights_committee": {
+      "section": "politics",
+      "label": "President's Committee on Civil Rights",
+      "value": "Truman established it to investigate the status of civil rights and propose measures to protect them",
+      "date": "1946-12-05",
+      "source": "https://en.wikipedia.org/wiki/1946_in_the_United_States"
+    },
+    "pol.hostilities_end": {
+      "section": "politics",
+      "label": "Hostilities formally ended",
+      "value": "Proclamation 2714 officially ended hostilities in the Second World War",
+      "date": "1946-12-31",
+      "source": "https://en.wikipedia.org/wiki/1946_in_the_United_States"
+    },
+    "world.un_first_meeting": {
+      "section": "world",
+      "label": "United Nations first meeting",
+      "value": "The first meeting opened at Methodist Central Hall in Westminster, London",
+      "detail": "The Security Council held its first session on January 17 at Church House, Westminster. Trygve Lie of Norway was selected as the first Secretary-General on February 1. The General Assembly convened in Flushing, Queens on October 23.",
+      "date": "1946-01-10",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.iron_curtain": {
+      "section": "world",
+      "label": "Iron Curtain speech",
+      "value": "Churchill popularised the phrase in a speech at Westminster College in Fulton, Missouri",
+      "date": "1946-03-05",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.operation_crossroads": {
+      "section": "world",
+      "label": "Operation Crossroads",
+      "value": "The United States opened a nuclear test series at Bikini Atoll with Able, detonated at an altitude of 520 feet",
+      "detail": "The Baker device was fired underwater on July 25, the first such test, sinking the surplus USS Saratoga.",
+      "date": "1946-07-01",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.nuremberg_executions": {
+      "section": "world",
+      "label": "Nuremberg executions",
+      "value": "Ten condemned Nazi war criminals were hanged in a gymnasium at the Palace of Justice in Nuremberg",
+      "detail": "Hermann Goering, who founded the Gestapo, poisoned himself two hours before his scheduled execution on October 15.",
+      "date": "1946-10-16",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.tokyo_trials": {
+      "section": "world",
+      "label": "Tokyo war crimes trials open",
+      "value": "Proceedings began against defendants including Hideki Tojo",
+      "detail": "MacArthur had established the International Military Tribunal for the Far East on January 19.",
+      "date": "1946-04-29",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.philippines_independence": {
+      "section": "world",
+      "label": "Philippine independence",
+      "value": "The Philippines became the Third Republic under Manuel A. Roxas, after more than 48 years of American rule",
+      "date": "1946-07-04",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.italy_republic": {
+      "section": "world",
+      "label": "Italy becomes a republic",
+      "value": "A referendum on June 2 voted the monarchy out, the republic was declared on June 10, and Umberto II left for Portugal on June 13",
+      "detail": "Victor Emmanuel III had abdicated on May 9. Alcide De Gasperi took over as head of state on Umberto's departure.",
+      "date": "1946-06-02",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.king_david_hotel": {
+      "section": "world",
+      "label": "King David Hotel bombing",
+      "value": "The Irgun bombed the Jerusalem hotel housing the British headquarters",
+      "detail": "An earlier Irgun bomb had gone off in Jerusalem on July 21 during secretive talks between Jews and British officials.",
+      "date": "1946-07-22",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.calcutta_killings": {
+      "section": "world",
+      "label": "Direct Action Day in Calcutta",
+      "value": "Violence between Muslims and Hindus began what was called the Week of the Long Knives",
+      "detail": "Street violence followed in Bombay on September 4, in Noakhali from October 10, and in Bihar from October 24.",
+      "date": "1946-08-16",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "world.women_vote": {
+      "section": "world",
+      "label": "New votes for women",
+      "value": "Japanese women voted for the first time on April 10, and female suffrage was enacted in Romania, Yugoslavia, Argentina and the Canadian province of Quebec",
+      "detail": "The Japanese vote was for the House of Representatives. The first female police officers were hired in Korea and Japan.",
+      "date": "1946-04-10",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Duel in the Sun, $10,000,000, Selznick International",
+        "The Best Years of Our Lives, $7,675,000, RKO",
+        "The Jolson Story, $7,600,000, Columbia",
+        "Blue Skies, $5,700,000, Paramount",
+        "Saratoga Trunk, $5,148,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Best Years of Our Lives",
+      "detail": "It won seven of its eight nominations, including Best Director for William Wyler and Best Actor for Fredric March. It took the Golden Globe for best film as well.",
+      "source": "https://en.wikipedia.org/wiki/19th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting awards",
+      "value": "Olivia de Havilland won Best Actress for To Each His Own, Harold Russell won Best Supporting Actor, and Anne Baxter won Best Supporting Actress for The Razor's Edge",
+      "detail": "Russell was a veteran who had lost both hands. The academy gave him an honorary award for the same role, assuming a non-actor could not win the competitive one, which makes him the only person to hold two Oscars for one performance.",
+      "source": "https://en.wikipedia.org/wiki/19th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films outside Hollywood",
+      "value": [
+        "Beauty and the Beast (La Belle et la Bete), Jean Cocteau",
+        "Paisan, Roberto Rossellini, Italy",
+        "Shoeshine (Sciuscia), Vittorio De Sica",
+        "Great Expectations, David Lean",
+        "A Matter of Life and Death, Powell and Pressburger"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1946_in_film"
+    },
+    "film.wonderful_life": {
+      "section": "film",
+      "label": "It's a Wonderful Life opens",
+      "value": "Frank Capra's film, with James Stewart, Donna Reed and Lionel Barrymore, opened in New York",
+      "detail": "Capra took the Golden Globe for best director for it. Gilda had opened on February 14 with Rita Hayworth singing Put the Blame on Mame.",
+      "date": "1946-12-20",
+      "source": "https://en.wikipedia.org/wiki/1946_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Films censored under the occupation of Japan were being destroyed, with the Allies burning prints from April 22.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_film"
+    },
+    "radio.bbc_third_programme": {
+      "section": "radio",
+      "label": "BBC Third Programme launched",
+      "value": "The BBC opened a cultural channel in the United Kingdom on September 29, and closed the General Forces Programme on December 31",
+      "detail": "In Berlin, RIAS began mediumwave transmissions on September 5 under the US occupation authorities, having run since February 7 as the wire service DIAS. The Bush DAC90 bakelite receiver went on sale in Britain and became the best-selling model.",
+      "date": "1946-09-29",
+      "source": "https://en.wikipedia.org/wiki/1946_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "To Each His Own, Eddy Howard and His Orchestra",
+        "The Gypsy, The Ink Spots",
+        "Rumors Are Flying, Frankie Carle and his Orchestra"
+      ],
+      "detail": "Year-end ranking built from Billboard's three charts, best-selling retail, most played on the air, and most played on juke boxes. The Ink Spots record held number one for thirteen weeks and the Eddy Howard for eight. Both sold a million.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_music"
+    },
+    "music.race_records": {
+      "section": "music",
+      "label": "Top race record",
+      "value": "Choo Choo Ch'Boogie, Louis Jordan and His Tympany Five, on Decca",
+      "detail": "Billboard published the Most-Played Race Records list separately. Jordan's record spent 18 weeks at number one on it and sold a million, while reaching only number 7 on the pop chart. Jordan also held third and sixth place on the same list.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On 78 rpm singles bought at retail, on juke boxes, and on the radio. Billboard counted each of the three separately.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_music"
+    },
+    "tech.eniac": {
+      "section": "tech",
+      "label": "ENIAC unveiled",
+      "value": "An early general-purpose electronic computer was shown at the University of Pennsylvania, weighing 60,000 pounds and occupying a big room",
+      "date": "1946-02-14",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "tech.bell_47": {
+      "section": "tech",
+      "label": "First civilian helicopter",
+      "value": "The Bell 47 became the first helicopter certified for civilian use in the United States",
+      "detail": "The Bell XS-1 had been test flown unpowered on January 19 by Bell's chief test pilot Jack Woolams, who died in a crash on August 30.",
+      "date": "1946-03-08",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "tech.tupperware": {
+      "section": "tech",
+      "label": "Tupperware on sale",
+      "value": "The first Tupperware was sold in department and hardware stores in the United States",
+      "source": "https://en.wikipedia.org/wiki/1946_in_the_United_States"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.40 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Peace on paper and a shortage of everything, with the men home, the trials finishing, and a new weapon being tested in front of cameras in the Pacific."
+    },
+    "culture.bikini": {
+      "section": "culture",
+      "label": "The bikini modelled",
+      "value": "The two-piece swimsuit was first modelled in Paris",
+      "date": "1946-07-05",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "culture.baby_book": {
+      "section": "culture",
+      "label": "Spock's baby book published",
+      "value": "Benjamin Spock's The Common Sense Book of Baby and Child Care went on sale",
+      "date": "1946-07-14",
+      "source": "https://en.wikipedia.org/wiki/1946_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Boston Red Sox, four games to three",
+      "detail": "The Newark Eagles beat the Kansas City Monarchs by the same margin in the Negro World Series.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_sports"
+    },
+    "sports.robinson_montreal": {
+      "section": "sports",
+      "label": "Jackie Robinson in organised baseball",
+      "value": "Robinson played for the Montreal Royals, the Brooklyn Dodgers AAA affiliate, the first African-American to play in organised baseball in the century",
+      "detail": "Vincent McIntyre of Fredericton, New Brunswick became the first Black Canadian to sign a professional contract, with the Sherbrooke Canadians.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_sports"
+    },
+    "sports.baa_founded": {
+      "section": "sports",
+      "label": "Basketball Association of America formed",
+      "value": "The league that became the NBA was founded in New York City on June 6, aiming at large arenas in big cities",
+      "detail": "Its first game was played on November 1, the New York Knicks beating the Toronto Huskies 68 to 66 at Maple Leaf Gardens. The Rochester Royals took the older NBL title.",
+      "date": "1946-06-06",
+      "source": "https://en.wikipedia.org/wiki/1946_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Montreal Canadiens beat the Boston Bruins, four games to one",
+      "detail": "The Chicago Bears took the NFL Championship 24 to 14 over the New York Giants at the Polo Grounds.",
+      "source": "https://en.wikipedia.org/wiki/1946_in_sports"
+    },
+    "deaths.keynes": {
+      "section": "deaths",
+      "label": "John Maynard Keynes",
+      "value": "Died April 21. Born 1883",
+      "detail": "British economist.",
+      "date": "1946-04-21",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "deaths.stein": {
+      "section": "deaths",
+      "label": "Gertrude Stein",
+      "value": "Died July 27. Born 1874",
+      "detail": "American writer.",
+      "date": "1946-07-27",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "deaths.wells": {
+      "section": "deaths",
+      "label": "H. G. Wells",
+      "value": "Died August 13. Born 1866",
+      "detail": "British science fiction writer and historian, author of The Time Machine.",
+      "date": "1946-08-13",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "deaths.goering": {
+      "section": "deaths",
+      "label": "Hermann Goering",
+      "value": "Died October 15 by suicide. Born 1893",
+      "detail": "German Nazi Reichsmarschall, convicted at Nuremberg.",
+      "date": "1946-10-15",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    },
+    "deaths.fields": {
+      "section": "deaths",
+      "label": "W. C. Fields",
+      "value": "Died December 25. Born 1880",
+      "detail": "American actor and comedian.",
+      "date": "1946-12-25",
+      "source": "https://en.wikipedia.org/wiki/1946"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. figures_basis is rentals: the 1946_in_film table header reads \"Domestic rentals\". Only that one table was available, so the Duel in the Sun figure is reported as the source gives it and was not cross-checked against a second source. Dropped for lack of a clean source: the Central Intelligence Group, because the year page dates it January 22 and the US page January 29 and both explain it by reference to a later year; the nationwide rail and mine strikes, which appear only as an external newsreel link on the US page with no article text; and the Nuremberg verdicts themselves, which the year page does not date. The year page describes both the January 10 London meeting and the October 23 Flushing session as the United Nations meeting for the first time, so the January date is used for the fact and the October one sits in the detail. Diacritics are dropped to keep the corpus ASCII, as in neighbouring years, so the source's Goering, La Belle et la Bete and Sciuscia are spelled without them. The 78 rpm format in music.listening_format comes from the music page's own discography citations for the Majestic, Decca, Columbia and RCA Victor releases it ranks. The midterm date is corrected against a second source: the year-in-the-United-States page says November 6, a Wednesday, and https://en.wikipedia.org/wiki/1946_United_States_elections gives November 5, the statutory Tuesday after the first Monday, so the fact carries the elections page and names the disagreement. General knowledge rather than claims from the year pages: that the NBL predated the BAA, and the mood line. Tupperware and the female suffrage entries carry no date because the sources list them as undated."
+}

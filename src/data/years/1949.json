@@ -1,0 +1,341 @@
+{
+  "year": 1949,
+  "tier": "early",
+  "headline": "The Berlin blockade was lifted in May, the Soviets tested an atomic bomb, and Mao proclaimed a republic in October",
+  "texture": [
+    "The Soviet Union lifted the Berlin blockade on May 12, and the Federal Republic of Germany was established on May 23. The first Bundestag convened in Bonn on September 7, and the German Democratic Republic was established on October 7. RDS-1 was tested on August 29, its design imitating the American plutonium bomb, and Truman told the public about it on September 23. The North Atlantic Treaty had been signed in Washington on April 4.",
+    "Chinese Communist forces entered Beijing on January 31, took Nanjing on April 23 and took Guangzhou on October 17, and Mao Zedong proclaimed the People's Republic on October 1. The retreat of the Republic of China government to Taiwan finished on December 7, with Taipei declared the temporary capital. Ireland left the British Commonwealth on April 18. Britain cut the pound from $4.03 to $2.80 on September 19, and other currencies were devalued after it.",
+    "Arthur Miller's Death of a Salesman opened at the Morosco on February 10 with Lee J. Cobb as Willy Loman and ran 742 performances. South Pacific followed on April 7 with Mary Martin and Ezio Pinza, and Perry Como's record of Some Enchanted Evening, out of that score, held the top of the chart for five weeks. Orwell's Nineteen Eighty-Four came out in London on June 8. EDSAC ran its first program at Cambridge on May 6, and Albert II, a rhesus monkey, was killed on impact returning from space."
+  ],
+  "lead": [
+    "world.berlin_blockade",
+    "world.nato",
+    "world.soviet_bomb",
+    "world.prc",
+    "pol.vice_presidency",
+    "film.gross#0",
+    "music.chart_toppers#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "pol.vice_presidency": {
+      "section": "politics",
+      "label": "The vice presidency is filled",
+      "value": "Alben W. Barkley of Kentucky was sworn in, after the office had stood vacant",
+      "detail": "Truman had finished Roosevelt's fourth term before winning one of his own, which is why there had been no vice president to vacate.",
+      "date": "1949-01-20",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "pol.fair_deal": {
+      "section": "politics",
+      "label": "Fair Deal announced",
+      "value": "Truman unveiled the domestic program he called the Fair Deal",
+      "date": "1949-01-05",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "pol.red_scare": {
+      "section": "politics",
+      "label": "Celebrities named in an FBI report",
+      "value": "Helen Keller, Dorothy Parker, Danny Kaye, Fredric March, John Garfield, Paul Muni and Edward G. Robinson were named as Communist Party members",
+      "date": "1949-06-08",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "pol.housing_act": {
+      "section": "politics",
+      "label": "Housing Act",
+      "value": "The Housing Act of 1949 was enacted",
+      "date": "1949-09-15",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "world.nato": {
+      "section": "world",
+      "label": "North Atlantic Treaty signed",
+      "value": "Signed in Washington, D.C., creating the NATO defense alliance",
+      "detail": "The North Atlantic Treaty Organization itself was established on August 24.",
+      "date": "1949-04-04",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.berlin_blockade": {
+      "section": "world",
+      "label": "Berlin Blockade lifted",
+      "value": "The Soviet Union ended the blockade of the city",
+      "date": "1949-05-12",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.germany_divided": {
+      "section": "world",
+      "label": "Two German states",
+      "value": "The Federal Republic of Germany was established on May 23 and the German Democratic Republic on October 7",
+      "detail": "The first Bundestag convened in Bonn on September 7 and elected Konrad Adenauer chancellor, and the Federal Convention elected Theodor Heuss president on September 12.",
+      "date": "1949-05-23",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.soviet_bomb": {
+      "section": "world",
+      "label": "Soviet atomic test",
+      "value": "The Soviet Union tested its first atomic bomb, RDS-1, also called Joe 1",
+      "detail": "Its design imitated the American plutonium bomb. Truman announced the test publicly on September 23.",
+      "date": "1949-08-29",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.prc": {
+      "section": "world",
+      "label": "People's Republic of China proclaimed",
+      "value": "Mao Zedong proclaimed the republic, ending the Chinese Civil War",
+      "detail": "Communist forces had entered Beijing on January 31, taken Nanjing on April 23 and taken Guangzhou on October 17. The Soviet Union recognised the new state on October 2.",
+      "date": "1949-10-01",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.roc_taiwan": {
+      "section": "world",
+      "label": "Republic of China retreats to Taiwan",
+      "value": "The retreat of the government finished, and Taipei was declared its temporary capital",
+      "date": "1949-12-07",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.ireland": {
+      "section": "world",
+      "label": "Ireland becomes a republic",
+      "value": "The Republic of Ireland formally became a republic and left the British Commonwealth",
+      "date": "1949-04-18",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.pound_devalued": {
+      "section": "world",
+      "label": "Pound sterling devalued",
+      "value": "The United Kingdom cut the pound from $4.03 to $2.80, and many other currencies were devalued after it",
+      "date": "1949-09-19",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "world.apartheid": {
+      "section": "world",
+      "label": "South African Citizenship Act",
+      "value": "Citizenship for Commonwealth immigrants was suspended after five years, and mixed marriages were banned",
+      "date": "1949-06-29",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Jolson Sings Again, $5,000,000, Columbia",
+        "Battleground, $4,722,000, MGM",
+        "I Was a Male War Bride, $4,100,000, 20th Century Fox",
+        "Sands of Iwo Jima, $4,000,000, Republic",
+        "The Stratton Story, $3,831,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1949_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "All the King's Men",
+      "detail": "Robert Rossen made it for Columbia. Broderick Crawford took Best Actor and Mercedes McCambridge Best Supporting Actress, and the film lost Best Director.",
+      "source": "https://en.wikipedia.org/wiki/22nd_Academy_Awards"
+    },
+    "film.other_awards": {
+      "section": "film",
+      "label": "Honorary award for a foreign film",
+      "value": "Bicycle Thieves, voted by the Academy Board of Governors the most outstanding foreign language film released in the United States",
+      "source": "https://en.wikipedia.org/wiki/22nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Ealing comedies",
+      "value": "Passport to Pimlico, Whisky Galore! and Kind Hearts and Coronets were released in the UK between April 26 and June 21",
+      "source": "https://en.wikipedia.org/wiki/1949_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Paramount was split on November 15 into a production and distribution company and United Paramount Theaters, following the Supreme Court decision in United States v. Paramount Pictures.",
+      "source": "https://en.wikipedia.org/wiki/1949_in_film"
+    },
+    "radio.dragnet": {
+      "section": "radio",
+      "label": "Dragnet premieres",
+      "value": "Premiered on NBC",
+      "date": "1949-06-03",
+      "source": "https://en.wikipedia.org/wiki/1949_in_radio"
+    },
+    "radio.jack_benny": {
+      "section": "radio",
+      "label": "Jack Benny switches networks",
+      "value": "The Jack Benny Program appeared on CBS after 16 years on NBC, one of the most visible results of the CBS talent raids",
+      "date": "1949-01-02",
+      "source": "https://en.wikipedia.org/wiki/1949_in_radio"
+    },
+    "radio.kpfa": {
+      "section": "radio",
+      "label": "First listener-sponsored station",
+      "value": "KPFA in Berkeley began broadcasting on FM, the first listener-sponsored radio station in the United States",
+      "date": "1949-04-15",
+      "source": "https://en.wikipedia.org/wiki/1949_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Riders in the Sky (A Cowboy Legend), Vaughn Monroe and His Orchestra",
+        "That Lucky Old Sun, Frankie Laine",
+        "I Can Dream, Can't I?, The Andrews Sisters with Gordon Jenkins",
+        "A Little Bird Told Me, Evelyn Knight",
+        "Some Enchanted Evening, Perry Como"
+      ],
+      "detail": "Ranked by a points system over Billboard's three charts of the time, retail sales, disc jockey plays and juke box plays.",
+      "source": "https://en.wikipedia.org/wiki/1949_in_music"
+    },
+    "music.format": {
+      "section": "music",
+      "label": "Format",
+      "value": "45 rpm discs were introduced",
+      "source": "https://en.wikipedia.org/wiki/1949_in_music"
+    },
+    "music.birdland": {
+      "section": "music",
+      "label": "Birdland opens",
+      "value": "The jazz club opened in New York City",
+      "date": "1949-12-15",
+      "source": "https://en.wikipedia.org/wiki/1949_in_music"
+    },
+    "tech.edsac": {
+      "section": "tech",
+      "label": "EDSAC runs its first program",
+      "value": "Ran at Cambridge University, described as the first practicable stored-program computer",
+      "date": "1949-05-06",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "tech.albert_ii": {
+      "section": "tech",
+      "label": "First primate in space",
+      "value": "Albert II, a rhesus monkey, flew aboard a V-2 rocket named Blossom IVB and was killed on impact at return",
+      "date": "1949-06-14",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "tech.comet": {
+      "section": "tech",
+      "label": "First jet airliner flies",
+      "value": "The de Havilland Comet made its first flight, in England",
+      "date": "1949-07-27",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "culture.death_of_a_salesman": {
+      "section": "culture",
+      "label": "Death of a Salesman opens",
+      "value": "Arthur Miller's play opened at the Morosco Theatre on Broadway with Lee J. Cobb as Willy Loman, and ran for 742 performances",
+      "date": "1949-02-10",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "culture.south_pacific": {
+      "section": "culture",
+      "label": "South Pacific opens",
+      "value": "The Rodgers and Hammerstein musical opened on Broadway starring Mary Martin and Ezio Pinza",
+      "detail": "The score's biggest hit was Some Enchanted Evening.",
+      "date": "1949-04-07",
+      "source": "https://en.wikipedia.org/wiki/1949_in_the_United_States"
+    },
+    "culture.nineteen_eighty_four": {
+      "section": "culture",
+      "label": "Nineteen Eighty-Four published",
+      "value": "George Orwell's dystopian novel was published in London",
+      "date": "1949-06-08",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two German states where there had been one, a second country with the bomb, and the Broadway hit of the season about a salesman who fails."
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.27 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.40 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Brooklyn Dodgers four games to one",
+      "source": "https://en.wikipedia.org/wiki/1949_in_sports"
+    },
+    "sports.nba_formed": {
+      "section": "sports",
+      "label": "NBA takes its name",
+      "value": "The National Basketball League merged into the Basketball Association of America, which renamed itself the National Basketball Association",
+      "detail": "The Minneapolis Lakers had beaten the Washington Capitols in the BAA finals.",
+      "date": "1949-08-03",
+      "source": "https://en.wikipedia.org/wiki/1949_in_sports"
+    },
+    "sports.superga": {
+      "section": "sports",
+      "label": "Superga air disaster",
+      "value": "A plane carrying the Torino team crashed into a mountain, killing everyone aboard",
+      "detail": "One player survived because injury had kept him off the flight, as did Ladislao Kubala, a potential signing who did not fly because his son was ill.",
+      "date": "1949-05-04",
+      "source": "https://en.wikipedia.org/wiki/1949_in_sports"
+    },
+    "sports.giants_sign": {
+      "section": "sports",
+      "label": "New York Giants sign their first black players",
+      "value": "Negro league outfielder Monte Irvin and pitcher Ford Smith, both assigned to Jersey City",
+      "date": "1949-01-28",
+      "source": "https://en.wikipedia.org/wiki/1949_in_sports"
+    },
+    "deaths.strauss": {
+      "section": "deaths",
+      "label": "Richard Strauss",
+      "value": "Died September 8. Born 1864",
+      "detail": "German composer.",
+      "date": "1949-09-08",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "deaths.mitchell": {
+      "section": "deaths",
+      "label": "Margaret Mitchell",
+      "value": "Died August 16. Born 1900",
+      "detail": "American writer, author of Gone With the Wind.",
+      "date": "1949-08-16",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "deaths.lead_belly": {
+      "section": "deaths",
+      "label": "Lead Belly",
+      "value": "Died December 6. Born 1888",
+      "detail": "African-American blues musician.",
+      "date": "1949-12-06",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "deaths.maeterlinck": {
+      "section": "deaths",
+      "label": "Maurice Maeterlinck",
+      "value": "Died May 6. Born 1862",
+      "detail": "Belgian writer, Nobel Prize in Literature laureate.",
+      "date": "1949-05-06",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    },
+    "deaths.fleming": {
+      "section": "deaths",
+      "label": "Victor Fleming",
+      "value": "Died January 6. Born 1889",
+      "detail": "American film director.",
+      "date": "1949-01-06",
+      "source": "https://en.wikipedia.org/wiki/1949"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. The box office table header reads Domestic rentals, so figures_basis is rentals. The best-selling records list is the music page's own points-based reconstruction over Billboard's three contemporary charts rather than a published year-end chart, and the detail says so. Perry Como's Some Enchanted Evening holding number one for five weeks, cited in texture, comes from the same page's table of US number one singles, which agrees with the ranked table. The two tables on that page disagree about the top record's run at number one, giving eleven weeks and twelve weeks, so no weeks figure is claimed for it. Truman having finished Roosevelt's fourth term before winning his own is general knowledge rather than a claim from the year pages, and comes out if challenged. Dropped for lack of a source in the cached pages: the number of nations that signed the North Atlantic Treaty, the test site of RDS-1, and Al Jolson recording the soundtrack to the year's top-grossing film, which the music page states but the film page does not. The first Emmy Awards on January 25 were left out because the television window does not open in this year."
+}
