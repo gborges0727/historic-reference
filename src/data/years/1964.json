@@ -1,0 +1,489 @@
+{
+  "year": 1964,
+  "tier": "broadcast",
+  "headline": "Johnson signed the Civil Rights Act, the Beatles held the top five on the Hot 100, and China tested an atomic bomb",
+  "texture": [
+    "Eighty-two Australian sailors died on February 10 when the carrier Melbourne and the destroyer Voyager collided off New South Wales. Walter Seifert attacked an elementary school in Cologne with a flamethrower on June 11, killing ten and injuring twenty-one. Pacific Air Lines Flight 773 went down near San Ramon on May 7 with all 44 aboard, and the FBI later reported that the cockpit tape showed a suicidal passenger had shot the pilot and co-pilot. A cyclone in the Palk Strait destroyed the Indian town of Dhanushkodi on December 22 and killed 1,800 people.",
+    "Twelve men drew sentences totalling 307 years at the Assize Court in Buckingham on April 16 for holding up the Glasgow to London night train and taking 2,600,000 pounds in used notes. Gwynne Owen Evans and Peter Anthony Allen were hanged at Walton Prison in Liverpool on August 13, the last judicial hanging in the United Kingdom, and Eric Edgar Cooke was the last man executed in Western Australia on October 26. Thieves took the head off the Little Mermaid statue in Copenhagen on April 25, and the Danish media blamed the painter Henrik Bruun, who never confessed.",
+    "The San Francisco Giants signed Willie Mays to $105,000 a season on January 15, the highest pay in baseball, and the Whisky a Go Go opened on the Sunset Strip that same day with Johnny Rivers leading the house band. Plans for the World Trade Center were announced three days later. Congress recognised bourbon whiskey as a distinctive product of the United States on May 4. Three high school friends opened the first Blimpie on Washington Street in Hoboken on April 4, and the first Arby's opened in Boardman, Ohio on July 23.",
+    "The Warren Commission published its report on the assassination of John F. Kennedy on September 27. A Dallas jury had found Jack Ruby guilty of killing Lee Harvey Oswald on March 14. General Nguyen Khanh led a bloodless coup on January 30 that replaced Duong Van Minh as Prime Minister of South Vietnam, and displaced him again on August 16 as chief of state under a constitution drafted partly by the US Embassy. The Lockheed SR-71 Blackbird first flew at Palmdale on December 22, a day after the General Dynamics F-111 first flew at Carswell Air Force Base in Texas."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.civil_rights_act",
+    "world.china_bomb",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Lyndon B. Johnson (D)",
+      "detail": "The vice presidency stood vacant all year. Earl Warren was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 88th Congress was in session.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Johnson beat the Republican challenger Barry Goldwater with over 60 percent of the popular vote",
+      "detail": "The Democratic National Convention at Atlantic City nominated Johnson for a full term between August 24 and 27, with Senator Hubert Humphrey of Minnesota as his running mate. Goldwater had told the Republican convention in San Francisco on July 16 that extremism in the defense of liberty is no vice and moderation in the pursuit of justice is no virtue.",
+      "date": "1964-11-03",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.civil_rights_act": {
+      "section": "politics",
+      "label": "Civil Rights Act of 1964",
+      "value": "Johnson signed it into law, abolishing racial segregation in the United States",
+      "detail": "The Senate had voted cloture on the bill on June 10, after a filibuster of 75 days. In Heart of Atlanta Motel v. United States on December 14 the Supreme Court ruled that establishments providing public accommodation must refrain from racial discrimination under the Act.",
+      "date": "1964-07-02",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.poll_tax": {
+      "section": "politics",
+      "label": "Twenty-fourth Amendment ratified",
+      "value": "Poll taxes were prohibited in national elections, thirteen years after the amendment was proposed and nearly two years after the Senate passed it",
+      "detail": "The US year page carries the ratification on January 23 and then says on February 4 that the government authorizes the amendment, without reconciling the two entries.",
+      "date": "1964-01-23",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.great_society": {
+      "section": "politics",
+      "label": "Great Society",
+      "value": "Johnson set out the idea in a speech at the University of Michigan",
+      "detail": "He had declared a War on Poverty in his first State of the Union address on January 8, and pledged the creation of the Great Society while campaigning at Madison Square Garden on October 31.",
+      "date": "1964-05-22",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.gulf_of_tonkin": {
+      "section": "politics",
+      "label": "Gulf of Tonkin Resolution",
+      "value": "Congress gave Johnson broad war powers to deal with North Vietnamese attacks on US forces",
+      "detail": "The destroyers Maddox and C. Turner Joy had been attacked in the Gulf of Tonkin between August 2 and 4. Aircraft from the carriers Ticonderoga and Constellation bombed North Vietnam on August 5 under Operation Pierce Arrow. The United States had sent 5,000 more military advisers to South Vietnam on July 27, bringing the total number of American forces there to 21,000.",
+      "date": "1964-08-07",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.freedom_summer": {
+      "section": "politics",
+      "label": "Freedom Summer",
+      "value": "A volunteer project to register as many African American voters as possible in Mississippi began with orientation sessions for its 300 volunteers at the Western College for Women in Oxford, Ohio",
+      "detail": "Michael Schwerner, Andrew Goodman and James Chaney, three Congress of Racial Equality workers, were abducted and murdered near Philadelphia, Mississippi on June 21 by local members of the White Knights of the Ku Klux Klan, with local law enforcement officials involved in the conspiracy. Their bodies were found on August 4. Fannie Lou Hamer of the Mississippi Freedom Democratic Party challenged the all-white Mississippi delegation before the Democratic convention's Credentials Committee on August 22.",
+      "date": "1964-06-14",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "pol.warren_report": {
+      "section": "politics",
+      "label": "Warren Commission report published",
+      "value": "The first official investigation of the assassination of John F. Kennedy",
+      "date": "1964-09-27",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "world.china_bomb": {
+      "section": "world",
+      "label": "China's first nuclear test",
+      "value": "A uranium-235 implosion device with a yield of 22 kilotons was detonated on a 102-metre tower at the Lop Nur test site in Xinjiang",
+      "detail": "Project 596, fired at 15:00 China Standard Time. Zhou Enlai announced it that evening at the Great Hall of the People, telling an audience of 3,000 that the first atomic bomb had been tested successfully at three o'clock that afternoon. The 1964 year page dates the test to October 17 and names only Sinkiang, against the 16 October given by the article on the test itself, which is what this fact cites.",
+      "date": "1964-10-16",
+      "source": "https://en.wikipedia.org/wiki/Project_596"
+    },
+    "world.khrushchev_deposed": {
+      "section": "world",
+      "label": "Khrushchev deposed",
+      "value": "Removed as leader of the Soviet Union over October 14 and 15, with Leonid Brezhnev and Alexei Kosygin taking power",
+      "detail": "Johnson in New York and Khrushchev in Moscow had simultaneously announced plans on April 20 to cut back production of materials for making nuclear weapons.",
+      "date": "1964-10-14",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "world.mandela": {
+      "section": "world",
+      "label": "Nelson Mandela sentenced to life imprisonment",
+      "value": "Mandela and seven others were sentenced and sent to the Robben Island prison",
+      "detail": "He had made his I Am Prepared to Die speech at the opening of the Rivonia Trial on April 20.",
+      "date": "1964-06-12",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "United Kingdom general election",
+      "value": "Labour won a narrow victory over Alec Douglas-Home's Conservative Party, which had been in power for 13 years, and Harold Wilson became prime minister",
+      "date": "1964-10-15",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that changed status",
+      "value": [
+        "Tanganyika and Zanzibar merged to form Tanzania, April 26",
+        "Malawi received its independence from the United Kingdom, July 6",
+        "Malta obtained independence from the United Kingdom, September 21",
+        "Northern Rhodesia became the independent Republic of Zambia, October 24",
+        "Kenya became a republic with Jomo Kenyatta as its first president, December 12"
+      ],
+      "detail": "Zambia's independence ended 73 years of British rule. The Federation of Rhodesia and Nyasaland had been dissolved on January 1, and Kenneth Kaunda was inaugurated as the first Prime Minister of Northern Rhodesia on January 22.",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "world.alaska_earthquake": {
+      "section": "world",
+      "label": "Great Alaskan earthquake",
+      "value": "A magnitude 9.2 earthquake struck Southcentral Alaska on Good Friday, killing 125 people and inflicting massive damage on Anchorage",
+      "detail": "The most powerful earthquake recorded in North American history and the second most powerful known anywhere.",
+      "date": "1964-03-27",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Mary Poppins, $31,000,000, Buena Vista",
+        "My Fair Lady, $30,000,000, Warner Bros.",
+        "Goldfinger, $22,500,000, United Artists",
+        "The Carpetbaggers, $15,500,000, Paramount",
+        "From Russia With Love, $9,200,000, United Artists"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The sentence above the table on the film page calls these figures box office gross in North America while the column header reads Domestic rentals, and the file follows the header. Two of the ten entries are older films still earning, From Russia With Love at five and The Pink Panther at nine, and the A Hard Day's Night figure at ten of $5,800,000 is sourced to a count taken in October rather than to a full year.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "My Fair Lady",
+      "detail": "Awarded the following spring at the 37th Academy Awards, where it took eight awards from twelve nominations, including Best Director for George Cukor. Mary Poppins led on nominations with thirteen and won five. Audrey Hepburn was not nominated for playing Eliza Doolittle.",
+      "source": "https://en.wikipedia.org/wiki/37th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Rex Harrison, My Fair Lady",
+        "Best Actress, Julie Andrews, Mary Poppins",
+        "Best Supporting Actor, Peter Ustinov, Topkapi",
+        "Best Supporting Actress, Lila Kedrova, Zorba the Greek"
+      ],
+      "detail": "Peter Sellers was nominated for playing three parts in Dr. Strangelove, Anthony Quinn for Zorba the Greek, and Richard Burton and Peter O'Toole both for Becket. Becket matched My Fair Lady on twelve nominations and won one award, adapted screenplay for Edward Anhalt. Zorba the Greek took three awards from seven nominations.",
+      "source": "https://en.wikipedia.org/wiki/37th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The Umbrellas of Cherbourg, directed by Jacques Demy, France",
+        "Red Desert, directed by Michelangelo Antonioni, Italy",
+        "The Gospel According to St. Matthew, directed by Pier Paolo Pasolini, Italy",
+        "Woman in the Dunes, directed by Hiroshi Teshigahara, Japan",
+        "A Fistful of Dollars, directed by Sergio Leone, Italy",
+        "Gertrud, directed by Carl Theodor Dreyer, Denmark"
+      ],
+      "detail": "The Umbrellas of Cherbourg took the Palme d'Or at Cannes and Red Desert the Golden Lion at Venice. The Golden Bear at Berlin went to Dry Summer, directed by Ismail Metin of Turkey. Yesterday, Today and Tomorrow, directed by Vittorio De Sica, won the Academy Award for Best Foreign Language Film. A Fistful of Dollars opened on September 12 with Clint Eastwood, and The Gospel According to St. Matthew on July 22.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_film"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases",
+      "value": [
+        "Dr. Strangelove, directed by Stanley Kubrick, January 29",
+        "A Hard Day's Night, directed by Richard Lester, July 6",
+        "Goldfinger, starring Sean Connery, September 18",
+        "Marnie, directed by Alfred Hitchcock, starring Tippi Hedren and Sean Connery",
+        "Seven Days in May, directed by John Frankenheimer",
+        "Zorba the Greek, directed by Michael Cacoyannis, Greece and the United Kingdom"
+      ],
+      "detail": "Dr. Strangelove put Peter Sellers in three roles alongside George C. Scott. Alan Ladd was found dead in bed at his home in Palm Springs on January 29, aged 50, of an overdose of alcohol and three other drugs. His last film, The Carpetbaggers, came out in April to mostly negative reviews and made a great deal of money.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Mary Poppins had its world premiere in Los Angeles on August 27, and My Fair Lady premiered in New York City on October 21.",
+      "detail": "Hey There, It's Yogi Bear reached cinemas on June 3, the first theatrical feature from Hanna-Barbera and the first full-length animated film taken from a television programme.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1964",
+      "value": [
+        "Bonanza, NBC, 36.3 rating",
+        "Bewitched, ABC, 31.0",
+        "Gomer Pyle U.S.M.C., CBS, 30.7",
+        "The Andy Griffith Show, CBS, 28.3",
+        "The Fugitive, ABC, 27.9"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Peyton Place appears twice in the same table, as Peyton Place II at nine with a 26.4 and Peyton Place I at twenty with a 24.6. Gunsmoke sat at twenty-seven with a 22.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1964%E2%80%9365"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Jeopardy!, NBC, March 30",
+        "Peyton Place, ABC, September 15",
+        "Shindig!, ABC, September 16",
+        "Bewitched, ABC, September 17",
+        "The Man from U.N.C.L.E., NBC, September 22",
+        "Gilligan's Island, CBS, September 26"
+      ],
+      "detail": "The Addams Family and Jonny Quest both started on ABC on September 18, The Munsters on CBS on September 24 and Gomer Pyle U.S.M.C. on CBS on September 25. Rudolph the Red-Nosed Reindeer, a one-hour stop-motion special, premiered on NBC on December 6. Among the programmes that ended were 77 Sunset Strip on February 7 and The Judy Garland Show on March 29.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_American_television"
+    },
+    "tv.uhf_requirement": {
+      "section": "tv",
+      "label": "UHF tuning made compulsory",
+      "value": "Television sets manufactured in the United States from this date had to be able to receive UHF channels",
+      "date": "1964-04-30",
+      "source": "https://en.wikipedia.org/wiki/1964_in_American_television"
+    },
+    "tv.olympics_satellite": {
+      "section": "tv",
+      "label": "Tokyo Olympics relayed by satellite",
+      "value": "NBC's first turn as official Olympic broadcaster opened with coverage of the Tokyo opening ceremony carried through the geostationary satellite Syncom 3",
+      "detail": "ABC had opened the year's Olympic coverage on January 29 with the opening ceremony of the Winter Games at Innsbruck.",
+      "date": "1964-10-10",
+      "source": "https://en.wikipedia.org/wiki/1964_in_American_television"
+    },
+    "tv.daisy_ad": {
+      "section": "tv",
+      "label": "The Daisy advertisement",
+      "value": "Johnson's presidential campaign put it out on network television",
+      "detail": "Ronald Reagan delivered a televised speech endorsing Barry Goldwater on October 27.",
+      "date": "1964-09-07",
+      "source": "https://en.wikipedia.org/wiki/1964_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "I Want to Hold Your Hand, The Beatles",
+        "She Loves You, The Beatles",
+        "Hello, Dolly!, Louis Armstrong",
+        "Oh, Pretty Woman, Roy Orbison",
+        "I Get Around, The Beach Boys"
+      ],
+      "detail": "Compiled from the Hot 100 charts dated January 4 through December 12. The Beatles had nine songs on the list, the Dave Clark Five five and the Four Seasons three.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1964"
+    },
+    "music.beatles_ed_sullivan": {
+      "section": "music",
+      "label": "The Beatles on The Ed Sullivan Show",
+      "value": "Their first performance for an American audience, which broke television ratings records",
+      "detail": "They had arrived at Kennedy Airport on February 7 to thousands of screaming fans, and appeared on the show again on February 16 and February 23.",
+      "date": "1964-02-09",
+      "source": "https://en.wikipedia.org/wiki/1964_in_music"
+    },
+    "music.beatles_chart_sweep": {
+      "section": "music",
+      "label": "The Beatles hold the top five",
+      "value": "Can't Buy Me Love, Twist and Shout, She Loves You, I Want to Hold Your Hand and Please Please Me filled the first five places on the Hot 100",
+      "detail": "A week later they held 14 positions on the chart. The previous record for concurrent singles by one artist was nine, by Elvis Presley in December 1956. Billboard had reported on March 14 that Beatles records made up 60 percent of the entire singles market.",
+      "date": "1964-04-04",
+      "source": "https://en.wikipedia.org/wiki/1964_in_music"
+    },
+    "music.supremes": {
+      "section": "music",
+      "label": "The Supremes reach number one three times",
+      "value": "Where Did Our Love Go topped the Hot 100 on August 22, Baby Love on October 31 and Come See About Me on December 19",
+      "date": "1964-08-22",
+      "source": "https://en.wikipedia.org/wiki/1964_in_music"
+    },
+    "music.fiddler_on_the_roof": {
+      "section": "music",
+      "label": "Fiddler on the Roof opens on Broadway",
+      "value": "Music by Jerry Bock and lyrics by Sheldon Harnick, at the Imperial Theatre, where it ran for 3,242 performances",
+      "detail": "Hello, Dolly! by Jerry Herman had opened at the St James Theatre on January 16 and ran for 2,844 performances, and Funny Girl opened at the Winter Garden Theatre on March 26 and ran for 1,348. Anyone Can Whistle opened at the Majestic Theatre on April 4 and closed after nine.",
+      "date": "1964-09-22",
+      "source": "https://en.wikipedia.org/wiki/1964_in_music"
+    },
+    "tech.ibm_360": {
+      "section": "tech",
+      "label": "IBM System/360",
+      "value": "IBM announced the computer",
+      "date": "1964-04-07",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "tech.basic": {
+      "section": "tech",
+      "label": "First program written in BASIC",
+      "value": "John George Kemeny and Thomas Eugene Kurtz ran it at four in the morning",
+      "detail": "Beginners' All-purpose Symbolic Instruction Code, an easy to learn high level programming language the two of them had created.",
+      "date": "1964-05-01",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "tech.moog": {
+      "section": "tech",
+      "label": "The Moog synthesizer",
+      "value": "Robert Moog demonstrated the prototype",
+      "detail": "No day is given because neither source has one: the year page and the music page both date it to the month only.",
+      "date": "1964-10",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Ranger 7 sent back the first close-up photographs of the Moon, July 31",
+        "Voskhod 1 went into orbit as the first spacecraft with a multi-person crew and the first flight without space suits, October 12",
+        "Mariner 4 launched from Cape Kennedy toward Mars, November 28"
+      ],
+      "detail": "The Ranger 7 images were a thousand times clearer than anything ever seen from telescopes on the ground. The Voskhod 1 flight was cut short and landed on October 13 after 16 orbits. Mariner 3 had been launched on November 5 and failed. Gemini 1, the first unmanned test of the two-man spacecraft, went up on April 8.",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "tech.shinkansen": {
+      "section": "tech",
+      "label": "Shinkansen opens",
+      "value": "The world's first high-speed rail system was inaugurated in Japan, on the first sector between Tokyo and Osaka",
+      "date": "1964-10-01",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.30 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A civil rights act signed in July and three bodies found in Mississippi in August, British records crowding the singles chart, and a world's fair running in Queens from April."
+    },
+    "culture.worlds_fair": {
+      "section": "culture",
+      "label": "New York World's Fair opens",
+      "value": "Opened to mark the 300th anniversary of New Amsterdam being taken over by British forces under the Duke of York and renamed New York, and closed for the year on October 18",
+      "detail": "Not officially sanctioned as a world's fair, because it fell within ten years of the Seattle World's Fair, so some countries declined to attend. Many of those that came put up pavilions with crafts, art and food.",
+      "date": "1964-04-22",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace, Martin Luther King Jr.",
+        "Literature, Jean-Paul Sartre",
+        "Physics, Charles Hard Townes, Nicolay Basov and Aleksandr Prokhorov",
+        "Chemistry, Dorothy Crowfoot Hodgkin",
+        "Physiology or Medicine, Konrad Bloch and Feodor Lynen"
+      ],
+      "detail": "King became the youngest recipient of the Peace Prize, which was awarded to him for leading non-violent resistance to end racial prejudice in the United States, and he received it in Oslo on December 10.",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "culture.free_speech_movement": {
+      "section": "culture",
+      "label": "Berkeley Free Speech Movement",
+      "value": "Police arrested about 800 students at the University of California, Berkeley after they took over the Sproul Hall administration building and sat in",
+      "detail": "Three thousand students had surrounded a police car on October 1 to stop it taking away a Congress of Racial Equality volunteer, arrested for not showing his identification after violating a ban on outdoor activist card tables.",
+      "date": "1964-12-03",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "culture.smoking_report": {
+      "section": "culture",
+      "label": "Surgeon General on smoking",
+      "value": "Luther Leonidas Terry reported that smoking may be hazardous to one's health, the first such statement from the US government",
+      "date": "1964-01-11",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the visiting New York Yankees 7 to 5 in the seventh game to take it four games to three",
+      "detail": "The result ended a run of 29 World Series appearances in 44 seasons for the Yankees.",
+      "date": "1964-10-15",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Olympic Games",
+      "value": "Tokyo held the Summer Games from October 10 to 24, the first in an Asian country, and Innsbruck held the Winter Games from January 29 to February 9",
+      "detail": "The United States won the most gold medals at Tokyo with 36 and the Soviet Union the most medals overall with 96. The Soviet Union led at Innsbruck with 25 medals and 11 golds. India beat Pakistan for the men's field hockey gold, Japan took the women's volleyball and the Soviet Union the men's.",
+      "date": "1964-10-10",
+      "source": "https://en.wikipedia.org/wiki/1964_in_sports"
+    },
+    "sports.clay_liston": {
+      "section": "sports",
+      "label": "World heavyweight championship",
+      "value": "Cassius Clay beat Sonny Liston on a technical knockout in the seventh round at Miami Beach",
+      "detail": "He announced on March 6 that he was changing his name to Muhammad Ali. Joey Giardello won a 15-round decision over Rubin Carter at Philadelphia on December 14 to take the world middleweight title.",
+      "date": "1964-02-25",
+      "source": "https://en.wikipedia.org/wiki/1964_in_sports"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Cleveland Browns beat the Baltimore Colts 27 to 0 at Cleveland Stadium",
+      "detail": "The Buffalo Bills beat the San Diego Chargers 20 to 7 for the AFL Championship, and John Huarte of Notre Dame took the Heisman Trophy.",
+      "date": "1964-12-27",
+      "source": "https://en.wikipedia.org/wiki/1964_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Toronto Maple Leafs over the Detroit Red Wings, four games to three",
+        "NBA Finals, Boston Celtics over the San Francisco Warriors, four games to one",
+        "NCAA basketball, UCLA 97, Duke 83",
+        "European Championship, Spain beat the Soviet Union 2 to 1",
+        "FA Cup, West Ham United 3, Preston North End 2",
+        "Wimbledon singles, Roy Emerson over Fred Stolle and Maria Bueno over Margaret Smith Court"
+      ],
+      "detail": "Jacques Anquetil of France won both the Giro d'Italia and the Tour de France. Northern Dancer became the first Canadian-bred horse to win the Kentucky Derby, and took the Preakness Stakes and the Queen's Plate as well. Jim Bunning of the Philadelphia Phillies pitched a perfect game against the New York Mets on June 21, winning 6 to 0. Don Schollander of swimming and the golfer Mickey Wright were the Associated Press athletes of the year.",
+      "source": "https://en.wikipedia.org/wiki/1964_in_sports"
+    },
+    "deaths.nehru": {
+      "section": "deaths",
+      "label": "Jawaharlal Nehru",
+      "value": "Died May 27. Born 1889",
+      "detail": "Indian politician, the first Prime Minister of India.",
+      "date": "1964-05-27",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "deaths.macarthur": {
+      "section": "deaths",
+      "label": "Douglas MacArthur",
+      "value": "Died April 5. Born 1880",
+      "detail": "US Army general, Supreme Allied Commander in Japan after World War II.",
+      "date": "1964-04-05",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "deaths.carson": {
+      "section": "deaths",
+      "label": "Rachel Carson",
+      "value": "Died April 14. Born 1907",
+      "detail": "American biologist and environmental writer.",
+      "date": "1964-04-14",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "deaths.fleming": {
+      "section": "deaths",
+      "label": "Ian Fleming",
+      "value": "Died August 12. Born 1908",
+      "detail": "British writer.",
+      "date": "1964-08-12",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "deaths.porter": {
+      "section": "deaths",
+      "label": "Cole Porter",
+      "value": "Died October 15. Born 1891",
+      "detail": "American composer and lyricist.",
+      "date": "1964-10-15",
+      "source": "https://en.wikipedia.org/wiki/1964"
+    },
+    "deaths.cooke": {
+      "section": "deaths",
+      "label": "Sam Cooke",
+      "value": "Died December 11. Born 1931",
+      "detail": "American singer and songwriter, shot and killed at a motel in Los Angeles.",
+      "date": "1964-12-11",
+      "source": "https://en.wikipedia.org/wiki/1964_in_the_United_States"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1964. figures_basis is rentals: the box office table's column header reads Domestic rentals. The sentence directly above that table on the same page calls the figures box office gross in North America, and film.gross names the contradiction rather than picking a side. Date checks. The election date has a checkable internal constraint and it holds: November 1 fell on a Sunday, so the first Monday was November 2 and the Tuesday after it was November 3, which is the date both year pages give. The Chinese atomic test did not hold. The 1964 year page dates it to October 17 and locates it only in Sinkiang; the article on the test itself gives 16 October 1964 at Lop Nur with a 22 kiloton yield, so world.china_bomb cites https://en.wikipedia.org/wiki/Project_596, uses October 16, and names the disagreement in its detail. That article was pulled as raw wikitext for this check and is the one source here from outside the cache. Other source disagreements labelled rather than resolved: the US year page has the Twenty-fourth Amendment ratified on January 23 and then has the government authorizing it on February 4, and pol.poll_tax uses January 23 and says so. No radio fact, because the radio window closed after 1959 and this file writes none; radio material stays out entirely rather than being smuggled into another section. No film.ticket_price fact, because the movie ticket series has a null for this year. Month-only dates: tech.moog is 1964-10 because the year page and the music page both give only October. The Nielsen ranking covers a season that began in the autumn of 1964 and ran into the following spring, which tv.top_shows states without naming a second year. Facts that take their date or value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice. sports.world_series takes the 7 to 5 score, the seventh game and the Yankees' run of 29 appearances from the US year page, and the source line for the series itself also names Bob Gibson as series MVP on the sports page, which is left out to keep the fact on one page. sports.olympics takes the medal counts, the field hockey and volleyball results from the sports page; the International Olympic Committee's ban on South Africa of August 18 is on the year page and is left out for the same reason. sports.clay_liston takes the fight and the middleweight title from the sports page and the March 6 name change from the same page's boxing section. tv.premieres takes the debut dates and the endings from the television page; that Jeopardy! was a Merv Griffin format with Art Fleming as first host is on the US year page and is dropped here. film.best_picture and film.acting_awards come from the 37th Academy Awards page; that Audrey Hepburn's singing was dubbed by Marni Nixon is on the US year page and is dropped. Dropped for lack of a source that says enough: the cosmic microwave background, which the year page lists under Spring with no day and no detail beyond a reference to a brief Soviet paper; Jerome Horwitz synthesising zidovudine and the founding of the Vishva Hindu Parisad, both undated on the year page; Rudi Gernreich's monokini, undated; the Grammy Awards, because the music page carries only a bare link to a ceremony that honoured the previous year's recordings. Dropped to hold the section counts down rather than for want of a source: the Verrazano-Narrows Bridge opening on November 21, the Forth Road Bridge on September 4, Roald Dahl's Charlie and the Chocolate Factory on January 17, the Ford Mustang unveiled on April 17, the theft of the Star of India on October 29, Sylvania's europium phosphor colour tube of June 4, the Indiana governor declaring Louie Louie pornographic on February 1, Eurovision going to Gigliola Cinquetti on March 21, the Harlem and Philadelphia race riots of July and August, and the Christmas flood that began on December 18. Deaths that would have earned a place with more room: Herbert Hoover on October 20, Harpo Marx on September 28, Flannery O'Connor on August 3, Peter Lorre on March 23, Gracie Allen on August 27, Leo Szilard on May 30. Texture material taken from the cached pages but given no fact of its own: the Melbourne and Voyager collision; the Cologne school attack; Pacific Air Lines Flight 773; the Dhanushkodi cyclone; the Great Train Robbery sentences; the last hangings in the United Kingdom and Western Australia; the Little Mermaid's head; Willie Mays's contract; the Whisky a Go Go; the World Trade Center announcement; bourbon named a distinctive product of the United States; the first Blimpie and the first Arby's; the Warren Commission report's companion, Jack Ruby's conviction; the two Nguyen Khanh coups; the first flights of the SR-71 and the F-111. Deaths carry a birth year rather than an age, because the year page gives only the year and computing an age from it invents precision. Names and titles are written in ASCII per the corpus convention, so Nguyen Khanh, Duong Van Minh, Jean-Paul Sartre's co-laureates and Gomer Pyle U.S.M.C. lose their diacritics and punctuation marks. General knowledge rather than a claim from the cached pages: that a 1964 cinema audience saw new releases in a theatre and not at home, which film.how_people_watched states as the answer to its own question and which comes out if challenged."
+}

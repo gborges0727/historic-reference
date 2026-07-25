@@ -1,0 +1,480 @@
+{
+  "year": 1961,
+  "tier": "broadcast",
+  "headline": "Kennedy took the oath in January, Gagarin orbited the Earth in April, and the Berlin Wall went up in August",
+  "texture": [
+    "The SL-1 reactor at the National Reactor Testing Station near Idaho Falls exploded on January 3 and killed three military technicians. Two days later the sculptor Alfredo Fioravanti walked into the US Consulate in Rome and confessed that he had been part of the team that forged the Etruscan terracotta warriors held by the Metropolitan Museum of Art. A dam burst at Kurenivka in Kiev on March 13 and killed 145. The Swedish warship Vasa, sunk on her maiden voyage in 1628, was raised from Stockholm Harbor on April 24.",
+    "Sabena Flight 548 came down near Brussels on February 15 with the entire United States figure skating team aboard, and the World Figure Skating Championships in Prague were cancelled. Laurence Owen, one of the American women's champions, was sixteen. A section of the Dukla coal mine in Czechoslovakia was sealed off on July 7 to stop a fire from causing an explosion, suffocating 108 miners still inside. Two dams above Pune burst on July 12 and drowned more than a thousand residents. A circus tent fire at Niteroi in Brazil killed 323 on December 17.",
+    "London police arrested more than 1,300 people in Trafalgar Square on September 17 at a Campaign for Nuclear Disarmament rally. French police attacked about 30,000 people in Paris on October 17 who were protesting a curfew that applied only to Algerians, with an official toll of three dead against a claim of 240 from human rights groups. Joseph Stalin's body was taken out of the Lenin Mausoleum on October 31. Turkish engineers built the Devrim, the first car designed and produced in Turkey, in 130 days.",
+    "The Beatles, with Pete Best on drums, played their first Cavern Club date under that name on February 9. On December 9 they took their first booking in the south of England, at the Palais Ballroom in Aldershot, where poor advertising left 18 people in the room. The Beach Boys, until then the Pendletones, put out Surfin' on the small California label Candix Records on December 8. Elvis Presley played the Block Arena at Pearl Harbor on March 25 and raised $62,000 for the USS Arizona Memorial fund."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.inauguration",
+    "world.gagarin",
+    "world.berlin_wall",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "John F. Kennedy (D) from January 20, following Dwight D. Eisenhower (R)",
+      "detail": "Lyndon B. Johnson replaced Richard Nixon as Vice President on the same day. Earl Warren was Chief Justice. Sam Rayburn was Speaker of the House until November 16 and the chair then stood vacant. Mike Mansfield took over from Johnson as Senate majority leader on January 3, when the 87th Congress replaced the 86th.",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "Kennedy sworn in as 35th president",
+      "value": "Took the oath from Chief Justice Earl Warren at the East Portico of the Capitol on Friday January 20, the 44th inauguration",
+      "detail": "Speaker of the House Sam Rayburn administered the vice presidential oath to Lyndon B. Johnson, the first time a House speaker had given it. Robert Frost, aged 86, recited The Gift Outright, the first poet to appear in the program. Marian Anderson sang The Star-Spangled Banner and a Leonard Bernstein composition was played. Eight inches of snow had fallen in Washington during the night. Both cached year pages give the date and the two oaths and nothing more, so the rest comes from the inauguration's own article.",
+      "date": "1961-01-20",
+      "source": "https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy"
+    },
+    "pol.eisenhower_farewell": {
+      "section": "politics",
+      "label": "Eisenhower's farewell address",
+      "value": "Warned of the growing power of a military-industrial complex",
+      "detail": "He delivered his final State of the Union Address to Congress the same day.",
+      "date": "1961-01-17",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "pol.peace_corps": {
+      "section": "politics",
+      "label": "Peace Corps and Alliance for Progress",
+      "value": "Kennedy established the Peace Corps on March 1 and proposed a long-term Alliance for Progress with Latin America on March 13, which the United States founded in August",
+      "detail": "The year page gives only the month for the founding of the Alliance for Progress.",
+      "date": "1961-03-01",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "pol.bay_of_pigs": {
+      "section": "politics",
+      "label": "Bay of Pigs Invasion",
+      "value": "The US-backed invasion of Cuba began on April 17 and had failed by April 19, with Fidel Castro announcing its defeat on April 20",
+      "detail": "Eisenhower had announced on January 3 that the United States was severing diplomatic and consular relations with Cuba. In a nationally broadcast speech on December 2 Castro said he was a Marxist-Leninist and that Cuba would adopt socialism.",
+      "date": "1961-04-17",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "pol.freedom_riders": {
+      "section": "politics",
+      "label": "Freedom Riders",
+      "value": "Interstate bus rides began on May 4 to test the Supreme Court's integration decision in Boynton v. Virginia, a rider bus was firebombed near Anniston, Alabama on May 14 and the protesters were beaten by a Ku Klux Klan mob, and riders were arrested in Jackson, Mississippi on May 24 for disturbing the peace",
+      "detail": "Alabama governor John Patterson declared martial law on May 21 after riots broke out. The Interstate Commerce Commission's federal order banning segregation at all interstate public facilities came into effect on November 1.",
+      "date": "1961-05-04",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "pol.dc_vote": {
+      "section": "politics",
+      "label": "Twenty-third Amendment ratified",
+      "value": "Gave residents of Washington, D.C. a vote in presidential elections",
+      "date": "1961-03-29",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "pol.moon_goal": {
+      "section": "politics",
+      "label": "Kennedy commits to a Moon landing",
+      "value": "Told a special joint session of Congress that the United States should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to the Earth",
+      "detail": "Yuri Gagarin had orbited the Earth on April 12 and Alan Shepard had made a suborbital flight on May 5.",
+      "date": "1961-05-25",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.berlin_wall": {
+      "section": "world",
+      "label": "Berlin Wall",
+      "value": "Construction began, cutting movement between East Berlin and West Berlin",
+      "detail": "Ida Siekmann jumped from a window in her tenement building on August 22 trying to flee to the West, the first of at least 138 deaths at the Wall. Soviet and American tanks faced each other at Checkpoint Charlie on October 27. Kennedy had told a television audience on July 25 that we will not be driven out of Berlin, and urged Americans to build fallout shelters, which set off a four-month argument over civil defence.",
+      "date": "1961-08-13",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.gagarin": {
+      "section": "world",
+      "label": "First human in space",
+      "value": "Soviet cosmonaut Yuri Gagarin orbited the Earth once aboard Vostok 1 and parachuted to the ground",
+      "date": "1961-04-12",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.tsar_bomba": {
+      "section": "world",
+      "label": "Tsar Bomba",
+      "value": "The Soviet Union detonated a 58-megaton hydrogen bomb over Novaya Zemlya, the largest man-made explosion",
+      "detail": "The Soviet Union had resumed nuclear testing on September 1, which sharpened fears over the Berlin Crisis.",
+      "date": "1961-10-30",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.eichmann": {
+      "section": "world",
+      "label": "Eichmann trial",
+      "value": "The trial of Adolf Eichmann opened in Jerusalem on April 11, a tribunal of three Israeli judges found him guilty of crimes against humanity for his part in the Holocaust on December 11, and he was sentenced to death on December 15",
+      "date": "1961-04-11",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.lumumba": {
+      "section": "world",
+      "label": "Patrice Lumumba assassinated",
+      "value": "The first prime minister of the Congo was killed, and the Congo government announced on February 13 that villagers had killed him",
+      "detail": "Moise Tshombe was released on June 22 for lack of evidence connecting him to the murder, and on December 21 the Katangan prime minister recognised the Congolese constitution.",
+      "date": "1961-01-17",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.hammarskjold": {
+      "section": "world",
+      "label": "Dag Hammarskjold killed at Ndola",
+      "value": "The Secretary-General of the United Nations was one of 16 people to die when a DC-6 crashed on the way to Katanga in the Congo",
+      "detail": "The General Assembly unanimously elected the Burmese diplomat U Thant acting Secretary-General on November 3. Congolese soldiers murdered 13 Italian United Nations pilots on November 11.",
+      "date": "1961-09-18",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "world.decolonisation": {
+      "section": "world",
+      "label": "Countries that changed hands",
+      "value": [
+        "Sierra Leone became independent from the United Kingdom, April 27",
+        "The British protectorate over Kuwait ended and it became an emirate, June 19",
+        "The formerly British Southern Cameroons gained independence by vote of the UN General Assembly and joined formerly French Cameroun to form the Federal Republic of Cameroon, October 1",
+        "Tanganyika became independent from the United Kingdom as a Commonwealth realm with Julius Nyerere as first prime minister, December 9",
+        "Portugal surrendered Goa to India after 400 years, December 19"
+      ],
+      "detail": "South Africa became a republic on May 31 and left the Commonwealth. Iraqi president Abd al-Karim Qasim announced on June 25 that he intended to annex Kuwait, Britain sent troops on June 27 at Kuwait's request, the Arab League took over its protection on October 19, and the Soviet Union vetoed Kuwait's application to join the United Nations on November 30. India opened hostilities against Portuguese Goa, Damao and Diu on December 18.",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "West Side Story, $19,645,000, United Artists",
+        "The Guns of Navarone, $13,000,000, Columbia",
+        "El Cid, $12,000,000, Allied Artists",
+        "The Parent Trap, $9,300,000, Buena Vista",
+        "The Absent-Minded Professor, $9,000,000, Buena Vista"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The same page's country table switches to gross: Gunga Jumna took $14,610,000 in India, converted from 7 crore rupees at 4.79 rupees to the dollar, and Striped Trip took $12,720,000 in the Soviet Union on 45.8 million tickets at an average price of 25 kopecks. La Dolce Vita came ninth on the rentals table at $6,000,000.",
+      "source": "https://en.wikipedia.org/wiki/1961_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "West Side Story",
+      "detail": "Awarded the following spring at the 34th Academy Awards, where it won 10 of its 11 nominations. Robert Wise and Jerome Robbins were the first pair to share the Best Director award for one film. Judgment at Nuremberg matched it on 11 nominations and won two, for Maximilian Schell and for Abby Mann's adapted screenplay. Federico Fellini took his first Best Director nomination, for La Dolce Vita.",
+      "source": "https://en.wikipedia.org/wiki/34th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Maximilian Schell, Judgment at Nuremberg",
+        "Best Actress, Sophia Loren, Two Women",
+        "Best Supporting Actor, George Chakiris, West Side Story",
+        "Best Supporting Actress, Rita Moreno, West Side Story"
+      ],
+      "detail": "All four winners were first-time nominees, the second time that had happened. Loren was the first Italian actress to win Best Actress for an Italian-language film and the first person to win for a performance in a language other than English. George C. Scott asked that his Best Supporting Actor nomination for The Hustler be revoked, the first actor to refuse an award in advance. It was not revoked and he lost.",
+      "source": "https://en.wikipedia.org/wiki/34th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Viridiana, directed by Luis Bunuel, Mexico and Spain, Palme d'Or winner",
+        "Last Year at Marienbad, directed by Alain Resnais, France, Golden Lion winner",
+        "La Notte, directed by Michelangelo Antonioni, Italy and France, Golden Bear winner",
+        "Yojimbo, directed by Akira Kurosawa, Japan",
+        "Through a Glass Darkly, directed by Ingmar Bergman, Sweden"
+      ],
+      "detail": "Through a Glass Darkly took the Academy Award for Best Foreign Language Film, and Two Women took the Golden Globe in that category. Accattone was Pier Paolo Pasolini's first film as director. Divorce Italian Style, with Marcello Mastroianni, was released on December 20.",
+      "source": "https://en.wikipedia.org/wiki/1961_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Trans World Airlines became the first airline to show regularly scheduled movies in flight on July 19, presenting By Love Possessed to first-class passengers",
+      "detail": "TWA had screened Come September to the press aboard one of its jets to introduce the idea, which the film page dates to July 17.",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "film.bond_deal": {
+      "section": "film",
+      "label": "United Artists signs for the Ian Fleming novels",
+      "value": "Cubby Broccoli and Harry Saltzman closed a multi-picture deal with the studio, to start with either Dr. No or Diamonds Are Forever",
+      "date": "1961-06-28",
+      "source": "https://en.wikipedia.org/wiki/1961_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1961",
+      "value": [
+        "Wagon Train, NBC, 32.1 rating",
+        "Bonanza, NBC, 30.0",
+        "Gunsmoke, CBS, 28.3",
+        "Hazel, NBC, 27.7",
+        "Perry Mason, CBS, 27.3"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Hazel reached fourth in its first season. Dr. Kildare at nine and Ben Casey at eighteen put two new hospital dramas in the top twenty, and The Flintstones tied for twenty-first on 22.9.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1961%E2%80%9362"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Mister Ed, syndication, January 5",
+        "The Yogi Bear Show, syndication, January 30",
+        "Wide World of Sports, ABC, April 29",
+        "Car 54, Where Are You?, NBC, September 17",
+        "Top Cat, ABC, September 27",
+        "Ben Casey, ABC, October 2",
+        "The Dick Van Dyke Show, CBS, October 3"
+      ],
+      "detail": "You're in the Picture opened on CBS on January 20 and ended on January 27, one week later. Dave Garroway announced on May 29 that he was leaving Today.",
+      "source": "https://en.wikipedia.org/wiki/1961_in_American_television"
+    },
+    "tv.vast_wasteland": {
+      "section": "tv",
+      "label": "The FCC chairman calls television a vast wasteland",
+      "value": "Newton N. Minow told the National Association of Broadcasters, in a speech titled Television and the Public Interest, that commercial programming was a vast wasteland and that they could do a better job of serving the public",
+      "detail": "The US year page dates the speech to May 9 and the television page to May 5. That television page also dates the flight of Freedom 7 to March 5, where both year pages give May 5, so its May entries look unreliable and the date here follows the year pages.",
+      "date": "1961-05-09",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "tv.colour": {
+      "section": "tv",
+      "label": "Television in colour",
+      "value": "NBC's news division carried Kennedy's inauguration on January 20 in colour, the first inauguration telecast that way",
+      "detail": "The Walt Disney anthology series moved from ABC to NBC after seven years, was renamed Walt Disney's Wonderful World of Color, and began telecasting its programs in colour on September 24.",
+      "date": "1961-01-20",
+      "source": "https://en.wikipedia.org/wiki/1961_in_American_television"
+    },
+    "tv.saturday_movies": {
+      "section": "tv",
+      "label": "NBC Saturday Night at the Movies",
+      "value": "NBC started a weekly run of feature films with How to Marry a Millionaire, a 1953 release",
+      "date": "1961-09-23",
+      "source": "https://en.wikipedia.org/wiki/1961_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Tossin' and Turnin', Bobby Lewis",
+        "I Fall to Pieces, Patsy Cline",
+        "Michael, The Highwaymen",
+        "Crying, Roy Orbison",
+        "Runaway, Del Shannon"
+      ],
+      "detail": "Billboard's ranking, published in the issue dated January 6 of the following year and compiled from the Hot 100 charts of the January to November issues. Elvis Presley placed four songs on the list, more than any other artist, and Chubby Checker placed three. Patsy Cline was in hospital after a head-on car collision on June 14 while I Fall to Pieces was selling.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1961"
+    },
+    "music.motown": {
+      "section": "music",
+      "label": "Motown's first million-selling single",
+      "value": "Shop Around by The Miracles",
+      "detail": "It placed 24th on the year-end Hot 100.",
+      "date": "1961-02-12",
+      "source": "https://en.wikipedia.org/wiki/1961_in_music"
+    },
+    "music.reprise": {
+      "section": "music",
+      "label": "Frank Sinatra starts Reprise Records",
+      "value": "Formed his own record label",
+      "date": "1961-02-13",
+      "source": "https://en.wikipedia.org/wiki/1961_in_music"
+    },
+    "music.easy_listening": {
+      "section": "music",
+      "label": "Billboard starts an Easy Listening chart",
+      "value": "A chart for songs the magazine judged not to be rock and roll records, first topped by The Boll Weevil Song by Brook Benton",
+      "date": "1961-07-17",
+      "source": "https://en.wikipedia.org/wiki/1961_in_music"
+    },
+    "music.carnegie_hall": {
+      "section": "music",
+      "label": "Judy Garland at Carnegie Hall",
+      "value": "Gave a comeback concert in New York City",
+      "date": "1961-04-23",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "tech.shepard": {
+      "section": "tech",
+      "label": "First American in space",
+      "value": "Alan Shepard flew a suborbital mission aboard Mercury-Redstone 3",
+      "detail": "Ham, a 37-pound male chimpanzee, had been rocketed into space aboard Mercury-Redstone 2 on January 31 in a test of the Project Mercury spacecraft. The television page puts 45 million American viewers on the launch of Freedom 7, in an entry that misdates the flight to March 5.",
+      "date": "1961-05-05",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "tech.grissom": {
+      "section": "tech",
+      "label": "Liberty Bell 7 sinks",
+      "value": "Gus Grissom became the second American in space on a suborbital flight aboard Mercury-Redstone 4, and after splashdown the hatch opened early and the spacecraft went down",
+      "date": "1961-07-21",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "tech.titov": {
+      "section": "tech",
+      "label": "A day in orbit",
+      "value": "Gherman Titov became the second human to orbit the Earth, aboard Vostok 2, and the first to stay in space for more than one day",
+      "detail": "Vostok 2 landed in the Soviet Union on August 7.",
+      "date": "1961-08-06",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "tech.venera": {
+      "section": "tech",
+      "label": "Venera 1 passes Venus",
+      "value": "The Soviet probe launched on February 12 became the first man-made object to fly by another planet, having lost contact with Earth a month before the encounter and sent back no data",
+      "date": "1961-05-19",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "tech.lab_firsts": {
+      "section": "tech",
+      "label": "Results out of the laboratory",
+      "value": [
+        "Element 103, lawrencium, was first synthesised on February 14",
+        "J. Heinrich Matthaei performed the Poly-U-Experiment alone on May 15 and was the first person to recognise and understand the genetic code",
+        "Robert White set a world air speed record in an X-15 on November 9"
+      ],
+      "detail": "The year page calls the Poly-U-Experiment the birthdate of modern genetics. No speed is given for the X-15 flight because the two pages disagree: the year page says 6,587 kilometres per hour and the US year page says 6,585.",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.31 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two Soviet cosmonauts in orbit before any American had made a full circuit, a wall going up across Berlin in August, and a public argument about whether to dig a fallout shelter in the back garden."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Ivo Andric",
+        "Peace, Dag Hammarskjold, posthumously",
+        "Physics, Robert Hofstadter and Rudolf Mossbauer",
+        "Chemistry, Melvin Calvin",
+        "Physiology or Medicine, Georg von Bekesy"
+      ],
+      "detail": "Hammarskjold had died on September 18 in the air crash at Ndola.",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "culture.amnesty": {
+      "section": "culture",
+      "label": "The Forgotten Prisoners",
+      "value": "Peter Benenson's article was published in several internationally read newspapers, later counted as the founding of Amnesty International",
+      "date": "1961-05-28",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "culture.nureyev": {
+      "section": "culture",
+      "label": "Rudolf Nureyev defects",
+      "value": "The Soviet ballet dancer left the Kirov Ballet tour at Paris-Le Bourget Airport",
+      "date": "1961-06-16",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "culture.fantastic_four": {
+      "section": "culture",
+      "label": "Fantastic Four number one",
+      "value": "The comic debuted, starting the Marvel Universe",
+      "detail": "The US year page gives the month and no day.",
+      "date": "1961-11",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "sports.maris": {
+      "section": "sports",
+      "label": "Roger Maris hits 61 home runs",
+      "value": "Hit his 61st in the last game of the season, against the Boston Red Sox, beating the 34-year-old record held by Babe Ruth",
+      "detail": "The American League had expanded to ten teams, adding the Los Angeles Angels and a new Washington Senators, and had stretched the schedule from 154 games to 162, so Ruth's 60 still stood as the record for the shorter season. Mickey Mantle had signed for $75,000 on January 16, the highest paid player in the majors. Maris was named Associated Press Male Athlete of the Year.",
+      "date": "1961-10-01",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Cincinnati Reds four games to one",
+      "detail": "Whitey Ford of the Yankees was named series MVP.",
+      "date": "1961-10-09",
+      "source": "https://en.wikipedia.org/wiki/1961_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NFL Championship, Green Bay Packers 37, New York Giants 0, at Lambeau Field",
+        "AFL Championship, Houston Oilers 10, San Diego Chargers 3",
+        "NBA Finals, Boston Celtics over the St. Louis Hawks, four games to one",
+        "Stanley Cup, Chicago Black Hawks over the Detroit Red Wings, four games to two",
+        "NCAA basketball, Cincinnati over Ohio State, 70 to 65",
+        "Wimbledon singles, Rod Laver over Chuck McKinley and Angela Mortimer Barrett over Christine Truman Janes"
+      ],
+      "detail": "The deciding hockey game was played at Olympia Stadium in Detroit on April 16, Chicago's third Stanley Cup. Bernie Geoffrion of the Montreal Canadiens took both the Art Ross Trophy and the Hart Memorial Trophy. Gary Player was the first international golfer to win the Masters and led the PGA Tour money list with $64,540, and Mickey Wright won three of the four women's professional titles listed. Wilma Rudolph was named Associated Press Female Athlete of the Year.",
+      "source": "https://en.wikipedia.org/wiki/1961_in_sports"
+    },
+    "sports.football": {
+      "section": "sports",
+      "label": "Association football finals",
+      "value": [
+        "FA Cup final, Tottenham Hotspur 2, Leicester City 0, and Tottenham also took the First Division, the first British club to win the double",
+        "European Cup final, Benfica 3, Barcelona 2, at the Wankdorf Stadium in Bern on May 31"
+      ],
+      "detail": "The year page dates Tottenham's double to May 6 and calls them the first team in the 20th century to take the English league and cup.",
+      "source": "https://en.wikipedia.org/wiki/1961_in_sports"
+    },
+    "sports.monza": {
+      "section": "sports",
+      "label": "Crash at the Italian Grand Prix",
+      "value": "Wolfgang von Trips put his Ferrari into a stand at Monza, killing 14 spectators and himself",
+      "date": "1961-09-10",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "deaths.hemingway": {
+      "section": "deaths",
+      "label": "Ernest Hemingway",
+      "value": "Died July 2. Born 1899",
+      "detail": "American writer and Nobel laureate in literature, by suicide. The US year page records his Pulitzer Prize for The Old Man and the Sea.",
+      "date": "1961-07-02",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "deaths.cooper": {
+      "section": "deaths",
+      "label": "Gary Cooper",
+      "value": "Died May 13. Born 1901",
+      "detail": "American actor, aged 60, of colon and prostate cancer in Los Angeles. He had won two Academy Awards for Best Actor, and appeared in Wings, Mr. Deeds Goes to Town, Sergeant York, The Pride of the Yankees and High Noon.",
+      "date": "1961-05-13",
+      "source": "https://en.wikipedia.org/wiki/1961_in_film"
+    },
+    "deaths.jung": {
+      "section": "deaths",
+      "label": "Carl Jung",
+      "value": "Died June 6. Born 1875",
+      "detail": "Swiss psychiatrist.",
+      "date": "1961-06-06",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "deaths.cobb": {
+      "section": "deaths",
+      "label": "Ty Cobb",
+      "value": "Died July 17. Born 1886",
+      "detail": "American baseball player and a member of the Baseball Hall of Fame.",
+      "date": "1961-07-17",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    },
+    "deaths.hammett": {
+      "section": "deaths",
+      "label": "Dashiell Hammett",
+      "value": "Died January 10. Born 1894",
+      "detail": "American writer.",
+      "date": "1961-01-10",
+      "source": "https://en.wikipedia.org/wiki/1961"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1961. figures_basis is rentals: the box office table's column header reads Domestic rentals. The same film page's country table switches to gross, and both bases are named in the film.gross detail rather than reconciled. No radio facts, because the radio window closes after 1959. No film.ticket_price fact, because the ticket price series has no value for this year. The inauguration was date-checked against its own article as the brief requires: January 20 fell on a Friday, both cached year pages give that date, and the dedicated article agrees and adds the East Portico venue, the 44th ordinal, Earl Warren and Sam Rayburn administering the two oaths, Robert Frost reciting The Gift Outright, Marian Anderson singing, and eight inches of overnight snow, none of which the year pages carry. Source disagreements labelled rather than resolved: the television page dates Newton Minow's speech to May 5 where the US year page gives May 9, and that same television page dates the flight of Freedom 7 to March 5 where both year pages give May 5, so tv.vast_wasteland follows the year pages and names the gap, and tech.shepard cites the television page only for the viewer count. The year page opens Six Flags Over Texas on August 1 and the US year page on August 5, so that item was left out rather than dated. The film page dates the TWA press screening to July 17 and the year page dates the first regularly scheduled in-flight movie to July 19, and film.how_people_watched carries both with the pages named. The Nielsen ranking is a season starting in the autumn of 1961 and running into the following spring, which the fact says without naming a second year. culture.fantastic_four carries a month-only date because the US year page gives no day. Facts that draw their detail from a page other than the one cited, recorded here rather than left for a reader to find: sports.maris takes the October 1 game from the US year page and the league expansion, the 162-game schedule, the Mantle contract and the AP award from the sports page; sports.world_series takes the result and date from the US year page and the MVP from the sports page; sports.champions takes the six results and the golf and AP lines from the sports page and the April 16 Olympia Stadium detail from the US year page; music.hot100_year_end takes the ranking and the Presley and Checker counts from the year-end chart page and Patsy Cline's June 14 collision from the music page; music.motown takes the February 12 million-seller from the music page and the year-end placing from the chart page; tv.colour takes the colour inauguration from the television page and the September 24 Disney rename and colour telecasts from the year page; deaths.hemingway takes the date, birth year, Nobel and suicide from the year page and the Pulitzer from the US year page; deaths.cooper takes the age, the cause, the city and the two Best Actor awards from the film page and the birth year of 1901 from the two year pages, which the film page does not give. Two pages disagree on the speed of Robert White's X-15 flight of November 9, 6,587 kilometres per hour on the year page against 6,585 on the US year page, so tech.lab_firsts states the record without a figure and names the gap. Dropped for lack of a settled or usable source: Barney and Betty Hill's UFO report of September 19, which the year page carries with no supporting reference. Dropped as off-year or for space, all of them sourced: the 33rd Academy Awards ceremony of April 17 and the third Grammy Awards of April 13, both of which honoured the previous year's work and would sit confusingly beside film.best_picture; the Eurovision Song Contest won by Luxembourg at Cannes on March 18; the Ken doll of March 11; the first edition of Private Eye on October 25; the founding of the Yves Saint Laurent brand on November 14; the retractable-roof Civic Arena in Pittsburgh of September 17; Telefis Eireann going on air on December 31; the first American helicopters reaching Saigon on December 11. Texture material taken from the cached pages but not given its own fact: the SL-1 reactor explosion near Idaho Falls; Alfredo Fioravanti's confession about the Etruscan terracotta warriors; the Kurenivka dam burst in Kiev; the raising of the Vasa; Sabena Flight 548 and the United States figure skating team, including Laurence Owen's age of sixteen; the Dukla mine section sealed off in Czechoslovakia; the dams above Pune; the Niteroi circus fire; the Trafalgar Square arrests; the Paris massacre of October 17; the removal of Stalin's body from the Lenin Mausoleum; the Devrim car built in Turkey in 130 days; the Beatles at the Cavern Club and at Aldershot with Pete Best on drums; the Beach Boys releasing Surfin' as former Pendletones on Candix Records; Elvis Presley's Block Arena benefit for the USS Arizona Memorial fund. General knowledge rather than a claim from the cached pages, and dropped if challenged: that a cinema audience of this period saw a feature in a theatre first and on television years later, which film.how_people_watched and tv.saturday_movies imply between them without either page stating it. Deaths carry a birth year rather than an age except where the source gives an age outright, matching the neighbouring files. Names are written in ASCII per the corpus convention, so Hammarskjold, Mossbauer, Bekesy, Andric, Bunuel, Niteroi and Telefis Eireann lose their diacritics."
+}

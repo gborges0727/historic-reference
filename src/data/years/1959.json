@@ -1,0 +1,462 @@
+{
+  "year": 1959,
+  "tier": "broadcast",
+  "headline": "Alaska and Hawaii became states, Batista fled Havana, and the Dalai Lama escaped Tibet for India",
+  "texture": [
+    "Nine ski hikers died in the northern Ural Mountains at the Dyatlov Pass in February and were all found dead weeks later. Water broke into the River Slope Mine at Port Griffith, Pennsylvania on January 22 and killed twelve miners. The Danish ship Hans Hedtoft struck an iceberg off Greenland on January 30, coming home from its maiden voyage, and all ninety-five aboard went down with her. American Airlines Flight 320 came down in the East River on approach to LaGuardia on February 3, killing 65 of the 73 aboard.",
+    "A truck carrying explosives caught fire in Roseburg, Oregon on August 7, killing fourteen and doing twelve million dollars of damage. The Hebgen Lake earthquake killed 28 in southwest Montana ten days after that. Mike Ilitch and his wife Marian opened a pizza restaurant in Garden City, Michigan on May 8, and Nick Van Til and Ernie Strack opened a grocery store in Highland, Indiana on November 25. Glen Raven Knitting Mills put nylon pantyhose on the open market as Panti-Legs. Alec Issigonis' Mini went on sale in England on August 26, while American tailfins reached their apex on the Cadillac Eldorado and the Imperial Crown Sedan.",
+    "A Kumamoto University research group studying Minamata disease concluded on July 22 that mercury caused it. Louis and Mary Leakey found the first Australopithecus skull in the Olduvai Gorge on July 17. Singapore became a self-governing crown colony on June 3 with Lee Kuan Yew as Prime Minister. The SR.N1 hovercraft crossed from Calais to Dover in just over two hours on July 25, fifty years to the day after Louis Bleriot flew the Channel. Ernest Marples opened the M1 between Watford and Crick on November 2, and Malpasset Dam gave way above Frejus on December 2, drowning 412 people.",
+    "Harvey Haddix pitched twelve perfect innings for Pittsburgh against Milwaukee on May 26 with a sore throat, then lost in the thirteenth on a Don Hoak fielding error. Emperor Hirohito attended his first professional baseball game on June 25 at Korakuen Stadium, where Shigeo Nagashima homered off Minoru Murayama to beat Hanshin. Jerry Lewis signed with Paramount on June 7 for ten million dollars and sixty percent of the profits across fourteen films, with final cut and his rights back after thirty years. Asterix the Gaul first appeared in a French comic magazine on October 29."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.hawaii",
+    "world.cuba",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R)",
+      "detail": "Richard Nixon was Vice President, Earl Warren was Chief Justice, Sam Rayburn was Speaker of the House and Lyndon B. Johnson was Senate majority leader. The 86th Congress replaced the 85th on January 3.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "pol.alaska": {
+      "section": "politics",
+      "label": "Alaska becomes the 49th state",
+      "value": "Admitted to the Union, with William A. Egan taking over as governor from Waino Edward Hendrickson the same day",
+      "detail": "The 49-star flag of the United States debuted in Philadelphia on July 4.",
+      "date": "1959-01-03",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "pol.hawaii": {
+      "section": "politics",
+      "label": "Hawaii becomes the 50th state",
+      "value": "Admitted as the 50th and last state, with William F. Quinn as governor from that day",
+      "detail": "Eisenhower had signed the Hawaii Admission Act on March 18.",
+      "date": "1959-08-21",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "pol.steel_strike": {
+      "section": "politics",
+      "label": "Steel strike",
+      "value": "A labor union strike began across the US steel industry",
+      "date": "1959-07-15",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "pol.kitchen_debate": {
+      "section": "politics",
+      "label": "Kitchen Debate",
+      "value": "Richard Nixon and Nikita Khrushchev argued in front of a model American kitchen at the opening of the American National Exhibition in Moscow",
+      "detail": "Khrushchev and his wife toured the United States from September 15 to 28 at Eisenhower's invitation, and he met Mao Zedong in Beijing on September 30.",
+      "date": "1959-07-24",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "pol.lady_chatterley": {
+      "section": "politics",
+      "label": "Grove Press, Inc. v. Christenberry",
+      "value": "Decided, affirming that copies of Lady Chatterley's Lover may be distributed in the United States under the First Amendment",
+      "date": "1959-07-21",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "world.cuba": {
+      "section": "world",
+      "label": "Batista flees Havana",
+      "value": "Fulgencio Batista left the city as Fidel Castro's forces advanced",
+      "detail": "Rebel troops under Che Guevara and Camilo Cienfuegos entered Havana on January 4. The United States recognised the new government on January 7 and the Soviet government followed on January 10. Castro became Premier of Cuba on February 16.",
+      "date": "1959-01-01",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "world.tibet": {
+      "section": "world",
+      "label": "Tibetan uprising and the Dalai Lama's escape",
+      "value": "The uprising broke out in Lhasa on March 10 when Chinese officials tried to arrest the Dalai Lama, who left Tibet on March 17, reached India, and was granted asylum there on March 31",
+      "detail": "Zhou Enlai signed an order abolishing the Kashag, the government of Tibet, on March 28, and China replaced the Dalai Lama with the Panchen Lama.",
+      "date": "1959-03-10",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "world.cyprus": {
+      "section": "world",
+      "label": "Cyprus independent",
+      "value": "Gained independence on August 15, and Makarios III was selected as its first president on December 14",
+      "detail": "The first of the London and Zurich Agreements, under which the United Kingdom agreed to grant independence, was signed on February 19. Archbishop Makarios had returned to Cyprus from exile on March 1.",
+      "date": "1959-08-15",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "world.antarctic_treaty": {
+      "section": "world",
+      "label": "Antarctic Treaty signed",
+      "value": "Twelve countries, the United States and the Soviet Union among them, set Antarctica aside as a scientific preserve and banned military activity on the continent",
+      "detail": "The first arms control agreement established during the Cold War.",
+      "date": "1959-12-01",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "world.typhoon_vera": {
+      "section": "world",
+      "label": "Typhoon Vera",
+      "value": "Hit central Honshu as a Category 5 storm and killed an estimated 5,098 people, with most of the victims and damage around Nagoya",
+      "detail": "Another 38,921 people were injured and 1,533,000 were left homeless.",
+      "date": "1959-09-26",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "world.vietnam": {
+      "section": "world",
+      "label": "First Americans killed in action in Vietnam",
+      "value": "Charles Ovnand and Dale R. Buis were killed on July 8",
+      "detail": "The first large unit action of the war followed on September 26, when two companies of the ARVN's 23rd Division were ambushed by several hundred Viet Cong identified as the 2nd Liberation Battalion.",
+      "date": "1959-07-08",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Ben-Hur, $36,000,000, MGM",
+        "The Shaggy Dog, $9,600,000, Buena Vista",
+        "Operation Petticoat, $9,321,555, Universal",
+        "Some Like It Hot, $8,127,835, United Artists",
+        "Pillow Talk, $7,669,713, Universal"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Domestic rentals while the sentence above it describes the same ten films by box office gross in North America. Rio Bravo and The Nun's Story share eighth place on one line at $5,750,000 for Warner Bros.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_film"
+    },
+    "film.ben_hur": {
+      "section": "film",
+      "label": "Ben-Hur premieres",
+      "value": "William Wyler's film opened at Loew's State Theatre in New York, the most expensive film made to that point at a budget of $15,175,000",
+      "detail": "Principal photography had wrapped on January 7 with the last shots of the crucifixion scene at Cinecitta in Rome.",
+      "date": "1959-11-18",
+      "source": "https://en.wikipedia.org/wiki/1959_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Ben-Hur",
+      "detail": "Awarded the following spring at the 32nd Academy Awards, where it won 11 of its 12 nominations and broke the record of nine set the previous year by Gigi. William Wyler became the only person to have directed three Best Picture winners, after Mrs. Miniver in 1942 and The Best Years of Our Lives in 1946. The producer Sam Zimbalist received his award posthumously. The 1959 year page credits the film with 12 awards rather than 11.",
+      "source": "https://en.wikipedia.org/wiki/32nd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Charlton Heston, Ben-Hur",
+        "Best Actress, Simone Signoret, Room at the Top",
+        "Best Supporting Actor, Hugh Griffith, Ben-Hur",
+        "Best Supporting Actress, Shelley Winters, The Diary of Anne Frank"
+      ],
+      "detail": "Most of the stars stayed away, after an incident involving Jerry Lewis' staging of the closing number at the previous year's ceremony and a four-week actors' strike. The studios made their final pullout of support for the Academy during the year, Paramount asking why it should sponsor a show that sponsors only MGM's Ben-Hur.",
+      "source": "https://en.wikipedia.org/wiki/32nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The 400 Blows, directed by Francois Truffaut, France",
+        "Hiroshima Mon Amour, directed by Alain Resnais, France and Japan",
+        "Black Orpheus, directed by Marcel Camus, Brazil, France and Italy",
+        "Floating Weeds, directed by Yasujiro Ozu, Japan",
+        "Fires on the Plain, directed by Kon Ichikawa, Japan",
+        "Pickpocket, directed by Robert Bresson, France"
+      ],
+      "detail": "The 400 Blows opened the Cannes Film Festival on April 30 and brought international attention to the French New Wave. Black Orpheus took the Palme d'Or and the Academy Award for Best Foreign Language Film, entered by France. Claude Chabrol's Les Cousins took the Golden Bear at the ninth Berlin festival in July.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Sleeping Beauty opened in Beverly Hills on January 29 as Disney's first animated film shown in 70mm and six-track stereophonic sound, and The Big Fisherman was the first film released in Super Panavision 70 on August 4.",
+      "detail": "The battle of the smellies started on December 2 with the release of the documentary Behind the Great Wall in AromaRama, with scents pumped into the theatre during the film.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1959",
+      "value": [
+        "Gunsmoke, CBS, 40.3 rating",
+        "Wagon Train, NBC, 38.4",
+        "Have Gun Will Travel, CBS, 34.7",
+        "The Danny Thomas Show, CBS, 31.1",
+        "The Red Skelton Show, CBS, 30.8"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Father Knows Best and 77 Sunset Strip tied on 29.7 in sixth place, so the table has no seventh. Four of the top ten were westerns, the three above plus Wanted: Dead or Alive at nine.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1959%E2%80%9360"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Rawhide, CBS, January 9",
+        "Bonanza, NBC, September 15",
+        "The Many Loves of Dobie Gillis, CBS, September 29",
+        "The Twilight Zone, CBS, October 2",
+        "Dennis the Menace, CBS, October 4",
+        "The Untouchables, ABC, October 15"
+      ],
+      "detail": "Augie Doggie and Doggie Daddy and Snooper and Blabber went into syndication on September 19, and The Quick Draw McGraw Show on September 28.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_American_television"
+    },
+    "tv.wizard_of_oz": {
+      "section": "tv",
+      "label": "The Wizard of Oz on television",
+      "value": "Shown for the second time, three years after its first telecast, to a larger audience than that first outing, which spurred CBS to make it an annual tradition",
+      "date": "1959-12-13",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "tv.eyewitness_news": {
+      "section": "tv",
+      "label": "Eyewitness News",
+      "value": "KYW-TV in Cleveland became the first station in the United States to use the name for its newscasts",
+      "date": "1959-04-06",
+      "source": "https://en.wikipedia.org/wiki/1959_in_American_television"
+    },
+    "radio.closings": {
+      "section": "radio",
+      "label": "Network radio serials end",
+      "value": "CBS ended Our Gal Sunday, This Is Nora Drake, Backstage Wife and Road of Life on January 2, and The Kate Smith Show finished its network run on Mutual the same day",
+      "detail": "The Howard Miller Show ended on CBS on January 9 and NBC Bandstand ended on NBC on April 24.",
+      "date": "1959-01-02",
+      "source": "https://en.wikipedia.org/wiki/1959_in_radio"
+    },
+    "radio.day_the_music_died": {
+      "section": "radio",
+      "label": "The Day the Music Died",
+      "value": "A light aircraft crashed near Clear Lake, Iowa, killing the KTRM Beaumont deejay J. P. Richardson along with Buddy Holly, Ritchie Valens and the plane's pilot",
+      "date": "1959-02-03",
+      "source": "https://en.wikipedia.org/wiki/1959_in_radio"
+    },
+    "radio.debuts": {
+      "section": "radio",
+      "label": "New programmes and stations",
+      "value": "Karl Haas started Adventures in Good Music at WJR in Detroit, Pick of the Week was first broadcast on the BBC Home Service on April 3, and WTUL signed on at Tulane University on March 14",
+      "detail": "KROW 960 AM in San Francisco changed its call letters to KABL at 10 am on May 11. Polskie Radio broadcast Zofia Posmysz's drama Pasazerka z kabiny 45, written out of her time in wartime concentration camps.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_radio"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "The Battle of New Orleans, Johnny Horton",
+        "Mack the Knife, Bobby Darin",
+        "Personality, Lloyd Price",
+        "Venus, Frankie Avalon",
+        "Lonely Boy, Paul Anka"
+      ],
+      "detail": "The first year-end list drawn entirely from the Hot 100. Billboard published it in the issue dated December 14, compiled from the Hot 100 charts of January through November. The page's illustrations note that Elvis Presley, Frankie Avalon and Ricky Nelson each placed four songs on it.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1959"
+    },
+    "music.kind_of_blue": {
+      "section": "music",
+      "label": "Kind of Blue released",
+      "value": "The Miles Davis album came out in the United States",
+      "detail": "Recorded from March 2 to April 22 at the CBS 30th Street Studio in New York, opening with Davis' So What and including Blue in Green, written with Bill Evans.",
+      "date": "1959-08-17",
+      "source": "https://en.wikipedia.org/wiki/1959_in_music"
+    },
+    "music.motown": {
+      "section": "music",
+      "label": "Motown founded",
+      "value": "Berry Gordy started the label as Tamla in Detroit",
+      "date": "1959-01-12",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "Two Grammy ceremonies in one year",
+      "value": "The 1st Annual Grammy Awards were held in Los Angeles on May 4, and the 2nd on November 29 in Los Angeles and New York, the first Grammy ceremony to be televised",
+      "detail": "In May, Henry Mancini's The Music from Peter Gunn took Album of the Year and Domenico Modugno's Nel blu, dipinto di blu took Record and Song of the Year. In November, Frank Sinatra's Come Dance with Me! took Album of the Year, Bobby Darin's Mack the Knife took Record of the Year, Jimmy Driftwood's The Battle of New Orleans took Song of the Year, and Darin took Best New Artist. The American television page calls the November 29 broadcast the first ceremony rather than the second.",
+      "date": "1959-05-04",
+      "source": "https://en.wikipedia.org/wiki/1959_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "The fourth contest was staged at Cannes and won for the Netherlands by Een beetje, sung by Teddy Scholten",
+      "detail": "The 1959 year page gives the title as 'n Beetje and credits the music to Dick Schallies and the lyrics to Willy van Hemert. The first Melodifestivalen, the Swedish selection contest, had been held in Stockholm on January 29.",
+      "date": "1959-03-11",
+      "source": "https://en.wikipedia.org/wiki/1959_in_music"
+    },
+    "tech.luna_probes": {
+      "section": "tech",
+      "label": "The Luna probes",
+      "value": "Luna 1 became the first human-made object to reach escape velocity from Earth on January 2, Luna 2 the first to crash on the Moon on September 14, and Luna 3 sent back the first images of the far side of the Moon on October 7",
+      "detail": "Luna 1 was meant to crash-land on the Moon and instead became the first spacecraft to go into heliocentric orbit.",
+      "date": "1959-01-02",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "tech.satellites": {
+      "section": "tech",
+      "label": "American satellites",
+      "value": "Vanguard 2, the first weather satellite, went up on February 17 to measure cloud cover for the US Navy, Explorer 6 followed on August 7 and sent the first picture of Earth from orbit on August 14, and Explorer 7 went up on October 13",
+      "detail": "Pioneer 4 became the first American object to escape the dominance of Earth's gravity on March 3. A KH-1 Corona satellite, believed to be the first operational spy satellite, went up from Vandenberg on June 25 as the science mission Discoverer 4.",
+      "date": "1959-02-17",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "tech.mercury_seven": {
+      "section": "tech",
+      "label": "The Mercury Seven named",
+      "value": "NASA announced its selection of seven military pilots to become the first US astronauts",
+      "detail": "A Jupiter AM-18 rocket carried the primates Miss Baker and Miss Able from Cape Canaveral on May 28 along with living microorganisms and plant seeds, and their recovery made them the first living beings returned safely to Earth after a space flight.",
+      "date": "1959-04-09",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "tech.mosfet": {
+      "section": "tech",
+      "label": "The MOSFET invented",
+      "value": "Mohamed Atalla and Dawon Kahng built the metal-oxide-semiconductor field-effect transistor at Bell Labs",
+      "detail": "The year page dates it to November without a day.",
+      "date": "1959-11",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "tech.xerox_914": {
+      "section": "tech",
+      "label": "Xerox 914",
+      "value": "The first plain paper copier was introduced to the public",
+      "date": "1959-09-16",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "tech.barbie": {
+      "section": "tech",
+      "label": "Barbie",
+      "value": "Mattel's doll debuted in the United States",
+      "date": "1959-03-09",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.30 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.00 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two stars added to the flag inside eight months, Soviet probes reaching the Moon while American ones photographed the Earth from orbit, and rock and roll playing on without the singers who died in February."
+    },
+    "culture.guggenheim": {
+      "section": "culture",
+      "label": "Solomon R. Guggenheim Museum opens",
+      "value": "The museum of modern art designed by Frank Lloyd Wright opened to the public in New York City",
+      "detail": "Wright had died on April 9, six months before it opened.",
+      "date": "1959-10-21",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "culture.raisin_in_the_sun": {
+      "section": "culture",
+      "label": "A Raisin in the Sun opens on Broadway",
+      "value": "Lorraine Hansberry's play opened in New York City",
+      "date": "1959-03-11",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Salvatore Quasimodo",
+        "Peace, Philip Noel-Baker",
+        "Physics, Emilio Gino Segre and Owen Chamberlain",
+        "Chemistry, Jaroslav Heyrovsky",
+        "Physiology or Medicine, Severo Ochoa and Arthur Kornberg"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the Chicago White Sox four games to two, their second title",
+      "detail": "Larry Sherry of the Dodgers was named Series MVP. The San Francisco Giants had named their new stadium Candlestick Park on March 3.",
+      "date": "1959-10-08",
+      "source": "https://en.wikipedia.org/wiki/1959_in_the_United_States"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Baltimore Colts beat the New York Giants 31 to 16 at Memorial Stadium in Baltimore",
+      "detail": "Lamar Hunt founded the American Football League during the year, and the Boston Patriots were founded on November 22 by William H. Sullivan. The sports page dates the league's founding to August 14 and the US year page to August 22, so no date is given here.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_sports"
+    },
+    "sports.boxing": {
+      "section": "sports",
+      "label": "World heavyweight championship",
+      "value": "Ingemar Johansson stopped Floyd Patterson in the third round in New York City",
+      "detail": "Johansson was named Associated Press Male Athlete of the Year. Maria Bueno, who beat Darlene Hard for the Wimbledon women's singles title and Christine Truman for the American one, took the female award.",
+      "date": "1959-06-26",
+      "source": "https://en.wikipedia.org/wiki/1959_in_sports"
+    },
+    "sports.plante_mask": {
+      "section": "sports",
+      "label": "Jacques Plante puts on a mask",
+      "value": "The Montreal Canadiens goaltender was hit in the face by a flying puck and offered to return to play only on condition that he wear his goalie mask",
+      "detail": "His example soon led to the mask becoming standard equipment for goaltenders.",
+      "date": "1959-11-01",
+      "source": "https://en.wikipedia.org/wiki/1959_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Toronto Maple Leafs, four games to one",
+        "NBA Finals, Boston Celtics over the Minneapolis Lakers, four games to none",
+        "NCAA basketball, California over West Virginia, 71 to 70",
+        "European Cup, Real Madrid over Stade Reims, 2 to 0 at the Neckarstadion in Stuttgart",
+        "FA Cup, Nottingham Forest over Luton Town, 2 to 1 at Wembley",
+        "Grey Cup, Winnipeg Blue Bombers over the Hamilton Tiger-Cats, 21 to 7"
+      ],
+      "detail": "Lee Petty won the first Daytona 500 on February 22. Alex Olmedo took the Wimbledon and Australian men's singles titles and Jack Nicklaus the US Amateur in golf. France won its first outright Five Nations Championship. The third Pan American Games were held in Chicago, where the US sprinter Ray Norton won three gold medals in the sprints.",
+      "source": "https://en.wikipedia.org/wiki/1959_in_sports"
+    },
+    "deaths.holly": {
+      "section": "deaths",
+      "label": "Buddy Holly",
+      "value": "Died February 3 in a plane crash near Clear Lake, Iowa. Born 1936",
+      "detail": "American rock singer. Ritchie Valens, born 1941, and J. P. Richardson, the Big Bopper, born 1930, died in the same crash, along with the pilot Roger Peterson. Holly had recorded his last songs as acoustic demos in his New York apartment on January 22.",
+      "date": "1959-02-03",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "deaths.wright": {
+      "section": "deaths",
+      "label": "Frank Lloyd Wright",
+      "value": "Died April 9. Born 1867",
+      "detail": "American architect.",
+      "date": "1959-04-09",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "deaths.dulles": {
+      "section": "deaths",
+      "label": "John Foster Dulles",
+      "value": "Died May 24. Born 1888",
+      "detail": "52nd United States Secretary of State.",
+      "date": "1959-05-24",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "deaths.holiday": {
+      "section": "deaths",
+      "label": "Billie Holiday",
+      "value": "Died July 17. Born 1915",
+      "detail": "American singer.",
+      "date": "1959-07-17",
+      "source": "https://en.wikipedia.org/wiki/1959"
+    },
+    "deaths.flynn": {
+      "section": "deaths",
+      "label": "Errol Flynn",
+      "value": "Died October 14 of a heart attack in Vancouver, aged 50. Born 1909",
+      "detail": "Australian-born actor.",
+      "date": "1959-10-14",
+      "source": "https://en.wikipedia.org/wiki/1959_in_film"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1959. figures_basis is rentals: the box office table's column header reads Domestic rentals, while the sentence introducing the same table calls the figures box office gross in North America, and film.gross names both readings rather than reconciling them. Source disagreements labelled rather than resolved: the year page says Ben-Hur won a record 12 Academy Awards, while the film page and the 32nd Academy Awards page both say 11 wins from 12 nominations, so film.best_picture uses 11 and names the gap; the sports page dates the founding of the American Football League to August 14 and the US year page to August 22, so sports.nfl_championship carries no date for it; the music page calls the November 29 ceremony the 2nd Annual Grammy Awards and the first televised, while the American television page calls the same broadcast the 1st Annual, and music.grammys names both; the year page gives the winning Eurovision song as 'n Beetje and the music page as Een beetje, and music.eurovision uses the music page spelling and quotes the other; the year page says the Pan American Games boxing ran from August 27 and the US year page dates the games from August 28, so sports.champions gives no dates for them. No forward date for the 32nd Academy Awards ceremony, which fell in the following spring, so film.best_picture says only that. The Nielsen ranking is a season starting in the autumn of 1959 and running into the following spring, which tv.top_shows says without naming a second year. No film.ticket_price fact, because the movie ticket series has no value for 1959; the neighbouring 1958 file has one. tech.mosfet carries a month-only date because the year page and the US year page both give November with no day. This is the last year with a radio section, and the three radio facts take the whole of the cached radio page: the January closings, the Clear Lake crash written from the radio side as the death of a Beaumont deejay, and the new programmes and stations. Facts that draw a date from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.vietnam takes the July 8 deaths from the US year page and the September 26 ambush from the year page; pol.kitchen_debate takes the debate and the American tour from the US year page and the September 30 Beijing meeting from the year page; sports.world_series takes the date and result from the US year page and the Series MVP and Candlestick Park from the sports page; sports.champions takes the Stanley Cup, NBA, NCAA and Grey Cup results and the golf, tennis, rugby and Pan American Games lines from the sports page, and the European Cup and FA Cup results from the year page; tech.satellites takes Vanguard 2, the Explorers and Pioneer 4 from the year page and the Corona launch from the US year page; film.world_cinema takes the titles and the Cannes and Berlin prizes from the film page and the Best Foreign Language Film entry country from the 32nd Academy Awards page; deaths.holly takes the date and birth years from the year page and the January 22 demos from the music page; deaths.flynn takes the cause, the place and the age of 50 from the film page and the birth year from the year page, which is the only cached page that carries it. General knowledge rather than a claim from the cached pages, both of which come out if challenged: which of the top-rated programs count as westerns, in the tv.top_shows detail, where the four named are the ones the count rests on; and the claim in music.hot100_year_end that this is the first year-end list drawn entirely from the Hot 100, which rests on the chart having launched in August of the previous year, a fact carried with its own source in the 1958 file rather than in any page cached for 1959. The three artists with four songs each on that chart come from the page's image captions rather than its table, which is why the detail says so. Dropped for lack of a source in the cached pages: the television quiz show scandal and Charles Van Doren's testimony, which no cached page mentions at all. Dropped to keep section counts down, all of them sourced and available if the page is ever expanded: the Saint Lawrence Seaway opening to shipping on April 25 and its formal opening by Elizabeth II and Eisenhower on June 26; Charles de Gaulle's inauguration as first president of the French Fifth Republic on January 8; American Airlines starting the first US domestic jet service with a Boeing 707 between New York and Los Angeles on January 25; the TAT-2 transatlantic telephone cable going into operation on February 13; Gypsy: A Musical Fable opening on Broadway on May 21 with Ethel Merman; Your Hit Parade airing its last television episode on April 24; the Clutter family murders at Holcomb, Kansas on November 15; Republic Pictures releasing its last production on January 23 and Herbert J. Yates selling his controlling stake on July 1; Cecil B. DeMille's death on January 21. Texture material taken from the cached pages but not given its own fact: the Dyatlov Pass deaths; the Knox Mine disaster at Port Griffith; the Hans Hedtoft; American Airlines Flight 320; the Roseburg blast; the Hebgen Lake earthquake; the first Little Caesars restaurant and the first Strack and Van Til store; Panti-Legs; the Mini and the American tailfin peak; the Kumamoto University finding on Minamata disease; the Leakeys and the Olduvai Gorge skull; Singapore's self-government under Lee Kuan Yew; the SR.N1 crossing; the M1 opening; the Malpasset Dam collapse; Harvey Haddix's twelve perfect innings; Emperor Hirohito at Korakuen Stadium; the Jerry Lewis contract with Paramount; the first appearance of Asterix. Deaths carry a birth year rather than an age except for Errol Flynn, where the film page gives the age of 50 and the place outright. Names and titles are written in ASCII per the corpus convention, so Segre, Heyrovsky, Honshu, Francois Truffaut, Yasujiro Ozu, Cinecitta, Frejus, Bleriot, Asterix and Pasazerka z kabiny 45 lose their diacritics, and Have Gun Will Travel loses its dash."
+}

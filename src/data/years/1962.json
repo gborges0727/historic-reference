@@ -1,0 +1,485 @@
+{
+  "year": 1962,
+  "tier": "broadcast",
+  "headline": "Kennedy blockaded Cuba over Soviet missiles, Algeria won independence, and Telstar relayed live television",
+  "texture": [
+    "Ninety-three people died at Harmelen on January 8 in the worst rail disaster the Netherlands had known. A coal mine explosion at Luisenthal in the Saarland killed 299 on February 7, and storms and high tides drove the North Sea into the coast around Hamburg on February 17, killing more than 300. A triple-train crash at Mikawashima near Tokyo killed 160 on May 3. Air France Flight 007 overran the runway at Orly on June 3 and killed 130 of the 132 aboard, most of them civic and cultural leaders of Atlanta.",
+    "CBS ran the final episodes of Suspense and Yours Truly, Johnny Dollar on September 30, closing out the Golden Age of Radio. Frank Morris and the Anglin brothers got off Alcatraz on June 12, and nobody ever confirmed they reached shore. The Centralia mine fire was ignited in Pennsylvania on May 27. The Baltimore Steam Packet Company, the last overnight steamboat service in the country, went out of business on May 25. Marilyn Monroe sang Happy Birthday, Mr. President at Madison Square Garden on May 19, at a gala for Kennedy's forty-fifth birthday.",
+    "Yves Saint Laurent, a French designer, opened his own fashion house on January 15, the day Portugal walked out of the United Nations General Assembly over the debate on Angola. The Soviet government stripped Molotov, Kaganovich and Malenkov from every place name that carried them on January 27. Harold Macmillan sacked a third of his cabinet on July 13, which the press dubbed the Night of the Long Knives. Gunmen machine-gunned de Gaulle's car at Petit-Clamart on August 22. Slavery was abolished in Saudi Arabia in November and in Yemen at an unrecorded point in the year."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.cuban_missile_crisis",
+    "world.algeria",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.telstar",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "John F. Kennedy (D)",
+      "detail": "Lyndon B. Johnson was Vice President and Earl Warren was Chief Justice. The speakership sat vacant until January 10, when John William McCormack took it. Mike Mansfield was Senate majority leader and the 87th Congress was in session.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "pol.cuban_missile_crisis": {
+      "section": "politics",
+      "label": "Cuban Missile Crisis",
+      "value": "Kennedy was shown U-2 photographs of Soviet nuclear installations being built in Cuba, announced a naval blockade of the island in a televised address on October 22, and Khrushchev ordered the missile bases removed on October 28",
+      "detail": "The year page dates the start to October 16, when Kennedy was told, and calls it a twelve-day stand-off. The US year page dates the start to October 14, when the U-2 flight took the pictures, and its caption reads October 14 to 28. Kennedy agreed in a deal that was not made public to withdraw US missiles from Turkey, and ended the blockade on November 20. Vasily Arkhipov, executive officer of the Soviet submarine B-59, refused to launch nuclear torpedoes at the US Navy on October 27.",
+      "date": "1962-10-16",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "pol.ole_miss": {
+      "section": "politics",
+      "label": "James Meredith registers at the University of Mississippi",
+      "value": "The university's first black student was escorted in by federal marshals against official obstruction and violent segregationist protest, in what the year page calls the Ole Miss riot",
+      "detail": "The US year page's entry for the same day says only that he was escorted by federal marshals, spells the institution the university of Mississippi in lower case, and does not name the riot.",
+      "date": "1962-10-01",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court rulings",
+      "value": [
+        "Baker v. Carr, March 26, federal courts can order state legislatures to reapportion seats",
+        "Engel v. Vitale, June 25, mandatory prayers in public schools are unconstitutional",
+        "MANual Enterprises v. Day, June 25, photographs of nude men are not obscene"
+      ],
+      "detail": "The US year page files Engel and MANual Enterprises together under one June 25 heading reading Supreme Court rulings, and gives Baker v. Carr its own entry three months earlier.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "pol.cuba_embargo": {
+      "section": "politics",
+      "label": "US embargo against Cuba",
+      "value": "Announced on February 3 and in effect from February 7, prohibiting all US-related Cuban imports and exports",
+      "detail": "A Cuban military tribunal convicted 1,179 Bay of Pigs attackers on April 14. Cuba released the last 1,113 of them to the United States on December 24 in exchange for food worth $53 million.",
+      "date": "1962-02-03",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "pol.mansfield_vietnam": {
+      "section": "politics",
+      "label": "Mansfield reports back on Vietnam",
+      "value": "Senate majority leader Mike Mansfield became the first American official to make a pessimistic public comment on the war's progress, after a trip to Vietnam made at Kennedy's request",
+      "detail": "Flying Tiger Line Flight 739, a Lockheed L-1049H Super Constellation chartered by the Military Air Transport Service and carrying mainly US Army personnel bound for South Vietnam, had vanished over the western Pacific on March 16 with all 107 aboard, and no wreckage or bodies were ever found.",
+      "date": "1962-12-02",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "pol.nixon_california": {
+      "section": "politics",
+      "label": "Nixon loses the California governor's race",
+      "value": "Told reporters in his concession speech that this was his last press conference, and that you won't have Dick Nixon to kick around any more",
+      "detail": "The US year page files the loss and the speech under November 7, the day after the general election, which fell on the Tuesday after the first Monday in November.",
+      "date": "1962-11-07",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "world.algeria": {
+      "section": "world",
+      "label": "Algeria independent",
+      "value": "Became independent of France, following the Evian Accords signed at Evian-les-Bains on March 18 that ended the Algerian War",
+      "detail": "De Gaulle had called for independence on February 5, and the accords were adopted in a French referendum on April 8 by a 90 percent majority. A referendum in French Algeria on July 1 gave supporters a 99 percent majority, De Gaulle accepted the result the next day, and Algeria proclaimed independence on July 31 with Ahmed Ben Bella as first president. The last soldiers of the French Foreign Legion left on June 30. Around 20,000 Harkis, Muslim Algerians who had fought as auxiliaries on the French side, fled with their families to metropolitan France.",
+      "date": "1962-07-05",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries becoming independent",
+      "value": [
+        "Western Samoa, January 1, from New Zealand",
+        "Rwanda and Burundi, July 1, from Belgium",
+        "Jamaica, August 6, from the United Kingdom",
+        "Trinidad and Tobago, August 31, from the United Kingdom",
+        "Uganda, October 9, from the United Kingdom"
+      ],
+      "detail": "Jamaica was the first English-speaking sovereign country in the West Indies. The British West Indies Federation was wound up on May 31. Tanganyika became a republic within the Commonwealth on December 9 with Julius Nyerere as president, and Britain acknowledged Nyasaland's right to secede from the Central African Federation on December 19.",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "world.mandela_arrest": {
+      "section": "world",
+      "label": "Nelson Mandela arrested",
+      "value": "Taken by the South African government near Howick and charged with incitement to rebellion, then sentenced to imprisonment on November 7",
+      "detail": "The United Nations General Assembly passed a resolution condemning apartheid on November 6.",
+      "date": "1962-08-05",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "world.vatican_ii": {
+      "section": "world",
+      "label": "Second Vatican Council opens",
+      "value": "Pope John XXIII convened the first ecumenical council of the Roman Catholic Church in 92 years, and its first period closed on December 8",
+      "detail": "The office of the same pope had announced the excommunication of Fidel Castro on January 3, for preaching communism and interfering with Catholic churches in Cuba.",
+      "date": "1962-10-11",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "world.sino_indian_war": {
+      "section": "world",
+      "label": "Sino-Indian War",
+      "value": "A border dispute between India and the People's Republic of China erupted into fighting on October 20 and ended on November 21 with a Chinese victory, India surrendering Aksai Chin",
+      "detail": "Jawaharlal Nehru had been elected de facto Prime Minister of India for the fourth time on April 3.",
+      "date": "1962-10-20",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "world.peter_fechter": {
+      "section": "world",
+      "label": "Peter Fechter shot at the Berlin Wall",
+      "value": "East German border guards killed the 18-year-old as he tried to cross into West Berlin, and mass protests followed on the western side",
+      "detail": "Twelve East Germans had escaped to the West through a tunnel under the wall on May 5.",
+      "date": "1962-08-17",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "world.powers_abel": {
+      "section": "world",
+      "label": "Spy exchange in Berlin",
+      "value": "Captured American U-2 pilot Francis Gary Powers was exchanged for the captured Soviet spy Rudolf Abel",
+      "detail": "John Vassall, a former clerical officer in British naval intelligence, was sentenced to 18 years on October 22 after admitting he had passed secret material to the Soviet Union.",
+      "date": "1962-02-10",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Longest Day, $15,250,000, 20th Century Fox",
+        "Lawrence of Arabia, $15,000,000, Columbia",
+        "The Music Man, $8,000,000, Warner Bros.",
+        "That Touch of Mink, $7,942,000, Universal",
+        "Mutiny on the Bounty, $7,410,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The column header on the film page reads Domestic rentals. To Kill a Mockingbird was sixth at $7,112,000 for Universal, and the ninth place is a tie at $5,000,000 between Bon Voyage! from Buena Vista and The Interns from Columbia.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Lawrence of Arabia",
+      "detail": "Awarded the following spring at the 35th Academy Awards, where it took 10 nominations and 7 wins, more of both than any other film, and a second Best Director for David Lean. Peter O'Toole's Best Actor nomination for T. E. Lawrence was the first of eight across his career, none of which he won. To Kill a Mockingbird came second on nominations with 8 and won 3.",
+      "source": "https://en.wikipedia.org/wiki/35th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Gregory Peck, To Kill a Mockingbird",
+        "Best Actress, Anne Bancroft, The Miracle Worker",
+        "Best Supporting Actor, Ed Begley, Sweet Bird of Youth",
+        "Best Supporting Actress, Patty Duke, The Miracle Worker"
+      ],
+      "detail": "Arthur Penn's The Miracle Worker took two acting awards without a Best Picture nomination, which the Academy Awards page calls a rare distinction. Patty Duke was the youngest person to that point to receive an Oscar in a competitive category. Joan Crawford collected Bancroft's award for her because Bancroft had a Broadway commitment, and Bette Davis, nominated for What Ever Happened to Baby Jane? and beaten by Bancroft, was livid when Crawford took the stage.",
+      "source": "https://en.wikipedia.org/wiki/35th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Jules and Jim, directed by Francois Truffaut, France",
+        "Eclipse, directed by Michelangelo Antonioni, Italy and France",
+        "Knife in the Water, directed by Roman Polanski, Poland",
+        "The Exterminating Angel, directed by Luis Bunuel, Mexico",
+        "King Kong vs. Godzilla, directed by Ishiro Honda, Japan"
+      ],
+      "detail": "The Palme d'Or went to Keeper of Promises, directed by Anselmo Duarte of Brazil. Venice split the Golden Lion between Family Diary, directed by Valerio Zurlini, and My Name is Ivan, directed by Andrei Tarkovsky. Berlin gave the Golden Bear to A Kind of Loving, directed by John Schlesinger. Best Foreign Language Film went to Sundays and Cybele, directed by Serge Bourguignon of France. King Kong vs. Godzilla opened in Japan on August 11 as the first film in colour in either franchise.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_film"
+    },
+    "film.dr_no": {
+      "section": "film",
+      "label": "Dr. No opens",
+      "value": "The first James Bond film, and the film that started Sean Connery's career",
+      "date": "1962-10-05",
+      "source": "https://en.wikipedia.org/wiki/1962_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and in one city before another. Lawrence of Arabia premiered in London on December 10 and did not open in the United States for another six days",
+      "detail": "The London premiere carried Peter O'Toole, Omar Sharif, Alec Guinness, Jack Hawkins and Anthony Quinn. That a new film reached an audience in a cinema first and a television set much later is general knowledge rather than a claim on the cached pages.",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1962",
+      "value": [
+        "The Beverly Hillbillies, CBS, 36.0 rating",
+        "Candid Camera, CBS, 31.1",
+        "The Red Skelton Show, CBS, 31.1",
+        "Bonanza, NBC, 29.8",
+        "The Lucy Show, CBS, 29.8"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Candid Camera and The Red Skelton Show tied for second, and Bonanza and The Lucy Show tied for fourth. Gunsmoke was tenth at 27.0, nine rating points behind The Beverly Hillbillies, which had only debuted in September. CBS held eight of the ten, with Bonanza on NBC and Ben Casey on ABC the only others.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1962%E2%80%9363"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Jetsons, ABC, September 23",
+        "The Beverly Hillbillies, CBS, September 26",
+        "The Lucy Show, CBS, October 1",
+        "The Tonight Show Starring Johnny Carson, NBC, October 1",
+        "Combat!, ABC, October 2",
+        "McHale's Navy, ABC, October 11"
+      ],
+      "detail": "Tonight Starring Jack Paar had ended on NBC on March 30. Lucille Ball and Vivian Vance came back two years after I Love Lucy finished, with Vance the first person to play a divorcee on a weekly series.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_American_television"
+    },
+    "tv.cronkite": {
+      "section": "tv",
+      "label": "Walter Cronkite takes the CBS Evening News",
+      "value": "Succeeded Douglas Edwards as anchorman",
+      "date": "1962-04-16",
+      "source": "https://en.wikipedia.org/wiki/1962_in_American_television"
+    },
+    "tv.colour_and_uhf": {
+      "section": "tv",
+      "label": "Colour sets and the UHF band",
+      "value": "The All-Channel Receiver Act required a UHF tuner for channels 14 to 83 on every consumer television set alongside the VHF tuner, and Zenith marketed its first colour set, a 21-inch round screen",
+      "detail": "The Rose Bowl on January 1 was the first coast-to-coast live colour broadcast of a college football game in the United States, and NBC introduced the Laramie peacock before the midnight showing of Laramie that day. WLEX-TV in Lexington, Kentucky became the first UHF station to broadcast in colour on November 15.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Stranger on the Shore, Acker Bilk",
+        "I Can't Stop Loving You, Ray Charles",
+        "Mashed Potato Time, Dee Dee Sharp",
+        "Roses Are Red (My Love), Bobby Vinton",
+        "The Stripper, David Rose"
+      ],
+      "detail": "Billboard published the ranking in the issue dated December 29 and compiled it from Hot 100 charts for the issue dates January 1 through October 31, so nothing that charted in November or December is in it. Ray Charles and Dion each placed three songs. Chubby Checker's The Twist was ninth and Elvis Presley's Good Luck Charm twentieth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1962"
+    },
+    "music.beatles": {
+      "section": "music",
+      "label": "The Beatles get a contract and a drummer",
+      "value": [
+        "January 1, rejected at a Decca audition, which Decca gave to Brian Poole and the Tremeloes instead",
+        "January 24, Brian Epstein signed a contract to manage them",
+        "June 6, first session at EMI's Abbey Road Studios, after signing to Parlophone on May 9",
+        "August 16, Pete Best fired and replaced by Ringo Starr",
+        "October 5, Love Me Do released in the UK on Parlophone",
+        "October 17, first televised appearance, on Granada's local news programme People and Places"
+      ],
+      "detail": "The music page suggests Decca chose the Tremeloes because they were based in Dagenham, nearer London than Liverpool. The first Beatles line-up with Starr played Hulme Hall, Port Sunlight on August 18. John Lennon married Cynthia Powell at a register office in Mount Pleasant, Liverpool on August 23, with Paul McCartney as best man.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_music"
+    },
+    "music.dylan": {
+      "section": "music",
+      "label": "Bob Dylan's first year on record",
+      "value": "His debut album Bob Dylan came out in the United States on March 19, mostly folk standards, and he premiered Blowin' in the Wind at Gerde's Folk City in Greenwich Village on April 16 at the age of 20",
+      "detail": "Robert Allen Zimmerman legally changed his name to Bob Dylan in the New York Supreme Court on August 2, and Albert Grossman became his manager on August 20. He began recording The Freewheelin' Bob Dylan on April 24, and gave the first public performance of A Hard Rain's a-Gonna Fall at Carnegie Hall on September 22.",
+      "date": "1962-03-19",
+      "source": "https://en.wikipedia.org/wiki/1962_in_music"
+    },
+    "music.telstar_single": {
+      "section": "music",
+      "label": "Telstar by the Tornados",
+      "value": "An instrumental written and produced by Joe Meek for the English band, released in the UK on August 17, and on December 22 the first recording by a British group to reach the top spot on the Billboard chart",
+      "detail": "The music page calls it the Billboard Top 100 and describes it as a precursor to the British Invasion. Kenny Ball's Midnight in Moscow was 21st on the year-end Hot 100.",
+      "date": "1962-08-17",
+      "source": "https://en.wikipedia.org/wiki/1962_in_music"
+    },
+    "music.philharmonic_hall": {
+      "section": "music",
+      "label": "Philharmonic Hall opens at Lincoln Center",
+      "value": "The New York Philharmonic gave the opening concert in its new home under Leonard Bernstein",
+      "detail": "Bernstein had drawn a withering review from the New York Times critic Harold C. Schonberg on April 6, for announcing before a concert with the same orchestra that he disagreed with Glenn Gould's slow tempi in Brahms's Piano Concerto No. 1 and would conduct the piece anyway.",
+      "date": "1962-09-23",
+      "source": "https://en.wikipedia.org/wiki/1962_in_music"
+    },
+    "tech.glenn_orbit": {
+      "section": "tech",
+      "label": "John Glenn orbits the Earth",
+      "value": "Became the first American to do it, three times in 4 hours and 55 minutes aboard Friendship 7",
+      "detail": "Scott Carpenter orbited three times in Aurora 7 on May 24, and Walter Schirra six times in Sigma 7 on October 3. Robert M. White flew the X-15 to 314,750 feet on July 17, qualifying for USAF astronaut wings without a conventional spacecraft.",
+      "date": "1962-02-20",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "tech.telstar": {
+      "section": "tech",
+      "label": "Telstar launched",
+      "value": "AT&T put the world's first commercial communications satellite into orbit and activated it the next day, and it relayed the first live transatlantic television signal on July 23",
+      "detail": "Alouette 1, the first satellite built outside the United States and the Soviet Union, was launched by Canada from Vandenberg Air Force Base on September 29. Norway launched its first sounding rocket, Ferdinand 1, from Andoya on August 18.",
+      "date": "1962-07-10",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "tech.mariner_2": {
+      "section": "tech",
+      "label": "Mariner 2 reaches Venus",
+      "value": "Launched on August 27 and passed Venus on December 14, the first spacecraft to transmit data from another planet",
+      "detail": "Mariner 1 had flown erratically minutes after launch on July 22 and had to be destroyed. Ranger 3, launched on January 26 to study the Moon, missed it by 22,000 miles, and Ranger 4 crashed into the far side on April 26 without returning any scientific data.",
+      "date": "1962-12-14",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "tech.moon_speech": {
+      "section": "tech",
+      "label": "We choose to go to the Moon",
+      "value": "Kennedy used the phrase in a speech at Rice University and reaffirmed that the United States would put a man on the Moon before the end of the decade",
+      "date": "1962-09-12",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "tech.personal_computer_term": {
+      "section": "tech",
+      "label": "First recorded use of personal computer",
+      "value": "The phrase appears in a New York Times report of a speech by the computing pioneer John Mauchly, under the headline Pocket Computer May Replace Shopping List",
+      "date": "1962-11-03",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.31 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two weeks in October when a shooting war with the Soviet Union looked possible, and an autumn evening schedule where the biggest thing on television was a comedy about a family from the hills."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, John Steinbeck",
+        "Peace, Linus Pauling",
+        "Physics, Lev Landau",
+        "Chemistry, Max Perutz and John Kendrew",
+        "Physiology or Medicine, Francis Crick, James Watson and Maurice Wilkins"
+      ],
+      "detail": "The year page's list gives names only, with no dates and no citations for the work, except on the medicine entry, where it attaches an article about women scientists snubbed over the DNA discovery.",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "culture.retail": {
+      "section": "culture",
+      "label": "Chains that opened their first store",
+      "value": [
+        "Target, Roseville, Minnesota, May 1, by Dayton Hudson",
+        "Wal-Mart, Rogers, Arkansas, July 2",
+        "Kohl's, Brookfield, Wisconsin, September 12"
+      ],
+      "detail": "The US year page's summary says Walmart, Kmart and Target all opened their first stores this year, and gives dates and towns for two of the three. Taco Bell was founded by Glen Bell in Downey, California on March 21.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "culture.seattle_fair": {
+      "section": "culture",
+      "label": "Century 21 Exposition opens in Seattle",
+      "value": "The World's Fair opened, and the Space Needle opened to the public the same day",
+      "date": "1962-04-21",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "culture.ivan_denisovich": {
+      "section": "culture",
+      "label": "One Day in the Life of Ivan Denisovich published",
+      "value": "Novy Mir printed Aleksandr Solzhenitsyn's novella about life in the gulag, which the year page calls an unprecedented acknowledgement of the Soviet Union's Stalinist past",
+      "detail": "The year page files it under November with no day, so this fact carries a month and no date.",
+      "date": "1962-11",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the San Francisco Giants four games to three, taking Game 7 by 1 to 0 on October 16",
+      "detail": "Ralph Terry of New York was Series MVP. The National League had expanded to ten teams with the Houston Colt .45's and the New York Mets and stretched its schedule from 154 games to 162. The Giants and the Los Angeles Dodgers finished tied for the league lead, and the Giants won the pennant playoff two games to one.",
+      "date": "1962-10-16",
+      "source": "https://en.wikipedia.org/wiki/1962_in_sports"
+    },
+    "sports.robinson_hall_of_fame": {
+      "section": "sports",
+      "label": "Jackie Robinson enters the Baseball Hall of Fame",
+      "value": "Selected on January 23 in his first year of eligibility, and inducted on July 23 as the first African American in it",
+      "detail": "Bob Feller was selected on the same day, also in his first year of eligibility. The sports page gives the selection date and the US year page gives the induction date.",
+      "date": "1962-07-23",
+      "source": "https://en.wikipedia.org/wiki/1962_in_the_United_States"
+    },
+    "sports.chamberlain_100": {
+      "section": "sports",
+      "label": "Wilt Chamberlain scores 100 points",
+      "value": "Put up 100 for the Philadelphia Warriors against the New York Knicks at Hershey, Pennsylvania, breaking several NBA records",
+      "date": "1962-03-02",
+      "source": "https://en.wikipedia.org/wiki/1962_in_sports"
+    },
+    "sports.laver_grand_slam": {
+      "section": "sports",
+      "label": "Rod Laver wins the Grand Slam",
+      "value": "Took the Australian, French, Wimbledon and American men's singles championships, the second man in tennis history to win all four in one year",
+      "detail": "He beat Roy Emerson in the Australian, French and American finals and Martin Mulligan 6-2, 6-2, 6-1 at Wimbledon. Margaret Smith Court won the Australian, French and American women's singles, and Karen Hantze Susman won Wimbledon. Australia beat Mexico 5-0 in the Davis Cup at Milton Courts in Brisbane.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_sports"
+    },
+    "sports.boxing": {
+      "section": "sports",
+      "label": "Two title fights",
+      "value": [
+        "March 24, Emile Griffith regained the world welterweight championship by knocking out Benny Paret in the 12th round, and Paret died ten days later on April 3 of severe head injuries",
+        "September 25, Sonny Liston knocked out Floyd Patterson two minutes and six seconds into the first round to become world heavyweight champion"
+      ],
+      "detail": "The Paret fight went out on ABC's Fight of the Week from Madison Square Garden. Liston beat Patterson at Comiskey Park in Chicago.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "World Cup, Brazil 3, Czechoslovakia 1, in Chile on June 17",
+        "NFL Championship, Green Bay Packers 16, New York Giants 7, at Yankee Stadium",
+        "AFL Championship, Dallas Texans 20, Houston Oilers 17, in double overtime",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to three",
+        "Stanley Cup, Toronto Maple Leafs over the Chicago Black Hawks, four games to two",
+        "European Cup, Benfica 5, Real Madrid 3, Benfica's second",
+        "NCAA basketball, Cincinnati 71, Ohio State 59"
+      ],
+      "detail": "Maury Wills was Associated Press Male Athlete of the Year and the swimmer Dawn Fraser took the female award. Arnold Palmer won the Masters and the British Open and led the PGA Tour money list with $81,448, and Jack Nicklaus won the US Open. Ipswich Town won the Football League First Division and Tottenham Hotspur beat Burnley 3-1 in the FA Cup final.",
+      "source": "https://en.wikipedia.org/wiki/1962_in_sports"
+    },
+    "deaths.monroe": {
+      "section": "deaths",
+      "label": "Marilyn Monroe",
+      "value": "Died August 4. Born 1926",
+      "detail": "American actress, found dead at 36 at her home in Brentwood, Los Angeles from an overdose of sleeping pills and chloral hydrate, officially ruled a probable suicide. The year page's deaths list gives August 4 and its events entry gives August 5 as the day she was found.",
+      "date": "1962-08-04",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "deaths.faulkner": {
+      "section": "deaths",
+      "label": "William Faulkner",
+      "value": "Died July 6. Born 1897",
+      "detail": "American writer and Nobel laureate.",
+      "date": "1962-07-06",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "deaths.roosevelt": {
+      "section": "deaths",
+      "label": "Eleanor Roosevelt",
+      "value": "Died November 7. Born 1884",
+      "detail": "American politician, diplomat and activist, and a former First Lady of the United States.",
+      "date": "1962-11-07",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "deaths.bohr": {
+      "section": "deaths",
+      "label": "Niels Bohr",
+      "value": "Died November 18. Born 1885",
+      "detail": "Danish physicist and Nobel laureate.",
+      "date": "1962-11-18",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    },
+    "deaths.hesse": {
+      "section": "deaths",
+      "label": "Hermann Hesse",
+      "value": "Died August 9. Born 1877",
+      "detail": "German-born writer and Nobel laureate.",
+      "date": "1962-08-09",
+      "source": "https://en.wikipedia.org/wiki/1962"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1962. figures_basis is rentals: bo.mjs reports RENTALS and the film page's column header reads Domestic rentals, so the film.gross label and detail both say rentals and the detail says what a rentals figure is. No radio facts, because the radio window closes after 1959; the radio material that mattered this year, the final CBS episodes of Suspense and Yours Truly, Johnny Dollar on September 30 which the US year page calls the end of the Golden Age of Radio, is in texture instead. No film.ticket_price fact, because the movie ticket series has no value for this year. The Nielsen ranking is the season that started in the autumn of 1962 and ran into the following spring, which tv.top_shows says without naming a second year. Source disagreements labelled rather than resolved: the year page dates the start of the Cuban Missile Crisis to October 16, when Kennedy was shown the photographs, while the US year page dates it to October 14, when the U-2 flew, and pol.cuban_missile_crisis names both; the year page's deaths list dates Marilyn Monroe's death to August 4 and its own events entry dates the discovery of the body to August 5, and deaths.monroe uses August 4 and names the gap; the television page's events table gives September 25 for the start of the Spanish International Network and its network launches table gives September 29, so no fact was written for it. Date arithmetic checked rather than copied: the US year page files Nixon's California defeat and his last press conference remark under November 7, and the general election fell on November 6, the Tuesday after the first Monday in November, so the November 7 entry is the concession and not the vote, which pol.nixon_california states. The 35th Academy Awards were held the following spring and film.best_picture and film.acting_awards say so without naming the date or the year, both of which fall outside this file. General knowledge, stated as such where it appears: that an audience of this period saw a new film in a cinema first and on a television set much later, which film.how_people_watched flags in its detail. A first draft of world.algeria said independence ended 132 years of French rule, which none of the cached pages supports, and the figure came out. culture.mood is the only unsourced fact in the file, and its second half restates what tv.top_shows measures rather than adding a claim. Dropped for lack of a usable source: the 1962 United States midterm elections, which neither year page describes at all beyond Nixon's state race; Kmart's first store, named in the US year page summary with no town and no date while Target, Wal-Mart and Kohl's all get both, so culture.retail lists the three that have them and quotes the summary for the fourth; the Sugar Bowl result in the sports page, which belongs to the previous football season; the laser diode, which the year page lists among undated entries with no inventor, no place and no month. Dropped for space, and recorded here so a later pass can pick them up: the Mona Lisa assessed for insurance at US$100 million on December 14 before touring the United States, which the year page calls the highest insurance value for a painting in history, and which the Louvre declined to pay in favour of spending the premium on security; the New York City newspaper strike, which began on December 8 and ran 114 days across every major paper in the city; Warner Bros. buying the film rights to My Fair Lady in February for $5.5 million plus 47 and a quarter percent of the gross above $20 million; Darryl F. Zanuck replacing Spyros Skouras as president of 20th Century Fox on July 25; MCA finalising its merger with Decca and Universal on June 18; the fourth Grammy Awards of May 29, where Henry Mancini took five awards including Record and Song of the Year for Moon River, Judy Garland's Judy at Carnegie Hall won Album of the Year and Peter Nero won Best New Artist; the consecration of the new Coventry Cathedral on May 25 and the premiere of Benjamin Britten's War Requiem there on May 30; the interrobang, invented by the advertising man Martin K. Speckter with no date given. Texture material taken from the cached pages but given no fact of its own: the Harmelen rail disaster; the Luisenthal mine explosion; the North Sea flood around Hamburg; the Mikawashima train crash; Air France Flight 007 at Orly; the final CBS radio dramas; the Alcatraz escape attempt; the Centralia mine fire; the Baltimore Steam Packet Company; Marilyn Monroe at the Madison Square Garden gala; Yves Saint Laurent's fashion house; Portugal walking out of the General Assembly; the Soviet renaming of Molotov, Kaganovich and Malenkov place names; Macmillan's Night of the Long Knives; the Petit-Clamart attack on de Gaulle; the abolition of slavery in Saudi Arabia and Yemen. Three facts draw on more than one cached page, recorded here rather than left for a reader to find. sports.robinson_hall_of_fame takes the January 23 selection from the sports page and the July 23 induction from the US year page, and cites the US page. sports.champions takes every result from the sports page except the World Cup final date of June 17, which appears in the sports page only inside a citation title and plainly on the year page. film.how_people_watched cites the year page for the Lawrence of Arabia premiere because the film page's release calendar does not carry it. Deaths carry a birth year rather than an age except where the source gives an age outright, matching the neighbouring files. Names and titles are written in ASCII per the corpus convention, so Francois Truffaut, Luis Bunuel, Ishiro Honda, the Evian Accords, Andoya and Novy Mir lose their diacritics."
+}

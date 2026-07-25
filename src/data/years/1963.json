@@ -1,0 +1,493 @@
+{
+  "year": 1963,
+  "tier": "broadcast",
+  "headline": "Kennedy was shot in Dallas, a Birmingham church bombing killed four children, and Tereshkova orbited the Earth",
+  "texture": [
+    "Patsy Cline died on March 5 when her plane came down near Camden, Tennessee, along with Cowboy Copas, Hawkshaw Hawkins and the pilot Randy Hughes, on the way back from a benefit show in Kansas City. The submarine Thresher sank 220 miles east of Cape Cod on April 10 with 129 aboard. A landslide behind the Vajont Dam in northeast Italy pushed a wave over the top on October 9 and killed more than 2,000. A gas explosion at a Holiday on Ice show in Indianapolis killed 81 on October 31.",
+    "Police raided Liliesleaf Farm north of Johannesburg on July 11 and arrested a group of African National Congress leaders. Izvestia reported on July 30 that the British diplomat Kim Philby had been given asylum in Moscow. An undersea eruption off Iceland pushed a new island, Surtsey, above the water on November 14. Eleven German miners came out of a collapsed pit at Lengede on November 7 after fourteen days underground. A coal mine explosion at Miike in Japan killed 458 on November 9, the same day a triple train crash at Tsurumi in Yokohama killed 161.",
+    "Leonardo's Mona Lisa was unveiled at the National Gallery of Art in Washington on January 8. Harvey Gantt enrolled at Clemson University on January 28, and James Meredith graduated from the University of Mississippi on August 18. Alcatraz closed on March 21 and its last 27 prisoners were moved out on Robert Kennedy's order. The Kingsmen recorded Louie Louie in Portland, Oregon on April 6. Dr. No, the first James Bond film, reached American cinemas on May 8. Sam Cooke and his band were arrested on October 8 after trying to register at a whites-only motel in Louisiana.",
+    "Doctor Who began on BBC TV on November 23, the day after the shooting in Dallas. Kennedy was buried at Arlington National Cemetery on November 25 with schools across the country closed, and Johnson set up the Warren Commission on November 29. Frank Sinatra Jr. was kidnapped at Harrah's Lake Tahoe on December 8. Chuck Yeager ejected from an NF-104A on December 10 after it went out of control at 108,700 feet, the first emergency ejection made in a full pressure suit."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.kennedy_assassination",
+    "pol.march_on_washington",
+    "world.tereshkova",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "John F. Kennedy (D) until November 22, then Lyndon B. Johnson (D)",
+      "detail": "Johnson had been Vice President, and that office stayed vacant from November 22. Earl Warren was Chief Justice, John William McCormack was Speaker of the House and Mike Mansfield was Senate majority leader. The 87th Congress sat until January 3 and the 88th from that date.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "pol.kennedy_assassination": {
+      "section": "politics",
+      "label": "Kennedy assassinated in Dallas",
+      "value": "Shot at 12:30 CST riding in a motorcade through Dealey Plaza and pronounced dead at Parkland Memorial Hospital about thirty minutes later. Texas governor John Connally, in the same car, was wounded and recovered",
+      "detail": "The date was checked against the dedicated article rather than copied from the year page. Both put it on November 22, and the dedicated article names the day as a Friday, which the calendar bears out. The year page gives Lee Harvey Oswald as the shooter and the 12:30 CST time; the dedicated article adds Dealey Plaza, the Texas School Book Depository and the half hour to the pronouncement of death. Oswald shot a Dallas policeman, J. D. Tippit, shortly afterwards and was arrested about seventy minutes after the first shots.",
+      "date": "1963-11-22",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy"
+    },
+    "pol.johnson_sworn_in": {
+      "section": "politics",
+      "label": "Johnson sworn in as the 36th president",
+      "value": "Took the oath at 2:38 pm CST aboard Air Force One at Dallas Love Field, two hours and eight minutes after the shooting, from federal district judge Sarah T. Hughes",
+      "detail": "The first time a woman administered the presidential oath and the only time it was administered on an aircraft. Twenty-seven people crowded into a stateroom twelve feet by fifteen, with the aircraft disconnected from external power so it could take off promptly, and Johnson swore on a missal from Kennedy's Air Force One bedroom that had been mistaken for a Bible. The US year page gives no time and its photo caption says two hours after the assassination, so the 2:38 pm figure comes from the Warren Commission report quoted in the dedicated article.",
+      "date": "1963-11-22",
+      "source": "https://en.wikipedia.org/wiki/First_inauguration_of_Lyndon_B._Johnson"
+    },
+    "pol.oswald_shot": {
+      "section": "politics",
+      "label": "Lee Harvey Oswald shot dead by Jack Ruby",
+      "value": "Killed in Dallas two days after his arrest, on live national television",
+      "detail": "His funeral was held on November 25, the same day as Kennedy's.",
+      "date": "1963-11-24",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "pol.wallace_schoolhouse_door": {
+      "section": "politics",
+      "label": "Wallace in the schoolhouse door, and Kennedy's Civil Rights Address",
+      "value": "Alabama governor George Wallace blocked the door of the University of Alabama against integration, then stepped aside and let James Hood and Vivian Malone enrol, and Kennedy delivered a Civil Rights Address the same day promising a civil rights bill",
+      "detail": "Wallace had become governor on January 14 and used his inaugural speech to declare segregation now, segregation tomorrow, and segregation forever. Kennedy's speech asked for the kind of equality of treatment that we would want for ourselves.",
+      "date": "1963-06-11",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "pol.birmingham_campaign": {
+      "section": "politics",
+      "label": "Birmingham campaign",
+      "value": "Southern Christian Leadership Conference volunteers opened it with a sit-in on April 3, Martin Luther King Jr. was arrested on April 12 for parading without a permit, and thousands of African Americans, many of them children, were arrested on May 2",
+      "detail": "King issued his Letter from Birmingham Jail on April 16 and posted bail on April 20. Public Safety Commissioner Eugene Bull Connor turned fire hoses and police dogs on the May demonstrators.",
+      "date": "1963-04-03",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "pol.medgar_evers": {
+      "section": "politics",
+      "label": "Medgar Evers assassinated",
+      "value": "The civil rights activist was shot in Jackson, Mississippi by the white supremacist Byron De La Beckwith",
+      "date": "1963-06-12",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "pol.march_on_washington": {
+      "section": "politics",
+      "label": "March on Washington for Jobs and Freedom",
+      "value": "Martin Luther King Jr. delivered his I Have a Dream speech from the steps of the Lincoln Memorial to an audience of at least 250,000",
+      "detail": "The largest protest in American history to that point. The Detroit Walk to Freedom had drawn a crowd of roughly 125,000 on June 23. Malcolm X gave his Message to the Grass Roots speech in Detroit on November 10.",
+      "date": "1963-08-28",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "pol.sixteenth_street_bombing": {
+      "section": "politics",
+      "label": "16th Street Baptist Church bombing",
+      "value": "A bomb at the church in Birmingham, Alabama killed four children and injured 22",
+      "detail": "The three cached pages describe the dead three ways. The year page's event line gives the number only, its lead caption says four girls, and the US year page says four children.",
+      "date": "1963-09-15",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "world.buddhist_crisis": {
+      "section": "world",
+      "label": "Buddhist crisis in South Vietnam",
+      "value": "The monk Thich Quang Duc burned himself to death in Saigon on June 11 in protest at the treatment of Buddhists under Ngo Dinh Diem",
+      "detail": "The Army of the Republic of Vietnam had fired on Buddhists in Hue on May 8 who defied a ban on flying the Buddhist flag on Vesak, killing nine, after Diem allowed the Vatican flag to be flown for his brother Archbishop Ngo Dinh Thuc. Troops poured chemicals on protesters in Hue on June 3, injuring 67. Special forces loyal to Diem's brother Ngo Dinh Nhu vandalised pagodas across the country on August 21, arresting thousands, and in the wake of those raids the Kennedy administration told the US embassy in Saigon to look for alternative leadership.",
+      "date": "1963-06-11",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.diem_overthrown": {
+      "section": "world",
+      "label": "Ngo Dinh Diem overthrown and killed",
+      "value": "The first president of South Vietnam was arrested and assassinated in a coup, and his brother Ngo Dinh Nhu was assassinated the same day",
+      "detail": "Coup leader General Duong Van Minh took over as leader of South Vietnam on November 6. Johnson confirmed on November 24 that the United States intended to go on supporting South Vietnam militarily and economically.",
+      "date": "1963-11-02",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.test_ban_treaty": {
+      "section": "world",
+      "label": "Partial Nuclear Test Ban Treaty",
+      "value": "The United States, the United Kingdom and the Soviet Union signed it on August 5, the US Senate ratified it on September 24, and it took effect on October 10",
+      "detail": "The treaty banned nuclear weapon tests in the atmosphere, in outer space and under water.",
+      "date": "1963-08-05",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.tereshkova": {
+      "section": "world",
+      "label": "First woman in space",
+      "value": "Vostok 6 carried the Soviet cosmonaut Valentina Tereshkova into orbit, and she returned to Earth on June 19, landing in the Soviet Union",
+      "date": "1963-06-16",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.common_market_veto": {
+      "section": "world",
+      "label": "De Gaulle vetoes British entry to the Common Market",
+      "value": "The French president blocked the United Kingdom's entry into the European Common Market, a week after France and West Germany signed the Elysee Treaty on January 22",
+      "detail": "The European Court of Justice ruled in Van Gend en Loos v Nederlandse Administratie der Belastingen on February 5, establishing the principle of direct effect in European Community law.",
+      "date": "1963-01-29",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.pope_paul_vi": {
+      "section": "world",
+      "label": "Paul VI becomes pope",
+      "value": "Giovanni Battista Montini succeeded John XXIII as the 262nd pope",
+      "detail": "The second period of the Second Vatican Council opened in Rome on September 29 and closed on December 4.",
+      "date": "1963-06-21",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.malaysia": {
+      "section": "world",
+      "label": "Malaysia formed",
+      "value": "The Federation of Malaya merged with the British crown colonies of Singapore, North Borneo, renamed Sabah, and Sarawak",
+      "detail": "Rioters burned down the British embassy in Jakarta on September 18 in protest at the new federation.",
+      "date": "1963-09-16",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.kenya_zanzibar": {
+      "section": "world",
+      "label": "Kenya and Zanzibar independent",
+      "value": "Zanzibar left the United Kingdom on December 10 as a constitutional monarchy under Sultan Jamshid bin Abdullah, and Kenya followed on December 12 with Jomo Kenyatta as prime minister",
+      "detail": "Nigeria became a republic under its first republican constitution on October 2, the Organisation of African Unity was established at Addis Ababa on May 25, and the Federation of Rhodesia and Nyasaland dissolved on December 31.",
+      "date": "1963-12-10",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "world.hurricane_flora": {
+      "section": "world",
+      "label": "Hurricane Flora",
+      "value": "The storm crossed Hispaniola and Cuba and killed nearly 7,000 people",
+      "detail": "The year page calls it one of the worst Atlantic storms in history.",
+      "date": "1963-10-04",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Cleopatra, $26,000,000, 20th Century Fox",
+        "How the West Was Won, $20,932,883, MGM",
+        "It's a Mad, Mad, Mad, Mad World, $20,800,000, United Artists",
+        "Tom Jones, $17,070,000, United Artists",
+        "Irma la Douce, $11,921,784, United Artists"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Domestic rentals. The film page says Cleopatra was the only case of a film taking the highest figure of a year while still losing money, its production costs having nearly bankrupted Twentieth Century Fox.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Tom Jones, produced by Tony Richardson for Woodfall and released by United Artists-Lopert as a British film",
+      "detail": "Awarded the following spring at the 36th Academy Awards, where Richardson also won Best Director. Tom Jones led the field with ten nominations to Cleopatra's nine, and both won four awards. Diane Cilento, Edith Evans and Joyce Redman were all nominated for Best Supporting Actress for it and none won; with Albert Finney and Hugh Griffith also nominated, the film tied the record of five acting nominations without an acting win set by Peyton Place at the 30th Academy Awards.",
+      "source": "https://en.wikipedia.org/wiki/36th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Sidney Poitier, Lilies of the Field",
+        "Best Actress, Patricia Neal, Hud",
+        "Best Supporting Actor, Melvyn Douglas, Hud",
+        "Best Supporting Actress, Margaret Rutherford, The V.I.P.s"
+      ],
+      "detail": "Poitier's win was the first competitive Oscar taken by a Black man, and he was the only acting winner present at the ceremony. Sammy Davis Jr. was handed the wrong envelope and read out John Addison for Tom Jones under the wrong music category, said he would tell the NAACP about it, then read the right name, Andre Previn for Irma la Douce. Patricia Neal won for a part the page puts at under 22 minutes of screen time.",
+      "source": "https://en.wikipedia.org/wiki/36th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "8 1/2 (Otto e mezzo), directed by Federico Fellini, Italy",
+        "The Leopard (Il Gattopardo), directed by Luchino Visconti, Italy",
+        "High and Low, directed by Akira Kurosawa, Japan",
+        "Contempt (Le mepris), directed by Jean-Luc Godard, France",
+        "The Silence (Tystnaden), written and directed by Ingmar Bergman, Sweden"
+      ],
+      "detail": "8 1/2 took the Academy Award for Best Foreign Language Film, won two Oscars in all, and opened in the United States on February 13. The Leopard won the Palme d'Or at Cannes, Hands Over the City by Francesco Rosi took the Golden Lion at Venice, and Il diavolo by Gian Luigi Polidoro took the Golden Bear at Berlin. High and Low opened in the United States on March 1.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Cleopatra premiered at the Rivoli Theatre in New York City on June 12 and It's a Mad, Mad, Mad, Mad World premiered on November 7.",
+      "detail": "Joseph Vogel resigned as president of MGM on January 9 and Robert O'Brien replaced him. How the West Was Won premiered on February 20 and became MGM's biggest moneymaker since Ben-Hur. Walt Disney's The Sword in the Stone premiered on December 25.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$0.86",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1963",
+      "value": [
+        "The Beverly Hillbillies, CBS, 39.1 rating",
+        "Bonanza, NBC, 36.9",
+        "The Dick Van Dyke Show, CBS, 33.3",
+        "Petticoat Junction, CBS, 30.3",
+        "The Andy Griffith Show, CBS, 29.4"
+      ],
+      "detail": "Nielsen ranks by season, so this covers the season that opened in the autumn and ran into the following spring. CBS took every place in the top fifteen except Bonanza in second. The Virginian at seventeenth was the next western after Bonanza, and Gunsmoke had fallen to twentieth at 23.5.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1963%E2%80%9364"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "General Hospital, ABC, April 1",
+        "The Outer Limits, ABC, September 16",
+        "The Fugitive, ABC, September 17",
+        "Petticoat Junction, CBS, September 24",
+        "The Judy Garland Show, CBS, September 29",
+        "My Favorite Martian, CBS, September 29"
+      ],
+      "detail": "The Doctors began on NBC the same day as General Hospital, and Mutual of Omaha's Wild Kingdom on January 6.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_American_television"
+    },
+    "tv.assassination_coverage": {
+      "section": "tv",
+      "label": "Networks clear the schedule for the assassination",
+      "value": "All three American networks pre-empted regular programming for four days from November 22, with CBS News breaking into that day's episode of As the World Turns",
+      "detail": "The bulletins and the funeral procession went out through the Relay 1 satellite, the first television broadcasts to cross the Pacific. The television page says four days of pre-emptions while the US year page says three days of coverage and four days of shops and businesses shut. ABC put out a hastily arranged programme on November 24, A Tribute to John F. Kennedy from the Arts.",
+      "date": "1963-11-22",
+      "source": "https://en.wikipedia.org/wiki/1963_in_American_television"
+    },
+    "tv.news_half_hour": {
+      "section": "tv",
+      "label": "The evening news doubles in length",
+      "value": "The CBS Evening News went from 15 minutes to 30, the first half-hour weeknight news broadcast on an American network, and The Huntley-Brinkley Report on NBC followed a week later",
+      "detail": "For the first time, most Americans said they got more of their news from television than from newspapers. ABC News began using its own camera crews from October 1 rather than buying news film from outside.",
+      "date": "1963-09-02",
+      "source": "https://en.wikipedia.org/wiki/1963_in_American_television"
+    },
+    "tv.instant_replay": {
+      "section": "tv",
+      "label": "Instant replay",
+      "value": "The CBS Sports director Tony Verna used the first replay system running on videotape rather than film, during CBS's live broadcast of the Army-Navy game",
+      "date": "1963-12-07",
+      "source": "https://en.wikipedia.org/wiki/1963_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end top singles",
+      "value": [
+        "Surfin' U.S.A., The Beach Boys",
+        "The End of the World, Skeeter Davis",
+        "Rhythm of the Rain, The Cascades",
+        "He's So Fine, The Chiffons",
+        "Blue Velvet, Bobby Vinton"
+      ],
+      "detail": "Billboard's year-end Hot 100, published in the issue of December 28. Little Stevie Wonder was seventh with Fingertips Part 2, Kyu Sakamoto tenth with Sukiyaki, sung in Japanese, and Peter, Paul and Mary took twelfth and thirteenth with Puff, the Magic Dragon and Blowin' in the Wind. The Beach Boys had two songs on the list.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1963"
+    },
+    "music.beatles": {
+      "section": "music",
+      "label": "The Beatles hold the British album chart all year",
+      "value": "Please Please Me came out in the United Kingdom on March 22, reached the top of the UK Albums Chart on May 11, and held it for thirty unbroken weeks until With the Beatles, released on November 22, replaced it on November 30",
+      "detail": "The single Please Please Me had gone to number one on February 16, From Me To You on May 2, She Loves You on September 12 and I Want To Hold Your Hand on December 12. The Daily Mirror used the word Beatlemania on October 15 in a report on the previous night's concert at Cheltenham, and a Scottish promoter later claimed to have coined it a week earlier. The group played the Cavern Club in Liverpool for the last time on August 3.",
+      "date": "1963-03-22",
+      "source": "https://en.wikipedia.org/wiki/1963_in_music"
+    },
+    "music.dylan": {
+      "section": "music",
+      "label": "The Freewheelin' Bob Dylan released",
+      "value": "Columbia Records put out Dylan's second album, whose lead song Blowin' in the Wind came out as a single by Peter, Paul and Mary in June and by Dylan himself in August",
+      "date": "1963-05-27",
+      "source": "https://en.wikipedia.org/wiki/1963_in_music"
+    },
+    "music.rolling_stones": {
+      "section": "music",
+      "label": "The Rolling Stones sign a manager and release a single",
+      "value": "Andrew Loog Oldham, aged nineteen, signed a contract with the band on April 29 after seeing them at the Crawdaddy Club in London the previous day, and their first single, a cover of Chuck Berry's Come On, came out in the United Kingdom on June 7 and reached number 21",
+      "date": "1963-04-29",
+      "source": "https://en.wikipedia.org/wiki/1963_in_music"
+    },
+    "music.compact_cassette": {
+      "section": "music",
+      "label": "Philips introduces the cassette",
+      "value": "Shown at the Berlin Funkausstellung, intended for dictation and voice recording rather than music",
+      "detail": "No date is given here because the sources disagree. The music page dates the introduction to August 30 and calls the product the Musicassette; the year page dates it to August 28 and calls it the Compact Cassette. The Berlin venue appears only on the music page, which spells it Funkaustellung, and the dictation purpose only on the year page.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_music"
+    },
+    "tech.mercury_ends": {
+      "section": "tech",
+      "label": "The Mercury program ends",
+      "value": "NASA launched Gordon Cooper on Mercury-Atlas 9 on May 15, the last flight, and the cancellation of Mercury-Atlas 10 on June 13 ended American crewed spaceflight under the program",
+      "detail": "NASA Administrator James E. Webb told Congress on June 12 that the program was complete. The US year page names the two missions Mercury 9 and Mercury 10 instead.",
+      "date": "1963-05-15",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "tech.syncom": {
+      "section": "tech",
+      "label": "First geostationary satellite",
+      "value": "NASA launched Syncom 2",
+      "detail": "The TAT-3 transatlantic communications cable also went into service during the year, undated on the year page.",
+      "date": "1963-07-26",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "tech.hotline": {
+      "section": "tech",
+      "label": "Moscow to Washington hotline",
+      "value": "Kennedy inaugurated a direct teleprinter link between the two capitals",
+      "detail": "Authorized by a memorandum of understanding signed at Geneva on June 20 by representatives of the Soviet Union and the United States. The year page calls it officially the Direct Communications Link, unofficially the red telephone, and in fact a teleprinter link.",
+      "date": "1963-08-30",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "tech.zip_codes": {
+      "section": "tech",
+      "label": "ZIP codes introduced",
+      "value": "The United States Postal Service put them into use",
+      "date": "1963-07-01",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "tech.push_button_telephone": {
+      "section": "tech",
+      "label": "First push-button telephone",
+      "value": "Made available to AT&T customers in the United States",
+      "date": "1963-11-18",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.30 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two hours between one president and the next, fire hoses turned on schoolchildren in Alabama in the spring and a bomb in an Alabama church in the autumn, and every set in the country tuned to the same funeral in November."
+    },
+    "culture.feminine_mystique": {
+      "section": "culture",
+      "label": "The Feminine Mystique published",
+      "value": "Betty Friedan's book came out",
+      "detail": "The US year page credits it with reawakening the women's movement in the United States as women's organisations and consciousness-raising groups spread. The Presidential Commission on the Status of Women issued its final reports to Kennedy on October 1.",
+      "date": "1963-02-19",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "culture.iron_man": {
+      "section": "culture",
+      "label": "Iron Man's first appearance",
+      "value": "The character debuted in Marvel Comics's Tales of Suspense number 39, cover-dated March",
+      "detail": "The US year page gives only the month, not a day.",
+      "date": "1963-03",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "culture.great_train_robbery": {
+      "section": "culture",
+      "label": "The Great Train Robbery",
+      "value": "Took place in Buckinghamshire, England",
+      "date": "1963-08-08",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Giorgos Seferis",
+        "Peace, the International Committee of the Red Cross and the League of Red Cross Societies",
+        "Physics, Eugene Wigner, Maria Goeppert-Mayer and J. Hans D. Jensen",
+        "Chemistry, Karl Ziegler and Giulio Natta",
+        "Physiology or Medicine, John Carew Eccles, Alan Lloyd Hodgkin and Andrew Huxley"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the New York Yankees four games to none, their third title",
+      "detail": "Sandy Koufax was the series MVP and Associated Press Male Athlete of the Year.",
+      "date": "1963-10-06",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NFL Championship, Chicago Bears 14, New York Giants 10, at Wrigley Field",
+        "Stanley Cup, Toronto Maple Leafs over the Detroit Red Wings, four games to one",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to two",
+        "NCAA basketball, Loyola of Illinois over Cincinnati, 60 to 58",
+        "FA Cup, Manchester United over Leicester City, 3 to 1",
+        "Heisman Trophy, Roger Staubach of Navy"
+      ],
+      "detail": "Sonny Liston kept the world heavyweight title on July 22 by knocking out Floyd Patterson in the first round of their Las Vegas rematch. Jack Nicklaus won the Masters and the PGA Championship, Mickey Wright was Associated Press Female Athlete of the Year, and Pete Rozelle was Sports Illustrated Sportsman of the Year. The first Bundesliga matches were played on August 24, replacing the Oberliga at the top of West German football.",
+      "source": "https://en.wikipedia.org/wiki/1963_in_sports"
+    },
+    "sports.pro_football_hof": {
+      "section": "sports",
+      "label": "Pro Football Hall of Fame opens",
+      "value": "Opened at Canton, Ohio with 17 charter members, whose names had been announced on January 29",
+      "date": "1963-09-07",
+      "source": "https://en.wikipedia.org/wiki/1963_in_sports"
+    },
+    "sports.wendell_scott": {
+      "section": "sports",
+      "label": "Wendell Scott wins a NASCAR race",
+      "value": "The first win by an African-American driver, at Speedway Park",
+      "date": "1963-12-01",
+      "source": "https://en.wikipedia.org/wiki/1963_in_the_United_States"
+    },
+    "deaths.frost": {
+      "section": "deaths",
+      "label": "Robert Frost",
+      "value": "Died January 29. Born 1874",
+      "detail": "American poet.",
+      "date": "1963-01-29",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "deaths.plath": {
+      "section": "deaths",
+      "label": "Sylvia Plath",
+      "value": "Died February 11. Born 1932",
+      "detail": "American poet and novelist.",
+      "date": "1963-02-11",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "deaths.john_xxiii": {
+      "section": "deaths",
+      "label": "Pope John XXIII",
+      "value": "Died June 3. Born 1881",
+      "detail": "Pope, who had issued his final encyclical Pacem in terris on April 11, the first papal encyclical addressed to all men of good will rather than to Roman Catholics only.",
+      "date": "1963-06-03",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "deaths.piaf": {
+      "section": "deaths",
+      "label": "Edith Piaf",
+      "value": "Died October 10. Born 1915",
+      "detail": "French singer and actress.",
+      "date": "1963-10-10",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "deaths.huxley": {
+      "section": "deaths",
+      "label": "Aldous Huxley",
+      "value": "Died November 22. Born 1894",
+      "detail": "English-born novelist, who wrote Brave New World.",
+      "date": "1963-11-22",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    },
+    "deaths.lewis": {
+      "section": "deaths",
+      "label": "C. S. Lewis",
+      "value": "Died November 22. Born 1898",
+      "detail": "Irish-born British critic, novelist and Christian apologist, who wrote The Chronicles of Narnia.",
+      "date": "1963-11-22",
+      "source": "https://en.wikipedia.org/wiki/1963"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1963. figures_basis is rentals: the box office table's column header reads Rank, Title, Distributor, Domestic rentals, checked with bo.mjs rather than assumed from the era. Two facts cite a dedicated article instead of a year page, because the brief's date-check rule applies to the assassination and the swearing-in. pol.kennedy_assassination cites https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy, which puts the shooting on Friday, November 22 at 12:30 CST and adds Dealey Plaza, the Texas School Book Depository and the half hour to the pronouncement of death; the year pages agree on the date and give none of the rest, so there is no disagreement to name, only a gap. pol.johnson_sworn_in cites https://en.wikipedia.org/wiki/First_inauguration_of_Lyndon_B._Johnson for the 2:38 pm CST oath, Sarah T. Hughes, Dallas Love Field and the missal, none of which the US year page carries; that page has only a photo caption reading two hours after the assassination against the dedicated article's two hours and eight minutes, and the fact uses the dedicated article and says so. No radio fact, because the radio window closes after 1959; the radio material of the year that mattered, the wall-to-wall assassination coverage, is a television fact instead. The Nielsen ranking is a season that began in the autumn of 1963 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved: the compact cassette is August 30 and called the Musicassette on the music page and August 28 and called the Compact Cassette on the year page, so music.compact_cassette carries no date and names both; the Patsy Cline crash is a flight from Kansas City, Missouri on the year page and a benefit in Kansas City, Kansas on the US year page, so the texture says only Kansas City; the 16th Street Baptist Church dead are a bare four on the year page's event line, four girls in that page's lead caption and four children on the US year page; the assassination pre-emptions are four days on the television page and three days on the US year page, with the US page separately giving four days of shops and businesses closed; the last two Mercury missions are Mercury-Atlas 9 and Mercury-Atlas 10 on the year page and Mercury 9 and Mercury 10 on the US year page. Facts drawing on more than one cached page, recorded here rather than left for a reader to notice: pol.march_on_washington cites the year page for the 250,000 figure and the largest-protest line, and takes the Detroit Walk to Freedom from the US year page; sports.world_series cites the US year page for the sweep, the date and the third title, and takes the Koufax MVP and Athlete of the Year lines from the sports page; sports.champions cites the sports page and takes the Bundesliga line from the year page, which is the only page that says the league replaced the Oberliga. Kennedy's Civil Rights Address of June 11 shares a fact with the Alabama schoolhouse-door standoff because the US year page lists them under the same day; the fact states both without claiming the speech was a response to the standoff, which the page does not say. Dropped for lack of a usable source, a settled one, or a page in common with the fact it would sit in: the 35th Academy Awards ceremony of April 8, which belongs to the previous year of film and would put a second Best Picture on the page; the nomination announcement date for the 36th Academy Awards, which falls in the following year; the AFL Championship, whose game was played in the following January; Ivan Sutherland's Sketchpad, Harvey Ball's smiley face, the first Porsche 911 and the abolition of slavery in Dubai, all undated on the year page; the founding of Lamborghini on October 30; the opening of the Arecibo Observatory on November 1; the cancellation of the X-20 Dyna-Soar on December 10, which is on the US year page while the Mercury fact it would sit under cites the year page; the Skopje earthquake of July 26 and the death sentences passed in Paris on March 4 over the plot against de Gaulle, both cut rather than parked in the detail of an unrelated fact; Gideon v. Wainwright of March 18 and Abington School District v. Schempp of June 17; the 5th Annual Grammy Awards of May 15; the deaths of Jean Cocteau on October 11, William Carlos Williams on March 4, Georges Braque on August 31, Dinah Washington on December 14 and Paul Hindemith on December 28; the Vajont Dam toll, which the year page gives only as over 2,000. Texture material taken from the cached pages but not given its own fact: the Patsy Cline crash and the deaths of Cowboy Copas, Hawkshaw Hawkins and Randy Hughes; the loss of the Thresher; the Vajont Dam landslide; the Indiana State Fairgrounds Coliseum explosion; the Liliesleaf Farm raid; Kim Philby's asylum; Surtsey; the Lengede rescue; the Miike mine explosion and the Tsurumi rail crash; the Mona Lisa at the National Gallery of Art; Harvey Gantt at Clemson and James Meredith's graduation; the closing of Alcatraz; the Kingsmen recording Louie Louie; the American release of Dr. No; the arrest of Sam Cooke; the premiere of Doctor Who; Kennedy's funeral and the establishment of the Warren Commission; the kidnapping of Frank Sinatra Jr.; Chuck Yeager's ejection. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first and on television later, which film.how_people_watched implies without stating. Names and titles are written in ASCII per the corpus convention, so Thich Quang Duc, Ngo Dinh Diem, Ngo Dinh Nhu, Ngo Dinh Thuc, Duong Van Minh, Hue, Xa Loi, the Elysee Treaty, Le mepris and Edith Piaf lose their diacritics, and 8 1/2 is written out because the fraction glyph is not ASCII. The music page spells the cassette's Berlin venue Funkaustellung; music.compact_cassette writes Funkausstellung and records the page's spelling in its detail rather than correcting it silently. Deaths carry a birth year rather than an age because the year page gives only the year. This file runs 56 facts across 10 sections, above the 40 to 52 the brief asks for, because 1963 carries both the assassination sequence and a full year of civil rights events. Politics runs to 9 facts and world to 9 against the roughly 7 the brief suggests. World at 9 is inside what 1945, 1946 and 1952 already do, and 1954 and 1956 already run 56 and 58 facts, so the overage is a stretch of the guidance rather than a departure from the corpus."
+}

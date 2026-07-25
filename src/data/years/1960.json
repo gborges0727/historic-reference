@@ -1,0 +1,500 @@
+{
+  "year": 1960,
+  "tier": "broadcast",
+  "headline": "Kennedy beat Nixon after four televised debates, the Belgian Congo and Nigeria left European rule, and a laser ran",
+  "texture": [
+    "The revised US-Japan security treaty was signed in Washington on January 19. Protesters mobbed the car carrying Eisenhower's press secretary James Hagerty outside Haneda Airport on June 10 and a Marine helicopter lifted him out. Zengakuren students tried to storm the Diet compound on June 15, and Michiko Kanba, a Tokyo University student, was killed in the fighting with police. The treaty was ratified automatically on June 19, Nobusuke Kishi announced his resignation four days later, and striking miners at the Miike coal mine went back to work on December 1 after 312 days out.",
+    "The Coalbrook mining disaster in South Africa killed 435 miners on January 21. The Agadir earthquake flattened that Moroccan city on February 29, leaving 12,000 dead and as many injured. Two trains met head-on at Pardubice in Czechoslovakia on November 14, killing 118. A United Air Lines DC-8 and a TWA Constellation collided over Staten Island on December 16, killing all 128 people aboard the two aircraft and six on the ground. Fire swept the unfinished carrier USS Constellation at the Brooklyn Navy Yard on December 19 and killed 50 workers.",
+    "Joseph Kittinger stepped out of a balloon over New Mexico on August 16 at about 102,800 feet, fell 16 miles before opening his parachute and reached roughly 614 miles per hour. The USS Triton finished the first underwater circumnavigation of the Earth on May 10 under Captain Edward L. Beach. The USS Seadragon surfaced at the North Pole on August 25 and the crew played softball on the ice. Sirimavo Bandaranaike was elected prime minister of Ceylon on July 20, the first woman anywhere elected to head a government.",
+    "Alberto Korda photographed Che Guevara in Havana on March 5. The first Playboy Club opened in Chicago on February 29, and A. J. Liebling printed his law in The New Yorker on May 4, that freedom of the press is guaranteed only to those who own one. Wilt Chamberlain pulled down 55 rebounds in one game on November 24. The Bluebell Railway opened in southern England on August 7 as the first preserved standard gauge passenger line, and the first Domino's Pizza opened in Ypsilanti, Michigan on December 9."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.us_election",
+    "world.congo",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R)",
+      "detail": "Richard Nixon was Vice President and Earl Warren was Chief Justice. Sam Rayburn held the Speaker's chair and Lyndon B. Johnson led the Senate majority in the 86th Congress.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "pol.us_election": {
+      "section": "politics",
+      "label": "Kennedy elected president",
+      "value": "John F. Kennedy beat Richard Nixon by 303 electoral votes to 219, on 34,220,984 popular votes to 34,108,157",
+      "detail": "Turnout was 63.8 percent. This was the first presidential election in which all fifty states took part and the last in which the District of Columbia did not, and the first in which the Twenty-second Amendment made a sitting president ineligible for a third term. One Oklahoma elector voted for Harry F. Byrd rather than Nixon. Alabama voters filled eleven elector seats in separate races, only five of them with electors pledged to Kennedy, which is why the national popular vote totals are contested. The date was checked because a federal election falls on the Tuesday after the first Monday in November: November 1 was a Tuesday, so the first Monday was November 7 and November 8 is correct. The election's own article and the two year pages agree on it.",
+      "date": "1960-11-08",
+      "source": "https://en.wikipedia.org/wiki/1960_United_States_presidential_election"
+    },
+    "pol.greensboro": {
+      "section": "politics",
+      "label": "Greensboro sit-ins",
+      "value": "Four black students from North Carolina Agricultural and Technical State University sat down at the segregated Woolworth's lunch counter in Greensboro, were refused service and were allowed to stay",
+      "detail": "The Nashville sit-ins began on February 13. The same Greensboro counter served a meal to its first black customer on July 25, six months after the four sat down.",
+      "date": "1960-02-01",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "pol.civil_rights_act": {
+      "section": "politics",
+      "label": "Civil Rights Act of 1960",
+      "value": "Eisenhower signed it into law",
+      "date": "1960-05-06",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "pol.school_desegregation": {
+      "section": "politics",
+      "label": "New Orleans school desegregation",
+      "value": "Ruby Bridges and the McDonogh Three became the first black children to attend an all-white elementary school in Louisiana",
+      "detail": "The US Supreme Court upheld a federal court ruling on December 12 that Louisiana's segregation laws were unconstitutional.",
+      "date": "1960-11-14",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "pol.boynton": {
+      "section": "politics",
+      "label": "Boynton v. Virginia",
+      "value": "The US Supreme Court held segregation in public transit to be illegal",
+      "date": "1960-12-05",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "pol.census": {
+      "section": "politics",
+      "label": "The census count",
+      "value": "179,323,175 residents on April 1, the day enumeration began",
+      "detail": "Everyone from Latin America was recorded as white, including black people from the Dominican Republic, European whites from Argentina and Mexicans who resembled Native Americans.",
+      "date": "1960-04-01",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "world.congo": {
+      "section": "world",
+      "label": "Congo independence and the crisis after it",
+      "value": "The Belgian Congo became independent from Belgium as the Republic of the Congo, and Moise Tshombe declared the province of Katanga independent on July 11 with Belgian help",
+      "detail": "Joseph Kasa-Vubu had been elected the first President on June 24. The UN Security Council voted on July 14 to send troops to oversee the Belgian withdrawal. Kasa-Vubu dismissed Patrice Lumumba's entire government and put him under house arrest on September 5, Colonel Joseph Mobutu took power by military coup on September 14, and Lumumba was arrested by Mobutu's troops on December 1. Antoine Gizenga declared himself premier on December 14 and Belgium threatened to leave the United Nations on November 14 over criticism of its Congo policy.",
+      "date": "1960-06-30",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "world.decolonisation": {
+      "section": "world",
+      "label": "Territories that became independent",
+      "value": [
+        "Cameroon, from France, January 1",
+        "Togo, from France, April 27",
+        "Madagascar, from France, June 26",
+        "Somali Republic, formed on July 1 when Italian Somaliland left Italy and united with British Somaliland, independent since June 26",
+        "Dahomey, from France, August 1",
+        "Cyprus, from the United Kingdom, August 16",
+        "Nigeria, from the United Kingdom, October 1",
+        "Mauritania, from France, November 28"
+      ],
+      "detail": "France also gave up Niger on August 3, Upper Volta on August 5, the Ivory Coast on August 7, Chad on August 11, Ubangi-Shari as the Central African Republic on August 13, the Middle Congo as the Republic of Congo on August 15 and Gabon on August 17. The Mali Federation of the Sudanese Republic and Senegal became independent on June 20, Senegal broke away on August 20, and what remained declared itself the Republic of Mali on September 22. Nnamdi Azikiwe became Nigeria's first native-born Governor General and Nigeria joined the United Nations as its 99th member on October 7. Ghana became a republic on July 1 with Kwame Nkrumah as its first President.",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "world.sharpeville": {
+      "section": "world",
+      "label": "Sharpeville massacre",
+      "value": "South African police shot dead more than 69 black protesters and injured 300",
+      "detail": "Harold Macmillan had given the Wind of Change speech to the South African Parliament in Cape Town on February 3, having first delivered it to little publicity in Accra on January 10. A white gunman, David Pratt, shot and seriously wounded Prime Minister Hendrik Verwoerd in Johannesburg on April 9.",
+      "date": "1960-03-21",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "world.u2_incident": {
+      "section": "world",
+      "label": "U-2 shot down over the Soviet Union",
+      "value": "Soviet surface-to-air missiles brought down an American Lockheed U-2 and its CIA pilot, Francis Gary Powers, was captured",
+      "detail": "Khrushchev demanded an apology from Eisenhower on May 16, which aborted the summit meeting scheduled for Paris. Powers went on trial in Moscow on August 17 and was sentenced to ten years for espionage on August 19. A Soviet MiG-19 shot down a six-man RB-47 over the Barents Sea north of Murmansk on July 1, killing four of the crew and leaving two in a Soviet prison.",
+      "date": "1960-05-01",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "world.valdivia_earthquake": {
+      "section": "world",
+      "label": "Valdivia earthquake",
+      "value": "A magnitude 9.5 earthquake in Chile, the most powerful ever recorded, ruptured from Arauco to the Chiloe Archipelago and sent a destructive tsunami across the Pacific basin",
+      "detail": "Maximum Mercalli intensity XII. The magnitude 5.7 Agadir earthquake had struck coastal Morocco on February 29 at intensity X.",
+      "date": "1960-05-22",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "world.opec": {
+      "section": "world",
+      "label": "OPEC founded",
+      "value": "Iran, Iraq, Kuwait, Saudi Arabia and Venezuela established the Organization of Petroleum Exporting Countries",
+      "detail": "Mexico took its own energy supply into state hands a week later, when President Adolfo Lopez Mateos nationalised the country's electricity system on September 21.",
+      "date": "1960-09-14",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Spartacus, $14,000,000, Universal",
+        "Psycho, $9,100,000, Paramount",
+        "Exodus, $8,500,000, United Artists",
+        "Swiss Family Robinson, $8,100,000, Buena Vista",
+        "The Alamo, $7,900,000, United Artists"
+      ],
+      "detail": "The column header on the source table reads Domestic rentals, so these are the distributor's share and roughly half of what a gross figure would state. The same page's table of the highest-grossing films outside North America is topped in Italy, France and West Germany by Ben-Hur, which it links as a film of the year before, on 15,400,000 admissions in Italy, 13,826,124 in France and 13,525,000 in West Germany. Mughal-e-Azam, which premiered at the Maratha Mandir in Mumbai on August 5 and cost more to make than any Indian film before it, took 100,000,000 admissions and about $23,110,000 in India.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Apartment",
+      "detail": "Awarded the following spring at the 33rd Academy Awards, where it won five awards from ten nominations, more of each than any other film. Billy Wilder took Best Director and shared Best Story and Screenplay Written Directly for the Screen with I. A. L. Diamond. This was the first Academy Awards ceremony carried on ABC and the first with a red carpet laid into the theatre. Hayley Mills received the Academy Juvenile Award for Pollyanna, the last time it was given, after which young actors competed in the ordinary categories.",
+      "source": "https://en.wikipedia.org/wiki/33rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Burt Lancaster, Elmer Gantry",
+        "Best Actress, Elizabeth Taylor, BUtterfield 8",
+        "Best Supporting Actor, Peter Ustinov, Spartacus",
+        "Best Supporting Actress, Shirley Jones, Elmer Gantry"
+      ],
+      "detail": "Taylor had nearly died of pneumonia shortly before the ceremony and was widely taken to have won out of sympathy rather than for the performance. Gary Cooper was given an Honorary Award and was too ill to attend, so James Stewart accepted for him and said enough in his speech that newspapers ran the headline Gary Cooper has cancer the next day. Jack Lemmon and Shirley MacLaine were both nominated for The Apartment and neither won, and Janet Leigh was nominated for Psycho.",
+      "source": "https://en.wikipedia.org/wiki/33rd_Academy_Awards"
+    },
+    "film.other_awards": {
+      "section": "film",
+      "label": "The Academy Awards ceremony held this year",
+      "value": "Ben-Hur won eleven awards at the 32nd Academy Awards from twelve nominations, a record, including Best Picture and a third Best Director for William Wyler",
+      "detail": "Bob Hope hosted, at the RKO Pantages Theatre in Hollywood. Eleven broke the record Gigi had set the previous year, and Wyler had not won since 1946.",
+      "date": "1960-04-04",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "La Dolce Vita, directed by Federico Fellini, Italy, February 5",
+        "Breathless, directed by Jean-Luc Godard, France, March 17",
+        "Peeping Tom, directed by Michael Powell, United Kingdom, May 16",
+        "L'Avventura, directed by Michelangelo Antonioni, Italy, June 29",
+        "Rocco and His Brothers, directed by Luchino Visconti, Italy and France, September 6",
+        "The Bad Sleep Well, directed by Akira Kurosawa, Japan, September 19"
+      ],
+      "detail": "Ingmar Bergman's The Virgin Spring took the Academy Award for Best Foreign Language Film and shared the Golden Globe in that category with La Verite and The Trials of Oscar Wilde. Saturday Night and Sunday Morning, released on October 27, was the first of the British social-realist wave.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_film"
+    },
+    "film.blacklist": {
+      "section": "film",
+      "label": "Dalton Trumbo credited under his own name",
+      "value": "One of the Hollywood Ten took full screenwriting credit on Spartacus, released October 6, and on Exodus, released December 16",
+      "date": "1960-10-06",
+      "source": "https://en.wikipedia.org/wiki/1960_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. What television showed was old, and MGM's The Wizard of Oz was rerun on CBS on December 11 only a year after its previous telecast, which started the practice of running it every year.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1960",
+      "value": [
+        "Gunsmoke, CBS, 37.3 rating",
+        "Wagon Train, NBC, 34.2",
+        "Have Gun Will Travel, CBS, 30.9",
+        "The Andy Griffith Show, CBS, 27.8",
+        "The Real McCoys, ABC, 27.7"
+      ],
+      "detail": "The ranking covers one Nielsen season, which starts in the autumn and runs to the following spring. Westerns took four of the top six, the three above plus Rawhide at six. The Flintstones came eighteenth at 24.3 in its first season and Bonanza seventeenth at 24.8.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1960%E2%80%9361"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Checkmate, CBS, September 17",
+        "My Three Sons, ABC, September 29",
+        "The Flintstones, ABC, September 30",
+        "The Andy Griffith Show, CBS, October 3",
+        "Route 66, CBS, October 7",
+        "The Bugs Bunny Show, ABC, October 11"
+      ],
+      "detail": "The Flintstones was the first Hanna-Barbera television episode to run half an hour. Howdy Doody ended on September 24 after thirteen seasons, with Clarabell the Clown breaking his silence to say goodbye kids. Lucille Ball filed for divorce from Desi Arnaz on March 2, ending a twenty-year marriage and the I Love Lucy franchise on CBS.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_American_television"
+    },
+    "tv.debates": {
+      "section": "tv",
+      "label": "The first televised presidential debate",
+      "value": "Kennedy and Nixon debated live on television, and a network used a split screen for the first time",
+      "detail": "Three more debates followed, on October 7 with Frank McGee in the chair, on October 13, and on October 21 with Quincy Howe. The television page says the candidates' behaviour and appearance during the first debate may have altered the outcome of the election.",
+      "date": "1960-09-26",
+      "source": "https://en.wikipedia.org/wiki/1960_in_American_television"
+    },
+    "tv.olympics": {
+      "section": "tv",
+      "label": "Both Olympics on American television",
+      "value": "CBS paid $60,000 for exclusive rights to the Squaw Valley winter games and put out 31 hours across 11 days from February 18, hosted by Walter Cronkite, the first Winter Olympics broadcast in the United States",
+      "detail": "The mix was alpine skiing, figure skating, ice hockey, speed skating and ski jumping. CBS also carried the Rome summer games from August 25 to September 11, hosted by a young Jim McKay, the first Summer Olympics broadcast in the United States or anywhere in North America.",
+      "date": "1960-02-18",
+      "source": "https://en.wikipedia.org/wiki/1960_in_American_television"
+    },
+    "tv.sets_in_homes": {
+      "section": "tv",
+      "label": "Homes with a television set",
+      "value": "Nearly 90 percent of homes in the United States had at least one",
+      "source": "https://en.wikipedia.org/wiki/1960_in_American_television"
+    },
+    "tv.videotape": {
+      "section": "tv",
+      "label": "Peter Pan on videotape",
+      "value": "Mary Martin's Peter Pan went out on NBC as a two-hour special of its own rather than part of an anthology series, and on videotape rather than live, so the network could repeat it without restaging it",
+      "detail": "Nearly all the adult actors played their original Broadway roles. Every one of the original children had outgrown theirs and was replaced.",
+      "date": "1960-12-08",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Theme from A Summer Place, Percy Faith",
+        "He'll Have to Go, Jim Reeves",
+        "Cathy's Clown, The Everly Brothers",
+        "Running Bear, Johnny Preston",
+        "Teen Angel, Mark Dinning"
+      ],
+      "detail": "Billboard's year-end Hot 100. Brenda Lee was sixth with I'm Sorry, Elvis Presley seventh with It's Now or Never and ninth with Stuck on You, Jimmy Jones eighth with Handy Man and Chubby Checker tenth with The Twist. Bobby Rydell, Brenda Lee, Connie Francis and the Everly Brothers each placed four songs on the chart.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1960"
+    },
+    "music.presley_army": {
+      "section": "music",
+      "label": "Presley out of the Army",
+      "value": "Flew home from Germany after two years of military duty and was honorably discharged",
+      "detail": "The sources disagree on the day he landed. The US year page dates his return to March 3 and his honorable discharge to March 5. The music page dates the return itself to March 5, and adds that he stopped at Glasgow Prestwick Airport on March 2, his only time in the United Kingdom. He had been promoted to sergeant on January 14, recorded Are You Lonesome Tonight? for the first time on April 4, and was back in Hollywood on April 20 to film G.I. Blues.",
+      "date": "1960-03",
+      "source": "https://en.wikipedia.org/wiki/1960_in_music"
+    },
+    "music.beatles": {
+      "section": "music",
+      "label": "The Beatles in Hamburg",
+      "value": "Made their debut under that name at the Indra club in Hamburg, opening a 48-night residency, with John Lennon, Paul McCartney, George Harrison, Stu Sutcliffe on bass and Pete Best on drums",
+      "detail": "Stuart Sutcliffe, an art student, had joined Johnny and the Moondogs in January and suggested they rename themselves the Beatals, which settled on the Beatles in August. From May 20 to 28 the group toured Scotland uncredited as the Silver Beetles, backing Johnny Gentle, with Tommy Moore on drums.",
+      "date": "1960-08-17",
+      "source": "https://en.wikipedia.org/wiki/1960_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Giant Steps, John Coltrane",
+        "Sketches of Spain, Miles Davis",
+        "Joan Baez, Joan Baez",
+        "Elvis Is Back!, Elvis Presley",
+        "At Last!, Etta James",
+        "Portrait in Jazz, Bill Evans Trio",
+        "Change of the Century, Ornette Coleman"
+      ],
+      "detail": "Also Nice 'n' Easy from Frank Sinatra, Rockin' at the Hops from Chuck Berry, Bo Diddley Is a Gunslinger, Ella in Berlin: Mack the Knife, and three Johnny Cash records including Ride This Train.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_music"
+    },
+    "music.awards": {
+      "section": "music",
+      "label": "Music awards",
+      "value": [
+        "Grammy Record of the Year, Theme From A Summer Place, Percy Faith",
+        "Grammy Album of the Year, The Button-Down Mind of Bob Newhart, Bob Newhart",
+        "Grammy Song of the Year, Theme From Exodus, written by Ernest Gold",
+        "Pulitzer Prize for Music, Elliott Carter, String Quartet No. 2",
+        "Eurovision Song Contest, Tom Pillibi, sung for France by Jacqueline Boyer"
+      ],
+      "detail": "Boyer was eighteen, and the fifth Eurovision was held at the Royal Festival Hall in London on March 29, with music by Andre Popp and lyrics by Pierre Cour. The Grammy categories are listed as the music page gives them, which is without a ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "Pop singles in stereo",
+      "value": "RCA Victor announced that it would release every pop single in mono and stereo simultaneously, the first record company to do so, starting with Presley's Stuck on You",
+      "detail": "The National Association of Broadcasters had answered the payola scandal on January 25 by threatening to fine any disc jockey who took money to play a particular record.",
+      "date": "1960-04-04",
+      "source": "https://en.wikipedia.org/wiki/1960_in_music"
+    },
+    "tech.laser": {
+      "section": "tech",
+      "label": "The first working laser",
+      "value": "Theodore Maiman operated it",
+      "detail": "Arthur Leonard Schawlow and Charles Hard Townes had received the first patent for a laser on March 22, before anyone had built one that worked.",
+      "date": "1960-05-16",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "tech.contraceptive_pill": {
+      "section": "tech",
+      "label": "The pill approved",
+      "value": "The Food and Drug Administration announced that it would approve Searle's Enovid for birth control, making it the first approved oral contraceptive",
+      "date": "1960-05-09",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "tech.tiros": {
+      "section": "tech",
+      "label": "First weather satellite",
+      "value": "The United States launched TIROS-1",
+      "detail": "The navigation satellite Transit I-b went up on April 13. SOLRAD 1 launched on June 22 alongside Transit 2A, the first successful American reconnaissance satellite over the Soviet Union, and returned the first real-time X-ray and ultraviolet observations of the Sun. Eisenhower dedicated the Marshall Space Flight Center at Huntsville, Alabama on September 8, NASA having activated it on July 1.",
+      "date": "1960-04-01",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "tech.trieste": {
+      "section": "tech",
+      "label": "The bottom of the Mariana Trench",
+      "value": "Jacques Piccard and Don Walsh took the bathyscaphe Trieste to the lowest point on Earth",
+      "detail": "No day is given because the sources disagree on both the date and the depth. The year page dates the dive to January 22 and gives 10,911 metres. The US year page dates it to January 23 and gives 10,916 metres.",
+      "date": "1960-01",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "tech.sputnik_5": {
+      "section": "tech",
+      "label": "Sputnik 5 and the dogs",
+      "value": "The Soviet Union launched the satellite carrying the dogs Belka and Strelka, 40 mice, two rats and an assortment of plants, and recovered every animal alive the next day",
+      "detail": "The next pair had no such luck. A Soviet satellite launched on December 1 carrying the dogs Pcholka and Mushka burned up during re-entry after a malfunction.",
+      "date": "1960-08-19",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.31 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.00 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Four students refusing to leave a lunch counter in February, new flags going up across Africa all summer, and two candidates arguing on television in the autumn."
+    },
+    "culture.mockingbird": {
+      "section": "culture",
+      "label": "To Kill a Mockingbird published",
+      "value": "Harper Lee released the novel",
+      "date": "1960-07-11",
+      "source": "https://en.wikipedia.org/wiki/1960_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Physics, Donald Arthur Glaser",
+        "Chemistry, Willard Libby",
+        "Physiology or Medicine, Frank Macfarlane Burnet and Peter Medawar",
+        "Literature, Saint-John Perse",
+        "Peace, Albert Lutuli"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "culture.walk_of_fame": {
+      "section": "culture",
+      "label": "Hollywood Walk of Fame established",
+      "value": "Set up on February 8",
+      "detail": "Who got the first star is unsettled. The US year page says Joanne Woodward received the first star on February 9 and then says the director Stanley Kramer received the first star on March 28, both on the same page.",
+      "date": "1960-02-08",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "culture.brasilia": {
+      "section": "culture",
+      "label": "Brazil moves its capital",
+      "value": "The Federal District shifted from Rio de Janeiro to the new city of Brasilia in the highlands, and the district Rio had sat in became the State of Guanabara",
+      "date": "1960-04-21",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Pittsburgh Pirates beat the New York Yankees four games to three",
+      "detail": "Bill Mazeroski ended Game 7 at Forbes Field on October 13 with a home run, the first player to finish a World Series that way and still the only one to do it in a deciding seventh game. The Series MVP was the Yankees' Bobby Richardson.",
+      "date": "1960-10-13",
+      "source": "https://en.wikipedia.org/wiki/1960_in_sports"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics in Rome",
+      "value": "Opened on August 25, with the Soviet Union taking the most medals at 103 and the most golds at 43",
+      "detail": "Abebe Bikila of Ethiopia won the marathon on September 10, running barefoot in a world time, the first person from Sub-Saharan Africa to take Olympic gold. Cassius Clay won the light-heavyweight boxing gold on September 5 and his first professional fight in Louisville on October 29. Michael Troy of the United States won the 200 metre butterfly on September 2 in 2:12.8, the fourth time that year he had broken that world record, after 2:15.0 on July 10, 2:13.4 on July 23 and 2:13.2 on August 4.",
+      "date": "1960-08-25",
+      "source": "https://en.wikipedia.org/wiki/1960_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics at Squaw Valley",
+      "value": "Opened on February 18 in Placer County, California, with the Soviet Union taking 21 medals and 7 golds",
+      "detail": "The American men's ice hockey team won the country's first Olympic hockey gold on a record of 7-0-0. Jean Vuarnet of France took the men's downhill and Heidi Biebl of West Germany the women's. Carol Heiss and David Jenkins won the US figure skating championships at the Civic Ice Arena in Seattle on January 30.",
+      "date": "1960-02-18",
+      "source": "https://en.wikipedia.org/wiki/1960_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "AFL Championship, Houston Oilers 24, Los Angeles Chargers 16",
+        "Stanley Cup, Montreal Canadiens over the Toronto Maple Leafs, four games to none",
+        "NBA Finals, Boston Celtics over the St. Louis Hawks, four games to three",
+        "European Cup, Real Madrid 7, Eintracht Frankfurt 3, at Hampden Park in Glasgow on May 18",
+        "European Football Championship, the first, Soviet Union 2, Yugoslavia 1, in Paris on July 10",
+        "FA Cup, Wolverhampton Wanderers 3, Blackburn Rovers 0",
+        "Grey Cup, Ottawa Rough Riders 34, Edmonton Eskimos 9"
+      ],
+      "detail": "Floyd Patterson knocked out Ingemar Johansson in New York in June to become the first boxer to regain the world heavyweight title. Gene Mingo of the Denver Broncos was the first black placekicker in professional football and Tom Flores of the Oakland Raiders the first Hispanic quarterback, both in the new American Football League. Associated Press named Rafer Johnson and Wilma Rudolph its athletes of the year, both in track and field. The sports page's NFL entry names the Philadelphia Eagles, the Green Bay Packers and Franklin Field without saying who won, so no result is given here.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_sports"
+    },
+    "sports.golf": {
+      "section": "sports",
+      "label": "Arnold Palmer's season",
+      "value": "Won the Masters and the US Open and led the PGA Tour money list with $75,263",
+      "detail": "Kel Nagle won the British Open and Jay Hebert the PGA Championship. Mickey Wright took the LPGA Championship and Betsy Rawls the US Women's Open, while Louise Suggs led the LPGA money list with $16,892.",
+      "source": "https://en.wikipedia.org/wiki/1960_in_sports"
+    },
+    "deaths.camus": {
+      "section": "deaths",
+      "label": "Albert Camus",
+      "value": "Died January 4. Born 1913",
+      "detail": "French writer and Nobel laureate in literature, killed in a car accident.",
+      "date": "1960-01-04",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "deaths.hurston": {
+      "section": "deaths",
+      "label": "Zora Neale Hurston",
+      "value": "Died January 28. Born 1891",
+      "detail": "American folklorist, anthropologist and author.",
+      "date": "1960-01-28",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "deaths.cochran": {
+      "section": "deaths",
+      "label": "Eddie Cochran",
+      "value": "Died April 17. Born 1938",
+      "detail": "American rock singer, hurt in a car crash near Chippenham in England with Gene Vincent and Sharon Sheeley, and dead of severe brain injuries in a hospital in Bath. The police officer who attended the crash, David Harman, learned guitar on Cochran's impounded Gretsch and became the musician Dave Dee.",
+      "date": "1960-04-17",
+      "source": "https://en.wikipedia.org/wiki/1960_in_music"
+    },
+    "deaths.pasternak": {
+      "section": "deaths",
+      "label": "Boris Pasternak",
+      "value": "Died May 30. Born 1890",
+      "detail": "Russian writer, who declined the Nobel Prize in Literature awarded to him.",
+      "date": "1960-05-30",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    },
+    "deaths.gable": {
+      "section": "deaths",
+      "label": "Clark Gable",
+      "value": "Died November 16. Born 1901",
+      "detail": "American actor. Filming on The Misfits, with Marilyn Monroe, had wrapped twelve days earlier on November 4, the last film for both of them.",
+      "date": "1960-11-16",
+      "source": "https://en.wikipedia.org/wiki/1960"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1960. figures_basis is rentals: the box office table's column header reads Domestic rentals, checked rather than assumed, because the rentals-to-gross switch happens somewhere later. No radio facts, because the radio window closes after 1959; the payola threat of January 25 and the last Louisiana Hayride broadcast of August 27 would have gone there, and the payola line is in music.listening_format instead. No film.ticket_price fact, because the ticket price series has no value for this year. The Nielsen ranking is one season starting in the autumn of 1960 and running to the following spring, which tv.top_shows says without naming a second year. Awards decided the following spring are labelled that way rather than dated, so no fact names the year of the 33rd Academy Awards ceremony or of the Grammy presentation. Date check on the election, per the brief: a federal election falls on the Tuesday after the first Monday in November, November 1 was a Tuesday, so the first Monday was November 7 and the year pages' November 8 holds. The dedicated article was pulled as raw wikitext anyway and agrees, and pol.us_election cites it for the electoral and popular vote counts, the turnout, the Oklahoma faithless elector and the Alabama unpledged-elector problem, none of which the year pages carry. Source disagreements labelled rather than resolved: the year page dates the Trieste dive to January 22 at 10,911 metres and the US year page to January 23 at 10,916 metres, so tech.trieste carries a month only and names both; the US year page dates Presley's return from Germany to March 3 and his discharge to March 5, while the music page dates the return itself to March 5, so music.presley_army carries a month only and names both; the US year page says Joanne Woodward received the first star on the Hollywood Walk of Fame on February 9 and, nineteen lines later, that Stanley Kramer received the first star on March 28, which culture.walk_of_fame reports as unsettled; the year page puts 63 people aboard Northwest Orient Flight 710 and the US year page 61, so the crash is not used at all. The sports page's NFL Championship entry has been stripped to three wikilinks, the Eagles, the Packers and Franklin Field, with no score and no winner, so sports.champions names the gap rather than guessing, and no sports.nfl_championship fact exists this year. Facts that take a date or a value from one cached page and detail from another, recorded here rather than left for a reader to find: world.congo takes the Eisenhower briefing of August 18 from the US year page; tech.tiros takes Transit I-b, SOLRAD 1 and the Marshall Space Flight Center dedication from the US year page; sports.champions takes the European Cup venue and May 18 date and the Paris venue and July 10 date of the European Football Championship from the year page, and everything else from the sports page; sports.winter_olympics takes the February 18 opening from the year page and the medal counts and results from the sports page; music.awards takes Jacqueline Boyer's age and the names of Andre Popp and Pierre Cour from the year page and the rest from the music page; culture.walk_of_fame takes the establishment date from the year page and the two first-star claims from the US year page. General knowledge rather than a claim from the cached pages: that a film released this year was seen in a theatre first, which film.how_people_watched asserts and which comes out if challenged. Dropped for lack of a usable source: the count of African territories that became independent, because the Mali Federation split and the two Somalilands merged inside the same year and no cached page gives a total, so world.decolonisation lists dated entries instead of a number; the census figure of 179,323,175 is the April 1 enumeration from the year page and differs from the mid-year population estimate the site's own series carries, which is why pol.census dates and labels it; the Kittinger jump's altitude and speed are given as approximate because the year page states them with about and the US year page converts them differently. Texture material taken from the cached pages but given no fact of its own: the Anpo protests, the Hagerty incident at Haneda, the June 15 storming of the Diet and Michiko Kanba's death, the treaty's automatic ratification, Kishi's resignation and the end of the 312-day Miike strike; the Coalbrook mine collapse; the Agadir earthquake's toll; the Steblova collision at Pardubice; the New York mid-air collision over Staten Island; the USS Constellation fire; Kittinger's jump; the USS Triton circumnavigation; the USS Seadragon at the North Pole; Sirimavo Bandaranaike's election in Ceylon; Alberto Korda's photograph of Che Guevara; the first Playboy Club; Liebling's Law; Wilt Chamberlain's 55 rebounds; the Bluebell Railway; the first Domino's Pizza. Also dropped for space rather than sourcing: the Eichmann abduction of May 11 and Ben-Gurion's announcement of May 23, Khrushchev's shoe on the desk of October 12 and his interruption of Macmillan on September 29, the Turkish coup of May 27, the Ethiopian coup attempt of December 13, the first CERN particle accelerator of February 5, the Nedelin rocket explosion at Baikonur on October 24 that killed at least 92, the Jack Paar walkout of February 10, the film debuts of Jane Fonda, Robert Redford, Peter O'Toole, Albert Finney and Bruce Dern, and the opening of The Fantasticks on May 3 and of Oliver! on June 30. A detail line elaborates its own fact here, so items that only shared a month with a fact were moved out of details rather than parked in them: the CERN accelerator came out of tech.laser and the Nedelin explosion out of tech.sputnik_5 on that basis, and Mary Martin's Peter Pan came out of film.how_people_watched into its own tv.videotape fact. Names are written in ASCII per the corpus convention, so Steblova, Chiloe, Adolfo Lopez Mateos, Brasilia and Have Gun Will Travel lose their diacritics and dash. Deaths carry a birth year rather than an age because the source gives only the year."
+}
