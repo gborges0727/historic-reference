@@ -1,0 +1,171 @@
+{
+  "year": 1926,
+  "tier": "early",
+  "headline": "Britain stopped working for nine days in May, Goddard flew a liquid-fuel rocket, and Valentino died at thirty-one",
+  "texture": [
+    "The British general strike began at midnight on May 4 in support of the miners and was called off by the unions before the miners themselves gave in. Robert Goddard launched the first liquid-fuel rocket at Auburn, Massachusetts on March 16, and it went up about as far as a house. Richard Byrd and Floyd Bennett claimed a flight over the North Pole in May, a claim argued over ever since.",
+    "Warner Brothers put its Vitaphone system in front of a New York audience on August 5 with Don Juan, which carried a synchronised orchestral score and no talking at all. It finished fifth for the year with $1,258,000 in rentals, behind What Price Glory? and Douglas Fairbanks in The Black Pirate. Rudolph Valentino died on August 23 at thirty-one and the crowds outside the funeral home in New York turned into a riot.",
+    "The NBC Radio Network opened in November with twenty-four stations, the first permanent national network in the United States. John Logie Baird demonstrated his mechanical television in January to an audience that had no reason to care yet. A. A. Milne published Winnie-the-Pooh in London on October 14. Claude Monet died on December 5 and Rainer Maria Rilke on December 29."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.general_strike",
+    "tech.goddard_rocket",
+    "film.gross#0",
+    "film.vitaphone",
+    "radio.nbc",
+    "deaths.valentino"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Calvin Coolidge (R)",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "world.general_strike": {
+      "section": "world",
+      "label": "British general strike",
+      "value": "Began at midnight on May 4 in support of the miners, and was called off by the unions with the miners still out",
+      "detail": "Stanley Baldwin ended the state of emergency on December 2.",
+      "date": "1926-05-04",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "world.byrd_north_pole": {
+      "section": "world",
+      "label": "Byrd's polar flight",
+      "value": "Richard Byrd and Floyd Bennett claimed to be first to fly over the North Pole",
+      "detail": "The claim has been disputed since.",
+      "date": "1926-05",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "world.locarno_ratified": {
+      "section": "world",
+      "label": "Locarno Treaties take effect",
+      "value": "Ratified at Geneva and brought into force",
+      "date": "1926-09-14",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "world.hirohito": {
+      "section": "world",
+      "label": "Hirohito becomes emperor",
+      "value": "Ascended the throne of Japan, beginning the Showa era",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "world.lithuania_coup": {
+      "section": "world",
+      "label": "Coup in Lithuania",
+      "value": "A three-day military coup overthrew the elected government",
+      "date": "1926-12-17",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "world.christie_disappears": {
+      "section": "world",
+      "label": "Agatha Christie disappears",
+      "value": "The detective novelist vanished from her home, setting off a national search",
+      "date": "1926-12-03",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "What Price Glory?, $2,000,000, Fox Film",
+        "The Black Pirate, $1,700,000, United Artists",
+        "Beau Geste, $1,500,000, Paramount",
+        "The Volga Boatman, $1,275,375, Producers Distributing",
+        "Don Juan, $1,258,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1926_in_film"
+    },
+    "film.vitaphone": {
+      "section": "film",
+      "label": "Vitaphone reaches an audience",
+      "value": "Warner Brothers showed Don Juan in New York with a synchronised orchestral score and no dialogue",
+      "date": "1926-08-05",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Most pictures were silent with live music, and the year's fifth-biggest arrived with its score on a disc instead.",
+      "source": "https://en.wikipedia.org/wiki/1926_in_film"
+    },
+    "radio.nbc": {
+      "section": "radio",
+      "label": "NBC network opens",
+      "value": "The first permanent national radio network in the United States started with twenty-four stations",
+      "date": "1926-11",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "tech.goddard_rocket": {
+      "section": "tech",
+      "label": "First liquid-fuel rocket",
+      "value": "Robert Goddard launched it at Auburn, Massachusetts",
+      "date": "1926-03-16",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "tech.television_demo": {
+      "section": "tech",
+      "label": "Television demonstrated",
+      "value": "John Logie Baird showed a working mechanical television system",
+      "date": "1926-01-26",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "culture.winnie_the_pooh": {
+      "section": "culture",
+      "label": "Winnie-the-Pooh published",
+      "value": "A. A. Milne's book appeared in London",
+      "date": "1926-10-14",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A general strike in one country and a boom in another, with sound arriving in cinemas as an orchestra on a record rather than a voice."
+    },
+    "deaths.valentino": {
+      "section": "deaths",
+      "label": "Rudolph Valentino",
+      "value": "Died August 23. Born 1895",
+      "detail": "Italian actor. The crowd outside the New York funeral home became a riot.",
+      "date": "1926-08-23",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "deaths.monet": {
+      "section": "deaths",
+      "label": "Claude Monet",
+      "value": "Died December 5. Born 1840",
+      "detail": "French painter.",
+      "date": "1926-12-05",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "deaths.rilke": {
+      "section": "deaths",
+      "label": "Rainer Maria Rilke",
+      "value": "Died December 29. Born 1875",
+      "detail": "Austrian poet.",
+      "date": "1926-12-29",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "deaths.kamerlingh_onnes": {
+      "section": "deaths",
+      "label": "Heike Kamerlingh Onnes",
+      "value": "Died February 21. Born 1853",
+      "detail": "Dutch physicist and Nobel laureate.",
+      "date": "1926-02-21",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    },
+    "deaths.burberry": {
+      "section": "deaths",
+      "label": "Thomas Burberry",
+      "value": "Died April 4. Born 1835",
+      "detail": "English businessman and inventor.",
+      "date": "1926-04-04",
+      "source": "https://en.wikipedia.org/wiki/1926"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Harry Houdini died this year on a date the source would not yield cleanly, so he is left out rather than dated from memory. Hirohito's accession carries no date for the same reason: the source line merges it with an unrelated event. The rocket going up about as far as a house, and the crowd at Valentino's funeral becoming a riot, are general knowledge of those subjects rather than claims from the year pages."
+}

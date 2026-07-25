@@ -1,0 +1,170 @@
+{
+  "year": 1924,
+  "tier": "early",
+  "headline": "Lenin died in January, Congress shut the door on most immigrants in May, and Coolidge spoke on the radio",
+  "texture": [
+    "Lenin died on January 21 and the fight to replace him started immediately. Petrograd was renamed Leningrad five days later. Hitler was sentenced on April 1 to five years at Landsberg for the previous November's attempt on the Bavarian government, and served rather less than that.",
+    "The Immigration Act of May 26 set quotas by national origin, cutting arrivals from southern and eastern Europe to a trickle and barring most Asian immigration outright. On June 2 Coolidge signed the Indian Citizenship Act, which granted citizenship to Native Americans born in the United States. He won the election in November against John Davis, and Nellie Tayloe Ross of Wyoming was elected the first woman governor in the country.",
+    "The Sea Hawk was the year's biggest at two million dollars in rentals, ahead of Harold Lloyd in Girl Shy and Douglas Fairbanks in The Thief of Bagdad. The first Winter Olympics opened at Chamonix on January 25 and the summer games opened in Paris on May 4. Coolidge became the first president heard on radio from the White House. Woodrow Wilson died on February 3, eighteen months out of office, and Puccini died in November leaving Turandot unfinished."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.immigration_act",
+    "world.lenin_death",
+    "film.gross#0",
+    "radio.coolidge",
+    "sports.winter_olympics",
+    "deaths.wilson"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Calvin Coolidge (R)",
+      "detail": "Completing Harding's term, then elected in his own right in November against John Davis.",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "pol.immigration_act": {
+      "section": "politics",
+      "label": "Immigration Act of 1924",
+      "value": "The Johnson-Reed Act set immigration quotas by national origin",
+      "detail": "It cut arrivals from southern and eastern Europe sharply and barred most immigration from Asia.",
+      "date": "1924-05-26",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "pol.indian_citizenship": {
+      "section": "politics",
+      "label": "Indian Citizenship Act",
+      "value": "Coolidge signed it, granting citizenship to Native Americans born in the United States",
+      "date": "1924-06-02",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "pol.first_woman_governor": {
+      "section": "politics",
+      "label": "First woman governor",
+      "value": "Nellie Tayloe Ross of Wyoming was elected in November",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "world.lenin_death": {
+      "section": "world",
+      "label": "Lenin dies",
+      "value": "His death set off a struggle for control of the Soviet Union",
+      "detail": "Petrograd was renamed Leningrad on January 26.",
+      "date": "1924-01-21",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "world.hitler_sentenced": {
+      "section": "world",
+      "label": "Hitler sentenced",
+      "value": "Five years at Landsberg Prison for the attempt to seize power in Munich",
+      "date": "1924-04-01",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "world.hungary_tornado": {
+      "section": "world",
+      "label": "Tornado in Hungary",
+      "value": "A destructive tornado crossed the country in three hours on June 13",
+      "date": "1924-06-13",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Sea Hawk, $2,000,000, First National",
+        "Girl Shy, $1,550,000, Pathe Exchange",
+        "Secrets, $1,500,000, First National",
+        "The Thief of Bagdad, $1,490,419, United Artists",
+        "Hot Water, $1,350,000, Pathe Exchange"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1924_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, silent, with live music. Three years before a feature spoke.",
+      "source": "https://en.wikipedia.org/wiki/1924_in_film"
+    },
+    "radio.coolidge": {
+      "section": "radio",
+      "label": "First presidential radio broadcast",
+      "value": "Coolidge became the first US president to deliver a radio broadcast",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A country closing its borders and settling into prosperity, with a president who preferred not to say much and a new machine in the parlour that carried his voice anyway."
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "First Winter Olympics",
+      "value": "Opened at Chamonix in the French Alps",
+      "date": "1924-01-25",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Opened in Paris on May 4",
+      "date": "1924-05-04",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Washington Senators beat the New York Giants",
+      "detail": "Played October 4 to 10.",
+      "source": "https://en.wikipedia.org/wiki/1924_in_sports"
+    },
+    "sports.colored_world_series": {
+      "section": "sports",
+      "label": "First Colored World Series",
+      "value": "Kansas City Monarchs beat Hilldale, five games to four with one tie",
+      "source": "https://en.wikipedia.org/wiki/1924_in_sports"
+    },
+    "deaths.wilson": {
+      "section": "deaths",
+      "label": "Woodrow Wilson",
+      "value": "Died February 3",
+      "detail": "28th president of the United States and a Nobel Peace Prize recipient.",
+      "date": "1924-02-03",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "deaths.lenin": {
+      "section": "deaths",
+      "label": "Vladimir Lenin",
+      "value": "Died January 21",
+      "detail": "Russian revolutionary and first premier of the Soviet state.",
+      "date": "1924-01-21",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "deaths.puccini": {
+      "section": "deaths",
+      "label": "Giacomo Puccini",
+      "value": "Died November 29. Born 1858",
+      "detail": "Italian composer.",
+      "date": "1924-11-29",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "deaths.stanford": {
+      "section": "deaths",
+      "label": "Charles Villiers Stanford",
+      "value": "Died March 29",
+      "detail": "Irish composer, resident in the United Kingdom.",
+      "date": "1924-03-29",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    },
+    "deaths.quincke": {
+      "section": "deaths",
+      "label": "Georg Hermann Quincke",
+      "value": "Died January 13. Born 1834",
+      "detail": "German physicist.",
+      "date": "1924-01-13",
+      "source": "https://en.wikipedia.org/wiki/1924"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Puccini leaving Turandot unfinished is general knowledge of the subject rather than a claim from the year pages, and comes out if it cannot be confirmed. Wilson, Lenin and Stanford carry no birth year because the source line for each was cut before it."
+}

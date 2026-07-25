@@ -60,6 +60,11 @@ export const WINDOWS = {
   'tech.web_sites': { from: 1996, until: null },
   'tech.social': { from: 2003, until: null },
   prices: { from: 1920, until: null },
+  culture: {
+    from: 1920,
+    until: null,
+    why: 'section default for one-off cultural facts, the same arrangement as film, music and tech. culture.memes stays gated at 1996.',
+  },
   'culture.slang': { from: 1920, until: null },
   'culture.memes': { from: 1996, until: null },
   'culture.mood': { from: 1920, until: null, why: 'added: qualitative, no numbers, always present' },

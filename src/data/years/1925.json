@@ -1,0 +1,163 @@
+{
+  "year": 1925,
+  "tier": "early",
+  "headline": "A tornado killed hundreds in March, Tennessee tried a teacher in July, and Baird sent a face down a wire",
+  "texture": [
+    "The Tri-State Tornado crossed Missouri, Illinois and Indiana on March 18 and remains the deadliest in American history. In July a Dayton court tried John Scopes for teaching evolution, in a case staged for the purpose, and the argument was carried out in front of a national press. Nellie Tayloe Ross took office in Wyoming on January 5 as the first woman to govern a state.",
+    "John Logie Baird transmitted the first television picture in London on October 2, a recognisable human face in a laboratory. The Locarno Treaties were negotiated in October and signed in London on December 1, an attempt to fix the borders the last war had left. Hitler published the first volume of Mein Kampf on July 18, out of prison and setting out what he meant to do.",
+    "The Big Parade took $4,990,000 in rentals, with Ben-Hur just behind it and Chaplin's The Gold Rush fourth. Fitzgerald published The Great Gatsby in New York on April 10 to modest sales. The Phantom of the Opera brought Lon Chaney's face to a screen that was still silent, and audiences reportedly fainted. Friedrich Ebert, the first president of Germany, died in February and was replaced by a field marshal."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.scopes_trial",
+    "world.tri_state_tornado",
+    "world.locarno",
+    "film.gross#0",
+    "tech.television",
+    "culture.gatsby"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Calvin Coolidge (R)",
+      "detail": "First full year of the term he won in his own right.",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "pol.scopes_trial": {
+      "section": "politics",
+      "label": "Scopes trial",
+      "value": "A Dayton, Tennessee court tried John Scopes for teaching evolution, in a case staged as a test",
+      "detail": "Heard between July 10 and 21.",
+      "date": "1925-07-10",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "pol.first_woman_governor": {
+      "section": "politics",
+      "label": "First woman governor takes office",
+      "value": "Nellie Tayloe Ross was sworn in as governor of Wyoming",
+      "date": "1925-01-05",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "world.tri_state_tornado": {
+      "section": "world",
+      "label": "Tri-State Tornado",
+      "value": "Crossed Missouri, Illinois and Indiana, the deadliest tornado in US history",
+      "date": "1925-03-18",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "world.locarno": {
+      "section": "world",
+      "label": "Locarno Treaties",
+      "value": "Negotiated in October and signed in London on December 1 to settle postwar borders in western Europe",
+      "date": "1925-12-01",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "world.mein_kampf": {
+      "section": "world",
+      "label": "Mein Kampf published",
+      "value": "Hitler published the first volume in Germany",
+      "date": "1925-07-18",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Big Parade, $4,990,000, MGM",
+        "Ben-Hur: A Tale of the Christ, $4,359,000, MGM",
+        "The Freshman, $2,600,000, Pathe Exchange",
+        "The Gold Rush, $2,150,000, United Artists",
+        "The Phantom of the Opera, $1,550,000, Universal"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1925_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, silent, with live music. Two years before a feature spoke.",
+      "source": "https://en.wikipedia.org/wiki/1925_in_film"
+    },
+    "tech.television": {
+      "section": "tech",
+      "label": "First television picture",
+      "value": "John Logie Baird transmitted a recognisable human face in London",
+      "date": "1925-10-02",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "culture.gatsby": {
+      "section": "culture",
+      "label": "The Great Gatsby published",
+      "value": "F. Scott Fitzgerald's novel appeared in New York",
+      "date": "1925-04-10",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Money in the cities, a courtroom in Tennessee arguing about how the world was made, and a Scottish inventor in a room with a machine nobody could yet imagine wanting."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Pittsburgh Pirates beat the Washington Senators",
+      "detail": "Played October 7 to 15.",
+      "source": "https://en.wikipedia.org/wiki/1925_in_sports"
+    },
+    "sports.colored_world_series": {
+      "section": "sports",
+      "label": "Colored World Series",
+      "value": "Hilldale beat the Kansas City Monarchs, five games to one",
+      "source": "https://en.wikipedia.org/wiki/1925_in_sports"
+    },
+    "sports.nfl": {
+      "section": "sports",
+      "label": "NFL champions",
+      "value": "Chicago Cardinals, eleven wins, two losses and one tie",
+      "source": "https://en.wikipedia.org/wiki/1925_in_sports"
+    },
+    "deaths.ebert": {
+      "section": "deaths",
+      "label": "Friedrich Ebert",
+      "value": "Died February 28. Born 1871",
+      "detail": "First president of Germany.",
+      "date": "1925-02-28",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "deaths.haggard": {
+      "section": "deaths",
+      "label": "H. Rider Haggard",
+      "value": "Died May 14. Born 1856",
+      "detail": "British writer.",
+      "date": "1925-05-14",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "deaths.caplet": {
+      "section": "deaths",
+      "label": "Andre Caplet",
+      "value": "Died April 22. Born 1878",
+      "detail": "French composer and conductor.",
+      "date": "1925-04-22",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "deaths.workman": {
+      "section": "deaths",
+      "label": "Fanny Bullock Workman",
+      "value": "Died January 22",
+      "detail": "American geographer, writer and mountaineer.",
+      "date": "1925-01-22",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    },
+    "deaths.allen": {
+      "section": "deaths",
+      "label": "James Lane Allen",
+      "value": "Died February 18. Born 1849",
+      "detail": "American writer.",
+      "date": "1925-02-18",
+      "source": "https://en.wikipedia.org/wiki/1925"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Two claims here are general knowledge of the subject rather than statements from the year pages, and come out if they cannot be confirmed: that Gatsby sold modestly at first, and that audiences fainted at Chaney's unmasking. Ebert's successor is described as a field marshal without naming him, because the source line does not."
+}
