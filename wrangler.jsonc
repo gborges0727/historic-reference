@@ -8,8 +8,15 @@
   // `not_found_handling` is left at its default. The two named modes are for single
   // page applications and for sites with a 404.html, and this site has neither: it is
   // 106 prerendered year pages plus an index and a corrections page.
+  //
+  // `workers_dev` is stated rather than left to its default. The default is already
+  // true, but the docs are explicit that a route disabled in the dashboard comes back
+  // on the next `wrangler deploy` unless the config says otherwise, so the config is
+  // the thing that actually decides. Writing it down means the deployed state matches
+  // this file rather than whatever was last clicked.
   "name": "historic-reference",
   "compatibility_date": "2026-07-25",
+  "workers_dev": true,
   "assets": {
     "directory": "./dist"
   }
