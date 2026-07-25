@@ -1,0 +1,172 @@
+{
+  "year": 1943,
+  "tier": "early",
+  "headline": "Stalingrad surrendered in February, the Warsaw Ghetto fought for a month, and Italy changed sides",
+  "texture": [
+    "The German Sixth Army surrendered at Stalingrad on February 2. The Warsaw Ghetto Uprising began on April 19 when German troops entered to clear it, and ended on May 16 with thirteen thousand Jews killed inside the ghetto. The Afrika Korps and the Italian forces in North Africa surrendered on May 13. Italy signed an armistice at Cassibile in September and Eisenhower announced it publicly.",
+    "Roosevelt and Churchill met at Casablanca between January 14 and 24, and in November the two of them met Stalin at Tehran. An agreement founding the United Nations Relief and Rehabilitation Administration was signed on November 9, which put a name to what would come after.",
+    "This Is the Army took $8,301,000 in rentals, more than double the year's fifth-place film, with the profits going to army relief. Casablanca won Best Picture. The Mills Brothers had the year's best-selling record with Paper Doll. Nikola Tesla died in January and Sergei Rachmaninoff in the spring, both in American exile."
+  ],
+  "lead": [
+    "world.stalingrad_surrender",
+    "world.warsaw_ghetto",
+    "world.italy_armistice",
+    "world.casablanca_conference",
+    "film.gross#0",
+    "film.best_picture",
+    "music.chart_toppers#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.stalingrad_surrender": {
+      "section": "world",
+      "label": "Stalingrad ends",
+      "value": "The German army surrendered, closing the battle",
+      "date": "1943-02-02",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.warsaw_ghetto": {
+      "section": "world",
+      "label": "Warsaw Ghetto Uprising",
+      "value": "Began when German troops entered the ghetto and ended on May 16, with thirteen thousand Jews killed there",
+      "detail": "A first, shorter uprising in January had limited the deportations for a time.",
+      "date": "1943-04-19",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.north_africa_surrender": {
+      "section": "world",
+      "label": "Axis forces surrender in North Africa",
+      "value": "The German Afrika Korps and Italian troops gave up to the Allies",
+      "date": "1943-05-13",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.italy_armistice": {
+      "section": "world",
+      "label": "Italy surrenders",
+      "value": "The Armistice of Cassibile was signed in September and announced publicly by Eisenhower",
+      "date": "1943-09",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.casablanca_conference": {
+      "section": "world",
+      "label": "Casablanca Conference",
+      "value": "Roosevelt and Churchill met in Morocco between January 14 and 24",
+      "date": "1943-01-14",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.tehran_conference": {
+      "section": "world",
+      "label": "Tehran Conference",
+      "value": "Roosevelt, Churchill and Stalin met together for the first time",
+      "date": "1943-11-28",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "world.unrra": {
+      "section": "world",
+      "label": "UNRRA founded",
+      "value": "An agreement established the United Nations Relief and Rehabilitation Administration",
+      "date": "1943-11-09",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "This Is the Army, $8,301,000, Warner Bros.",
+        "For Whom the Bell Tolls, $6,300,000, Paramount",
+        "The Song of Bernadette, $4,700,000, 20th Century Fox",
+        "Stage Door Canteen, $4,350,000, United Artists",
+        "Star Spangled Rhythm, $3,850,000, Paramount"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Three of the five were made to support the war effort.",
+      "source": "https://en.wikipedia.org/wiki/1943_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Casablanca",
+      "source": "https://en.wikipedia.org/wiki/16th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, where the biggest film of the year was a service revue and the newsreel was the only moving pictures of the war anyone saw.",
+      "source": "https://en.wikipedia.org/wiki/1943_in_film"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Paper Doll, The Mills Brothers",
+        "I've Heard That Song Before, Harry James and His Orchestra",
+        "There Are Such Things, Tommy Dorsey and His Orchestra",
+        "Sunday, Monday or Always, Bing Crosby"
+      ],
+      "detail": "From Billboard's retail sales chart.",
+      "source": "https://en.wikipedia.org/wiki/1943_in_music"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The year the war turned without ending, with rationing at home, a service revue as the biggest picture, and the first agreements about what to do afterwards."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the St. Louis Cardinals",
+      "source": "https://en.wikipedia.org/wiki/1943_in_sports"
+    },
+    "deaths.tesla": {
+      "section": "deaths",
+      "label": "Nikola Tesla",
+      "value": "Died in January. Born 1856",
+      "detail": "Serbian-American electrical engineer and inventor.",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "deaths.rachmaninoff": {
+      "section": "deaths",
+      "label": "Sergei Rachmaninoff",
+      "value": "Died this year. Born 1873",
+      "detail": "Russian composer.",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "deaths.campert": {
+      "section": "deaths",
+      "label": "Jan Campert",
+      "value": "Died January 12 in Neuengamme concentration camp",
+      "detail": "Dutch journalist and writer.",
+      "date": "1943-01-12",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "deaths.freundlich": {
+      "section": "deaths",
+      "label": "Otto Freundlich",
+      "value": "Killed March 9 in Majdanek concentration camp",
+      "detail": "German painter and sculptor.",
+      "date": "1943-03-09",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    },
+    "deaths.pinney": {
+      "section": "deaths",
+      "label": "Reginald Pinney",
+      "value": "Died February 18. Born 1863",
+      "detail": "British army general.",
+      "date": "1943-02-18",
+      "source": "https://en.wikipedia.org/wiki/1943"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Tesla and Rachmaninoff carry no exact date because the source lists them as undated sub-entries; Tesla's is placed in January only because the entries are month-ordered. Profits from This Is the Army going to army relief, and Rachmaninoff dying in American exile, are general knowledge rather than claims from the year pages."
+}

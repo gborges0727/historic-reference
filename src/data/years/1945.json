@@ -1,0 +1,190 @@
+{
+  "year": 1945,
+  "tier": "early",
+  "headline": "Roosevelt died in April, Germany surrendered in May, and two cities were destroyed by single bombs in August",
+  "texture": [
+    "Roosevelt died on April 12 and Harry Truman became president the same day, having been told almost nothing about the bomb. Hitler took residence in the Fuhrerbunker in January, dismissed Himmler from command in March, and killed himself there with Eva Braun. Germany's final instrument of surrender was signed shortly before midnight on May 8, which was already May 9 in Moscow.",
+    "The Enola Gay dropped a uranium bomb on Hiroshima on August 6 and Bockscar dropped a plutonium bomb on Nagasaki three days later. Hirohito announced the surrender by radio broadcast on August 15, the first time most Japanese had heard his voice. The final instrument was signed on September 2. The Allied leaders had met at Yalta in February and at Potsdam from July 17.",
+    "Founding negotiations for the United Nations opened in San Francisco on April 25. The biggest picture of the year was a sequel to the biggest picture of the year before, both of them Crosby as the same priest. Best Picture went instead to The Lost Weekend, about a writer on a four-day bender. Anne Frank died of typhus at Bergen-Belsen in the early part of the year, Mussolini was killed in April, and Bela Bartok died in New York."
+  ],
+  "lead": [
+    "pol.roosevelt_dies",
+    "world.ve_day",
+    "world.hiroshima",
+    "world.nagasaki",
+    "world.japan_surrender",
+    "world.united_nations",
+    "film.gross#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D) until April 12, then Harry S. Truman (D)",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "pol.roosevelt_dies": {
+      "section": "politics",
+      "label": "Roosevelt dies in office",
+      "value": "Vice President Harry Truman became the 33rd president the same day",
+      "detail": "Roosevelt had been elected four times and died three months into the fourth term.",
+      "date": "1945-04-12",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.ve_day": {
+      "section": "world",
+      "label": "Victory in Europe",
+      "value": "The final German instrument of surrender was signed shortly before midnight, already May 9 in Moscow",
+      "detail": "Canadian troops moved into Amsterdam as German forces there surrendered.",
+      "date": "1945-05-08",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.hitler_death": {
+      "section": "world",
+      "label": "Hitler kills himself",
+      "value": "Died in the Fuhrerbunker in Berlin with Eva Braun",
+      "detail": "He had moved into the bunker on January 16, appointed Himmler to an army command on January 25 and dismissed him on March 20, and issued the Nero Decree ordering the destruction of German infrastructure.",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.hiroshima": {
+      "section": "world",
+      "label": "Atomic bombing of Hiroshima",
+      "value": "A US B-29, the Enola Gay, dropped a uranium bomb on the city",
+      "date": "1945-08-06",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.nagasaki": {
+      "section": "world",
+      "label": "Atomic bombing of Nagasaki",
+      "value": "A US B-29, Bockscar, dropped a plutonium bomb three days after Hiroshima",
+      "date": "1945-08-09",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.japan_surrender": {
+      "section": "world",
+      "label": "Japan surrenders",
+      "value": "Hirohito announced the unconditional surrender by radio on August 15, and the final instrument was signed on September 2",
+      "detail": "General Tomoyuki Yamashita surrendered to Philippine and American forces the same day the instrument was accepted.",
+      "date": "1945-09-02",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.yalta": {
+      "section": "world",
+      "label": "Yalta Conference",
+      "value": "The Allied leaders met to decide postwar Europe and to establish the United Nations",
+      "date": "1945-02",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.potsdam": {
+      "section": "world",
+      "label": "Potsdam Conference",
+      "value": "The three main Allied leaders met from July 17 to August 2",
+      "date": "1945-07-17",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.united_nations": {
+      "section": "world",
+      "label": "United Nations negotiated",
+      "value": "Founding negotiations opened in San Francisco",
+      "date": "1945-04-25",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "world.setif": {
+      "section": "world",
+      "label": "Setif and Guelma massacre",
+      "value": "Thousands died in Algeria as French troops and settlers put down protests, beginning on the day Europe celebrated",
+      "date": "1945-05-08",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Bells of St. Mary's, $8,000,000, RKO",
+        "Leave Her to Heaven, $5,550,000, 20th Century Fox",
+        "Spellbound, $4,975,000, United Artists and Selznick",
+        "The Valley of Decision, $4,566,000, MGM",
+        "Anchors Aweigh, $4,498,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1945_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Lost Weekend",
+      "source": "https://en.wikipedia.org/wiki/18th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Attendance was at its historic high, and the newsreels that year carried the camps and then the bomb.",
+      "source": "https://en.wikipedia.org/wiki/1945_in_film"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Relief arriving twice, in May and again in August, on top of a president's funeral and a weapon nobody outside a few thousand people had known existed."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.40 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. It rose in October.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Detroit Tigers beat the Chicago Cubs",
+      "source": "https://en.wikipedia.org/wiki/1945_in_sports"
+    },
+    "deaths.roosevelt": {
+      "section": "deaths",
+      "label": "Franklin D. Roosevelt",
+      "value": "Died April 12",
+      "detail": "32nd president of the United States, in his fourth term.",
+      "date": "1945-04-12",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "deaths.anne_frank": {
+      "section": "deaths",
+      "label": "Anne Frank",
+      "value": "Died of typhus at Bergen-Belsen in February or March",
+      "detail": "German-born Jewish diarist. The source gives the month as uncertain.",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "deaths.mussolini": {
+      "section": "deaths",
+      "label": "Benito Mussolini",
+      "value": "Killed this year. Born 1883",
+      "detail": "Italian politician and journalist, prime minister and Duce.",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "deaths.bartok": {
+      "section": "deaths",
+      "label": "Bela Bartok",
+      "value": "Died this year. Born 1881",
+      "detail": "Hungarian composer.",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "deaths.lasker_schuler": {
+      "section": "deaths",
+      "label": "Else Lasker-Schuler",
+      "value": "Died January 22. Born 1869",
+      "detail": "German poet and author.",
+      "date": "1945-01-22",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    },
+    "deaths.brasillach": {
+      "section": "deaths",
+      "label": "Robert Brasillach",
+      "value": "Executed February 6. Born 1909",
+      "detail": "French writer, shot for collaboration.",
+      "date": "1945-02-06",
+      "source": "https://en.wikipedia.org/wiki/1945"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Hitler's death, Mussolini's death and Bartok's carry no date because the source lists them as undated sub-entries. Anne Frank's month is uncertain in the source and is left uncertain here. Truman being told almost nothing about the bomb, Bartok dying in New York, Brasillach being shot for collaboration, Hirohito's voice being unfamiliar to most Japanese, and 1945 attendance being a historic high are general knowledge rather than claims from the year pages."
+}

@@ -1,0 +1,166 @@
+{
+  "year": 1944,
+  "tier": "early",
+  "headline": "A hundred and sixty thousand troops landed in Normandy in June, and forty-four nations agreed on money in July",
+  "texture": [
+    "About a hundred and sixty thousand Allied troops shipped from England landed in Normandy on June 6, after airborne divisions dropped inland and an elaborate set of naval deceptions. A storm wrecked the Mulberry harbours on June 19. Claus von Stauffenberg's bomb failed to kill Hitler on July 20. Paris rose against the garrison in August and was liberated. Germany opened the Ardennes offensive in December and reached its furthest point at Celles.",
+    "The Bretton Woods conference ran from July 1 and ended with agreements setting up the International Bank and the monetary system that followed the war. Roosevelt won a fourth term on November 7. The SS shot civilians at Ascq in April, one of many such reprisals that year.",
+    "Bing Crosby played a priest in Going My Way, which took Best Picture, the largest audience of the year, and the best-selling record too, since Swinging on a Star came out of it. Meet Me in St. Louis was second. Edvard Munch died in January in occupied Norway."
+  ],
+  "lead": [
+    "world.d_day",
+    "world.july_20_plot",
+    "world.paris_liberated",
+    "world.bretton_woods",
+    "pol.roosevelt_fourth_term",
+    "film.gross#0",
+    "music.chart_toppers#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "pol.roosevelt_fourth_term": {
+      "section": "politics",
+      "label": "Roosevelt wins a fourth term",
+      "value": "Reelected over the Republican candidate",
+      "date": "1944-11-07",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "world.d_day": {
+      "section": "world",
+      "label": "D-Day",
+      "value": "About 160,000 Allied troops shipped from England landed in Normandy",
+      "detail": "US and British airborne divisions dropped inland beforehand, alongside a set of naval deceptions. A severe storm damaged the Mulberry harbours on June 19.",
+      "date": "1944-06-06",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "world.july_20_plot": {
+      "section": "world",
+      "label": "July 20 plot",
+      "value": "Hitler survived the attempt on his life led by Claus von Stauffenberg",
+      "date": "1944-07-20",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "world.paris_liberated": {
+      "section": "world",
+      "label": "Liberation of Paris",
+      "value": "Began with a resistance insurrection against the German garrison",
+      "date": "1944-08-25",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "world.bretton_woods": {
+      "section": "world",
+      "label": "Bretton Woods Conference",
+      "value": "Opened in New Hampshire on July 1 and ended with agreements setting up the International Bank and a postwar monetary system",
+      "date": "1944-07-01",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "world.ardennes": {
+      "section": "world",
+      "label": "Battle of the Bulge begins",
+      "value": "Germany opened the Ardennes offensive in December and reached its furthest point at Celles",
+      "date": "1944-12",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "world.ascq_massacre": {
+      "section": "world",
+      "label": "Ascq massacre",
+      "value": "The 12th SS Panzer Division shot civilians in the French town",
+      "date": "1944-04-02",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Going My Way, $6,500,000, Paramount",
+        "Meet Me in St. Louis, $5,016,000, MGM",
+        "Since You Went Away, $4,950,000, United Artists and Selznick",
+        "Thirty Seconds Over Tokyo, $4,297,000, MGM",
+        "The Story of Dr. Wassell, $4,209,968, Paramount"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1944_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Going My Way",
+      "detail": "Also the year's highest-grossing film.",
+      "source": "https://en.wikipedia.org/wiki/17th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Box office was at a wartime peak, with wages high and little in the shops to spend them on.",
+      "source": "https://en.wikipedia.org/wiki/1944_in_film"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Swinging on a Star, Bing Crosby",
+        "Don't Fence Me In, Bing Crosby and the Andrews Sisters",
+        "I'll Get By, Harry James and His Orchestra"
+      ],
+      "detail": "From Billboard's retail sales chart. The top record came from the year's highest-grossing film.",
+      "source": "https://en.wikipedia.org/wiki/1944_in_music"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A year of winning that still cost more than any other, with the invasion in June, a failed assassination in July, and a surprise German offensive at Christmas."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the St. Louis Browns",
+      "source": "https://en.wikipedia.org/wiki/1944_in_sports"
+    },
+    "deaths.munch": {
+      "section": "deaths",
+      "label": "Edvard Munch",
+      "value": "Died January 23. Born 1863",
+      "detail": "Norwegian painter.",
+      "date": "1944-01-23",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "deaths.smetona": {
+      "section": "deaths",
+      "label": "Antanas Smetona",
+      "value": "Died January 9. Born 1874",
+      "detail": "President of Lithuania.",
+      "date": "1944-01-09",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "deaths.yurdakul": {
+      "section": "deaths",
+      "label": "Mehmet Emin Yurdakul",
+      "value": "Died January 14. Born 1869",
+      "detail": "Turkish writer.",
+      "date": "1944-01-14",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    },
+    "deaths.nishida": {
+      "section": "deaths",
+      "label": "Yoshimi Nishida",
+      "value": "Died January 21. Born 1892",
+      "detail": "Japanese general.",
+      "date": "1944-01-21",
+      "source": "https://en.wikipedia.org/wiki/1944"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. The Ardennes offensive carries a month because the source lists it under a month heading without a day. Bing Crosby playing a priest, Munch dying in occupied Norway, and wartime wages lifting box office are general knowledge rather than claims from the year pages."
+}
