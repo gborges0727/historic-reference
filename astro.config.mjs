@@ -7,11 +7,10 @@ import { defineConfig } from 'astro/config';
 const base = '/';
 
 export default defineConfig({
-  // `site` is deliberately unset until the first deploy reports the real origin.
-  // Workers serves at <name>.<account-subdomain>.workers.dev and the subdomain is not
-  // knowable from here, so guessing it would put a wrong canonical URL in the build.
-  // Nothing reads Astro.site today and there is no sitemap integration, so unset is
-  // harmless and a wrong value would not be.
+  // The deployed origin. Workers serves at <name>.<account-subdomain>.workers.dev, and
+  // the account subdomain is gbborges. Only canonical URLs and any future sitemap read
+  // this; the base above is what actually shapes the links in the build.
+  site: 'https://historic-reference.gbborges.workers.dev',
   base,
   output: 'static',
   trailingSlash: 'ignore',
