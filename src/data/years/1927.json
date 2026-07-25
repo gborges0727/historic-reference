@@ -1,0 +1,157 @@
+{
+  "year": 1927,
+  "tier": "early",
+  "headline": "Lindbergh crossed the Atlantic alone in May, Al Jolson spoke from a screen in October, and Ruth hit sixty",
+  "texture": [
+    "Charles Lindbergh flew from New York to Paris alone and without stopping on May 20 and 21, and came back to a level of fame no pilot had known. Babe Ruth hit sixty home runs, a major league record, and the Yankees took the World Series in four games. Nicola Sacco and Bartolomeo Vanzetti were electrocuted at midnight in Charlestown after seven years of appeals, and protests were held across the world.",
+    "The Jazz Singer premiered at the Warner Theater in New York on October 6 with Al Jolson speaking and singing in synchronised sound. It finished second for the year at $1,974,000 in rentals, behind Cecil B. DeMille's The King of Kings. Every studio spent the following months working out what to do about it.",
+    "Philo Farnsworth got a fully electronic television system working on September 7, and in April Bell Telephone had transmitted a picture of Herbert Hoover over a wire. Carving began at Mount Rushmore on October 4, four months after Coolidge rededicated the park. None of the television work reached a single home this year, or for years after."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.lindbergh",
+    "pol.sacco_vanzetti_executed",
+    "film.jazz_singer",
+    "film.gross#0",
+    "tech.farnsworth",
+    "sports.babe_ruth"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Calvin Coolidge (R)",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "pol.sacco_vanzetti_executed": {
+      "section": "politics",
+      "label": "Sacco and Vanzetti executed",
+      "value": "Electrocuted at midnight in Charlestown, Massachusetts, with protests held around the world",
+      "detail": "Convicted of murder in 1921 after a trial argued about ever since.",
+      "source": "https://en.wikipedia.org/wiki/1927_in_the_United_States"
+    },
+    "pol.mount_rushmore": {
+      "section": "politics",
+      "label": "Mount Rushmore",
+      "value": "Carving of the sculptures began in South Dakota",
+      "detail": "Coolidge had rededicated the park on August 10.",
+      "date": "1927-10-04",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "world.lindbergh": {
+      "section": "world",
+      "label": "Lindbergh crosses the Atlantic",
+      "value": "The first solo nonstop transatlantic flight, New York to Paris",
+      "date": "1927-05-20",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "world.geiger_crash": {
+      "section": "world",
+      "label": "Aviation was still lethal",
+      "value": "Major Harold Geiger, a US Army aviation pioneer, died in a crash on May 17, three days before Lindbergh left",
+      "date": "1927-05-17",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The King of Kings, $2,641,687, Pathe Exchange",
+        "The Jazz Singer, $1,974,000, Warner Bros.",
+        "7th Heaven, $1,750,000, Fox Film",
+        "The Gaucho, $1,400,000, United Artists",
+        "The Patent Leather Kid and Jesse James, $1,200,000 each"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Fifth place was a tie.",
+      "source": "https://en.wikipedia.org/wiki/1927_in_film"
+    },
+    "film.jazz_singer": {
+      "section": "film",
+      "label": "The Jazz Singer premieres",
+      "value": "Al Jolson spoke and sang in synchronised sound at the Warner Theater in New York",
+      "detail": "The first feature with lip-synchronous singing and speech, in several sequences rather than throughout.",
+      "date": "1927-10-06",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Almost everything was silent with live music, and one picture in October arrived with a voice on a disc.",
+      "source": "https://en.wikipedia.org/wiki/1927_in_film"
+    },
+    "tech.farnsworth": {
+      "section": "tech",
+      "label": "First fully electronic television",
+      "value": "Philo Farnsworth got a working system running",
+      "date": "1927-09-07",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "tech.bell_image": {
+      "section": "tech",
+      "label": "A picture sent down a wire",
+      "value": "Bell Telephone transmitted an image of Herbert Hoover, then commerce secretary",
+      "date": "1927-04-07",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A boom with a hero in it. One man flew an ocean, one man sang from a screen, and two men were executed in Massachusetts while much of the world objected."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Pittsburgh Pirates",
+      "detail": "Played October 5 to 8.",
+      "source": "https://en.wikipedia.org/wiki/1927_in_sports"
+    },
+    "sports.babe_ruth": {
+      "section": "sports",
+      "label": "Sixty home runs",
+      "value": "Babe Ruth set a major league record",
+      "source": "https://en.wikipedia.org/wiki/1927_in_sports"
+    },
+    "deaths.nazif": {
+      "section": "deaths",
+      "label": "Suleyman Nazif",
+      "value": "Died January 4. Born 1870",
+      "detail": "Turkish poet.",
+      "date": "1927-01-04",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "deaths.netzel": {
+      "section": "deaths",
+      "label": "Laura Netzel",
+      "value": "Died February 10. Born 1839",
+      "detail": "Swedish composer and conductor.",
+      "date": "1927-02-10",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "deaths.artsybashev": {
+      "section": "deaths",
+      "label": "Mikhail Artsybashev",
+      "value": "Died March 3. Born 1878",
+      "detail": "Russian writer.",
+      "date": "1927-03-03",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "deaths.stillman": {
+      "section": "deaths",
+      "label": "Marie Spartali Stillman",
+      "value": "Died March 6. Born 1844",
+      "detail": "British painter.",
+      "date": "1927-03-06",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    },
+    "deaths.gondra": {
+      "section": "deaths",
+      "label": "Manuel Gondra",
+      "value": "Died March 8",
+      "detail": "Paraguayan author and journalist, twice president of Paraguay.",
+      "date": "1927-03-08",
+      "source": "https://en.wikipedia.org/wiki/1927"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. No awards section: the first Academy Awards ceremony was not held until 1929, which is where the film.awards window opens, so the films of this year were honoured on a page two years ahead. The Sacco and Vanzetti fact carries no date because the source sentence begins after it, and August 23 from memory is not good enough. Isadora Duncan died this year but appears in the source as an undated sub-entry, so she is left out."
+}

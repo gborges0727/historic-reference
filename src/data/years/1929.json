@@ -1,0 +1,172 @@
+{
+  "year": 1929,
+  "tier": "early",
+  "headline": "The Academy handed out its first awards in fifteen minutes, and in October the market fell for six days",
+  "texture": [
+    "The Wall Street Crash ran from October 24 to 29 and wiped out a decade of paper gains in a handful of sessions. Hoover had been inaugurated in March into what everyone assumed was a continuing boom. The Museum of Modern Art opened in New York on November 7, nine days after the worst of it, having been planned when money was still easy.",
+    "The first Academy Awards were presented on May 16 in a fifteen-minute ceremony at the Hollywood Roosevelt, honouring films from the previous two years, and Wings won. The Broadway Melody led the year's box office at $2,808,000 in rentals and won the second ceremony's top prize. Four of the year's five biggest films were musicals, which is what happens when sound is eighteen months old.",
+    "Five men were shot dead in a Chicago garage on February 14 by killers dressed as police, in a Capone operation against a rival gang. The Lateran Treaty was ratified on June 7, making Vatican City a state. John Logie Baird's thirty-line television system was transmitted experimentally from August 20, and Vladimir Zworykin patented a colour system in November, neither of which anyone could watch."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.wall_street_crash",
+    "film.awards_first",
+    "film.best_picture",
+    "film.gross#0",
+    "pol.valentines_massacre",
+    "culture.moma"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Herbert Hoover (R), inaugurated in March",
+      "detail": "Succeeded Calvin Coolidge, seven months before the crash.",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "pol.valentines_massacre": {
+      "section": "politics",
+      "label": "Saint Valentine's Day Massacre",
+      "value": "Five gangsters, rivals of Al Capone, were shot dead in a Chicago garage by killers dressed as police",
+      "date": "1929-02-14",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "world.wall_street_crash": {
+      "section": "world",
+      "label": "Wall Street Crash",
+      "value": "Three multi-digit percentage falls between October 24 and 29 wiped out most of the decade's gains",
+      "date": "1929-10-24",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "world.lateran_treaty": {
+      "section": "world",
+      "label": "Lateran Treaty ratified",
+      "value": "Made Vatican City a sovereign state",
+      "date": "1929-06-07",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "world.kellogg_briand_effect": {
+      "section": "world",
+      "label": "Kellogg-Briand Pact takes effect",
+      "value": "The treaty renouncing war as an instrument of foreign policy came into force in July",
+      "date": "1929-07",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "film.awards_first": {
+      "section": "film",
+      "label": "First Academy Awards",
+      "value": "Presented in a fifteen-minute ceremony at the Hollywood Roosevelt, with Wings taking the top prize",
+      "detail": "The awards covered films released across the previous two years rather than one.",
+      "date": "1929-05-16",
+      "source": "https://en.wikipedia.org/wiki/1st_Academy_Awards"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Broadway Melody",
+      "detail": "Awarded at the second ceremony, held the following spring. It was also the year's highest-grossing film.",
+      "source": "https://en.wikipedia.org/wiki/2nd_Academy_Awards"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Broadway Melody, $2,808,000, MGM",
+        "The Cock-Eyed World, $2,700,000, Fox Film",
+        "Gold Diggers of Broadway, $2,540,000, Warner Bros.",
+        "Sunny Side Up, $2,190,000, Fox Film",
+        "Rio Rita, $1,775,000, RKO"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Four of the five were musicals.",
+      "source": "https://en.wikipedia.org/wiki/1929_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre wired for sound, if the theatre had been able to afford the conversion. Silent production was ending.",
+      "source": "https://en.wikipedia.org/wiki/1929_in_film"
+    },
+    "tech.baird_broadcast": {
+      "section": "tech",
+      "label": "Baird's television transmitted",
+      "value": "His experimental thirty-line system began going out from August 20",
+      "date": "1929-08-20",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "tech.color_television_patent": {
+      "section": "tech",
+      "label": "Colour television patented",
+      "value": "Vladimir Zworykin took out the first patent",
+      "date": "1929-11",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "culture.moma": {
+      "section": "culture",
+      "label": "Museum of Modern Art opens",
+      "value": "Opened to the public in New York, nine days after the worst of the crash",
+      "date": "1929-11-07",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Nine months of certainty and then six days that took it away. Nobody in October knew how long the consequences would run."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Philadelphia Athletics beat the Chicago Cubs",
+      "detail": "Played October 8 to 14.",
+      "source": "https://en.wikipedia.org/wiki/1929_in_sports"
+    },
+    "sports.uniform_numbers": {
+      "section": "sports",
+      "label": "Numbers on uniforms",
+      "value": "The New York Yankees became the first team to wear them",
+      "date": "1929-04-16",
+      "source": "https://en.wikipedia.org/wiki/1929_in_sports"
+    },
+    "deaths.langtry": {
+      "section": "deaths",
+      "label": "Lillie Langtry",
+      "value": "Died February 12. Born 1853",
+      "detail": "British singer and actress.",
+      "date": "1929-02-12",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "deaths.buick": {
+      "section": "deaths",
+      "label": "David Dunbar Buick",
+      "value": "Died March 5. Born 1854",
+      "detail": "Scottish-American inventor, who gave his name to the car company.",
+      "date": "1929-03-05",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "deaths.russell": {
+      "section": "deaths",
+      "label": "William Russell",
+      "value": "Died February 18. Born 1884",
+      "detail": "American actor.",
+      "date": "1929-02-18",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "deaths.keenan": {
+      "section": "deaths",
+      "label": "Frank Keenan",
+      "value": "Died February 24. Born 1858",
+      "detail": "American actor.",
+      "date": "1929-02-24",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    },
+    "deaths.gutierrez_guerra": {
+      "section": "deaths",
+      "label": "Jose Gutierrez Guerra",
+      "value": "Died February 3",
+      "detail": "Bolivian economist and statesman, president of Bolivia.",
+      "date": "1929-02-03",
+      "source": "https://en.wikipedia.org/wiki/1929"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. This is the first year with an awards section, because the film.awards window opens with the first ceremony held in May. Two awards facts appear as a result, the first ceremony as a dated 1929 event and the Best Picture for this year's films at the second ceremony, which follows the convention used on every later page. Four of five biggest films being musicals is counted from the source table."
+}

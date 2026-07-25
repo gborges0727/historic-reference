@@ -1,0 +1,164 @@
+{
+  "year": 1928,
+  "tier": "early",
+  "headline": "Fleming found penicillin, Mickey Mouse arrived in November, and fifteen nations signed away war",
+  "texture": [
+    "Alexander Fleming noticed that a mould had killed the bacteria in a dish he had left out, which turned out to be the first true antibiotic. Fifteen nations signed the Kellogg-Briand Pact in Paris on August 27, renouncing war as an instrument of policy, and the signatures held for about a decade. Stalin launched the first five-year plan on October 1. Herbert Hoover won the presidency on November 6 by a wide margin.",
+    "Mickey Mouse made his official debut in Steamboat Willie on November 18, with sound cut to the picture. The Singing Fool took $3,821,000 in rentals, twice what any silent managed, and Al Jolson was in that one too. Chaplin's The Circus came second and was silent. The argument about whether talking pictures were a novelty was effectively over by December.",
+    "Schenectady got the first regular schedule of television programming on May 10, and a melodrama called The Queen's Messenger went out by television on September 11, the first play broadcast that way. Amelia Earhart crossed the Atlantic by air on June 17 and 18, the first woman to do it. Thomas Hardy died in January and Hendrik Lorentz in February."
+  ],
+  "lead": [
+    "pol.us_president",
+    "tech.penicillin",
+    "world.kellogg_briand",
+    "film.gross#0",
+    "film.mickey_mouse",
+    "tech.television_schedule",
+    "world.earhart"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Calvin Coolidge (R), with Herbert Hoover elected in November",
+      "detail": "Hoover won by a wide margin on November 6.",
+      "date": "1928-11-06",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "pol.lindbergh_medal": {
+      "section": "politics",
+      "label": "Lindbergh decorated",
+      "value": "Presented with the Medal of Honor for the transatlantic flight",
+      "date": "1928-03-21",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "world.kellogg_briand": {
+      "section": "world",
+      "label": "Kellogg-Briand Pact",
+      "value": "Signed in Paris, the first treaty to outlaw aggressive war",
+      "date": "1928-08-27",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "world.five_year_plan": {
+      "section": "world",
+      "label": "First Soviet five-year plan",
+      "value": "Stalin launched it, reorganising the economy around heavy industry",
+      "date": "1928-10-01",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "world.earhart": {
+      "section": "world",
+      "label": "Earhart crosses the Atlantic",
+      "value": "The first woman to make a successful transatlantic flight, on June 17 and 18",
+      "date": "1928-06-17",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "world.italia_crash": {
+      "section": "world",
+      "label": "Airship Italia lost",
+      "value": "Crashed at the North Pole, stranding its crew on the ice",
+      "date": "1928-05-24",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Singing Fool, $3,821,000, Warner Bros.",
+        "The Circus, $1,820,000, United Artists",
+        "Street Angel, $1,700,000, Fox Film",
+        "Lilac Time, $1,675,000, Warner Bros.",
+        "Four Sons and Ramona, $1,500,000 each"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The top film had sound and took twice what the silent in second place managed.",
+      "source": "https://en.wikipedia.org/wiki/1928_in_film"
+    },
+    "film.mickey_mouse": {
+      "section": "film",
+      "label": "Mickey Mouse debuts",
+      "value": "Steamboat Willie, with sound synchronised to the animation",
+      "date": "1928-11-18",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. More of them were wired for sound every month, and the year's biggest film talked while the second biggest did not.",
+      "source": "https://en.wikipedia.org/wiki/1928_in_film"
+    },
+    "tech.penicillin": {
+      "section": "tech",
+      "label": "Penicillin discovered",
+      "value": "Alexander Fleming found that a mould killed bacteria, the first true antibiotic",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "tech.television_schedule": {
+      "section": "tech",
+      "label": "First regular television schedule",
+      "value": "Programming began on a regular schedule in Schenectady, New York",
+      "date": "1928-05-10",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "tech.televised_play": {
+      "section": "tech",
+      "label": "First play broadcast by television",
+      "value": "The melodrama The Queen's Messenger went out to a handful of receivers",
+      "date": "1928-09-11",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Confidence with no visible ceiling. Nations signing away war, a mouse with a soundtrack, and a stock market nobody thought could go down."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the St. Louis Cardinals",
+      "detail": "Played October 4 to 9.",
+      "source": "https://en.wikipedia.org/wiki/1928_in_sports"
+    },
+    "deaths.hardy": {
+      "section": "deaths",
+      "label": "Thomas Hardy",
+      "value": "Died January 11. Born 1840",
+      "detail": "British writer.",
+      "date": "1928-01-11",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "deaths.lorentz": {
+      "section": "deaths",
+      "label": "Hendrik Lorentz",
+      "value": "Died February 4. Born 1853",
+      "detail": "Dutch physicist and Nobel laureate.",
+      "date": "1928-02-04",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "deaths.blasco_ibanez": {
+      "section": "deaths",
+      "label": "Vicente Blasco Ibanez",
+      "value": "Died January 28. Born 1867",
+      "detail": "Spanish novelist and screenwriter.",
+      "date": "1928-01-28",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "deaths.diaz_miron": {
+      "section": "deaths",
+      "label": "Salvador Diaz Miron",
+      "value": "Died June 12. Born 1853",
+      "detail": "Mexican poet.",
+      "date": "1928-06-12",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    },
+    "deaths.cordova": {
+      "section": "deaths",
+      "label": "Gonzalo Cordova",
+      "value": "Died April 13. Born 1863",
+      "detail": "President of Ecuador.",
+      "date": "1928-04-13",
+      "source": "https://en.wikipedia.org/wiki/1928"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. No awards section: the first Academy Awards ceremony was held in 1929, where the film.awards window opens, and it honoured films from this year and the one before. Penicillin carries no date because the source states the discovery without dating it. The Kellogg-Briand signatures holding for about a decade is a judgement rather than a sourced claim, and comes out if challenged."
+}
