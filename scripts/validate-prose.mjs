@@ -56,12 +56,22 @@ const bannedPatterns = banned.phrases.map((phrase) => ({ phrase, re: phraseRegex
  * Function words never count as proper nouns, however the corpus happens to fall.
  * Without this, a sentence-initial "This" or "Streaming" scores as distinctive on a
  * small corpus purely because no lowercase instance exists yet.
+ *
+ * The second group is the same failure from a different direction. Proper-noun-hood is
+ * inferred from "capitalised here and never written lowercase anywhere in the corpus",
+ * and a common noun that only ever appears inside a title beats that test. 1934 scored
+ * "actor" as distinctive because its paragraph says "Best Actor" and no year file
+ * happens to write the word in lowercase prose. Award names and titles of office are
+ * where this collects, so they are listed rather than left to chance.
  */
 const NEVER_PROPER = new Set(
   ('a an and as at but by for from he his her hers him i if in into it its no nor not of on once one or she so ' +
     'that the their them then there these they this those to two three four five six seven eight nine ten twenty ' +
     'was were what when where which while who whose with you your after before during over under up down out ' +
-    'most many some few every each all both other another every anyone everyone nobody people').split(' '),
+    'most many some few every each all both other another every anyone everyone nobody people ' +
+    'actor actress picture director screenplay song score album record single series ' +
+    'president senator governor representative minister chancellor king queen emperor pope general admiral ' +
+    'best supporting original adapted feature short documentary').split(' '),
 );
 
 const files = loadYearFiles().filter((f) => f.data && Array.isArray(f.data.texture));

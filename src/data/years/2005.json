@@ -1,0 +1,442 @@
+{
+  "year": 2005,
+  "tier": "modern",
+  "headline": "Katrina hit the Gulf Coast on August 29, bombers struck London on July 7, and YouTube's first video went up",
+  "texture": [
+    "Katrina came ashore on the Gulf Coast on August 29 and the levees in Greater New Orleans failed the same day. The New Orleans Saints played their whole season on the road, and schools in St. Tammany Parish reopened just over a month later. Rita struck near Beaumont and Lake Charles on September 24 and reflooded the Ninth Ward. Millions left Houston ahead of it, the largest evacuation the city had run. Wilma crossed near Cape Romano on October 24 and did $29.1 billion in damage.",
+    "Chad Hurley registered youtube.com on February 14 and the site's first video went up on April 23. Reddit launched on June 23. Microsoft shipped the Xbox 360 in North America on November 22, in Europe on December 2 and in Japan on December 10. Sony showed the PlayStation 3 and Nintendo the Wii at E3 and neither reached buyers. Revenue from digital music sales passed revenue from singles, which made digital the third biggest music market.",
+    "John Paul II died on April 2 and more than four million people travelled to the Vatican. Benedict XVI succeeded him on April 19 as the 265th pope. The Kyoto Protocol took effect on February 16 without the United States. The trial of Saddam Hussein opened on October 19, with seven other defendants accused of mass killings and torture. Congress certified the presidential result on January 6 over an objection to Ohio's electoral votes, the first objection to any state's votes since 1969. A second was added to the clock at the end of December 31, the first since 1998."
+  ],
+  "lead": [
+    "pol.us_president",
+    "event.katrina",
+    "world.pope",
+    "film.gross#0",
+    "tech.web_video",
+    "tech.games",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R)",
+      "detail": "Sworn in for a second term on January 20, with Dick Cheney as vice president.",
+      "date": "2005-01-20",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "109th Congress, seated January 3",
+      "detail": "Dennis Hastert (R) was Speaker of the House and Bill Frist (R) Senate majority leader. The 108th Congress sat until January 3.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "pol.chief_justice": {
+      "section": "politics",
+      "label": "Chief Justice of the United States",
+      "value": "William Rehnquist until September 3, then John Roberts from September 29",
+      "detail": "Rehnquist died at 80 of anaplastic thyroid cancer. Roberts had already been nominated for the seat of the retiring Sandra Day O'Connor, was renominated as Chief Justice on September 5, and was sworn in as the 17th.",
+      "date": "2005-09-29",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "pol.court_vacancy": {
+      "section": "politics",
+      "label": "The second Supreme Court vacancy",
+      "value": "Harriet Miers withdrew on October 27 and Samuel Alito was nominated on October 31",
+      "detail": "O'Connor stayed on the Court until a successor was confirmed.",
+      "date": "2005-10-31",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "pol.libby": {
+      "section": "politics",
+      "label": "CIA leak indictment",
+      "value": "Lewis Libby resigned as an adviser to the vice president after being charged with obstruction of justice, perjury and making a false statement",
+      "detail": "Senate Democrats forced a closed session over the indictment on November 1.",
+      "date": "2005-10-28",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "pol.schiavo": {
+      "section": "politics",
+      "label": "Terri Schiavo",
+      "value": "Died on March 31 at 41 in Pinellas Park, Florida, after courts declined to order her feeding tube reinserted",
+      "detail": "She had been in a vegetative state since 1990. The 11th Circuit Court of Appeals refused by 2 to 1 on March 23.",
+      "date": "2005-03-31",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "pol.roper": {
+      "section": "politics",
+      "label": "Roper v. Simmons",
+      "value": "The Supreme Court ruled the death penalty unconstitutional for anyone whose crime was committed before the age of 18",
+      "date": "2005-03-01",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "event.katrina": {
+      "section": "world",
+      "label": "Hurricane Katrina",
+      "value": "Made landfall along the US Gulf Coast, striking coastal areas from Louisiana to Alabama and flooding the Mississippi coast by 31 feet",
+      "detail": "The sources disagree on the toll and the cost. The US page says at least 1,836 killed and $108 billion in damage, while the year page gives 1,392 in its summary and about 1,500 with $81 billion in its weather section.",
+      "date": "2005-08-29",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "world.hurricane_season": {
+      "section": "world",
+      "label": "Atlantic hurricane season",
+      "value": "28 storms, past the 1933 record of 21, and 15 hurricanes, past the 1969 record of 12",
+      "detail": "Four reached category 5: Emily, Katrina, Rita and Wilma. Wilma was the most intense Atlantic hurricane on record and did an estimated $29.1 billion in damage after landfall near Cape Romano on October 24.",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "world.pope": {
+      "section": "world",
+      "label": "Pope John Paul II dies",
+      "value": "Died on April 2 after about 27 years as pope, and more than four million people travelled to the Vatican to mourn him",
+      "detail": "His was the third longest tenure of any pope. Benedict XVI succeeded him on April 19, becoming the 265th.",
+      "date": "2005-04-02",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "event.london_bombings": {
+      "section": "world",
+      "label": "London bombings",
+      "value": "Four coordinated suicide bombings hit central London, killing 52 people and injuring more than 700",
+      "detail": "The year page gives 52 killed in its events list and 56 in its conflicts section.",
+      "date": "2005-07-07",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "world.hariri": {
+      "section": "world",
+      "label": "Rafic Hariri assassinated",
+      "value": "A suicide bomber killed the former Lebanese prime minister along with 21 others in Beirut",
+      "detail": "Syria withdrew the last of its military garrison from Lebanon on April 26, ending a 29-year occupation.",
+      "date": "2005-02-14",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "world.kashmir_earthquake": {
+      "section": "world",
+      "label": "Kashmir earthquake",
+      "value": "A magnitude 7.6 earthquake struck Azad Kashmir in Pakistan and nearby areas, killing more than 86,000 people and displacing several million",
+      "detail": "The year page gives more than 86,000 in its events list, approximately 80,000 in its weather section, and between 75,000 and 90,000 in its summary.",
+      "date": "2005-10-08",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "world.iraq_elections": {
+      "section": "world",
+      "label": "Iraq's first free elections in decades",
+      "value": "Held in January, followed by the Iraqi Transitional Government, a constitution approved by referendum, and a further parliamentary vote in December",
+      "detail": "The year page dates the first vote to January without giving the day.",
+      "date": "2005-01",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "world.merkel": {
+      "section": "world",
+      "label": "Angela Merkel becomes Chancellor of Germany",
+      "value": "She took office on November 22, the first woman to hold the post",
+      "detail": "Her Christian Democrats had won the federal election.",
+      "date": "2005-11-22",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Harry Potter and the Goblet of Fire, $895,921,036, Warner Bros.",
+        "Star Wars: Episode III Revenge of the Sith, $849,997,605, 20th Century Fox",
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, $745,013,115, Walt Disney Pictures",
+        "War of the Worlds, $603,873,119, Paramount and DreamWorks",
+        "King Kong, $556,906,378, Universal"
+      ],
+      "detail": "Worldwide gross, which is the basis the film page ranks by. Revenge of the Sith took $50 million on its opening day, past the $40.4 million opening-day record held by Spider-Man 2.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Crash",
+      "detail": "Awarded at the 78th Academy Awards on March 5 the following year, hosted by Jon Stewart. Ang Lee won Best Director for Brokeback Mountain, the first non-white winner in that category. Philip Seymour Hoffman won Best Actor for Capote and Reese Witherspoon Best Actress for Walk the Line.",
+      "source": "https://en.wikipedia.org/wiki/78th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Tsotsi (South Africa), winner",
+        "Don't Tell (Italy)",
+        "Joyeux Noël (France)",
+        "Paradise Now (Palestinian territories)",
+        "Sophie Scholl: The Final Days (Germany)"
+      ],
+      "detail": "Tsotsi was in Afrikaans and directed by Gavin Hood. Paradise Now was first nominated as a submission from Palestine, redesignated by the Academy as the Palestinian Authority after protests, and announced at the ceremony as from the Palestinian territories.",
+      "source": "https://en.wikipedia.org/wiki/78th_Academy_Awards"
+    },
+    "film.cannes": {
+      "section": "film",
+      "label": "Palme d'Or",
+      "value": "L'Enfant, directed by Jean-Pierre and Luc Dardenne",
+      "detail": "Awarded at the 58th Cannes Film Festival on May 22. Broken Flowers by Jim Jarmusch took the Grand Prix and Michael Haneke won best director for Caché.",
+      "date": "2005-05-22",
+      "source": "https://en.wikipedia.org/wiki/2005_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$6.41",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. Revenge of the Sith opened on 9,400 screens at 3,661 theatres worldwide on May 19 and took $50 million that day.",
+      "detail": "The cached film page carries no home-video entry for the year, so this fact claims nothing about disc or download.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2005",
+      "value": [
+        "American Idol, Tuesday, FOX, 17.6 rating",
+        "American Idol, Wednesday, FOX, 17.2",
+        "CSI: Crime Scene Investigation, CBS, 15.6",
+        "Desperate Housewives, ABC, 13.8",
+        "Grey's Anatomy, ABC, 12.5"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this is the season that began in autumn and ended the following May.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2005%E2%80%9306"
+    },
+    "tv.new_series": {
+      "section": "tv",
+      "label": "New series",
+      "value": [
+        "The Office, NBC, March 24",
+        "Grey's Anatomy, ABC, March 27",
+        "Prison Break, FOX, August 29",
+        "How I Met Your Mother, CBS, September 19",
+        "Criminal Minds, CBS, September 22"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2005_in_American_television"
+    },
+    "tv.anchor_change": {
+      "section": "tv",
+      "label": "Dan Rather leaves the CBS Evening News",
+      "value": "He retired as main anchor on March 9, the 24th anniversary of his first broadcast, and Bob Schieffer took the chair on an interim basis",
+      "date": "2005-03-09",
+      "source": "https://en.wikipedia.org/wiki/2005_in_American_television"
+    },
+    "tv.family_guy": {
+      "section": "tv",
+      "label": "Family Guy returns to Fox",
+      "value": "New episodes began on May 1 with North by North Quahog, after the network had cancelled the show in 2002",
+      "detail": "Fox renewed it on the strength of reruns on Adult Swim, DVD sales and letters. The same night started Animation Domination, pairing it with King of the Hill, The Simpsons and the official series premiere of American Dad.",
+      "date": "2005-05-01",
+      "source": "https://en.wikipedia.org/wiki/2005_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "We Belong Together, Mariah Carey",
+      "detail": "Hollaback Girl by Gwen Stefani came second, Let Me Love You by Mario third and Since U Been Gone by Kelly Clarkson fourth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2005"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling album worldwide",
+      "value": "X&Y, Coldplay",
+      "detail": "The Emancipation of Mimi by Mariah Carey came second and The Massacre by 50 Cent third. The best-selling album not in English was Fijación Oral, Vol. 1 by Shakira, 27th for the year.",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard was counting a Hot Ringtones chart. We Belong Together became the first song to hold number one on nine Billboard charts at once in the week ending August 6, that chart among them.",
+      "detail": "Hung Up by Madonna set a record on the download charts by holding number one for seven consecutive weeks.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_music"
+    },
+    "music.live_8": {
+      "section": "music",
+      "label": "Live 8",
+      "value": "Ten concerts on the same day around the world, held for the Make Poverty History campaign",
+      "detail": "Pink Floyd announced on June 12 that Roger Waters, who left in 1985, would rejoin them for the London concert, their first performance as a quartet since the Wall tour in 1981.",
+      "date": "2005-07-02",
+      "source": "https://en.wikipedia.org/wiki/2005_in_music"
+    },
+    "tech.web_video": {
+      "section": "tech",
+      "label": "YouTube",
+      "value": "Founded on February 14 by Steve Chen, Chad Hurley and Jawed Karim, who registered the youtube.com domain the same day",
+      "detail": "The first video, Me at the zoo, was uploaded on April 23.",
+      "date": "2005-02-14",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "tech.social_news": {
+      "section": "tech",
+      "label": "Reddit",
+      "value": "The social news site launched on June 23",
+      "date": "2005-06-23",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Games",
+      "value": [
+        "Xbox 360, November 22 in North America",
+        "Resident Evil 4, January 11 on GameCube",
+        "God of War, March 22",
+        "Shadow of the Colossus, October 18",
+        "Guitar Hero, November 7"
+      ],
+      "detail": "The Xbox 360 reached Europe on December 2 and Japan on December 10. Sony's PlayStation 3 and Nintendo's Wii were unveiled at or just before E3 and neither shipped. Gran Turismo 4 was the year's best-selling game worldwide.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_video_games"
+    },
+    "tech.games_market": {
+      "section": "tech",
+      "label": "US spending on games",
+      "value": "$10.5 billion on hardware, software and accessories, up 6 percent and past the $10.3 billion record set in 2002",
+      "detail": "Console games fell 12 percent and console hardware 3 percent. The portable market reached $1.4 billion with hardware sales up 96 percent on the Nintendo DS and the PlayStation Portable. Computer game sales fell 14 percent to $953 million.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_video_games"
+    },
+    "tech.face_transplant": {
+      "section": "tech",
+      "label": "First partial face transplant",
+      "value": "Bernard Devauchelle and colleagues operated on Isabelle Dinoire on November 27 at the Centre hospitalier Universitaire Nord in Amiens, France",
+      "detail": "The date is disputed in the sources. The science page and Dinoire's own article give November 27, while the year page dates it November 30.",
+      "date": "2005-11-27",
+      "source": "https://en.wikipedia.org/wiki/Isabelle_Dinoire"
+    },
+    "tech.shuttle": {
+      "section": "tech",
+      "label": "Space shuttle flies again",
+      "value": "Discovery launched on July 26 as the first Return to Flight mission after the Columbia disaster, and landed at Edwards Air Force Base on August 9",
+      "date": "2005-07-26",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.29 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1997.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "Fell below 5 percent in December, the first time since August 2001",
+      "date": "2005-12",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A hurricane that emptied an American city while the country watched it happen, a war in its third year, and a president losing support through all of it."
+    },
+    "culture.commencement": {
+      "section": "culture",
+      "label": "This Is Water",
+      "value": "David Foster Wallace gave the commencement address at Kenyon College in Ohio",
+      "date": "2005-05-21",
+      "source": "https://en.wikipedia.org/wiki/2005"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXIX",
+      "value": "New England Patriots 24, Philadelphia Eagles 21",
+      "detail": "Played at Alltel Stadium in Jacksonville. New England won a second consecutive title.",
+      "date": "2005-02-06",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Chicago White Sox swept the Houston Astros four games to none, clinching on October 26",
+      "detail": "Their first title since 1917. Game three in Houston ran 14 innings and took 5 hours 41 minutes, the longest postseason game by time.",
+      "date": "2005-10-26",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "sports.nba_finals": {
+      "section": "sports",
+      "label": "NBA Finals",
+      "value": "San Antonio Spurs beat the Detroit Pistons in seven games",
+      "detail": "Their third title in seven years, and the first Finals to reach a seventh game in eleven years.",
+      "source": "https://en.wikipedia.org/wiki/2005_in_sports"
+    },
+    "sports.nhl_cancelled": {
+      "section": "sports",
+      "label": "NHL season cancelled",
+      "value": "Commissioner Gary Bettman cancelled the whole season on February 16 over a labour dispute",
+      "detail": "The first time a North American professional sports league had cancelled a season that way.",
+      "date": "2005-02-16",
+      "source": "https://en.wikipedia.org/wiki/2005_in_sports"
+    },
+    "sports.champions_league": {
+      "section": "sports",
+      "label": "UEFA Champions League final",
+      "value": "Liverpool beat AC Milan 3-2 on penalties in Istanbul after a 3-3 draw",
+      "detail": "Liverpool's fifth European title.",
+      "date": "2005-05-25",
+      "source": "https://en.wikipedia.org/wiki/2005_in_sports"
+    },
+    "sports.tour_de_france": {
+      "section": "sports",
+      "label": "Tour de France",
+      "value": "Lance Armstrong won a seventh straight title",
+      "detail": "He had said he would retire after the race.",
+      "date": "2005-07-24",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "deaths.carson": {
+      "section": "deaths",
+      "label": "Johnny Carson",
+      "value": "Died January 23. Born 1925",
+      "detail": "Television host and comedian.",
+      "date": "2005-01-23",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "deaths.miller": {
+      "section": "deaths",
+      "label": "Arthur Miller",
+      "value": "Died February 10. Born 1915",
+      "detail": "Playwright.",
+      "date": "2005-02-10",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "deaths.thompson": {
+      "section": "deaths",
+      "label": "Hunter S. Thompson",
+      "value": "Died February 20. Born 1937",
+      "detail": "Journalist.",
+      "date": "2005-02-20",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "deaths.jennings": {
+      "section": "deaths",
+      "label": "Peter Jennings",
+      "value": "Died August 7. Born 1938",
+      "detail": "Journalist and news anchor.",
+      "date": "2005-08-07",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "deaths.parks": {
+      "section": "deaths",
+      "label": "Rosa Parks",
+      "value": "Died October 24. Born 1913",
+      "detail": "Civil rights activist, remembered for refusing to give up her bus seat in Montgomery.",
+      "date": "2005-10-24",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    },
+    "deaths.pryor": {
+      "section": "deaths",
+      "label": "Richard Pryor",
+      "value": "Died December 10. Born 1940",
+      "detail": "Actor and comedian.",
+      "date": "2005-12-10",
+      "source": "https://en.wikipedia.org/wiki/2005_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026. Box office is worldwide gross: the film page's own table header reads 'Worldwide gross', so figures_basis is gross and the territory is named in the label and the detail.\n\nSource disagreements carried in the facts rather than resolved. Katrina: at least 1,836 dead and $108 billion in damage on https://en.wikipedia.org/wiki/2005_in_the_United_States, against 1,392 in the summary of https://en.wikipedia.org/wiki/2005 and about 1,500 with $81 billion in that page's weather section. The London bombings: 52 dead in the year page's events list and 56 in its conflicts section. The Kashmir earthquake: more than 86,000, approximately 80,000, and between 75,000 and 90,000, all three on the year page. General knowledge, offered if challenged and not written into any fact: the 52 and 56 London figures differ by the four bombers.\n\nOne date resolved against the year page. https://en.wikipedia.org/wiki/2005 dates the first partial face transplant to November 30; https://en.wikipedia.org/wiki/2005_in_science dates it November 27. The dedicated article, https://en.wikipedia.org/wiki/Isabelle_Dinoire, gives 27 November 2005 with the surgeon and the hospital, so that is what the fact cites and the disagreement is named in the detail.\n\nMonth-only dates. world.iraq_elections carries 2005-01 because the year page names the January parliamentary election only by month. prices.unemployment carries 2005-12 for the same reason. The Houston evacuation in the first texture paragraph is dated to September only on the US page, so no day is claimed for it.\n\nDropped for lack of a cached source: any internet-adoption or broadband figure, since no cached page for this year carries one and the tech.internet window is open but empty as a result; a culture.memes fact, since no cached page names a meme; and the length or setting of the first YouTube video, which the sources title but do not describe. tech_firsts and the anchor line are untouched. Cut to hold the fact count in range rather than for want of a source: the gross world product and trade-volume figures from the year page, and a separate fact for the January 6 electoral-vote objection, which the third texture paragraph carries instead.\n\nsports.tour_de_france states the seventh straight win and stops there. The US page adds that the titles were stripped in 2012, which is both a later year token and forward-looking framing, so it is left out of the fact by rule rather than by judgement about the rider.\n\nThe games facts needed no allowlist entry. Madden NFL 06 and NBA Live 06 are titled with two digits, which the anachronism check does not match, so nothing in this year needed the annual-sports-game exemption."
+}

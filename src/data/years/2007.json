@@ -1,0 +1,449 @@
+{
+  "year": 2007,
+  "tier": "modern",
+  "headline": "The iPhone reached shops in June, the Dow passed 14,000 in July, and Benazir Bhutto was killed in December",
+  "texture": [
+    "Tumblr opened to the public on February 19. Justin.tv launched as a site for streaming video games. Rupert Murdoch bought Dow Jones and Company, and with it the Wall Street Journal, for $5 billion. WikiLeaks published the standard US army protocol for Guantanamo Bay on November 7. Comet McNaught came close enough in January to be seen in daylight, and astronomers found Gliese 581c in the constellation Libra in April.",
+    "Gross world product grew 3.7 percent, down from 3.9 the year before, and inflation in the developed economies ran at 1.9 percent. Oil prices climbed as demand from developing countries outran spare capacity, and biofuel production pushed up the price of wheat and maize. Sheikh Mohammed bin Rashid Al Maktoum gave 7.41 billion euros to an education foundation on May 20. Iraq ended the year as the source of 2.3 million refugees, behind Afghanistan's 3.1 million.",
+    "Spider-Man 3 took $151,116,516 over one weekend in May, past the record held by Pirates of the Caribbean: Dead Man's Chest. High School Musical 2 drew 17.24 million viewers to the Disney Channel on August 17, and ESPN's Monday Night Football beat that basic cable record on December 3 with 17.52 million watching the unbeaten Patriots. Bob Barker hosted The Price Is Right for the last time on June 15 after 35 years, and Drew Carey took the job on October 15. George Mitchell named 89 baseball players as steroid users on December 13."
+  ],
+  "lead": [
+    "pol.us_president",
+    "tech.iphone",
+    "tech.online_streaming",
+    "world.bhutto",
+    "film.gross#0",
+    "pol.subprime_crisis",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R)",
+      "detail": "Seventh year of his presidency, with Dick Cheney as vice president and John Roberts as chief justice.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "110th Congress from January 3, with Nancy Pelosi the first woman to hold the speakership",
+      "detail": "Pelosi took the chair on January 4, succeeding Dennis Hastert. Harry Reid replaced Bill Frist as Senate majority leader.",
+      "date": "2007-01-04",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "pol.iraq_surge": {
+      "section": "politics",
+      "label": "Iraq troop surge",
+      "value": "Bush announced an increase in US troops in Iraq in an address to the nation",
+      "detail": "The US page dates the beginning of the surge to the same day the announcement was made.",
+      "date": "2007-01-10",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "pol.virginia_tech": {
+      "section": "politics",
+      "label": "Virginia Tech shooting",
+      "value": "Seung-Hui Cho, aged 23, shot 32 people dead and injured 17 others before killing himself as police reached the scene",
+      "date": "2007-04-16",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "pol.obama_candidacy": {
+      "section": "politics",
+      "label": "Obama declares",
+      "value": "Senator Barack Obama of Illinois announced he would run for president",
+      "date": "2007-02-10",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "pol.bridge_collapse": {
+      "section": "politics",
+      "label": "I-35W bridge collapse",
+      "value": "The Interstate 35W bridge over the Mississippi River in Minneapolis fell at 6:05 in the evening, killing 13 people",
+      "detail": "It came down during the later part of rush hour, between University Avenue and Washington Avenue.",
+      "date": "2007-08-01",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "pol.subprime_crisis": {
+      "section": "politics",
+      "label": "Subprime mortgage crisis",
+      "value": "BNP Paribas blocked withdrawals from three hedge funds heavily committed in subprime lending",
+      "detail": "American housing prices fell in the later part of the year.",
+      "date": "2007-08-09",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "world.uk_pm": {
+      "section": "world",
+      "label": "UK Prime Minister",
+      "value": "Tony Blair until June 27, then Gordon Brown (Labour)",
+      "detail": "Blair announced on May 10 that he would give up the Labour leadership and the office. Brown ran unopposed in the leadership election and promised political continuity.",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "world.france_president": {
+      "section": "world",
+      "label": "President of France",
+      "value": "Nicolas Sarkozy, elected in the second round on May 6",
+      "detail": "He pursued several changes, among them a push to lengthen the 35 hour working week.",
+      "date": "2007-05-06",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "world.eu_enlargement": {
+      "section": "world",
+      "label": "EU takes two new members",
+      "value": "Bulgaria and Romania joined the European Union, and Slovenia adopted the euro the same day",
+      "detail": "On December 21 the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia joined the Schengen border-free zone.",
+      "date": "2007-01-01",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "world.bhutto": {
+      "section": "world",
+      "label": "Benazir Bhutto assassinated",
+      "value": "The former prime minister of Pakistan was killed with 20 other people at an election rally in Rawalpindi",
+      "detail": "Pervez Musharraf had given up his military position and then ruled under a state of emergency earlier in the year.",
+      "date": "2007-12-27",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "world.gaza": {
+      "section": "world",
+      "label": "Battle of Gaza",
+      "value": "Hamas defeated Palestinian Authority forces and took control of the Gaza Strip",
+      "detail": "Fought June 10 to 15. Palestine ended the year with two governments, Hamas in Gaza and Fatah in the West Bank.",
+      "date": "2007-06-10",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "world.ipcc": {
+      "section": "world",
+      "label": "IPCC fourth assessment report",
+      "value": "The panel concluded that climate change is very likely to have a predominantly human cause",
+      "detail": "Published February 2. The Arctic ice pack melted at ten times the annual average, and the Northwest Passage was clear of ice through the summer for the first time.",
+      "date": "2007-02-02",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Pirates of the Caribbean: At World's End, $963,400,492, Disney",
+        "Harry Potter and the Order of the Phoenix, $941,676,843, Warner Bros.",
+        "Spider-Man 3, $895,871,626, Sony",
+        "Shrek the Third, $813,367,380, Paramount",
+        "Transformers, $709,709,780, Paramount"
+      ],
+      "detail": "Worldwide gross, which is the basis the source ranks by. Ratatouille came sixth, I Am Legend seventh and The Simpsons Movie eighth.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "No Country for Old Men",
+      "detail": "Awarded at the 80th Academy Awards the following February. It won four awards, and Joel and Ethan Coen became the second pair of directors to take Best Director for the same film. It tied There Will Be Blood for most nominations with eight.",
+      "source": "https://en.wikipedia.org/wiki/80th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting awards",
+      "value": [
+        "Best Actor: Daniel Day-Lewis, There Will Be Blood",
+        "Best Actress: Marion Cotillard, La Vie en Rose",
+        "Best Supporting Actor: Javier Bardem, No Country for Old Men",
+        "Best Supporting Actress: Tilda Swinton, Michael Clayton"
+      ],
+      "detail": "None of the four winners was American, which had happened only once before. Cotillard was the first person to win Best Actress for a French-language performance.",
+      "source": "https://en.wikipedia.org/wiki/80th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "The Counterfeiters (Austria), winner, in German",
+        "12 (Russia)",
+        "Beaufort (Israel)",
+        "Katyn (Poland)",
+        "Mongol (Kazakhstan)"
+      ],
+      "source": "https://en.wikipedia.org/wiki/80th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$6.88",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, then on DVD, and for the first time over the internet to a personal computer",
+      "detail": "Netflix began delivering films to subscribers' computers in January, and Hulu opened in October.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_American_television"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2007",
+      "value": [
+        "American Idol, Tuesday, FOX, 16.1 rating",
+        "American Idol, Wednesday, FOX, 15.9",
+        "Dancing with the Stars, Monday, ABC, 14.0",
+        "Dancing with the Stars, Wednesday, ABC, 12.6",
+        "Desperate Housewives, ABC, 11.6"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this covers the season that began in autumn and ran to the following spring. The Writers Guild strike from November 5 cut into it.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2007%E2%80%9308"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "New series",
+      "value": [
+        "Mad Men, AMC, July 19",
+        "Gossip Girl, The CW, September 19",
+        "The Big Bang Theory, CBS, September 24",
+        "Chuck, NBC, September 24",
+        "Pushing Daisies, ABC, October 3"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2007_in_American_television"
+    },
+    "tv.sopranos_finale": {
+      "section": "tv",
+      "label": "The Sopranos ended",
+      "value": "The last episode, Made in America, closed with a cut to black",
+      "detail": "The series had run on HBO since 1999.",
+      "date": "2007-06-10",
+      "source": "https://en.wikipedia.org/wiki/2007_in_American_television"
+    },
+    "tv.writers_strike": {
+      "section": "tv",
+      "label": "Writers Guild strike",
+      "value": "12,000 Writers Guild of America members walked out against film and television studios",
+      "detail": "Production on television shows stopped and network schedules were badly disrupted.",
+      "date": "2007-11-05",
+      "source": "https://en.wikipedia.org/wiki/2007_in_film"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Irreplaceable, Beyoncé",
+      "detail": "Umbrella by Rihanna featuring Jay-Z came second and The Sweet Escape by Gwen Stefani featuring Akon third. Justin Timberlake had seven songs on the chart, more than anyone else.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2007"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Radiohead released In Rainbows as a download that buyers priced themselves, ten days after announcing it",
+      "detail": "Jonny Greenwood posted the announcement on the band's website on October 1.",
+      "date": "2007-10-01",
+      "source": "https://en.wikipedia.org/wiki/2007_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling album in the US",
+      "value": "Daughtry, by the band Daughtry",
+      "detail": "Billboard's top seller of the year, ahead of Konvicted by Akon and The Dutchess by Fergie. The two cached pages disagree about the global number one: the year article names the High School Musical 2 soundtrack and the music article's IFPI table names The Best Damn Thing by Avril Lavigne, both citing the same IFPI list.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "49th Grammy Awards",
+      "value": "The Dixie Chicks took five awards with producer Rick Rubin, including Record, Album and Song of the Year",
+      "detail": "Held at the Staples Center in Los Angeles. Carrie Underwood won Best New Artist, and the Police reunited to open the show, their first performance of the century.",
+      "date": "2007-02-11",
+      "source": "https://en.wikipedia.org/wiki/2007_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Marija Šerifović won for Serbia with Molitva",
+      "detail": "Held in Helsinki from May 10 to 12.",
+      "date": "2007-05-10",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "tech.iphone": {
+      "section": "tech",
+      "label": "iPhone",
+      "value": "Steve Jobs introduced it at a Macworld keynote in San Francisco on January 9, and it went on sale in the United States on June 29",
+      "detail": "Queues formed around Apple Stores at release. It reached the United Kingdom, Ireland, France, Germany and Austria in November.",
+      "date": "2007-06-29",
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "tech.online_streaming": {
+      "section": "tech",
+      "label": "Netflix and Hulu start streaming",
+      "value": "Netflix began delivering films over the internet on January 16, and Hulu opened on October 29",
+      "detail": "Both are listed among the year's new over-the-top services.",
+      "date": "2007-01-16",
+      "source": "https://en.wikipedia.org/wiki/2007_in_American_television"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Games",
+      "value": [
+        "BioShock, August 21",
+        "Halo 3, September 25",
+        "The Orange Box, October 10",
+        "Call of Duty 4: Modern Warfare, November 5",
+        "Super Mario Galaxy, November 12",
+        "Mass Effect and Rock Band, November 20"
+      ],
+      "detail": "Super Mario Galaxy was the year's most critically acclaimed title. Assassin's Creed, Crysis, Portal, Skate, The Witcher and Uncharted were also new properties.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_video_games"
+    },
+    "tech.game_sales": {
+      "section": "tech",
+      "label": "Best sellers in the US",
+      "value": "Halo 3 sold 4.82 million copies, ahead of Wii Play at 4.12 million and Call of Duty 4 at 3.04 million",
+      "detail": "NPD figures. The Nintendo DS was the year's best-selling console, at 8,500,000 units in North America and 24,343,702 across Japan, North America and Europe.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_video_games"
+    },
+    "tech.android": {
+      "section": "tech",
+      "label": "Android",
+      "value": "The Open Handset Alliance launched the Android mobile operating system",
+      "date": "2007-11-05",
+      "source": "https://en.wikipedia.org/wiki/2007_in_science"
+    },
+    "tech.social_hashtag": {
+      "section": "tech",
+      "label": "The hashtag",
+      "value": "Chris Messina proposed using the pound sign to mark groups on Twitter",
+      "date": "2007-08-23",
+      "source": "https://en.wikipedia.org/wiki/2007_in_science"
+    },
+    "tech.windows_vista": {
+      "section": "tech",
+      "label": "Windows Vista",
+      "value": "Microsoft released it to consumers on January 30, alongside Office 2007",
+      "date": "2007-01-30",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.80 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.85 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.dow": {
+      "section": "prices",
+      "label": "Dow Jones Industrial Average",
+      "value": "Closed above 13,000 for the first time on April 25, and above 14,000 on July 19",
+      "detail": "It reached an all-time high of 14,164 on October 9 and then began to fall. Its worst single day of the year was a loss of 387.18 points on August 9.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Queues outside phone shops, a Nobel Peace Prize shared between a former vice president and a climate panel, and hedge funds shutting their doors in August."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace: Al Gore and the Intergovernmental Panel on Climate Change",
+        "Literature: Doris Lessing",
+        "Physics: Albert Fert and Peter Grünberg",
+        "Chemistry: Gerhard Ertl",
+        "Physiology or Medicine: Mario Capecchi, Oliver Smithies and Martin Evans",
+        "Economics: Leonid Hurwicz, Eric Maskin and Roger Myerson"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2007"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLI",
+      "value": "Indianapolis Colts 29, Chicago Bears 17",
+      "detail": "Played at Dolphin Stadium in Miami Gardens. The Colts' second title, and their first since the franchise left Baltimore.",
+      "date": "2007-02-04",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Boston Red Sox swept the Colorado Rockies in four games",
+      "date": "2007-10-28",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "sports.nba_finals": {
+      "section": "sports",
+      "label": "NBA Finals",
+      "value": "San Antonio Spurs swept the Cleveland Cavaliers in four games for their fourth title",
+      "detail": "Tony Parker was named Finals most valuable player.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Anaheim Ducks beat the Ottawa Senators in five games",
+      "detail": "Scott Niedermayer of the Ducks won the Conn Smythe Trophy as playoff most valuable player.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_sports"
+    },
+    "sports.home_run_record": {
+      "section": "sports",
+      "label": "Career home run record",
+      "value": "Barry Bonds hit his 756th, passing Hank Aaron's mark of 755",
+      "detail": "Struck amid questions about his suspected use of performance-enhancing drugs.",
+      "date": "2007-08-07",
+      "source": "https://en.wikipedia.org/wiki/2007_in_sports"
+    },
+    "sports.rugby_world_cup": {
+      "section": "sports",
+      "label": "Rugby World Cup",
+      "value": "South Africa beat the defending champions England 15 to 6 in the final",
+      "detail": "Played in France from September 7 to October 20, with matches also in Edinburgh and Cardiff.",
+      "source": "https://en.wikipedia.org/wiki/2007_in_sports"
+    },
+    "deaths.vonnegut": {
+      "section": "deaths",
+      "label": "Kurt Vonnegut",
+      "value": "Died April 11. Born 1922",
+      "detail": "Novelist and playwright.",
+      "date": "2007-04-11",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "deaths.mailer": {
+      "section": "deaths",
+      "label": "Norman Mailer",
+      "value": "Died November 10. Born 1923",
+      "detail": "Writer.",
+      "date": "2007-11-10",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "deaths.pavarotti": {
+      "section": "deaths",
+      "label": "Luciano Pavarotti",
+      "value": "Died September 6, aged 71",
+      "detail": "Italian tenor.",
+      "date": "2007-09-06",
+      "source": "https://en.wikipedia.org/wiki/2007_in_music"
+    },
+    "deaths.johnson": {
+      "section": "deaths",
+      "label": "Lady Bird Johnson",
+      "value": "Died July 11. Born 1912",
+      "detail": "First Lady of the United States as the wife of Lyndon B. Johnson.",
+      "date": "2007-07-11",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "deaths.turner": {
+      "section": "deaths",
+      "label": "Ike Turner",
+      "value": "Died December 12. Born 1931",
+      "detail": "Musician.",
+      "date": "2007-12-12",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    },
+    "deaths.knievel": {
+      "section": "deaths",
+      "label": "Evel Knievel",
+      "value": "Died November 30. Born 1938",
+      "detail": "Motorcycle stunt performer.",
+      "date": "2007-11-30",
+      "source": "https://en.wikipedia.org/wiki/2007_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026. Box office is worldwide gross: the film page's table column reads \"Worldwide gross\" and the sentence above it says the top 10 films released in 2007 by worldwide gross, so the territory is named in both the label and the detail. The 80th Academy Awards ceremony fell in February of the following year, which is why film.best_picture says \"the following February\" instead of the date. Nielsen figures are for the season that started in autumn and ran to the following spring, labelled that way, and the Writers Guild walkout from November 5 shortened it. The two cached pages disagree about the year's best-selling album worldwide, both citing the same IFPI list: the year article names the High School Musical 2 soundtrack while the music article's table names The Best Damn Thing by Avril Lavigne. Rather than pick, the file states only the Billboard top seller in the US and names the disagreement in the fact detail. Dropped for want of a source that carried the whole claim: attendance at Super Bowl XLI, which sits on the sports page while the date, score and venue sit on the US page; Alberto Contador's Tour de France win, which the sports page gives with no date; and the US page's December line that the recession began with unemployment at 5 percent, which the page itself flags as needing a citation. Left out over the anachronism rule and not explained on the page: the International Olympic Committee awarding Sochi the Winter Games on July 4, and the cancelled Armenia against Azerbaijan European Championship qualifiers of August 10, both of which name a year more than one out from this one and so need allowlist entries."
+}

@@ -1,0 +1,518 @@
+{
+  "year": 2003,
+  "tier": "modern",
+  "headline": "Columbia broke up over Texas in February, the invasion of Iraq began in March, the iTunes Store opened in April",
+  "texture": [
+    "Colin Powell laid the case for war before the UN Security Council on February 5, working from testimony the Bush administration had misled him in preparing. The Turkish parliament voted on March 1 against letting American troops use its airbases, so the attack came from the south through the Persian Gulf. Saddam Hussein and his family took about $1 billion out of Iraq's Central Bank hours before the bombing started. Robert Novak printed Valerie Plame's name in a column on July 14, and a bombing at the Canal Hotel in Baghdad on August 19 killed the UN envoy Sergio Vieira de Mello.",
+    "Concorde flew its last paying passengers on October 24 and its last flight of any kind out of Heathrow on November 26, closing twenty-seven years of civilian supersonic service. The final old-style Volkswagen Beetle came off the line at Puebla on July 30, in a run of 3,000 built for collectors. The Old Man of the Mountain, a rock formation in New Hampshire, crumbled on May 3. NASA heard from Pioneer 10 for the last time on January 23, some 7.5 billion miles out.",
+    "Phil Spector was arrested on February 3 after police found the actress Lana Clarkson shot dead at his home in Alhambra. A fire at The Station nightclub in West Warwick, Rhode Island killed 100 people on February 20. Brian Douglas Wells, delivering pizza in Erie, Pennsylvania, was killed on August 28 by a bomb locked around his neck. The largest hailstone ever recorded fell on Aurora, Nebraska on June 22, and Mars came nearer to Earth on August 27 than at any time in more than 60,000 years.",
+    "Madonna kissed Britney Spears and Christina Aguilera at the MTV Video Music Awards on August 28. Sertab Erener won Eurovision for Turkey in Riga on May 24. Celine Dion opened her Las Vegas residency A New Day on March 25. The Rolling Stones, AC/DC and Rush played to 450,000 people in Toronto on July 30 to show the city was safe from SARS, the largest concert Canada had held. Pete Sampras retired on August 25 at 32, and Michael Jackson was arrested on molestation charges on November 20."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.iraq_invasion",
+    "tech.columbia",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "tech.social",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R), with Dick Cheney as vice president",
+      "detail": "The 108th Congress was sworn in on January 3, and Bill Frist replaced Tom Daschle as Senate majority leader the same day. William Rehnquist was Chief Justice and Dennis Hastert Speaker of the House. Bush gave the State of the Union Address on January 28 and made a state visit to London on November 18 in the middle of large anti-war protests.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "pol.homeland_security": {
+      "section": "politics",
+      "label": "Department of Homeland Security opens",
+      "value": "The newly created department began operations",
+      "detail": "On March 1 the Federal Law Enforcement Training Center, the United States Customs Service and the United States Secret Service were moved into it. Sky marshals were introduced on American airlines in January to deter hijacking.",
+      "date": "2003-01-24",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "pol.tax_cuts": {
+      "section": "politics",
+      "label": "Second round of Bush tax cuts",
+      "value": "Bush authorised $350 billion of tax cuts over ten years under the Jobs and Growth Tax Relief Reconciliation Act",
+      "detail": "On September 7 he asked Congress for a further $87 billion for military operations in Afghanistan and Iraq.",
+      "date": "2003-05-28",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "pol.california_recall": {
+      "section": "politics",
+      "label": "California recalls its governor",
+      "value": "Voters removed Gray Davis and elected the actor Arnold Schwarzenegger to replace him",
+      "detail": "Schwarzenegger was sworn in as governor on November 17.",
+      "date": "2003-10-07",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court decisions",
+      "value": [
+        "Eldred v. Ashcroft, January 15, allowed the extension of copyright terms",
+        "Lockyer v. Andrade and Ewing v. California, March 5, upheld California's three strikes law by 5 to 4 in two separate opinions",
+        "Grutter v. Bollinger, June 23, upheld affirmative action in university admissions",
+        "Lawrence v. Texas, June 26, held sodomy laws unconstitutional"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "pol.same_sex_marriage": {
+      "section": "politics",
+      "label": "Goodridge v. Department of Public Health",
+      "value": "The Massachusetts Supreme Judicial Court ruled the state's bar on same-sex marriage unconstitutional",
+      "date": "2003-11-18",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "world.iraq_invasion": {
+      "section": "world",
+      "label": "Invasion of Iraq",
+      "value": "A coalition led by the United States, the United Kingdom and Australia invaded, warning that Iraq had a weapons of mass destruction programme",
+      "detail": "The dedicated article puts the first explosions in Baghdad at 05:34 local time, 02:30 UTC, an airstrike on the Presidential Palace, and says Bush announced the attack at 03:16 UTC, which was 10:16 p.m. Eastern the evening before. That is why the US year page dates the first American bombs on Baghdad to March 19 and the start of the war to March 20, and the two pages do not disagree so much as use different clocks. Bush had given a 48-hour ultimatum on March 17 after a summit in the Azores the day before. The shock and awe air campaign opened on March 22, Baghdad fell on April 9 and Bush declared major combat over aboard the USS Abraham Lincoln on May 1. The year page says the insurgency that followed proved deadlier than the invasion by the end of the year, and that doubts were raised throughout the year about whether the weapons programme existed.",
+      "date": "2003-03-20",
+      "source": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq"
+    },
+    "world.saddam_captured": {
+      "section": "world",
+      "label": "Saddam Hussein captured",
+      "value": "American soldiers found the former Iraqi president hiding in a pit at the end of Operation Red Dawn",
+      "detail": "The year page places the capture in the small town of Ad-Dawr and the US year page places it in Tikrit, so both are named here rather than one chosen. His sons Uday and Qusay had been killed by American forces on July 22, and the Iraqi Governing Council was set up on July 13.",
+      "date": "2003-12-13",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "world.antiwar_protests": {
+      "section": "world",
+      "label": "Global anti-war protests",
+      "value": "Millions of people marched in cities around the world against the coming invasion of Iraq",
+      "date": "2003-02-15",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "world.sars": {
+      "section": "world",
+      "label": "SARS epidemic",
+      "value": "8,098 cases and 774 deaths, centred on Guangdong and Hong Kong",
+      "detail": "China told the World Health Organization in February that an unknown infectious disease was spreading, and the WHO issued its first global alert on March 12 once it reached Hong Kong. The organisation advised against non-essential travel to Guangdong and Hong Kong, declared the outbreak contained on July 5, and dated the final case to June. The Italian physician Carlo Urbani, who identified the disease in a patient in Hanoi on February 26, died of it on March 29. The women's ice hockey world championship scheduled for Beijing was cancelled over the outbreak and the women's football World Cup was moved from China to the United States.",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "world.european_heatwave": {
+      "section": "world",
+      "label": "European heatwave",
+      "value": "Roughly 70,000 people died across the continent over the summer, 14,000 of them in France",
+      "detail": "The year page calls this the hottest European summer in over five centuries and says the year tied with the previous one as the second hottest on record worldwide.",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "world.bam_earthquake": {
+      "section": "world",
+      "label": "Bam earthquake",
+      "value": "A magnitude 6.6 earthquake in Iran killed about 30,000 people and destroyed roughly 85 percent of the city of Bam",
+      "detail": "A magnitude 6.8 earthquake at Boumerdes in Algeria on May 21 killed over 2,200 people, and a 6.4 at Bingol in Turkey on May 1 killed 177.",
+      "date": "2003-12-26",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "world.eu_accession": {
+      "section": "world",
+      "label": "Ten countries sign to join the European Union",
+      "value": "The Treaty of Accession was signed in Athens by Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia",
+      "detail": "Each country then held its own referendum through the year, Malta first on March 8 and Latvia last on September 20. Sweden voted on September 14 against joining the euro. Valery Giscard d'Estaing presented a first draft of a European constitution in June.",
+      "date": "2003-04-16",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "The Lord of the Rings: The Return of the King, $1,118,887,224, New Line",
+        "Finding Nemo, $871,014,978, Walt Disney Pictures",
+        "The Matrix Reloaded, $739,412,035, Warner Bros.",
+        "Pirates of the Caribbean: The Curse of the Black Pearl, $654,264,015, Walt Disney Pictures",
+        "Bruce Almighty, $484,592,874, Universal and Buena Vista"
+      ],
+      "detail": "Worldwide gross rather than domestic. The film page's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above the table says these are the top ten films released this year by worldwide gross, so header and text agree. The Last Samurai was sixth at $454,627,263 for Warner Bros., Terminator 3: Rise of the Machines seventh at $433,371,112, The Matrix Revolutions eighth at $427,343,298, X2 ninth at $407,711,549 for 20th Century Fox and Bad Boys II tenth at $273,339,556 for Sony and Columbia. The year page says the highest-grossing film not in English was the Japanese Bayside Shakedown 2, thirty-ninth for the year.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Lord of the Rings: The Return of the King, produced by Barrie M. Osborne, Peter Jackson and Fran Walsh",
+      "detail": "Awarded the following spring at the 76th Academy Awards. The film took eleven awards from eleven nominations, tying the record for wins, and Jackson won Best Director. Master and Commander: The Far Side of the World was second on nominations with ten and won two, as did Mystic River. Sofia Coppola won original screenplay for Lost in Translation and Jackson, Walsh and Philippa Boyens adapted screenplay. Finding Nemo won Best Animated Feature, Howard Shore original score and Into the West original song. The Critics' Choice, Golden Globe, BAFTA and guild ceremonies for this year of film all fell in the following spring, and Return of the King took Best Film at all of them except the Golden Globes' musical or comedy category, which went to Lost in Translation.",
+      "source": "https://en.wikipedia.org/wiki/76th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Sean Penn, Mystic River, as Jimmy Markum",
+        "Best Actress, Charlize Theron, Monster, as Aileen Wuornos",
+        "Best Supporting Actor, Tim Robbins, Mystic River, as Dave Boyle",
+        "Best Supporting Actress, Renee Zellweger, Cold Mountain, as Ruby Thewes"
+      ],
+      "detail": "Bill Murray was nominated for Lost in Translation, Johnny Depp for Pirates of the Caribbean and Ken Watanabe for The Last Samurai. Keisha Castle-Hughes was nominated for Whale Rider and Naomi Watts for 21 Grams. Marcia Gay Harden was nominated alongside Robbins from the same film.",
+      "source": "https://en.wikipedia.org/wiki/76th_Academy_Awards"
+    },
+    "film.screeners": {
+      "section": "film",
+      "label": "The screener ban",
+      "value": "The Motion Picture Association of America barred studios from sending awards voters review copies of films, citing piracy, and a federal judge struck the ban down",
+      "detail": "The ban came in September. Independent studios and directors objected that smaller films depend on screeners to reach Academy members at all, and the following month the Academy and the association agreed that members could receive them if they kept them away from anyone unaffiliated. In December a federal judge in New York overturned the ban as a violation of federal antitrust law. On December 22 the visual effects nominating committee shut both of the year's Matrix films out of consideration in that category, and on December 31 the Academy mailed nomination ballots qualifying 254 films as eligible.",
+      "source": "https://en.wikipedia.org/wiki/76th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Festival prizes and the foreign language Oscar",
+      "value": [
+        "Palme d'Or, 56th Cannes Film Festival, Elephant, directed by Gus Van Sant, United States",
+        "Golden Lion, 60th Venice International Film Festival, The Return, directed by Andrey Zvyagintsev, Russia",
+        "Golden Bear, 53rd Berlin International Film Festival, In This World, directed by Michael Winterbottom, United Kingdom",
+        "Best Foreign Language Film, The Barbarian Invasions, Canada, in French, directed by Denys Arcand"
+      ],
+      "detail": "The other four foreign language nominees were Evil from Sweden, The Twilight Samurai from Japan, Twin Sisters from the Netherlands and Zelary from the Czech Republic. The Barbarian Invasions also took a nomination for original screenplay. Osama won the Golden Globe in the same category and In This World the BAFTA, both at ceremonies held the following spring. Errol Morris and Michael Williams won Best Documentary Feature for The Fog of War. Roman Polanski's The Pianist took seven Cesar Awards on February 24, including Best Film, Best Director and Best Actor.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The film page ranks the year by worldwide gross rather than domestic, and the highest-grossing film not in English placed thirty-ninth.",
+      "detail": "None of the eleven cached pages carries a DVD sales figure, a rental figure or a television premiere for a feature film, so no claim about home viewing is made here. The one thing the sources do say about watching a film at home is that studios mailed review copies to awards voters, which film.screeners covers.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$6.03",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2003",
+      "value": [
+        "CSI: Crime Scene Investigation, CBS, 15.9 rating",
+        "American Idol, Tuesday, FOX, 14.9",
+        "American Idol, Wednesday, FOX, 14.1",
+        "Friends, NBC, 13.6",
+        "The Apprentice, NBC, 13.0"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. ER was sixth on 12.9 for NBC, Survivor seventh on 12.3 for CBS and CSI: Miami eighth on 11.9, also CBS, with Monday Night Football on ABC and Everybody Loves Raymond on CBS tied ninth on 11.2. Without a Trace was eleventh on 11.1 and Two and a Half Men, in its first season, tied fourteenth on 9.9.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2003%E2%80%9304"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "That's So Raven, Disney Channel, January 17",
+        "Chappelle's Show, Comedy Central, January 22",
+        "MythBusters, Discovery Channel, January 23",
+        "Jimmy Kimmel Live!, ABC, January 26",
+        "Real Time with Bill Maher, HBO, February 21",
+        "Punk'd, MTV, March 17",
+        "America's Next Top Model, UPN, May 20",
+        "Queer Eye, Bravo, July 15",
+        "Nip/Tuck, FX, July 22",
+        "The O.C., Fox, August 5",
+        "Carnivale, HBO, September 14",
+        "Two and a Half Men, CBS, September 22",
+        "NCIS, CBS, September 23",
+        "One Tree Hill, The WB, September 23",
+        "Cold Case, CBS, September 28",
+        "Arrested Development, Fox, November 2",
+        "Extreme Makeover: Home Edition, ABC, December 3"
+      ],
+      "detail": "The television page's debut table gives each date and channel, and a two-part backdoor pilot for NCIS aired inside CBS's JAG between April 22 and 29. Buffy the Vampire Slayer ended on UPN on May 20, the same night America's Next Top Model began there.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_American_television"
+    },
+    "tv.american_idol": {
+      "section": "tv",
+      "label": "American Idol names its second winner",
+      "value": "Ruben Studdard beat Clay Aiken on Fox",
+      "detail": "Studdard's debut single Flying Without Wings reached number two on the Billboard Hot 100 in June. Ryan Malcolm won the first season of Canadian Idol on September 16 and Guy Sebastian the first Australian Idol on November 19.",
+      "date": "2003-05-21",
+      "source": "https://en.wikipedia.org/wiki/2003_in_American_television"
+    },
+    "tv.rather_interview": {
+      "section": "tv",
+      "label": "Dan Rather interviews Saddam Hussein",
+      "value": "The CBS Evening News anchor sat down with the Iraqi president on national television shortly before the invasion",
+      "detail": "On March 27 C-SPAN carried a White House press conference with Bush and Tony Blair about the war, simulcast on CNN and Fox News, and the television page calls it one of the most-watched C-SPAN broadcasts of the year.",
+      "date": "2003-02-24",
+      "source": "https://en.wikipedia.org/wiki/2003_in_American_television"
+    },
+    "tv.daytime_kiss": {
+      "section": "tv",
+      "label": "First lesbian kiss on American daytime television",
+      "value": "Bianca Montgomery and Lena Kundera kissed on ABC's All My Children",
+      "detail": "Eden Riegel and Olga Sosnovska played the parts. General Hospital marked its fortieth anniversary on the same network three weeks earlier, and The Young and the Restless its thirtieth on CBS in February.",
+      "date": "2003-04-22",
+      "source": "https://en.wikipedia.org/wiki/2003_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "In da Club, 50 Cent",
+        "Ignition (Remix), R. Kelly",
+        "Get Busy, Sean Paul",
+        "Crazy in Love, Beyonce featuring Jay-Z",
+        "When I'm Gone, 3 Doors Down"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 27. In da Club was one of four singles from 50 Cent's debut album on the list, the others at 14, 21 and 63, and he was also featured on Lil' Kim's Magic Stick at number 20. Only three songs on the list had also charted on the previous year's. Unwell by Matchbox Twenty was sixth, Right Thurr by Chingy seventh and Miss You by Aaliyah eighth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2003"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On compact disc, and for the first time by paying to download. Apple opened the iTunes Music Store on April 28 with 200,000 songs at 99 cents each, sold more than a million in the first week and over 10 million in four months.",
+      "detail": "A legal Napster relaunched as a pay service on October 29, charging 99 cents a song or $9.99 a month for unlimited listening. Recorded music sales came to about 2.7 billion units, down 6.5 percent, with compact disc sales falling and DVD music video rising at the expense of singles and cassettes. Once decentralised file sharing replaced the old Napster, the Recording Industry Association of America began suing individual uploaders rather than the services they used, filing 382 lawsuits during the year.",
+      "date": "2003-04-28",
+      "source": "https://en.wikipedia.org/wiki/2003_in_music"
+    },
+    "music.best_selling_albums": {
+      "section": "music",
+      "label": "Best-selling albums in the United States",
+      "value": [
+        "Get Rich or Die Tryin', 50 Cent",
+        "Come Away with Me, Norah Jones",
+        "Stripped, Christina Aguilera",
+        "Number Ones, Michael Jackson",
+        "Meteora, Linkin Park"
+      ],
+      "detail": "The music page gives this order for American sales and a different top five for the Billboard year, which puts Get Rich or Die Tryin' first, Come Away with Me second, Beyonce's Dangerously in Love third, Number Ones fourth and the Dixie Chicks' Home fifth. Dangerously in Love was sixth on the American list, Coldplay's A Rush of Blood to the Head seventh, Evanescence's Fallen eighth, Britney Spears's In the Zone ninth and Avril Lavigne's Let Go tenth. The year page says the best-selling albums worldwide were Come Away with Me and Get Rich or Die Tryin'.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Get Rich or Die Tryin', 50 Cent, February 6",
+        "Fallen, Evanescence, March 4",
+        "Meteora, Linkin Park, March 25",
+        "Elephant, The White Stripes, April 1",
+        "Dangerously in Love, Beyonce, June 20",
+        "Elephunk, The Black Eyed Peas, June 24",
+        "Speakerboxxx/The Love Below, OutKast, September 23",
+        "In the Zone, Britney Spears, November 18",
+        "blink-182, Blink-182, November 18"
+      ],
+      "detail": "Meteora entered the Billboard 200 at number one. In the Zone made Spears the first woman with four consecutive albums debuting at number one. David Bowie released his twenty-third album, Reality, on September 16. Delta Goodrem's Innocent Eyes came out in Australia on March 21 and she was diagnosed with Hodgkin's disease on July 2.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_music"
+    },
+    "music.dixie_chicks": {
+      "section": "music",
+      "label": "The Dixie Chicks lose country radio",
+      "value": "At a London concert Natalie Maines told the audience the band was ashamed the president of the United States was from Texas, and American stations dropped the group from their playlists",
+      "detail": "The music page says the band received death threats. On April 1 fans walked out of a Pearl Jam concert when Eddie Vedder criticised the war and Bush, and others booed and shouted at him until he added that the band supported the troops.",
+      "date": "2003-03-10",
+      "source": "https://en.wikipedia.org/wiki/2003_in_music"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "Myspace launches",
+      "value": "The social network opened, and the year page calls it one of the first major social media platforms",
+      "date": "2003-08-01",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Game Boy Advance SP, Nintendo, Japan February 14, North America March 23, Europe and Australasia March 28",
+        "N-Gage, Nokia's handheld game console, October 7",
+        "Madden NFL 2004, EA Sports, August 12, the year's best-selling game in the United States at over 2,300,000 copies",
+        "Pokemon Ruby and Sapphire, Nintendo, the year's best seller worldwide at 6,120,000 copies",
+        "The Legend of Zelda: The Wind Waker, Nintendo, on the GameCube",
+        "Star Wars: Knights of the Old Republic, LucasArts, Xbox July 15",
+        "Mario Kart: Double Dash, Nintendo, on the GameCube"
+      ],
+      "detail": "American entertainment software sales grew slightly to about $7 billion, of which consoles took $5.8 billion and computer games $1.2 billion after a 14 percent drop. The games page names the PlayStation 2, GameCube, Xbox and original PlayStation as the dominant consoles and the Game Boy Advance as the only dominant handheld. Nintendo stopped making the Game Boy and Game Boy Color worldwide on March 23 and the Famicom and Super Famicom in Japan on September 23. Enix and Square merged into Square Enix on April 1, Infogrames rebranded its subsidiaries under the Atari name on May 7, and The 3DO Company went bankrupt in May. The Pan European Game Information rating system came into use in April. The year page calls the N-Gage a major critical failure in the industry.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_video_games"
+    },
+    "tech.columbia": {
+      "section": "tech",
+      "label": "Space Shuttle Columbia breaks up on re-entry",
+      "value": "The orbiter disintegrated over Texas and Louisiana at 8:59 a.m. Eastern, killing all seven astronauts aboard",
+      "detail": "The dead were the commander Rick Husband, the pilot William McCool, the mission specialists Michael Anderson, Kalpana Chawla, David Brown and Laurel Clark, and the payload specialist Ilan Ramon of Israel. Columbia had launched on January 16 on mission STS-107, the orbiter's twenty-eighth flight and the 113th of the fleet. Eighty-one seconds after liftoff a piece of insulating foam broke off the external tank's left bipod ramp and struck the carbon panels on the left wing, and on re-entry the damage let hot gas into the wing structure. Engineers had modelled damage deeper than the tile thickness, and the assessment team dismissed the result and reported no safety concern on January 26. Loss of signal came at 8:59:32, cutting off Husband mid-transmission. About 83,900 pieces of debris weighing 84,900 pounds were recovered, roughly 38 percent of the orbiter, with the search ending in May. Specimens of the nematode Caenorhabditis elegans survived the breakup.",
+      "date": "2003-02-01",
+      "source": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Mars Express launched on June 2 carrying the Beagle 2 lander, entered Mars orbit on December 25, and contact with the lander was lost",
+        "NASA launched the Spirit rover on June 10 and Opportunity on July 7",
+        "China launched Shenzhou 5 on October 15, its first human spaceflight",
+        "The Spitzer Space Telescope launched from Cape Canaveral on August 25, the date both the year page's events list and the US year page give, though the year page's own prose says August 2",
+        "SMART-1, Europe's first lunar mission, launched on September 27",
+        "NASA ended the Galileo mission on September 21 by sending the probe into Jupiter's atmosphere",
+        "The Brazilian VLS-1 launcher exploded on the launchpad on August 22, killing 21 people"
+      ],
+      "detail": "The launches were timed for Mars coming closer to Earth than at any point in roughly 60,000 years. Voyager 1 became the first object made by people to reach the termination shock at the edge of the Solar System. The first results from the Wilkinson Microwave Anisotropy Probe were published on February 11 and put the universe at 13.7 billion years old, with the first stars forming 200 million years after the Big Bang. The trans-Neptunian object Sedna was found at Palomar on November 14, and the Hubble Space Telescope began the Ultra-Deep Field exposure on September 24. Known moons rose from 40 to 61 for Jupiter, 30 to 31 for Saturn and 8 to 11 for Neptune.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_science"
+    },
+    "tech.genome": {
+      "section": "tech",
+      "label": "Human Genome Project finishes",
+      "value": "The project announced it had mapped the human genome, with 99 percent of it sequenced",
+      "detail": "The year page dates the announcement to April and the events list to April 14. Genetic work during the year found that chimpanzees share 99.4 percent of their DNA with humans rather than the 95 percent previously estimated. Element 110 was formally named darmstadtium on August 16, moscovium was first synthesised in August and nihonium first identified. Dolly the sheep died on February 14, and a cloned banteng delivered on April 1 was the first clone of an endangered species to live past infancy.",
+      "date": "2003-04-14",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "tech.devices": {
+      "section": "tech",
+      "label": "What people bought and used",
+      "value": "Camera phones went mainstream, broadband and cable modems took customers from dial-up, and Wi-Fi hotspots spread into businesses for customers to use",
+      "detail": "Intel and AMD both shipped 64-bit processors, AMD's Athlon 64 on September 23 as the first for consumers, which moved a niche into general use. Intel released the Pentium M. Companies invested heavily in flatscreen and LCD television production. Kodak released the first digital camera with an organic light-emitting diode display in March, and Microsoft released Windows Server 2003 to manufacturing on April 24. About 55 percent of email sent during the year was spam, which brought the CAN-SPAM Act in the United States and the Privacy and Electronic Communications Directive in the European Union. The SQL Slammer, Blaster, Welchia and Sobig worms spread, and the year page calls Sobig the fastest-spreading virus to that point.",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "tech.blackout": {
+      "section": "tech",
+      "label": "Northeast blackout",
+      "value": "An overloaded grid left more than 50 million people without power across the northeastern United States and south-central Canada, with nearly 100 deaths attributed to it",
+      "detail": "The year page traces the cascade to the failure of an alarm system in a FirstEnergy control room.",
+      "date": "2003-08-14",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.59 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A war argued over at the United Nations and then fought anyway, a shuttle lost on the way home, and a virus out of southern China that emptied airports for a season."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, J. M. Coetzee",
+        "Peace, Shirin Ebadi",
+        "Physics, Alexei Abrikosov, Vitaly Ginzburg and Anthony James Leggett",
+        "Chemistry, Peter Agre and Roderick MacKinnon",
+        "Medicine, Paul Lauterbur and Peter Mansfield",
+        "Economics, Robert F. Engle and Clive W. J. Granger"
+      ],
+      "detail": "The year page gives no dates for any of them. The Turing Award went to Alan Kay, the first Abel Prize in mathematics to Jean-Pierre Serre and the Wollaston Medal for geology to Ikuo Kushiro.",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "culture.harry_potter": {
+      "section": "culture",
+      "label": "Harry Potter and the Order of the Phoenix published",
+      "value": "The year page calls the release the largest literary event of the year and credits it with growth across publishing and bookselling",
+      "date": "2003-06-21",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "culture.john_paul_ii": {
+      "section": "culture",
+      "label": "John Paul II's twenty-fifth year as pope",
+      "value": "A week of celebrations in Vatican City marked the anniversary of his election, and Mother Teresa was beatified on October 19",
+      "detail": "On May 6 he visited the Umayyad Mosque in Damascus, becoming the first pope to enter a mosque. Rowan Williams became Archbishop of Canterbury on February 27 and said the argument over homosexuality was fragmenting the Anglican Communion.",
+      "source": "https://en.wikipedia.org/wiki/2003"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Florida Marlins beat the New York Yankees four games to two",
+      "detail": "Sammy Sosa hit his 500th career home run on April 4 off Scott Sullivan of the Cincinnati Reds, the eighteenth player to reach the mark, and Rafael Palmeiro became the nineteenth on May 11 off David Elder of Cleveland. Roger Clemens of the Yankees became the twenty-first pitcher to win 300 games on June 13, beating St. Louis 5 to 2, and the third to record 4,000 strikeouts. On June 11 Roy Oswalt started a no-hitter against the Yankees, left after one inning, and five more Houston pitchers finished it. Bill Mueller hit grand slams from both sides of the plate in one game on July 29, the only player ever to do it.",
+      "date": "2003-10-25",
+      "source": "https://en.wikipedia.org/wiki/2003_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXVII",
+      "value": "The Tampa Bay Buccaneers beat the Oakland Raiders 48 to 21 in San Diego in front of 67,603, the franchise's first title",
+      "detail": "The US year page names the venue Qualcomm Stadium and the sports page names it San Diego Stadium, which are the same ground. The television page calls this the last Super Bowl scheduled in January and says John Madden, on colour commentary with Al Michaels for ABC, became the first person to call Super Bowls on different networks in consecutive years. Ohio State had beaten Miami 31 to 24 in double overtime in the Fiesta Bowl for the previous college season's championship.",
+      "date": "2003-01-26",
+      "source": "https://en.wikipedia.org/wiki/2003_in_sports"
+    },
+    "sports.rugby_world_cup": {
+      "section": "sports",
+      "label": "Rugby World Cup",
+      "value": "England beat Australia 20 to 17 after extra time in a tournament hosted in Australia, the first northern hemisphere side to win it",
+      "detail": "England had also won the Six Nations Championship with a Grand Slam. Australia won the Cricket World Cup, held in South Africa, Zimbabwe and Kenya, beating India by 125 runs in the final without losing a match, and Kenya reached the semi-finals. England ran its first Twenty20 Cup, won by Surrey.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, San Antonio Spurs over the New Jersey Nets, four games to two, Tim Duncan named most valuable player",
+        "Stanley Cup, New Jersey Devils over the Mighty Ducks of Anaheim, four games to three, with Anaheim's Jean-Sebastien Giguere taking the Conn Smythe Trophy",
+        "NCAA men's basketball, Syracuse 81, Kansas 78",
+        "WNBA Finals, Detroit Shock over the Los Angeles Sparks, two games to one, the first Eastern Conference champion",
+        "UEFA Champions League, AC Milan over Juventus 3 to 2 on penalties after a goalless draw at Old Trafford",
+        "UEFA Cup, Porto over Celtic 3 to 2 after extra time, decided by a silver goal",
+        "Women's World Cup, Germany over Sweden 2 to 1 after extra time"
+      ],
+      "detail": "Peter Forsberg of Colorado took both the Art Ross and Hart trophies. France won the Confederations Cup in a tournament overshadowed when the Cameroon player Marc-Vivien Foe collapsed and died during a semi-final. David Beckham moved from Manchester United to Real Madrid for 17.25 million pounds. Michael Schumacher won eleven of seventeen races and a sixth Formula One title. Mike Weir became the first Canadian and first left-handed golfer to win the Masters, and Lance Armstrong and Annika Sorenstam were the Associated Press athletes of the year.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Andre Agassi and Serena Williams",
+        "French Open, Juan Carlos Ferrero and Justine Henin-Hardenne",
+        "Wimbledon, Roger Federer and Serena Williams",
+        "US Open, Andy Roddick and Justine Henin-Hardenne"
+      ],
+      "detail": "Federer, Roddick and Ferrero all won a first major during the year. Serena Williams beat her sister Venus in both of her finals. Pete Sampras retired on August 25 at 32.",
+      "source": "https://en.wikipedia.org/wiki/2003_in_sports"
+    },
+    "deaths.cash": {
+      "section": "deaths",
+      "label": "Johnny Cash",
+      "value": "Died September 12. Born 1932",
+      "detail": "Singer, songwriter and musician. He had been admitted to hospital in Nashville with pneumonia on March 10, and his wife June Carter Cash died on May 15.",
+      "date": "2003-09-12",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "deaths.hepburn": {
+      "section": "deaths",
+      "label": "Katharine Hepburn",
+      "value": "Died June 29. Born 1907",
+      "detail": "Actress, of cardiac arrest.",
+      "date": "2003-06-29",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "deaths.hope": {
+      "section": "deaths",
+      "label": "Bob Hope",
+      "value": "Died July 27. Born 1903",
+      "detail": "Comedian, actor, singer and dancer, English-born American.",
+      "date": "2003-07-27",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "deaths.rogers": {
+      "section": "deaths",
+      "label": "Fred Rogers",
+      "value": "Died February 27, aged 74. Born 1928",
+      "detail": "Host of Mister Rogers' Neighborhood, of stomach cancer.",
+      "date": "2003-02-27",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    },
+    "deaths.peck": {
+      "section": "deaths",
+      "label": "Gregory Peck",
+      "value": "Died June 12. Born 1916",
+      "detail": "Actor, of bronchopneumonia.",
+      "date": "2003-06-12",
+      "source": "https://en.wikipedia.org/wiki/2003_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2003 plus two dedicated articles pulled for the date check. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it says the top ten films released this year by worldwide gross are as follows, so header and text agree and there is no rentals gloss to write. film.gross names worldwide in both label and detail so the figures are not read as North American. Date checks. The brief named two events with a checkable constraint and the rule was applied to both. The invasion of Iraq: the year page dates the start to March 20, and the dedicated article agrees, giving 20 March to 1 May as the span and an airstrike on the Presidential Palace in Baghdad as the opening act. The US year page dates the first American bombs on Baghdad to March 19 and the start of the war to March 20, which reads as a contradiction until the dedicated article's times are read: the first explosions were at 05:34 Baghdad time, 02:30 UTC on March 20, and Bush announced the attack at 03:16 UTC, which was 10:16 p.m. Eastern on March 19. So the pages are on different clocks rather than in disagreement, and world.iraq_invasion says so in its detail and cites the dedicated article, which is also the only page carrying the times. The Columbia accident: the year page, the US year page and the science page all date it to February 1, and the dedicated article agrees, adding 8:59 a.m. Eastern, 13:59 UTC, with loss of signal at 8:59:32. No disagreement to report. tech.columbia cites the dedicated article because it carries the crew roles, the launch date, the flight numbers, the foam strike timing, the modelling that was dismissed, the debris totals and the nematode survival, none of which the cached pages hold. The two articles pulled were https://en.wikipedia.org/wiki/2003_invasion_of_Iraq and https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster. Source disagreements labelled rather than resolved. The year page places the capture of Saddam Hussein in the small town of Ad-Dawr and the US year page places it in Tikrit, so world.saddam_captured names both. The US year page gives Qualcomm Stadium as the Super Bowl venue and the sports page gives San Diego Stadium, which are the same ground under two names, and sports.super_bowl says that instead of picking one. The music page gives two different best-seller orders for the year, its own American ranking and the Billboard year ranking, and music.best_selling_albums prints the first and names the second rather than blending them. The year page contradicts itself on the Spitzer Space Telescope launch: its Space exploration prose says August 2 and its events list says August 25, which is also what the US year page says, so tech.space gives August 25 and names the other date rather than hiding it. The 76th Academy Awards honouring this year of film fall in the following spring, so film.best_picture, film.acting_awards and film.world_cinema name winners, nomination counts and records without a ceremony date, and the Critics' Choice, Golden Globe, BAFTA and guild ceremonies for the same year of film are described as falling the following spring for the same reason. The 75th Academy Awards of March 23, hosted by Steve Martin at the Kodak Theatre, where Chicago won six awards from thirteen nominations, are out of the file because they honoured the previous year of film and would put a second Best Picture on the page. The 45th Grammy Awards of February 23 in New York, where Norah Jones won six awards including all four in the General field, are left out on the same ground, since they honoured the previous year's recordings; the Jones album that won is in music.best_selling_albums on its sales rather than its prizes. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.iraq_invasion cites the dedicated article and takes the ultimatum, the Azores summit, the shock and awe date and the fall of Baghdad from the US year page and the insurgency and weapons doubts from the year page; world.sars cites the year page for the case and death counts and takes the March 12 alert and the July 5 containment from the year page's events list, Carlo Urbani from the science page, and the cancelled ice hockey championship from the sports page; tv.american_idol cites the television page and takes the Canadian and Australian winners from the music page; sports.super_bowl cites the sports page for the score and attendance and takes the venue name, the Fiesta Bowl and the Madden commentary note from the US year page and the television page; sports.champions cites the sports page and takes the Beckham transfer and the Schumacher season from the year page; music.listening_format cites the music page for the iTunes and Napster items and takes the four-month sales figure, the unit total and the 382 lawsuits from the year page; tech.devices cites the year page and takes the Kodak display, the Windows Server release and the Pentium M from the science page and the Athlon 64 date from the year page's events list; tech.games cites the games page throughout and takes the N-Gage characterisation from the year page; deaths.hepburn and deaths.peck cite the US year page for the date and birth year and take the cause of death from the film page, which is the page that gives it; film.world_cinema cites the film page, whose awards table carries the festival prizes and the foreign language winner, and takes the language, the director, the country and the four other nominees from the ceremony page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood. Both come out if challenged. Names carrying a four-digit number. Madden NFL 2004 and the Metacritic entry for NCAA Football 2004 name the coming season and are covered by the generative rule for annual sports titles in a tech.games fact, so name_years.json was not touched. Nothing else in the file needed an exemption: Windows Server 2003 names this page's own year, the Athlon 64, Bayside Shakedown 2, X2, Terminator 3, 21 Grams, Pokemon Ruby and Sapphire, Speakerboxxx/The Love Below, blink-182, Nip/Tuck and the VLS-1 launcher are all one or two digits or break the word boundary, and 83,900 and 84,900 are comma-separated so no four-digit run appears. One item was dropped over the anachronism rule rather than for want of a source, and the reason appears nowhere in a value or detail: the accession of the ten treaty signatories to the European Union, which the year page can only state by naming a later year, so world.eu_accession stops at the signing and the referendums. UN Security Council Resolutions 687 and 1441 and Resolution 1511 of October 16 are left out because the resolution numbers would read as year tokens, and the same goes for the Boeing 727 stolen from Luanda on May 25. Section windows. tech.social opens this year and this is the first file to use it, for the Myspace launch of August 1, which both year pages carry. LinkedIn also launched during the year but no cached page mentions it, so there is no fact for it. tech.web_sites and culture.memes are open and no cached page carries a website launch or a meme for the year, so neither id appears rather than one being written from memory. There is no radio fact because the radio window closed after 1959, and no radio material was moved elsewhere to get round it. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Month-only dates: none. world.sars, world.european_heatwave, film.gross, culture.john_paul_ii, sports.rugby_world_cup and the list facts carry no date at all, because the sources date them to a span or not at all. Dropped for lack of a source that says enough, or for room, and put in texture instead: Colin Powell's February 5 presentation and the later finding that he had been misled, the Turkish parliament's March 1 veto of airbase access, the $1 billion taken from Iraq's Central Bank on March 18, Robert Novak's July 14 column naming Valerie Plame, the Canal Hotel bombing of August 19 that killed Sergio Vieira de Mello, Concorde's last commercial flight on October 24 and last flight of any kind on November 26, the last old-style Volkswagen Beetle of July 30, the collapse of the Old Man of the Mountain on May 3, the last signal from Pioneer 10 on January 23, the arrest of Phil Spector on February 3 after Lana Clarkson was found shot at his home, The Station nightclub fire of February 20 that killed 100 people, the death of Brian Douglas Wells on August 28, the record hailstone at Aurora, Nebraska on June 22, the closest approach of Mars in more than 60,000 years on August 27, Madonna's kiss at the MTV Video Music Awards on August 28, Sertab Erener's Eurovision win in Riga on May 24, Celine Dion's Las Vegas residency from March 25, the 450,000-strong SARS benefit concert in Toronto on July 30, Pete Sampras's retirement on August 25 and the arrest of Michael Jackson on November 20. Dropped entirely for room: the looting of the Iraq Museum and the burning of the Iraq National Library and Archive with 500,000 books and 12 million Ottoman documents; the assassination of Zoran Djindjic on March 12 and of Anna Lindh on September 10; the arrest of Mikhail Khodorkovsky on October 27; the Hong Kong 1 July marches; the arrest of Aung San Suu Kyi on May 30; the flight of Charles Taylor from Liberia and the end of the Second Liberian Civil War; the start of the War in Darfur on February 26; the Istanbul bombings of November 15 and 20; the Mumbai car bombings of August 25; the Imam Ali Shrine bombing of August 29; the peace accord ending the Second Congo War on June 30; the inauguration of the International Criminal Court in March with Luis Moreno Ocampo as first prosecutor; the WTO ministerial conference at Cancun and the formation of the G21; the Three Gorges Dam beginning operation on July 10; the SCO Group lawsuit against IBM in March; the first outbreak of mpox in the Western Hemisphere in May and June with 72 cases; the Cedar Fire of October 25 that burned 280,000 acres; the Staten Island Ferry crash of October 15; the redesigned $20 bill of October 9; the Census Bureau announcement of June 19 that Hispanics had become the largest American minority at 37 million; the indictment of Martha Stewart on June 4; and SpaceShipOne's first rocket-powered flight on December 17. Names and titles are written in ASCII per the corpus convention, so Beyonce, Renee Zellweger, Carnivale, Sergio Vieira de Mello, Boumerdes, Bingol, Celine Dion, Jean-Sebastien Giguere, Marc-Vivien Foe, Annika Sorenstam, Valery Giscard d'Estaing and Zoran Djindjic lose their diacritics. Deaths carry a birth year rather than an age, because the death lists give only the year, except Fred Rogers, where the US year page states the age outright. Deaths that would have earned a place with more room: Nina Simone on April 21, Charles Bronson on August 30, John Ritter on September 11, Barry White on July 4, Strom Thurmond on June 26, Elia Kazan and Althea Gibson on September 28, Edward Said and George Plimpton on September 25, Warren Zevon on September 7, Gregory Hines on August 9, Edward Teller on September 9, Celia Cruz on July 16, Sam Phillips on July 30, Maurice Gibb on January 12, Nell Carter on January 23, Al Hirschfeld on January 20, Daniel Patrick Moynihan on March 26, Robert Atkins on April 17, Larry Doby on June 18, Hume Cronyn on June 15, Buddy Hackett on June 30, Buddy Ebsen on July 6, Benny Carter on July 12, John Schlesinger on July 25, Herb Brooks on August 11, Bobby Bonds on August 23, Donald O'Connor on September 27, Elliott Smith on October 21, Bill Shoemaker on October 12, William Steig on October 3, Neil Postman on October 5, Jack Elam on October 20, Bobby Hatfield on November 5, Art Carney and Anita Mui in the last weeks of the year, and the seven Columbia astronauts, who are named in tech.columbia rather than in the deaths section because the accident is the fact. This file runs 53 facts across 10 sections: politics 6, world 7, film 7, tv 5, music 5, tech 7, prices 2, culture 4, sports 5, deaths 5. World runs to 7 because the year carries the invasion of Iraq, the capture of Saddam Hussein, the largest coordinated anti-war protest of the period, an epidemic that closed borders, a heatwave that killed 70,000 people, an earthquake that destroyed a city, and the signature of the treaty that took the European Union from fifteen members to twenty-five, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong."
+}

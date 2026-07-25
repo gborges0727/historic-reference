@@ -1,0 +1,518 @@
+{
+  "year": 2008,
+  "tier": "modern",
+  "headline": "Beijing opened the Olympics in August, Lehman Brothers failed in September, and Obama won in November",
+  "texture": [
+    "Stock markets fell around the world on January 21 over fears about the American economy. The Dow dropped 777 points on September 29 and another 680 on December 1, the day the National Bureau of Economic Research said the recession had begun in December 2007. Banking in Iceland collapsed in October. Commodity prices climbed until halfway through the year and then fell sharply, oil worst of all at 60 percent, and the G20 met in Washington in November over frozen credit.",
+    "Hillary Clinton's win in the New Hampshire primary made her the first woman to take a major party's presidential primary, and Obama did not secure the nomination until June 3. John McCain chose Sarah Palin on August 29, and on September 1 she said her 17-year-old daughter Bristol was pregnant. Gwen Ifill moderated the vice presidential debate on October 2. Rod Blagojevich was arrested on December 9, accused of soliciting bribes over the Senate seat Obama was leaving.",
+    "The three-month Writers Guild of America strike scrapped the 65th Golden Globe Awards ceremony, whose winners were read out at a press conference on January 13, and the guild settled on a three-year deal on February 12. The 60th Primetime Emmy Awards on September 21 became the least-watched in the ceremony's televised history. Anonymous started Project Chanology in January after the Church of Scientology tried to pull a leaked Tom Cruise interview off YouTube.",
+    "China opened its first high speed rail line on August 1, a week before the Olympics began. Nepal's parliament voted on May 28 to abolish a 240-year-old monarchy. Dmitry Medvedev took the Russian presidency in March and Vladimir Putin kept power as prime minister. Radovan Karadzic was arrested in Belgrade on July 21 after a manhunt of twelve years. An extra leap second, 23:59:60, was added at the end of December 31, the first since 2005."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "pol.lehman_brothers",
+    "film.gross#0",
+    "tech.app_store",
+    "sports.olympics",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R)",
+      "detail": "Final year of his second term, with Dick Cheney as vice president and John Roberts as Chief Justice. Nancy Pelosi (D) was Speaker of the House and Harry Reid (D) Senate majority leader, in the 110th Congress. Bush delivered his last State of the Union address on January 28.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Barack Obama (D) and Joe Biden beat John McCain (R) and Sarah Palin by 365 electoral votes to 173, with 69,498,516 popular votes to 59,948,323",
+      "detail": "Held on the Tuesday after the first Monday in November, which is November 4 because the first Monday was November 3. Both cached year pages and the election's own article give that date, so there is no disagreement to name. Obama became the first African American elected to the presidency. Turnout was 61.6 percent of the voting-eligible population, and Obama took 52.93 percent of the vote against 45.65 percent. He flipped nine states that had voted Republican four years earlier, including Florida, Ohio, Virginia, North Carolina and Indiana, plus Nebraska's second congressional district.",
+      "date": "2008-11-04",
+      "source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election"
+    },
+    "pol.lehman_brothers": {
+      "section": "politics",
+      "label": "Lehman Brothers files for bankruptcy",
+      "value": "The Wall Street investment bank filed for Chapter 11 protection, and stocks fell sharply the same Monday",
+      "detail": "Merrill Lynch was sold to Bank of America and AIG asked the Federal Reserve for short-term financing on the same day.",
+      "date": "2008-09-15",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "pol.fannie_freddie": {
+      "section": "politics",
+      "label": "Fannie Mae and Freddie Mac taken over",
+      "value": "The federal government took control of the two largest mortgage financing companies in the country",
+      "detail": "Announced in a statement by the Treasury secretary Henry Paulson.",
+      "date": "2008-09-07",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "pol.bailout": {
+      "section": "politics",
+      "label": "Emergency Economic Stabilization Act",
+      "value": "Bush signed the revised bill into law, creating a 700 billion dollar Treasury fund to buy failing bank assets",
+      "detail": "Both cached year pages call it the revised Act and neither says what the earlier version was. Bush had announced a separate stimulus package on January 18 offering $800 per individual and $1,600 per couple in tax refunds, and the Senate passed a $170 billion version on February 7 by 81 votes to 16.",
+      "date": "2008-10-03",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "District of Columbia v. Heller",
+      "value": "The Supreme Court held that the District's ban on handguns was unconstitutional",
+      "detail": "The US year page names no vote split and no opinion author.",
+      "date": "2008-06-26",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "pol.madoff": {
+      "section": "politics",
+      "label": "Bernard Madoff arrested",
+      "value": "Charged with securities fraud after his sons turned him in for running the largest Ponzi scheme in history",
+      "detail": "The world year page and the US year page both carry the arrest and neither gives an amount for the scheme.",
+      "date": "2008-12-11",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.financial_crisis": {
+      "section": "world",
+      "label": "Global financial crisis",
+      "value": "Bank failures, stock market crashes and credit freezes, following the American subprime mortgage crisis of the previous year",
+      "detail": "The year page calls it the worst recession since the Great Depression and dates the escalation to September. Banking in Iceland collapsed in October. Gross world product grew about 2.5 percent, international trade 4.3 percent against 6.4 percent the year before, and the price of oil fell 60 percent after commodity prices turned halfway through the year. A G20 summit met in Washington in November.",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.kosovo": {
+      "section": "world",
+      "label": "Kosovo declares independence",
+      "value": "Kosovo formally declared independence from Serbia, to a mixed response internationally",
+      "detail": "Serbia did not recognise it. Many Western countries did, and the European Union started the EULEX mission to help with the transition.",
+      "date": "2008-02-17",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.georgia": {
+      "section": "world",
+      "label": "Russo-Georgian War",
+      "value": "Georgia moved against Russian-backed separatists in South Ossetia and Abkhazia, and Russia invaded Georgia",
+      "detail": "The year page calls it the first major European land war of the 21st century and says Russia sent 10,000 soldiers, pushing further into Georgia until a ceasefire held. Russia then recognised Abkhazia and South Ossetia as independent of Georgia. The United States condemned the invasion on August 15.",
+      "date": "2008-08-07",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.sichuan": {
+      "section": "world",
+      "label": "Sichuan earthquake",
+      "value": "A magnitude 7.9 earthquake struck Sichuan, China, killing an estimated 87,000 people",
+      "detail": "The year page's dated entry says 87,000, its environment section approximately 87,500 and its own image caption 88,000, so the figure is given as the dated entry states it.",
+      "date": "2008-05-12",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.nargis": {
+      "section": "world",
+      "label": "Cyclone Nargis",
+      "value": "The cyclone crossed Myanmar and killed more than 138,000 people",
+      "date": "2008-05-03",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.mumbai": {
+      "section": "world",
+      "label": "Mumbai attacks",
+      "value": "Ten gunmen of the Pakistan-based Lashkar-e-Taiba held targets across Mumbai for four days, killing 166 people",
+      "detail": "The year page's dated entry gives 166 killed and more than 300 injured, and its conflicts section says approximately 160 deaths in battles with Indian soldiers. Both figures come from the same page.",
+      "date": "2008-11-26",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "world.hurricanes": {
+      "section": "world",
+      "label": "Atlantic hurricane season",
+      "value": "Sixteen tropical storms including eight hurricanes, with Gustav, Ike, Paloma, Omar and Bertha reaching major strength",
+      "detail": "Ike made landfall in Texas as a category 2 on September 13, killing 113 and causing over $30 billion in damage according to the year page, while the US year page counts 27 dead in the United States and puts seven American deaths on Gustav, which came ashore in Louisiana as a category 2. The season was more intense than usual because of La Nina and above-average sea surface temperatures.",
+      "date": "2008-09-13",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "The Dark Knight, $997,000,000, Warner Bros.",
+        "Indiana Jones and the Kingdom of the Crystal Skull, $786,636,033, Paramount",
+        "Kung Fu Panda, $631,744,560, Paramount",
+        "Hancock, $629,443,428, Sony",
+        "Mamma Mia!, $609,841,637, Universal"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header and the sentence above it both say, citing Box Office Mojo. The Dark Knight figure is its initial release only and excludes a later IMAX reissue, which the page marks in a hidden note and a footnote. It reached $400 million domestically in 18 days against the 43 days Shrek 2 took, and $500 million in 45 days, the second film after Titanic to pass half a billion at home. Domestic receipts finished about $30 million short of the previous year, which the film page says held the record. Mamma Mia! became the highest-grossing film in United Kingdom history.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Slumdog Millionaire, produced by Christian Colson",
+      "detail": "Awarded the following February at the 81st Academy Awards, hosted by Hugh Jackman at the Kodak Theatre in Hollywood. Slumdog Millionaire won eight awards including Best Director for Danny Boyle and Best Original Score for A. R. Rahman. The Curious Case of Benjamin Button led the field with 13 nominations. The other Best Picture nominees were Benjamin Button, Frost/Nixon, Milk and The Reader. The telecast drew almost 37 million viewers in the United States.",
+      "source": "https://en.wikipedia.org/wiki/81st_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Sean Penn, Milk",
+        "Best Actress, Kate Winslet, The Reader",
+        "Best Supporting Actor, Heath Ledger, The Dark Knight",
+        "Best Supporting Actress, Penelope Cruz, Vicky Cristina Barcelona"
+      ],
+      "detail": "Ledger's was a posthumous award, and the Academy determined that his daughter would own the statuette. Dustin Lance Black won Best Original Screenplay for Milk and Andrew Stanton Best Animated Feature for WALL-E.",
+      "source": "https://en.wikipedia.org/wiki/81st_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Departures, Japan, in Japanese, directed by Yojiro Takita, the winner",
+        "The Baader Meinhof Complex, Germany, in German, directed by Uli Edel",
+        "The Class, France, in French, directed by Laurent Cantet",
+        "Revanche, Austria, in German, directed by Gotz Spielmann",
+        "Waltz with Bashir, Israel, in Hebrew, directed by Ari Folman"
+      ],
+      "detail": "The Class also took the Palme d'Or at the 61st Cannes Film Festival under its French title, Entre les murs. The Golden Lion at the 65th Venice International Film Festival went to Darren Aronofsky's The Wrestler and the Golden Bear at the 58th Berlin International Film Festival to Elite Squad. The film page says Slumdog Millionaire became the most successful British independent film ever at the worldwide box office.",
+      "source": "https://en.wikipedia.org/wiki/81st_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Iron Man, May 2, the first film from Marvel Studios",
+        "The Incredible Hulk, June 13, directed by Louis Leterrier",
+        "WALL-E, June 27, Pixar's ninth feature film",
+        "The Dark Knight, July 18, directed by Christopher Nolan",
+        "Twilight, November 17, with Kristen Stewart and Robert Pattinson",
+        "Bolt, November 21, Walt Disney Animation Studios' 48th feature film"
+      ],
+      "detail": "The US year page dates all six and credits Iron Man with starting the Marvel Cinematic Universe. Twilight was adapted from Stephenie Meyer's novel of the same name.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$7.18",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. The film page ranks the year by worldwide gross and says nothing at all about home viewing.",
+      "detail": "None of the eleven cached pages mentions a disc format, a rental figure or a legal way to watch a film over the internet, so this fact claims nothing about how a film reached a living room. The one home-viewing item in the cache is Hulu, which the television page files as a launch for television programming and which has its own fact here.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2008",
+      "value": [
+        "American Idol, Wednesday, FOX, 15.1 rating",
+        "American Idol, Tuesday, FOX, 14.6",
+        "Dancing with the Stars, Monday, ABC, 12.9",
+        "CSI: Crime Scene Investigation, CBS, 11.5",
+        "NCIS, CBS, 10.9"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. The Mentalist was sixth on 10.8 in its first season, the Tuesday edition of Dancing with the Stars seventh on 10.7, Sunday Night Football eighth on 10.0, Desperate Housewives ninth on 9.9 and Grey's Anatomy tenth on 9.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2008%E2%80%9309"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Breaking Bad, AMC, January 20",
+        "90210, The CW, September 2",
+        "Sons of Anarchy, FX, September 3",
+        "True Blood, HBO, September 7",
+        "The Rachel Maddow Show, MSNBC, September 8",
+        "Fringe, Fox, September 9",
+        "The Mentalist, CBS, September 23"
+      ],
+      "detail": "The television page's debut table gives each date and network, and its September log separately records the Mentalist pilot airing on CBS on the 23rd.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_American_television"
+    },
+    "tv.hulu": {
+      "section": "tv",
+      "label": "Hulu opens",
+      "value": "NBC and News Corporation launched the streaming site to the public",
+      "detail": "The television page's network launch table files it as over-the-top streaming and cites a CNBC report from the day.",
+      "date": "2008-03-12",
+      "source": "https://en.wikipedia.org/wiki/2008_in_American_television"
+    },
+    "tv.digital_switch": {
+      "section": "tv",
+      "label": "First all-digital television market",
+      "value": "Wilmington, North Carolina became the first US market with every station broadcasting only in digital, using the ATSC system",
+      "detail": "Sesame Street was broadcast in high definition for the first time on August 11, ESPNU launched an HD version on August 28 to five carriers, and HD versions of Comcast's The Style Network, E! and G4 followed in December.",
+      "date": "2008-09-08",
+      "source": "https://en.wikipedia.org/wiki/2008_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Low, Flo Rida featuring T-Pain",
+      "detail": "It had been released the previous year and spent 10 weeks at number one. Bleeding Love by Leona Lewis came second and No One by Alicia Keys third. T-Pain sang on eight songs in the hundred, holding both the first and the hundredth position.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2008"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums worldwide",
+      "value": [
+        "Viva la Vida or Death and All His Friends, Coldplay",
+        "Black Ice, AC/DC",
+        "Thriller 25, Michael Jackson",
+        "Rockferry, Duffy",
+        "Death Magnetic, Metallica"
+      ],
+      "detail": "The IFPI list of the year's fifty top-selling albums, as the music page reproduces it. The American ranking ran differently, led by Lil Wayne's Tha Carter III, which sold a million copies in the week after its June 10 release, then Viva la Vida, Taylor Swift's Fearless, Kid Rock's Rock N Roll Jesus and Black Ice.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Spotify started in Sweden on October 7 as an on-demand streaming service, and singles were reaching the chart on download sales alone",
+      "detail": "David Archuleta's Crush entered at number two on 166,000 downloads in its first week, the highest debut by an American Idol finalist for a song not performed on the show. Britney Spears jumped from 96 to number one with Womanizer on October 16 on 286,000 first-week downloads, the biggest opening week by a female artist.",
+      "date": "2008-10-07",
+      "source": "https://en.wikipedia.org/wiki/2008_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "50th Grammy Awards",
+      "value": "Amy Winehouse won five awards, including Record of the Year and Song of the Year for Rehab and Best New Artist",
+      "detail": "Held at the Staples Center in Los Angeles. Album of the Year went to Herbie Hancock's River: The Joni Letters. The ceremony honoured the previous year's recordings, so its winners are not the year's own releases.",
+      "date": "2008-02-10",
+      "source": "https://en.wikipedia.org/wiki/2008_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Dima Bilan won for Russia with Believe, at the contest held in Belgrade from May 20 to 24",
+      "date": "2008-05-24",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "tech.app_store": {
+      "section": "tech",
+      "label": "Apple opens the App Store",
+      "value": "500 apps were available at launch",
+      "detail": "The year page cites an AppleInsider report from the day and gives no download figure.",
+      "date": "2008-07-10",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "tech.android": {
+      "section": "tech",
+      "label": "First Android phone",
+      "value": "The HTC Dream was unveiled by T-Mobile and Google on September 23 and reached American shops on October 20 as the T-Mobile G1",
+      "detail": "The world year page dates the launch to September 23, citing Ars Technica, and the US year page dates the American release to October 20. The two are the announcement and the sale, not a disagreement.",
+      "date": "2008-10-20",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "tech.bitcoin": {
+      "section": "tech",
+      "label": "Bitcoin paper published",
+      "value": "Satoshi Nakamoto published Bitcoin: A Peer-to-Peer Electronic Cash System",
+      "detail": "The year page carries the publication in one line and says nothing about who Nakamoto was or whether any software existed.",
+      "date": "2008-11-01",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "tech.social_election": {
+      "section": "tech",
+      "label": "The election online",
+      "value": "35 percent of Americans relied on online video for election news and 10 percent used social networking sites to learn about it",
+      "detail": "From a Pew Internet and American Life project study quoted in the election's own article, which says internet use in the campaign rose sharply.",
+      "source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election"
+    },
+    "tech.lhc": {
+      "section": "tech",
+      "label": "Large Hadron Collider starts up",
+      "value": "A proton beam circulated for the first time on September 10, and the collider was formally inaugurated at Geneva on October 21",
+      "detail": "Built at CERN under the Franco-Swiss border, and the year page calls it the world's largest and highest-energy particle accelerator.",
+      "date": "2008-09-10",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "SpaceX Falcon 1 reached orbit on September 28, the first privately developed launch vehicle to do so",
+        "NASA's Phoenix lander touched down in the northern polar region of Mars on May 25, the first to land there",
+        "The Indian Space Research Organisation launched Chandrayaan-1 to the Moon on October 22",
+        "The first European Space Agency Automated Transfer Vehicle launched from French Guiana on March 9",
+        "The Fermi Gamma-ray Space Telescope launched on June 11"
+      ],
+      "detail": "The MESSENGER probe made its closest approach to Mercury on January 14 and a second flyby on October 6.",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Super Smash Bros. Brawl, Nintendo, January 31, on the Wii",
+        "Grand Theft Auto IV, Rockstar Games, April 29, on the PlayStation 3 and Xbox 360",
+        "LittleBigPlanet, Sony Computer Entertainment, October 27, on the PlayStation 3",
+        "Fallout 3, Bethesda Softworks, October 28",
+        "Nintendo DSi, released in Japan on November 1",
+        "Gears of War 2, Microsoft Game Studios, November 7, on the Xbox 360",
+        "Left 4 Dead, Valve, November 18"
+      ],
+      "detail": "Wii Sports led worldwide retail sales at 22,660,000 copies, then Mario Kart Wii at 13,670,000, Wii Fit at 12,960,000, Wii Play at 11,680,000 and Grand Theft Auto IV at 10,000,000. The world year page says Grand Theft Auto IV sold over 3.6 million units and earned $310 million on its first day, and calls it the highest-grossing entertainment product release of any kind to that point. It took Game of the Year at the Spike Video Game Awards on December 14, while the 26th Golden Joystick Awards on October 31 gave theirs to the previous year's Call of Duty 4: Modern Warfare. The page's own summary lists the year's franchise installments as Grand Theft Auto IV, Fallout 3, Metal Gear Solid 4: Guns of the Patriots, Gears of War 2, Super Smash Bros. Brawl, Persona 4, Fable II, Call of Duty: World at War, Mario Kart Wii, Madden NFL 09, NBA 2K9 and WWE Smackdown vs. Raw 2009, and the new properties as Army of Two, Dead Space, Left 4 Dead, LittleBigPlanet, Mirror's Edge, iRacing, Race Driver: Grid, Spore, De Blob and Meat Boy.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.27 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$6.55 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "7.3 percent in December",
+      "detail": "From the US year page's December entry. The same entry attaches a comparison to December 1932 that no other cached page supports, and it is left out here.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "prices.interest_rate": {
+      "section": "prices",
+      "label": "Federal Reserve benchmark rate",
+      "value": "Cut by 75 basis points to 2.25 percent on March 18",
+      "detail": "The US year page cites an Associated Press report from the day and carries no other Federal Reserve decision anywhere in the year, so no later move is stated here.",
+      "date": "2008-03-18",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A bank failed in September and the Treasury spent the autumn buying assets from the ones still standing. Retirement accounts shrank and houses stopped selling, and a country in that condition went to the polls in November."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, J. M. G. Le Clezio",
+        "Peace, Martti Ahtisaari",
+        "Physics, Makoto Kobayashi, Toshihide Maskawa and Yoichiro Nambu",
+        "Chemistry, Martin Chalfie, Osamu Shimomura and Roger Y. Tsien",
+        "Medicine, Francoise Barre-Sinoussi, Harald zur Hausen and Luc Montagnier",
+        "Economics, Paul Krugman"
+      ],
+      "detail": "The year page gives no dates. The US year page dates the announcement of the American winners to December 11 and names Nambu, Chalfie, Tsien and Krugman among them.",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Beijing from August 8 to 24, the first Olympic Games in China",
+      "detail": "Michael Phelps won his eighth gold medal, passing Mark Spitz and setting the record for most golds at one Games. The United States took 36 gold, 39 silver and 37 bronze.",
+      "date": "2008-08-08",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLII",
+      "value": "New York Giants 17, New England Patriots 14, at University of Phoenix Stadium in front of 71,101",
+      "detail": "The sports page calls the Patriots heavily favoured and names Eli Manning most valuable player. New England had gone 16 and 0 the previous regular season. Tom Brady tore a knee ligament in the season opener on September 7 and missed the rest of the year, and the Patriots' 21-game regular-season winning streak ended against Miami on September 21.",
+      "date": "2008-02-03",
+      "source": "https://en.wikipedia.org/wiki/2008_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Philadelphia Phillies beat the Tampa Bay Rays in five games, their second title",
+      "detail": "Game Five was halted in the sixth inning at Citizens Bank Park with the score 2 to 2, the first suspension of an official game in World Series or postseason history. It resumed two days later and the Phillies won it 4 to 3. Cole Hamels was named most valuable player. The US year page dates the clinching game to October 29.",
+      "date": "2008-10-29",
+      "source": "https://en.wikipedia.org/wiki/2008_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers in six games, a seventeenth title, with Paul Pierce named most valuable player",
+        "Stanley Cup, Detroit Red Wings over the Pittsburgh Penguins four games to two, an eleventh cup, with Henrik Zetterberg taking the Conn Smythe Trophy",
+        "NCAA men's basketball, Kansas 75, Memphis 68, in overtime at San Antonio",
+        "NCAA women's basketball, Tennessee 64, Stanford 48, a second consecutive title",
+        "UEFA Champions League, Manchester United beat Chelsea 6 to 5 on penalties after a 1 to 1 draw, the first all-English final",
+        "UEFA European Championship, Spain 1, Germany 0",
+        "Africa Cup of Nations, Egypt 1, Cameroon 0, a sixth title",
+        "Copa Libertadores, LDU Quito over Fluminense",
+        "WNBA Finals, Detroit Shock swept the San Antonio Silver Stars, the first sweep of a best-of-five final",
+        "AFL premiership, Hawthorn 115, Geelong 89, in front of 100,012 at the Melbourne Cricket Ground"
+      ],
+      "detail": "Carlos Sastre won the Tour de France and Alberto Contador both the Giro d'Italia and the Vuelta a Espana. Fresno State beat Georgia in the College World Series, which the sports page calls the biggest underdog win of an NCAA championship. Louisiana State beat Ohio State 38 to 24 in the Sugar Bowl for the previous college football season's title.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Novak Djokovic over Jo-Wilfried Tsonga, and Maria Sharapova over Ana Ivanovic",
+        "French Open, Rafael Nadal over Roger Federer 6-1, 6-3, 6-0, and Ivanovic over Dinara Safina",
+        "Wimbledon, Nadal over Federer in five sets, 9-7 in the fifth, and Venus Williams over Serena Williams",
+        "US Open, Federer over Andy Murray, and Serena Williams over Jelena Jankovic"
+      ],
+      "detail": "Nadal took the world number one ranking for the first time on August 18, replacing Federer.",
+      "source": "https://en.wikipedia.org/wiki/2008_in_sports"
+    },
+    "sports.formula_one": {
+      "section": "sports",
+      "label": "Formula One",
+      "value": "Lewis Hamilton took the world championship by finishing fifth at the Brazilian Grand Prix, the first black driver to win it",
+      "detail": "Felipe Massa won the race. The year page calls Hamilton the second youngest champion, at 23.",
+      "date": "2008-11-02",
+      "source": "https://en.wikipedia.org/wiki/2008"
+    },
+    "deaths.ledger": {
+      "section": "deaths",
+      "label": "Heath Ledger",
+      "value": "Died January 22, aged 28, of an accidental prescription drug overdose at his home in Manhattan",
+      "detail": "Australian actor. The film page names The Dark Knight and Brokeback Mountain.",
+      "date": "2008-01-22",
+      "source": "https://en.wikipedia.org/wiki/2008_in_film"
+    },
+    "deaths.newman": {
+      "section": "deaths",
+      "label": "Paul Newman",
+      "value": "Died September 26, aged 83",
+      "detail": "Actor, director, entrepreneur and philanthropist. The film page names Cat on a Hot Tin Roof.",
+      "date": "2008-09-26",
+      "source": "https://en.wikipedia.org/wiki/2008_in_film"
+    },
+    "deaths.heston": {
+      "section": "deaths",
+      "label": "Charlton Heston",
+      "value": "Died April 5, aged 84",
+      "detail": "Actor. The film page names Ben-Hur and The Ten Commandments.",
+      "date": "2008-04-05",
+      "source": "https://en.wikipedia.org/wiki/2008_in_film"
+    },
+    "deaths.carlin": {
+      "section": "deaths",
+      "label": "George Carlin",
+      "value": "Died June 22. Born 1937",
+      "detail": "Comedian, writer and actor, and the US year page adds that he was a central figure in obscenity law.",
+      "date": "2008-06-22",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "deaths.fischer": {
+      "section": "deaths",
+      "label": "Bobby Fischer",
+      "value": "Died January 17. Born 1943",
+      "detail": "American-born Icelandic chess grandmaster.",
+      "date": "2008-01-17",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    },
+    "deaths.crichton": {
+      "section": "deaths",
+      "label": "Michael Crichton",
+      "value": "Died November 4, aged 66, the day of the election",
+      "detail": "Physician, novelist, screenwriter and director. The US year page dates the death to November 4 and the film page's death table to November 5, so both are named here rather than resolved. The film page gives the age and names Jurassic Park and Twister.",
+      "date": "2008-11-04",
+      "source": "https://en.wikipedia.org/wiki/2008_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2008 plus one dedicated article pulled for the date check. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, and the sentence above the table says the top ten films released in 2008 by worldwide gross, citing Box Office Mojo, so figures_basis is gross and film.gross names worldwide in both its label and its detail. The Dark Knight cell carries a hidden editorial note and a footnote saying the $997,000,000 covers the initial release only and excludes an IMAX reissue in the following year, which is why the detail says initial release without naming the reissue year. Date check. The presidential election falls on the Tuesday after the first Monday in November. November 1 was a Saturday, so the first Monday was November 3 and the Tuesday after it November 4, which is what both cached year pages give. The election's own article was pulled as raw wikitext to confirm it and agrees, so there is no disagreement to name; it is cited anyway because pol.election takes the electoral and popular vote totals, the turnout figure, the vote shares and the nine flipped states from it, and tech.social_election takes the Pew figures from it, and no cached page carries any of them. Nothing in this file reaches into the following year: the inauguration, the 81st Academy Awards ceremony date, the Oscar statuette ownership date, the 12th Interactive Achievement Awards, the 5th British Academy Games Awards, the 9th Game Developers Choice Awards, the Gaza War's later course, Blagojevich's impeachment and conviction, Ajmal Kasab's execution and the digital television switchover deadline are all out for that reason. film.best_picture says the following February rather than a date, which is the corpus convention. Source disagreements labelled rather than resolved. The year page's dated Sichuan entry says 87,000 dead, its environment section approximately 87,500 and its image caption 88,000, and world.sichuan states the dated figure and names the other two. The same page gives 166 dead at Mumbai in its dated entry and approximately 160 in its conflicts section, and world.mumbai carries both. Hurricane Ike is 113 dead and over $30 billion on the year page and 27 dead in the United States on the US year page, which world.hurricanes states as the two different counts they are. Michael Crichton died on November 4 per the US year page and November 5 per the film page's death table, and deaths.crichton names both and takes November 4 for its date field. The HTC Dream looks like a third disagreement and is not one: September 23 is the unveiling and October 20 the American sale, and tech.android says so. Dropped for lack of a usable source. The music page opens by calling this the peak of record sales in the United States with declines every year since, which is both a claim about later years and unsupported by anything but a link to the RIAA sales database, so music.listening_format leaves it out. Bear Stearns, Blu-ray, HD DVD, DVD, Netflix, iTunes, Facebook, Twitter and the iPhone 3G appear in none of the eleven cached pages and are therefore absent from this file entirely, which is why film.how_people_watched claims nothing about home viewing and there is no smartphone fact beyond the first Android handset. California legalised same-sex marriage on May 15 and Connecticut on October 10, both on the US year page, and both were left out for room rather than for sourcing. Section windows. tv.hulu, tv.digital_switch and tv.premieres sit under the plain tv section, tech.social_election reaches the tech.social window through the tech.social_ prefix rule, and tech.games reaches its own window. culture.memes and tech.web_sites are open this year and both are empty: no cached page ranks or counts websites, and nothing in the cache describes a meme or a piece of internet slang, so Project Chanology is in the texture as a dated event rather than dressed up as a meme fact. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking value from one page and detail from another: sports.olympics cites the US year page for the medal breakdown and the Phelps record and takes the first-Games-in-China line from the year page; sports.super_bowl cites the sports page and takes nothing from elsewhere; tech.android cites the US year page for the American release and names the year page's unveiling date; deaths.ledger, deaths.newman and deaths.heston cite the film page's death table for age, nationality and films; tech.games cites the games page for dates, sales and awards and names the world year page for the Grand Theft Auto IV first-day figures, which the games page does not carry. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. WWE Smackdown vs. Raw 2009 is in the tech.games detail and passes on the generative rule for annual sports games titled for the coming season, which allows year plus one in a tech.games field. Madden NFL 09, NBA 2K9, Left 4 Dead, Metal Gear Solid 4, Persona 4, Fable II, Thriller 25 and 90210 are all safe without an entry, being either two digits, one digit or five. Nothing in the sources carried a title two or more years out, so there is nothing to report for the allowlist. Diacritics are written in ASCII per the corpus convention, so Penelope Cruz, Yojiro Takita, Gotz Spielmann, Radovan Karadzic, Ana Ivanovic, Jelena Jankovic, Francoise Barre-Sinoussi, J. M. G. Le Clezio and Vuelta a Espana lose theirs. Deaths carry a birth year where the US year page gives only the year and an age where the film page's table gives one. There is no cached deaths page for this year: the manifest records Deaths_in_2008 as a redirect to a list of lists, so every death here comes from the US year page or the film page. Dropped for room. Politics and world: the Writers Guild strike settlement, the scrapped Golden Globes ceremony, the Emmy audience, Project Chanology, the Nepalese monarchy, Medvedev's election, the Karadzic arrest, the leap second, the high speed rail line, the Dow's 777 and 680 point falls, the National Bureau of Economic Research recession declaration, the Icelandic bank collapse and the G20 summit are all in the texture instead of facts; the Chatsworth train collision of September 12 that killed 25, the Islamabad Marriott bombing of September 20, the Spanair crash of August 20, the Princess of the Stars sinking of June 21 with 814 dead, the Iwate earthquake of June 14, the K2 accident of August 1, the Greek riots from December 6, the Kingston coal ash spill of December 22, the Guinean coup of December 23, the Israeli invasion of Gaza on December 27, the Betancourt rescue of July 2, the Colombian marches against FARC of February 4, the Tibetan protests from March 10, the Bhutanese election of March 24, the Mauritanian coup of August 6, the Cypriot and Maltese adoption of the euro on January 1, the India and United States civil nuclear deal, the Chinese milk scandal, the food price crisis, the Bush shoeing incident of December 18, the Covina massacre, the O. J. Simpson sentencing of December 5, the Delta and Northwest merger of October 29 and the Spitzer resignation of March 12. Television and film: the 80th Academy Awards of February 24, hosted by Jon Stewart, left out on the same ground as other years because it honoured the previous year of film and would put a second Best Picture on the page; the 26th Sundance Film Festival, whose Grand Jury prize went to Frozen River; the 61st BAFTA ceremony; the Universal Studios backlot fire of June 1; the Kids' WB closure of May 24; the Toonami cancellation. Music: the Eraserheads reunion, the McCartney concert in Tel Aviv, the Tina Turner tour, the LeRoi Moore death, Lady Gaga's The Fame on August 19 and Taylor Swift's Fearless on November 11, which music.best_selling_album names without a date. Technology: the Conficker worm first detected on November 20, the Windows 7 name announcement of October 13, the two ten-million-digit Mersenne primes revealed on September 16, the first commercial wave farm off Portugal on September 24, the trachea transplant of November 19 and the GRB 080319B gamma-ray burst of March 19. Sport: Tiger Woods winning the US Open over Rocco Mediate in a playoff, Trevor Immelman winning the Masters, the United States winning the Ryder Cup at Valhalla, the Detroit Lions losing all 16 of their games, the first winless team since the 1976 Tampa Bay Buccaneers, the Detroit Red Wings' Swedish contingent, the Barisan Nasional result, and the UCI track cycling championships. Deaths that would have earned a place with more room: Arthur C. Clarke on March 19 aged 90, Harold Pinter on December 24, Studs Terkel on October 31, David Foster Wallace on September 12, Eartha Kitt on December 25, Bettie Page on December 11, Isaac Hayes on August 10, Bernie Mac on August 9, Bo Diddley on June 2, Cyd Charisse on June 17, Sydney Pollack on May 26, Richard Widmark, Gary Gygax on March 4, Joseph Weizenbaum on March 5, Tim Russert on June 13, William F. Buckley Jr. on February 27, Robert Rauschenberg on May 12, Roy Scheider on February 10, Jo Stafford on July 16, Estelle Getty on July 22, Odetta on December 2, Freddie Hubbard on December 29, Michael E. DeBakey on July 11, John Archibald Wheeler on April 13, Mark Felt on December 18, Sammy Baugh on December 17, Majel Barrett on December 18 and Van Johnson on December 12. This file runs 55 facts across 10 sections: politics 7, world 7, film 7, tv 4, music 5, tech 7, prices 4, culture 2, sports 6, deaths 6. Culture runs to only two because culture.mood and culture.nobel_prizes are the only culture facts the cache supports without inventing a meme or a slang term."
+}

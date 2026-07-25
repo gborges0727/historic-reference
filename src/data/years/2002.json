@@ -1,0 +1,538 @@
+{
+  "year": 2002,
+  "tier": "modern",
+  "headline": "The euro entered circulation, bombs destroyed two Bali nightclubs, and Republicans won both houses in November",
+  "texture": [
+    "The Senegalese ferry MV Le Joola went down off the West African coast on September 26 with 1,863 dead by official count and 64 survivors. A man killed eight members of the Nanterre town council in France on March 27, and an expelled student killed sixteen people at a school in Erfurt on April 26. Suicide bombers destroyed an Israeli-owned hotel in Mombasa on November 28 while others failed to bring down an Arkia charter flight with missiles. Chechen fighters shot down a Russian Mil Mi-26 near Khankala in August.",
+    "The Beltway sniper attacks began on October 2 with five shootings in Montgomery County, Maryland, and ended on October 24 with the arrest of John Allen Muhammad and Lee Boyd Malvo. Senator Paul Wellstone died in a plane crash at Eveleth, Minnesota on October 25. The Sour Biscuit Fire burned 499,570 acres of Oregon and northern California before crews contained it on September 5. Elizabeth Smart was taken from her bedroom in Salt Lake City on June 5. Bush choked on a pretzel and fainted briefly on January 13.",
+    "Grigori Perelman posted the first of a series of eprints to the arXiv on November 12, proving the Poincare conjecture. Manindra Agrawal, Neeraj Kayal and Nitin Saxena published a polynomial-time primality test in August. The Larsen B ice shelf in Antarctica, 12,000 years old and 3,265 square kilometres, broke apart in February. Kevin Warwick had part of his nervous system linked to a computer at Reading on March 14, then on June 10 sent the first direct electronic signal between the nervous systems of two people.",
+    "China blocked Google Search and AltaVista in August and restored parts of Google on September 12. Fox cancelled Family Guy on February 14 and aired what it took to be the last episode. The X-Files finished on May 19 after starting in 1993, Ally McBeal went the next day, and ABC dropped Politically Incorrect on July 5. Michael Jackson picketed Sony Music on July 6, accusing the chairman Tommy Mottola of a racist conspiracy against black artists, then dangled his infant son over a Berlin hotel balcony on November 19."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.midterms",
+    "world.euro",
+    "world.bali",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R), of Texas, in the second year of his first term",
+      "detail": "Dick Cheney of Wyoming was vice president, William Rehnquist of Virginia chief justice, Dennis Hastert of Illinois speaker of the House and Tom Daschle of South Dakota Senate majority leader, in the 107th Congress. Cheney served as acting president from 7:09 a.m. to 9:24 a.m. Eastern on June 29, while Bush was under sedation for a colonoscopy.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "Republicans took the Senate back and widened their House majority, making Bush the first president since Franklin D. Roosevelt in 1934 to gain seats in both chambers at a midterm",
+      "detail": "The date satisfies its own constraint, which is why it is stated: a US federal election falls on the Tuesday after the first Monday in November, November 4 was a Monday, and both the US year page and the dedicated article give November 5. Thirty-three regularly scheduled Class II Senate seats plus a Missouri special election were contested. Republicans gained Georgia, Minnesota and Missouri while Democrats took Arkansas, turning a 51 to 49 Democratic Senate into a 51 to 49 Republican one, the chamber the party had lost the previous year when Jim Jeffords left it. They picked up eight House seats for a 229 to 204 majority and won the nationwide House popular vote by 4.8 points, in the first House elections held after redistricting on the 2000 census. The dedicated article contradicts itself on the governorships: its opening paragraph says Democrats made a net gain of one and both its infobox and its state-elections section say three, so no gubernatorial number is stated here.",
+      "date": "2002-11-05",
+      "source": "https://en.wikipedia.org/wiki/2002_United_States_elections"
+    },
+    "pol.axis_of_evil": {
+      "section": "politics",
+      "label": "Axis of evil",
+      "value": "Bush used his State of the Union address to name Iran, Iraq and North Korea as foreign adversaries of the United States",
+      "detail": "The year page says terrorism dominated international politics through the year, with both terrorist acts and attempts to designate groups as terrorist organisations, and that Australia, Russia and the United States all claimed a right to preemptive strikes against foreign terrorist groups. China and Russia invoked anti-terrorism against their Uyghur and Chechen minorities.",
+      "date": "2002-01-29",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "pol.iraq_authorization": {
+      "section": "politics",
+      "label": "Congress authorises force against Iraq",
+      "value": "Congress passed a joint resolution letting the president use the armed forces against Iraq as he deemed necessary and appropriate",
+      "detail": "The US year page dates the same authorisation three ways, to October 2 for the joint resolution, to October 9 and 10 for Congress passing the Iraq Resolution, and to October 16 for the resolution being authorised by a majority of Congress, so no single day is stated here. The year page separately dates congressional approval of military action, should Iraq fail to surrender its weapons of mass destruction, to October 11. Bush had told the United Nations on September 12 to confront what he called the grave and gathering danger of Iraq or stand aside, and the Security Council adopted Resolution 1441 unanimously on November 8, giving Saddam Hussein a final opportunity to cooperate with weapons inspectors.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "pol.guantanamo": {
+      "section": "politics",
+      "label": "First detainees reach Guantanamo",
+      "value": "The first prisoners of the war on terror arrived at Camp X-Ray in the Guantanamo Bay detention camp",
+      "detail": "The year page says American treatment of prisoners came under scrutiny, particularly at Camp X-Ray, and that the arbitrary arrest and deportation of non-citizens and the indefinite detention of suspects captured in Afghanistan were condemned as human rights violations. It says international law on action against terrorist groups had yet to be settled and that international organisations spent the year debating how such action should be carried out.",
+      "date": "2002-01-11",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "pol.homeland_security": {
+      "section": "politics",
+      "label": "Homeland Security Act signed",
+      "value": "Bush signed the act establishing the Department of Homeland Security, which the US year page calls the largest reorganisation of the American government since the Department of Defense was created in 1947",
+      "date": "2002-11-25",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "pol.corporate_scandals": {
+      "section": "politics",
+      "label": "WorldCom files the largest bankruptcy in American history",
+      "value": "The telecommunications company filed for Chapter 11 protection at the height of its accounting scandal, a month after the Securities and Exchange Commission opened its investigation on June 25",
+      "detail": "The year page groups this with the accounting scandals that came out of the previous year's Enron collapse. Xerox and the French company Vivendi were found to be reporting artificially inflated profits, and there were fraud cases at Adelphia and Tyco and the ImClone stock trading case, which the year page dates to June 12 when the chief executive Samuel D. Waksal was arrested. It says the scandals brought the arrests of several high-profile executives, damaged public trust in corporate accounting and increased the volatility of global stock markets.",
+      "date": "2002-07-21",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.euro": {
+      "section": "world",
+      "label": "The euro becomes physical money",
+      "value": "Notes and coins entered circulation across the eurozone, with the first physical transactions carried out on Reunion",
+      "detail": "The old currencies of every country using the euro stopped being legal tender on February 28. The year page's economy section calls it a single official currency for the nations of the European Union and dates its introduction to the first day of the year.",
+      "date": "2002-01-01",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.bali": {
+      "section": "world",
+      "label": "Bali bombings",
+      "value": "Jemaah Islamiyah militants set off bombs at two nightclubs in Kuta, killing 202 people and injuring more than 300, the worst terrorist attack in Indonesia's history",
+      "detail": "The year page calls it the largest attack on civilians of the year and says Australian tourists made up a large share of the victims.",
+      "date": "2002-10-12",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.moscow_theatre": {
+      "section": "world",
+      "label": "Nord-Ost theatre siege",
+      "value": "Chechen rebels took over the Nord-Ost theatre in Moscow and held the audience hostage from October 23 to 26",
+      "detail": "The year page gives two tolls that do not agree. Its events list says at least 170 people were killed following the Russian attempt to subdue the militants, and its opening photograph caption says 132 of the 912 hostages were killed, so both are recorded here rather than one being chosen. The page puts the siege inside a wider escalation of Chechen attacks during the Second Chechen War.",
+      "date": "2002-10-23",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.gujarat": {
+      "section": "world",
+      "label": "Gujarat riots",
+      "value": "A mob attacked a train near Godhra on February 27, killing about 59 people, and Gujarat broke into riots that the year page puts at between 1,000 and 2,000 dead",
+      "detail": "The Gulbarg Society massacre followed on February 28 and killed about 69 people. The year page's religion section calls the attack on the train coach the most prominent strain on Hindu and Muslim relations in India that year and says it led to weeks of deadly rioting.",
+      "date": "2002-02-27",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.un_members": {
+      "section": "world",
+      "label": "Two countries join the United Nations",
+      "value": [
+        "Switzerland, September 10, the 190th member state, having rejected a place in 1986 and voted in a referendum on March 3 to join",
+        "East Timor, September 27, the 191st member state, having regained independence on May 20 as the Democratic Republic of Timor-Leste"
+      ],
+      "detail": "The year page's politics section groups the two as the countries that joined in September. It says Brazil, Lesotho and Senegal established democracy during the year by accepting fair elections, that Bahrain and Kenya moved toward it by strengthening political institutions, and that Ivory Coast and Togo lost it to mass political violence and unfair elections. The United States failed to be reelected to the United Nations Commission on Human Rights for the first time.",
+      "date": "2002-09-27",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.nato_russia": {
+      "section": "world",
+      "label": "NATO expands and the arms treaties unwind",
+      "value": [
+        "NATO-Russia Council established, May 28",
+        "Bush and Putin sign the Strategic Offensive Reductions Treaty, May 24",
+        "The United States withdraws from the Anti-Ballistic Missile Treaty, June 13",
+        "Russia withdraws from the START II nuclear reduction agreement, June 14",
+        "The Prague summit names seven countries intending to join NATO, November 22: Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia"
+      ],
+      "detail": "The year page says the expansion meant NATO countries bordered Russia for the first time. It also records the International Code of Conduct against Ballistic Missile Proliferation, signed by more than 90 countries in November, which its events list dates to November 25 and calls the Hague Code of Conduct.",
+      "date": "2002-11-22",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "world.catholic_church": {
+      "section": "world",
+      "label": "Boston Globe publishes its abuse investigation",
+      "value": "The paper printed the results of an investigation that led to the criminal prosecution of five Roman Catholic priests and brought wide attention to the sexual abuse of minors by Catholic clergy",
+      "detail": "The year page's religion section says the scandal carried over from the previous year, that the church adopted rules for handling abuse allegations on January 8 and that John Paul II made his second papal statement on the matter on March 22.",
+      "date": "2002-01-06",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "The Lord of the Rings: The Two Towers, $936,689,735, New Line",
+        "Harry Potter and the Chamber of Secrets, $878,979,634, Warner Bros.",
+        "Spider-Man, $821,708,551, Sony",
+        "Star Wars: Episode II, Attack of the Clones, $653,741,940, 20th Century Fox",
+        "Men in Black II, $441,818,803, Sony"
+      ],
+      "detail": "Worldwide gross rather than North American. The table's column header reads Rank, Title, Distributor, Worldwide gross. Die Another Day was sixth at $431,971,116 for MGM and 20th Century Fox, Signs seventh at $408,247,917 for Touchstone, Ice Age eighth at $383,257,136 for 20th Century Fox, My Big Fat Greek Wedding ninth at $368,744,044 for IFC and Minority Report tenth at $358,372,926 for 20th Century Fox and DreamWorks. The year page says the highest-grossing film not in English was Hero, in Mandarin, 28th for the year, and that the year held several unexpected successes and failures, naming the underwhelming performances of Attack of the Clones, Die Another Day and Treasure Planet against the word-of-mouth success of My Big Fat Greek Wedding.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Chicago, produced by Martin Richards",
+      "detail": "Awarded the following spring at the 75th Academy Awards, held at the Kodak Theatre in Hollywood and hosted by Steve Martin for the second time, with Gilbert Cates producing and Louis J. Horvitz directing the telecast. Chicago took thirteen nominations, more than any other film, and won six awards, and the ceremony page calls it the first musical to win Best Picture since Oliver! in 1968. Gangs of New York was second on ten nominations. Roman Polanski won Best Director for The Pianist, which took three awards, and Frida and The Lord of the Rings: The Two Towers took two each. Adrien Brody was 29 when he won Best Actor, the youngest ever. Meryl Streep's thirteenth nomination made her the most nominated actor in Oscar history and Jack Nicholson's twelfth extended his record among men. Lose Yourself from 8 Mile was the first hip hop song to win Best Original Song. Peter O'Toole received an Honorary Award. Michael Moore used his Best Documentary Feature speech to attack Bush and was met with a mixture of boos, applause and standing ovations, after which Martin joked that the Teamsters were helping him into the trunk of his limousine. The ABC telecast ran three hours and thirty minutes and averaged 33.04 million viewers with 20.58 percent of households, at the time the least-watched and lowest-rated Oscar broadcast on record.",
+      "source": "https://en.wikipedia.org/wiki/75th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Adrien Brody, The Pianist, as Wladyslaw Szpilman",
+        "Best Actress, Nicole Kidman, The Hours, as Virginia Woolf",
+        "Best Supporting Actor, Chris Cooper, Adaptation",
+        "Best Supporting Actress, Catherine Zeta-Jones, Chicago"
+      ],
+      "detail": "The ceremony page says Julianne Moore was the ninth performer to earn two acting nominations in the same year, for Far from Heaven and The Hours. Pedro Almodovar won original screenplay for Talk to Her and Ronald Harwood adapted screenplay for The Pianist. Elliot Goldenthal won original score for Frida. Hayao Miyazaki won the animated feature award for Spirited Away over Ice Age, Lilo and Stitch, Spirit: Stallion of the Cimarron and Treasure Planet. Bowling for Columbine won Best Documentary Feature for Michael Moore and Michael Donovan, and Twin Towers, by Bill Guttentag and Robert David Port, won the short subject documentary.",
+      "source": "https://en.wikipedia.org/wiki/75th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Nowhere in Africa, Germany, in German, directed by Caroline Link, the winner",
+        "The Crime of Father Amaro, Mexico, in Spanish, directed by Carlos Carrera",
+        "Hero, China, in Mandarin, directed by Zhang Yimou",
+        "The Man Without a Past, Finland, in Finnish, directed by Aki Kaurismaki",
+        "Zus and Zo, Netherlands, in Dutch, directed by Paula van der Oest"
+      ],
+      "detail": "The ceremony page gives each film's country, language and director. The film page's festival list gives the Palme d'Or at the 55th Cannes Film Festival to Roman Polanski's The Pianist from Poland, the Golden Lion at the 59th Venice International Film Festival to Peter Mullan's The Magdalene Sisters from Britain and Ireland, and the Golden Bear at the 52nd Berlin International Film Festival jointly to Hayao Miyazaki's Spirited Away from Japan and Paul Greengrass's Bloody Sunday from Britain and Ireland. It says Amelie won the Cesar Award for best film, director, music and art direction and became the highest-grossing French-language film ever released in the United States, with Brotherhood of the Wolf second over the previous two decades.",
+      "source": "https://en.wikipedia.org/wiki/75th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Ice Age, March 15, Blue Sky Studios' first feature",
+        "Spider-Man, May 3, the first film of its trilogy",
+        "Star Wars: Episode II, Attack of the Clones, May 16",
+        "Lilo and Stitch, June 21, Walt Disney Pictures' 42nd feature",
+        "Treasure Planet, November 27, Walt Disney Pictures' 43rd feature"
+      ],
+      "detail": "Spider-Man took $114 million between May 3 and 5, the first film to earn $100 million in a weekend, beating the opening record held by the first Harry Potter picture and the May record held by The Lost World: Jurassic Park. The film page says it went on to pass Batman as the highest-grossing superhero film and Men in Black as Sony's most successful film. Attack of the Clones was the first Star Wars film that was not the highest-grossing release of its year. Ice Age launched one of the highest-grossing franchises in film history, and Treasure Planet was a rare box office failure for Disney.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The film page ranks the year by worldwide gross rather than by North American receipts, and the year page names Hero, in Mandarin, as the highest-grossing release not in English.",
+      "detail": "None of the eleven cached pages says anything about DVD, videotape rental or a television premiere, so this fact claims nothing about home viewing and gives no figure for it.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$5.80",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2002",
+      "value": [
+        "CSI: Crime Scene Investigation, CBS, 16.3 rating",
+        "Friends, NBC, 13.9",
+        "Joe Millionaire, FOX, 13.3",
+        "ER, NBC, 13.1",
+        "American Idol, Tuesday, FOX, 12.6"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. The Wednesday edition of American Idol was sixth on 12.5. Survivor, across its Thailand and Amazon runs, tied with Everybody Loves Raymond for seventh on 11.9, both CBS. Law and Order was ninth on 11.7 for NBC and Monday Night Football tenth on 11.4 for ABC, with CSI: Miami and Will and Grace tied eleventh on 11.0.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2002%E2%80%9303"
+    },
+    "tv.american_idol": {
+      "section": "tv",
+      "label": "American Idol arrives and crowns Kelly Clarkson",
+      "value": "Fox aired the first episode on June 11 and Clarkson won the contest on September 4",
+      "detail": "The television page's debut table and the US year page give the same premiere date, and the US year page and the music page give the same date for the win.",
+      "date": "2002-06-11",
+      "source": "https://en.wikipedia.org/wiki/2002_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Osbournes, MTV, March 5",
+        "The Shield, FX, March 12",
+        "The Bachelor, ABC, March 25",
+        "The Wire, HBO, June 2",
+        "Kim Possible, Disney Channel, June 7",
+        "Monk, USA Network, July 12",
+        "Dr. Phil, syndication, September 16",
+        "Everwood, The WB, September 16",
+        "8 Simple Rules, ABC, September 17",
+        "Firefly, Fox, September 20",
+        "CSI: Miami, CBS, September 23",
+        "Without a Trace, CBS, September 26",
+        "Clone High, MTV, November 2",
+        "Around the Horn, ESPN, November 4"
+      ],
+      "detail": "The television page's debut table gives each date and channel for all of these. Everwood and Dr. Phil share September 16, and Greetings from Tucson and What I Like About You went out on The WB the same day Fox launched Firefly and John Doe.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_American_television"
+    },
+    "tv.saturday_mornings": {
+      "section": "tv",
+      "label": "All four networks change their Saturday mornings",
+      "value": "Fox ended Fox Kids, which had run since 1990, and sold the airtime to 4Kids Entertainment for a block called the Fox Box, while ABC renamed Disney's One Saturday Morning as ABC Kids, CBS rebranded Nick Jr. on CBS as Nick on CBS and NBC replaced the teenage block TNBC with Discovery Kids on NBC",
+      "detail": "The last Fox Kids block went out on September 7 and the replacement started the following week. The US year page says Disney had acquired the Fox Kids brand and Fox had sold Fox Kids Worldwide to Disney the previous year, and that the CBS block was refocused on children aged 2 to 11.",
+      "date": "2002-09-14",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "How You Remind Me, Nickelback",
+        "Foolish, Ashanti",
+        "Hot in Herre, Nelly",
+        "Dilemma, Nelly featuring Kelly Rowland",
+        "Wherever You Will Go, The Calling"
+      ],
+      "detail": "Only nine songs reached number one on the Hot 100 during the year, which the chart page calls the second lowest count in Billboard history. How You Remind Me spent four weeks at number one straddling the turn of the year. Foolish and Dilemma each held the top for ten weeks, Hot in Herre for seven. Ashanti placed the most songs on the year-end list, with Foolish second and her collaboration with Fat Joe, What's Luv, eighth. A Thousand Miles by Vanessa Carlton was sixth, In the End by Linkin Park seventh, U Got It Bad by Usher ninth and Blurry by Puddle of Mudd tenth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2002"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On compact disc, which was 89 percent of the market. About 3 billion units of recorded music sold worldwide, down 8 percent from the previous year, with DVD music sales up 40 percent and cassette sales down 36 percent.",
+      "detail": "Figures as the year page gives them, from the IFPI world sales report. The same page says new peer-to-peer developments allowed decentralised file sharing between computers and spread online piracy. The music page dates the end of Napster to September 3, when a judge refused Bertelsmann's bid to buy its assets and the service shut down for good.",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums in the United States",
+      "value": [
+        "The Eminem Show, Eminem",
+        "Nellyville, Nelly",
+        "Let Go, Avril Lavigne",
+        "Britney, Britney Spears",
+        "Laundry Service, Shakira"
+      ],
+      "detail": "The music page's top ten for the American market gives no unit figures. Silver Side Up by Nickelback was sixth, A New Day Has Come by Celine Dion seventh, 8701 by Usher eighth, Home by the Dixie Chicks ninth and Missundaztood by Pink tenth. The year page says the best sellers worldwide were The Eminem Show, Let Go and the Elvis Presley compilation ELV1S: 30 No. 1 Hits, and that the best-selling album not in English was Mensch by the German singer Herbert Groenemeyer, 29th overall. It also says pop declined sharply during the year and was overtaken by country and hip hop.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "A New Day Has Come, Celine Dion, March 25",
+        "The Eminem Show, Eminem, May 26",
+        "Let Go, Avril Lavigne, June 4",
+        "Heathen, David Bowie, June 11",
+        "Untouchables, Korn, June 11",
+        "By the Way, Red Hot Chili Peppers, July 9",
+        "I Brought You My Bullets, You Brought Me Your Love, My Chemical Romance, July 23",
+        "Songs for the Deaf, Queens of the Stone Age, August 27",
+        "Stripped, Christina Aguilera, October 29",
+        "Charmbracelet, Mariah Carey, December 3"
+      ],
+      "detail": "A New Day Has Come was Dion's return after four years away. Heathen was Bowie's twenty-second studio album and his highest-charting in the United States since Tonight. By the Way sold 286,000 copies in its first American week and peaked at number two. Songs for the Deaf had Dave Grohl on drums. Stripped entered the chart at number two on 330,000 copies, three years after Aguilera's first album, and the music page dates the video for its lead single Dirrty to October 2.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_music"
+    },
+    "music.industry": {
+      "section": "music",
+      "label": "Money moving through the record business",
+      "value": [
+        "Virgin Records bought out Mariah Carey's contract for $28 million on January 23, paying her to stop recording for the label, and she signed with Island Def Jam on May 8",
+        "BMG agreed to buy the rest of the Zomba Music Group on June 12 in a deal reported at $3 billion",
+        "Robbie Williams signed a six-album deal with EMI on October 2 for 80 million pounds, which the music page calls the most lucrative contract ever signed by a British musician"
+      ],
+      "detail": "The music page also dates the first Bonnaroo festival in Tennessee to June 21 through 23, with Widespread Panic, Gov't Mule and Norah Jones performing, and the 47th Eurovision Song Contest to May 25 at Saku Suurhall in Tallinn, won by the Latvian singer Marie N with I Wanna.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Grand Theft Auto: Vice City, Rockstar, October 27, on the PlayStation 2, the best-selling game in the United States at 4,446,676 copies",
+        "Madden NFL 2003, EA Sports, second in the United States at 3,193,545 copies across four platforms",
+        "Metroid Prime, Nintendo, November 15, on the GameCube",
+        "The Legend of Zelda: The Wind Waker, Nintendo, December 13, on the GameCube in Japan",
+        "Super Mario Sunshine, Nintendo, August 26, on the GameCube",
+        "Kingdom Hearts, September 17, on the PlayStation 2",
+        "Tom Clancy's Splinter Cell, November 18, on the Xbox"
+      ],
+      "detail": "NPD put spending on video game hardware, software and accessories at about $10.3 billion, up 10 percent on the previous year. The games page names Metroid Prime and The Wind Waker the most critically acclaimed titles of the year, at 97 and 96 on Metacritic. Its aggregator table dates Vice City to October 29 and Metroid Prime to November 17 where its release table says October 27 and November 15, and both are recorded here rather than one being chosen. The year page says Sony and Microsoft introduced online gaming services for the PlayStation 2 and the Xbox. The Sims passed Myst as the best-selling computer game of all time on March 22 at 6.3 million copies. Grand Theft Auto III was third among American sellers at more than 2,412,997 copies, which is how the table writes it, and NCAA Football 2003 tenth. Greece passed Law 3037 on July 29 outlawing electronic games played in public, an attempt to suppress illegal gambling. Consoles kept rolling out by region: the Xbox reached Japan on February 22 and Europe and Australasia on March 14, the GameCube reached Europe on May 3 and Australasia on May 17, and the PlayStation 2 reached Taiwan on January 24, South Korea on February 22 and Russia on November 7.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_video_games"
+    },
+    "tech.releases": {
+      "section": "tech",
+      "label": "Hardware and software released",
+      "value": [
+        "iMac G4, Apple, January 7",
+        "Tor anonymity network, release announced September 20",
+        "The Mozilla Organization's web browser, first version September 23",
+        "Danger Hiptop, October 1, the first smartphone to carry instant messaging"
+      ],
+      "detail": "The science page names the browser released on September 23 as Firefox, which is the name it uses rather than the one the first build shipped under. The year page says the open-source software movement grew during the year, partly because Microsoft avoided tighter regulation in court, and that the Klez computer worm spread extensively before public awareness limited it.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_science"
+    },
+    "tech.internet_use": {
+      "section": "tech",
+      "label": "Blogging becomes ordinary",
+      "value": "The year page says blogging became a common practice, and that new peer-to-peer developments allowed decentralised file sharing between computers",
+      "detail": "The same page says an expected recovery in the newspaper industry did not arrive as digital media became more common, forcing significant cutbacks, and that the magazine industry faced the same pressure.",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Mars Odyssey began mapping the surface of Mars with its thermal emission imaging system on February 19, and found signs of large water ice deposits on May 26",
+        "Envisat launched on March 1 to monitor the environment",
+        "Shenzhou 3 launched from China on March 25 and Shenzhou 4 on December 29",
+        "Mark Shuttleworth of South Africa launched from Baikonur on April 25 as the second space tourist",
+        "Quaoar was discovered on June 4 by Chad Trujillo and Michael Brown at Palomar Observatory",
+        "CONTOUR reached orbit on July 3 and was lost when it was activated on August 15",
+        "INTEGRAL launched for the European Space Agency on October 17"
+      ],
+      "detail": "The year page counts 61 successful and four failed launches. NASA also put up the Reuven Ramaty High Energy Solar Spectroscopic Imager on February 5 and the Aqua research satellite on May 4, and EUMETSAT launched Meteosat 8 on August 28. Space Shuttle Columbia flew a Hubble Space Telescope service mission on March 1. Work on the International Space Station stopped for several months after potentially deadly cracks were found on several shuttles. An object about ten metres across hit the atmosphere over the Mediterranean on June 6 and detonated in mid-air.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_science"
+    },
+    "tech.genomes": {
+      "section": "tech",
+      "label": "Genomes sequenced",
+      "value": [
+        "Indica rice, published April 5",
+        "Anopheles gambiae and Plasmodium falciparum, the mosquito and parasite behind malaria, published October 4"
+      ],
+      "detail": "American scientists announced in July that they had reconstructed a poliovirus specimen from its genetic sequence, work the year page dates to July 11 at Stony Brook University and calls the first synthetic virus. Scientists at the San Diego Zoo made cloned egg cells for the endangered banteng by putting its DNA into egg cells taken from cows. The year page says controversy over genetically modified crops grew once pest-resistant genes were found to transfer to weeds, and once crops resistant to some pests turned out to be more vulnerable to others.",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.36 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1997.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.stock_market": {
+      "section": "prices",
+      "label": "Bottom of the dot-com bear market",
+      "value": "The Dow Jones Industrial Average slipped below 7,200 on October 9, which the US year page calls the low point of the bear market that followed the dot-com bubble",
+      "detail": "The Federal Reserve cut its primary discount rate by 25 basis points to 0.75 percent on November 6, putting the real interest rate well below the inflation rate. The year page says global equities were down 24 percent by October, that AOL Time Warner stock had lost 65 percent of its value by the autumn, that gross world product grew 1.7 percent for the second slowest year in a decade, and that the information technology industry declined sharply before starting its recovery from the dot-com crash, with telecommunications hit harder still.",
+      "date": "2002-10-09",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A war with no front, prisoners flown to a naval base in Cuba, and a president naming three countries as an axis of evil. At home the story was accounting: a telephone company filing the largest bankruptcy anyone had seen, and executives arrested over numbers they had made up."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Imre Kertesz",
+        "Peace, Jimmy Carter",
+        "Physics, Raymond Davis Jr., Masatoshi Koshiba and Riccardo Giacconi",
+        "Chemistry, John B. Fenn, Koichi Tanaka and Kurt Wuthrich",
+        "Medicine, Sydney Brenner, H. Robert Horvitz and John E. Sulston",
+        "Economics, Daniel Kahneman and Vernon L. Smith"
+      ],
+      "detail": "The year page gives no dates for any of them. Davis and Koshiba were cited for detecting cosmic neutrinos and Giacconi for discovering cosmic X-ray sources. The Fields Medal went to Laurent Lafforgue and Vladimir Voevodsky, the Turing Award to Ron Rivest, Adi Shamir and Leonard Adleman, and the Wollaston Medal for geology to Rudolf Trumpy.",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "culture.architecture": {
+      "section": "culture",
+      "label": "Buildings opened",
+      "value": [
+        "Imperial War Museum North, England, July 5",
+        "Bibliotheca Alexandrina, Alexandria, October 16, opened before several heads of state",
+        "Cathedral of Our Lady of the Angels, Los Angeles",
+        "Austrian Cultural Forum, New York"
+      ],
+      "detail": "The year page's events list places the Imperial War Museum North at Trafford and its culture section places it at Manchester, so both are recorded here rather than one being chosen. Rebuilding the World Trade Center was the year's main preoccupation in architecture, with exhibitions held to show design concepts, and the Tribute in Light went up on the site on March 11 in the interim. Egypt began accepting designs for the Grand Egyptian Museum. Fallingwater in Pennsylvania and the Bronx Developmental Center in New York were renovated and the Maslon House in California was demolished.",
+      "source": "https://en.wikipedia.org/wiki/2002"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Salt Lake City from February 8 to 24, with Norway taking the most medals at 25 and the most golds at 13, and the United States winning 10 gold, 13 silver and 11 bronze",
+      "detail": "A judging scandal in pairs figure skating dominated coverage and ended with two gold medals awarded, to Yelena Berezhnaya and Anton Sikharulidze of Russia and to Jamie Sale and David Pelletier of Canada. Alexei Yagudin won the men's event and Sarah Hughes the women's, and Marina Anissina and Gwendal Peizerat of France won the ice dance. Steven Bradbury of Australia became the first Winter Olympic gold medallist from the Southern Hemisphere after a crash on the last corner of the men's 1000 metre short track final left him the only skater standing. Canada beat the United States 5 to 2 for the men's ice hockey gold and 3 to 2 for the women's. Janica Kostelic, Ole Einar Bjoerndalen and Simon Ammann were among the top performers.",
+      "date": "2002-02-08",
+      "source": "https://en.wikipedia.org/wiki/2002_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXVI",
+      "value": "The New England Patriots beat the heavily favoured St. Louis Rams 20 to 17 at the Louisiana Superdome in New Orleans in front of 72,922, the franchise's first championship",
+      "detail": "Pat Summerall called his 26th and last Super Bowl, the eighth and last he worked with John Madden, five for CBS and three for Fox. U2 played the halftime show as a tribute to the victims of the September 11 attacks. Miami had beaten Nebraska 37 to 14 for the previous college season's national championship. The Tuck Rule Game between New England and Oakland on January 19 became a national controversy after officials cited an obscure rule to overturn a call against Tom Brady.",
+      "date": "2002-02-03",
+      "source": "https://en.wikipedia.org/wiki/2002_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Anaheim Angels beat the San Francisco Giants four games to three, taking game seven on October 27 for the franchise's first title",
+      "detail": "The sports page gives the series result and the US year page dates the deciding game.",
+      "date": "2002-10-27",
+      "source": "https://en.wikipedia.org/wiki/2002_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Held from May 31 to June 30 in South Korea and Japan, the first World Cup in Asia and the first hosted by two countries, and won by Brazil 2 to nil over Germany with both goals from Ronaldo",
+      "detail": "Brazil's fifth title. Cafu became the first player to appear in three successive World Cup finals and accepted the trophy for the team. Turkey finished third and South Korea fourth. The year page says Argentina, France and Italy all fell short of expectations while Senegal, South Korea, Turkey and the United States did better than their histories suggested. The sports page calls it the first World Cup held in Asia and the first shared by two hosts.",
+      "date": "2002-06-30",
+      "source": "https://en.wikipedia.org/wiki/2002_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Detroit Red Wings over the Carolina Hurricanes, four games to one",
+        "NBA Finals, Los Angeles Lakers swept the New Jersey Nets for a third straight title, with Shaquille O'Neal a third straight Finals most valuable player and Phil Jackson's ninth championship",
+        "NCAA men's basketball, Maryland 64, Indiana 52",
+        "WNBA Finals, Los Angeles Sparks over the New York Liberty, two games to none",
+        "UEFA Champions League, Real Madrid over Bayer Leverkusen 2 to 1, the club's ninth European Cup",
+        "Masters Tournament, Tiger Woods, the third golfer to win it in consecutive years"
+      ],
+      "detail": "Europe beat the United States 15.5 to 12.5 in the Ryder Cup. Woods was the only golfer under par at the US Open, Ernie Els won the British Open for his third major and Rich Beem the PGA Championship by one shot over Woods, who led the money list at $6,912,625. Lennox Lewis kept the WBC heavyweight title with an eighth-round knockout of Mike Tyson, which the sports page dates to June 21 and the year page to June 8, so both are recorded here. Michael Schumacher set numerous records with the Ferrari F2002 and the FIA changed several rules afterwards, including on team orders, following the Austrian Grand Prix where Rubens Barrichello moved aside to let him win. Yugoslavia won the FIBA World Championship and the United States the women's. Yao Ming's Shanghai Sharks beat the Bayi Rockets three games to one, ending six straight Bayi titles. The Montreal Alouettes beat the Edmonton Eskimos 25 to 16 in the 90th Grey Cup on November 24, and the Adelaide 36ers beat the West Sydney Razorbacks 2 to 1 in the Australian league final.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Thomas Johansson and Jennifer Capriati",
+        "French Open, Albert Costa and Serena Williams",
+        "Wimbledon, Lleyton Hewitt and Serena Williams",
+        "US Open, Pete Sampras and Serena Williams"
+      ],
+      "detail": "The year page says three of the four majors ended with Serena Williams beating her sister Venus in the final. Russia beat France 3 to 2 in the Davis Cup final at the Palais Omnisports de Paris-Bercy and Slovakia beat Spain 3 to 1 in the Fed Cup at Maspalomas. Serena Williams was Associated Press Female Athlete of the Year and Lance Armstrong the male one, for a Tour de France win the sports page records as rescinded.",
+      "source": "https://en.wikipedia.org/wiki/2002_in_sports"
+    },
+    "deaths.jennings": {
+      "section": "deaths",
+      "label": "Waylon Jennings",
+      "value": "Died February 13. Born 1937",
+      "detail": "American country singer.",
+      "date": "2002-02-13",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "deaths.jones": {
+      "section": "deaths",
+      "label": "Chuck Jones",
+      "value": "Died February 22. Born 1912",
+      "detail": "Animator.",
+      "date": "2002-02-22",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "deaths.wilder": {
+      "section": "deaths",
+      "label": "Billy Wilder",
+      "value": "Died March 27. Born 1905",
+      "detail": "Austrian-born film director.",
+      "date": "2002-03-27",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "deaths.williams": {
+      "section": "deaths",
+      "label": "Ted Williams",
+      "value": "Died July 5. Born 1918",
+      "detail": "Baseball player.",
+      "date": "2002-07-05",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    },
+    "deaths.jam_master_jay": {
+      "section": "deaths",
+      "label": "Jam Master Jay",
+      "value": "Died October 30. Born 1965",
+      "detail": "Hip hop disc jockey, shot dead at a studio in Queens. Run-D.M.C. broke up afterwards.",
+      "date": "2002-10-30",
+      "source": "https://en.wikipedia.org/wiki/2002_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2002 plus one dedicated article pulled for the date check. figures_basis is gross, checked with bo.mjs rather than assumed: the table is headed Highest-grossing films of 2002 and its column header reads Rank, Title, Distributor, Worldwide gross, so the figures are worldwide and film.gross says so in its detail. Date check. This is a US midterm year, so the brief's checkable-constraint rule was applied to the election date. A US federal election falls on the Tuesday after the first Monday in November; November 1 was a Friday, the first Monday was November 4, and the Tuesday after it was November 5, which is the date the US year page gives and the date the dedicated article gives in its infobox, its lede and its House section. There is no disagreement to report, so pol.midterms cites the dedicated article because it carries the seat counts, the popular-vote margin, the 1934 comparison and the redistricting note that no cached page holds. The article does disagree with itself on the gubernatorial result: its opening paragraph says Democrats made a net gain of one state governorship while its infobox says Democratic +3 and its state-elections section says three, so pol.midterms states no gubernatorial number and says why. The article pulled was https://en.wikipedia.org/wiki/2002_United_States_elections. The 75th Academy Awards honouring this year of film fall in the following spring, so film.best_picture, film.acting_awards and film.world_cinema name the winners, the host, the producer, the venue and the telecast figures without a ceremony date. The 74th Academy Awards of March 24, hosted by Whoopi Goldberg at the Kodak Theatre, are out of the file for the same reason 2001 leaves out the 73rd: they honoured the previous year of film and would put a second Best Picture on the page. The 44th Grammy Awards of February 27 in Los Angeles, hosted by Jon Stewart, which gave Album of the Year to the O Brother, Where Art Thou? soundtrack, Record of the Year to U2's Walk On and Song of the Year and Best New Artist to Alicia Keys, are left out on the same ground. The ceremony page's framing of Michael Moore's acceptance speech against the Iraq War is left out because the war it refers to begins after this page's year; film.best_picture records the speech and the reaction without that context. Source disagreements labelled rather than resolved. The year page contradicts itself on the Moscow theatre siege: its events list says at least 170 killed and its opening photograph caption says 132 of 912 hostages, and world.moscow_theatre names both. The US year page dates the congressional authorisation of force against Iraq three ways, to October 2, to October 9 and 10, and to October 16, while the year page dates congressional approval to October 11, so pol.iraq_authorization carries no date field and lists all four. The games page's aggregator table dates Grand Theft Auto: Vice City to October 29 and Metroid Prime to November 17 where its own release table says October 27 and November 15, and tech.games states both. The sports page dates the Lewis and Tyson fight to June 21 and the year page to June 8, and sports.champions names both. The year page's events list puts the Imperial War Museum North at Trafford and its culture section puts it at Manchester, and culture.architecture names both. The science page dates the AKS primality test to August 6 in its mathematics section and the year page dates it to August 7, so texture says only August. The science page names the browser first released on September 23 as Firefox, which is the name the page uses rather than the name the first build actually shipped under; tech.releases says so outright rather than presenting the page's wording as settled, and the correction is general knowledge that comes out if challenged. Facts taking their value from one cached page and part of their detail from another: pol.us_president cites the US year page throughout; pol.axis_of_evil cites the year page, which names the three countries, and takes the State of the Union framing from the US year page, both pages giving January 29; pol.guantanamo cites the US year page for the arrival date and takes the scrutiny of Camp X-Ray from the year page; pol.corporate_scandals cites the year page for the bankruptcy and the ImClone date and takes the Xerox, Vivendi, Adelphia and Tyco cases from the same page's economy section; world.euro cites the year page's events list and economy section; world.un_members cites the year page's events list and politics section; prices.stock_market cites the US year page for the index level and the discount-rate cut and takes the equities fall, the AOL Time Warner fall, the gross world product figure and the technology and telecommunications decline from the year page's economy section; tv.american_idol cites the television page and notes that the US year page and the music page agree on the win; tv.saturday_mornings cites the US year page, which is the page that carries the whole realignment; music.listening_format cites the year page for the IFPI figures and takes the Napster shutdown from the music page; music.best_selling_album cites the music page for the American ranking and takes the worldwide sellers and the pop-to-country-and-hip-hop shift from the year page; tech.releases cites the science page and takes the hybrid vehicles, the open-source growth and the Klez worm from the year page; tech.space cites the science page and takes the launch count, the station cracks and the Shuttle mission from the year page and the US year page; tech.genomes cites the year page throughout; culture.nobel_prizes cites the year page for the six Nobels and takes the physics citations, the Fields Medal, the Turing Award and the Wollaston Medal from the science page; sports.super_bowl cites the sports page for the result and takes the attendance from the same page, the Summerall detail from the television page, the halftime show from the music page and the venue from the US year page; sports.winter_olympics cites the sports page and takes the American medal count from the US year page and the judging scandal from the year page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question; that the browser released on September 23 shipped under a different name; and the whole of culture.mood. All three come out if challenged. Names carrying a four-digit number. Madden NFL 2003 and NCAA Football 2003 sit in tech.games, where the brief's generative rule for annual sports games titled for the coming season covers them, so src/data/name_years.json was not touched. Nothing on this page needed an allowlist entry and nothing was dropped over the anachronism rule. Titles safely in without an exemption: Battlefield 1942 and Law 3037, both earlier numbers or outside the year range, Star Wars: Episode II, Grand Theft Auto III, Metroid Prime, Shenzhou 3 and 4, Meteosat 8, 8 Mile, 8701 and 8 Simple Rules, the Ferrari F2002, and Mars Odyssey, which is written without the 2001 that its full name carries because the science page uses the short form in the entries cited. Forward-looking material held out of every fact string and out of texture: the SARS outbreak's later course, the Eelam War ceasefire holding for years, the repeal of the Greek games law, the return of Family Guy, the renaming of Nicktoons TV, the civilian phase of the smallpox vaccination programme, the gold certification of Songs for the Deaf, and the four weeks Lose Yourself spent at number one after the turn of the year. Section windows. tech.social does not open until 2003, so nothing in the file uses a tech.social id and no social-media fact was written. culture.memes opens in 1996 and no cached page carries a meme, a catchphrase or anything internet-borne of that kind for this year, so no such fact exists here rather than one being written from memory. There is no radio fact because the radio window closed after 1959; the year page's material on Indian radio deregulation, Good Morning Afghanistan and the expulsion of Radio Liberty from Russia in October is therefore left out entirely rather than moved into another section to get round the gate. tech.internet_use uses the tech.internet family, open from 1993. The Nielsen ranking covers a season that began in the autumn of 2002 and ran into the following spring, which tv.top_shows states without naming a second year. Month-only and undated facts: pol.iraq_authorization, pol.us_president, tech.internet_use and every list fact carry no date field. No fact carries a month-only date this year. Dropped for lack of a source that says enough, or for room, and put in texture instead: the sinking of the MV Le Joola on September 26, the Nanterre council shooting of March 27, the Erfurt school shooting of April 26, the Mombasa hotel bombing of November 28 and the failed missile attack on the Arkia flight, the Mil Mi-26 shot down near Khankala in August, the Beltway sniper attacks and the arrests of John Allen Muhammad and Lee Boyd Malvo, the death of Senator Paul Wellstone at Eveleth on October 25, the Sour Biscuit Fire, the kidnapping of Elizabeth Smart on June 5, Bush choking on a pretzel on January 13, Grigori Perelman's first Poincare eprint of November 12, the AKS primality test, the collapse of the Larsen B ice shelf in February, Kevin Warwick's nervous-system experiments of March 14 and June 10, China blocking Google Search and AltaVista in August, the cancellation of Family Guy on February 14, the end of The X-Files on May 19 and of Ally McBeal and Politically Incorrect, and Michael Jackson's picket of Sony Music on July 6 and the Berlin balcony incident of November 19. Dropped entirely, for room: the first case of SARS recorded in Guangdong on November 16; the election of Luiz Inacio Lula da Silva in Brazil on October 27, Hu Jintao becoming General Secretary of the Chinese Communist Party on November 15, and Kenya's first free elections on December 27; the Prestige oil spill off Galicia from November 13; the eruption of Mount Nyiragongo on January 17 and the evacuation of 400,000 people from Goma; the murder of Daniel Pearl in Karachi, reported February 1; the No Child Left Behind Act of January 8; the Yucca Mountain decision of February 12; the bankruptcies of US Airways on August 12 and United Airlines on December 9; the 6.1 magnitude Hindu Kush earthquake of March 25, the deadliest of the year at about 1,000 dead, and the 7.9 Denali earthquake of November 3 that killed nobody; the deaths of Jonas Savimbi on February 22 and the arrest of Leopoldo Galtieri on July 11; the Venezuelan coup attempt of April and the strike from December 2; the end of the Sierra Leone Civil War on January 18 and the Angolan peace agreement of April 4; the African Union replacing the Organisation of African Unity on July 9; the Rome Statute entering force on July 1; the start of the Milosevic trial in February and Biljana Plavsic's guilty plea on October 2; the Golden Jubilee of Elizabeth II and the Prom at the Palace of June 4; the Commonwealth Games at Manchester from July 25 and the Asian Games at Busan; Bruno Peyron's 64-day circumnavigation record; the move of the Charlotte Hornets to New Orleans; the Second Battle of Yeonpyeong on June 29, which the year page notes only because it fell during the World Cup; the announcement of the early hominid Sahelanthropus on July 11 from fossils found in Chad; the Tactical High Energy Laser prototype that shot down an artillery shell on November 4; the first widespread popularity of hybrid vehicles; the new Paramount Pictures on-screen logo of March 1 for the studio's 90th anniversary; the 1,000th Soul Train on January 5, the 4,000th Sesame Street on March 1, the 10,000th General Hospital on April 17 and the first World Wrestling Federation draft lottery on Raw on March 25; the 1.9 percent growth in international trade and the shift of most developed nations from budget surplus to deficit; the Sknyliv air show disaster of July 27; Typhoon Rusa, the deadliest South Korean typhoon in 43 years; the second hottest year on record and the droughts and floods that came with it; the famines in Ethiopia, Malawi, Zambia and Zimbabwe; and the confirmation of Rowan Williams as Archbishop of Canterbury in December. Names and titles are written in ASCII per the corpus convention, so Imre Kertesz, Kurt Wuthrich, Herbert Groenemeyer, Pedro Almodovar, Aki Kaurismaki, Amelie, Cesar Award, Wladyslaw Szpilman, Poincare, Slobodan Milosevic, Biljana Plavsic, Luiz Inacio Lula da Silva, Jamie Sale, Janica Kostelic, Ole Einar Bjoerndalen and Reunion lose their diacritics, and en dashes inside film titles become commas the way 1999 writes Star Wars: Episode I, The Phantom Menace. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. Deaths that would have earned a place with more room: Dave Thomas on January 8, Peggy Lee on January 21, Cyrus Vance on January 12, Milton Berle and Dudley Moore on March 27, the same day as Wilder, Layne Staley on April 5, Byron White on April 15, Lisa Lopes on April 25, Stephen Jay Gould on May 20, Sam Snead on May 23, Dee Dee Ramone on June 5, John Gotti on June 10, Bill Blass on June 12, John Entwistle on June 27, Rosemary Clooney on June 29, Ray Brown on July 2, Benjamin O. Davis Jr. on July 4, John Frankenheimer on July 6, Ward Kimball on July 8, Rod Steiger on July 9, Alan Lomax on July 19, Chaim Potok on July 23, Chick Hearn on August 5, Lionel Hampton on August 31, Kim Hunter and Johnny Unitas on September 11, Bob Hayes on September 18, Mike Webster on September 24, Aileen Wuornos on October 9, Ray Conniff on October 12, Stephen Ambrose on October 13, Adolph Green and Richard Helms on October 23, Harry Hay on October 24, James Coburn on November 18, John Rawls on November 24, Philip Berrigan on December 6, Herb Ritts on December 26 and George Roy Hill on December 27. This file runs 52 facts across 10 sections: politics 7, world 7, film 7, tv 4, music 5, tech 5, prices 3, culture 3, sports 6, deaths 5. World runs to 7 because the year carries the euro entering circulation, the Bali bombings, the Nord-Ost siege, the Gujarat riots, two admissions to the United Nations, the NATO expansion together with the unwinding of three arms treaties, and the Boston Globe investigation of the Archdiocese of Boston, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. Resolution 1441 sits inside pol.iraq_authorization rather than in its own fact because it is the same disarmament crisis the congressional vote belongs to, not an event that merely shares a month with it."
+}

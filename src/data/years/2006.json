@@ -1,0 +1,461 @@
+{
+  "year": 2006,
+  "tier": "modern",
+  "headline": "Twitter opened to the public, Google bought YouTube, and Democrats took both chambers in November",
+  "texture": [
+    "Twitter was created in March and opened to the public on July 15. Google paid $1.65 billion for YouTube in October. The Chicago band OK Go released a video for Here It Goes Again on July 31 and it became an internet phenomenon on YouTube. Microsoft shipped its first Zune on November 14. The billionth song downloaded from iTunes, logged on February 22, was Coldplay's Speed of Sound. Sony's PRS500 e-book reader went on sale in America on November 1.",
+    "Explosions hit the al-Askari Shrine in Samarra on February 22 and the sectarian violence that followed turned into a full war. Saddam Hussein heard a death sentence on November 5 and was hanged on December 30. Voters handed the Democrats both chambers of Congress on November 7, and Donald Rumsfeld left the Pentagon the following day. The Dow Jones average crossed 12,000 on October 19, unemployment fell to 4.4 percent, and 1,259,118 foreclosures were filed over the year.",
+    "Kobe Bryant scored 81 points against Toronto on January 22, the second highest individual total in league history. Barry Bonds hit his 715th home run on May 28 and passed Babe Ruth. Japan beat Cuba 10 to 6 in the first World Baseball Classic. Security banned liquids and gels from checked and carry-on bags on August 10, then allowed containers of 3.4 ounces inside a quart bag from September 26. The International Astronomical Union struck Pluto off the list of planets on August 24, seven months after New Horizons launched toward it."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.midterms",
+    "world.samarra",
+    "film.gross#0",
+    "tech.twitter",
+    "tech.internet_youtube",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R)",
+      "detail": "Sixth year in office, with Dick Cheney as vice president and John Roberts as Chief Justice. The 109th Congress had Dennis Hastert as Speaker and Bill Frist as Senate majority leader.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "Democrats took control of both chambers of Congress and a majority of the state governorships",
+      "detail": "Held November 7, the Tuesday after the first Monday in November, which is the date the statutory rule gives.",
+      "date": "2006-11-07",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "pol.rumsfeld": {
+      "section": "politics",
+      "label": "Rumsfeld leaves the Pentagon",
+      "value": "Secretary of Defense Donald Rumsfeld resigned the day after the election that removed the Republican Party from control of Congress",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "pol.alito": {
+      "section": "politics",
+      "label": "Supreme Court",
+      "value": "Samuel Alito was sworn in as an associate justice on January 31",
+      "date": "2006-01-31",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "pol.great_american_boycott": {
+      "section": "politics",
+      "label": "Great American Boycott",
+      "value": "Marches across the United States on May 1 for immigration rights",
+      "date": "2006-05-01",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "world.samarra": {
+      "section": "world",
+      "label": "al-Askari Shrine bombing",
+      "value": "Explosions at the shrine in Samarra, one of the holiest sites in Shia Islam, escalated sectarian violence in Iraq into a full-scale war",
+      "date": "2006-02-22",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "world.saddam": {
+      "section": "world",
+      "label": "Saddam Hussein sentenced and executed",
+      "value": "Sentenced to death by hanging on November 5 by the Iraqi Special Tribunal, executed on December 30",
+      "detail": "The charge was crimes against humanity.",
+      "date": "2006-12-30",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "world.lebanon_war": {
+      "section": "world",
+      "label": "Lebanon War",
+      "value": "Israeli troops invaded Lebanon on July 12 after Hezbollah kidnapped two Israeli soldiers and killed three others",
+      "detail": "Fighting ran until August 14, when the United Nations sent additional peacekeepers to its force in Lebanon. Hezbollah declared open war on Israel two days after the invasion began.",
+      "date": "2006-07-12",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "world.north_korea_test": {
+      "section": "world",
+      "label": "North Korean nuclear test",
+      "value": "North Korea claimed to have conducted its first nuclear test",
+      "date": "2006-10-09",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "world.mumbai_bombings": {
+      "section": "world",
+      "label": "Mumbai train bombings",
+      "value": "Seven bomb blasts hit the city, killing more than 200 people",
+      "date": "2006-07-11",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "world.litvinenko": {
+      "section": "world",
+      "label": "Litvinenko poisoning",
+      "value": "Alexander Litvinenko, a former Russian Federal Security Service officer, was poisoned with polonium-210 and died of acute radiation syndrome on November 23",
+      "detail": "The poisoning happened on November 1 and drew widespread accusations that the Russian government was behind it.",
+      "date": "2006-11-01",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Pirates of the Caribbean: Dead Man's Chest, $1,066,179,725, Walt Disney Pictures",
+        "The Da Vinci Code, $760,006,945, Sony",
+        "Ice Age: The Meltdown, $660,998,756, 20th Century Fox",
+        "Casino Royale, $606,099,584, Sony and MGM",
+        "Night at the Museum, $574,480,841, 20th Century Fox"
+      ],
+      "detail": "Worldwide gross, which is what the source ranks by. Dead Man's Chest was the third film to gross over $1 billion. Sony Pictures passed $3 billion in worldwide box office in a single year for the first time.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Departed",
+      "detail": "Awarded at the 79th Academy Awards the following February, Ellen DeGeneres hosting. Martin Scorsese took Best Director, Forest Whitaker Best Actor for The Last King of Scotland, Helen Mirren Best Actress for The Queen, Alan Arkin and Jennifer Hudson the supporting awards. Dreamgirls had the most nominations with eight and was not nominated for Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/79th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "The Lives of Others (Germany), winner",
+        "After the Wedding (Denmark)",
+        "Days of Glory (Algeria)",
+        "Pan's Labyrinth (Mexico)",
+        "Water (Canada)"
+      ],
+      "source": "https://en.wikipedia.org/wiki/79th_Academy_Awards"
+    },
+    "film.festival_prizes": {
+      "section": "film",
+      "label": "Festival prizes",
+      "value": [
+        "Palme d'Or: The Wind That Shakes the Barley, Ken Loach, United Kingdom",
+        "Golden Lion: Still Life, Jia Zhangke, China",
+        "Golden Bear: Grbavica, Jasmila Zbanic, Bosnia and Herzegovina"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2006_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$6.55",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, then on DVD. The Blu-ray disc format reached the United States on March 16.",
+      "date": "2006-03-16",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2006",
+      "value": [
+        "American Idol, Wednesday, FOX, 17.3 rating",
+        "American Idol, Tuesday, FOX, 16.8",
+        "Dancing with the Stars, ABC, 12.7",
+        "CSI: Crime Scene Investigation, CBS, 12.2",
+        "Grey's Anatomy, ABC, 12.1"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this is the season that began in autumn and finished the following spring. Dancing with the Stars tied at the same rating across three nights.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2006%E2%80%9307"
+    },
+    "tv.cw_launch": {
+      "section": "tv",
+      "label": "The CW launches",
+      "value": "The sixth broadcast network debuted on September 18, merging UPN and The WB",
+      "detail": "UPN, owned by CBS Corporation, stopped operating three days earlier. The WB, owned by Warner Bros., stopped the day before the debut.",
+      "date": "2006-09-18",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "New series",
+      "value": [
+        "Heroes, NBC, September 25",
+        "Ugly Betty, ABC, September 28",
+        "Dexter, Showtime, October 1",
+        "Friday Night Lights, NBC, October 3",
+        "30 Rock, NBC, October 11"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2006_in_American_television"
+    },
+    "tv.nbc_restructuring": {
+      "section": "tv",
+      "label": "NBC cuts back scripted programming",
+      "value": "NBC Universal announced a restructuring to save $750 million and said NBC would stop broadcasting scripted dramas and comedies in the first hour of prime time",
+      "detail": "Announced October 19, with reality and game shows filling the hour and the news division trimmed. It came despite the early success of Heroes.",
+      "date": "2006-10-19",
+      "source": "https://en.wikipedia.org/wiki/2006_in_American_television"
+    },
+    "tv.analog_switchoff": {
+      "section": "tv",
+      "label": "First analog switch-off",
+      "value": "Luxembourg turned off analog terrestrial television on September 1, the first country to do it",
+      "detail": "The Netherlands followed on December 11.",
+      "date": "2006-09-01",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Bad Day, Daniel Powter",
+      "detail": "Temperature by Sean Paul came second, Promiscuous by Nelly Furtado featuring Timbaland third, You're Beautiful by James Blunt fourth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2006"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On CDs and on paid downloads. The billionth song downloaded from iTunes was logged on February 22, and it was Coldplay's Speed of Sound.",
+      "detail": "Microsoft released its first Zune player on November 14. Shakira's Hips Don't Lie sold 266,500 downloads in its first week in June, beating the previous record of 175,000.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling album",
+      "value": "The High School Musical soundtrack",
+      "detail": "From IFPI figures, followed by Me and My Gang by Rascal Flatts and Some Hearts by Carrie Underwood. A separate top-ten table for the year credits Beyonce's B'Day with 8,700,000 copies in seventh place, above albums it lists with fewer sales, so the two counts cannot both be right.",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "Grammy Awards",
+      "value": "U2 won five, including Album of the Year for How to Dismantle an Atomic Bomb",
+      "detail": "The 48th ceremony, held February 8 at the Staples Center in Los Angeles. Green Day took Record of the Year for Boulevard of Broken Dreams and John Legend Best New Artist. Kelly Clarkson was the first American Idol contestant to win a Grammy.",
+      "date": "2006-02-08",
+      "source": "https://en.wikipedia.org/wiki/2006_in_music"
+    },
+    "music.taylor_swift_debut": {
+      "section": "music",
+      "label": "Taylor Swift's debut album",
+      "value": "Released October 24, when she was 16, and it sold 39,000 copies in its first week",
+      "detail": "Her first single, Tim McGraw, had come out on June 19. The album finished tenth on the year's global top-ten list at 4,500,000 copies.",
+      "date": "2006-10-24",
+      "source": "https://en.wikipedia.org/wiki/2006_in_music"
+    },
+    "tech.office": {
+      "section": "tech",
+      "label": "Office 2007 goes to manufacturing",
+      "value": "Microsoft released the suite for manufacturing",
+      "detail": "The year page carries the release in one line, gives no retail date, and says nothing about what changed in it.",
+      "date": "2006-11-03",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "tech.twitter": {
+      "section": "tech",
+      "label": "Twitter",
+      "value": "Created in March and introduced publicly on July 15",
+      "detail": "Created by Jack Dorsey, Noah Glass, Biz Stone and Evan Williams. Work started at Odeo in February, the first public API came out in September, and in October Stone, Williams, Dorsey and other Odeo members formed Obvious Corporation and bought Odeo from its investors.",
+      "date": "2006-07-15",
+      "source": "https://en.wikipedia.org/wiki/X_(social_network)"
+    },
+    "tech.internet_youtube": {
+      "section": "tech",
+      "label": "Google buys YouTube",
+      "value": "$1.65 billion, agreed in October",
+      "detail": "The deal closed in November.",
+      "date": "2006-10",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "New consoles",
+      "value": [
+        "Nintendo DS Lite, North America, June 11",
+        "PlayStation 3, Japan, November 11, North America, November 17",
+        "Wii, North America, November 19, Japan, December 2"
+      ],
+      "detail": "The DS outsold everything else, at 20,562,969 units across Japan, North America and Europe, ahead of the PlayStation 2 at 12,247,866.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_video_games"
+    },
+    "tech.games_titles": {
+      "section": "tech",
+      "label": "Games",
+      "value": [
+        "The Elder Scrolls IV: Oblivion, March 20",
+        "Gears of War, November 7",
+        "The Legend of Zelda: Twilight Princess, November 19",
+        "New Super Mario Bros., DS"
+      ],
+      "detail": "Oblivion took Game of the Year at the Golden Joystick Awards in October and at the Spike Video Game Awards in December, while the British Academy gave its award to Tom Clancy's Ghost Recon Advanced Warfighter. Twilight Princess scored 96 out of 100 on Metacritic for the GameCube version and 95 for the Wii one. The best-selling game in the United States was Madden NFL 07 at 3,900,000 copies.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_video_games"
+    },
+    "tech.pluto": {
+      "section": "tech",
+      "label": "Pluto reclassified",
+      "value": "The International Astronomical Union defined the word planet at its 26th General Assembly on August 24 and made Pluto a dwarf planet, 76 years after its discovery",
+      "detail": "NASA had launched New Horizons, the first probe to Pluto, on January 19.",
+      "date": "2006-08-24",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.59 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "4.4 percent in October, the lowest since May 2001",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "prices.dow": {
+      "section": "prices",
+      "label": "Dow Jones Industrial Average",
+      "value": "Closed above 12,000 for the first time on October 19, at 12,011.73",
+      "detail": "It had set its first record high in more than six years on October 3, closing at 11,727.34 against the old mark of 11,722.98 from January 2000.",
+      "date": "2006-10-19",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "prices.foreclosures": {
+      "section": "prices",
+      "label": "Home foreclosures",
+      "value": "1,259,118 filings during the year, up 42 percent",
+      "detail": "Counted by RealtyTrac.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Iraq sliding into sectarian war while the party running Washington lost both chambers over it, alongside a crop of new websites that let anybody publish and be found."
+    },
+    "culture.memes": {
+      "section": "culture",
+      "label": "Internet phenomenon",
+      "value": "OK Go released a video for Here It Goes Again on July 31 and it spread on YouTube",
+      "date": "2006-07-31",
+      "source": "https://en.wikipedia.org/wiki/2006_in_music"
+    },
+    "culture.carry_on_liquids": {
+      "section": "culture",
+      "label": "Liquids banned from hand luggage",
+      "value": "After a plot to detonate liquid explosives on transatlantic flights was made public on August 10, liquids and gels were banned from checked and carry-on baggage",
+      "detail": "From September 26 the Transportation Security Administration allowed containers of 3.4 ounces or less inside a single quart-size clear bag, one bag a passenger.",
+      "date": "2006-08-10",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace: Muhammad Yunus and the Grameen Bank",
+        "Literature: Orhan Pamuk",
+        "Economics: Edmund Phelps",
+        "Physics: John C. Mather and George F. Smoot"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XL",
+      "value": "Pittsburgh Steelers 21, Seattle Seahawks 10, at Ford Field in Detroit",
+      "detail": "A homecoming for the Detroit native Jerome Bettis, playing the last game of his twelve-year career.",
+      "date": "2006-02-05",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held in Turin from February 10 to 26",
+      "detail": "The United States won 9 gold, 9 silver and 7 bronze medals.",
+      "date": "2006-02-10",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Italy beat France in the final",
+      "detail": "Held in Germany from June 9 to July 9.",
+      "date": "2006-07-09",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Detroit Tigers four games to one, closing it out on October 27",
+      "detail": "The Cardinals' tenth title, second only to the New York Yankees at 27. Detroit had swept Oakland in the American League Championship Series on October 14 to reach its first World Series since 1984.",
+      "date": "2006-10-27",
+      "source": "https://en.wikipedia.org/wiki/2006_in_sports"
+    },
+    "sports.nba_finals": {
+      "section": "sports",
+      "label": "NBA Finals",
+      "value": "Miami Heat beat the Dallas Mavericks in six games for the franchise's first championship",
+      "detail": "Dwyane Wade was Finals MVP, with four straight 35-point games after Miami lost the first two.",
+      "source": "https://en.wikipedia.org/wiki/2006_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Carolina Hurricanes beat the Edmonton Oilers 3 to 1 in game seven for the franchise's first Cup",
+      "detail": "The first final since the lockout that cancelled the whole previous season.",
+      "date": "2006-06-19",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "deaths.ford": {
+      "section": "deaths",
+      "label": "Gerald Ford",
+      "value": "Died December 26, aged 93. Born 1913",
+      "detail": "38th president of the United States, in office from 1974 to 1977. He died at Rancho Mirage, California.",
+      "date": "2006-12-26",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "deaths.brown": {
+      "section": "deaths",
+      "label": "James Brown",
+      "value": "Died December 25 of a heart attack, aged 73. Born 1933",
+      "detail": "Funk singer.",
+      "date": "2006-12-25",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "deaths.coretta_scott_king": {
+      "section": "deaths",
+      "label": "Coretta Scott King",
+      "value": "Died January 30. Born 1927",
+      "detail": "Civil rights activist.",
+      "date": "2006-01-30",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "deaths.friedan": {
+      "section": "deaths",
+      "label": "Betty Friedan",
+      "value": "Died February 4. Born 1921",
+      "detail": "Feminist, activist and writer.",
+      "date": "2006-02-04",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "deaths.friedman": {
+      "section": "deaths",
+      "label": "Milton Friedman",
+      "value": "Died November 16. Born 1912",
+      "detail": "Economist and Nobel laureate.",
+      "date": "2006-11-16",
+      "source": "https://en.wikipedia.org/wiki/2006_in_the_United_States"
+    },
+    "deaths.irwin": {
+      "section": "deaths",
+      "label": "Steve Irwin",
+      "value": "Died September 4, stung in the heart by a stingray while filming an underwater documentary",
+      "detail": "Australian conservationist and television host.",
+      "date": "2006-09-04",
+      "source": "https://en.wikipedia.org/wiki/2006"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026. Box office is worldwide gross: the film page's table header reads \"Worldwide gross\" and the sentence above it ranks globally, so the label says worldwide. The midterm date was checked against the statutory rule rather than copied. November 1 fell on a Wednesday, the first Monday was November 6, and the Tuesday after it was November 7, which is the date the source gives, so there is no disagreement to report. Twitter's launch is a real disagreement between the two cached pages, the year article giving March 21 and the science article giving July 15 as the public launch. The dedicated article on the service resolves it, dating creation to March and the public introduction to July 15, and that article is the one cited. The two cached pages also differ by a day on the YouTube purchase, October 9 in the year article and October 10 in the United States article, so that fact carries a month rather than a day. Nielsen figures are for the season that began in autumn and ended the following spring, labelled by the autumn year only. Dropped for lack of a source: any figure for internet or broadband use, since no cached page carries one for this year; the claim that music unit sales rose 19.4 percent, which the year article states without a basis that squares with anything else about recorded music sales in this period; and any mention that the March Blu-ray release was one side of a format fight, because no cached page for this year names the rival format. Left out over the anachronism rule, which forbids a year token later than the page year: the annual titles Football Manager 2007 and WWE SmackDown vs. Raw 2007. The two games would pass inside a tech.games fact under the existing year-plus-one rule and were left out only for space. Kobe Bryant's 81 points, Barry Bonds's 715th home run and Japan winning the first World Baseball Classic sit in texture rather than in sports facts, to keep that section at six. Game of the Year credits are stated only for ceremonies held inside the year: Gears of War and Wii Sports took theirs at ceremonies held the following spring, which cannot be dated on this page. Review pass added Office 2007 to src/data/name_years.json and wrote tech.office, so that release is on the page. Software titled for the coming year is the same convention as the annual sports games, but it sits in a plain tech field where the generative year-plus-one rule does not reach, so it needs the allowlist."
+}
