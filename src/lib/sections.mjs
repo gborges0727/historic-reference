@@ -20,6 +20,11 @@ import { SECTIONS, tierFor } from './year-schema.mjs';
 export const WINDOWS = {
   politics: { from: 1920, until: null },
   world: { from: 1920, until: null },
+  film: {
+    from: 1920,
+    until: null,
+    why: 'section default for one-off release facts, the same arrangement as music and tech. The gated film keys below bind by exact id first.',
+  },
   'film.gross': { from: 1920, until: null },
   'film.awards': { from: 1929, until: null, why: 'first Academy Awards ceremony' },
   'film.world_cinema': { from: 1920, until: null },

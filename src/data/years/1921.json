@@ -1,0 +1,181 @@
+{
+  "year": 1921,
+  "tier": "early",
+  "headline": "Harding took office, a white mob burned Greenwood, and radio carried a ball game for the first time",
+  "texture": [
+    "Warren Harding was sworn in on March 4 and signed a resolution on July 2 declaring the war with Germany over, the Senate having refused the treaty that would have done it. Congress passed the Emergency Quota Act on May 19, setting immigration limits by national origin for the first time. A Massachusetts jury convicted Nicola Sacco and Bartolomeo Vanzetti of murder on July 14, on evidence that would be argued about for decades.",
+    "White mobs attacked the Greenwood district of Tulsa on May 31 and burned it over the following day. Ireland stopped shooting in July under a truce and signed the treaty creating the Irish Free State on December 6, keeping six northern counties out of it. Soviet Russia abandoned war communism in March for the New Economic Policy, letting peasants sell grain again.",
+    "The Four Horsemen of the Apocalypse took $4,500,000 in rentals and made Rudolph Valentino. Chaplin released The Kid on January 21, his first full-length film as a director, and it finished second. KDKA in Pittsburgh carried a church service in January and a baseball game on August 5, with Harold Arlin at the microphone for the Pirates. Babe Ruth hit fifty-nine home runs, more than anyone had managed in a season."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.tulsa",
+    "pol.quota_act",
+    "world.irish_treaty",
+    "film.gross#0",
+    "radio.firsts",
+    "sports.babe_ruth"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Warren G. Harding (R), sworn in March 4",
+      "detail": "Succeeded Woodrow Wilson, whose Senate had refused to ratify the Treaty of Versailles.",
+      "date": "1921-03-04",
+      "source": "https://en.wikipedia.org/wiki/1921_in_the_United_States"
+    },
+    "pol.war_ended": {
+      "section": "politics",
+      "label": "War formally ended",
+      "value": "Harding signed a joint congressional resolution declaring the state of war with Germany over",
+      "date": "1921-07-02",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "pol.quota_act": {
+      "section": "politics",
+      "label": "Emergency Quota Act",
+      "value": "Congress set immigration limits by national origin for the first time",
+      "date": "1921-05-19",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "pol.tulsa": {
+      "section": "politics",
+      "label": "Tulsa race massacre",
+      "value": "White mobs attacked the Black residents and businesses of the Greenwood district over two days",
+      "date": "1921-05-31",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "pol.sacco_vanzetti": {
+      "section": "politics",
+      "label": "Sacco and Vanzetti convicted",
+      "value": "A Massachusetts jury found Nicola Sacco and Bartolomeo Vanzetti guilty of first-degree murder",
+      "date": "1921-07-14",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "world.irish_treaty": {
+      "section": "world",
+      "label": "Anglo-Irish Treaty",
+      "value": "Established the Irish Free State, leaving six northern counties outside it",
+      "detail": "The war had stopped in July under a truce signed on the ninth. The treaty conference opened in London on October 11.",
+      "date": "1921-12-06",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "world.nep": {
+      "section": "world",
+      "label": "New Economic Policy",
+      "value": "Soviet Russia abandoned grain requisitioning and allowed private trade again",
+      "date": "1921-03",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "world.custom_house": {
+      "section": "world",
+      "label": "Custom House burned in Dublin",
+      "value": "The Irish Republican Army occupied and burned it, destroying centuries of local government records",
+      "date": "1921-05-25",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "world.northern_ireland_election": {
+      "section": "world",
+      "label": "First Northern Ireland general election",
+      "value": "Held for the new parliament of the six counties",
+      "date": "1921-05-24",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Four Horsemen of the Apocalypse, $4,500,000, Metro",
+        "The Kid, $2,500,000, First National",
+        "The Three Musketeers and The Sheik, $1,500,000 each",
+        "The Affairs of Anatol, $1,191,789, Paramount",
+        "Fool's Paradise, $906,937, Paramount"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Third place was a tie.",
+      "source": "https://en.wikipedia.org/wiki/1921_in_film"
+    },
+    "film.the_kid": {
+      "section": "film",
+      "label": "The Kid released",
+      "value": "Chaplin's first full-length film as a director, with Jackie Coogan",
+      "detail": "Released January 21 and the second highest-grossing film of the year.",
+      "date": "1921-01-21",
+      "source": "https://en.wikipedia.org/wiki/1921_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, silent, with live music in the room. There was no other way to see a film at all.",
+      "source": "https://en.wikipedia.org/wiki/1921_in_film"
+    },
+    "radio.firsts": {
+      "section": "radio",
+      "label": "What radio did first this year",
+      "value": [
+        "The first religious service broadcast, on KDKA in January",
+        "The first baseball game broadcast, August 5, Harold Arlin announcing the Pittsburgh Pirates"
+      ],
+      "detail": "Broadcasting was a year old and still mostly an experiment run by a manufacturer to sell receivers.",
+      "source": "https://en.wikipedia.org/wiki/1921_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A country pulling up the drawbridge. Immigration capped, a wartime president replaced by one promising a return to normal, and a mob able to burn a prosperous Black district without consequence."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Giants beat the New York Yankees",
+      "detail": "Played October 5 to 13, the first series contested by two teams from the same city.",
+      "source": "https://en.wikipedia.org/wiki/1921_in_sports"
+    },
+    "sports.babe_ruth": {
+      "section": "sports",
+      "label": "Babe Ruth's home run record",
+      "value": "Fifty-nine home runs for the Yankees, a new single-season record",
+      "source": "https://en.wikipedia.org/wiki/1921_in_sports"
+    },
+    "sports.nfl": {
+      "section": "sports",
+      "label": "NFL champions",
+      "value": "Chicago Staleys, nine wins, one loss and one tie",
+      "source": "https://en.wikipedia.org/wiki/1921_in_sports"
+    },
+    "deaths.dato": {
+      "section": "deaths",
+      "label": "Eduardo Dato",
+      "value": "Died March 8. Born 1856",
+      "detail": "Three times prime minister of Spain, shot dead leaving the parliament building in Madrid.",
+      "date": "1921-03-08",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "deaths.lippmann": {
+      "section": "deaths",
+      "label": "Gabriel Lippmann",
+      "value": "Died July 12. Born 1845",
+      "detail": "Physicist and Nobel laureate.",
+      "date": "1921-07-12",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "deaths.humperdinck": {
+      "section": "deaths",
+      "label": "Engelbert Humperdinck",
+      "value": "Died September 27. Born 1854",
+      "detail": "German composer.",
+      "date": "1921-09-27",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    },
+    "deaths.dunlop": {
+      "section": "deaths",
+      "label": "John Boyd Dunlop",
+      "value": "Died October 23. Born 1840",
+      "detail": "Inventor and veterinary surgeon.",
+      "date": "1921-10-23",
+      "source": "https://en.wikipedia.org/wiki/1921"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. No music section: the year's audio story is radio, which has its own. Deaths carry a birth year rather than an age because the source gives only the year. The Tulsa death toll is left out: the source line does not give one and the figure is disputed, so a number here would be invented."
+}

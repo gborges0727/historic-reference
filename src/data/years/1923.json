@@ -1,0 +1,175 @@
+{
+  "year": 1923,
+  "tier": "early",
+  "headline": "Harding died in office, an earthquake levelled Tokyo, and a German mark stopped meaning anything",
+  "texture": [
+    "Warren Harding died in San Francisco and Calvin Coolidge became president on August 2. The Great Kanto earthquake destroyed Tokyo and Yokohama on September 1 and killed more than a hundred thousand people, and in the weeks after it mobs murdered ethnic Koreans across the region. Hyperinflation in Germany reached its peak on November 15, by which point a mark bought nothing at all.",
+    "Hitler tried to seize power in Munich on November 8 and was arrested three days later. TIME magazine put out its first issue on March 3. Roy and Walt Disney set up a studio in October under their own name. Coolidge addressed Congress in December in the first radio broadcast from the Capitol, which is a sentence that would have meant nothing three years earlier.",
+    "Cecil B. DeMille's The Ten Commandments took $4,169,798 in rentals, the year's biggest, with The Covered Wagon behind it. Harold Lloyd hung off a clock face in Safety Last! and tied for third with The Hunchback of Notre Dame. Yankee Stadium opened on April 18, and in October the Yankees beat the Giants in the World Series after losing to them twice."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.kanto",
+    "world.hyperinflation",
+    "world.beer_hall_putsch",
+    "film.gross#0",
+    "radio.capitol_broadcast",
+    "sports.yankee_stadium"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Warren G. Harding (R) until August 2, then Calvin Coolidge (R)",
+      "detail": "Harding died in San Francisco and his vice president became the 30th president.",
+      "date": "1923-08-02",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "pol.coolidge_congress": {
+      "section": "politics",
+      "label": "First broadcast from the Capitol",
+      "value": "Coolidge's address to Congress went out by radio, the first from the building",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "world.kanto": {
+      "section": "world",
+      "label": "Great Kanto earthquake",
+      "value": "Destroyed Tokyo and Yokohama, killing more than 100,000 people",
+      "detail": "In the weeks that followed, mobs murdered ethnic Koreans across the region.",
+      "date": "1923-09-01",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "world.hyperinflation": {
+      "section": "world",
+      "label": "German hyperinflation peaks",
+      "value": "The mark reached its worst on November 15, after climbing through the summer",
+      "date": "1923-11-15",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "world.beer_hall_putsch": {
+      "section": "world",
+      "label": "Beer Hall Putsch",
+      "value": "Hitler led an unsuccessful attempt to seize power in Munich and was arrested on November 11",
+      "date": "1923-11-08",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "world.greek_turkish_exchange": {
+      "section": "world",
+      "label": "Population exchange",
+      "value": "Greece and Turkey moved populations across the new border under the Lausanne convention",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Ten Commandments, $4,169,798, Paramount",
+        "The Covered Wagon, $3,500,000, Paramount",
+        "Safety Last! and The Hunchback of Notre Dame, $1,500,000 each"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Third place was a tie between Pathe Exchange and Universal.",
+      "source": "https://en.wikipedia.org/wiki/1923_in_film"
+    },
+    "film.disney_founded": {
+      "section": "film",
+      "label": "Disney Brothers Studio",
+      "value": "Roy and Walt Disney founded it in October",
+      "date": "1923-10",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, silent, with live accompaniment. Four years before a feature spoke.",
+      "source": "https://en.wikipedia.org/wiki/1923_in_film"
+    },
+    "radio.capitol_broadcast": {
+      "section": "radio",
+      "label": "Radio reaches Congress",
+      "value": "The president's address to Congress was broadcast from the Capitol for the first time",
+      "detail": "Three years after the first stations went on the air.",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "tech.time_magazine": {
+      "section": "tech",
+      "label": "TIME magazine",
+      "value": "The first issue was published",
+      "date": "1923-03-03",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "tech.airship": {
+      "section": "tech",
+      "label": "First American-built rigid airship",
+      "value": "The US Navy flew it for the first time",
+      "date": "1923-09-04",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president buried in August, a German currency that had stopped working, and a radio in enough American homes that a speech to Congress could be heard in them."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the New York Giants",
+      "detail": "Played October 10 to 15, after the Giants had taken the previous two series between them.",
+      "source": "https://en.wikipedia.org/wiki/1923_in_sports"
+    },
+    "sports.yankee_stadium": {
+      "section": "sports",
+      "label": "Yankee Stadium opens",
+      "value": "The original stadium opened in the Bronx",
+      "date": "1923-04-18",
+      "source": "https://en.wikipedia.org/wiki/1923_in_sports"
+    },
+    "sports.eastern_colored_league": {
+      "section": "sports",
+      "label": "Eastern Colored League",
+      "value": "Played its first season with six teams",
+      "source": "https://en.wikipedia.org/wiki/1923_in_sports"
+    },
+    "deaths.rontgen": {
+      "section": "deaths",
+      "label": "Wilhelm Rontgen",
+      "value": "Died February 10. Born 1845",
+      "detail": "Physicist and Nobel laureate, who discovered X-rays.",
+      "date": "1923-02-10",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "deaths.hasek": {
+      "section": "deaths",
+      "label": "Jaroslav Hasek",
+      "value": "Died January 3. Born 1883",
+      "detail": "Czech writer.",
+      "date": "1923-01-03",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "deaths.reid": {
+      "section": "deaths",
+      "label": "Wallace Reid",
+      "value": "Died January 18. Born 1891",
+      "detail": "American actor.",
+      "date": "1923-01-18",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "deaths.morley": {
+      "section": "deaths",
+      "label": "Edward W. Morley",
+      "value": "Died February 24. Born 1838",
+      "detail": "American physicist and chemist.",
+      "date": "1923-02-24",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    },
+    "deaths.barbosa": {
+      "section": "deaths",
+      "label": "Rui Barbosa",
+      "value": "Died March 1",
+      "detail": "Brazilian diplomat, writer and jurist.",
+      "date": "1923-03-01",
+      "source": "https://en.wikipedia.org/wiki/1923"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Only three box office entries because the source table ties third place and stops being reliable below it. The Coolidge broadcast and Rui Barbosa's birth year carry no date and no year respectively, because the source gives neither. Deaths otherwise carry a birth year rather than an age."
+}

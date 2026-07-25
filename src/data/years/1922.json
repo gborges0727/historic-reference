@@ -1,0 +1,176 @@
+{
+  "year": 1922,
+  "tier": "early",
+  "headline": "Insulin worked in January, Mussolini took Rome in October, and Carter found Tutankhamun in November",
+  "texture": [
+    "Frederick Banting treated a diabetic patient with insulin on January 11 and it worked, turning a fatal diagnosis into a managed one. Howard Carter found the tomb of Tutankhamun on November 4, largely intact. The Treaty on the Creation of the Union of Soviet Socialist Republics pulled several republics into one state in December, and the Irish Free State came into existence on December 6 with George V as its king.",
+    "Mussolini's National Fascist Party marched on Rome in October and he was prime minister by the thirty-first, at thirty-nine the youngest Italy had had. The British Broadcasting Company started radio service on November 14. Harding made his first radio speech on June 14, five months after DeWitt and Lila Wallace put out the first issue of Reader's Digest.",
+    "Douglas Fairbanks took $2,101,044 in rentals with Robin Hood, the year's biggest. Valentino came second in Blood and Sand. Harold Lloyd's Grandma's Boy made $1,100,000 for Pathe. The Hollywood Bowl opened on July 11, the Lincoln Memorial was dedicated on May 30, and the New York Giants beat the New York Yankees in the World Series for the second year running."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.mussolini",
+    "world.tutankhamun",
+    "world.ussr",
+    "film.gross#0",
+    "tech.insulin",
+    "radio.bbc"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Warren G. Harding (R)",
+      "detail": "Second year in office. He made his first radio speech on June 14.",
+      "source": "https://en.wikipedia.org/wiki/1922_in_the_United_States"
+    },
+    "pol.lincoln_memorial": {
+      "section": "politics",
+      "label": "Lincoln Memorial dedicated",
+      "value": "Opened in Washington",
+      "date": "1922-05-30",
+      "source": "https://en.wikipedia.org/wiki/1922_in_the_United_States"
+    },
+    "world.mussolini": {
+      "section": "world",
+      "label": "Mussolini takes power",
+      "value": "The March on Rome brought the National Fascist Party to power and Mussolini became prime minister on October 31, at thirty-nine",
+      "date": "1922-10-31",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "world.tutankhamun": {
+      "section": "world",
+      "label": "Tutankhamun's tomb found",
+      "value": "Howard Carter located it in the Valley of the Kings",
+      "date": "1922-11-04",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "world.ussr": {
+      "section": "world",
+      "label": "Soviet Union formed",
+      "value": "The Treaty on the Creation of the Union of Soviet Socialist Republics united several republics into one state",
+      "date": "1922-12",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "world.irish_free_state": {
+      "section": "world",
+      "label": "Irish Free State established",
+      "value": "Came into existence on December 6, with George V as king and a constitution enacted by the Dail on October 25",
+      "detail": "The British Parliament passed the Irish Free State Constitution Act the day before.",
+      "date": "1922-12-06",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "world.poland_president": {
+      "section": "world",
+      "label": "Poland's first president",
+      "value": "Gabriel Narutowicz was elected on December 9 and sworn in on December 11",
+      "date": "1922-12-09",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Robin Hood, $2,101,044, United Artists",
+        "Blood and Sand, $1,250,000, Paramount",
+        "Manslaughter, $1,206,014, Paramount",
+        "Grandma's Boy, $1,100,000, Pathe Exchange",
+        "Smilin' Through, $1,000,000, First National"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1922_in_film"
+    },
+    "film.hollywood_bowl": {
+      "section": "film",
+      "label": "Hollywood Bowl opens",
+      "value": "The open-air venue held its first season",
+      "date": "1922-07-11",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, silent, with an organ or orchestra playing to the picture. Five years before a feature spoke.",
+      "source": "https://en.wikipedia.org/wiki/1922_in_film"
+    },
+    "radio.bbc": {
+      "section": "radio",
+      "label": "The BBC starts broadcasting",
+      "value": "The British Broadcasting Company began radio service in the United Kingdom",
+      "date": "1922-11-14",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "radio.us_stations": {
+      "section": "radio",
+      "label": "Stations multiplying in America",
+      "value": "KGU began in Hawaii on May 11 and WJAM in Cedar Rapids on July 30, two of hundreds licensed as the boom took hold",
+      "source": "https://en.wikipedia.org/wiki/1922_in_the_United_States"
+    },
+    "tech.insulin": {
+      "section": "tech",
+      "label": "Insulin treats diabetes",
+      "value": "Frederick Banting gave the first successful insulin treatment to a diabetic patient",
+      "date": "1922-01-11",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "tech.readers_digest": {
+      "section": "tech",
+      "label": "Reader's Digest",
+      "value": "DeWitt and Lila Wallace published the first issue",
+      "date": "1922-02-05",
+      "source": "https://en.wikipedia.org/wiki/1922_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Radio sets appearing in parlours, a fascist government in Rome, and an Egyptian tomb on every front page at once."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Giants beat the New York Yankees again",
+      "detail": "Played October 4 to 8.",
+      "source": "https://en.wikipedia.org/wiki/1922_in_sports"
+    },
+    "sports.negro_league": {
+      "section": "sports",
+      "label": "Negro National League",
+      "value": "Chicago American Giants took a third consecutive pennant",
+      "source": "https://en.wikipedia.org/wiki/1922_in_sports"
+    },
+    "deaths.bell": {
+      "section": "deaths",
+      "label": "Alexander Graham Bell",
+      "value": "Died August 2. Born 1847",
+      "detail": "Inventor, credited with the telephone.",
+      "date": "1922-08-02",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "deaths.deschanel": {
+      "section": "deaths",
+      "label": "Paul Deschanel",
+      "value": "Died April 28. Born 1855",
+      "detail": "President of France.",
+      "date": "1922-04-28",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "deaths.monti": {
+      "section": "deaths",
+      "label": "Vittorio Monti",
+      "value": "Died June 20. Born 1868",
+      "detail": "Italian composer.",
+      "date": "1922-06-20",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    },
+    "deaths.reinhardt": {
+      "section": "deaths",
+      "label": "Heinrich Reinhardt",
+      "value": "Died January 31. Born 1865",
+      "detail": "Austrian composer.",
+      "date": "1922-01-31",
+      "source": "https://en.wikipedia.org/wiki/1922"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. The Soviet Union fact carries a month rather than a day because the source describes the treaty without dating it precisely. Deaths carry a birth year rather than an age because the source gives only the year."
+}
