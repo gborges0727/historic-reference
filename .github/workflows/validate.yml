@@ -1,21 +1,20 @@
-name: Build and deploy
+# Cloudflare Pages builds and deploys this site from the repository itself, so this
+# workflow does not deploy anything. It exists to fail loudly, in GitHub, when the data
+# or the prose breaks. Without it a bad fact would surface only as a red build in
+# somebody else's dashboard, which is the wrong place to find out.
+name: Validate and build
 
 on:
   push:
     branches: [main]
+  pull_request:
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
 
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,16 +28,3 @@ jobs:
       # npm run build, which is the gate that matters.
       - run: npm run validate
       - run: npm run build
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
