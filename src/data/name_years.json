@@ -2,7 +2,8 @@
   "updated": "2026-07-25",
   "why": "Proper names holding a four-digit number that the anachronism check reads as a year. The check exists to catch a hallucinated future date, and none of these is a date, so each entry is an exemption and has to be justified on its own. This began as film titles, 2001: A Space Odyssey in a 1968 rentals table and Airport 1975 in a 1974 one. It then turned out that model numbers hit the same check: a 1978 page dropped the Budd SPV-2000 railcar over it, and a 1982 page dropped the arcade cabinet Robotron: 2084. Neither is a claim about the 2080s, so the list covers any proper name and the check no longer confines the exemption to the film section. The revue convention, where a 1935 page lists Broadway Melody of 1936, stays generative in the 'of YYYY' rule and needs no entries here.",
   "generative_rules_that_come_first": "Two conventions are handled by rules in validate-data.mjs rather than by entries here, because both recur every year and listing them would mean an entry per franchise per year. A film fact may carry the very next year in the shape 'of YYYY', for revue films titled ahead. A tech.games fact may carry the very next year at all, for annual sports games titled for the coming season, so Madden NFL 2002 and NBA Live 2002 both pass on a 2001 page. Both are capped at year plus one, so a fact claiming something happened two years out still fails. Check whether a rule already covers your name before adding it below.",
-  "rules": "Two conditions, both required. The number must sit beside enough other text in the name to be unmistakable, and the exemption fires only when the full name string appears in the text, so a bare number never passes on its own. A work titled only with a number cannot be listed at all: Prince's 1999 is indistinguishable from a stray year, which is exactly what the check looks for, so a page wanting to name it must leave the failure standing and say so in its notes. The check matches four-digit numbers from 1000 to 2099 on word boundaries, which means some names need no entry: Miner 2049er is safe because the trailing letters break the boundary, and a two-digit title like 10 never matches.",
+  "rules": "Two conditions, both required. The number must sit beside enough other text to be unmistakable, and the exemption fires only when the full listed string appears in the text, so a bare number never passes on its own. The check matches four-digit numbers from 1000 to 2099 on word boundaries, which means some names need no entry: Miner 2049er is safe because the trailing letters break the boundary, and a two-digit title like 10 never matches.",
+  "works_titled_with_only_a_number": "A work whose whole title is a number cannot be listed as that number. Allowlisting \"2012\" would exempt the token 2012 in any text on any page, which is precisely the stray year the check exists to catch. Listing a longer string that contains the title does work, because the exemption tests for the whole string: the 2009 film 2012 is carried as the complete box office row \"2012, $769,679,473, Sony\", which cannot occur by accident. Use that technique where the surrounding text is fixed and distinctive, as a ranked list row is. Where it is not, as in running prose, leave the failure standing and say so in the year's notes. Prince's 1999 is the case with no good answer: it appears in a sentence rather than a structured row, so 1982 does not name it.",
   "names": [
     "2001: A Space Odyssey",
     "Airport 1975",
@@ -16,6 +17,7 @@
     "2000 Guineas Stakes",
     "Wipeout 2097",
     "Psychic Force 2012",
-    "Office 2007"
+    "Office 2007",
+    "2012, $769,679,473, Sony"
   ]
 }

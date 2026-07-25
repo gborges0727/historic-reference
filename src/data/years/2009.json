@@ -1,0 +1,538 @@
+{
+  "year": 2009,
+  "tier": "modern",
+  "headline": "Obama was sworn in on January 20, Michael Jackson died in June, and unemployment reached 10 percent in October",
+  "texture": [
+    "Circuit City announced on January 16 that all 567 of its American stores would close and 34,000 jobs with them, after nearly sixty years in business. A Federal Reserve report on March 13 said American families had lost 18 percent of their wealth in the previous year. The Chicago Cubs filed for Chapter 11 protection on October 12. The small business lender CIT Group filed on November 1, which likely cancelled its obligation to repay a $2.3 billion loan from the Troubled Asset Relief Program.",
+    "At 23:31:30 UTC on February 13, the decimal representation of Unix time reached 1234567890. Bushfires in Victoria on February 7 killed 173 people in what the world year page calls the worst natural disaster in Australia's history. Iceland's government and banking system collapsed on January 26 and Geir Haarde resigned the same day. Johanna Sigurdardottir replaced him on February 1 as the world's first openly lesbian head of government. Greenland gained self-rule on June 21, and Slovakia had swapped the koruna for the euro on January 1.",
+    "Obama signed executive orders on January 22 to close the Guantanamo Bay detention camp inside a year and to prohibit torture in terrorism interrogations. Arlen Specter left the Republicans on April 28, and Al Franken was seated on July 7 after an eight-month recount, which took the Democrats to sixty Senate seats. Navy snipers killed three Somali pirates on April 12 to free the captain of the Maersk Alabama, hijacked four days earlier. The first 9/12 Project rally drew somewhere between hundreds of thousands and two million people to Washington on September 12.",
+    "A cloned Pyrenean Ibex was born alive in January, the first animal from an extinct species brought back that way, and died seven minutes later from defects in its lungs. Paleontologists pulled 28 fossils of the giant snake T. cerrejonensis out of coal mines at Cerrejon in Colombia on February 5. New York opened two ballparks in the same spring, the new Yankee Stadium and Citi Field, and Mark Buehrle of the Chicago White Sox threw the 18th perfect game in major league history."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.inauguration",
+    "prices.unemployment",
+    "world.h1n1",
+    "film.gross#0",
+    "deaths.jackson",
+    "tech.games"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D), sworn in January 20",
+      "detail": "The 44th president and the first African American to hold the office. Joe Biden became the 47th vice president the same day, and George W. Bush's second term ended that morning. John Roberts remained Chief Justice.",
+      "date": "2009-01-20",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "First inauguration of Barack Obama",
+      "value": "The 56th presidential inauguration, on the West Front of the United States Capitol",
+      "detail": "January 20 is the date fixed for an inauguration, and both cached year pages give it, so there is no disagreement to name. Roberts and Obama both misplaced words in the oath, and the White House counsel asked the Chief Justice to administer it again as a precaution, which he did on the evening of January 21 in the Map Room of the White House. Organisers opened the whole length of the National Mall as a viewing area, and the inauguration's own article says the event set a record attendance for anything held in the city.",
+      "date": "2009-01-20",
+      "source": "https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "111th Congress, Democratic House and Senate",
+      "detail": "The US year page puts the start of the term on January 3 and the convening on January 6, when Democrats held 256 seats in the House and 59 in the Senate. Obama gave his first address to it on February 24, defending the bank bailouts as necessary and warning that more might be needed. Members spent the August 3 to September 4 recess on town halls about health care in their districts.",
+      "date": "2009-01-06",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "pol.stimulus": {
+      "section": "politics",
+      "label": "American Recovery and Reinvestment Act",
+      "value": "Obama signed the stimulus bill into law",
+      "detail": "The US year page's summary says this and similar legislation most notably gave Americans tax credits, and gives no dollar total for the package anywhere.",
+      "date": "2009-02-17",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "pol.blagojevich": {
+      "section": "politics",
+      "label": "Rod Blagojevich removed from office",
+      "value": "The Illinois governor became the first state governor impeached and removed in a quarter century",
+      "detail": "Pat Quinn was sworn in as the 41st governor of Illinois the same day.",
+      "date": "2009-01-29",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "pol.sotomayor": {
+      "section": "politics",
+      "label": "Sonia Sotomayor joins the Supreme Court",
+      "value": "She took the judicial oath as the third woman and the first Hispanic justice",
+      "date": "2009-08-08",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "pol.same_sex_marriage": {
+      "section": "politics",
+      "label": "Same-sex marriage legalised in three states",
+      "value": "Iowa on April 3, Vermont on April 7 and New Hampshire on June 3",
+      "detail": "The Iowa Supreme Court ruled unanimously that denying same-sex couples the right to marry was unconstitutional, which made Iowa the third state to allow it and the first in the midwest. Vermont's legislature overrode the governor's veto. John Lynch signed the New Hampshire bill, making it the sixth state.",
+      "date": "2009-04-03",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "world.recession": {
+      "section": "world",
+      "label": "Global recession",
+      "value": "Gross world product shrank by 2.2 percent, its first contraction since World War II",
+      "detail": "The world year page cites the United Nations World Economic Situation and Prospects report, says unemployment rose and inflation fell across the world, and dates the start of a slow recovery to late in the year. The US year page says the American recession officially ended in June while job losses ran on through December at a smaller size.",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "world.h1n1": {
+      "section": "world",
+      "label": "H1N1 swine flu pandemic",
+      "value": "The World Health Organization declared the outbreak a global pandemic on June 11",
+      "detail": "The WHO had already called the Mexican and American cases a public health emergency of international concern on April 24. The world year page's health section calls the pandemic the primary public health concern of the year and gives no case or death count.",
+      "date": "2009-06-11",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "world.hudson": {
+      "section": "world",
+      "label": "US Airways Flight 1549 ditched in the Hudson River",
+      "value": "All 155 people on board were rescued, in an accident that became known as the Miracle on the Hudson",
+      "detail": "The US year page adds that the aircraft lost power in both engines shortly after taking off from LaGuardia and names the pilot as Chesley Sullenberger.",
+      "date": "2009-01-15",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "world.sri_lanka": {
+      "section": "world",
+      "label": "Sri Lankan Civil War ended",
+      "value": "The Liberation Tigers of Tamil Eelam were defeated militarily after more than 25 years of fighting",
+      "detail": "The world year page's conflicts section calls Eelam War IV, the war's final stage, the deadliest conflict of the year.",
+      "date": "2009-05-18",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "world.iran_protests": {
+      "section": "world",
+      "label": "Protests across Iran",
+      "value": "Mass demonstrations followed a disputed presidential election that returned Mahmoud Ahmadinejad, the largest in the country since the Iranian Revolution",
+      "date": "2009-06-13",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "world.earthquakes": {
+      "section": "world",
+      "label": "Deadly earthquakes",
+      "value": [
+        "L'Aquila, Italy, magnitude 6.3, April 6, 308 killed and more than 1,500 injured",
+        "Samoa, magnitude 8.1, September 29, at least 192 killed, with a tsunami that struck American Samoa and Tonga",
+        "Sumatra, Indonesia, magnitude 7.6, September 30, at least 1,115 killed"
+      ],
+      "detail": "The world year page's dated entries give 308 at L'Aquila and 1,115 on Sumatra, while its own environment section rounds the same two to approximately 300 and approximately 1,100. The dated figures are stated here and the rounded ones named rather than resolved.",
+      "date": "2009-09-30",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "world.lisbon_treaty": {
+      "section": "world",
+      "label": "Treaty of Lisbon came into force",
+      "value": "It took effect on December 1, after the Czech Republic became the last European Union member state to sign on November 3",
+      "detail": "Ireland had approved the treaty in a second referendum on October 2. Herman Van Rompuy, then Prime Minister of Belgium, was designated the first permanent President of the European Council on November 3.",
+      "date": "2009-12-01",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Avatar, $2,743,577,587, 20th Century Fox",
+        "Harry Potter and the Half-Blood Prince, $933,959,197, Warner Bros.",
+        "Ice Age: Dawn of the Dinosaurs, $886,686,817, 20th Century Fox",
+        "Transformers: Revenge of the Fallen, $836,303,693, Paramount",
+        "2012, $769,679,473, Sony"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header states. Up, The Twilight Saga: New Moon, Sherlock Holmes, Angels & Demons and The Hangover fill out its top ten, running down from $735 million to $469 million. Avatar only reached theatres on December 18, and the film page says it broke many box office records and became the highest-grossing film of all time, so the figure printed against it is a cumulative worldwide run and not one year's takings. The Academy Awards page states a different basis for the same film, $596 million in domestic receipts by the nominations announcement the following February, when Up stood at $293 million and The Blind Side at $237.9 million.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Hurt Locker, produced by Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro",
+      "detail": "Awarded the following March at the 82nd Academy Awards, hosted by Alec Baldwin and Steve Martin at the Kodak Theatre in Hollywood. Bigelow became the first woman to win Best Director. The Hurt Locker took six awards and Avatar three, and the two had tied on nine nominations each. Sid Ganis announced on June 24 that the ceremony would carry ten Best Picture nominees instead of five, a count last used at the 16th ceremony in 1944. The other nominees were Avatar, The Blind Side, District 9, An Education, Inglourious Basterds, Precious, A Serious Man, Up and Up in the Air. Up became the second animated film nominated for Best Picture. Almost 42 million people in the United States watched the telecast.",
+      "source": "https://en.wikipedia.org/wiki/82nd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jeff Bridges, Crazy Heart",
+        "Best Actress, Sandra Bullock, The Blind Side",
+        "Best Supporting Actor, Christoph Waltz, Inglourious Basterds",
+        "Best Supporting Actress, Mo'Nique, Precious: Based on the Novel 'Push' by Sapphire"
+      ],
+      "detail": "Mark Boal won Best Original Screenplay for The Hurt Locker and Geoffrey Fletcher Best Adapted Screenplay for Precious, the first African American to win a screenwriting Oscar. Pete Docter took Best Animated Feature for Up, Michael Giacchino its score, and T Bone Burnett a share of Best Original Song for The Weary Kind from Crazy Heart. Meryl Streep's nomination for Julie and Julia was her thirteenth in the lead actress category, passing Katharine Hepburn.",
+      "source": "https://en.wikipedia.org/wiki/82nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "The Secret in Their Eyes, Argentina, in Spanish, directed by Juan Jose Campanella, the winner",
+        "Ajami, Israel, in Arabic and Hebrew, directed by Scandar Copti and Yaron Shani",
+        "The Milk of Sorrow, Peru, in Spanish and Quechua, directed by Claudia Llosa",
+        "A Prophet, France, in French, Corsican and Arabic, directed by Jacques Audiard",
+        "The White Ribbon, Germany, in German, directed by Michael Haneke"
+      ],
+      "detail": "The White Ribbon took the Palme d'Or at the 62nd Cannes Film Festival and the Golden Globe in this category, A Prophet the BAFTA, and Broken Embraces the Critics' Choice award. The Milk of Sorrow won the Golden Bear at the 59th Berlin International Film Festival, where Asghar Farhadi took a Silver Bear for direction. Samuel Maoz's Lebanon won the Golden Lion at the 66th Venice International Film Festival, and Precious the People's Choice Award at the 34th Toronto International Film Festival.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_film"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Up, May 29, Pixar's tenth feature film",
+        "The Princess and the Frog, December 11, Walt Disney Animation Studios' 49th feature film",
+        "Avatar, December 18, directed by James Cameron",
+        "Sherlock Holmes, December 25, directed by Guy Ritchie"
+      ],
+      "detail": "The US year page dates the first three. The film page's events table adds that Sherlock Holmes took $25 million on Christmas Day and calls that a box office record for the day.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$7.50",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and in 3-D more often than before. The film page's review of the year counts a dozen 3-D animated features and names DreamWorks Animation's Monsters vs. Aliens and Pixar's Up as the best of them.",
+      "detail": "None of the eleven cached pages mentions a disc format, a rental service, a subscription or any legal way to watch a film over the internet, so this fact claims nothing at all about home viewing.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2009",
+      "value": [
+        "American Idol, Tuesday, FOX, 13.7 rating",
+        "American Idol, Wednesday, FOX, 13.3",
+        "Dancing with the Stars, ABC, 12.6",
+        "NCIS, CBS, 11.5",
+        "Sunday Night Football, NBC, 11.3"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. The Mentalist was sixth on 10.6, the Dancing with the Stars results show seventh on 9.9, NCIS: Los Angeles and Undercover Boss tied eighth on 9.8 and CSI: Crime Scene Investigation was tenth on 9.7.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2009%E2%80%9310"
+    },
+    "tv.digital_switch": {
+      "section": "tv",
+      "label": "Analog television shut off in the United States",
+      "value": "Every remaining full-service NTSC station stopped broadcasting analog on June 12 and went digital only",
+      "detail": "Hawaii had switched all of its stations on January 15, the first state to finish. 368 stations went digital on the original February 17 deadline, and 53 at-risk stations kept analog signals under nightlight status for transition announcements and severe weather alerts. Obama signed the DTV Delay Act on February 11, which moved the cutoff to June 12. Game seven of the Stanley Cup final was the last broadcast to go out over analog.",
+      "date": "2009-06-12",
+      "source": "https://en.wikipedia.org/wiki/2009_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "RuPaul's Drag Race, Logo, February 2",
+        "Parks and Recreation, NBC, April 9",
+        "Glee, Fox, May 19",
+        "Shark Tank, ABC, August 9",
+        "The Vampire Diaries, The CW, September 10",
+        "Archer and Community, FX and NBC, September 17",
+        "NCIS: Los Angeles and The Good Wife, CBS, September 22",
+        "Modern Family and Cougar Town, ABC, September 23",
+        "Jersey Shore, MTV, December 3"
+      ],
+      "detail": "The television page's debut table gives each date and network. Bored to Death started on HBO on September 20. NBC put The Jay Leno Show into a weeknight ten o'clock slot on September 14, its first prime-time weeknight talk and variety show in years.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_American_television"
+    },
+    "tv.audiences": {
+      "section": "tv",
+      "label": "Largest audiences",
+      "value": [
+        "The Michael Jackson memorial service on July 7, broadcast live around the world to an estimated one billion people",
+        "The inauguration on January 20, carried by every major American broadcast and cable news network to a combined domestic audience of over 37.8 million",
+        "Packers against Vikings on ESPN's Monday Night Football on October 5, 15 million homes, the most-watched cable sports program to that point"
+      ],
+      "detail": "The football game was Brett Favre's first against his former team, and the Vikings won it 30 to 23. The 81st Academy Awards, televised on February 22, drew 37 million in the United States for a ceremony honouring the previous year of film.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_American_television"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "61st Primetime Emmy Awards",
+      "value": "Mad Men won Outstanding Drama Series and 30 Rock Outstanding Comedy Series",
+      "detail": "Hosted by Neil Patrick Harris and televised by CBS. The TV Guide report the television page cites is headlined on first Emmys for Kristin Chenoweth and Jon Cryer.",
+      "date": "2009-09-20",
+      "source": "https://en.wikipedia.org/wiki/2009_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Boom Boom Pow, The Black Eyed Peas",
+      "detail": "Poker Face by Lady Gaga came second, Just Dance by Lady Gaga featuring Colby O'Donis third and I Gotta Feeling by The Black Eyed Peas fourth, so the two acts held the whole top four. Billboard counts the chart year from the first week of November to the final week of October and published this one on December 11. DJ Earworm cut the top twenty-five into a mashup video called Blame It On the Pop in late December.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2009"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling album worldwide",
+      "value": "I Dreamed a Dream, Susan Boyle",
+      "detail": "8.3 million copies in five weeks of release, on the IFPI ranking the music page reproduces. The E.N.D. by The Black Eyed Peas came second, This Is It by Michael Jackson third, Fearless by Taylor Swift fourth and The Fame by Lady Gaga fifth. Jackson also held eighth place with Thriller and ninth with Number Ones.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Poker Face became the biggest-selling single of the year in the United Kingdom and the biggest-selling digital single there to that point",
+      "detail": "It returned to number one on the UK Singles Chart on March 22 and held the position three more weeks. The whole Beatles catalogue was reissued on September 9 as digital remasters, the first repackaging of it since 1987.",
+      "date": "2009-03-22",
+      "source": "https://en.wikipedia.org/wiki/2009_in_music"
+    },
+    "music.vmas": {
+      "section": "music",
+      "label": "Kanye West interrupted Taylor Swift at the MTV Video Music Awards",
+      "value": "He walked on stage during her acceptance speech for Best Female Video and said Beyonce had one of the greatest videos of all time",
+      "detail": "Held at Radio City Music Hall in New York. Lady Gaga, Beyonce and Green Day each won three awards.",
+      "date": "2009-09-13",
+      "source": "https://en.wikipedia.org/wiki/2009_in_music"
+    },
+    "music.uk_christmas_number_one": {
+      "section": "music",
+      "label": "UK Christmas number one",
+      "value": "Rage Against the Machine took it with Killing in the Name after a large Facebook campaign",
+      "detail": "The music page credits the campaign, and the BBC report it cites is headlined on the single beating the X Factor winner.",
+      "date": "2009-12-20",
+      "source": "https://en.wikipedia.org/wiki/2009_in_music"
+    },
+    "tech.bitcoin": {
+      "section": "tech",
+      "label": "Bitcoin network started",
+      "value": "The developer known as Satoshi Nakamoto mined the genesis block of the blockchain",
+      "detail": "The world year page and the science page both date it to January 3, both cite the same New Yorker profile, and neither says anything about who Nakamoto was.",
+      "date": "2009-01-03",
+      "source": "https://en.wikipedia.org/wiki/2009_in_science"
+    },
+    "tech.windows_7": {
+      "section": "tech",
+      "label": "Microsoft released Windows 7",
+      "value": "Released to all computers and laptops, including an edition for cash machines",
+      "detail": "The world year page dates the release to October 22. The US year page carries the same one-line entry twice, once under July 22 and once under October 22, with no wording to reconcile them, so the October date is stated here and the July entry named rather than resolved.",
+      "date": "2009-10-22",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "tech.internet_traffic": {
+      "section": "tech",
+      "label": "Michael Jackson's death overloaded the web",
+      "value": "Reactions crippled several major websites and services, including a Twitter outage, and the number of people loading news pages pushed internet traffic to potentially unprecedented levels",
+      "detail": "The US year page cites a CNN report from the following day and gives no traffic figure. Its own summary of the year says some websites crashed under the overflow.",
+      "date": "2009-06-25",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "tech.web_sites": {
+      "section": "tech",
+      "label": "WikiLeaks publications",
+      "value": [
+        "86 intercepted telephone recordings of politicians and businessmen from the Peru oil scandal, January 28",
+        "Kaupthing Bank's internal documents from before the Icelandic financial crisis, September 22",
+        "The membership list of the British National Party, October 20"
+      ],
+      "detail": "The Kaupthing papers showed suspiciously large loans made to the bank's own owners and debts being written off. The world year page carries all three and gives no figure for how many people read any of them.",
+      "date": "2009-09-22",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Minecraft, Mojang, May 17",
+        "The Sims 3, June 2",
+        "Batman: Arkham Asylum, Eidos Interactive, August 25",
+        "Uncharted 2: Among Thieves, Sony Computer Entertainment, October 13",
+        "Call of Duty: Modern Warfare 2, Activision, November 10",
+        "Left 4 Dead 2, Valve, November 17",
+        "Angry Birds, December 11, on iOS"
+      ],
+      "detail": "Worldwide retail sales led with Wii Sports at 20,180,000 copies, then Wii Sports Resort at 13,580,000, Modern Warfare 2 at 11,860,000, New Super Mario Bros. Wii at 10,550,000 and Wii Fit Plus at 10,160,000. Uncharted 2 scored 96 out of 100 on Metacritic, the top of the games page's own list, and took Game of the Year at the Spike Video Game Awards on December 12. The 27th Golden Joystick Awards on October 30 gave theirs to the previous year's Fallout 3. The only new hardware was revisions: the Nintendo DSi reached North America on April 5, the PlayStation 3 Slim on September 1 and the PSP Go on October 1.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_video_games"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "The Kepler space observatory launched on March 7 and began looking for exoplanets",
+        "Space Shuttle Atlantis flew the last servicing mission to the Hubble Space Telescope, May 11 to 24",
+        "The Lunar Reconnaissance Orbiter and LCROSS launched to the Moon on June 18, the first American lunar mission since Lunar Prospector in 1998",
+        "NASA announced on November 13 that LCROSS impact data showed a significant quantity of water in the Moon's Cabeus crater",
+        "MESSENGER made its final Mercury flyby on September 29"
+      ],
+      "detail": "Iridium 33 and Kosmos 2251 collided over Siberia on February 10, the first accidental hypervelocity collision between two intact satellites in low Earth orbit, scattering debris in orbits 300 to 800 miles up. European astronomers announced 32 new exoplanets on October 20, and GJ 1214 b, found on December 16, was the first known exoplanet on which water could exist.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.35 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "7.8 percent in January, peaking at 10.0 percent in October",
+      "detail": "The January figure was the highest since June 1992 and came in the month the US year page calls the worst of the recession, with nearly 800,000 jobs lost. The rate passed 9 percent in April for the first time since September 1983 and 9.5 percent in June, and the October peak was the highest since June 1983.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "prices.dow": {
+      "section": "prices",
+      "label": "Dow Jones Industrial Average low",
+      "value": "Bottomed at 6,547 on March 9 and then rose quickly",
+      "detail": "Seventeen months to the day after its high of 14,164 on October 9, 2007. The US year page carries a citation-needed tag on this entry.",
+      "date": "2009-03-09",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president took office in January to a crowd that filled the Mall, and the job market shed workers every month of the year anyway. What people watched together was a pop star's funeral and a talent-show audition, both of them on the internet as much as on television."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace, Barack Obama",
+        "Literature, Herta Muller",
+        "Physics, Charles K. Kao, Willard Boyle and George E. Smith",
+        "Chemistry, Ada Yonath, Venkatraman Ramakrishnan and Thomas A. Steitz",
+        "Medicine, Elizabeth Blackburn, Carol W. Greider and Jack W. Szostak",
+        "Economics, Elinor Ostrom and Oliver E. Williamson"
+      ],
+      "detail": "The world year page gives no dates. The US year page dates the Peace Prize announcement to October 9 and says the choice surprised many, Obama included. Mikhail Gromov took the Abel Prize.",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "culture.memes": {
+      "section": "culture",
+      "label": "Slender Man",
+      "value": "A creepypasta character created by Eric Knudsen debuted in a forum on Something Awful",
+      "detail": "The US year page's June 10 entry is the only mention anywhere in the cache and carries no citation.",
+      "date": "2009-06-10",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "culture.viral_video": {
+      "section": "culture",
+      "label": "Susan Boyle's audition",
+      "value": "Her performance of I Dreamed a Dream on Britain's Got Talent was seen over 200 million times on YouTube and other video outlets",
+      "detail": "The music page dates the broadcast to April 11 and gives the count as one combined figure across outlets rather than a YouTube total.",
+      "date": "2009-04-11",
+      "source": "https://en.wikipedia.org/wiki/2009_in_music"
+    },
+    "culture.balloon_boy": {
+      "section": "culture",
+      "label": "Balloon boy hoax",
+      "value": "Parents claimed their young son had been carried away in a large balloon shaped like a spacecraft, setting off a wide rescue effort before admitting it was staged",
+      "detail": "They were fined and given short jail sentences. The US year page gives no length for either.",
+      "date": "2009-10-15",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLIII",
+      "value": "Pittsburgh Steelers 27, Arizona Cardinals 23, at Raymond James Stadium in front of 70,774",
+      "detail": "Santonio Holmes was named most valuable player. The US year page says the Steelers became the first NFL team to win six Super Bowls.",
+      "date": "2009-02-01",
+      "source": "https://en.wikipedia.org/wiki/2009_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Philadelphia Phillies four games to two, a 27th title",
+      "detail": "Hideki Matsui was named most valuable player. The US year page dates the clinching game to November 4.",
+      "date": "2009-11-04",
+      "source": "https://en.wikipedia.org/wiki/2009_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Los Angeles Lakers over the Orlando Magic four games to one, with Kobe Bryant named most valuable player",
+        "Stanley Cup, Pittsburgh Penguins over the Detroit Red Wings on June 12, with Evgeni Malkin taking the Conn Smythe Trophy",
+        "NCAA men's basketball, North Carolina 89, Michigan State 72, at Ford Field in Detroit, a fifth title",
+        "NCAA women's basketball, Connecticut 76, Louisville 54, at the Scottrade Center in St. Louis, closing a 39 and 0 season",
+        "UEFA Champions League, Barcelona beat Manchester United 2 to 0 in Rome",
+        "World Baseball Classic, Japan beat South Korea 5 to 3 in extra innings at Dodger Stadium",
+        "AFL Grand Final, Geelong beat St Kilda by 12 points in Melbourne on September 26"
+      ],
+      "detail": "Shakhtar Donetsk won the UEFA Cup in extra time in Istanbul, Estudiantes the Copa Libertadores, Brazil the Confederations Cup over the United States 3 to 2 in Johannesburg and Mexico the Gold Cup over the United States 5 to 0. Panathinaikos took a fifth Euroleague title. Golf's men's majors went to Angel Cabrera at the Masters, Lucas Glover at the US Open, Stewart Cink at the Open Championship and Yang Yong-eun at the PGA Championship. Ireland won the Six Nations with a Grand Slam, and South Africa took the British and Irish Lions series 2 to 1.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Rafael Nadal over Roger Federer in five sets, and Serena Williams over Dinara Safina 6-0, 6-3",
+        "French Open, Federer over Robin Soderling 6-1, 7-6, 6-4, and Svetlana Kuznetsova over Safina",
+        "Wimbledon, Federer over Andy Roddick 16-14 in the fifth, and Serena Williams over Venus Williams",
+        "US Open, Juan Martin del Potro over Federer in five sets, and Kim Clijsters over Caroline Wozniacki"
+      ],
+      "detail": "Spain beat the Czech Republic 5 to 0 in the Davis Cup and Italy beat the United States 4 to 0 in the Fed Cup.",
+      "source": "https://en.wikipedia.org/wiki/2009_in_sports"
+    },
+    "sports.formula_one": {
+      "section": "sports",
+      "label": "Formula One",
+      "value": "Jenson Button won his first world championship, driving for Brawn GP, at the Brazilian Grand Prix",
+      "detail": "The world year page carries this and the sports page's own motorsport section is empty, so no other result for the season is stated here.",
+      "date": "2009-10-18",
+      "source": "https://en.wikipedia.org/wiki/2009"
+    },
+    "deaths.jackson": {
+      "section": "deaths",
+      "label": "Michael Jackson",
+      "value": "Died June 25, of an accidental overdose of propofol and benzodiazepines at his Los Angeles home. Born 1958",
+      "detail": "Singer, songwriter, dancer and actor. He had announced the This Is It concert residency in London on March 5, and it was a fortnight from opening. A memorial service at Staples Center on July 7 was carried live around the world.",
+      "date": "2009-06-25",
+      "source": "https://en.wikipedia.org/wiki/2009_in_music"
+    },
+    "deaths.fawcett": {
+      "section": "deaths",
+      "label": "Farrah Fawcett",
+      "value": "Died June 25. Born 1947",
+      "detail": "American actress. The US year page puts her death on the same day as Michael Jackson's.",
+      "date": "2009-06-25",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "deaths.cronkite": {
+      "section": "deaths",
+      "label": "Walter Cronkite",
+      "value": "Died July 17. Born 1916",
+      "detail": "Radio and television journalist.",
+      "date": "2009-07-17",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "deaths.kennedy": {
+      "section": "deaths",
+      "label": "Ted Kennedy",
+      "value": "Died August 25. Born 1932",
+      "detail": "United States senator from Massachusetts from 1962.",
+      "date": "2009-08-25",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "deaths.swayze": {
+      "section": "deaths",
+      "label": "Patrick Swayze",
+      "value": "Died September 14. Born 1952",
+      "detail": "Actor, dancer, singer and songwriter.",
+      "date": "2009-09-14",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    },
+    "deaths.mcnamara": {
+      "section": "deaths",
+      "label": "Robert McNamara",
+      "value": "Died July 6. Born 1916",
+      "detail": "Business executive and the eighth United States Secretary of Defense.",
+      "date": "2009-07-06",
+      "source": "https://en.wikipedia.org/wiki/2009_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2009 plus one dedicated article pulled for the date check. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, under a caption reading Highest-grossing films of 2009, so figures_basis is gross and film.gross names worldwide in both its label and its detail. film.mjs fails it: src/data/name_years.json allowlists Psychic Force 2012 but not the bare string. The title is a proper noun and belongs in the list, so it is reported here for an allowlist entry rather than written into any value or detail. Its distributor was Sony and the film page gives it $769,679,473 worldwide. Avatar's figure is flagged rather than picked: the film page prints $2,743,577,587 against a film that only opened on December 18, and the same page says it broke many box office records and became the highest-grossing film of all time, so that number is a cumulative worldwide run and not one calendar year's takings. The Academy Awards page states a different basis for the same film, $596 million domestic by the nominations announcement, and film.gross names both rather than reconciling them. Date check. An inauguration falls on January 20, and both cached year pages give January 20, so there is nothing to reconcile. First_inauguration_of_Barack_Obama was pulled as raw wikitext anyway and agrees; it is cited on pol.inauguration because the ceremony number, the West Front location, the flubbed oath, the January 21 re-administration in the Map Room and the record-attendance line all come from it and no cached page carries any of them. Source disagreements labelled rather than resolved. The world year page's dated entries give 308 dead at L'Aquila and 1,115 on Sumatra while its own environment section rounds the same two to approximately 300 and approximately 1,100, and world.earthquakes states the dated figures and names the rounded ones. The US year page carries the Windows 7 release twice, under July 22 and under October 22, with identical wording and no reconciliation; the world year page gives only October 22, which tech.windows_7 takes, naming the July entry. Nothing in this file reaches into the following year. The 82nd Academy Awards ceremony date, the Best Picture nominations announcement date, the 15th Critics' Choice and 67th Golden Globes and 63rd BAFTA dates, the 13th Interactive Achievement Awards, the 10th Game Developers Choice Awards, the 6th British Academy Games Awards, the Saturn ring-plane crossing's next occurrence, MESSENGER's orbital capture, the Rio de Janeiro Summer Games edition, the Celtic League's Italian expansion, the SANZAR Four Nations invitation, the Poplawski sentencing and the US year page's own claims about the Affordable Care Act, the Tea Party movement, the unemployment rate's later course and the next ten years are all out for that reason. film.best_picture and film.acting_awards say the following March rather than a date, which is the corpus convention. Host-city convention. The IOC awarded Rio de Janeiro the Summer Games on October 2 and Ireland approved the Lisbon Treaty in a second referendum the same day, and only the second is a fact here: naming the Games by their edition year is the forward-looking claim the anachronism check exists to catch, and the corpus convention is to give the city and the decision date instead. There was no room for a separate Olympic fact, so the award is out entirely rather than half-written. Dropped for lack of a source. Netflix, Hulu, iTunes, Spotify, Pandora, streaming of any kind, vinyl, DVD and Blu-ray appear in none of the eleven cached pages, which is why film.how_people_watched claims nothing about home viewing and music.listening_format rests on a single-territory sales claim. Usain Bolt and the Berlin World Championships records are absent from the cache, so there is no athletics fact. General Motors and Chrysler appear nowhere in the cache either, so the bankruptcy texture is Circuit City, the Chicago Cubs and CIT Group, which are the three the US year page actually carries. The music page opens no format or industry claim beyond the Poker Face line and the Beatles reissue. The music page spells the drug that killed Michael Jackson propofil; deaths.jackson writes propofol, which is the correct spelling of the same drug, and no other cached page names it. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Culture is five facts rather than two. The cache supports culture.mood, the Nobel list, the Slender Man debut of June 10 from the US year page, the Susan Boyle view count from the music page and the balloon boy hoax of October 15, so nothing here is padding. culture.slang stays empty because no cached page describes a word or a phrase entering use. Section windows. tech.internet_traffic reaches tech.internet through the tech.internet_ prefix rule, tech.web_sites reaches its own window through tech.web_site, culture.memes reaches its own through culture.meme, tech.games reaches its own, and music.listening_format routes to music.format through the families table. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking value from one page and detail from another: tech.bitcoin cites the science page and names the world year page's matching entry; tech.windows_7 cites the world year page and names the US year page's duplicate; tv.audiences cites the television page for all three audience figures and the 81st Academy Awards viewership; deaths.jackson cites the music page for the cause of death and the residency and the television page for the memorial broadcast; sports.formula_one cites the world year page because the sports page's motorsport section is empty. Deaths carry a birth year because the US year page gives only a year, and the cache has no deaths page at all: the manifest records Deaths_in_2009 as a redirect to a list of lists. Names carrying a four-digit number. src/data/name_years.json was not touched. US Airways Flight 1549, GJ 1214 b, the 16th ceremony in 1944, Lunar Prospector in 1998, Ted Kennedy's 1962 and the 1987 Beatles repackaging are all earlier than the page year and pass. Colgan Air Flight 3407, Kosmos 2251, Unix time's 1234567890, the Dow's 6,547 and 14,164, Wii Sports at 20,180,000, Boeing 787, Left 4 Dead 2, Uncharted 2, Fallout 3, The Sims 3, Super Bowl XLIII and WrestleMania 25 were each run through checkname.mjs and are safe. The only failure in the whole file was the film titled 2012. Dropped for room. Politics and world: the Guantanamo executive orders of January 22, the Specter party switch of April 28, the Franken seating of July 7, the 9/12 Project rally of September 12, the Maersk Alabama hijacking and rescue of April 8 to 12, the Iceland collapse of January 26 and Johanna Sigurdardottir's appointment on February 1, the Black Saturday bushfires of February 7, Greenland's self-rule of June 21 and Slovakia's adoption of the euro on January 1 are all in the texture instead of facts; also dropped were the Honduran coup of June 28, the Copenhagen climate conference of December 7 to 18, the Fort Hood shooting of November 5 that killed fourteen, the Urumqi riots of July 5 that killed 197, Typhoon Morakot of August 7 that killed 673, Air France Flight 447 of June 1 that killed 228, Colgan Air Flight 3407 of February 12 that killed 49, the Washington Metro collision of June 22, the Perm nightclub fire of December 5 that killed 156, the Baghdad bombings of October 25 and December 8, the Madagascan and Guinea-Bissau coups of March, the Boko Haram uprising of July 26, the Bangladesh Rifles mutiny of February 25, the Albania and Croatia NATO accessions of April 1, the first International Criminal Court trial of January 26, the Trafigura super-injunction revealed on October 15, the arrest and August release of Euna Lee and Laura Ling, the London G20 summit and its protests, the Pittsburgh G20 summit of September 24 to 25, the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act of October 28, the Binghamton shooting of April 3, the George Tiller murder of May 31, the Holocaust Museum shooting of June 10, the Sarah Palin resignation announcement of July 3, the Disney acquisition of Marvel Entertainment on August 31, the Roman Polanski arrest of September 27, the Letterman extortion disclosure of October 1, the Tiger Woods crash of November 27 and the Northwest Airlines Flight 253 attempt of December 25. Film and television: the 81st Academy Awards of February 22, left out as a fact on the same ground as other years because it honoured the previous year of film, and named only inside tv.audiences for its viewership; the 29th Golden Raspberry Awards, the 14th Empire Awards, the MTV Movie Awards of May 31, the Spielberg and DreamWorks licensing agreement of January 1, the ER series finale of April 2, the first HD Simpsons episode of February 15, the Disney XD relaunch of February 13 and the Nick Jr. and TeenNick rebrandings of September 28. Music: the Eurovision Song Contest of May 16, won by Alexander Rybak for Norway with Fairytale in Moscow; the Green Day album of May 15; the Mercury Prize of September 8; the Mariah Carey top-ten record of September 9; the T.I. sentencing of March 27; the Elton John and Billy Joel tour of March 2; the Spice Girls reunion dinner of September 16. Technology and science: the Boeing 787 Dreamliner's first flight of December 15, the World Digital Library launch of April 21, the longest total solar eclipse of the century on July 22, the annular eclipse of January 26, the Jupiter impact scar reported by Anthony Wesley on July 19, the Darwinius masillae announcement of May 19, the Ardipithecus ramidus skeleton of October 1, Saturn's ring-plane crossing of September 3 and the Chinese induced pluripotent stem cell mice of July 23. Sport: the BCS title game of January 8, the new Cowboys Stadium crowd of over 105,000 on September 20, the Detroit Lions ending a 19-game losing streak on September 27, the United Football League debut of October 8, David Haye taking the WBA heavyweight title, the women's majors and the senior majors, the Berlin World Championships in Athletics, the Rome World Aquatics Championships, the Kaohsiung World Games of July 16 to 26 and the Chinese boycott of its opening ceremony. Deaths that would have earned a place with more room: Ed McMahon on June 23, Karl Malden on July 1, Frank McCourt on July 19, John Hughes on August 6, Les Paul on August 13, Mary Travers on September 16, Irving Kristol on September 18, Brittany Murphy on December 20, Kim Peek on December 19, Jennifer Jones, Dan O'Bannon, Arnold Stang, Natasha Richardson on March 18, John Updike on January 27, Andrew Wyeth on January 16, Ricardo Montalban on January 14, Patrick McGoohan on January 13, James Whitmore on February 6, Paul Harvey on February 28, Horton Foote on March 4, Ron Silver on March 15, Maurice Jarre on March 28, Bea Arthur, Philip Jose Farmer on February 25, John Hope Franklin on March 25, Norman Borlaug, Corazon Aquino on August 1, Billy Mays on June 28, Steve McNair on July 4, Jack Kramer, Allen Klein on July 4, Claude Berri on January 12, Pat Hingle on January 3, Ron Asheton on January 1, Lux Interior on February 4, Blossom Dearie on February 7, Estelle Bennett on February 11, Billy Powell on January 28, Jack Cover on February 7, Ann Nixon Cooper on December 21 and Connie Hines on December 18. This file runs 57 facts across 10 sections: politics 7, world 7, film 7, tv 5, music 5, tech 6, prices 4, culture 5, sports 5, deaths 6. Diacritics are written in ASCII per the corpus convention, so Juan Jose Campanella, Herta Muller, Johanna Sigurdardottir, Beyonce, Angel Cabrera, Robin Soderling, Juan Martin del Potro, Urumqi, Cerrejon and Ricardo Montalban lose theirs. Review pass restored the fifth-ranked film to film.gross. Its title is the bare number 2012, which the allowlist cannot hold as a number, since exempting that token would exempt it in any text on any page. The entry is the whole box office row instead, \"2012, $769,679,473, Sony\", because the exemption tests for the full string and a row like that cannot occur by accident. A stray 2012 in prose still fails, which was checked both ways."
+}

@@ -1,0 +1,498 @@
+{
+  "year": 2010,
+  "tier": "modern",
+  "headline": "An earthquake levelled Port-au-Prince in January, the iPad shipped in April, Republicans took the House in November",
+  "texture": [
+    "Ash from Eyjafjallajokull began disrupting air traffic across northern and western Europe on April 14. An airliner carrying 96 people, the Polish president Lech Kaczynski among them, crashed near Smolensk on April 10 on its way to a Katyn commemoration. Monsoon rains flooded Khyber Pakhtunkhwa from July 29, killing more than 1,600 and displacing over a million. Mount Merapi erupted repeatedly from October 26 and killed 353 in Central Java. Germany made its final World War I reparation payment on October 3.",
+    "Payroll employment bottomed in February at 129,655,000, down 8,710,000 from the December 2007 peak. Scott Brown won Ted Kennedy's Massachusetts seat on January 19 and handed the Republicans a 41st senator. On May 6 automated selling took about 1,000 points off the Dow inside 36 minutes. Elena Kagan was sworn in as an associate justice on August 7. The Federal Reserve said on November 4 that it would buy $600 billion in bonds.",
+    "The Consumer Electronics Show in Las Vegas spent January promoting 3D television, and Cablevision put a Rangers and Islanders game on a channel called MSG 3D on March 24. MTV dropped the words Music Television from its logo on February 8, after twenty-eight and a half years of carrying them. Anonymous began Operation Payback on September 22 over the banning of file-sharing sites. The International Space Station broke the record for continuous human occupation of space on October 22, at 3,641 days inhabited. Connecticut's women won their 89th straight basketball game on December 21 and lost on December 30 at 90.",
+    "Target Field opened in Minneapolis on April 12 with the Twins beating Boston 5 to 2. Dallas Braden pitched a perfect game on May 9 and Roy Halladay another on May 29, the first pair in one modern season, and Armando Galarraga lost a third on June 2 when Jim Joyce called the 27th batter safe and admitted afterwards he had missed it. Halladay then no-hit Cincinnati on October 6, only the second no-hitter thrown in postseason play after Don Larsen's perfect game in 1956."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.midterms",
+    "world.haiti_earthquake",
+    "world.deepwater_horizon",
+    "film.gross#0",
+    "tech.ipad",
+    "tech.instagram",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D)",
+      "detail": "Second year of his first term, with Joe Biden as vice president and John Roberts as Chief Justice. Nancy Pelosi (D) was Speaker of the House and Harry Reid (D) Senate majority leader, in the 111th Congress. Obama gave his first State of the Union address on January 27.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "US midterm elections",
+      "value": "Republicans won the House, Democrats held the Senate",
+      "detail": "Held on the Tuesday after the first Monday in November. November 1 was a Monday, so the Tuesday after it was November 2, which is the date both cached year pages and the election's own article give. The election's article puts the Republican House gain at a net 63 seats, the largest shift since the 1948 elections, with a net gain of six governorships and twenty state legislative chambers flipped. The cached US year page instead says at least 64 House seats and twelve governorships gained on top of eleven held, so both counts are named rather than reconciled. Obama called the result a shellacking.",
+      "date": "2010-11-02",
+      "source": "https://en.wikipedia.org/wiki/2010_United_States_elections"
+    },
+    "pol.health_care": {
+      "section": "politics",
+      "label": "Patient Protection and Affordable Care Act",
+      "value": "Obama signed it into law on March 23, aiming to insure 95 percent of Americans",
+      "detail": "The House passed the Act 219 to 212 on March 21 and its companion Health Care and Education Reconciliation Act 220 to 211. Fourteen states announced plans to sue the federal government over it on the day it was signed, and by May 14 three more had joined the other eighteen.",
+      "date": "2010-03-23",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "pol.citizens_united": {
+      "section": "politics",
+      "label": "Citizens United v. FEC",
+      "value": "The Supreme Court held that the First Amendment prohibits restrictions on independent political spending by corporations, associations and unions",
+      "detail": "The US year page names no vote split and no opinion author.",
+      "date": "2010-01-21",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "pol.dodd_frank": {
+      "section": "politics",
+      "label": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
+      "value": "Signed into law by Obama on July 21",
+      "detail": "The US year page carries the signing in one line and describes none of the Act's provisions.",
+      "date": "2010-07-21",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "pol.dont_ask_dont_tell": {
+      "section": "politics",
+      "label": "Don't ask, don't tell repealed",
+      "value": "The Senate voted 65 to 31 on December 18 and Obama signed the repeal on December 22",
+      "detail": "The Senate had blocked an earlier repeal bill on September 21. A federal judge, Virginia Phillips, declared the policy unconstitutional on October 13, the administration appealed on October 20, and the Ninth Circuit stayed her injunction on November 1.",
+      "date": "2010-12-22",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "pol.census": {
+      "section": "politics",
+      "label": "Census results",
+      "value": "Released December 21: the US population grew 9.7 percent to 310 million, the smallest percentage increase since the Great Depression",
+      "detail": "Official tabulation had begun on April 1.",
+      "date": "2010-12-21",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "world.haiti_earthquake": {
+      "section": "world",
+      "label": "Haiti earthquake",
+      "value": "A magnitude 7.0 earthquake struck near Port-au-Prince on January 12 and destroyed much of the capital",
+      "detail": "The year page's dated entry gives no death toll. Its own image caption puts the figure as high as 316,000 and calls the earthquake one of the deadliest natural disasters in history, and that is the only number the page carries. The US State Department confirmed on January 13 that 104 Americans were among the dead, and Obama committed $100,000,000 in relief on January 14.",
+      "date": "2010-01-12",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "world.chile_earthquake": {
+      "section": "world",
+      "label": "Chile earthquake",
+      "value": "A magnitude 8.8 earthquake on February 27 triggered a tsunami across the Pacific and killed at least 525",
+      "detail": "The year page calls it one of the largest earthquakes in recorded history.",
+      "date": "2010-02-27",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "world.deepwater_horizon": {
+      "section": "world",
+      "label": "Deepwater Horizon",
+      "value": "BP's drilling rig exploded in the Gulf of Mexico on April 20, killing 11 workers, and the well leaked for 86 days",
+      "detail": "The rig sank two days after the explosion. The flow was stopped for the first time on July 15. The US year page calls the spill the largest environmental disaster in American history. A second rig exploded and caught fire in the Gulf on September 2, with all thirteen workers pulled from the water and no hazardous material released.",
+      "date": "2010-04-20",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "world.eurozone_crisis": {
+      "section": "world",
+      "label": "Eurozone rescues",
+      "value": "Greece took a 110 billion euro package on May 2 and Ireland an 85 billion euro deal on November 29",
+      "detail": "Standard and Poor's had cut Greece's sovereign rating to junk on April 27, four days after a 45 billion euro EU and IMF bailout was activated, which the year page says knocked stock markets worldwide and the value of the euro. The Greek package came with sharp austerity measures. Ireland's came from the European Financial Stability Facility, the IMF and bilateral loans from the United Kingdom, Denmark and Sweden.",
+      "date": "2010-05-02",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "United Kingdom general election",
+      "value": "A hung parliament on May 6, with the Conservatives twenty seats short of a majority",
+      "detail": "The Conservatives and the Liberal Democrats agreed on May 12 to form a coalition government, the country's first since the Second World War.",
+      "date": "2010-05-06",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "world.wikileaks": {
+      "section": "world",
+      "label": "WikiLeaks",
+      "value": "Three mass releases of classified American material, ending with more than 250,000 diplomatic cables on November 28",
+      "detail": "Julian Assange published gunsight footage of a Baghdad airstrike on April 5 under the title Collateral Murder. Over 90,000 internal reports on the war in Afghanistan followed on July 25, and 391,832 documents on the Iraq War on October 22, which the year page calls the biggest US government leak in history. Of the cables, 100,000 were marked secret or confidential.",
+      "date": "2010-11-28",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "world.tunisia": {
+      "section": "world",
+      "label": "Tunisian Revolution begins",
+      "value": "The attempted suicide of Mohamed Bouazizi, a street vendor, on December 17",
+      "detail": "The year page dates the revolution from it.",
+      "date": "2010-12-17",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Toy Story 3, $1,066,969,703, Disney",
+        "Alice in Wonderland, $1,025,467,110, Disney",
+        "Harry Potter and the Deathly Hallows Part 1, $960,897,696, Warner Bros.",
+        "Inception, $828,258,695, Warner Bros.",
+        "Shrek Forever After, $752,600,867, Paramount"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header and the sentence above it both say, citing Box Office Mojo. The page calls this the first year in which two films crossed a billion dollars, both of them Disney releases, and Toy Story 3 the first animated film to do it and the highest-grossing film Disney had ever distributed. Five animated films finished in the top ten and two in the top five, and four films opened above $100 million against a previous record of three.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The King's Speech, produced by Iain Canning, Emile Sherman and Gareth Unwin",
+      "detail": "Awarded the following February at the 83rd Academy Awards, hosted by James Franco and Anne Hathaway. Tom Hooper took Best Director and David Seidler Best Original Screenplay. Toy Story 3 became the third animated film nominated for Best Picture and won Best Animated Feature. True Grit lost all ten of its nominations, the second film after Gangs of New York to do so. The Social Network took Best Adapted Screenplay for Aaron Sorkin and Best Original Score for Trent Reznor and Atticus Ross. The other nominees were 127 Hours, Black Swan, The Fighter, Inception, The Kids Are All Right and Winter's Bone.",
+      "source": "https://en.wikipedia.org/wiki/83rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Colin Firth, The King's Speech",
+        "Best Actress, Natalie Portman, Black Swan",
+        "Best Supporting Actor, Christian Bale, The Fighter",
+        "Best Supporting Actress, Melissa Leo, The Fighter"
+      ],
+      "detail": "The Fighter became the first film since Hannah and Her Sisters to win both supporting categories. Franco was nominated for Best Actor for 127 Hours while hosting the ceremony, the first to do both since Paul Hogan co-hosted the 59th ceremony in 1987 and the first acting nominee to host since Michael Caine at the 45th in 1973. Hailee Steinfeld was nominated in the supporting category for True Grit.",
+      "source": "https://en.wikipedia.org/wiki/83rd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "In a Better World, Denmark, in Danish, directed by Susanne Bier, the winner",
+        "Biutiful, Mexico, in Spanish, directed by Alejandro Gonzalez Inarritu",
+        "Dogtooth, Greece, in Greek, directed by Yorgos Lanthimos",
+        "Incendies, Canada, in French, directed by Denis Villeneuve",
+        "Outside the Law, Algeria, in Arabic, directed by Rachid Bouchareb"
+      ],
+      "detail": "The Palme d'Or at the 63rd Cannes Film Festival went to Apichatpong Weerasethakul's Uncle Boonmee Who Can Recall His Past Lives, from Thailand. Sofia Coppola took the Golden Lion at Venice for Somewhere and Semih Kaplanoglu the Golden Bear at Berlin for Honey.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "How to Train Your Dragon, March 26",
+        "Iron Man 2, May 7, the third Marvel Studios film",
+        "Toy Story 3, June 18, Pixar's eleventh feature",
+        "Despicable Me, July 9",
+        "Inception, July 16",
+        "Tangled, November 24, Walt Disney Animation Studios' 50th feature"
+      ],
+      "detail": "The US year page dates all six. It says Toy Story 3 passed Finding Nemo as Pixar's biggest financial success, gives Inception $825 million on its initial run against the film page's $828,258,695 worldwide total, and calls Tangled the most expensive animated film made to that point.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$7.89",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and often in 3D. The film page opens by describing a sharp rise in 3D production following the success of Avatar in the format.",
+      "detail": "It names Alice in Wonderland, Clash of the Titans, Toy Story 3 and Shrek Forever After among the titles released in 3D. No cached page gives a disc figure, a rental figure or a home viewing share, so this fact claims nothing about a living room beyond the Hulu Plus launch filed under television.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2010",
+      "value": [
+        "American Idol, Wednesday, FOX, 14.5 rating",
+        "Dancing with the Stars, ABC, 13.8",
+        "American Idol, Thursday, FOX, 13.4",
+        "Sunday Night Football, NBC, 12.7",
+        "NCIS, CBS, 11.8"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this ranking covers the season that opened in the autumn and ran into the following spring. The results edition of Dancing with the Stars tied NCIS on 11.8, then NCIS: Los Angeles on 10.1, The Mentalist on 9.6, Body of Proof on 9.0 and Criminal Minds on 8.7.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2010%E2%80%9311"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Justified, FX, March 16",
+        "Adventure Time, Cartoon Network, April 5",
+        "Louie, FX, June 29",
+        "Boardwalk Empire, HBO, September 19",
+        "Hawaii Five-0, CBS, September 20",
+        "Sherlock, PBS, October 24",
+        "The Walking Dead, AMC, October 31"
+      ],
+      "detail": "The television page's debut table gives each date and network.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_American_television"
+    },
+    "tv.late_night": {
+      "section": "tv",
+      "label": "The Tonight Show changes hands twice",
+      "value": "Conan O'Brien's run ended on January 22 after seven and a half months and 146 episodes, and Jay Leno returned to the chair on March 1",
+      "detail": "The Jay Leno Show, which had run in primetime for five and a half months, finished on February 9. TBS announced on April 12 that O'Brien would take an eleven o'clock slot from November, and his new show opened on November 8 to 4.2 million viewers.",
+      "date": "2010-01-22",
+      "source": "https://en.wikipedia.org/wiki/2010_in_American_television"
+    },
+    "tv.hulu_plus": {
+      "section": "tv",
+      "label": "Hulu Plus launches",
+      "value": "A subscription streaming tier opened on November 17, and the television page files it as over-the-top video on demand",
+      "detail": "The page's network launch table cites a New York Times report from the day, titled on Hulu dropping prices to compete with Netflix. That headline is the only mention of Netflix anywhere in the cached television material.",
+      "date": "2010-11-17",
+      "source": "https://en.wikipedia.org/wiki/2010_in_American_television"
+    },
+    "tv.larry_king": {
+      "section": "tv",
+      "label": "Larry King Live ends",
+      "value": "The final episode aired on December 16 after 25 years on CNN",
+      "detail": "King had announced the departure on June 29.",
+      "date": "2010-12-16",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Tik Tok, Kesha",
+      "detail": "It held the weekly Hot 100 for nine weeks, and Kesha became the first woman to top the year-end chart with a debut single. Need You Now by Lady Antebellum came second, the first country recording in the top two since Breathe ranked number one in 2000, and Hey, Soul Sister by Train third. Billboard published the list on December 8, compiled from Nielsen Broadcast Data Systems airplay and SoundScan point-of-sale data covering December 5, 2009 to November 27. Fourteen of the hundred songs had appeared on the previous year's list as well.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2010"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "A federal judge ordered LimeWire shut down on October 26, ruling that sharing music free through it broke copyright law",
+      "detail": "The world year page records Anonymous beginning Operation Payback on September 22, a coordinated attack on corporations, law firms and politicians over the banning of file-sharing sites including LimeWire and The Pirate Bay. That is the whole of what the cache says about how recorded music reached anyone.",
+      "date": "2010-10-26",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "music.singles_released": {
+      "section": "music",
+      "label": "Singles released",
+      "value": [
+        "Baby, Justin Bieber, January 18",
+        "OMG, Usher featuring will.i.am, March 22",
+        "California Gurls, Katy Perry featuring Snoop Dogg, May 7",
+        "Love the Way You Lie, Eminem and Rihanna, June 25",
+        "Firework, Katy Perry, October 26",
+        "Rolling in the Deep, Adele, November 29 in the United Kingdom"
+      ],
+      "detail": "The music page is a directory of subsidiary lists and carries no album chart, no sales figure and no awards, so its dated singles table is the only chart-adjacent material in it.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_music"
+    },
+    "tech.ipad": {
+      "section": "tech",
+      "label": "The first iPad",
+      "value": "Released on April 3",
+      "detail": "The year page's own summary names it, the public launch of Instagram and the first trapping of antimatter as the technical advances of the year, and gives no sales figure for the device.",
+      "date": "2010-04-03",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "tech.instagram": {
+      "section": "tech",
+      "label": "Instagram",
+      "value": "Mike Krieger and Kevin Systrom made the first test posts in San Francisco on July 16, and the service opened to the public on October 6",
+      "detail": "The world year page dates the test posts and the launch, and the US year page files October 6 as the founding.",
+      "date": "2010-10-06",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "tech.social_campaign": {
+      "section": "tech",
+      "label": "A Facebook campaign books a host",
+      "value": "Betty White hosted Saturday Night Live on May 8 after her fans ran a successful campaign on Facebook",
+      "detail": "The episode brought back Tina Fey, Amy Poehler, Molly Shannon, Maya Rudolph, Ana Gasteyer and Rachel Dratch for the Mother's Day weekend. This is the only mention of Facebook in any of the eleven cached pages.",
+      "date": "2010-05-08",
+      "source": "https://en.wikipedia.org/wiki/2010_in_American_television"
+    },
+    "tech.antimatter": {
+      "section": "tech",
+      "label": "Antimatter trapped",
+      "value": "Researchers at CERN held 38 antihydrogen atoms in place for a fraction of a second on November 17, the first time neutral antimatter had been trapped",
+      "detail": "The science page puts the duration at a fraction of a second and the world year page at a sixth of a second.",
+      "date": "2010-11-17",
+      "source": "https://en.wikipedia.org/wiki/2010_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Mass Effect 2, January 26, on Windows, Xbox 360 and PlayStation 3",
+        "Red Dead Redemption, Rockstar Games, May 18",
+        "Super Mario Galaxy 2, Nintendo, May 23, on the Wii",
+        "StarCraft II: Wings of Liberty, July 27",
+        "Halo: Reach, September 14, on the Xbox 360",
+        "Call of Duty: Black Ops, November 9"
+      ],
+      "detail": "Microsoft launched the Kinect camera between November 4 and 7, starting in North America, and Sony the PlayStation Move between September 15 and 21, both of them motion controllers built to compete with the Wii. Wii Sports led the year's best-selling family games at 16,600,000 copies worldwide, then New Super Mario Bros. Wii and Wii Sports Resort at 11,300,000 each, Wii Fit Plus at 8,900,000 and FIFA 11 at 8,400,000. Game of the Year split: the 28th Golden Joystick Awards on October 29 gave it to Mass Effect 2 and the Spike Video Game Awards on December 11 to Red Dead Redemption. Super Mario Galaxy 2 took the highest Metacritic score of the year at 97.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.79 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "9.3 percent at the end of the year",
+      "detail": "Payroll employment hit its post-recession bottom in February at 129,655,000, a fall of 8,710,000 from the December 2007 peak. Both figures come from the US year page, which gives no monthly series.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "prices.flash_crash": {
+      "section": "prices",
+      "label": "The flash crash",
+      "value": "About 1,000 points came off the Dow Jones Industrial Average on May 6 and went back on, the largest intra-day fall to that point",
+      "detail": "The world year page calls it a trillion-dollar crash lasting 36 minutes and blames a series of automated trading programs caught in a feedback loop. The US year page gives the point figure.",
+      "date": "2010-05-06",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The recovery showed up in the quarterly figures and nowhere on a payroll. An oil well nobody could cap ran on the news through the summer, and in the autumn the electorate turned on the party in charge."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Mario Vargas Llosa",
+        "Peace, Liu Xiaobo",
+        "Physics, Andre Geim and Konstantin Novoselov",
+        "Chemistry, Richard F. Heck, Ei-ichi Negishi and Akira Suzuki",
+        "Medicine, Robert G. Edwards",
+        "Economics, Peter A. Diamond, Dale T. Mortensen and Christopher A. Pissarides"
+      ],
+      "detail": "The year page gives no dates and no citations for the awards.",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "culture.pronunciation": {
+      "section": "culture",
+      "label": "How the year was said aloud",
+      "value": "Twenty-ten or two thousand and ten, with no settled usage",
+      "detail": "The year page carries a section on it, citing an NPR segment. It says this was the first year of the century with wide variation, because the years before it were generally said as two thousand and one, two, three and so on rather than twenty-oh-one.",
+      "source": "https://en.wikipedia.org/wiki/2010"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLIV",
+      "value": "New Orleans Saints 31, Indianapolis Colts 17, at Sun Life Stadium in front of 74,059",
+      "detail": "Played February 7. The sports page gives the attendance and names Drew Brees most valuable player. The US year page calls it the first championship for New Orleans and puts The Who on the half-time show. The television page says Nielsen counted 106.5 million viewers and called the CBS broadcast the most watched telecast in history, passing the 1983 M*A*S*H series finale, which had also been on CBS.",
+      "date": "2010-02-07",
+      "source": "https://en.wikipedia.org/wiki/2010_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "San Francisco Giants beat the Texas Rangers four games to one",
+      "detail": "Clinched November 1, the franchise's first title in 56 years. Texas had beaten the New York Yankees in the American League series on October 22 to reach its first World Series, and San Francisco beat the Philadelphia Phillies on October 23.",
+      "date": "2010-11-01",
+      "source": "https://en.wikipedia.org/wiki/2010_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Vancouver and Whistler from February 12 to 28, with Canada finishing on top",
+      "detail": "The Georgian luger Nodar Kumaritashvili was killed on a training run on the day of the opening ceremony. Canada beat the United States 3 to 2 in overtime for the men's ice hockey gold on the final day, Sidney Crosby scoring, and more than 27 million people watched in the United States, the best figure for a hockey game there since 1980.",
+      "date": "2010-02-12",
+      "source": "https://en.wikipedia.org/wiki/2010_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Spain won the tournament, held in South Africa from June 11 to July 11",
+      "detail": "The sports page also gives Internazionale the UEFA Champions League, which the world year page dates to May 22 with a 2 to 0 win over Bayern Munich at the Santiago Bernabeu, and later the FIFA Club World Cup. Internacional took the Copa Libertadores, Egypt the Africa Cup of Nations in Angola in January, Seongnam Ilhwa the AFC Champions League and TP Mazembe the CAF Champions League.",
+      "date": "2010-07-11",
+      "source": "https://en.wikipedia.org/wiki/2010_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Los Angeles Lakers over the Boston Celtics in seven games, a sixteenth title",
+        "Stanley Cup, Chicago Blackhawks over the Philadelphia Flyers 4 to 3 in overtime of game six on June 9, a first cup in 49 years",
+        "NCAA men's basketball, Duke 61, Butler 59, at Lucas Oil Stadium",
+        "NCAA women's basketball, Connecticut 53, Stanford 47, completing a second consecutive 39 and 0 season",
+        "Commonwealth Games, Delhi, October 3 to 14, topped by Australia",
+        "Asian Games, Guangzhou, November 12 to 27, topped by China",
+        "Masters Tournament, Phil Mickelson, and the US Open, Graeme McDowell"
+      ],
+      "detail": "Alabama had beaten Texas 37 to 21 in the BCS National Championship Game in January for the previous college football season. A crowd of 108,713 at Cowboys Stadium for the NBA All-Star Game on February 14 was the largest in the sport's history. The world year page dates Sebastian Vettel's Formula One title to November 14 and calls him the youngest champion, after a four-way fight the sports page does not cover.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Roger Federer over Andy Murray, and Serena Williams over Justine Henin",
+        "French Open, Rafael Nadal over Robin Soderling, and Francesca Schiavone over Samantha Stosur",
+        "Wimbledon, Nadal over Tomas Berdych, and Serena Williams over Vera Zvonareva",
+        "US Open, Nadal over Novak Djokovic, and Kim Clijsters over Zvonareva"
+      ],
+      "detail": "Schiavone became the first Italian of either sex to win a Grand Slam singles title. In the first round at Wimbledon, John Isner beat Nicolas Mahut 70 to 68 in the fifth set over three days and 11 hours and 5 minutes, the longest match in the sport's history, with the final set alone longer in games and in time than the previous longest match.",
+      "source": "https://en.wikipedia.org/wiki/2010_in_sports"
+    },
+    "deaths.salinger": {
+      "section": "deaths",
+      "label": "J. D. Salinger",
+      "value": "Died January 27. Born 1919",
+      "detail": "Author. Howard Zinn, the historian, died the same day.",
+      "date": "2010-01-27",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "deaths.hopper": {
+      "section": "deaths",
+      "label": "Dennis Hopper",
+      "value": "Died May 29, aged 74",
+      "detail": "Actor, director and screenwriter. The film page names Easy Rider and Speed.",
+      "date": "2010-05-29",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    },
+    "deaths.curtis": {
+      "section": "deaths",
+      "label": "Tony Curtis",
+      "value": "Died September 29, aged 85",
+      "detail": "Actor. The film page names Sweet Smell of Success and Some Like It Hot.",
+      "date": "2010-09-29",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    },
+    "deaths.nielsen": {
+      "section": "deaths",
+      "label": "Leslie Nielsen",
+      "value": "Died November 28, aged 84",
+      "detail": "Canadian actor. The film page names The Naked Gun and Forbidden Planet.",
+      "date": "2010-11-28",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    },
+    "deaths.byrd": {
+      "section": "deaths",
+      "label": "Robert Byrd",
+      "value": "Died June 28. Born 1917",
+      "detail": "United States Senator for West Virginia from 1959 until his death.",
+      "date": "2010-06-28",
+      "source": "https://en.wikipedia.org/wiki/2010_in_the_United_States"
+    },
+    "deaths.horne": {
+      "section": "deaths",
+      "label": "Lena Horne",
+      "value": "Died May 9, aged 92",
+      "detail": "Singer and actress. The film page names Cabin in the Sky and The Wiz, and the music page files her as a jazz singer.",
+      "date": "2010-05-09",
+      "source": "https://en.wikipedia.org/wiki/2010_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2010 plus one dedicated article pulled for the date check. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, and the sentence above the table says the top ten films released in 2010 by worldwide gross, citing Box Office Mojo, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Date check. The midterms fall on the Tuesday after the first Monday in November. November 1 was a Monday, so the Tuesday after it was November 2, which is what both cached year pages give. The election's own article was pulled as raw wikitext to confirm the date and agrees, so there is no date disagreement to name. It does disagree on the size of the result, and pol.midterms names both counts rather than resolving them: the article says a net gain of 63 House seats, the largest shift since 1948, plus six governorships and twenty state legislative chambers, while the cached US year page says at least 64 House seats and twelve governorships gained on top of eleven held. The article also says Republicans gained seven Senate seats counting a January special election while its own infobox says six, and the US year page says six, so no Senate number is stated in the fact. Nothing in this file reaches into the following year. The 83rd Academy Awards ceremony date, the 16th Critics' Choice and 68th Golden Globe ceremony dates, the 64th BAFTA date, the 14th Interactive Achievement Awards, the 11th Game Developers Choice Awards, the 7th British Academy Games Awards, the Simon Cowell departure to launch an American X Factor, the spending bill running to March 4 and the course of the Tunisian Revolution are all out for that reason. film.best_picture says the following February rather than a date, which is the corpus convention. Source disagreements labelled rather than resolved. The Haiti death toll appears only in the year page's image caption, at as many as 316,000, and world.haiti_earthquake says so rather than presenting it as the dated entry's figure. Inception is $825 million on its initial run per the US year page and $828,258,695 worldwide in the film page's table, and film.releases carries both. The antihydrogen trap is a fraction of a second on the science page and a sixth of a second on the world year page, and tech.antimatter names both. Nielsen. The ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Dropped for lack of a source. The music page is a directory of subsidiary lists: it carries no album chart, no sales figure, no Grammys and no format claim, so there is no best-selling album fact and music.listening_format is built from the LimeWire shutdown on the US year page and the Operation Payback entry on the world year page instead. Nothing in the cache mentions Spotify, Pandora, iTunes, vinyl or a music streaming service of any kind. tech.web_sites and culture.memes are open windows and both are empty: no cached page ranks or counts websites, and nothing in the cache describes a meme. Facebook appears exactly once across all eleven pages, in the Betty White entry on the television page, which is why tech.social_campaign is the only social media fact and there is no user count anywhere. Twitter never appears outside a citation. The world year page lists Arab spring, deadname, gamification and libfix as new English words of the year, but only gamification carries a citation and the deadname citation points at a 2012 word list, so no culture.slang fact was written from it. Section windows. tv.late_night, tv.hulu_plus and tv.larry_king sit under the plain tv section, tech.social_campaign reaches the tech.social window through the tech.social_ prefix rule, and tech.games reaches its own window. No radio fact, because the radio window closed after 1959. General knowledge rather than a claim from the cached pages: the whole of culture.mood, which carries no source and no digit. It comes out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. Windows 2000, Expo 2010, Halo: Reach, Call of Duty: Black Ops, Super Mario Galaxy 2, FIFA 11, 127 Hours, Xbox 360 and Super Bowl XLIV were all run through checkname.mjs and all pass, either as a year not later than this one or as a number outside the four-digit range. Nothing in the sources carried a title reaching into a later year, so there is nothing to report for the allowlist. Diacritics are written in ASCII per the corpus convention, so Eyjafjallajokull, Kaczynski, Alejandro Gonzalez Inarritu, Semih Kaplanoglu, Robin Soderling, Tomas Berdych and Nodar Kumaritashvili lose theirs. Deaths carry a birth year where the US year page gives only the year and an age where the film page's table gives one. There is no cached deaths page: the manifest records Deaths_in_2010 as a redirect to a list of lists, so every death here comes from the US year page or the film page. Dropped for room. World: the Burj Khalifa opening on January 4, the Yushu earthquake, the Kyrgyz revolution of April 7, the Thai crackdown of May 19 that killed 91, the Ahmadiyya mosque massacre of May 28, the sinking of the ROKS Cheonan on March 26, the Mentawai tsunami of October 25, the Manila hostage crisis of August 23, Dilma Rousseff's election on October 28, the release of Aung San Suu Kyi on November 13, the shelling of Yeonpyeong Island on November 23, the G20 summit in Seoul on November 11 and 12, Expo 2010 in Shanghai from May 1 to October 31, the Hungarian supermajority of April 25, Julia Gillard taking the Australian leadership on June 24, the Philippine election of May 10, the Christchurch earthquake of September 4, the four new OECD members and the World Health Organization declaring the swine flu pandemic over on August 10. The Eyjafjallajokull ash, the Smolensk crash, the Khyber Pakhtunkhwa floods, the Merapi eruptions and the last German World War I reparation payment are in the texture instead of facts. United States: the Massachusetts special election of January 19, Elena Kagan's swearing in on August 7, the Arizona immigration act of April 23, the Upper Big Branch mine explosion of April 5, the Times Square car bomb attempt of May 1, the last combat troops leaving Iraq on August 19, the Fed's $600 billion bond purchase of November 4, the tax compromise signed December 17, the START treaty vote of December 22, the FCC net neutrality vote of December 21, the San Bruno gas explosion of September 9 and the Fourmile Canyon fire. Television and film: the 82nd Academy Awards of March 7, hosted by Alec Baldwin and Steve Martin, left out because it honoured the previous year of film and would put a second Best Picture on the page; the MTV logo change of February 8 and the MSG 3D launch of March 24, both in the texture; the 200th South Park episode of April 14 and the censorship that followed; the Galaxy 15 satellite drifting out of control. Games: the first PAX East in March, the first Humble Indie Bundle in May, OnLive's release in June, and Minecraft taking three categories at the Game Developers Choice Awards, which is a ceremony in the following year. Science: the Neanderthal genome draft of May 7 with its evidence of interbreeding, the functional synthetic genome announced May 20, Obama cancelling the NASA return to the Moon on February 1, and the first 24-hour flight by a solar-powered aircraft on July 8. Sport: the Isner and Mahut match is in sports.tennis, the two perfect games and the Galarraga call are in the texture, and Trevor Hoffman's 600th save, Halladay's postseason no-hitter of October 6, the Indianapolis 500, the marathons and the FIBA championships were left out for room. Deaths that would have earned a place with more room: Alexander Haig on February 20, Peter Graves on March 14, Corey Haim on March 10, Ronnie James Dio on May 16, Gary Coleman on May 28, Rue McClanahan on June 3, John Wooden on June 4, George Steinbrenner on July 13, Patricia Neal on August 8, Ted Stevens on August 9, Claude Chabrol on September 12, Solomon Burke on October 10, Gregory Isaacs on October 25, Elizabeth Edwards on December 7, Blake Edwards on December 15, Captain Beefheart on December 17, Teena Marie on December 26 and Billy Taylor on December 28. This file runs 53 facts across 10 sections: politics 7, world 7, film 7, tv 5, music 3, tech 5, prices 4, culture 3, sports 6, deaths 6. Music runs to only three because the cached music page is a directory rather than a record of the year."
+}

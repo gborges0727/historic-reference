@@ -1,0 +1,520 @@
+{
+  "year": 2015,
+  "tier": "modern",
+  "headline": "Same-sex marriage became a constitutional right in June, Paris was attacked in November, SpaceX landed a rocket",
+  "texture": [
+    "Volkswagen was ordered in September to recall about 500,000 cars in the United States after software let its diesels put out forty times the exhaust the Clean Air Act allows. Sepp Blatter said on June 2 that he would resign as FIFA president, six days after American courts indicted fourteen officials on fraud, money laundering and racketeering charges covering 24 years. Hackers dumped 2,500 Ashley Madison customer records on July 21, and the site's chief executive Noel Biderman quit on August 28.",
+    "Walter Scott was shot dead by a police officer in North Charleston on April 4, and a bystander filmed it. Freddie Gray died in police custody on April 19 and Baltimore protested from April 25 to May 3. Rachel Dolezal resigned on June 15 as head of the Spokane chapter of the NAACP after allegations she had lied about her race. Sandra Bland was found dead in a Waller County jail cell on July 13, three days after a traffic stop. Tim Wolfe resigned as president of the University of Missouri System on November 9, after a football team strike and a student's hunger strike.",
+    "Explosions at Tianjin on August 12 and 15 killed 173 people, traced to an overheated container of dry nitrocellulose and about 800 tonnes of ammonium nitrate. Metrojet Flight 9268 broke up over Sinai on October 31 with 217 passengers and 7 crew aboard. Fire at the Colectiv nightclub in Bucharest on October 30 killed 27 people at the scene and 37 more later, and Victor Ponta resigned as Romania's prime minister five days after that.",
+    "The United States reopened its embassy in Havana on July 20 and Cuba reopened its embassy in Washington, ending 54 years without diplomatic relations. Queen Elizabeth II passed Victoria's total on September 9 to become the longest-reigning British monarch. The International Olympic Committee chose Beijing to host the Winter Games on July 31. On January 1 Lithuania replaced the litas with the euro, the nineteenth country in the eurozone, and the Swiss National Bank abandoned its cap on the franc two weeks later."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.obergefell",
+    "world.paris_attacks",
+    "film.gross#0",
+    "tech.spaceflight#0",
+    "sports.world_series",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D)",
+      "detail": "He delivered his State of the Union address to Congress on January 20. Joe Biden was vice president, and his son Beau Biden died on May 30.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "114th Congress, Republican majorities in both chambers",
+      "detail": "It opened on January 3, the majorities following from the elections of the previous year. John Boehner announced on September 25 that he would resign as Speaker effective October 30, and Paul Ryan took the chair on October 29.",
+      "date": "2015-01-03",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "pol.obergefell": {
+      "section": "politics",
+      "label": "Supreme Court on same-sex marriage",
+      "value": "A 5 to 4 ruling that the Constitution guarantees a right to same-sex marriage in the United States",
+      "detail": "Anthony Kennedy wrote the majority opinion, joined by Ruth Bader Ginsburg, Stephen Breyer, Sonia Sotomayor and Elena Kagan. The US year page names no case. Federal judges had struck down state bans in South Dakota on January 12, Alabama on January 23 and Nebraska on March 2.",
+      "date": "2015-06-26",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "pol.aca_subsidies": {
+      "section": "politics",
+      "label": "Supreme Court on Affordable Care Act subsidies",
+      "value": "A 6 to 3 ruling kept the subsidies in place nationwide, including in states that had not set up their own insurance exchanges",
+      "date": "2015-06-25",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "pol.charleston": {
+      "section": "politics",
+      "label": "Charleston church shooting",
+      "value": "Nine people were shot dead at a prayer service in Emanuel African Methodist Episcopal Church, a historically black church, among them the pastor and state senator Clementa C. Pinckney",
+      "detail": "The accused gunman, 21-year-old white supremacist Dylann Roof, was arrested the next morning.",
+      "date": "2015-06-17",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "pol.confederate_flag": {
+      "section": "politics",
+      "label": "Confederate battle flag comes down in South Carolina",
+      "value": "The South Carolina State House removed the flag from its grounds after weeks of protest and placed it in a museum",
+      "detail": "Bree Newsome had been taken into custody on June 27 after climbing the flagpole and pulling the flag down herself.",
+      "date": "2015-07-10",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "pol.san_bernardino": {
+      "section": "politics",
+      "label": "San Bernardino attack",
+      "value": "Two gunmen killed 14 people at a facility for the mentally disabled and died in a shootout with police",
+      "detail": "The US year page calls it the deadliest mass shooting in the United States that year and the deadliest since 2012, and the world year page says ISIL claimed responsibility. Donald Trump called on December 7 for a complete ban on Muslims entering the United States, citing this attack and Paris.",
+      "date": "2015-12-02",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "world.migrant_crisis": {
+      "section": "world",
+      "label": "European migrant crisis",
+      "value": "About 1.3 million people came to Europe to request asylum, most of them from the Middle East",
+      "detail": "Alan Kurdi, a Syrian boy who drowned on September 2, became the image the crisis was argued over. The European Commission opened negotiations with Turkey to close its border with Greece in exchange for money and diplomatic concessions. None of the eleven cached pages for the year carries the crisis at all, so this fact cites the event's own article.",
+      "source": "https://en.wikipedia.org/wiki/2015_European_migrant_crisis"
+    },
+    "world.paris_attacks": {
+      "section": "world",
+      "label": "Paris attacks",
+      "value": "Coordinated attacks claimed by ISIL struck the Bataclan theatre, the Stade de France and streets and cafes across the city",
+      "detail": "The cached pages disagree on the toll and none is resolved here. The world year page's dated entry says 130 killed, its own summary says 137 including 90 at the Bataclan, and the television page says 129 including 112 at the Bataclan. The television page adds that three suicide bombers could not get into the France against Germany match at the Stade de France and one of them killed five people outside, and that the match was played to the finish to keep the crowd inside the ground.",
+      "date": "2015-11-13",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "world.charlie_hebdo": {
+      "section": "world",
+      "label": "Charlie Hebdo shooting",
+      "value": "Two gunmen from Al-Qaeda's Yemen branch killed 12 people and injured 11 more at the satirical newspaper's Paris office",
+      "detail": "The anti-terrorism demonstration that followed drew over a million people and more than 40 world leaders.",
+      "date": "2015-01-07",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "world.nepal_earthquake": {
+      "section": "world",
+      "label": "Nepal earthquake",
+      "value": "A magnitude 7.8 earthquake struck Nepal",
+      "detail": "The year page gives 8,857 deaths in Nepal and 9,018 in total. A second earthquake, magnitude 7.3, followed on May 12.",
+      "date": "2015-04-25",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "world.greek_debt": {
+      "section": "world",
+      "label": "Greek government-debt crisis",
+      "value": "Greece became the first advanced economy to miss a payment to the International Monetary Fund in the fund's 71-year history",
+      "detail": "Syriza under Alexis Tsipras had won the January 25 election with 149 of the 300 seats in the Hellenic Parliament. Greece voted between July 5 and 13 to reject the terms offered in a third bailout programme, and a snap election on September 20 returned Syriza with 145 seats.",
+      "date": "2015-07-01",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "UK general election",
+      "value": "The first Conservative majority government in 18 years",
+      "date": "2015-05-07",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "world.iran_deal": {
+      "section": "world",
+      "label": "Iran nuclear agreement",
+      "value": "Iran agreed to long-term limits on its nuclear programme in exchange for sanctions relief",
+      "detail": "The US year page says the UN Security Council would lift its sanctions and Iran would cut its stockpile of enriched uranium by about 98 percent for the next 15 years. Senate Democrats blocked a Republican resolution of rejection on September 10.",
+      "date": "2015-07-14",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "world.cop21": {
+      "section": "world",
+      "label": "Paris climate pact",
+      "value": "The COP 21 summit agreed a global pact committing all countries to reduce carbon emissions for the first time",
+      "detail": "The conference opened in Paris on November 30.",
+      "date": "2015-12-12",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Star Wars: The Force Awakens, $2,068,223,624, Disney",
+        "Jurassic World, $1,671,537,444, Universal",
+        "Furious 7, $1,515,341,399, Universal",
+        "Avengers: Age of Ultron, $1,402,809,540, Disney",
+        "Minions, $1,159,398,397, Universal"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header and the sentence above it both say, citing Box Office Mojo. The Force Awakens reached American cinemas on December 18, so the figure here is a lifetime total that went on accruing after the year ended: the same page records its domestic gross passing $800 million on January 9 and $900 million on February 5. Five films passed a billion dollars, beating the previous record of four, and Universal released three of them, the first studio to manage that in one year.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Spotlight, produced by Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust",
+      "detail": "Awarded the following February at the 88th Academy Awards, hosted by Chris Rock at the Dolby Theatre in Hollywood. Spotlight took two awards in all, the first Best Picture winner since The Greatest Show on Earth to win only one other. Mad Max: Fury Road won six, the most of the evening, and The Revenant led the field with twelve nominations. The telecast drew 34.42 million viewers in the United States.",
+      "source": "https://en.wikipedia.org/wiki/88th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Leonardo DiCaprio, The Revenant",
+        "Best Actress, Brie Larson, Room",
+        "Best Supporting Actor, Mark Rylance, Bridge of Spies",
+        "Best Supporting Actress, Alicia Vikander, The Danish Girl"
+      ],
+      "detail": "DiCaprio won on his sixth nomination, after five earlier ones spanning two decades. Alejandro G. Inarritu took Best Director for The Revenant, the third person to win it in consecutive years. Ennio Morricone won Best Original Score for The Hateful Eight at 87, which the Academy believed made him the oldest competitive winner in its history, and Emmanuel Lubezki became the first to take Best Cinematography three years running. Sylvester Stallone was nominated for playing Rocky Balboa in Creed, having been nominated for the same role in Rocky.",
+      "source": "https://en.wikipedia.org/wiki/88th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Son of Saul, Hungary, in Hungarian, directed by Laszlo Nemes, the winner",
+        "Embrace of the Serpent, Colombia, in Spanish, directed by Ciro Guerra",
+        "Mustang, France, in Turkish, directed by Deniz Gamze Erguven",
+        "Theeb, Jordan, in Arabic, directed by Naji Abu Nowar",
+        "A War, Denmark, in Danish, directed by Tobias Lindholm"
+      ],
+      "detail": "The film page gives the festival prizes: the Palme d'Or at the 68th Cannes Film Festival to Jacques Audiard's Dheepan, the Golden Lion at the 72nd Venice International Film Festival to Lorenzo Vigas's From Afar, and the Golden Bear at the 65th Berlin International Film Festival to Jafar Panahi's Taxi.",
+      "source": "https://en.wikipedia.org/wiki/88th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$8.43",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. The Force Awakens broke every pre-sale ticket record and took $248 million in North America over its opening weekend, and $529 million worldwide.",
+      "detail": "None of the eleven cached pages describes a disc format, a rental figure or a way to watch a film at home. The film page ranks the year by worldwide gross and says nothing about home viewing at all. The home services the cache does carry are television ones and have their own fact under television.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2015",
+      "value": [
+        "NCIS, CBS, 12.8 rating",
+        "Sunday Night Football, NBC, 12.6",
+        "The Big Bang Theory, CBS, 12.5",
+        "Thursday Night Football, CBS, 10.6",
+        "Empire, FOX, 10.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NCIS: New Orleans was sixth on 9.4, Dancing with the Stars seventh on 8.8, Blue Bloods eighth on 8.4, and The Voice and The X-Files tied ninth on 8.2.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2015%E2%80%9316"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Empire, Fox, January 7",
+        "Better Call Saul, AMC, February 8",
+        "Unbreakable Kimmy Schmidt, Netflix, March 6",
+        "Daredevil, Netflix, April 10",
+        "Mr. Robot, USA Network, June 24",
+        "Fear the Walking Dead, AMC, August 23",
+        "The Late Show with Stephen Colbert, CBS, September 8",
+        "Jessica Jones, Netflix, November 20",
+        "Making a Murderer, Netflix, December 18"
+      ],
+      "detail": "Dates and networks from the television page's debut table.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "Two and a Half Men, February 19, after twelve years",
+        "Mad Men, AMC, May 17, on air since 2007",
+        "Late Show with David Letterman, CBS, May 20, after 22 years",
+        "The Daily Show with Jon Stewart, August 6"
+      ],
+      "detail": "Letterman's last show drew a record audience and Stephen Colbert succeeded him. The Mad Men date and start year come from the television page's ending table; the rest come from the US year page.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "67th Primetime Emmy Awards",
+      "value": "Game of Thrones won Outstanding Drama Series and Veep Outstanding Comedy Series, the first cable series to take the comedy award",
+      "detail": "Held at the Microsoft Theater in Los Angeles and broadcast on Fox with Andy Samberg hosting. Olive Kitteridge won limited series and The Voice reality competition. Transparent brought Amazon its first two Emmys, for Jeffrey Tambor and the director Jill Soloway. Viola Davis became the first African American to win lead actress in a drama, for How to Get Away with Murder, and Jon Hamm won his first for the final season of Mad Men.",
+      "date": "2015-09-20",
+      "source": "https://en.wikipedia.org/wiki/2015_in_American_television"
+    },
+    "tv.streaming_launches": {
+      "section": "tv",
+      "label": "Streaming services",
+      "value": [
+        "Sling TV, shown by Dish Network at the Consumer Electronics Show on January 5, cable channels over the internet from $20",
+        "HBO Now, April 7, no cable subscription required",
+        "Showtime's over-the-top service, July 7, sold through Apple, Roku, PlayStation Vue and Hulu"
+      ],
+      "detail": "HBO Now went live five days before the fifth season of Game of Thrones, and The Verge reported its price as $14.99 a month. HBO signed a five-year deal with Sesame Workshop on August 13 taking first-run Sesame Street off PBS, where it had aired since 1969, with PBS keeping reruns nine months behind.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Uptown Funk, Mark Ronson featuring Bruno Mars",
+      "detail": "Released late the previous year, it spent 14 weeks at number one and the whole year inside the top 40, the joint fifth-longest run at the top in the chart's history. Thinking Out Loud by Ed Sheeran came second and See You Again by Wiz Khalifa featuring Charlie Puth third. Drake had six songs on the list, more than anyone else, and the first five singles from Taylor Swift's 1989 all appear.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2015"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard built the Hot 100 from physical and digital single sales, radio airplay and streaming together, compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on December 9 from data running from December 6, 2014 to November 28. No cached page for the year names a subscription streaming service, so nothing here says which service anyone used.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2015"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "57th Grammy Awards",
+      "value": "Sam Smith won four awards",
+      "detail": "Broadcast on CBS. Kanye West came close to interrupting Beck's acceptance speech for the album award. President Obama recorded a message about domestic violence against women for the ceremony, followed by the advocate Brooke Axtell and Katy Perry singing By the Grace of God. Kristen Wiig joined Maddie Ziegler for Sia's Chandelier. The awards honoured the previous year's recordings.",
+      "date": "2015-02-08",
+      "source": "https://en.wikipedia.org/wiki/2015_in_American_television"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Top Billboard 200 album",
+      "value": "1989, Taylor Swift",
+      "detail": "Named at the Billboard Music Awards, where Swift also took Artist of the Year and Sam Smith New Artist of the Year. All About That Bass was the top Hot 100 song there.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_music"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "The Paul Butterfield Blues Band",
+        "Joan Jett and The Blackhearts",
+        "Green Day",
+        "Lou Reed",
+        "Stevie Ray Vaughan and Double Trouble",
+        "Bill Withers"
+      ],
+      "detail": "The music page gives no ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Mans Zelmerlow won for Sweden with Heroes, at the contest held in Vienna from May 19 to 23",
+      "date": "2015-05-23",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "tech.windows_10": {
+      "section": "tech",
+      "label": "Windows 10",
+      "value": "Microsoft released the desktop operating system",
+      "detail": "The world year page carries the release in a single line and says nothing about the free upgrade, the reception or how many machines took it.",
+      "date": "2015-07-29",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "New Horizons flew past Pluto on July 14, the first spacecraft to visit it",
+        "Dawn entered orbit around Ceres on March 6, the first spacecraft to visit a dwarf planet",
+        "SpaceX landed an uncrewed Falcon 9 upright on December 22, the first reusable rocket to reach orbital space and come back",
+        "NASA announced on September 28 that liquid water flows on Mars"
+      ],
+      "detail": "The science page adds that New Horizons sent back the first colour image of Pluto and its moon Charon on April 14, that NASA reported blue skies and water ice on Pluto on October 8, and that a burn on November 4 aimed the spacecraft at a Kuiper belt object, the most distant trajectory correction ever performed.",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "tech.openai": {
+      "section": "tech",
+      "label": "OpenAI founded",
+      "value": "A non-profit artificial intelligence research company",
+      "detail": "The world year page carries the founding in a single line and gives no funding figure or list of founders.",
+      "date": "2015-12-11",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "tech.internet_rules": {
+      "section": "tech",
+      "label": "FCC net neutrality rules",
+      "value": "The commission ruled in favour of net neutrality by applying common carrier rules to the internet",
+      "detail": "Voted February 26 under Title II of the Communications Act of 1934 and Section 706 of the Telecommunications Act of 1996. The specific rules followed on March 12 and the final rule on April 13. The science page quotes the chairman, Tom Wheeler: this is no more a plan to regulate the Internet than the First Amendment is a plan to regulate free speech.",
+      "date": "2015-02-26",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "tech.gravitational_waves": {
+      "section": "tech",
+      "label": "Gravitational waves detected",
+      "value": "LIGO made the first observation of gravitational waves",
+      "detail": "The year page dates the detection to September 14 and says it was not announced publicly until the following February.",
+      "date": "2015-09-14",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Bloodborne, Sony Computer Entertainment, March 24, on the PlayStation 4",
+        "The Witcher 3: Wild Hunt, CD Projekt, May 19",
+        "Metal Gear Solid V: The Phantom Pain, Konami, September 1",
+        "Undertale, Toby Fox, September 15"
+      ],
+      "detail": "Dates from the games page's table of titles scoring at least 90 on Metacritic. SuperData put worldwide game sales at $61 billion, up 8 percent, of which $32 billion was computer games and subscriptions, $25.1 billion mobile and $4 billion console downloads. The Witcher 3 took Game of the Year at the 33rd Golden Joystick Awards on October 30 and at The Game Awards on December 3. Retail best sellers were Call of Duty: Black Ops III in the United States, FIFA 16 in the United Kingdom and Monster Hunter X in Japan, with Grand Theft Auto V top on Steam. The page lists Bloodborne, Rocket League, Splatoon, Undertale, Until Dawn, Life Is Strange, Evolve, Dying Light and Ori and the Blind Forest as the year's new properties. The New Nintendo 3DS XL reached North America on February 13.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.45 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "5 percent in October",
+      "detail": "The US year page says that was the lowest since April 2008 and the same rate as when the recession began in December 2007. It carries no other unemployment figure for the year.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "prices.art_auction": {
+      "section": "prices",
+      "label": "Record auction prices",
+      "value": "Picasso's Version O of Les Femmes d'Alger sold for $179.3 million and Giacometti's sculpture L'Homme au doigt for $141.3 million",
+      "detail": "Both at Christie's in New York, and the year page calls each a world record for its medium.",
+      "date": "2015-05-11",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A summer spent arguing about a flag on a statehouse lawn and a court ruling on who may marry, then a December spent counting the dead in San Bernardino and listening to a presidential candidate propose barring Muslims from the country."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Svetlana Alexievich",
+        "Peace, Tunisian National Dialogue Quartet",
+        "Physics, Takaaki Kajita and Arthur B. McDonald",
+        "Chemistry, Tomas Lindahl, Paul L. Modrich and Aziz Sancar",
+        "Medicine, William C. Campbell, Satoshi Omura and Tu Youyou",
+        "Economics, Angus Deaton"
+      ],
+      "detail": "The year page gives no dates except the peace prize announcement of October 9.",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "Words first recorded this year",
+      "value": [
+        "aphantasia",
+        "aquafaba",
+        "cloud kitchen",
+        "ghost kitchen",
+        "red flag law",
+        "extreme risk protection order"
+      ],
+      "detail": "The year page takes the list from the Merriam-Webster Time Traveler.",
+      "source": "https://en.wikipedia.org/wiki/2015"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLIX",
+      "value": "New England Patriots 28, Seattle Seahawks 24, at University of Phoenix Stadium in front of 70,288",
+      "detail": "Tom Brady was named most valuable player. The US year page dates the game to February 1 and says it was played amid accusations that the Patriots had cheated.",
+      "date": "2015-02-01",
+      "source": "https://en.wikipedia.org/wiki/2015_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Kansas City Royals beat the New York Mets four games to one, a first title in 30 years",
+      "detail": "The sports page dates the series October 27 to November 1 and names Salvador Perez most valuable player. The US year page dates the clinching game to November 1.",
+      "date": "2015-11-01",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Golden State Warriors over the Cleveland Cavaliers in six games, a first title in 40 years, with Andre Iguodala named most valuable player",
+        "Stanley Cup, Chicago Blackhawks over the Tampa Bay Lightning in six games, a sixth cup and a third in six seasons, with Duncan Keith taking the Conn Smythe Trophy",
+        "Cricket World Cup, Australia beat New Zealand in the final on March 29, at a tournament the two countries co-hosted from February 14",
+        "Rugby World Cup, New Zealand beat Australia in the final, at a tournament held in England from September 18 to October 31"
+      ],
+      "detail": "Stephen Curry was the regular season's most valuable player and Golden State its top seed. The US year page dates the Blackhawks' clinching game to June 15 and the Warriors' to June 16, and the sports page supplies the two playoff awards.",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "sports.womens_world_cup": {
+      "section": "sports",
+      "label": "FIFA Women's World Cup",
+      "value": "The United States beat Japan 5 to 2 in the final, the first country to win the competition three times",
+      "detail": "The US year page calls it the highest-scoring game in the competition's history. The television page places the final in Vancouver.",
+      "date": "2015-07-05",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "sports.triple_crown": {
+      "section": "sports",
+      "label": "Triple Crown",
+      "value": "American Pharoah, ridden by Victor Espinoza, became the first horse in 37 years to win it",
+      "detail": "He took the 141st Kentucky Derby at Churchill Downs on May 2 in front of a record crowd and the Belmont Stakes at Belmont Park on June 6.",
+      "date": "2015-06-06",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "deaths.nimoy": {
+      "section": "deaths",
+      "label": "Leonard Nimoy",
+      "value": "Died February 27, aged 83",
+      "detail": "American actor and director. The film page names Star Trek and Invasion of the Body Snatchers.",
+      "date": "2015-02-27",
+      "source": "https://en.wikipedia.org/wiki/2015_in_film"
+    },
+    "deaths.lee": {
+      "section": "deaths",
+      "label": "Christopher Lee",
+      "value": "Died June 7, aged 93",
+      "detail": "British actor. The film page names Dracula and The Lord of the Rings.",
+      "date": "2015-06-07",
+      "source": "https://en.wikipedia.org/wiki/2015_in_film"
+    },
+    "deaths.sharif": {
+      "section": "deaths",
+      "label": "Omar Sharif",
+      "value": "Died July 10, aged 83",
+      "detail": "Egyptian actor. The film page names Lawrence of Arabia and Doctor Zhivago.",
+      "date": "2015-07-10",
+      "source": "https://en.wikipedia.org/wiki/2015_in_film"
+    },
+    "deaths.bb_king": {
+      "section": "deaths",
+      "label": "B.B. King",
+      "value": "Died May 14. Born 1925",
+      "detail": "Blues musician. The music page gives his age as 89.",
+      "date": "2015-05-14",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "deaths.berra": {
+      "section": "deaths",
+      "label": "Yogi Berra",
+      "value": "Died September 22. Born 1925",
+      "detail": "Baseball player, coach and manager.",
+      "date": "2015-09-22",
+      "source": "https://en.wikipedia.org/wiki/2015_in_the_United_States"
+    },
+    "deaths.lemmy": {
+      "section": "deaths",
+      "label": "Lemmy Kilmister",
+      "value": "Died December 28, aged 70",
+      "detail": "English musician, singer and songwriter, of Motorhead, Hawkwind and The Rockin' Vickers.",
+      "date": "2015-12-28",
+      "source": "https://en.wikipedia.org/wiki/2015_in_music"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the eleven cached wikitext pages under .sources/2015. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, and the sentence above the table says the top ten films released in 2015 by worldwide gross, citing Box Office Mojo, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Star Wars: The Force Awakens opened in American cinemas on December 18 per the US year page, so its $2,068,223,624 is a lifetime worldwide total that carried on accruing after the year ended rather than a figure earned inside it; the film page's own record of the domestic gross passing $800 million on January 9 and $900 million on February 5 is what shows this, and both dates are written without a year because both fall in the following year. Source disagreements labelled rather than resolved. The Paris attacks of November 13 are given three different tolls by the cache: the world year page's dated entry says 130 killed, the same page's own summary says 137 including 90 at the Bataclan, and the television page says 129 including 112 at the Bataclan. world.paris_attacks states all three and takes none as correct. The Mina stampede is at least 2,200 in the year page's dated entry and at least 2,400 in its summary, and is left out of the facts entirely rather than stated at one figure; it is not in the texture either. The Nepal earthquake entry gives 8,857 deaths in Nepal and 9,018 in total in the same sentence, and world.nepal_earthquake carries both as the page writes them. Date checks. No US federal election or inauguration falls this year. November 13 was a Friday and November 1 a Sunday, which is consistent with the Paris attacks and the World Series clincher as the pages date them, and February 1 was a Sunday for Super Bowl XLIX. No cached page disagreed with another on a date, so no dedicated article was pulled. Nothing in this file reaches into the following year. The 88th Academy Awards ceremony date, its nomination announcement, the diversity row around it, the Golden Globes, the Critics' Choice and BAFTA ceremonies, the D.I.C.E. and Game Developers Choice and British Academy Games Awards, the public announcement of the LIGO detection, and the whole presidential primary campaign are all out for that reason. film.best_picture says the following February rather than a date, and tech.gravitational_waves says the following February for the announcement, both the corpus convention. The IOC decision of July 31 is written as Beijing hosting the Winter Games, with no edition named, per the host-city convention. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Dropped for lack of a source. Apple Music launched this year and appears in none of the eleven cached pages, as do Spotify, Tidal, vinyl sales and any album or single sales figure, which is why music.listening_format claims only what the Billboard page says about how the Hot 100 was compiled and says so in its own detail rather than filling the gap.  in the year. The Apple Watch, Tesla, self-driving cars and any smartphone release appear nowhere in the cache, so there is no device fact. No cached page ranks or counts websites and none describes a meme or a piece of internet slang, so tech.web_sites, tech.social and culture.memes are all open and all empty; culture.slang carries the year page's Merriam-Webster list instead. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. checkname.mjs was run on Metrojet Flight 9268, Germanwings Flight 9525, Resolution 2199, Windows 10, FIFA 16, NBA 2K16, Taylor Swift's 1989, the New Nintendo 3DS and COP 21 and reported every one safe, either because the number is above 2099, below four digits, or earlier than 2015. Nothing in the sources carried a title reaching past the page year, so there is nothing to report for the allowlist. Diacritics are written in ASCII per the corpus convention, so Alejandro G. Inarritu, Laszlo Nemes, Deniz Gamze Erguven, Mans Zelmerlow, Satoshi Omura, Salvador Perez and Motorhead lose theirs. Deaths carry an age where the film or music page gives one and a birth year where the US year page gives only that. There is no cached deaths page for the year: the manifest records Deaths_in_2015 as a redirect to a list of lists, so every death here comes from the US year page, the film page or the music page. Dropped for room. Politics and world: the Cuba embassy reopening of July 20, the Volkswagen recall order of September 18, the FIFA indictments of May 27 and Sepp Blatter's resignation announcement of June 2, the Ashley Madison breach, the Baltimore protests, the deaths of Walter Scott, Freddie Gray and Sandra Bland, the University of Missouri resignation, Rachel Dolezal, the Tianjin explosions, Metrojet Flight 9268, the Colectiv fire and Victor Ponta's resignation, Queen Elizabeth II passing Victoria's record, the IOC award to Beijing, Lithuania joining the euro and the Swiss franc cap are all in the texture instead of facts; the Baga massacres of January 3 to 7, the Kolofata raid, the Garissa University College attack of April 2 that killed 148, the Saudi-led intervention in Yemen from March 25, the destruction of Nimrud and Hatra in March, the capture of Palmyra on May 21, the Germanwings crash of March 24 that killed 150, the Copenhagen shootings, the Sousse and Kuwait attacks of June 26, the Ankara bombings of October 10, the Beirut bombings of November 12, the Bangkok shrine bombing of August 17, the Kunduz hospital airstrike of October 3, the Hindu Kush and Coquimbo earthquakes, Hurricane Patricia of October 23, the Mariana tailings dam collapse of November 5, the Turkish shootdown of a Russian jet on November 24, the Minsk agreement of February 12, the Malaysia Airlines Flight 370 debris found on Reunion, the Xi and Ma meeting of November 7, the Polish elections, Malcolm Turnbull replacing Tony Abbott, the Trans-Pacific Partnership, the USA Freedom Act of June 2, the Charleston and Chattanooga and Roseburg and Colorado Springs shootings other than the two carried here, the Amtrak derailment of May 12, the Texas and Oklahoma floods, the Clinton Correctional Facility escape, Jimmy Carter's cancer announcement, the Jared Fogle case, the Martin Shkreli arrest of December 17, the pope's American visit of September 22 to 27, and Kim Davis; the state minimum wage rises of January 1 in Arkansas, Connecticut, Florida, Ohio and Maryland were left out of prices.unemployment rather than parked in the detail of a fact they do not elaborate, and prices.min_wage is a scaffolded series fact that was not edited. Television and film: the 87th Academy Awards of February 22, at which Birdman won Best Picture, left out on the same ground as other years because it honoured the previous year of film and would put a second Best Picture on the page; the Brian Williams suspension of February 10; the Sharknado broadcast; the Pacific Data Images shutdown of January 22; the Amblin Partners launch of December 16. Music: the MTV Video Music Awards of August 30, the MTV Europe Music Awards, the Mnet Asian Music Awards, the Japan Record Awards, and the deaths of Scott Weiland on December 3, Natalie Cole on December 31, Ben E. King, Percy Sledge, Ornette Coleman, Cilla Black and Clark Terry. Film deaths that would have earned a place with more room: Wes Craven on August 30 aged 76, Maureen O'Hara on October 24 aged 95, Rod Taylor on January 7, Anita Ekberg on January 11, James Horner on June 22, Setsuko Hara on September 5 and Chantal Akerman on October 5. Other deaths: Mario Cuomo on January 1, Edward Brooke, Ernie Banks on January 24, Charles Hard Townes, Dean Smith, Bob Simon, Earl Lloyd, Michael Graves on March 12, Chuck Bednarik, Stan Freberg, Sarah Brady, A. Alfred Taubman, Beau Biden on May 30 and Dave Goldberg. This file runs 55 facts across 10 sections: politics 7, world 7, film 6, tv 5, music 6, tech 6, prices 4, culture 3, sports 5, deaths 6. No radio fact, because the radio window closed after 1959. Review pass added world.migrant_crisis. The eleven cached pages carry the European migrant crisis nowhere, and this file originally said so and left it out, which was correct under the brief as it stood but left a hole a reader would notice. The fact now cites the event's own article and says in its detail that the cache did not carry it. The brief has since been widened to allow a dedicated-article pull whenever the cache lacks a fact the year obviously needs, rather than for date checking alone."
+}

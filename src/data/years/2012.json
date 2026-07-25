@@ -1,0 +1,491 @@
+{
+  "year": 2012,
+  "tier": "modern",
+  "headline": "CERN found the Higgs boson in July, Curiosity landed on Mars in August, and Obama won a second term",
+  "texture": [
+    "Rick Santorum took the Iowa caucus on January 3 by 34 votes, which the US year page calls a record low margin, and Michele Bachmann quit the race the next day. Jon Huntsman went on January 16 and Rick Perry on January 19. Ten states voted on Super Tuesday, March 6, and Romney did not secure the nomination until May. The candidates met at the University of Denver on October 3, Hofstra on October 16 and Lynn University in Boca Raton on October 22, with Martha Raddatz running the Biden and Ryan debate at Centre College on October 11.",
+    "Kodak filed for bankruptcy protection on January 19. The English Wikipedia went dark for 24 hours on January 18 in protest at the Stop Online Piracy Act, and the Encyclopaedia Britannica discontinued its print edition on March 13. Newsweek said on October 18 that it would stop printing on December 31 and publish online only. Hostess Brands announced on November 16 that it would liquidate, laying off 18,500 people, and blamed a bakers' union strike for crippling its operations.",
+    "A leap second stretched the last minute of June to 23:59:60. Lonesome George, the last known Pinta Island tortoise, died in Galapagos National Park on June 24 and took the subspecies with him. A pastel version of The Scream sold at a New York auction on May 2 for $120 million, a record for any work of art at auction. Tokyo Skytree opened on May 22, 634 metres tall and the tallest self-supporting tower anywhere. Felix Baumgartner jumped from a helium balloon 128,000 feet over Roswell on October 14 and broke the sound barrier with no aircraft under him."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "event.hurricane_sandy",
+    "film.gross#0",
+    "tech.higgs",
+    "sports.olympics",
+    "deaths.armstrong",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D)",
+      "detail": "Fourth year of his first term, with Joe Biden as vice president and John Roberts as Chief Justice. John Boehner (R) was Speaker of the House and Harry Reid (D) Senate majority leader, in the 112th Congress. Obama delivered his State of the Union address on January 24.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Barack Obama (D) and Joe Biden beat Mitt Romney (R) and Paul Ryan by 332 electoral votes to 206, with 65,915,795 popular votes to 60,933,504",
+      "detail": "Held on the Tuesday after the first Monday in November. November 1 was a Thursday, so the first Monday fell on November 5 and the Tuesday after it on November 6, which is the date both cached year pages and the election's own article give, so there is no disagreement to name. Obama took 51.1 percent of the vote against 47.2, and turnout was 58.6 percent of the voting-eligible population. He carried all eighteen states the article calls the blue wall, plus Colorado, Florida, Nevada, Ohio and Virginia, which Republicans had won in 2000 and 2004. Romney flipped Indiana, North Carolina and Nebraska's second congressional district. The US year page adds that Democrats held their Senate majority and Republicans their House majority.",
+      "date": "2012-11-06",
+      "source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election"
+    },
+    "pol.aca_ruling": {
+      "section": "politics",
+      "label": "National Federation of Independent Business v. Sebelius",
+      "value": "The Supreme Court upheld the Patient Protection and Affordable Care Act by 5 votes to 4, as constitutional under the taxing and spending clause",
+      "detail": "The Court had heard three days of argument from March 26 to 28, with 26 states arguing against the law. The US year page calls those three days historic.",
+      "date": "2012-06-28",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "pol.same_sex_marriage": {
+      "section": "politics",
+      "label": "Same-sex marriage",
+      "value": "Obama became the first sitting US president to say he supported it, on May 9",
+      "detail": "Governor Chris Gregoire signed a bill in Washington on February 13, making it the seventh state to legalise it, and a federal appeals court upheld the striking down of California's ban on February 7. On November 6 Maine became the first state to legalise it by referendum, Maryland and Washington did the same, and Minnesota rejected a constitutional ban.",
+      "date": "2012-05-09",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "pol.marijuana": {
+      "section": "politics",
+      "label": "Recreational marijuana legalised",
+      "value": "Washington and Colorado voted for it on November 6, the first states to do so",
+      "detail": "Washington Initiative 502 took effect on December 6, which the world year page calls the first jurisdiction in the modern world to legalise possession for personal use. Colorado Amendment 64 took effect on December 10.",
+      "date": "2012-11-06",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "event.hurricane_sandy": {
+      "section": "world",
+      "label": "Hurricane Sandy",
+      "value": "The largest Atlantic hurricane on record by diameter, with tropical-storm-force winds spanning 900 miles",
+      "detail": "Ran from October 22 to November 2. The world year page's dated entry gives 233 deaths and $68.7 billion in damage while its own collage caption says 254 killed, so both figures come from the same page. The US year page puts the storm surge on the eastern seaboard on October 29, with record flooding at Atlantic City and Seaside Heights, almost 50 dead across New Jersey and New York, 18 of them in New York City, more than 8 million customers without electricity, and subways and tunnels flooded for days.",
+      "date": "2012-10-29",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "event.sandy_hook": {
+      "section": "world",
+      "label": "Sandy Hook Elementary School shooting",
+      "value": "Adam Lanza killed twenty children aged six and seven and six adults at the school in Newtown, Connecticut, having killed his mother at home first",
+      "detail": "December 14. He killed himself at the scene. The world year page calls it the deadliest school shooting at a K-12 school in United States history, and the US year page calls it the second deadliest school shooting of any kind after the Virginia Tech attack of 2007.",
+      "date": "2012-12-14",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "event.aurora": {
+      "section": "world",
+      "label": "Aurora theater shooting",
+      "value": "James Holmes opened fire during a screening of The Dark Knight Rises at a cinema in Aurora, Colorado, killing 12",
+      "detail": "The world year page counts 58 injured and the US year page 70. He was found behind the theatre claiming to be the Joker.",
+      "date": "2012-07-20",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "event.benghazi": {
+      "section": "world",
+      "label": "Attacks on US diplomatic missions",
+      "value": "The US ambassador J. Christopher Stevens was among those killed at Benghazi, Libya, in a wave of attacks running from September 11 to 27",
+      "detail": "German, Swiss and British missions were attacked too. The world year page says American opinion divided over whether the attacks answered a YouTube trailer for the film Innocence of Muslims.",
+      "date": "2012-09-11",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "event.egypt_morsi": {
+      "section": "world",
+      "label": "Mohamed Morsi elected president of Egypt",
+      "value": "The Muslim Brotherhood member became the fifth president and the first chosen democratically by Egyptian voters",
+      "detail": "June 30. Protests outside the presidential palace from December 4 to 6 against his constitutional declaration, which gave him influence over the judiciary, turned violent when his supporters clashed with his opponents, killing at least 10.",
+      "date": "2012-06-30",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "event.xi_jinping": {
+      "section": "world",
+      "label": "Xi Jinping takes over in China",
+      "value": "He succeeded Hu Jintao as General Secretary of the Chinese Communist Party after the party's 18th National Congress",
+      "detail": "November 15. Bo Xilai, the party chief of Chongqing, had been removed on March 15 over the murder of the British businessman Neil Heywood and an incident involving the Chongqing police chief Wang Lijun.",
+      "date": "2012-11-15",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "The Avengers, $1,518,812,988, Disney",
+        "Skyfall, $1,108,561,013, Sony and MGM",
+        "The Dark Knight Rises, $1,081,041,287, Warner Bros.",
+        "The Hobbit: An Unexpected Journey, $1,017,003,568, Warner Bros. and MGM",
+        "Ice Age: Continental Drift, $877,244,782, 20th Century Fox"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says. The page calls this the first year with four films past a billion dollars, against three the year before. The Hunger Games, ninth on $694,394,724, was the first film of the year past half a billion worldwide and the first since Avatar to hold the top place at the US box office for four consecutive weekends. Skyfall became the first film to take more than a hundred million pounds in the United Kingdom, finishing on 102.9 million. Two reissues in 3-D passed milestones, The Phantom Menace reaching $1.027 billion and Titanic $2.187 billion.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Argo, produced by Grant Heslov, Ben Affleck and George Clooney",
+      "detail": "Awarded the following February at the 85th Academy Awards, held at the Dolby Theatre in Hollywood and hosted by Seth MacFarlane. Argo won three awards and was the fourth film to take Best Picture with no directing nomination, after Wings, Grand Hotel and Driving Miss Daisy. Life of Pi won four, more than any other film, and Ang Lee took Best Director for it. Lincoln led the field with twelve nominations. The telecast drew more than 40 million viewers in the United States.",
+      "source": "https://en.wikipedia.org/wiki/85th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Daniel Day-Lewis, Lincoln",
+        "Best Actress, Jennifer Lawrence, Silver Linings Playbook",
+        "Best Supporting Actor, Christoph Waltz, Django Unchained",
+        "Best Supporting Actress, Anne Hathaway, Les Miserables"
+      ],
+      "detail": "Day-Lewis became the first three-time winner of Best Actor. Lawrence, at 22, was the second youngest winner of Best Actress, and Quvenzhane Wallis, at nine, the youngest nominee in the category. All five Best Supporting Actor nominees had won an Oscar before, which the Academy's own page says had never happened. Adele shared Best Original Song for Skyfall, the first Bond song to win it, and Quentin Tarantino took Best Original Screenplay for Django Unchained.",
+      "source": "https://en.wikipedia.org/wiki/85th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Amour, Austria, in French, directed by Michael Haneke, the winner",
+        "Kon-Tiki, Norway, in English and Norwegian, directed by Joachim Ronning and Espen Sandberg",
+        "No, Chile, in Spanish, directed by Pablo Larrain",
+        "A Royal Affair, Denmark, in Danish, directed by Nikolaj Arcel",
+        "War Witch, Canada, in French, directed by Kim Nguyen"
+      ],
+      "detail": "Amour was the fourth film nominated for Best Picture and Best Foreign Language Film in the same year. The film page also gives it the Palme d'Or at the 65th Cannes Film Festival, puts the Golden Lion at the 69th Venice International Film Festival with Kim Ki-duk's Pieta, and the Golden Bear at the 62nd Berlin International Film Festival with Caesar Must Die.",
+      "source": "https://en.wikipedia.org/wiki/85th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Dr. Seuss' The Lorax, March 2",
+        "John Carter, March 20",
+        "The Avengers, May 4, directed by Joss Whedon",
+        "Brave, June 22, Pixar's thirteenth feature film",
+        "Wreck-It Ralph, November 2, Walt Disney Animation Studios' 52nd feature film"
+      ],
+      "detail": "The US year page dates all five. It says John Carter recorded one of the biggest losses in cinema history, forcing Disney into a $200 million writedown and the resignation of its studio chairman Rich Ross, and that The Avengers was the last film of Marvel's Phase One and the first in the series distributed by Walt Disney Studios Motion Pictures.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$7.96",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. The only route into a living room that the eleven cached pages describe is an Epix deal putting Paramount, Metro-Goldwyn-Mayer and Lionsgate films on Amazon Video 90 days after their pay cable premiere",
+      "detail": "Announced September 4. Netflix kept its rights to the same Epix catalogue under a five-year deal that began in 2010, but no longer exclusively. Nothing in the cache gives a disc format, a rental figure or a cinema admission count, so this fact claims nothing further about home viewing.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_American_television"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2012",
+      "value": [
+        "NCIS, CBS, 13.5 rating",
+        "Sunday Night Football, NBC, 12.4",
+        "The Big Bang Theory, CBS, 11.6",
+        "NCIS: Los Angeles, CBS, 11.0",
+        "Person of Interest, CBS, 10.0"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this ranking covers the season that opened in the autumn and ran into the following spring. Dancing with the Stars was sixth on 9.9, its results show tied for seventh with the Wednesday American Idol on 9.2, the Thursday Idol was ninth on 8.9, and Two and a Half Men tied with The Voice for tenth on 8.7.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2012%E2%80%9313"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Scandal, ABC, April 5",
+        "Girls, HBO, April 15",
+        "Veep, HBO, April 22",
+        "The Newsroom, HBO, June 24",
+        "Copper, BBC America, August 19",
+        "Revolution, NBC, September 17",
+        "Elementary, CBS, September 27",
+        "Nashville, ABC, October 10",
+        "Arrow, The CW, October 10"
+      ],
+      "detail": "The television page's debut table gives each date and network. The same page says there were notably fewer pilots than in the years just before, because of the economic slowdown, which cut the number of roles available to actors, and that the autumn brought a crop of new daytime talk shows hosted by Katie Couric, Steve Harvey, Jeff Probst and Ricki Lake.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_American_television"
+    },
+    "tv.olympic_audience": {
+      "section": "tv",
+      "label": "Olympic opening ceremony audience",
+      "value": "40.7 million US viewers watched the London opening on NBC, a record stateside audience for an Olympic opening ceremony",
+      "detail": "It beat the 39.7 million mark set at the Atlanta Games in 1996. NBC carried the Games through August 12 on the main network and on NBC Sports Network, Bravo, USA Network, Telemundo, MSNBC and CNBC.",
+      "date": "2012-07-27",
+      "source": "https://en.wikipedia.org/wiki/2012_in_American_television"
+    },
+    "tv.netflix_original": {
+      "section": "tv",
+      "label": "Netflix's first original series",
+      "value": "Lilyhammer, released February 6",
+      "detail": "The television page files it as the video distributor's original programming debut, a comedy-drama.",
+      "date": "2012-02-06",
+      "source": "https://en.wikipedia.org/wiki/2012_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Somebody That I Used to Know, Gotye featuring Kimbra",
+      "detail": "It held the top of the Hot 100 for eight consecutive weeks. Call Me Maybe by Carly Rae Jepsen came second and We Are Young by Fun featuring Janelle Monae third. Billboard published the list on December 14, calculated from Nielsen Broadcast Data Systems and SoundScan figures running from December 3, 2011 to November 24.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2012"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The music page opens by calling this the peak year for music download sales in the United States",
+      "detail": "Its only support for that is a link to the RIAA sales database, and the rest of the same sentence is a claim about later years that is left out here. No cached page carries a streaming subscriber count, a disc sales figure or a radio format for the year.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "54th Grammy Awards",
+      "value": "Adele won six awards",
+      "detail": "Broadcast by CBS on February 12 to 39 million viewers, the biggest Grammy audience since 1984. Whitney Houston had died the previous day and the ceremony was given over in part to remembrances of her. The awards honoured the previous year's recordings, so the winners are not this year's releases.",
+      "date": "2012-02-12",
+      "source": "https://en.wikipedia.org/wiki/2012_in_American_television"
+    },
+    "music.gangnam_style": {
+      "section": "music",
+      "label": "Gangnam Style",
+      "value": "The South Korean rapper Psy released the single on July 15",
+      "detail": "Its video became the first on YouTube to reach a billion views, on December 21. The world year page's collage caption calls the song a cultural phenomenon of the year.",
+      "date": "2012-07-15",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "tech.higgs": {
+      "section": "tech",
+      "label": "Higgs boson",
+      "value": "CERN physicists announced a particle consistent with the Standard Model's Higgs boson, from experiments at the Large Hadron Collider",
+      "detail": "July 4. The science page puts the result at five sigma, which it explains as one chance in 3.5 million of arising by chance, and records a separate report of indirect evidence the day before.",
+      "date": "2012-07-04",
+      "source": "https://en.wikipedia.org/wiki/2012_in_science"
+    },
+    "tech.curiosity": {
+      "section": "tech",
+      "label": "Curiosity lands on Mars",
+      "value": "NASA's Mars Science Laboratory put the largest Mars rover yet built down in Gale Crater",
+      "detail": "August 6. NASA named the landing site Bradbury Landing on August 22 after Ray Bradbury. The rover reported evidence of ancient flowing water in late September, ran the first X-ray diffraction analysis of Martian soil at the Rocknest site in October, and reported water molecules, sulfur and chlorine in the soil on December 3.",
+      "date": "2012-08-06",
+      "source": "https://en.wikipedia.org/wiki/2012_in_science"
+    },
+    "tech.dragon": {
+      "section": "tech",
+      "label": "First commercial spacecraft at the space station",
+      "value": "SpaceX's uncrewed Dragon rendezvoused with the International Space Station on May 25 and splashed down on May 31",
+      "detail": "Its first operational resupply flight launched on October 7, docked on October 10 and landed in the Pacific after more than two weeks attached. The science page counts 72 successful orbital spaceflights in the year.",
+      "date": "2012-05-25",
+      "source": "https://en.wikipedia.org/wiki/2012_in_science"
+    },
+    "tech.voyager": {
+      "section": "tech",
+      "label": "Voyager 1 leaves the Solar System",
+      "value": "The probe crossed the heliopause into interstellar space, the first human-made object to do so",
+      "detail": "Both cached year pages date the crossing to August 25. The science page's own citation for it is a NASA release published a year afterwards, and the same page had reported in June only that the probe might be close.",
+      "date": "2012-08-25",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "tech.windows_8": {
+      "section": "tech",
+      "label": "Windows 8",
+      "value": "Microsoft finished development on August 1 and released it to the public on October 26",
+      "detail": "Windows 7 passed Windows XP in global market share on September 4.",
+      "date": "2012-10-26",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "tech.self_driving": {
+      "section": "tech",
+      "label": "First US licences for self-driving cars",
+      "value": "Nevada granted them to Google",
+      "detail": "The US year page dates it to May 7, citing the Las Vegas Sun.",
+      "date": "2012-05-07",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Mass Effect 3, Electronic Arts, March 6",
+        "Journey, Sony Computer Entertainment, March 13",
+        "Borderlands 2, 2K, September 18",
+        "XCOM: Enemy Unknown, 2K, October 8",
+        "Dishonored, Bethesda Softworks, October 9",
+        "Call of Duty: Black Ops II, Activision, November 13",
+        "The Walking Dead, Telltale Games, final episode November 21",
+        "Far Cry 3, Ubisoft, December 4"
+      ],
+      "detail": "Black Ops II led worldwide revenue at $1,000,000,000, level with the free-to-play Crossfire, and Activision's press release put that billion at 15 days from release. World of Warcraft was third on $986,000,000, with Minecraft ninth on $237,000,000 and League of Legends tenth on $200,000,000. The Walking Dead took Game of the Year at the Spike video game awards on December 7, while the 30th Golden Joystick Awards on October 26 gave theirs to the previous year's The Elder Scrolls V: Skyrim. On hardware, the PlayStation Vita reached North America on February 15 and Europe on February 22, the Nintendo 3DS XL followed in July and August, and the Wii U opened the eighth generation of home consoles in North America on November 18.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.64 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.state_min_wage": {
+      "section": "prices",
+      "label": "State minimum wages rose",
+      "value": "Arizona, Oregon, Washington, Montana, Colorado, Ohio, Vermont and Florida all raised theirs on January 1",
+      "detail": "San Francisco raised its own above $10 an hour, which the US year page calls the highest minimum wage in the country.",
+      "date": "2012-01-01",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "prices.stock_market": {
+      "section": "prices",
+      "label": "Dow Jones Industrial Average",
+      "value": "Went above 13,000 points on February 21, the first time since May 2008",
+      "detail": "S&P Dow Jones Indices announced on September 14 that UnitedHealth Group would replace Kraft Foods among the index's constituents.",
+      "date": "2012-02-21",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "An election year that argued mostly about health insurance and the deficit was punctuated by a cinema shooting in July and a primary school shooting in December. Between them a hurricane put the Manhattan subway under water. The Mayan calendar ran out just before Christmas and people held parties at Chichen Itza anyway."
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "New words",
+      "value": [
+        "hot take",
+        "escape room"
+      ],
+      "detail": "The world year page lists both as new English words for the year and gives nothing else about either.",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "culture.memes": {
+      "section": "culture",
+      "label": "Kony 2012",
+      "value": "A campaigning documentary about the conflict in Uganda went up on YouTube on March 5 and spread fast",
+      "detail": "The world year page files it as a viral documentary film, and the reports it cites were already calling the campaign a huge online success two days after the upload.",
+      "date": "2012-03-05",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Mo Yan",
+        "Peace, the European Union",
+        "Physics, Serge Haroche and David J. Wineland",
+        "Chemistry, Robert Lefkowitz and Brian Kobilka",
+        "Medicine, John B. Gurdon and Shinya Yamanaka",
+        "Economics, Alvin E. Roth and Lloyd Shapley"
+      ],
+      "detail": "The world year page gives no dates and credits the peace award to six decades of work on reconciliation in Europe. The US year page dates the physics announcement to October 9 and the chemistry announcement to October 10.",
+      "source": "https://en.wikipedia.org/wiki/2012"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLVI",
+      "value": "New York Giants 21, New England Patriots 17, at Lucas Oil Stadium in Indianapolis in front of 68,658",
+      "detail": "Eli Manning was named most valuable player. The US year page calls it the most watched program in the history of United States television, at 111.3 million viewers by Nielsen's count, and the television page says it was the third straight year the game set that record. Madonna headlined the halftime show, and NBC and the league both complained after the guest singer M.I.A. made an obscene gesture the censors missed.",
+      "date": "2012-02-05",
+      "source": "https://en.wikipedia.org/wiki/2012_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "San Francisco Giants swept the Detroit Tigers, four games to none",
+      "detail": "Played October 24 to 28. The Giants' third baseman Pablo Sandoval was named most valuable player, and it was the club's second title in three years.",
+      "date": "2012-10-28",
+      "source": "https://en.wikipedia.org/wiki/2012_in_sports"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in London from July 27 to August 12",
+      "detail": "The sports page records the United States taking the most gold medals, and the US year page counts 46 gold, 29 silver and 29 bronze, a tally that page marks as needing a citation. Michael Phelps won a record nineteenth Olympic medal on July 31 in the 4 by 200 metres freestyle relay and finished on 22 in all, 18 of them gold, passing Larisa Latynina as the most decorated Olympian. The Summer Paralympics followed in London from August 29 to September 9.",
+      "date": "2012-07-27",
+      "source": "https://en.wikipedia.org/wiki/2012_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Miami Heat over the Oklahoma City Thunder four games to one, with LeBron James named most valuable player",
+        "Stanley Cup, Los Angeles Kings over the New Jersey Devils, clinched 6 to 1 in game six for a first cup, with Jonathan Quick taking the Conn Smythe Trophy",
+        "NCAA men's basketball, Kentucky 67, Kansas 59, an eighth title, at the Superdome in New Orleans",
+        "NCAA women's basketball, Baylor 80, Notre Dame 61, finishing 40 and 0, the first team of either sex to win 40 games in a season",
+        "UEFA European Championship, Spain 4, Italy 0, in Kyiv, a third Euro title and a third consecutive major tournament",
+        "UEFA Champions League, Chelsea beat Bayern Munich 4 to 3 on penalties after a 1 to 1 draw in Munich",
+        "FIFA Club World Cup, Corinthians 1, Chelsea 0, in Japan",
+        "Africa Cup of Nations, Zambia over Ivory Coast, a first title, the final in Libreville",
+        "WNBA Finals, Indiana Fever over the Minnesota Lynx three games to one"
+      ],
+      "detail": "Arizona beat South Carolina in the College World Series for a first title since 1986. Alabama had beaten Louisiana State 21 to 0 in the BCS championship game on January 9, for the previous college football season.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Novak Djokovic over Rafael Nadal in five sets, and Victoria Azarenka over Maria Sharapova 6-3, 6-0",
+        "French Open, Nadal over Djokovic in four sets, and Sharapova over Sara Errani 6-3, 6-2",
+        "Wimbledon, Roger Federer over Andy Murray in four sets, and Serena Williams over Agnieszka Radwanska in three",
+        "US Open, Murray over Djokovic in five sets, and Serena Williams over Azarenka in three"
+      ],
+      "detail": "Serena Williams beat Sharapova at the WTA Tour Championships in Istanbul in late October, and Djokovic beat Federer at the ATP World Tour Finals in London in November. The Czech Republic won both the Davis Cup and the Fed Cup, beating Spain and Serbia in the finals.",
+      "source": "https://en.wikipedia.org/wiki/2012_in_sports"
+    },
+    "deaths.houston": {
+      "section": "deaths",
+      "label": "Whitney Houston",
+      "value": "Died February 11, aged 48",
+      "detail": "Singer, actress and producer. The film page names The Bodyguard and Waiting to Exhale. The US year page says she was found dead in her suite at the Beverly Hilton in Los Angeles, the day before the Grammy ceremony, and that she was buried in Newark on February 18.",
+      "date": "2012-02-11",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "deaths.armstrong": {
+      "section": "deaths",
+      "label": "Neil Armstrong",
+      "value": "Died August 25, aged 82. Born 1930",
+      "detail": "American astronaut, the first person to walk on the Moon.",
+      "date": "2012-08-25",
+      "source": "https://en.wikipedia.org/wiki/2012_in_the_United_States"
+    },
+    "deaths.ride": {
+      "section": "deaths",
+      "label": "Sally Ride",
+      "value": "Died July 23. Born 1951",
+      "detail": "American physicist and astronaut, the first American woman in space. The science page gives her age as 61.",
+      "date": "2012-07-23",
+      "source": "https://en.wikipedia.org/wiki/2012_in_science"
+    },
+    "deaths.bradbury": {
+      "section": "deaths",
+      "label": "Ray Bradbury",
+      "value": "Died June 5",
+      "detail": "Writer and screenwriter. The film page's death table gives his age as 90 and names Moby Dick and Something Wicked This Way Comes, while the science page says he died aged 91, so both are named rather than resolved. NASA named the Curiosity landing site after him in August.",
+      "date": "2012-06-05",
+      "source": "https://en.wikipedia.org/wiki/2012_in_film"
+    },
+    "deaths.borgnine": {
+      "section": "deaths",
+      "label": "Ernest Borgnine",
+      "value": "Died July 8, aged 95",
+      "detail": "Actor. The film page names Marty and The Poseidon Adventure.",
+      "date": "2012-07-08",
+      "source": "https://en.wikipedia.org/wiki/2012_in_film"
+    },
+    "deaths.ephron": {
+      "section": "deaths",
+      "label": "Nora Ephron",
+      "value": "Died June 26, aged 71",
+      "detail": "Director, screenwriter and producer. The film page names Sleepless in Seattle and When Harry Met Sally.",
+      "date": "2012-06-26",
+      "source": "https://en.wikipedia.org/wiki/2012_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2012 plus one dedicated article pulled for the date check. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Date check. The presidential election falls on the Tuesday after the first Monday in November. November 1 was a Thursday, so the first Monday was November 5 and the Tuesday after it November 6, which is what both cached year pages give. The election's own article was pulled as raw wikitext to confirm it and agrees, so there is no disagreement to name; it is cited anyway because pol.election takes the electoral and popular vote totals, the vote shares, the turnout figure, the blue wall count and the flipped states from it, and no cached page carries any of them. Source disagreements labelled rather than resolved. The world year page's dated Sandy entry gives 233 deaths and its own collage caption 254, and event.hurricane_sandy states both. The same page counts 58 injured at Aurora against the US year page's 70, and event.aurora carries both. Ray Bradbury is 90 on the film page's death table and 91 on the science page's Bradbury Landing caption, and deaths.bradbury names both and states no age of its own. The US year page marks its own London medal tally as needing a citation, which sports.olympics says. Nothing in this file reaches into the following year: the 85th Academy Awards ceremony date, the nominations announcement, the 18th Critics' Choice Awards, the 70th Golden Globes, the 66th BAFTAs, the 16th D.I.C.E. Awards, the 9th British Academy Games Awards, the 13th Game Developers Choice Awards, the Kyoto Protocol extension agreed at Doha, the settlement of the hockey lockout, the Jodi Arias verdict, the restoration of Joe Paterno's vacated wins and the Sandy Hook aftermath are all out for that reason. film.best_picture says the following February rather than a date, which is the corpus convention. Dropped for lack of a usable source. There is no unemployment figure, no inflation figure and no Federal Reserve decision anywhere in the eleven cached pages, so prices carries the two series facts, the January state minimum wage rises and one Dow reading and nothing else. Facebook, Instagram, Twitter, the iPhone and the iPad appear in no cached page in any form that would support a fact, so tech.social and tech.web_sites are open this year and empty, and there is no smartphone or social network fact at all. The music page's opening sentence claims the peak of United States download sales and then makes a claim about every later year in the same breath; music.listening_format takes the first half, says the page's only support is a link to the RIAA sales database, and leaves the forward-looking half out. No best-selling album fact, because the music page carries no sales chart of any kind, only classical premieres, one single and a death list. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking value from one page and detail from another: event.hurricane_sandy cites the world year page and names the US year page for the surge; music.grammys and tv.olympic_audience cite the television page, which is where the Grammy audience and the opening ceremony figure both sit; sports.super_bowl cites the sports page for the score, attendance and most valuable player and names the US year page and the television page for the audience; film.world_cinema cites the Academy page for the nominees and names the film page for the festival prizes; deaths.ride cites the science page and deaths.houston the US year page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. Kony 2012 and the 2012 phenomenon both carry the page's own year, which the check does not fire on. Windows 8, Windows 7, Windows XP, Call of Duty: Black Ops II, Far Cry 3, Mass Effect 3, Borderlands 2, XCOM: Enemy Unknown, Halo 4, FIFA 13, Madden NFL 13, NBA 2K13, New Super Mario Bros. 2, Wii U, Nintendo 3DS XL, PlayStation Vita, Initiative 502, Amendment 64, Super Bowl XLVI, Bhoja Air Flight 213 and Voyager 1 were each run through checkname.mjs and are all safe without an allowlist entry. Nothing in the sources carried a title two or more years out, so there is nothing to report for the allowlist. Diacritics are written in ASCII per the corpus convention, so Janelle Monae, Quvenzhane Wallis, Joachim Ronning, Pablo Larrain, Les Miserables, Agnieszka Radwanska, Chichen Itza, Encyclopaedia Britannica and Galapagos lose theirs. Deaths carry an age where a page gives one and a birth year where it gives only that. There is no cached deaths page for this year: the manifest records Deaths_in_2012 as a redirect to a list of lists, so every death here comes from the US year page, the film page, the music page or the science page. Dropped for room. Politics and world: the second Greek bailout of February 21 at 130 billion euros and the two Greek elections of May 6 and June 17, Putin's election on March 4, the Costa Concordia grounding of January 13 with 32 dead, the Diamond Jubilee of February 6, the Port Said stadium riot of February 1 with 74 dead, Trayvon Martin's killing on February 26, the Malian coup of March 22 and the Azawad declaration of April 6, Charles Taylor's conviction on April 25, the Houla massacre of May 25, Kim Jong Un's election as First Secretary on April 11, Saleh's handover in Yemen on February 27, the Indian blackouts of July 30 and 31 that left 620 million people without power, Operation Pillar of Defense from November 14 to 21, the United Nations vote on November 29 granting Palestine observer state status, Typhoon Bopha from November 25 with at least 1,067 dead, the Delhi gang rape of December 16, the Jimmy Savile revelations of October 3, the Sikh temple shooting at Oak Creek on August 5, the Empire State Building shooting of August 24, Obama's deportation announcement of June 15, Arizona v. United States of June 25, the contempt vote against Eric Holder of June 28, the Barclays fine of the same day, the HSBC settlement of December 11, Michigan's right-to-work law of December 11, the Samsung and Apple patent verdict of August 24, the Disney purchase of Lucasfilm on October 30 for $4.05 billion and the sale of the New York Stock Exchange to IntercontinentalExchange on December 20. Television, film and music: the 64th Primetime Emmy Awards of September 23, the first in the ceremony's history where the four over-the-air networks took no nominations in three of the five main drama categories; the 84th Academy Awards of February 26, left out on the same ground as other years because it honoured the previous year of film; the Sight and Sound poll of August, whose critics put Vertigo first for the first time; the Eurovision Song Contest won by Loreen at Baku from May 22 to 26. Technology and science: Felix Baumgartner's jump, which is in the texture instead; the near-eradication of guinea worm disease; the Shenzhou 9 docking of June 18 carrying the first Chinese woman in orbit; the Kunsthal art theft of October 16; the solar transit of Venus on June 5 and 6. Sport: the hockey lockout that began on September 16, Michael Schumacher's retirement announcement of October 4, Jorge Lorenzo's motorcycle title of October 28, the Peyton Manning signing of March 21, the James Harden trade of October 27, the opening of Marlins Park on April 4 and of the Barclays Center in Brooklyn, and the doping charges against Lance Armstrong of June 12 and his ban of August 24. Deaths that would have earned a place with more room: Dave Brubeck on December 5 aged 91, Robin Gibb on May 20 aged 62, Donna Summer on May 17 aged 63, Adam Yauch on May 4 aged 47, Davy Jones on February 29 aged 66, Andy Williams on September 25 aged 84, Andy Griffith on July 3 aged 86, Larry Hagman on November 23 aged 81, Michael Clarke Duncan on September 3 aged 54, Charles Durning and Jack Klugman both on December 24, Phyllis Diller on August 20 aged 95, Tony Scott on August 19 aged 68, Marvin Hamlisch on August 6 aged 68, Chris Marker on July 29 aged 91, Gore Vidal on July 31 aged 86, Herbert Lom on September 27 aged 95, Sylvia Kristel on October 18 aged 60, Theo Angelopoulos on January 24 aged 76, Rita Levi-Montalcini on December 30 aged 103, Patrick Moore on December 9 aged 89, Joe Paterno on January 22 aged 85 and Hector Camacho, shot on November 20. This file runs 52 facts across 10 sections: politics 5, world 6, film 7, tv 4, music 4, tech 7, prices 4, culture 4, sports 5, deaths 6."
+}

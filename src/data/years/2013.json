@@ -1,0 +1,527 @@
+{
+  "year": 2013,
+  "tier": "modern",
+  "headline": "Benedict XVI resigned in February, Snowden's NSA disclosures began in June, and the government shut for 16 days",
+  "texture": [
+    "Congress cleared the fiscal cliff deal on January 1 and Obama signed the American Taxpayer Relief Act the next day. The Postal Service said in February that it would stop delivering first-class mail on Saturdays from August 5, and Congress made it keep the service on April 10. Rhode Island became the tenth state to allow same-sex marriage on May 2, Hawaii the fifteenth on November 13, and Utah the eighteenth on December 20, when a district judge struck down Amendment 3 of its constitution.",
+    "Croatia became the twenty-eighth member of the European Union on July 1. Beatrix abdicated in the Netherlands on April 30, the Emir of Qatar handed power to his son on June 25, and Albert II gave up the Belgian throne on July 21. A runaway train carrying crude oil derailed at Lac-Megantic, Quebec, on July 6 and killed 47 people. Euromaidan protests began in Ukraine on November 21 after Viktor Yanukovych turned down an association agreement with the European Union, and Iran agreed on November 24 to limit its nuclear programme for sanctions relief.",
+    "A 3D printer built a living ear from collagen and animal ear cell cultures on February 21, and the first gun made on one was fired in Austin, Texas, on May 5. Curiosity drilled the first deep rock sample ever retrieved from another planet on February 10. Microsoft bought Nokia's mobile device division for $7.2 billion on September 3, Verizon agreed to pay Vodafone $130 billion for its half of Verizon Wireless a day earlier, and Google bought Boston Dynamics in December without disclosing a price. NASDAQ stopped trading for three hours on August 22 over a computer problem.",
+    "Seth MacFarlane hosted the Academy Awards at the Dolby Theatre on February 24, for the previous year's films. No living candidate was elected to the Baseball Hall of Fame on January 9, the first such ballot since 1996. Sharknado had its first airing on Syfy on July 11. CBS pre-empted 60 Minutes on September 22 to run the Emmys after an NFL doubleheader. Adam Scott became the first Australian to win the Masters on April 14, and Nina Davuluri won Miss America on September 15."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.nsa_disclosures",
+    "pol.shutdown",
+    "world.pope",
+    "film.gross#0",
+    "tech.consoles",
+    "sports.super_bowl",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D), starting a second term",
+      "detail": "Sworn in on January 20 in the Blue Room of the White House, with the public ceremony in Washington the following day. Joe Biden took his second term as vice president at his official residence. The 112th Congress ran until January 3 and the 113th from January 3, with John Boehner (R-Ohio) as Speaker of the House. Obama delivered his fourth State of the Union address on February 12.",
+      "date": "2013-01-20",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "pol.sequestration": {
+      "section": "politics",
+      "label": "Budget sequestration begins",
+      "value": "Automatic spending cuts took effect across the federal government",
+      "detail": "The US year page dates the start to March 1 and cites a Guardian report from the day in which Obama said he could not force a deal. The Senate then passed its first budget in four years on March 23 by 50 votes to 49.",
+      "date": "2013-03-01",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "pol.shutdown": {
+      "section": "politics",
+      "label": "Federal government shutdown",
+      "value": "Every federal department deemed nonessential closed from October 1 to 16, the first shutdown since 1995 and 1996",
+      "detail": "The Democratic Senate and the Republican House deadlocked over the Affordable Care Act while voting the mandatory budget. Hundreds of thousands of federal workers were furloughed under the Antideficiency Act. The deadline for raising the debt ceiling fell days later.",
+      "date": "2013-10-01",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "pol.nsa_disclosures": {
+      "section": "politics",
+      "label": "Global surveillance disclosures",
+      "value": "Edward Snowden, a former CIA employee working as an NSA contractor, gave documents on a US mass surveillance programme to news publications, then left the country and was granted temporary asylum in Russia",
+      "detail": "The world year page dates the disclosures to June 6 and the science page to June 5, and the science page's citation is a Guardian report of June 6 headed NSA collecting phone records of millions of Verizon customers daily. The science page says the material indicated that nearly every technical possibility for mass surveillance, in internet infrastructure, software and smartphones, was being exploited or attempted by secret services on a stated counter-terrorism rationale. Neither page names a document count.",
+      "date": "2013-06-06",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court decisions",
+      "value": [
+        "Shelby County v. Holder, June 25, struck down Section 4 of the Voting Rights Act of 1965 by 5 votes to 4",
+        "United States v. Windsor, June 26, struck down Section 3 of the Defense of Marriage Act by 5 votes to 4",
+        "Hollingsworth v. Perry, June 26, held that supporters of California Proposition 8 had no standing in federal court"
+      ],
+      "detail": "Section 4 had required states with a history of discrimination to clear any change to their election procedures with the federal government. Windsor gave legally married same-sex couples access to more than 1,000 federal benefits. The Ninth Circuit lifted its stay on June 28 and California became the thirteenth state where same-sex couples could marry. The Court also held on June 13 that naturally occurring human genes may not be patented.",
+      "date": "2013-06-26",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "pol.detroit": {
+      "section": "politics",
+      "label": "Detroit files for bankruptcy",
+      "value": "The city sought Chapter 9 protection against debts of $18.5 billion",
+      "detail": "The US year page gives the figure and the date and names no creditor.",
+      "date": "2013-07-18",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "world.pope": {
+      "section": "world",
+      "label": "A pope resigns and a pope is elected",
+      "value": "Benedict XVI resigned on February 28 and Cardinal Jorge Mario Bergoglio of Argentina was elected the 266th pope on March 13, taking the name Francis",
+      "detail": "Benedict was the first pope to resign since Gregory XII in 1415 and the first to do so voluntarily since Celestine V in 1294. Francis was the first Jesuit pope, the first from the Americas and the first from the Southern Hemisphere.",
+      "date": "2013-03-13",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "world.chelyabinsk": {
+      "section": "world",
+      "label": "Meteor over Chelyabinsk",
+      "value": "A meteor exploded above the Russian city, injuring 1,489 to 1,492 people and damaging more than 4,300 buildings",
+      "detail": "The world year page calls it the most powerful meteor to strike Earth's atmosphere since the Tunguska event of 1908, and says the incident and a coincidental flyby of a larger asteroid together prompted international concern about detection. The science page puts the meteoroid at 10 tons and says Russian authorities raised a 654 kilogram fragment from Chebarkul lake in October.",
+      "date": "2013-02-15",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "world.boston_marathon": {
+      "section": "world",
+      "label": "Boston Marathon bombing",
+      "value": "Two Chechnya-born brothers detonated two bombs near the finish line, killing 3 people and injuring 264",
+      "detail": "One of the two was a US citizen. The world year page gives 264 injured and the US year page 260, so both counts stand as the two pages state them. The US year page runs the sequence from April 15 to 19: a campus police officer shot dead in his vehicle at the Massachusetts Institute of Technology in Cambridge, a gunfight at Watertown that killed Tamerlan Tsarnaev, and the capture of Dzhokhar Tsarnaev, then 19, after a tip sent police to a boat in a Watertown backyard. The Bruins postponed a home game against the Penguins during the manhunt.",
+      "date": "2013-04-15",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "world.rana_plaza": {
+      "section": "world",
+      "label": "Savar building collapse",
+      "value": "The Rana Plaza garment factory building came down at Savar, Bangladesh, killing 1,134 people",
+      "detail": "The world year page calls it one of the worst industrial disasters anywhere.",
+      "date": "2013-04-24",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "world.egypt": {
+      "section": "world",
+      "label": "Morsi deposed in Egypt",
+      "value": "President Mohamed Morsi was removed by the military after mass protests, and widespread violence followed",
+      "detail": "Security forces raided two anti-coup camps on August 14 and 2,696 people died. Human Rights Watch, quoted on the year page, called it one of the largest killings of demonstrators in a single day in recent history.",
+      "date": "2013-07-03",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "world.ghouta": {
+      "section": "world",
+      "label": "Ghouta chemical attack",
+      "value": "1,429 people were killed in the Syrian civil war by a chemical attack on the Damascus suburb",
+      "detail": "The world year page cites the White House assessment of August 30. The United Kingdom Parliament voted against British military action in Syria on August 29, and the United States and Russia reached a deal on Syrian chemical weapons on September 14.",
+      "date": "2013-08-21",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "world.haiyan": {
+      "section": "world",
+      "label": "Typhoon Haiyan",
+      "value": "Haiyan, known in the Philippines as Yolanda, crossed the Philippines and Vietnam, killing at least 6,241 people",
+      "detail": "The world year page calls it one of the strongest tropical cyclones on record.",
+      "date": "2013-11-08",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Frozen, $1,280,802,282, Disney",
+        "Iron Man 3, $1,214,811,252, Disney",
+        "Despicable Me 2, $971,000,005, Universal",
+        "The Hobbit: The Desolation of Smaug, $958,366,855, Warner Bros.",
+        "The Hunger Games: Catching Fire, $865,011,746, Lionsgate"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header and the sentence above it both say, citing Box Office Mojo, with the amounts stated in the year's own dollars. Frozen was the second animated film after Toy Story 3 to pass a billion, and the highest-grossing animated film at release, and Jennifer Lee, who made her directorial debut on it, became the first woman to direct a film past a billion worldwide. Iron Man 3 was the second Marvel Cinematic Universe film to pass a billion. Despicable Me 2 became the highest-grossing animated film not distributed by Disney and the highest-grossing Universal release in its initial run. Gravity was eighth, Man of Steel ninth and Thor: The Dark World tenth.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "12 Years a Slave, produced by Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas",
+      "detail": "Awarded the following March at the 86th Academy Awards. The film took three awards, including Best Adapted Screenplay for John Ridley, and Steve McQueen became the first black director of a Best Picture winner. Gravity took seven, the most of any film, and Alfonso Cuaron became the first person of Mexican descent to win Best Director. American Hustle drew nominations in all four acting categories and won nothing, the first film to be shut out that way since My Man Godfrey in 1936, and lost all ten of its nominations. The telecast drew nearly 44 million viewers in the United States, the largest audience for the ceremony since the 72nd Academy Awards in 2000.",
+      "source": "https://en.wikipedia.org/wiki/86th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Matthew McConaughey, Dallas Buyers Club",
+        "Best Actress, Cate Blanchett, Blue Jasmine",
+        "Best Supporting Actor, Jared Leto, Dallas Buyers Club",
+        "Best Supporting Actress, Lupita Nyong'o, 12 Years a Slave"
+      ],
+      "detail": "Dallas Buyers Club was the fifth film to take both male acting awards. Blanchett became the sixth actress to have won both female acting awards in her career and Nyong'o the sixteenth acting winner to win for a debut film performance. Spike Jonze won Best Original Screenplay for Her, Frozen won Best Animated Feature, and Robert Lopez, co-winner of Best Original Song for Let It Go, became the youngest person to hold an Oscar, an Emmy, a Grammy and a Tony.",
+      "source": "https://en.wikipedia.org/wiki/86th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "The Great Beauty, Italy, in Italian, directed by Paolo Sorrentino, the winner",
+        "The Broken Circle Breakdown, Belgium, in Dutch, directed by Felix Van Groeningen",
+        "The Hunt, Denmark, in Danish, directed by Thomas Vinterberg",
+        "The Missing Picture, Cambodia, in French, directed by Rithy Panh",
+        "Omar, Palestine, in Arabic, directed by Hany Abu-Assad"
+      ],
+      "detail": "The Palme d'Or at the 66th Cannes Film Festival went to Blue Is the Warmest Colour, directed by Abdellatif Kechiche. The Golden Lion at the 70th Venice International Film Festival went to Gianfranco Rosi's Sacro GRA and the Golden Bear at the 63rd Berlin International Film Festival to Calin Peter Netzer's Child's Pose.",
+      "source": "https://en.wikipedia.org/wiki/86th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Iron Man 3, May 3, directed by Shane Black, the seventh Marvel Cinematic Universe film and the first of its Phase Two",
+        "Man of Steel, June 14, directed by Zack Snyder, the first film of the DC Extended Universe",
+        "Monsters University, June 21, Pixar's 14th feature film",
+        "Thor: The Dark World, November 8, directed by Alan Taylor",
+        "Frozen, November 22, Walt Disney Animation Studios' 53rd feature film"
+      ],
+      "detail": "The US year page dates all five. It says Iron Man 3 was the fifth highest-grossing film of all time at the moment of release, and calls Frozen by far the studio's biggest commercial success to that point.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$8.13",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. No cached page names a disc format, a rental figure or a subscriber count, so this fact claims nothing about how a film reached a living room",
+      "detail": "The film page ranks the year by worldwide gross and says nothing at all about home viewing. The one item anywhere in the cache that touches watching at home sits on the television page, where Netflix appears as an Emmy nominee and winner, and that has its own fact here.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2013",
+      "value": [
+        "Sunday Night Football, NBC, 12.6 rating",
+        "NCIS, CBS, 12.6",
+        "The Big Bang Theory, CBS, 12.3",
+        "NCIS: Los Angeles, CBS, 10.3",
+        "Dancing with the Stars, ABC, 10.0"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this ranking covers the season that opened in the autumn and ran into the following spring. The Blacklist was sixth on 9.5 in its first season, Person of Interest seventh on 9.0, The Voice eighth on 8.9, Blue Bloods ninth on 8.8 and the Tuesday edition of The Voice tenth on 8.6. The Wednesday edition of American Idol had fallen to twenty-second on 7.4.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2013%E2%80%9314"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Blacklist, NBC, September 23",
+        "Marvel's Agents of S.H.I.E.L.D., ABC, September 24",
+        "The Goldbergs, ABC, September 24",
+        "Trophy Wife, ABC, September 24",
+        "Lucky 7, ABC, September 24"
+      ],
+      "detail": "The US year page dates each. It also dates Teen Titans Go! on Cartoon Network to April 23, Avengers Assemble on Disney XD to May 26, PAW Patrol on Nickelodeon to August 12 and The Thundermans on Nickelodeon to October 14.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "30 Rock, NBC, January 31, after seven seasons and 138 episodes",
+        "The Office, NBC, May 16, having started in 2005",
+        "Breaking Bad, AMC, September 29, having started in 2008"
+      ],
+      "detail": "The television page's ending table gives each date and each debut year. The last two episodes of 30 Rock were Hogcock! and Last Lunch, and the second carried a cameo from Nancy Pelosi.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_American_television"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "65th Primetime Emmy Awards",
+      "value": "Breaking Bad won Outstanding Drama Series and Modern Family Outstanding Comedy Series for a fourth consecutive year",
+      "detail": "Held in Los Angeles and broadcast on CBS with Neil Patrick Harris hosting and co-producing. The Voice won Outstanding Reality-Competition Program. Derek Hough won Outstanding Choreography in the main show rather than at the Creative Arts ceremony, the first time that category was presented there.",
+      "date": "2013-09-22",
+      "source": "https://en.wikipedia.org/wiki/2013_in_American_television"
+    },
+    "tv.streaming": {
+      "section": "tv",
+      "label": "Netflix at the Emmys",
+      "value": "Three wins, including David Fincher's directing award for the House of Cards pilot, which made Chapter 1 the first webisode to win a Primetime Emmy",
+      "detail": "On July 18, Arrested Development, Hemlock Grove and House of Cards took a combined 14 nominations, the first Emmy nominations given to long-form programs made specifically for a web television service. Arrested Development had moved from Fox and returned with new episodes on May 26, seven years after it last aired.",
+      "date": "2013-09-22",
+      "source": "https://en.wikipedia.org/wiki/2013_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Thrift Shop, Macklemore and Ryan Lewis featuring Wanz",
+      "detail": "It sold 7,208,000 copies in the United States and spent six nonconsecutive weeks at number one. Blurred Lines by Robin Thicke featuring T.I. and Pharrell Williams came second on 6,380,000 copies, Radioactive by Imagine Dragons third and Harlem Shake by Baauer fourth. Can't Hold Us, also by Macklemore and Ryan Lewis, was fifth, which made them the fourth act to place two singles in the year-end top five.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2013"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The Hot 100 counted physical sales, digital sales, airplay and streaming together, from data compiled by Nielsen SoundScan",
+      "detail": "Billboard published the year-end list on December 13, calculated from data running December 1, 2012 to November 30, 2013. No cached page carries any other claim about playback: no subscriber count, no format launch, no radio figure.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2013"
+    },
+    "music.hot100_royals": {
+      "section": "music",
+      "label": "Royals at number one",
+      "value": "Lorde held the top of the Hot 100 for nine consecutive weeks and finished fifteenth on the year-end chart",
+      "detail": "The chart page calls her the youngest artist to reach number one since Tiffany with I Think We're Alone Now.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2013"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Emmelie de Forest won for Denmark with Only Teardrops, at the contest held in Malmo, Sweden from May 14 to 18",
+      "date": "2013-05-18",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "music.awards": {
+      "section": "music",
+      "label": "Music awards",
+      "value": [
+        "MTV Video Music Awards, August 25: Best Video, Mirrors, Justin Timberlake, and Best New Artist, Austin Mahone",
+        "MTV Europe Music Awards, November 10: Best Song, Locked Out of Heaven, Bruno Mars, and Best Video, Wrecking Ball, Miley Cyrus",
+        "American Music Awards, November 24: Best Artist, Taylor Swift, and Best Song, Cruise, Florida Georgia Line featuring Nelly"
+      ],
+      "detail": "The music page's award table gives each ceremony date. Macklemore and Ryan Lewis took Best New Artist at the European awards and Ariana Grande at the American ones.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_music"
+    },
+    "tech.consoles": {
+      "section": "tech",
+      "label": "Eighth-generation consoles",
+      "value": "The PlayStation 4 reached North America on November 15 and Europe on November 29, and the Xbox One arrived on November 22",
+      "detail": "Sony revealed the PlayStation 4 in New York in February and Microsoft revealed the Xbox One at its Redmond campus in May. The PlayStation 4 sold for $399 in the United States. Microsoft also put out a slimmer Xbox 360 E on June 10, Nintendo the 2DS on October 12, and Sony the PlayStation TV on November 14.",
+      "date": "2013-11-15",
+      "source": "https://en.wikipedia.org/wiki/2013_in_video_games"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Highest-grossing games, worldwide revenue",
+      "value": [
+        "Puzzle & Dragons, GungHo Online Entertainment, mobile, free-to-play",
+        "Candy Crush Saga, King Digital Entertainment, $1,460,000,000, mobile, free-to-play",
+        "World of Warcraft, Blizzard Entertainment, $1,041,000,000, subscription",
+        "Grand Theft Auto V, Rockstar Games, $1,000,000,000, console",
+        "Call of Duty: Ghosts, Activision, $1,000,000,000"
+      ],
+      "detail": "Revenue across every platform, counting physical sales, digital purchases, subscriptions and microtransactions, which is why two mobile puzzle games sit above Grand Theft Auto V. The world year page says Grand Theft Auto V took more than half a billion dollars on its first day, September 17, and cites Guinness World Records crediting it with six sales records. Awards went to BioShock Infinite, The Last of Us and The Legend of Zelda: A Link Between Worlds, and the year's new properties included Papers, Please, Tearaway, Beyond: Two Souls and Cookie Clicker.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_video_games"
+    },
+    "tech.social_ap_hoax": {
+      "section": "tech",
+      "label": "A hacked news account moves the market",
+      "value": "The Associated Press Twitter feed was hacked and said explosions had injured Obama, and the US stock market fell one percent before the agency confirmed the breach",
+      "detail": "The US year page calls it a flash crash and compares it to the one in 2010.",
+      "date": "2013-04-23",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "tech.online_breaches": {
+      "section": "tech",
+      "label": "Customer data stolen",
+      "value": "Target and the Secret Service said more than 40 million credit and debit card records had been taken from its stores, and Adobe said 2.9 million customer records including card details",
+      "detail": "Adobe disclosed its breach on October 3. Target's was announced on December 19, and black market sales of the card data began on December 22.",
+      "date": "2013-12-19",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "tech.voyager": {
+      "section": "tech",
+      "label": "Voyager 1 leaves the Solar System",
+      "value": "NASA announced that the probe, travelling since 1977, had officially left the Solar System",
+      "detail": "The science page cites a New York Times report of the same day headed In a Breathtaking First, NASA Craft Exits the Solar System.",
+      "date": "2013-09-12",
+      "source": "https://en.wikipedia.org/wiki/2013_in_science"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "India launched the uncrewed Mars Orbiter Mission from Sriharikota on November 5",
+        "Chang'e 3 put the Yutu rover on the Moon on December 14, the first soft landing since 1976 and the third robotic rover to reach the surface",
+        "Orbital Sciences flew its uncrewed Cygnus cargo craft to the International Space Station for the first time on September 18",
+        "NASA launched MAVEN toward Mars on November 18 to study its atmosphere",
+        "SpaceX flew CRS-2 on March 1, the fourth Dragon cargo flight and the last for the Falcon 9 v1.0"
+      ],
+      "detail": "The world year page carries the Mars Orbiter Mission and Chang'e 3, and the US year page the rest. NASA extended its contract with the Russian Federal Space Agency on April 30, paying $424 million to have astronauts carried to the station.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.53 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "7.0 percent, a five-year low",
+      "detail": "The Labor Department reported the figure on December 6 and said employers had added 203,000 jobs.",
+      "date": "2013-12-06",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "prices.stock_market": {
+      "section": "prices",
+      "label": "Dow Jones Industrial Average",
+      "value": "Closed above 15,000 for the first time on May 7, at 15,056.20, and above 16,000 on November 21, at 16,009.99",
+      "detail": "It had set a record high close of 14,253.77 on March 5, beating the previous mark from October 2007.",
+      "date": "2013-11-21",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A pope resigned, two European monarchs and the Emir of Qatar handed over, and Congress shut the government rather than fund a health law already on the books. Then a contractor gave the National Security Agency's files to reporters, and the argument turned on whether anyone should have been surprised."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Alice Munro",
+        "Peace, Organisation for the Prohibition of Chemical Weapons",
+        "Physics, Francois Englert and Peter Higgs",
+        "Chemistry, Martin Karplus, Michael Levitt and Arieh Warshel",
+        "Physiology or Medicine, James E. Rothman, Randy W. Schekman and Thomas C. Sudhof",
+        "Economics, Eugene Fama, Lars Peter Hansen and Robert J. Shiller"
+      ],
+      "detail": "The world year page gives no dates. The science page dates the physics announcement to October 8 and quotes a citation crediting the confirmation of the predicted particle to the ATLAS and CMS experiments at CERN's Large Hadron Collider, which the same page says confirmed the Higgs boson to a very high degree of certainty on March 14.",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "New English word",
+      "value": "bingeable",
+      "detail": "The world year page lists it as the year's new English word, citing Merriam-Webster's record of words first known to be used this year.",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "culture.art": {
+      "section": "culture",
+      "label": "Auction record",
+      "value": "Francis Bacon's triptych Three Studies of Lucian Freud sold in New York for $142.4 million, a world record for a work of art at auction",
+      "date": "2013-11-12",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLVII",
+      "value": "Baltimore Ravens 34, San Francisco 49ers 31, at the Mercedes-Benz Superdome in New Orleans",
+      "detail": "A power outage stopped play for 34 minutes in the second half. The sports page gives the attendance as 71,024.",
+      "date": "2013-02-03",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Boston Red Sox beat the St. Louis Cardinals four games to two, an eighth title",
+      "detail": "Played October 23 to 30, with David Ortiz named most valuable player. The US year page says it was the first World Series the Red Sox won in Boston since 1918.",
+      "date": "2013-10-30",
+      "source": "https://en.wikipedia.org/wiki/2013_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Miami Heat over the San Antonio Spurs four games to three, a third title",
+        "Stanley Cup, Chicago Blackhawks, in a final played June 12 to 24",
+        "NCAA men's basketball, Louisville 82, Michigan 76, a first title since 1986",
+        "NCAA women's basketball, Connecticut 93, Louisville 60, an eighth title",
+        "UEFA Champions League, Bayern Munich 2, Borussia Dortmund 1, at Wembley Stadium, a fifth title",
+        "UEFA Europa League, Chelsea 2, Benfica 1, a first Europa title",
+        "World Baseball Classic, Dominican Republic 3, Puerto Rico 0, the first undefeated team in the tournament, with Robinson Cano named most valuable player",
+        "Six Nations, Wales 30, England 3, a twenty-sixth title",
+        "FIFA Confederations Cup, Brazil 3, Spain 0, at the Maracana"
+      ],
+      "detail": "Chris Froome won the Tour de France, run from June 29 to July 21. The British and Irish Lions beat Australia two Tests to one, their first series win since 1997. Bayern Munich also took the Club World Cup in Morocco in December, beating Raja Casablanca 2 to 0, and Olympiacos Piraeus beat Real Madrid 100 to 88 for a second consecutive Euroleague title. Sebastien Ogier won the world rally championship round in Catalonia in October.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Novak Djokovic over Andy Murray in four sets, and Victoria Azarenka over Li Na",
+        "French Open, Rafael Nadal over David Ferrer 6-3, 6-2, 6-3, and Serena Williams over Maria Sharapova",
+        "Wimbledon, Murray over Djokovic 6-4, 7-5, 6-4, and Marion Bartoli over Sabine Lisicki",
+        "US Open, Nadal over Djokovic in four sets, and Serena Williams over Azarenka"
+      ],
+      "detail": "Murray was the first British winner of the Wimbledon gentlemen's singles since Fred Perry in 1936, and it was his second major. Bob and Mike Bryan won the Wimbledon gentlemen's doubles on July 6 and became the first men's doubles team in the Open era to hold all four major titles at once. The US Open gave Serena Williams her seventeenth major and Nadal his thirteenth. The Czech Republic beat Serbia 3 to 2 in the Davis Cup and Italy beat Russia 4 to 0 in the Fed Cup.",
+      "source": "https://en.wikipedia.org/wiki/2013_in_sports"
+    },
+    "sports.olympic_host": {
+      "section": "sports",
+      "label": "Host city chosen for the Summer Games",
+      "value": "The International Olympic Committee awarded them to Tokyo, ahead of Madrid and Istanbul",
+      "detail": "The world year page dates the decision to September 7 and cites a Daily Telegraph report from the following day.",
+      "date": "2013-09-07",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "deaths.mandela": {
+      "section": "deaths",
+      "label": "Nelson Mandela",
+      "value": "Died December 5, aged 95",
+      "detail": "First president of a democratic South Africa, and a leader of the movement against apartheid. He died at around 20:50 local time at his home in Houghton, surrounded by his family. None of the eleven cached pages for the year carries his death, so this fact cites his own article.",
+      "date": "2013-12-05",
+      "source": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+    },
+    "deaths.thatcher": {
+      "section": "deaths",
+      "label": "Margaret Thatcher",
+      "value": "Died April 8",
+      "detail": "Former Prime Minister of the United Kingdom. The world year page carries the death and gives no age.",
+      "date": "2013-04-08",
+      "source": "https://en.wikipedia.org/wiki/2013"
+    },
+    "deaths.ebert": {
+      "section": "deaths",
+      "label": "Roger Ebert",
+      "value": "Died April 4, aged 70",
+      "detail": "Film critic and screenwriter. The film page's death table gives the age and names Beyond the Valley of the Dolls among his writing credits.",
+      "date": "2013-04-04",
+      "source": "https://en.wikipedia.org/wiki/2013_in_film"
+    },
+    "deaths.gandolfini": {
+      "section": "deaths",
+      "label": "James Gandolfini",
+      "value": "Died June 19, aged 51, in Rome",
+      "detail": "American actor. The film page's death table gives the age and names Get Shorty, and the US year page gives the city and a birth year of 1961.",
+      "date": "2013-06-19",
+      "source": "https://en.wikipedia.org/wiki/2013_in_film"
+    },
+    "deaths.reed": {
+      "section": "deaths",
+      "label": "Lou Reed",
+      "value": "Died October 27. Born 1942",
+      "detail": "American singer, songwriter and musician.",
+      "date": "2013-10-27",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "deaths.walker": {
+      "section": "deaths",
+      "label": "Paul Walker",
+      "value": "Died November 30, aged 40, in a single-vehicle crash at Santa Clarita, California",
+      "detail": "American actor. The US year page says his Porsche Carrera GT hit a lamp post and two trees and caught fire, killing him and his friend Roger Rodas, and that Universal delayed a film after the death. The film page's table gives the age and names The Fast and the Furious.",
+      "date": "2013-11-30",
+      "source": "https://en.wikipedia.org/wiki/2013_in_the_United_States"
+    },
+    "deaths.otoole": {
+      "section": "deaths",
+      "label": "Peter O'Toole",
+      "value": "Died December 14, aged 81",
+      "detail": "British actor. The film page's death table gives the age and names Lawrence of Arabia and My Favorite Year.",
+      "date": "2013-12-14",
+      "source": "https://en.wikipedia.org/wiki/2013_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, entirely from the eleven cached pages under .sources/2013. No dedicated article was pulled, so no allowlist entry was needed and src/data/name_years.json was not touched. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, with a footnote saying the amounts are in the year's own dollars, and the sentence above the table says the top ten films released in 2013 by worldwide gross, citing Box Office Mojo. figures_basis is therefore gross and film.gross names worldwide in both label and detail. Frozen tops that ranking on a run that began on November 22, so most of its takings fell outside the year; the film page ranks by release year and this file follows it. Nothing here reaches into the following year. The 86th Academy Awards ceremony fell in March of the next year, so film.best_picture says the following March rather than a date, which is the corpus convention, and the January nomination-day box office figures on the Oscars page are left out for the same reason. Also excluded on that ground: the shutdown deal's postponement of the debt-ceiling debate to February of the next year, the Grammy and Billboard award columns on the music page, which are both next-year ceremonies, El Camino and the 30 Rock special in the television page's ending table, MAVEN's scheduled Martian orbit insertion, the Beirut ammonium nitrate cargo's later history, and the Affordable Care Act enrolment deadline's penalty year. The 85th Academy Awards of February 24, hosted by Seth MacFarlane, honoured the previous year of film and would put a second Best Picture on the page, so it is in the texture as a dated event rather than a fact, the same treatment other years give the previous-year ceremony. Host city. The IOC decision of September 7 is written as Tokyo plus the date, with the edition named only as the Summer Games, per the corpus convention used by the 1993, 2000 and 2007 pages. Source disagreement named rather than resolved. The world year page dates the surveillance disclosures to June 6 and the science page to June 5, and pol.nsa_disclosures states both and takes June 6 for its date field, because the Guardian story the science page cites is itself dated June 6. The Chelyabinsk meteor injury figure is the world year page's 1,489 to 1,492 range as given; the science page's own image caption says over 1,200 and its dated entry over 1,000, and world.chelyabinsk uses the year page because it is the most precise of the three. The world year page gives 264 injured at the Boston Marathon and the US year page 260, and world.boston_marathon states the first and names the second rather than picking between them. Dropped for lack of any cached source. Also absent for the same reason: David Cameron as UK Prime Minister, which no cached page states directly, so there is no world.uk_pm fact; Bitcoin, Twitter's public offering, Snapchat, Vine, Google Glass and Tumblr, none of which appear anywhere in the cache; and any best-selling album figure, because the music page's only album ranking is a Metacritic acclaim table with a single entry and its award columns for album of the year are both next-year ceremonies. music.listening_format therefore says what the chart page says about how the Hot 100 was compiled and nothing more, and film.how_people_watched claims nothing about home viewing. Facts taking value from one page and detail from another. pol.nsa_disclosures cites the world year page and quotes the science page's description; world.chelyabinsk cites the world year page and names the science page's tonnage and the recovered fragment; sports.super_bowl cites the US year page for the score, venue and outage and names the sports page for the attendance; sports.world_series cites the sports page for the dates, the most valuable player and the title count and names the US year page for the 1918 line; tech.games cites the games page and names the world year page for the Grand Theft Auto V first-day figure, which the games page does not carry; tech.spaceflight cites the US year page and says which two items come from the world year page; deaths.gandolfini cites the film page for the age and names the US year page for the city. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Section windows. tv.emmys, tv.premieres, tv.endings and tv.streaming sit under the plain tv section; tech.social_ap_hoax reaches tech.social through the prefix rule and tech.online_breaches reaches tech.internet the same way; tech.consoles, tech.voyager and tech.spaceflight sit under the tech section default. No radio fact, because that window closed after 1959. culture.memes is open and empty: no cached page describes a meme, and Harlem Shake appears only as a chart position, so it is left as one. Diacritics are written in ASCII per the corpus convention, so Francois Englert, Thomas C. Sudhof, Alfonso Cuaron, Calin Peter Netzer, Malmo, Lac-Megantic, Sebastien Ogier, the Maracana and Nicolas Maduro lose theirs. Dropped for room. Politics and world: the American Taxpayer Relief Act, the Postal Service's Saturday reversal, the same-sex marriage state count, Croatia's accession, the three abdications, the Lac-Megantic derailment, Euromaidan and the Iran nuclear agreement are all in the texture instead of facts; North Korea's third nuclear test of February 12, the Westgate mall attack of September 21 with at least 62 civilians dead, the Washington Navy Yard shooting of September 16, the Yarnell Hill Fire that killed nineteen firefighters on June 30, the Moore tornado of May 20 with 24 dead, the El Reno tornado of May 31, the Colorado floods from September 8, the Bohol earthquake of October 15, the Lushan earthquake of April 20, the Asiana Airlines Flight 214 crash of July 6, the Cyprus bailout of March 25, the Arms Trade Treaty of April 2, the Minamata Treaty of October 10, Saudi Arabia's refusal of a Security Council seat on October 18, the South Sudanese civil war from December 15, the Bali Package of December 7, Park Geun-hye's inauguration on February 25, Maduro's election on April 13, the Rudd and Abbott changes in Australia, the Zimmerman acquittal of July 13, the Boy Scouts decision of May 23, the lifting of the ban on women in combat on January 24, the new hundred-dollar bill of October 8, the JPMorgan settlement of November 19, the Verizon and Vodafone deal and the Microsoft purchase of Nokia's device division, the last two of which are in the texture. Film, television and music: the 2013 Sundance and Toronto festivals, the 70th Golden Globes, the 66th BAFTA ceremony, the KTVU pilot-name broadcast of July 12, the NASCAR rights deal of July 23, the Sinclair purchase of Allbritton, the El Rey network launch, the reformations of Nine Inch Nails, King Crimson, Neutral Milk Hotel, The Postal Service and TLC listed on the music page. Technology and science: Windows 8.1 on October 17, Intel's Haswell processors on June 4, the first cloned human embryonic stem cells on May 15, the naming of MERS on May 15, the first bioengineered blood vessel transplant on June 6, the Archicebus achilles fossil, the Curiosity findings on Martian water and methane, and the Emergency Alert System zombie hoax of February 11. Sport: Justin Rose's US Open, Jason Dufner's PGA Championship, the NFL concussion settlement of August 29, the Houston Astros' move to the American League, the All-Star Game at Citi Field on July 16, the Louisville and Michigan bracket, WrestleMania 29, the Gold Cup, the world athletics championships in Moscow and the rugby league world cup. Deaths that would have earned a place with more room: Hugo Chavez, whom no cached page carries, Aaron Swartz on January 11, Stan Musial and Earl Weaver on January 19, Ed Koch on February 1, Van Cliburn on February 27, C. Everett Koop on February 25, Chinua Achebe on March 21, Annette Funicello on April 8, Jonathan Winters on April 11, Richie Havens on April 22, George Jones on April 26, Ray Harryhausen on May 7, Jean Stapleton on May 31, Deacon Jones on June 3, Esther Williams, Cory Monteith on July 13, Dennis Farina on July 22, Karen Black on August 8, Elmore Leonard on August 20, Hiroshi Yamauchi on September 19, Tom Clancy on October 1, Marcia Wallace, Eleanor Parker on December 9, Joan Fontaine on December 15 and Nelson Mandela, whose absence is explained above. There is no cached deaths page: the manifest records Deaths_in_2013 as a redirect to a list of lists, so every death here comes from the world year page, the US year page or the film page's death table. This file runs 55 facts across 10 sections: politics 6, world 7, film 7, tv 5, music 5, tech 6, prices 4, culture 4, sports 5, deaths 6. Review pass added deaths.mandela. The eleven cached pages carry Nelson Mandela only as the subject of a nominated song, and the research brief at the time allowed a dedicated-article pull for date checking only, so the agent left the death off the page rather than write it from memory. Refusing to write it unsourced was right; the brief was too narrow, and now permits pulling an article whenever the cache lacks a fact the year obviously needs. The fact cites https://en.wikipedia.org/wiki/Nelson_Mandela and says so in its own detail."
+}

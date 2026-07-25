@@ -1,0 +1,530 @@
+{
+  "year": 2014,
+  "tier": "modern",
+  "headline": "Russia annexed Crimea in March, two Malaysia Airlines 777s were lost, and Republicans took the Senate",
+  "texture": [
+    "Latvia adopted the euro on January 1 as the eurozone's eighteenth member. On February 22 the Verkhovna Rada voted Viktor Yanukovych out of office, after unrest that left around 100 people dead in Kyiv. The Parliamentary Assembly of the Council of Europe temporarily stripped Russia of its voting rights on April 10. The Donetsk People's Republic declared independence on April 7 and Luhansk on May 12, and on May 22 the two announced a union they called Novorossiya.",
+    "Boko Haram took an estimated 276 girls and women from a school at Chibok on April 14. Israel's Operation Protective Edge ran from July 8 to August 26 and killed 2,100 Palestinians and 71 Israelis. Benny Tai announced Occupy Central on September 28, and Hong Kong police used tear gas on the crowd outside the government headquarters that day. Forty-three students from a teachers' college at Ayotzinapa were seized at Iguala two days earlier. The Pakistani Taliban killed at least 145 people at an army school in Peshawar on December 16.",
+    "Senate Democrats released a heavily redacted 500-page report on the CIA's interrogation methods on December 9, concluding they were inhumane and largely ineffective. Bill Cosby left Temple University's board of trustees on December 1 amid accusations by at least 26 women. New York banned hydraulic fracturing outright on December 17. Ismaaiyl Brinsley shot two NYPD officers in their cruiser on December 20. American and British troops left Afghanistan on December 28 after thirteen years.",
+    "Microsoft ended support for Windows XP on April 8. The Federal Communications Commission said on May 15 that it would consider either permitting fast and slow broadband lanes or reclassifying broadband as a telecommunication service, and Obama recommended the second on November 10. The Colbert Report finished on December 18 after nine years, nine days after Sons of Anarchy ended, and G4 went dark on December 31. Lizard Squad crashed the PlayStation and Xbox Live servers over the three days after Christmas."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.ukraine",
+    "world.ebola",
+    "film.gross#0",
+    "sports.world_cup",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D)",
+      "detail": "Second year of his second term, with Joe Biden as vice president and John Roberts as Chief Justice. John Boehner (R) was Speaker of the House and Harry Reid (D) Senate majority leader, in the 113th Congress. Obama delivered his State of the Union address on January 28.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "US midterm elections",
+      "value": "Republicans gained nine Senate seats to take control with 54, and gained thirteen in the House for their largest majority since 1928",
+      "detail": "Held on the Tuesday after the first Monday in November, which is November 4 because November 1 was a Saturday and the first Monday was November 3. The US year page and the election's own article both give that date, so there is no disagreement to name. Of the 36 Senate races Republicans won 24 and Democrats 12, the largest Senate gain for either party since 1980. Turnout was 36.4 percent of eligible voters, the lowest since 1942, and total spending of $3.7 billion made it the most expensive midterm to that point. The Louisiana race went to a run-off on December 6, where Bill Cassidy beat the three-term incumbent Mary Landrieu 55.9 percent to 44.1 percent.",
+      "date": "2014-11-04",
+      "source": "https://en.wikipedia.org/wiki/2014_United_States_elections"
+    },
+    "pol.election_firsts": {
+      "section": "politics",
+      "label": "Notable midterm results",
+      "value": [
+        "Joni Ernst became the first woman elected to represent Iowa in the Senate, and with Tom Cotton of Arkansas one of the first two Iraq War veterans elected to it",
+        "Tim Scott became the first African American elected to the Senate from the South since Reconstruction",
+        "The North Carolina Senate race was the most expensive to that point, topping $100 million",
+        "Brad Ashford took Nebraska's second congressional district from Lee Terry, one of the few Democratic gains of the night",
+        "Voters in Alaska, Arkansas, Nebraska and South Dakota approved raising their state minimum wage, and Illinois passed a non-binding measure"
+      ],
+      "detail": "Scott had been appointed in 2013 to the vacancy left by Jim DeMint. No candidate in the Vermont governor's race reached 50 percent, which under the state constitution left the legislature to decide it.",
+      "date": "2014-11-04",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court decisions",
+      "value": [
+        "McCutcheon v. Federal Election Commission, April 2, striking down limits on the total amount an individual may contribute to political campaigns in a two-year cycle, 5 to 4",
+        "Riley v. California, June 25, requiring a warrant to search a phone or digital device, unanimous",
+        "American Broadcasting Companies v. Aereo, June 25, against Aereo's rebroadcasting of over-the-air programming without retransmission consent, 6 to 3",
+        "National Labor Relations Board v. Noel Canning, June 26, limiting the executive branch's recess appointment power, unanimous",
+        "The contraception mandate ruling of June 30, holding that the Affordable Care Act mandate could not be enforced on closely held corporations, in a suit brought by Hobby Lobby and Conestoga Wood Specialties, 5 to 4"
+      ],
+      "detail": "The Court also upheld an amendment to the Michigan state constitution on April 22 by 6 to 2, ruled on May 5 by 5 to 4 that opening prayers may precede town meetings, and held on December 15 by 8 to 1 that evidence collected under a police misreading of the law is admissible.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "pol.same_sex_marriage": {
+      "section": "politics",
+      "label": "Same-sex marriage",
+      "value": "The Supreme Court declined to hear appeals between October 6 and 12, immediately legalising same-sex marriage in Virginia, Utah, Indiana, Oklahoma and Wisconsin",
+      "detail": "Nevada, Colorado, West Virginia, Idaho, North Carolina and Alaska followed. Federal judges had struck down bans in Oklahoma on January 14, Virginia on February 13, Texas on February 26, Michigan on March 21, Oregon on May 19 and Wisconsin on June 6, and on June 25 the Tenth Circuit became the first appeals court to rule against a ban, Utah's. A Tennessee state judge upheld that state's ban on August 11, breaking the run.",
+      "date": "2014-10-06",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "pol.police_protests": {
+      "section": "politics",
+      "label": "Killings by police and the protests that followed",
+      "value": [
+        "Michael Brown, shot by an officer in Ferguson, Missouri, on August 9",
+        "Tamir Rice, aged twelve, killed by an officer in Cleveland, Ohio, on November 22",
+        "Eric Garner, whose death brought protests in New York City after a grand jury declined to indict on December 4"
+      ],
+      "detail": "Missouri's governor Jay Nixon declared a state of emergency and a midnight curfew for Ferguson on August 16. Riots followed the November 24 announcement that there was insufficient evidence to indict officer Darren Wilson, with mass looting, 12 buildings burned and 29 arrests, and protests in New York City and Los Angeles continued for over a week.",
+      "date": "2014-08-09",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "pol.immigration": {
+      "section": "politics",
+      "label": "Immigration executive action",
+      "value": "Obama announced in a televised speech that he would use executive action to deport criminals and grant citizenship to about 4.4 million people in the country illegally",
+      "detail": "He called it a commonsense, middle-ground approach, and the US year page says the Republican Party's response was severe backlash. Boehner had announced on June 25 that he intended to sue over Obama's use of executive orders, which Obama dismissed as a stunt.",
+      "date": "2014-11-20",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "pol.cuba": {
+      "section": "politics",
+      "label": "Relations with Cuba resumed",
+      "value": "Obama announced the resumption of normal relations and an end to the embargo, the first such move since January 1961",
+      "date": "2014-12-17",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "world.ukraine": {
+      "section": "world",
+      "label": "Crimea annexed",
+      "value": "Russia formally annexed Crimea on March 21 after Vladimir Putin signed the bill formalising the process",
+      "detail": "The Verkhovna Rada voted Yanukovych out on February 22 and replaced him with Oleksandr Turchynov, after days of unrest that left around 100 people dead in Kyiv. A disputed referendum on Crimea's status was held on March 16. On March 24 the United Kingdom, the United States, Italy, Germany, France, Japan and Canada suspended Russia from the G8, and American sanctions took effect on April 28.",
+      "date": "2014-03-21",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "world.mh370": {
+      "section": "world",
+      "label": "Malaysia Airlines Flight 370 disappeared",
+      "value": "A Boeing 777 flying from Kuala Lumpur to Beijing vanished over the Gulf of Thailand with 239 people on board",
+      "detail": "The year page says the aircraft is presumed to have crashed into the Indian Ocean and carries no further account of it.",
+      "date": "2014-03-08",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "world.mh17": {
+      "section": "world",
+      "label": "Malaysia Airlines Flight 17 shot down",
+      "value": "A Boeing 777 was brought down by a missile over eastern Ukraine, killing all 298 people on board",
+      "detail": "The United Nations Security Council adopted Resolution 2166 in response on July 21. The year page's summary attributes the shootdown to Russian-backed forces.",
+      "date": "2014-07-17",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "world.ebola": {
+      "section": "world",
+      "label": "West African Ebola epidemic",
+      "value": "The World Health Organization declared the outbreak a Public Health Emergency of International Concern, with Guinea, Liberia and Sierra Leone worst hit",
+      "detail": "The year page gives two different totals and both cover the whole outbreak rather than this year alone, so neither is adjusted here: its opening summary says 28,646 confirmed infections and 11,323 confirmed deaths citing the World Health Organization, and its February entry says at least 28,616 infected and at least 11,310 killed citing the CDC. The outbreak began the previous year. The CDC reported the first case diagnosed in the United States, in Dallas, on September 30, and on October 12 confirmed the first case contracted inside the country, in a Texas health care worker. Obama named Ron Klain Ebola response coordinator on October 17.",
+      "date": "2014-08-08",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "world.isis": {
+      "section": "world",
+      "label": "Islamic State declared a caliphate",
+      "value": "The Islamic State of Iraq and the Levant began an offensive through northern Iraq on June 5 aiming at Baghdad, and declared itself a caliphate on June 29",
+      "detail": "The year page says it killed 1,566 Shia Iraqi Air Force cadets in the Camp Speicher massacre on June 12, which it calls the second deadliest terrorist attack in history and the deadliest ISIL conducted, and massacred over 4,000 Yazidis in Iraq's Sinjar District from August 3. The United States began an air campaign in northern Iraq on August 8 and, with several Arab partners, strikes in Syria on September 22.",
+      "date": "2014-06-29",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "world.scotland": {
+      "section": "world",
+      "label": "Scottish independence referendum",
+      "value": "Scotland voted against independence from the United Kingdom",
+      "detail": "The year page attaches a New York Times report of September 19 saying Alex Salmond would resign after losing the vote.",
+      "date": "2014-09-18",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "world.sewol": {
+      "section": "world",
+      "label": "MV Sewol sank",
+      "value": "The South Korean ferry capsized and sank after an unmanageable cargo shift, killing 304 people, mostly high school students",
+      "date": "2014-04-16",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Transformers: Age of Extinction, $1,104,054,072, Paramount",
+        "The Hobbit: The Battle of the Five Armies, $962,201,338, Warner Bros.",
+        "Guardians of the Galaxy, $772,776,600, Disney",
+        "Maleficent, $758,410,378, Disney",
+        "The Hunger Games: Mockingjay Part 1, $755,356,711, Lionsgate"
+      ],
+      "detail": "Worldwide gross rather than domestic. The film page's table header reads Worldwide gross and the sentence above it says the top ten films released in 2014 by worldwide gross, citing Box Office Mojo. Transformers: Age of Extinction passed $1.1 billion, which the page marks as the tenth highest-grossing film of all time at its peak. No animated film made the top ten, which the page says had not happened since 1997, though Big Hero 6 and How to Train Your Dragon 2 came eleventh and twelfth. PK became the first Indian film to gross more than $100 million.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Birdman or (The Unexpected Virtue of Ignorance), produced by Alejandro G. Inarritu, John Lesher and James W. Skotchdopole",
+      "detail": "Awarded the following February at the 87th Academy Awards, hosted by Neil Patrick Harris at the Dolby Theatre in Hollywood, his first time. Birdman won four awards including Best Director for Inarritu, and The Grand Budapest Hotel also won four, from nine nominations each. Whiplash won three. The telecast drew more than 37 million viewers in the United States. The other Best Picture nominees included American Sniper and Boyhood.",
+      "source": "https://en.wikipedia.org/wiki/87th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Eddie Redmayne, The Theory of Everything, as Stephen Hawking",
+        "Best Actress, Julianne Moore, Still Alice, as Alice Howland",
+        "Best Supporting Actor, J. K. Simmons, Whiplash, as Terence Fletcher",
+        "Best Supporting Actress, Patricia Arquette, Boyhood, as Olivia Evans"
+      ],
+      "detail": "Graham Moore won Best Adapted Screenplay for The Imitation Game, Alexandre Desplat Best Original Score for The Grand Budapest Hotel, and Common and John Legend Best Original Song for Glory from Selma. Big Hero 6 took Best Animated Feature and Citizenfour Best Documentary.",
+      "source": "https://en.wikipedia.org/wiki/87th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Ida (Poland), in Polish, directed by Pawel Pawlikowski, the winner",
+        "Leviathan (Russia), in Russian, directed by Andrey Zvyagintsev",
+        "Tangerines (Estonia), in Estonian and Russian, directed by Zaza Urushadze",
+        "Timbuktu (Mauritania), in French, directed by Abderrahmane Sissako",
+        "Wild Tales (Argentina), in Spanish, directed by Damian Szifron"
+      ],
+      "detail": "The Palme d'Or at the 67th Cannes Film Festival went to Nuri Bilge Ceylan's Winter Sleep, from Turkey, and the Golden Lion at the 71st Venice International Film Festival to Roy Andersson's A Pigeon Sat on a Branch Reflecting on Existence, from Sweden.",
+      "source": "https://en.wikipedia.org/wiki/87th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$8.17",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "Theatre first, then whatever the studio could reach. Sony put The Interview on Google Play, YouTube, Xbox Live and the film's own website on December 24, the same day it opened in a limited theatrical run",
+      "detail": "Five major American theatre chains had refused to show the film after the Sony Pictures hack and threats from a group sympathetic to North Korea, and Sony cancelled the release on December 17 before reversing itself a week later. The film page itself says nothing at all about how a film reached a living room, and neither does any other cached page except the television page's streaming launches.",
+      "date": "2014-12-24",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2014",
+      "value": [
+        "Sunday Night Football, NBC, 12.3 rating",
+        "The Big Bang Theory, CBS, 11.6",
+        "NCIS, CBS, 11.6",
+        "NCIS: New Orleans, CBS, 11.3",
+        "Empire, FOX, 10.9"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this ranking covers the season that opened in the autumn and ran into the following spring. Thursday Night Football was sixth on 10.6 for CBS, Dancing with the Stars seventh on 9.7 for ABC, and Criminal Minds, Madam Secretary and Scandal tied eighth on 9.0.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2014%E2%80%9315"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "True Detective, HBO, January 12",
+        "Cosmos: A Spacetime Odyssey, Fox and National Geographic, March 9",
+        "Fargo, FX, April 15",
+        "Halt and Catch Fire, AMC, June 1",
+        "The Leftovers, HBO, June 29",
+        "Gotham, Fox, September 22",
+        "The Flash, The CW, October 7",
+        "Jane the Virgin, The CW, October 13",
+        "Marco Polo, Netflix, December 12"
+      ],
+      "detail": "The television page's debut table gives each date and channel. Scorpion and Forever also arrived on September 22, Mulaney on October 5 and Constantine on October 24. The table's date cell for Black-ish is missing, so no date is given for it here.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_American_television"
+    },
+    "tv.streaming": {
+      "section": "tv",
+      "label": "New streaming services",
+      "value": [
+        "Pluto TV, March 31, free and ad-supported",
+        "Tubi, April 16",
+        "CBS All Access, October 28"
+      ],
+      "detail": "ABC had opened the year on January 6 by limiting day-after streaming of new episodes to customers of participating cable providers, Hulu Plus, iTunes and Amazon Video, and holding free access on its own site back for eight days after broadcast. ABC Family launched an authenticated streaming service the same day.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_American_television"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "66th Primetime Emmy Awards",
+      "value": "Modern Family took Outstanding Comedy Series and Breaking Bad Outstanding Drama Series",
+      "detail": "Held at the Nokia Theatre in Los Angeles on a Monday, the first time since 1976, to avoid a clash with Sunday Night Football and the Video Music Awards the night before. Modern Family's fifth win in the category tied Frasier's record.",
+      "date": "2014-08-25",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Happy, Pharrell Williams",
+      "detail": "It spent ten consecutive weeks at the top of the weekly chart. Dark Horse by Katy Perry featuring Juicy J came second and All of Me by John Legend third. Katy Perry was the top Hot 100 artist of the year with three placements, and Iggy Azalea had four songs on the list, the most of any artist. It was the first time in eight years that a male artist topped the year-end chart with a song that was not a collaboration.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2014"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The Hot 100 counted physical and digital single sales alongside radio airplay and streaming, compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on December 9 from data running from December 7, 2013 to November 29. This is the only claim about playback anywhere in the cached pages, so nothing here is said about vinyl, discs or subscription services.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2014"
+    },
+    "music.awards": {
+      "section": "music",
+      "label": "Music awards",
+      "value": [
+        "MTV Video Music Awards, August 24, Best Video to Wrecking Ball by Miley Cyrus",
+        "MTV Europe Music Awards, November 9, Best Song to Problem by Ariana Grande featuring Iggy Azalea and Best Video to Dark Horse",
+        "American Music Awards, November 23, Best Artist to One Direction and Best Song to Dark Horse"
+      ],
+      "detail": "The music page's award table gives each date. Its Best Album column is empty for all three ceremonies.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Conchita Wurst won for Austria with Rise Like a Phoenix, at the contest held in Copenhagen from May 6 to 10",
+      "date": "2014-05-10",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "tech.internet_mobile": {
+      "section": "tech",
+      "label": "Mobile passed desktop",
+      "value": "The number of people in the United States using mobile devices to reach the internet overtook the number using desktop computers for the first time",
+      "detail": "The year page dates the crossover to February 28 and gives no figure for either side.",
+      "date": "2014-02-28",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "tech.internet_heartbleed": {
+      "section": "tech",
+      "label": "Heartbleed",
+      "value": "A bug in OpenSSL was estimated to have left 17 percent of the internet's secure web servers open to data theft",
+      "date": "2014-04-07",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "tech.online_breaches": {
+      "section": "tech",
+      "label": "Breaches and leaks",
+      "value": [
+        "Around 100 celebrities had private photographs released through Reddit and 4chan on August 31, prompting an FBI investigation and criticism of Apple's iCloud",
+        "Home Depot said on September 18 that about 56 million customer debit and credit cards were at risk after an attack on its payment systems",
+        "The FBI opened an investigation into the Sony Pictures hack on December 2, believing North Korea's leadership responsible"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "tech.acquisitions": {
+      "section": "tech",
+      "label": "Companies bought",
+      "value": [
+        "Facebook bought Oculus, a virtual reality display maker, for $2 billion, announced March 26",
+        "Disney bought Maker Studios, an internet video company, for $500 million, announced March 24",
+        "Amazon bought the live streaming site Twitch for $970 million, August 26",
+        "Microsoft bought Mojang, the maker of Minecraft, for $2 billion, announced September 15"
+      ],
+      "detail": "Comcast had agreed on February 13 to buy Time Warner Cable for $45 billion, which the US year page says would have joined the two largest American cable companies if the government approved it.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Highest-grossing video games, worldwide revenue",
+      "value": [
+        "Puzzle & Dragons, $1,500,000,000, GungHo Online Entertainment, mobile, free-to-play",
+        "Crossfire, $1,400,000,000, Smilegate and Tencent, PC, free-to-play",
+        "Candy Crush Saga, $1,330,000,000, King Digital, mobile, free-to-play",
+        "Clash of Clans, $1,000,000,000, Supercell, mobile, free-to-play",
+        "League of Legends, $946,000,000, Riot Games and Tencent, PC, free-to-play"
+      ],
+      "detail": "The games page counts physical sales, digital purchases, subscriptions, microtransactions and free-to-play and pay-to-play revenue across mobile, PC and console, and every one of the top five was free to install. Call of Duty: Advanced Warfare was seventh at $840,000,000, the first buy-to-play title on the list. Grand Theft Auto V reached the PlayStation 4 and Xbox One on November 18 and scored 97 out of 100 on Metacritic, the year's highest. Dragon Age: Inquisition took Game of the Year at The Game Awards on December 5, and Dark Souls II took it at the 32nd Golden Joystick Awards on October 24.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_video_games"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "The Philae probe from the Rosetta spacecraft landed on the surface of Comet 67P at a site named Agilkia on November 12, the first landing on a comet",
+        "India's first probe to Mars, the Mars Orbiter Mission, entered orbit at 02:00 UTC on September 24",
+        "NASA's MAVEN probe began orbiting Mars on September 21",
+        "NASA flew the Orion spacecraft uncrewed for the first time on December 5",
+        "Japan launched the Hayabusa2 asteroid sample return mission on December 3"
+      ],
+      "detail": "The science page's own summary names the comet landing and the first complete stem-cell-assisted recovery from paraplegia as the year's two significant events. An Antares rocket built by Orbital Sciences and bound for the International Space Station exploded just after launch on October 28, destroying the vehicle and badly damaging launch pad 0 at the Mid-Atlantic Regional Spaceport. Virgin Galactic's SpaceShipTwo suffered an in-flight anomaly on October 31 followed by an explosion and crash in the Mojave desert that killed one pilot and injured another.",
+      "date": "2014-11-12",
+      "source": "https://en.wikipedia.org/wiki/2014_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.37 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "5.6 percent in December, which the US year page calls the lowest since June 2008",
+      "detail": "The same page reports 248,000 jobs added in September, putting the rate at 5.9 percent, which it calls the lowest since July 2008. The two months carry different comparison dates in the source and are stated as written.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "prices.fed_chair": {
+      "section": "prices",
+      "label": "Federal Reserve chair",
+      "value": "Janet Yellen succeeded Ben Bernanke as the fifteenth Chairperson of the Federal Reserve",
+      "detail": "The US year page records the succession in a single line and carries no Federal Reserve rate decision anywhere in the year, so none is stated here.",
+      "date": "2014-02-03",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "One airline lost two aircraft between March and July, an epidemic in West Africa reached a Dallas hospital in the autumn, and protests over killings by police ran from a Missouri suburb in August to New York City in December."
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "Words dated to this year",
+      "value": [
+        "Black Lives Matter",
+        "gig worker",
+        "manspreading",
+        "on fleek",
+        "hard pass",
+        "initial coin offering",
+        "acute flaccid myelitis"
+      ],
+      "detail": "The year page's list of new English words, taken from Merriam-Webster's record of the first known use of each term. The same list also carries aro and zoom.",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Patrick Modiano",
+        "Peace, Kailash Satyarthi and Malala Yousafzai",
+        "Physics, Isamu Akasaki, Hiroshi Amano and Shuji Nakamura",
+        "Chemistry, Eric Betzig, Stefan Hell and William E. Moerner",
+        "Medicine, John O'Keefe, May-Britt Moser and Edvard Moser",
+        "Economics, Jean Tirole"
+      ],
+      "detail": "The year page gives no announcement dates.",
+      "source": "https://en.wikipedia.org/wiki/2014"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLVIII",
+      "value": "Seattle Seahawks 43, Denver Broncos 8, at MetLife Stadium in front of 82,529",
+      "detail": "Seattle's first championship. Malcolm Smith was named most valuable player. The television page counts 111.5 million US viewers and says it was the fourth time since 2010 that the game set the all-time viewership record.",
+      "date": "2014-02-02",
+      "source": "https://en.wikipedia.org/wiki/2014_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "San Francisco Giants beat the Kansas City Royals four games to three, an eighth title",
+      "detail": "Played October 21 to 29. Madison Bumgarner was named most valuable player.",
+      "date": "2014-10-29",
+      "source": "https://en.wikipedia.org/wiki/2014_in_sports"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held in Sochi from February 7 to 23, with slopestyle events on the programme for the first time",
+      "detail": "Russia, the host, led both the gold and the overall medal tallies with 13 and 33. The United States won 9 gold, 7 silver and 12 bronze, and Meryl Davis and Charlie White became the first American couple to take the ice dancing gold.",
+      "date": "2014-02-07",
+      "source": "https://en.wikipedia.org/wiki/2014_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Germany beat Argentina 1 to 0 after extra time at the Estadio do Maracana in Rio de Janeiro, a fourth title",
+      "detail": "Brazil hosted, opened the tournament on June 12 by beating Croatia 3 to 1, then lost the semi-final to Germany 7 to 1 on July 8 after trailing 5 to 0 inside 29 minutes. The Netherlands took third place.",
+      "date": "2014-07-13",
+      "source": "https://en.wikipedia.org/wiki/2014_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, San Antonio Spurs over the Miami Heat four games to one, a fifth title, with Kawhi Leonard named most valuable player",
+        "Stanley Cup, Los Angeles Kings over the New York Rangers four games to one, a second cup, with Justin Williams taking the Conn Smythe Trophy",
+        "NCAA men's basketball, Connecticut 60, Kentucky 54, at AT&T Stadium in Arlington, Texas",
+        "College World Series, Vanderbilt over Virginia 2 to 1 in the final series, the school's first NCAA title in any men's sport",
+        "Six Nations, Ireland, a twelfth title, with England taking the Triple Crown",
+        "Commonwealth Games in Glasgow, July 23 to August 3, England leading both medal tallies with 58 gold and 174 in all"
+      ],
+      "detail": "Vincenzo Nibali won the Tour de France, Martin Kaymer the US Open golf, Bubba Watson the Masters, and California Chrome the Kentucky Derby under Victor Espinoza. Dale Earnhardt Jr. won the Daytona 500 on February 23, ending a 55-race winless run. Sri Lanka won the ICC World Twenty20 in Bangladesh and Australia the women's tournament.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Stanislas Wawrinka and Li Na",
+        "French Open, Rafael Nadal and Maria Sharapova",
+        "Wimbledon, Novak Djokovic and Petra Kvitova",
+        "US Open, Marin Cilic and Serena Williams"
+      ],
+      "detail": "Nadal's ninth French Open. Sharapova's second there and fifth major overall. Djokovic's second Wimbledon and seventh major, Kvitova's second Wimbledon and second major. Serena Williams also won the season-ending championship in Singapore.",
+      "source": "https://en.wikipedia.org/wiki/2014_in_sports"
+    },
+    "deaths.williams": {
+      "section": "deaths",
+      "label": "Robin Williams",
+      "value": "Died August 11, aged 63, by suicide at his home in Paradise Cay, California",
+      "detail": "Actor and comedian. The film page's death table names Dead Poets Society and Good Will Hunting.",
+      "date": "2014-08-11",
+      "source": "https://en.wikipedia.org/wiki/2014_in_the_United_States"
+    },
+    "deaths.hoffman": {
+      "section": "deaths",
+      "label": "Philip Seymour Hoffman",
+      "value": "Died February 2, aged 46",
+      "detail": "Actor. The film page's death table names Capote and Doubt.",
+      "date": "2014-02-02",
+      "source": "https://en.wikipedia.org/wiki/2014_in_film"
+    },
+    "deaths.temple": {
+      "section": "deaths",
+      "label": "Shirley Temple",
+      "value": "Died February 10, aged 85",
+      "detail": "Actress and singer. The film page's death table names Heidi and The Little Princess.",
+      "date": "2014-02-10",
+      "source": "https://en.wikipedia.org/wiki/2014_in_film"
+    },
+    "deaths.bacall": {
+      "section": "deaths",
+      "label": "Lauren Bacall",
+      "value": "Died August 12, aged 89, the day after Robin Williams",
+      "detail": "Actress. The film page's death table names To Have and Have Not and The Mirror Has Two Faces.",
+      "date": "2014-08-12",
+      "source": "https://en.wikipedia.org/wiki/2014_in_film"
+    },
+    "deaths.attenborough": {
+      "section": "deaths",
+      "label": "Richard Attenborough",
+      "value": "Died August 24, aged 90",
+      "detail": "British actor and director. The film page's death table names Jurassic Park and Gandhi.",
+      "date": "2014-08-24",
+      "source": "https://en.wikipedia.org/wiki/2014_in_film"
+    },
+    "deaths.angelou": {
+      "section": "deaths",
+      "label": "Maya Angelou",
+      "value": "Died May 28, aged 86",
+      "detail": "The film page's death table files her as an actress and names Madea's Family Reunion and Poetic Justice. The Academy Awards memorial segment lists her as a poet. Both descriptions come from cached pages and neither is dropped.",
+      "date": "2014-05-28",
+      "source": "https://en.wikipedia.org/wiki/2014_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2014 plus one dedicated article pulled for the date check. Box office basis. bo.mjs reports UNSTATED because it reads the first column header, which is Rank. The fourth column header reads Worldwide gross and the sentence above the table says the top ten films released in 2014 by worldwide gross, citing Box Office Mojo, so figures_basis is gross and film.gross names worldwide in both label and detail. Date check. The midterms fall on the Tuesday after the first Monday in November. November 1 was a Saturday, so the first Monday was November 3 and the Tuesday after it November 4, which is what both cached year pages give. The election's own article was pulled as raw wikitext to confirm it and agrees, so there is no disagreement to name; it is cited anyway because pol.election takes the Senate and House net gains, the 54-seat total, the 36 contested races, the turnout figure, the total spending and the Louisiana run-off result from it, and no cached page carries any of them. Source disagreements labelled rather than resolved. The year page gives two Ebola totals, 28,646 infections and 11,323 deaths in its opening summary citing the World Health Organization and at least 28,616 and at least 11,310 in its February entry citing the CDC, and world.ebola states both and says both cover the whole outbreak rather than this year. The same page's summary says the three aircraft losses claimed over 700 lives, while its three dated entries give 239 aboard Flight 370, 298 aboard Flight 17 and 162 aboard Indonesia AirAsia Flight 8501, which total 699; the three per-event figures are stated in the facts and the summary total is not, because it cannot be reconciled with them. The elections article says Republicans won a net gain of two governorships in its prose and three in its infobox, so no governor figure is given at all. The US year page's December unemployment entry compares to June 2008 and its October entry to July 2008, which prices.unemployment states as the two different comparisons they are rather than picking one. Dropped for lack of a source. No cached page mentions the Ice Bucket Challenge, Apple Watch, the iPhone 6, Alibaba's listing, Taylor Swift leaving Spotify, or the vinyl revival, so there is no culture.memes fact, no smartphone fact and no streaming-subscriber figure anywhere in this file. The music page for this year is a directory stub with no prose about sales or playback at all, which is why music.listening_format cites the Hot 100 page's own methodology paragraph and says so. The sports page gives no Formula One season champion, only individual race winners, so no drivers' title is claimed; Lewis Hamilton won the British and Abu Dhabi Grands Prix per that page and nothing more is asserted. Facts taking value from one page and detail from another. sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player and names the television page for the 111.5 million viewers. sports.champions cites the sports page and takes the Connecticut and Kentucky score, the AT&T Stadium venue and the Daytona 500 detail from the US year page, and the Stanley Cup series margin and second-cup line from the world year page. sports.olympics cites the sports page for the Russian medal tallies and the slopestyle line and takes the American medal breakdown and the Davis and White result from the US year page. pol.police_protests cites the US year page for Michael Brown, Eric Garner and the Ferguson unrest and takes the Tamir Rice line from the world year page. deaths.williams cites the US year page for the date, age and place and names the film page's death table for the films. deaths.angelou cites the film page and names the Academy Awards memorial segment for the second description. tech.acquisitions and tech.online_breaches are entirely from the US year page. tech.spaceflight is entirely from the science page, which is why the Mars Orbiter Mission line gives only what that page says and leaves out the world year page's claim that India was the first Asian country to reach Mars and its detail that Hayabusa2 left the Tanegashima Space Center bound for Ryugu. Nothing in this file reaches into the following year. Left out for that reason: the 87th Academy Awards ceremony date, which film.best_picture gives as the following February per the corpus convention; the 57th Grammy Awards and the Billboard Music Awards, both of which the music page dates to the following year, which is why music.awards carries only the three ceremonies held this year; the 72nd Golden Globes, the 20th Critics' Choice Awards and the 68th BAFTA Awards, all in the film page's award table with next-year dates; the 18th D.I.C.E. Awards, the 15th Game Developers Choice Awards and the 11th British Academy Games Awards; the Louisiana run-off winner taking his seat; the Kobani siege's six-month length; Hayabusa2's round-trip duration; the Comcast and Time Warner Cable deal's outcome; Russia being stripped of 11 Sochi medals, which the sports page records as a later consequence of the doping scandal; the 2016 date on which mobile internet use passed desktop worldwide, which the year page attaches to the American crossover; Chelsea Handler's talk show relaunch; and Psych's later film series. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. Indonesia AirAsia Flight 8501, Air Algerie Flight 5017 and Resolution 2166 all exceed 2099 and never match. Comet 67P, Boeing 777, Flight 370, Flight 17, Hayabusa2, Grand Theft Auto V, Dark Souls II, Windows XP, Super Bowl XLVIII, G4 and 4chan are all safe on the digit-count or word-boundary rules. Every candidate was run through checkname.mjs rather than reasoned about, and nothing was dropped on the anachronism rule. Section windows. tech.internet_mobile and tech.internet_heartbleed reach tech.internet through the prefix rule, tech.online_breaches likewise, tech.games reaches its own window, and music.listening_format reaches music.format. tv.streaming, tv.premieres and tv.emmys sit under the plain tv section. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the first half of its own answer, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Diacritics are written in ASCII per the corpus convention, so Alejandro G. Inarritu, Pawel Pawlikowski, Damian Szifron, Petra Kvitova, Marin Cilic, Estadio do Maracana, Kobani and Odesa lose theirs. Deaths carry an age because the film page's death table gives one; there is no cached deaths page, the manifest recording Deaths_in_2014 as a redirect to a list of lists, so every death here comes from the film page's table or the US year page. Dropped for room. Politics and world: the CIA interrogation report of December 9, the Cosby resignation of December 1, the New York fracking ban of December 17, the killings of two NYPD officers on December 20 and the Afghanistan withdrawal of December 28 are all in the texture instead of facts, as are the Donetsk and Luhansk declarations, the Novorossiya announcement, the Council of Europe vote of April 10 and Latvia's adoption of the euro; also the Chibok kidnapping, Operation Protective Edge, the Hong Kong protests, the Ayotzinapa disappearances and the Peshawar school massacre, which are in the texture with their dates and counts. Out entirely: the Thai coup of May 22, Narendra Modi succeeding Manmohan Singh on May 26, Felipe VI taking the Spanish throne on June 19, Joko Widodo's inauguration on October 20, Blaise Compaore's resignation on October 31, Stefan Lofven replacing Fredrik Reinfeldt on October 3, the Yemeni civil war beginning at Sanaa on September 21, the Second Libyan Civil War beginning at Benghazi on May 16, the Kunming attack of March 1, the Urumqi attack of May 22, the Pyongyang building collapse of May 14, the Jangseong nursing home fire of May 28, the Jos bombings of May 20, the Gamboru Ngala attack of May 5, the Guen massacre, the Elk River chemical spill of January 9, the Belgian euthanasia law of February 13, the canonisation of two popes on April 27, the beatification of Paul VI on October 19, Typhoon Rammasun, Air Algerie Flight 5017, Indonesia AirAsia Flight 8501, the Lindt Cafe siege of December 15, the Shanghai New Year stampede, the Mount Ontake eruption of September 27, the Khmer Rouge convictions of August 7, the International Court of Justice whaling ruling of March 31, the polio emergency of May 5, the IPCC report of November 2, One World Trade Center opening on November 3, the last DC-10 passenger flight on February 24, the Oso mudflow of March 22, the Napa earthquake of August 24, the Fort Hood shooting of April 2, the Isla Vista killings of May 23, the beheadings of James Foley and Steven Sotloff, the Bundy standoff, the VA scandal and Eric Shinseki's resignation, the Bergdahl exchange, the Eric Cantor primary defeat of June 10, the Flint water switch of April 21, the Colorado and Washington cannabis sales, Alan Eustace's parachute jump of October 24, the executive order of February 12 raising the minimum wage for federal contract workers, and Connecticut's law of March 26 taking its own minimum wage from $8.70 to $10.10, the first state to answer Obama's call for an increase. Film and television: the 86th Academy Awards of March 2, hosted by Ellen DeGeneres, left out on the same ground as other years because it honoured the previous year of film and would put a second Best Picture on the page; the Sundance, Berlin and Sarajevo festivals; The Lego Movie on February 7, Captain America: The Winter Soldier on April 4, Guardians of the Galaxy on August 1 and Big Hero 6 on November 7, all dated on the US year page and all left out because film.gross already carries three of the four; the Tonight Show moving back to New York with Jimmy Fallon on February 17 and Seth Meyers taking Late Night on February 24; the 41st Daytime Emmy Awards, held online only; the True Blood, Boardwalk Empire and White Collar endings. Music: the 2014 MTV Video Music Awards nominees, Fifth Harmony and 5 Seconds of Summer as best new artists, and the music page's lists of bands formed, reformed and disbanded. Technology: the Windows XP support cutoff of April 8 and the Lizard Squad attacks of December 24 to 26, both in the texture; Kepler-186f, the Samsung graphene wafer process of April 6, the first CRISPR-edited monkeys, the Digital Einstein release of December 5, and the New Nintendo 3DS launches of October 11 in Japan and November 21 in Australasia. Sport: the Sochi doping consequences, the Donald Sterling ban of April 29, the Tony Stewart accident of August 9, Ryan Hunter-Reay's Indianapolis 500, the Vanderbilt and Virginia rematch, the Gay Games in Cleveland and the Summer Youth Olympics. Deaths that would have earned a place with more room: Mickey Rooney on April 6 aged 93, Harold Ramis on February 24 aged 69, Mike Nichols on November 19 aged 83, James Garner on July 19 aged 86, Joan Rivers on September 4 aged 81, Eli Wallach on June 24 aged 98, Bob Hoskins on April 29, Ruby Dee, Elaine Stritch on July 17, Maximilian Schell on February 1 aged 83, Run Run Shaw on January 7 aged 106, Saul Zaentz on January 3, Efrem Zimbalist Jr. on May 2, Gary Becker on May 3 and H. R. Giger. This file runs 54 facts across 10 sections: politics 8, world 7, film 6, tv 4, music 4, tech 6, prices 4, culture 3, sports 6, deaths 6. Politics runs to eight because the midterm result and the two senators elected on the same day are separate claims from separate pages and neither belongs in the other's detail."
+}
