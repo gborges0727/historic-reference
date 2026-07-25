@@ -1,0 +1,530 @@
+{
+  "year": 1977,
+  "tier": "broadcast",
+  "headline": "Jimmy Carter was sworn in on January 20, Star Wars opened on May 25, and Elvis Presley died at Graceland in August",
+  "texture": [
+    "Australia's worst railway disaster killed 83 at Granville outside Sydney on January 18. A firecracker lit during Chinese New Year set fire to wreaths laid for Mao Zedong at the Xinjiang 61st Regiment Farm on February 18, killing 694, most of them children. The Vrancea earthquake in the Romanian mountains killed more than 1,500 on March 4. Fire took the Beverly Hills Supper Club at Southgate, Kentucky on May 28 with 165 people inside. The Kelly Barnes Dam above Toccoa Falls Bible College in Georgia gave way on November 6 and killed 39.",
+    "The power failed across New York on July 13 and stayed off through the following day, 25 hours of looting and arson. NRBQ played an all-acoustic set at The Bottom Line that night with flashlights taped to their microphone stands. David Berkowitz was captured in Yonkers on August 10 after more than a year of murders in the city as the Son of Sam. George Willig had climbed the south tower of the World Trade Center on May 26.",
+    "Snow fell on Miami on January 19, the only snowfall in the city's history. The contiguous states averaged a monthly minimum of 12.54 degrees Fahrenheit that January, the coldest for any month since nationwide records began in 1895, while Alaska recorded its warmest January to that point, a mean of 17.4 against an average of 1.2 across the half century to 1974. The Great Lakes Blizzard reached Buffalo on January 28. The Ohio Valley had its coldest winter in fifty-nine years. The Great Bakersfield Dust Storm crossed the southern San Joaquin Valley from December 19 to 21, killing three and doing $40 million of damage.",
+    "Red Rum won a third Grand National at Aintree on April 2. Australia and England met at the Melbourne Cricket Ground from March 12 for the Centenary Test, a hundred years after the first Test match, and Australia won by 45 runs, the margin of that first game in 1877. A. J. Foyt took a fourth Indianapolis 500 on May 29, the first driver to win it four times. Courageous, skippered by Ted Turner, swept the challenger Australia in the 24th America's Cup at Newport on September 18."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.inauguration",
+    "world.tenerife",
+    "film.gross#0",
+    "film.how_people_watched",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Gerald Ford (R) until January 20, then Jimmy Carter (D)",
+      "detail": "The US year page gives Ford as a Republican of Michigan and Carter as a Democrat of Georgia. Nelson Rockefeller, a Republican of New York, was Vice President until January 20 and Walter Mondale, a Democrat of Minnesota, from that day. Warren E. Burger of Virginia was Chief Justice. Carl Albert, a Democrat of Oklahoma, was Speaker of the House until January 3 and Tip O'Neill of Massachusetts from January 4. Mike Mansfield of Montana was Senate majority leader until January 3 and Robert Byrd of West Virginia from that day. The 94th Congress sat until January 3 and the 95th from then on.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "Carter sworn in as the 39th President",
+      "value": "Took the oath at the East Portico of the Capitol from Chief Justice Warren E. Burger, while Speaker Tip O'Neill swore in Walter Mondale as the 42nd Vice President",
+      "detail": "The date carries a checkable constitutional constraint and it holds. Both cached year pages give January 20, and the dedicated inauguration article, pulled as raw wikitext to check them, gives Thursday, January 20, at the East Portico. That article is cited here because neither year page carries any of the ceremony detail. It adds that this was the 48th inauguration, that Carter swore on his family Bible opened at Micah 6:8 alongside the Bible George Washington used in 1789, that the noon temperature was around 28 degrees Fahrenheit with a wind chill in the teens, that he was the first president sworn in under a nickname rather than his given name of James Earl, that his inaugural address ran 1,228 words, and that he was the first president to walk from the Capitol to the White House in the parade afterwards. He asked for the traditional inaugural luncheon to be cancelled. CBS covered the ceremony. Aretha Franklin sang God Bless America and Linda Ronstadt sang Willie Nelson's Crazy.",
+      "date": "1977-01-20",
+      "source": "https://en.wikipedia.org/wiki/Inauguration_of_Jimmy_Carter"
+    },
+    "pol.draft_pardon": {
+      "section": "politics",
+      "label": "Carter pardons Vietnam War draft evaders",
+      "value": "Issued the pardon the day after taking office",
+      "detail": "Gerald Ford had pardoned Iva Toguri D'Aquino, known as Tokyo Rose, on January 19, the day before leaving office. The US year page carries both pardons as single lines and names no numbers of people covered by either. Jesse Winchester, who had gone to Canada in January 1967 to avoid military service in Vietnam, played a concert in Burlington, Vermont on April 21, his first on American soil in ten years, having become free to return under the pardon.",
+      "date": "1977-01-21",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "pol.gilmore_execution": {
+      "section": "politics",
+      "label": "First execution after the death penalty returns",
+      "value": "Gary Gilmore was shot by firing squad in Utah, in what the US year page calls the first execution after the reintroduction of the death penalty in the United States",
+      "detail": "The deaths lists on both cached year pages give his birth year as 1940 and describe him as a criminal or a murderer. Neither page names the crime, the prison or the time of day.",
+      "date": "1977-01-17",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "pol.panama_canal": {
+      "section": "politics",
+      "label": "Torrijos-Carter treaties signed",
+      "value": "The United States and Panama signed treaties on the status of the Panama Canal, and the United States agreed to transfer control of the canal to Panama at the end of the 20th century",
+      "detail": "The year page's lead image montage carries a photograph of Carter and General Omar Torrijos signing, with a caption saying the treaties set the framework for the transfer. Neither cached year page gives a ratification date, a Senate vote or the number of treaties.",
+      "date": "1977-09-07",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "pol.energy_department": {
+      "section": "politics",
+      "label": "Department of Energy created",
+      "value": "Carter signed the legislation on August 4, and on October 1 the Energy Research and Development Administration combined with the Federal Energy Administration to form the department",
+      "detail": "The US year page lists the 1970s energy crisis among the year's ongoing conditions, alongside the Cold War and detente, and gives it a span reaching past this page's year. It names no first Secretary of Energy and gives no budget or staff figure for the new department.",
+      "date": "1977-08-04",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "pol.harvey_milk": {
+      "section": "politics",
+      "label": "Harvey Milk elected in San Francisco",
+      "value": "San Francisco elected the City Supervisor Harvey Milk, whom both cached year pages call the first openly gay elected official of any large city in the United States",
+      "detail": "The year page and the US year page carry the same single line and neither gives a vote count, a district or a margin.",
+      "date": "1977-11-08",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.tenerife": {
+      "section": "world",
+      "label": "Tenerife airport disaster",
+      "value": "A KLM and a Pan Am Boeing 747 collided at Tenerife in the Canary Islands and 583 people died, which the year page calls the deadliest accident in aviation history",
+      "detail": "The year page's lead image montage includes a photograph filed as the wrecked KLM aircraft, named De Rijn, and its caption repeats the toll of 583. No cached page gives a cause, a survivor count or the name of the airport.",
+      "date": "1977-03-27",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.india": {
+      "section": "world",
+      "label": "Indira Gandhi loses power and lifts the Emergency",
+      "value": "Her Congress Party split on February 2 when Jagjivan Ram and other senior leaders left to form Congress for Democracy, results declared on March 19 saw Congress routed by the opposition Janata alliance, and Gandhi withdrew the state of emergency on March 21",
+      "detail": "The year page dates the emergency she withdrew to June 25, 1975. It says Congress for Democracy later merged with the Janata Party. It had called for fresh elections to the Lok Sabha on January 23. No cached page gives seat counts, a turnout figure or a successor's name.",
+      "date": "1977-03-21",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.german_autumn": {
+      "section": "world",
+      "label": "German Autumn",
+      "value": "Red Army Faction members shot the Federal Prosecutor Siegfried Buback and his driver at a red light near Karlsruhe on April 7, kidnapped the employers' association president Hanns Martin Schleyer in Cologne on September 5 after killing his chauffeur and three police escorts, and four Palestinians hijacked Lufthansa Flight 181 to Somalia on October 13 demanding the release of eleven of them",
+      "detail": "GSG 9 troopers stormed the aircraft at Mogadishu on the night of October 17 to 18 and three of the four hijackers died. Andreas Baader, Jan-Carl Raspe and Gudrun Ensslin, sentenced to life by a federal court at Stuttgart on April 28, died by suicide in Stammheim prison on October 18 and were buried on October 27. Irmgard Moller survived the attempt. The year page notes that supporters still claim the three were murdered. Schleyer was found murdered at Mulhouse in France on October 19. The Ulrike Meinhof Commando claimed the Buback shooting.",
+      "date": "1977-09-05",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.sadat_jerusalem": {
+      "section": "world",
+      "label": "Sadat visits Israel",
+      "value": "Anwar Sadat of Egypt became the first Arab leader to make an official visit to Israel, meeting Prime Minister Menachem Begin and seeking a permanent peace settlement",
+      "detail": "Begin's Likud Party had won the Israeli national elections on May 17. Portugal and Israel established diplomatic relations on May 12. The Libyan-Egyptian War, which the year page says was sparked by a Libyan raid on Sallum, ran from July 21 to 24. The year page carries the visit as one line and gives no length of stay, no itinerary and no Egyptian reaction.",
+      "date": "1977-11-19",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.ogaden_war": {
+      "section": "world",
+      "label": "Ogaden War begins",
+      "value": "Somalia declared war on Ethiopia, starting the Ethio-Somali War",
+      "detail": "The year page's lead image montage carries a photograph of Somali tanks and a caption saying the war erupted as Somalia invaded Ethiopia's Ogaden region. The one dated line on the year page gives no troop numbers, no casualties and no front.",
+      "date": "1977-07-13",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "Spain held its first democratic elections after 41 years of Francoist rule, June 15, having legalised the Communist Party of Spain on April 9",
+        "France-Albert Rene was installed as President of the Seychelles by a bloodless coup, June 5",
+        "Djibouti received its independence from France, June 27",
+        "General Muhammad Zia-ul-Haq overthrew Zulfikar Ali Bhutto, the first elected Prime Minister of Pakistan, July 5",
+        "Deng Xiaoping was restored to power in China nine months after the Gang of Four were expelled, July 22",
+        "Jean-Bedel Bokassa crowned himself Emperor of the Central African Republic, December 4",
+        "Malcolm Fraser's Liberal and National Country Coalition was re-elected in Australia on December 10, and Gough Whitlam resigned as Labor leader after nearly 11 years and was replaced by Bill Hayden"
+      ],
+      "detail": "The Communist Party of Spain had been outlawed since 1939. Josep Tarradellas, president of Catalonia, returned to Barcelona from exile on October 23 and the Generalitat was restored. Turkey changed government twice, Bulent Ecevit forming the 40th government of the republic on June 21 without winning a vote of confidence and Suleyman Demirel a three-party coalition on July 21. The National Assembly of Quebec passed the Charter of the French Language on August 26, making French the province's official language. South Africa granted independence to Bophuthatswana on December 6, which the year page says no other country recognised. Djibouti and Vietnam joined the United Nations on December 20.",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "world.smallpox": {
+      "section": "world",
+      "label": "Last natural smallpox case",
+      "value": "The last natural case of smallpox was found in the Merca district of Somalia, a date the World Health Organization and the Centers for Disease Control treat as the anniversary of the disease's eradication",
+      "detail": "The year page carries the finding in one line and gives neither a patient nor a case number.",
+      "date": "1977-10-26",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US box office gross",
+      "value": [
+        "Star Wars, $221,280,994, 20th Century Fox",
+        "Smokey and the Bandit, $126,737,428, Universal",
+        "Close Encounters of the Third Kind, $116,395,460, Columbia",
+        "Saturday Night Fever, $94,213,184, Paramount",
+        "The Goodbye Girl, $83,700,000, Warner Bros."
+      ],
+      "detail": "Box office gross, the ticket window total, rather than the distributor's share that the film pages report for earlier years in this decade. The column header reads Rank, Title, Distributor, Box-office gross, and the sentence directly above the table calls the entries the top ten released films by box office gross in North America, so the header and the text agree. An editors' note inside the table's wikitext says the figures are original grosses rather than lifetime grosses. A Bridge Too Far took sixth at $50,750,000 for United Artists, The Deep seventh at $47,346,365 for Columbia, The Spy Who Loved Me eighth at $46,838,673 for United Artists, Oh, God! ninth at $41,687,243 for Warner Bros. and Annie Hall tenth at $38,251,425 for United Artists. Eight of the ten figures are given down to the dollar. The Goodbye Girl's $83,700,000 and A Bridge Too Far's $50,750,000 are round.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Annie Hall, produced by Charles H. Joffe",
+      "detail": "Awarded the following spring at the 50th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Bob Hope for the nineteenth time. Annie Hall won four awards. Star Wars won six, the most of the evening, and Julia three. Julia and The Turning Point tied for the most nominations with eleven each, and The Turning Point won nothing, which the ceremony page calls the most nominated film in Oscar history without a win. Woody Allen won Best Director and shared Best Original Screenplay with Marshall Brickman, and was the first person nominated for acting, directing and writing on one film since Orson Welles for Citizen Kane of 1941. United Artists became the first studio to take Best Picture three years running. Star Wars won Best Visual Effects for John Stears, John Dykstra, Richard Edlund, Grant McCune and Robert Blalack, and John Williams won Best Original Score. Special Achievement Awards went to Benjamin Burtt Jr for the alien, creature and robot voices in Star Wars and to Frank E. Warner for the sound effects editing of Close Encounters of the Third Kind. Margaret Booth took an Honorary Award for film editing, Charlton Heston the Jean Hersholt Humanitarian Award and Walter Mirisch the Irving G. Thalberg Memorial Award. The telecast drew 48.5 million viewers in the United States.",
+      "source": "https://en.wikipedia.org/wiki/50th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Richard Dreyfuss, The Goodbye Girl, as Elliot Garfield",
+        "Best Actress, Diane Keaton, Annie Hall, as Annie Hall",
+        "Best Supporting Actor, Jason Robards, Julia, as Dashiell Hammett",
+        "Best Supporting Actress, Vanessa Redgrave, Julia, in the title role"
+      ],
+      "detail": "Redgrave was the first performer to win in a supporting category for playing a title role. Robards had collected the same award on March 28 of this year, at the 49th ceremony, for All the President's Men, and the film page says the second win made him the only person to take two consecutive Best Supporting Actor awards. John Travolta was nominated for Saturday Night Fever, Marcello Mastroianni for A Special Day, Alec Guinness for Star Wars, Mikhail Baryshnikov for The Turning Point and Tuesday Weld for Looking for Mr. Goodbar. Anne Bancroft and Shirley MacLaine were both nominated for The Turning Point and neither won. Woody Allen was nominated for Annie Hall and lost to Dreyfuss.",
+      "source": "https://en.wikipedia.org/wiki/50th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Madame Rosa, France, in French, directed by Moshe Mizrahi, winner of the Academy Award for Best Foreign Language Film",
+        "Iphigenia, Greece, in Greek, directed by Michael Cacoyannis",
+        "Operation Thunderbolt, Israel, directed by Menahem Golan",
+        "A Special Day, Italy, in Italian, directed by Ettore Scola",
+        "That Obscure Object of Desire, Spain, in Spanish, directed by Luis Bunuel"
+      ],
+      "detail": "These are the five Foreign Language Film nominees, which is where the Academy Awards page states each film's country and language. Operation Thunderbolt is listed in Hebrew, English, Arabic, German, French and Spanish. The Palme d'Or at Cannes went to Father and Master, Padre padrone, directed by Paolo and Vittorio Taviani of Italy, and the Golden Bear at Berlin to The Ascent, Voskhozhdeniye, directed by Larisa Shepitko of the Soviet Union, so both festival prizes went outside the United States. The Golden Globe for Best Foreign Language Film went to A Special Day rather than to Madame Rosa, and Marcello Mastroianni was nominated for Best Actor for it.",
+      "source": "https://en.wikipedia.org/wiki/50th_Academy_Awards"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases and productions",
+      "value": [
+        "The Many Adventures of Winnie the Pooh, March 11, Walt Disney Productions' 22nd feature and the last in the Disney canon Walt Disney had any hand in",
+        "Star Wars, May 25, the first film in the series",
+        "The Rescuers, June 22, Walt Disney Productions' 23rd feature",
+        "Close Encounters of the Third Kind, November 16",
+        "Saturday Night Fever, December 14"
+      ],
+      "detail": "The film page says The Rescuers brought back an interest in animation that had been lost to both filmgoers and critics through the start of the decade. The Solar System, produced and directed by Thomas G. Smith for Encyclopaedia Britannica Films, came out on December 5 and led its producer to hire Industrial Light and Magic. Christopher Reeve was announced as Superman at a press conference at Sardi's in Manhattan on February 23. Exorcist II: The Heretic, The Turning Point and New York, New York are listed on the US year page without dates.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Star Wars was premiered in 32 movie theaters across the United States on May 25.",
+      "detail": "George Lucas left out an opening credits sequence, and when the Directors Guild of America told him he had to have one he distributed the film independently instead. The film page says the release revolutionised the use of special effects in film and television production. The theatre count comes from the US year page; the film page carries the date and not the number. Interpol issued a resolution against the copyright infringement of video tapes on September 8, which the year page says is still cited in the warnings before videocassettes.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.23",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1977",
+      "value": [
+        "Laverne & Shirley, ABC, 31.6 rating",
+        "Happy Days, ABC, 31.4",
+        "Three's Company, ABC, 28.3",
+        "60 Minutes, CBS, 24.4",
+        "Charlie's Angels, ABC, 24.4",
+        "All in the Family, CBS, 24.4"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Three programmes tied for fourth on a 24.4, and the top three were all ABC. Little House on the Prairie was seventh at 24.1 for NBC, Alice and M*A*S*H tied for eighth on a 23.2 for CBS, One Day at a Time was tenth at 23.0 and How the West Was Won eleventh at 22.5. Soap came thirteenth at 22.0 and The Love Boat fourteenth at 21.9. Monday Night Football was sixteenth at 21.5 and Hawaii Five-O twenty-third at 20.4. Cheryl Ladd was introduced in the Charlie's Angels second-season premiere on September 14 as Kris Munroe, younger sister of the Jill Munroe played by Farrah Fawcett-Majors.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1977%E2%80%9378"
+    },
+    "tv.roots": {
+      "section": "tv",
+      "label": "Roots on ABC",
+      "value": "The miniseries began its run on ABC",
+      "detail": "Both the television page's miniseries table and the US year page carry the date. The US year page calls the run phenomenally successful, and neither page gives an audience figure, an episode count or a run length. Jesus of Nazareth, the year's other entry in that table, began on NBC on April 3.",
+      "date": "1977-01-23",
+      "source": "https://en.wikipedia.org/wiki/1977_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Three's Company, ABC, March 15",
+        "Eight Is Enough, ABC, March 15",
+        "Live from the Met, PBS, March 15",
+        "Soap, ABC, September 13",
+        "CHiPs, NBC, September 15",
+        "Lou Grant, CBS, September 20",
+        "The Love Boat, ABC, September 24",
+        "Pinwheel, Nickelodeon, December 1"
+      ],
+      "detail": "Live from the Met opened with a complete production of Puccini's La Boheme in which Luciano Pavarotti made his American television debut alongside Renata Scotto, seen on PBS and heard in stereo on mostly NPR stations in what the television page calls the first live simulcast from the Met. Soap launched Billy Crystal's career. Eleven programmes started on September 10 alone, most of them Saturday morning children's shows on NBC, among them CB Bears, The Red Hand Gang and Space Sentinels. Inside the NFL began on HBO on September 14. The CBN Satellite Channel launched on April 29 and the Madison Square Garden Sports Network on September 22.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "Sanford and Son, March 18, which had debuted in 1972",
+        "The Mary Tyler Moore Show, March 19, debuted 1970",
+        "The Streets of San Francisco, March 30, debuted 1972",
+        "The Electric Company, April 15, debuted 1971",
+        "McMillan & Wife, April 24, debuted 1971"
+      ],
+      "detail": "Eric Sevareid gave his final two-minute segment on The CBS Evening News with Walter Cronkite on November 30, after 48 years at CBS News. Freddie Prinze made his last appearance on Chico and the Man on March 4, in an episode he had taped hours before shooting himself; the television page dates the shooting to January 28 and the year page's deaths list to January 29, so this fact names both. Esther Rolle left Good Times on March 30 after the two-part fourth-season finale, over the dismissal of John Amos and the behaviour of Jimmie Walker's character.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_American_television"
+    },
+    "tv.happy_days": {
+      "section": "tv",
+      "label": "Fonzie jumps the shark on Happy Days",
+      "value": "ABC aired the third part of the fifth-season premiere, which the television page highlights for a scene in which Fonzie jumps over a shark on water-skis",
+      "detail": "Happy Days was second in the Nielsen season ranking on a 31.4. The television page gives no episode title and no rating for the episode itself.",
+      "date": "1977-09-20",
+      "source": "https://en.wikipedia.org/wiki/1977_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Tonight's the Night (Gonna Be Alright), Rod Stewart",
+        "I Just Want to Be Your Everything, Andy Gibb",
+        "Best of My Love, The Emotions",
+        "Evergreen (Love Theme from A Star Is Born), Barbra Streisand",
+        "Angel in Your Arms, Hot"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 24, compiled from the Hot 100 charts of November 6 the previous year through October 29. An editors' note in the chart page's wikitext records that American Top 40 used its own year-end chart built from Billboard's data and did not agree with Billboard this year. The music page prints a different reconstruction of the same year which does not truncate chart runs at the year boundary. That version puts Debby Boone's You Light Up My Life first on 362 points from the last 18 weeks of the year, and gives Rod Stewart's record only 73 points from 10 weeks here against 223 points from 13 weeks the year before. Fleetwood Mac and Leo Sayer each placed three songs on the Billboard list.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1977"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records. The music page opens by saying the year marked the peak of vinyl record sales in the United States, citing the Recording Industry Association of America's sales database.",
+      "detail": "RCA gave Elvis Presley a plaque on June 26 for the two billionth pressing from its record plant at Camden, New Jersey. The US year page says the saxophonist Archie Shepp recorded On Green Dolphin Street on November 28, calling it the first digitally recorded album released commercially in the United States. No cached page mentions cassettes or eight-track cartridges as a way of buying music. The only broadcast-format claim on any cached page is the first quadraphonic transmission of the opening night of the Proms by BBC Radio 3 on July 22, which is a radio item and is left out for that reason.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_music"
+    },
+    "music.punk": {
+      "section": "music",
+      "label": "The Sex Pistols and three record labels",
+      "value": "EMI terminated the band's contract on January 6 after one single, A&M signed them on March 10 at a ceremony in front of Buckingham Palace and terminated the contract on March 16, Virgin announced its signing on May 12, and Never Mind the Bollocks, Here's the Sex Pistols came out in October on Virgin",
+      "detail": "The year page dates the album to October 27 and the music page to October 28, so this fact gives the month rather than choosing. Major British retailers refused to stock it and it entered the UK album chart at number one the week after release. The Clash headlined the opening night of the Roxy, which the music page calls London's only punk club, on January 1. Sid Vicious replaced Glen Matlock on bass on February 15. The band played their version of God Save the Queen from a boat on the Thames on June 7 during the Silver Jubilee celebrations, and after a repeat of the stunt the police were waiting and arrested several people including the manager Malcolm McLaren. The music page says the year marks the beginning of the punk rock movement and names My Aim Is True by Elvis Costello, Suicide by Suicide and Marquee Moon by Television among its records.",
+      "date": "1977-01-06",
+      "source": "https://en.wikipedia.org/wiki/1977_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums and singles released",
+      "value": [
+        "Rumours, Fleetwood Mac, February 4",
+        "Marquee Moon, Television, February 8, the band's debut",
+        "Exodus, Bob Marley and The Wailers, June 3",
+        "I Feel Love, Donna Summer, released in the United Kingdom July 9",
+        "Aja, Steely Dan, September 23",
+        "The Stranger, Billy Joel, September 29",
+        "Bat Out of Hell, Meat Loaf, October 21",
+        "Saturday Night Fever, Bee Gees and others, November 15"
+      ],
+      "detail": "The music page calls I Feel Love the first hit record with an entirely synthesised backing track. It also carries Low by David Bowie on January 14, Animals by Pink Floyd on January 21, Trans-Europe Express by Kraftwerk on March 30, My Aim Is True by Elvis Costello on July 22, Heroes by David Bowie on October 14, Street Survivors by Lynyrd Skynyrd on October 17, News of the World by Queen on October 28, Rocket to Russia by the Ramones on November 4 and Slowhand by Eric Clapton on November 25. The US year page says Aja reached number 3, Steely Dan's highest charting album, and that The Stranger spawned five hit singles.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_music"
+    },
+    "music.lynyrd_skynyrd": {
+      "section": "music",
+      "label": "Lynyrd Skynyrd plane crash",
+      "value": "A charter plane carrying the band came down in a forest outside Gillsburg, Mississippi, killing the singer Ronnie Van Zant, the guitarist Steve Gaines, the backing singer Cassie Gaines and the assistant road manager Dean Kilpatrick, and seriously injuring many of the rest",
+      "detail": "The crash came three days after the release of the band's fifth studio album, Street Survivors, on October 17. The year page's deaths list gives Van Zant and Cassie Gaines as born in 1948 and Steve Gaines in 1949, and describes all three as lead singers, with Steve Gaines also a guitarist. The music page adds Kilpatrick to the three named there and calls Van Zant the band's songwriter and vocalist.",
+      "date": "1977-10-20",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "The Atari Video Computer System, later called the VCS or the Atari 2600, released with nine launch titles in the United States",
+        "Nintendo's Color TV-Game 6, six variations of a Pong clone, the year's best-selling home system at 800,000 units",
+        "RCA's Studio II console, January",
+        "Space Wars by Cinematronics, the first vector graphics arcade game",
+        "Six new Coleco Telstar models, the Alpha, Colormatic, Regent, Ranger, Galaxy and Combat"
+      ],
+      "detail": "The games page dates the Atari release to September and the US year page to October, so this fact gives no month. The Atari VCS sold 250,000 units against the Color TV-Game's 800,000, and Mitsubishi built most of the Nintendo hardware. Sea Wolf and Sprint 2 topped both the Play Meter and RePlay arcade charts in the United States with Breakout third, and lifetime cabinet sales run 11,000 for Breakout, 10,000 for Sea Wolf and 8,200 for Sprint 2. In Japan the Game Machine chart put Namco's electro-mechanical racer F-1 first overall for a second year and Taito's Speed Race DX first among video games. Tim Anderson, Marc Blank, Bruce Daniels and Dave Lebling wrote the first version of Zork on a PDP-10 at MIT. Atari opened the first Chuck E. Cheese's Pizza Time Theater, conceived by Nolan Bushnell, who bought the rights back from Atari for $500,000 in June. The US year page dates the San Jose opening to May 17. Nakamura Manufacturing formally took the name Namco, which it had used as a brand since 1971.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_video_games"
+    },
+    "tech.home_computers": {
+      "section": "tech",
+      "label": "Home computers",
+      "value": [
+        "Apple II, on sale June 10",
+        "TRS-80 Model I from Tandy, August 3",
+        "Commodore PET, October",
+        "Compucolor II from Intelligent Systems"
+      ],
+      "detail": "Apple Computer was incorporated on January 3. The US year page calls the Commodore PET the world's first personal computer and says it was demonstrated at the winter Consumer Electronics Show in Chicago in January, while the games page dates the release to October, so both months appear here. That page's home system table gives sales of 150,000 for personal computers as a category, 100,000 for the TRS-80, 10,000 for the MITS Altair 8800, 4,000 for the PET and 600 for the Apple II. Radio Shack showed the TRS-80 at the Boston Computer Show on August 25, a computer keyboard plugged into a 64-column video monitor and programmed from cassette tapes played on a home cassette player.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_video_games"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Voyager 2 launched, August 20",
+        "Voyager 1 launched after a brief delay, September 5",
+        "Space Shuttle Enterprise made its first test flight sitting on top of a Boeing 747 at Edwards Air Force Base, February 18",
+        "Enterprise made its first free flight from the back of the carrier aircraft, August 12",
+        "Enterprise made its last test taxi flight, over California, October 26",
+        "Soyuz 24 launched with Viktor Gorbatko and Yury Glazkov to dock with the Salyut 5 station, February 7"
+      ],
+      "detail": "The music page says Voyager 2 carried a golden record of sounds and images representing life and culture on Earth, including the first movements of Bach's Brandenburg Concerto and Beethoven's Fifth Symphony, Guan Pinghu playing Liu Shui on the guqin, and Chuck Berry's Johnny B. Goode. No cached page gives a destination or a mission length for either Voyager, and none says what the brief delay to Voyager 1 was.",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "tech.alaska_pipeline": {
+      "section": "tech",
+      "label": "First oil through the Trans-Alaska Pipeline",
+      "value": "The first oil carried by the Trans-Alaska Pipeline System reached Valdez",
+      "detail": "The US year page carries the arrival in one line and gives no throughput figure, no length and no construction cost.",
+      "date": "1977-07-28",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "tech.discoveries": {
+      "section": "tech",
+      "label": "Discoveries and firsts",
+      "value": [
+        "The rings of Uranus were discovered, March 10",
+        "Scientists reported using bacteria in a laboratory to make insulin by gene splicing, May 23",
+        "The Big Ear radio telescope at Ohio State University received the deep-space signal a volunteer annotated Wow!, August 15",
+        "The Soviet icebreaker Arktika became the first surface ship to reach the North Pole, August 17",
+        "Optical fibre carried live telephone traffic for the first time when CSELT in Turin started two exchanges, September 15",
+        "Manolis Andronikos found the tomb of Philip II of Macedon at Vergina, November 8",
+        "Charlie Kowal discovered Chiron, the first of the outer Solar System asteroids known as Centaurs, November 1",
+        "British Airways began regular supersonic Concorde service between London and New York, November 22"
+      ],
+      "detail": "The Big Ear was run as part of the SETI project and the year page names nobody beyond the volunteer who wrote the annotation. The company in Turin is Centro Studi e Laboratori Telecomunicazioni. The year page gives the asteroid a catalogue number ahead of Chiron's name, which is a four-digit figure later than this page's year, so the number is left out and the name kept. Neither year page says who discovered the rings of Uranus or from where.",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.66 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$2.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The new president walked home from the Capitol in January and pardoned the Vietnam draft evaders the next day. A space picture opened on thirty-two screens in May and was still the country's biggest earner in December. Seventy-five thousand people lined the streets of Memphis in August for a singer's funeral, and Charlie Chaplin died on Christmas Day."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace, Amnesty International",
+        "Literature, Vicente Aleixandre",
+        "Physics, Philip Warren Anderson, Nevill Francis Mott and John Hasbrouck Van Vleck",
+        "Chemistry, Ilya Prigogine",
+        "Physiology or Medicine, Roger Guillemin, Andrew Schally and Rosalyn Yalow",
+        "Economics, Bertil Ohlin and James Meade"
+      ],
+      "detail": "The year page lists the laureates in six lines and gives no citation text, no ceremony date and no prize amounts. It writes Mott with the title Sir.",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "culture.gay_rights": {
+      "section": "culture",
+      "label": "Anita Bryant's campaign and the response",
+      "value": "Voters in Miami-Dade County repealed the county's gay rights ordinance on June 7 after Bryant's Save Our Children crusade, some 200,000 people marched through San Francisco on June 26 against her remarks and the murder of Robert Hillsborough, and four gay rights activists threw a pie at her at a press conference in Des Moines on October 14",
+      "detail": "The US year page says the pie in Des Moines ended her standing as an anti-gay campaigner. It gives no vote figure for the Miami-Dade referendum beyond calling the margin overwhelming, and says nothing more about Hillsborough.",
+      "date": "1977-06-07",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "culture.disability_rights": {
+      "section": "culture",
+      "label": "Section 504 sit-ins",
+      "value": "Demonstrations began in ten cities to press Carter to implement Section 504 of the 1973 Rehabilitation Act, the first federal civil rights law for people with disabilities, without reinstituting the separate but equal doctrine, and the longest of them held the San Francisco Federal Building for three and a half weeks",
+      "detail": "The US year page carries the campaign in one line dated to its start and names no organisers, no negotiators and no outcome.",
+      "date": "1977-04-05",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Los Angeles Dodgers in six games for their first championship since 1962",
+      "detail": "Reggie Jackson hit three home runs in the deciding game on October 18. The sports page gives the result with no game count and no date, both of which come from the US year page. Sparky Lyle of the Yankees broke Ron Perranoski's major league record for left-handers of 179 career saves during the season. Ernie Banks was elected to the Baseball Hall of Fame on January 19 in his first year of eligibility.",
+      "date": "1977-10-18",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XI",
+      "value": "The Oakland Raiders of the AFC beat the NFC's Minnesota Vikings 32 to 14 at the Rose Bowl in Pasadena in front of 103,438, with the Oakland receiver Fred Biletnikoff named most valuable player",
+      "detail": "Walter Payton of the Chicago Bears ran for 275 yards against Minnesota on November 20 while playing with a fever of 101 degrees, and Chicago won 10 to 7. The Tampa Bay Buccaneers won for the first time on December 11, beating the New Orleans Saints and ending a 26-game losing run that covered the whole of the previous season and the first 12 games of this one. Eddie Brown set an NFL record with 11 punt returns in a game on October 9. The Pittsburgh Panthers had beaten the Georgia Bulldogs 27 to 3 in the Sugar Bowl for the previous season's college football national championship.",
+      "date": "1977-01-09",
+      "source": "https://en.wikipedia.org/wiki/1977_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Boston Bruins, four games to none, May 14",
+        "NBA Finals, Portland Trail Blazers over the Philadelphia 76ers, four games to two, the sixth game 109 to 107 on June 5",
+        "NCAA basketball, Marquette 67, North Carolina 59",
+        "US Triple Crown, Seattle Slew, winner of the Kentucky Derby, the Preakness Stakes and the Belmont Stakes",
+        "Grey Cup, Montreal Alouettes 41, Edmonton Eskimos 6",
+        "World Snooker Championship, John Spencer beat Cliff Thorburn 25 to 12"
+      ],
+      "detail": "Bill Walton was named most valuable player of the NBA finals. The Canadiens' sweep was their second Stanley Cup in a row, and Guy Lafleur took both the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player. Liverpool won the European Cup and the Football League Championship and lost the FA Cup final. France won the Five Nations Championship with a Grand Slam, fielding the same fifteen players in all four matches, which the sports page calls the first time an unchanged team had won it. Tom Watson won the Masters and the British Open and led the PGA Tour with $310,653, Hubert Green the US Open and Lanny Wadkins the PGA Championship. Bernard Thevenet of France won the Tour de France and Michel Pollentier of Belgium the Giro d'Italia. Ingemar Stenmark of Sweden and Lise-Marie Morerod of Switzerland took the Alpine Skiing World Cup overall titles. Rick Swenson won the Iditarod behind the lead dogs Andy and Old Buddy. North Melbourne won the 81st VFL Premiership in a replay, after drawing the Grand Final with Collingwood at 76 points each.",
+      "source": "https://en.wikipedia.org/wiki/1977_in_sports"
+    },
+    "sports.expansion": {
+      "section": "sports",
+      "label": "Two new major league baseball teams",
+      "value": "The Toronto Blue Jays played their first game against the Chicago White Sox and the Seattle Mariners their first against the California Angels, both on the same day, and both joined the American League",
+      "detail": "The US year page dates both debuts and the sports page carries the expansion without a date. Neither gives a score or an attendance for either game.",
+      "date": "1977-04-07",
+      "source": "https://en.wikipedia.org/wiki/1977_in_the_United_States"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis",
+      "value": [
+        "Wimbledon women's singles, Virginia Wade, in the tournament's centenary year",
+        "Wimbledon men's singles, Bjorn Borg",
+        "French Open men's singles, Guillermo Vilas",
+        "US Open men's singles, Guillermo Vilas",
+        "Australian Open men's singles, Roscoe Tanner in January and Vitas Gerulaitis in December"
+      ],
+      "detail": "The year page says the Wimbledon title was Wade's first and only at the tournament and her third and final Grand Slam. The Australian Open was played twice in the calendar year and the sports page records the two results separately. That page gives no women's champions for the other three Grand Slam tournaments.",
+      "date": "1977-07-01",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "deaths.presley": {
+      "section": "deaths",
+      "label": "Elvis Presley",
+      "value": "Died August 16. Born 1935",
+      "detail": "American actor, musician and singer-songwriter, who died at his home at Graceland in Memphis at the age of 42. He gave his last concert at the Market Square Arena in Indianapolis on June 26. Some 75,000 people lined the streets of Memphis for the funeral on August 18, which was not televised until August 20. Florists Transworld Delivery reported on August 17 that orders for flowers to Graceland had passed the number for any other event in the company's history. Elvis in Concert, filmed on the final tour in Omaha on June 19 and Rapid City on June 21, was broadcast on CBS on October 3.",
+      "date": "1977-08-16",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "deaths.chaplin": {
+      "section": "deaths",
+      "label": "Charlie Chaplin",
+      "value": "Died December 25. Born 1889",
+      "detail": "British actor, producer and director. The year page gives no cause and no place.",
+      "date": "1977-12-25",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "deaths.crosby": {
+      "section": "deaths",
+      "label": "Bing Crosby",
+      "value": "Died October 14. Born 1903",
+      "detail": "American pop singer and actor, who gave his final concert at Brighton in the United Kingdom on August 16, accompanied by Johnny Smith. His last Christmas television special, Bing Crosby's Merrie Olde Christmas, went out on CBS on November 30 and contained a duet with David Bowie of Peace on Earth and Little Drummer Boy.",
+      "date": "1977-10-14",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "deaths.marx": {
+      "section": "deaths",
+      "label": "Groucho Marx",
+      "value": "Died August 19. Born 1890",
+      "detail": "American actor and comedian. His brother Gummo Marx, whom the year page also lists as an actor and comedian, had died on April 21.",
+      "date": "1977-08-19",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    },
+    "deaths.callas": {
+      "section": "deaths",
+      "label": "Maria Callas",
+      "value": "Died September 16. Born 1923",
+      "detail": "Greek soprano. The year page gives no cause and no place, and carries a hidden editorial note that she had renounced her US citizenship.",
+      "date": "1977-09-16",
+      "source": "https://en.wikipedia.org/wiki/1977"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1977. figures_basis is gross, checked with bo.mjs rather than assumed from the era, and this is the year the film page's table changes basis: the column header reads Rank, Title, Distributor, Box-office gross, and the sentence directly above the table calls the entries the top ten released films by box office gross in North America, so header and text agree and there is no contradiction to name. The neighbouring earlier years carry a Domestic rentals header, so film.gross says outright that these are ticket window totals rather than the distributor's share. An editors' note inside the table wikitext says the figures are original grosses rather than lifetime grosses, which the fact repeats. Nothing in the top ten carries a four-digit year in its title, so src/data/title_years.json needed no entry and was not touched. Date check. An inauguration falls in this year and it carries a checkable constitutional constraint: it must be January 20. Both cached year pages give January 20, and the dedicated article https://en.wikipedia.org/wiki/Inauguration_of_Jimmy_Carter was pulled as raw wikitext to confirm it. It gives Thursday, January 20, at the East Portico of the Capitol, and it is the one source in this file from outside the cache. It is cited on pol.inauguration because neither year page carries the oath administrators, the Bible, the temperature, the address length or the walk to the White House. Its forward-looking line about Carter attending a later inauguration forty years on was left out because it names a year past this page's. No radio fact, because the radio window closed after 1959. Radio material of the year was not moved into another section to get round that: the first quadraphonic broadcast of the opening night of the Proms by BBC Radio 3 on July 22 is the only playback-format claim on any cached page besides vinyl, and music.listening_format says explicitly that it is left out as a radio item rather than quietly folded in. No fact was written for the November 22 TCP/IP test connecting 3 of the 111 ARPANET nodes, which the year page carries, because the tech.internet window opens in 1993 and dressing the same claim in an ungated tech id would defeat the gate. No 1978 token appears anywhere in the facts or texture, which cost four things. The 50th Academy Awards ceremony date is omitted and film.best_picture says awarded the following spring. The Golden Globe and BAFTA ceremony dates on the film page's awards table are omitted for the same reason, so film.world_cinema names the Golden Globe winner without dating the ceremony. The Nielsen ranking covers a season that began in the autumn of 1977 and ran into the following spring, which tv.top_shows states without naming a second year. Bolivia's announced restoration of constitutional democracy, Uruguay's announced return to civilian rule, and the sports page's note that the two new baseball teams were the last expansion for years all name later years and are left out. Source disagreements labelled rather than resolved: the Atari Video Computer System is released in September on the games page and in October on the US year page, and tech.games gives no month; Never Mind the Bollocks is October 27 on the year page and October 28 on the music page, and music.punk gives the month; Freddie Prinze shot himself on January 28 by the television page and died on January 29 by the year page's deaths list, and tv.endings names both; the Commodore PET is demonstrated at the winter Consumer Electronics Show in January by the US year page and released in October by the games page, and tech.home_computers carries both; the Hanafi siege of March 9 in Washington took 149 hostages by the year page and more than 130 by the US year page, which is why no fact quotes a hostage count and the siege is left out; Pele's final professional match is October 1 on the sports page and the US year page and October 7 on the year page, so it is not in any fact. Facts taking their value from one cached page and part of their detail or date from another, recorded here rather than left for a reader to notice: film.how_people_watched cites the US year page for the 32-theatre premiere, which the film page does not carry, and takes the omitted opening credits and the special effects line from the film page; tech.home_computers cites the games page and takes the Apple incorporation, the CES demonstration and the Boston Computer Show from the US year page; tech.space cites the year page and takes the golden record contents from the music page; music.listening_format cites the music page and takes the Archie Shepp digital recording from the US year page; sports.world_series cites the US year page for the six games and the October 18 date and the sports page for the result itself; sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player and takes nothing from elsewhere; deaths.presley cites the year page, whose deaths list gives only the date and the birth year and whose lead montage caption gives Graceland, and takes Memphis and the age of 42, the funeral crowd and the broadcast dates from the US year page, the final concert and the flower orders from the music page, and the October 3 broadcast of Elvis in Concert from the television page. The asteroid discovered on November 1 is written as Chiron with no catalogue number, because the year page's number is a four-digit figure later than this page's year and the anachronism check reads it as a year, correctly. Month-only or undated facts: tech.games gives no month for the Atari VCS because the two cached pages disagree; music.punk gives October and no day for the Sex Pistols album for the same reason; tech.home_computers gives October and no day for the Commodore PET, which is all the games page carries, and no date at all for the Compucolor II; tech.games gives no date for Space Wars, the Telstar models, Zork or the Namco renaming, none of which the games page dates. Dropped for lack of a source that says enough, or because it would have had to be parked in the detail of a fact it does not elaborate: the nuclear non-proliferation pact signed by 15 countries including the United States and the Soviet Union on September 21, which is not an elaboration of the Panama Canal treaties; the Community Reinvestment Act of October 12, the Food Stamp Act enacted on September 29 and the partial government shutdowns from September 30 to December, none of which elaborate the creation of the Department of Energy; Southern Airways Flight 242 crashing onto a highway at New Hope, Georgia on April 4 with 72 dead and TAP Portugal Flight 425 crashing at Madeira on November 19 with 131 dead and 33 survivors, which share only an aircraft with Tenerife; the dissolution of the East African Community on July 1, which is not an elaboration of the Ogaden War; the Aerosmith injuries at the Philadelphia Spectrum on October 9, which have nothing to do with the Lynyrd Skynyrd crash beyond the month; the first flight of the Lockheed Have Blue on December 12, which is an aircraft and not spaceflight; the last guillotine execution in France, of Hamida Djandoubi at Marseille on September 10, and the Porsche 928 at the Geneva Motor Show on September 28, neither of which is a discovery or a first; the announced closure of the Youngstown steelworks on September 19; Studio 54, which the music page carries as the single line New York's disco Studio 54 opens on April 26 with nothing else; Oracle Corporation, incorporated at Redwood Shores on June 16 as Software Development Laboratories by Larry Ellison, Bob Miner and Ed Oates, which has no computing fact it belongs inside; Led Zeppelin's indoor attendance record of 76,229 at the Pontiac Silverdome on April 30, their last American concert at Oakland on July 24 and the cancellation of the tour on July 26 after Robert Plant's six-year-old son Karac died; the Grateful Dead, Marshall Tucker Band and New Riders of the Purple Sage playing to nearly 110,000 at Englishtown Raceway on September 3; the 19th Annual Grammy Awards of February 19, which honoured the previous year's recordings; the Eurovision Song Contest of May 7 at Wembley, postponed from April 2 by a BBC technicians' strike and won by Marie Myriam for France; the Moscow bombings of January 8; the Granville and Xinjiang and Vrancea and Beverly Hills and Toccoa Falls disasters, which the texture carries instead; the Massacre of Atocha of January 24; the Taksim Square massacre of May 1; the Moluccan school and train seizures of May 23; the Angolan coup attempt of May 27; the Golden Dragon massacre of September 4; the Steve Biko death of September 12, which the year page carries only in its deaths list with no separate entry and no account of how he died; the Chicago Loop derailment of February 4; the Johnstown flood of July 19 and 20; the Kelly Barnes and Bakersfield entries, also in the texture; the University of Evansville plane crash of December 13, which killed 29 including 14 players and the head coach Bob Watson; the Malaysian Airline System Flight 653 hijacking and crash of December 4; the Hanafi siege; the MKULTRA Senate hearings of August 3; the Supreme Court ruling of June 20 on Medicaid and elective abortions; the James Earl Ray escape of June 10; the Space Mountain opening of May 27; the Li'l Abner strip ending on November 13 after 43 years; the deaths of Anthony Eden and Peter Finch and Anais Nin on January 14, Freddie Prinze on January 29, Fannie Lou Hamer on March 14, Ludwig Erhard on May 5, Joan Crawford on May 10, Roberto Rossellini on June 3, Wernher von Braun on June 16, Vladimir Nabokov on July 2, Alice Paul on July 9, Francis Gary Powers on August 1, Makarios III on August 3, Ethel Waters on September 1, Leopold Stokowski on September 13, Marc Bolan on September 16, Guy Lombardo on November 5, Rene Goscinny on November 5, Clementine Churchill on December 12 and Howard Hawks on December 26. Texture material taken from the cached pages but given no fact of its own: the Granville railway disaster; the Xinjiang 61st Regiment Farm fire; the Vrancea earthquake; the Beverly Hills Supper Club fire; the Kelly Barnes Dam collapse; the New York blackout and NRBQ's acoustic set at The Bottom Line; the capture of David Berkowitz; George Willig's climb of the World Trade Center; the January cold records and the Miami snowfall and the Great Lakes Blizzard and the Great Bakersfield Dust Storm; Red Rum's third Grand National; the Centenary Test at Melbourne; A. J. Foyt's fourth Indianapolis 500; and Courageous winning the America's Cup. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question and which comes out if challenged; and that records were the ordinary way to own music, which music.listening_format states before the sourced vinyl-peak line. Names and titles are written in ASCII per the corpus convention, so Pele, Bjorn Borg, Bernard Thevenet, Jean-Bedel Bokassa, Bulent Ecevit, Suleyman Demirel, Irmgard Moller, Luis Bunuel, Moshe Mizrahi, La Boheme and Anais Nin lose their diacritics. Deaths carry a birth year rather than an age, because the year page gives only the year, except for Elvis Presley, whose age of 42 both the US year page and the television page state outright. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for. Politics, world and film each run to 7, which is inside what 1969, 1970 and 1976 already do."
+}

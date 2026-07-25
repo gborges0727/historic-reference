@@ -1,0 +1,494 @@
+{
+  "year": 1978,
+  "tier": "broadcast",
+  "headline": "Sadat and Begin signed at Camp David, three men held the papacy in one year, and Space Invaders reached the arcades",
+  "texture": [
+    "The Great Blizzard of 1978 struck the Ohio Valley and the Great Lakes from January 25 to 27 and killed 70, and a second storm hit New England and the New York metropolitan area from February 5 to 7, killing about 100 and doing over $520 million in damage. The tanker Amoco Cadiz ran aground off Brittany on March 17. Fifty-one construction workers died on April 27 when a cooling tower under construction collapsed at the Pleasants Power Station in Willow Island, West Virginia. A tanker truck exploded at a campsite on the Costa Daurada on July 11 and killed at least 217 tourists.",
+    "The first Home Depot opened in Marietta, Georgia on February 6, and Resorts International opened in Atlantic City on May 26 as the first legal casino in the eastern United States. Reinhold Messner and Peter Habeler climbed Everest without supplemental oxygen on May 8. Mavis Hutchinson, fifty-three, became the first woman to run across the United States, a trek of 69 days that ended on May 20. Ken Warby set a water speed record of 317.6 mph at Blowering Dam on October 8. Cleveland defaulted on December 15, the first major American city to do so since the Great Depression.",
+    "Charlie Chaplin's coffin was stolen from a Swiss cemetery on March 1 and found on May 17 about fifteen kilometres away near Lake Geneva, then sealed in a concrete vault before reburial. Larry Flynt was shot and paralysed in Lawrenceville, Georgia on March 6. Karl Wallenda fell to his death on March 22 from a tightrope strung between two hotels in San Juan. Georgi Markov was struck in London on September 7 by a poison-filled pellet, reportedly delivered by an umbrella, and died four days later. Six men robbed the Lufthansa cargo facility at Kennedy Airport on December 11.",
+    "Ted Nugent cut his name into a fan's arm with a bowie knife in Philadelphia on January 28. The Cramps played free for patients at Napa State Mental Hospital on June 13. The Grateful Dead gave three shows beside the Sphinx and the Great Pyramid at Giza from September 14 to 16, then closed the Winterland Ballroom on New Year's Eve alongside the New Riders of the Purple Sage and the Blues Brothers. CBS aired New Year's Eve with Guy Lombardo that same night for the last time, ending a run of twenty-two years."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.camp_david",
+    "world.three_popes",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.games#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Jimmy Carter (D)",
+      "detail": "Walter Mondale was Vice President, Warren E. Burger was Chief Justice, Tip O'Neill was Speaker of the House and Robert Byrd was Senate majority leader. The 95th Congress was in session. The US year page gives Carter as a Democrat of Georgia, Mondale as a Democrat of Minnesota, Burger of Virginia, O'Neill as a Democrat of Massachusetts and Byrd as a Democrat of West Virginia.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "pol.camp_david": {
+      "section": "politics",
+      "label": "Camp David Accords",
+      "value": "Carter hosted Menachem Begin of Israel and Anwar Sadat of Egypt at Camp David in Maryland from September 5 to discuss a peace agreement between the two nations, and the accords were signed on September 17",
+      "detail": "Sadat and Begin were awarded the Nobel Peace Prize on October 27 for what the year page calls their progress toward achieving a Middle East accord. The two cached year pages open the talks on different dates: the year page has the three men meeting at Camp David on September 5 and the US year page has Begin and Sadat beginning the peace process there on September 17, the day the year page gives for the signing. This fact carries both dates rather than choosing one. The year page's photograph caption puts Sadat, Carter and Begin on the Aspen Cabin patio on September 6.",
+      "date": "1978-09-05",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "pol.panama_canal": {
+      "section": "politics",
+      "label": "Senate votes to hand over the Panama Canal",
+      "value": "The United States Senate voted 68 to 32 to turn the Panama Canal over to Panamanian control",
+      "detail": "Both cached year pages carry the vote on the same date with the same count and neither names a treaty. The year page also states the date the handover was to take effect, which falls outside this year and is left out.",
+      "date": "1978-04-18",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "pol.bakke": {
+      "section": "politics",
+      "label": "Regents of the University of California v. Bakke",
+      "value": "The Supreme Court barred quota systems in college admissions and affirmed the constitutionality of programs that give advantages to minorities",
+      "detail": "The US year page carries the ruling as a single line and gives no vote count, no opinion author and no first name for Bakke. It is the second Supreme Court decision the cached pages carry for the year, after Stump v. Sparkman of March 28, a 5 to 3 ruling on involuntary sterilisation and judicial immunity that the year page calls controversial.",
+      "date": "1978-06-28",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "pol.proposition_13": {
+      "section": "politics",
+      "label": "California passes Proposition 13",
+      "value": "California voters approved the measure, which slashes property taxes nearly 60 percent",
+      "detail": "The US year page states the cut as nearly 60 percent and gives no vote margin, no dollar figure for the revenue lost and no campaign names.",
+      "date": "1978-06-06",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "pol.moscone_milk": {
+      "section": "politics",
+      "label": "Moscone and Milk assassinated in San Francisco",
+      "value": "Mayor George Moscone and Supervisor Harvey Milk were shot dead by Dan White, a former supervisor, and Dianne Feinstein succeeded Moscone on December 4 as the first woman mayor of San Francisco",
+      "detail": "The year page calls White a disgruntled former supervisor and the US year page a former supervisor, and this fact uses the plainer form. Both pages give an end date for Feinstein's time in office that falls outside this year, so it is left out. Neither page carries a motive, a weapon or a charge.",
+      "date": "1978-11-27",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.three_popes": {
+      "section": "world",
+      "label": "Three popes in one year",
+      "value": "Paul VI died at Castel Gandolfo on August 6, John Paul I succeeded him on August 26 as the 263rd pope and died on September 28 after only 33 days, and John Paul II succeeded on October 16 as the 264th pope",
+      "detail": "The year page calls this the first Year of Three Popes since 1605, and says John Paul II is the first Polish pope in history and the first non-Italian pope since Adrian VI, whose reign it dates 1522 to 1523. The page's own lead image caption puts the gap at over 450 years rather than naming Adrian VI. The deaths page gives Paul VI a birth year of 1897 and John Paul I 1912, and no cached page gives a cause of death for either.",
+      "date": "1978-08-06",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.aldo_moro": {
+      "section": "world",
+      "label": "Aldo Moro kidnapped and killed",
+      "value": "The Red Brigades took the former Italian premier on March 16 and killed five of his bodyguards, and his body was found in a red Renault 4 in Rome on May 9",
+      "detail": "The year page calls him a former Italian Premier at the kidnapping and a former Italian prime minister at the recovery of the body, and carries nothing at all about what happened between the two dates, no ransom demand and no arrests. The deaths page files him under May 9 as the 38th Prime Minister of Italy, born 1916, and marks the death as an assassination.",
+      "date": "1978-03-16",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.iran": {
+      "section": "world",
+      "label": "Protests against the Shah in Iran",
+      "value": "Iranian Army troops opened fire on rioters in Tehran on September 8, killing 122 and wounding over 200, and two million people demonstrated against the Shah on December 11",
+      "detail": "The year page links the September shooting to an article it titles Black Friday. Students of the University of Tehran had rioted in Tabriz on May 15 and the army stopped it. Iranian helicopters strayed into Soviet airspace on June 21 and were shot down. The year page's lead image caption reaches past this year to name what the revolution produced, so this fact carries only the events the page dates inside it.",
+      "date": "1978-09-08",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.afghanistan": {
+      "section": "world",
+      "label": "Saur Revolution in Afghanistan",
+      "value": "President Mohammad Daoud Khan and his family were murdered on April 27 and Nur Muhammad Taraki succeeded him, and the Democratic Republic of Afghanistan was proclaimed on April 30 under Taraki",
+      "detail": "The year page says the killing began the Afghan conflict, and cites a page headed The Afghan Civil War that gives a start date and no end. Its lead image caption describes the revolution as installing a communist government, and the April 30 entry calls Taraki pro-communist. No cached page names who carried out the killings.",
+      "date": "1978-04-27",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.cambodia_vietnam": {
+      "section": "world",
+      "label": "Vietnam attacks Cambodia",
+      "value": "Vietnam attacked Cambodia on October 1 and launched a major offensive against the Khmer Rouge on December 25",
+      "detail": "The Khmer Rouge had massacred 3,157 civilians at Ba Chuc inside Vietnam between April 18 and 30. The year page's lead image caption lists the start of the Cambodian-Vietnamese War among the year's events, and its December entry calls the second attack a major offensive without naming a front, a force or a casualty figure.",
+      "date": "1978-10-01",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.jonestown": {
+      "section": "world",
+      "label": "Jonestown",
+      "value": "Jim Jones led his Peoples Temple congregation in a mass murder and suicide at their commune in Guyana that claimed 918 lives in all, 909 of them at Jonestown itself and over 270 of them children",
+      "detail": "Representative Leo J. Ryan was assassinated by members of Peoples Temple shortly beforehand. The three figures for the toll do not agree across the cached pages: the year page's November entry gives 918 and 909, its lead image caption says over 900, and the US year page says 909 Americans. The deaths page carries neither Jones nor Ryan in the entries checked for this file.",
+      "date": "1978-11-18",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that became independent",
+      "value": [
+        "Solomon Islands, from the United Kingdom, July 7, joining the United Nations on September 19",
+        "Tuvalu, from the United Kingdom, October 1",
+        "Dominica, from the United Kingdom, November 3"
+      ],
+      "detail": "Australia's Northern Territory was granted self-government on July 1. The year page carries each of the three as one line, names no new head of state and gives no population. The Amazon Co-operation Treaty was signed on July 3, and the Treaty of Peace and Friendship between Japan and the People's Republic of China was concluded on August 12.",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US and Canada box office gross",
+      "value": [
+        "Grease, $159,978,870, Paramount",
+        "Superman, $134,218,018, Warner Bros.",
+        "National Lampoon's Animal House, $120,091,123, Universal",
+        "Every Which Way but Loose, $85,196,485, Warner Bros.",
+        "Heaven Can Wait, $81,640,278, Paramount"
+      ],
+      "detail": "Gross, the ticket window total rather than the distributor's share, which is what the table's own column header states: Rank, Title, Distributor, Box-office gross. The sentence directly above the table agrees for once, calling these the top ten films released this year by box office gross in the United States and Canada, so there is no contradiction to label. A comment in the page's markup says the figures are original grosses and not lifetime grosses. Hooper took sixth at $78,000,000 for Warner Bros., Jaws 2 seventh at $77,737,272 for Universal, Revenge of the Pink Panther eighth at $49,579,269 for United Artists, The Deer Hunter ninth at $48,979,328 for Universal and Halloween tenth at $47,000,000 for Compass International. Hooper's and Halloween's figures are round to the nearest million and the other eight are exact to the dollar.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Deer Hunter, produced by Barry Spikings, Michael Deeley, Michael Cimino and John Peverall",
+      "detail": "Awarded the following spring at the 51st Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Johnny Carson for the first time. The film took five awards, more than any other picture, including Best Director for Cimino. Coming Home won three and Midnight Express two, with Oliver Stone taking the adapted screenplay award for Midnight Express and Giorgio Moroder the original score. The Deer Hunter and Heaven Can Wait tied for the most nominations with nine each. Warren Beatty and Buck Henry were the second pair of directors nominated together for one film, and Beatty was the first person to earn acting, directing, producing and screenwriting nominations for the same film, a feat Orson Welles had matched on Citizen Kane under rules that made the releasing studio rather than the producer the Best Picture nominee. The telecast drew 46.3 million viewers and a 34.6 Nielsen rating. Sammy Davis Jr. and Steve Lawrence sang a medley of movie songs that had not been nominated, called Oscar's Only Human, which the academy's music branch tried to have dropped.",
+      "source": "https://en.wikipedia.org/wiki/51st_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jon Voight, Coming Home, as Luke Martin",
+        "Best Actress, Jane Fonda, Coming Home, as Sally Hyde",
+        "Best Supporting Actor, Christopher Walken, The Deer Hunter",
+        "Best Supporting Actress, Maggie Smith, California Suite, as Diana Barrie"
+      ],
+      "detail": "Coming Home was the fourth film to win both lead acting awards. Maggie Smith became the only person to win an Oscar for playing an Oscar loser, since her California Suite character loses one. Meryl Streep was nominated in support for The Deer Hunter, Ingrid Bergman for Best Actress for Autumn Sonata, Laurence Olivier for Best Actor for The Boys from Brazil and Gary Busey for The Buddy Holly Story. The Golden Globes split the categories differently, giving the drama awards to Voight and Fonda for Coming Home, the musical or comedy awards to Warren Beatty for Heaven Can Wait and jointly to Ellen Burstyn for Same Time, Next Year and Maggie Smith for California Suite, and both supporting awards to John Hurt for Midnight Express and Dyan Cannon for Heaven Can Wait. That comparison is on the film page rather than the Academy Awards page, and the film page dates the Globes and the BAFTAs to the following year.",
+      "source": "https://en.wikipedia.org/wiki/51st_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Get Out Your Handkerchiefs, France, directed by Bertrand Blier, winner of the Academy Award for Best Foreign Language Film",
+        "The Glass Cell, West Germany, directed by Hans W. Geissendorfer",
+        "Hungarians, Hungary, directed by Zoltan Fabri",
+        "Viva Italia!, Italy, directed by Dino Risi, Ettore Scola and Mario Monicelli",
+        "White Bim Black Ear, Soviet Union, directed by Stanislav Rostotsky"
+      ],
+      "detail": "These are the five Foreign Language Film nominees, which is where the Academy Awards page states each film's country and the language it was made in. The Palme d'Or at Cannes went to Ermanno Olmi's The Tree of Wooden Clogs, and the Golden Bear at Berlin was shared by three Spanish films, Ascensor directed by Tomas Munoz, Trout directed by Jose Luis Garcia Sanchez and What Max Said directed by Emilio Martinez-Lazaro. The film page dates neither festival. The Golden Globe for Best Foreign Language Film went to Ingmar Bergman's Autumn Sonata, which the Academy took instead in the original screenplay category for Bergman and in Best Actress for Ingrid Bergman. The People's Choice Award at Toronto went to an American film, Claudia Weill's Girlfriends.",
+      "source": "https://en.wikipedia.org/wiki/51st_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Grease had its world premiere at Grauman's Chinese Theatre in Hollywood on June 4 and went into release on June 16, and Superman premiered at the Kennedy Centre in Washington on December 10 and reached American cinemas on December 15.",
+      "detail": "Superman had a European Royal Charity Premiere at the Empire, Leicester Square in London three days after the Washington premiere, with Queen Elizabeth II present. The film page calls Grease the highest-grossing musical to that point and Paramount's highest-grossing film. Columbia Pictures changed hands twice over: David Begelman resigned as president on February 6, Daniel Melnick became head of the studio in June after the Begelman scandal, and Alan Hirschfield was fired as president and chief executive on July 20 and replaced by Francis T. Vincent. John Carpenter's Halloween, made on a low budget and starring Jamie Lee Curtis and Donald Pleasence, was released on October 25 and finished tenth on the year's gross table.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.34",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1978",
+      "value": [
+        "Laverne & Shirley, ABC, 30.5 rating",
+        "Three's Company, ABC, 30.3",
+        "Mork & Mindy, ABC, 28.6",
+        "Happy Days, ABC, 28.6",
+        "Angie, ABC, 26.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Mork & Mindy and Happy Days tied for third on the same 28.6, and ABC held all five of the top places. 60 Minutes was sixth at 25.5 and M*A*S*H seventh at 25.4, both on CBS, The Ropers eighth at 25.2 on ABC, and All in the Family on CBS tied with Taxi on ABC for ninth at 24.9. Little House on the Prairie was NBC's highest entry, fourteenth at 23.1, and Monday Night Football tied for twenty-eighth at 19.8.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1978%E2%80%9379"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Fantasy Island, ABC, January 28",
+        "The Incredible Hulk, CBS, March 10",
+        "Dallas, CBS, April 2",
+        "20/20, ABC, June 6",
+        "Taxi, ABC, September 12",
+        "Mork & Mindy, ABC, September 14",
+        "Battlestar Galactica, ABC, September 17",
+        "WKRP in Cincinnati, CBS, September 18",
+        "Diff'rent Strokes, NBC, November 3"
+      ],
+      "detail": "Robin Williams had first played Mork from Ork in a Happy Days episode on February 28, and the television page says that appearance is what produced the spin-off. The year page says Dallas gave birth to the modern day primetime soap opera. Twelve programmes started on September 9 alone, most of them Saturday morning children's shows, among them Godzilla and Yogi's Space Race on NBC, Challenge of the Superfriends on ABC and The All New Popeye Hour on CBS, with The Paper Chase beginning on CBS the same day. Vega$ started on ABC on September 20 and The White Shadow on CBS on November 27.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_American_television"
+    },
+    "tv.camp_david_broadcast": {
+      "section": "tv",
+      "label": "All three networks break into prime time for Camp David",
+      "value": "ABC, CBS and NBC interrupted their prime time schedules by 10:30 pm to carry the ceremony from the White House East Room formalising the peace talks between Begin and Sadat",
+      "detail": "ABC broke into the three-hour premiere of Battlestar Galactica, CBS into live coverage of the Primetime Emmy Awards, and NBC into the second part of the 1976 film King Kong on The Big Event. The television page cites a Broadcasting report headed Right in the middle (east) of it all, and gives no audience figure for the interruption.",
+      "date": "1978-09-17",
+      "source": "https://en.wikipedia.org/wiki/1978_in_American_television"
+    },
+    "tv.holocaust": {
+      "section": "tv",
+      "label": "Holocaust on NBC",
+      "value": "The miniseries ran across four nights from April 16 to 19, starring James Woods and Meryl Streep",
+      "detail": "The television page carries the run as a single entry and gives no audience figure, no director and no episode count. NBC also aired The Rutles: All You Need Is Cash, a Beatles spoof, on March 22, and Ringo Starr's musical version of The Prince and the Pauper on April 26 with George Harrison narrating.",
+      "date": "1978-04-16",
+      "source": "https://en.wikipedia.org/wiki/1978_in_American_television"
+    },
+    "tv.world_news_tonight": {
+      "section": "tv",
+      "label": "ABC rebuilds its evening news",
+      "value": "The ABC Evening News became ABC World News Tonight, with Frank Reynolds anchoring from Washington, Max Robinson presenting national news from Chicago and Peter Jennings covering international news from London",
+      "detail": "Harry Reasoner used an oral escape clause in his ABC contract to return to CBS on August 1 and eventually rejoined 60 Minutes, which he had anchored with Mike Wallace from its 1968 premiere until he left for ABC in 1970. The television page's list of the year's network launches is four lines long and carries only WGN-TV on November 9, the Home Theater Network on September 1, and INSP and Operation Prime Time with no date at all.",
+      "date": "1978-07-10",
+      "source": "https://en.wikipedia.org/wiki/1978_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Shadow Dancing, Andy Gibb",
+        "Night Fever, Bee Gees",
+        "You Light Up My Life, Debby Boone",
+        "Stayin' Alive, Bee Gees",
+        "Kiss You All Over, Exile"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 23. The Bee Gees had three songs on the list, at two, four and six, and Andy Gibb three including the number one, so five of the top eight belong to the four Gibb brothers. How Deep Is Your Love was sixth, Baby Come Back by Player seventh, (Love Is) Thicker Than Water by Andy Gibb eighth, Boogie Oogie Oogie by A Taste of Honey ninth and Three Times a Lady by the Commodores tenth. The music page's separate list of American number one singles marks Night Fever, eight weeks at the top, as the best selling single of the year, and marks Boney M's Rivers of Babylon, five weeks at number one in the United Kingdom, as the best selling single there.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1978"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On singles, and in the United Kingdom more of them than ever. The music page says British singles sales reached their all-time high this year, boosted by the simultaneous peak of the disco and punk phenomena and by the success of the singles from Grease.",
+      "detail": "The Saturday Night Fever soundtrack reached number one on the Billboard chart on January 21 and held it until July. Donna Summer became the first female artist of the modern rock era to hold the number one single and the number one album on the Billboard charts simultaneously, with MacArthur Park and Live and More, which the music page dates November 25 and describes as a double LP with three live sides and one studio side. Workers at EMI's record processing plant in England refused on January 26 to press the Buzzcocks' second single What Do I Get? because of its flipside, and the record was pressed in the end and became the band's first hit. No cached page mentions cassettes, eight-track cartridges, twelve-inch singles or any certification figure for the year, so nothing here claims anything about them.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "20th Annual Grammy Awards",
+      "value": "Presented in Los Angeles and hosted by John Denver, with Fleetwood Mac's Rumours taking Album of the Year, the Eagles' Hotel California Record of the Year, and Debby Boone Best New Artist",
+      "detail": "Song of the Year was a tie, which the music page calls rare, between Barbra Streisand's Evergreen (Love Theme from A Star Is Born) and Debby Boone's You Light Up My Life. The music page's own awards list links the 19th Annual Grammy Awards rather than the 20th, contradicting the dated events entry this fact follows, and this file goes by the dated entry.",
+      "date": "1978-02-23",
+      "source": "https://en.wikipedia.org/wiki/1978_in_music"
+    },
+    "music.punk": {
+      "section": "music",
+      "label": "The Sex Pistols end and the Dead Kennedys begin",
+      "value": "The Sex Pistols played their final show at San Francisco's Winterland Ballroom on January 14, and the Dead Kennedys played their first concert at the Mabuhay Gardens in the same city on July 19",
+      "detail": "Nancy Spungen, the American girlfriend of the Sex Pistols bassist Sid Vicious, was found dead of a stab wound in a New York hotel room on October 12, and Vicious was arrested and charged with her murder. Kate Bush topped the UK singles chart on March 11 with Wuthering Heights, the first woman to reach number one there with a song she had written herself. Simple Minds gave their first live performance at Glasgow's Satellite City on January 17, and Duran Duran took their name on October 21 from a character in Barbarella, which had gone out on BBC 1 the night before.",
+      "date": "1978-01-14",
+      "source": "https://en.wikipedia.org/wiki/1978_in_music"
+    },
+    "music.concerts": {
+      "section": "music",
+      "label": "Festival and concert crowds",
+      "value": [
+        "California Jam II, Ontario Motor Speedway, March 18, over 300,000 for Ted Nugent, Aerosmith, Santana, Dave Mason, Foreigner and Heart",
+        "The One Love Peace Concert, National Heroes Stadium, Kingston, April 22, headlined by Bob Marley in his first concert appearance since December 1976",
+        "The Picnic at Blackbushe Aerodrome, Camberley, July 15, some 200,000 for Bob Dylan, Eric Clapton and Joan Armatrading",
+        "Canada Jam, Mosport Speedway in Ontario, August 26, 80,000 for the Doobie Brothers, Commodores, Kansas and the Village People",
+        "The first Funk Festival, Soldier Field in Chicago, August 26, 67,000 for A Taste of Honey, Con Funk Shun, the Bar-Kays and Parliament-Funkadelic"
+      ],
+      "detail": "The Funk Festival was billed as One Nation Under A Groove. The first Texxas Jam ran over the July 4 long weekend at the Cotton Bowl in Dallas, with Willie Nelson headlining his sixth annual Fourth of July picnic on the Sunday. The Rolling Stones opened a 25-date American summer tour at Lakeland, Florida on June 10. Grace Slick split with Jefferson Starship on June 20, the day after a Hamburg concert at which the music page says she abused the crowd.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Space Invaders, Taito, released in Japan in June and given a wide North American release by Midway in October, the top-grossing video game worldwide",
+        "Gee Bee, October, Namco's first arcade video game",
+        "Computer Othello, Nintendo's first arcade video game",
+        "Block Game, Konami's first arcade video game",
+        "The Odyssey 2, Magnavox, December"
+      ],
+      "detail": "The games page puts the Japanese gross of Space Invaders at $670,000,000 on 100,000 cabinets, and says it was the first video game to finish first on the annual Game Machine chart, which ranks video games and electro-mechanical games together and had been topped twice by Namco's F-1. In the United States the top-grossing arcade video game on both the Play Meter and RePlay charts was Cinematronics' Space Wars, at 10,000 cabinets. The American arcade market took $1 billion for the year and the American home market was worth $200 million. The best-selling home system was the Atari Video Computer System at 300,000 units, tied with Bandai Baseball on the same figure, ahead of the TRS-80 at 150,000, the Commodore PET at 30,000 and the Apple II at 20,000. Atari popularised the trackball controller with Football and also released Super Breakout, Fire Truck, Canyon Bomber and Avalanche.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_video_games"
+    },
+    "tech.ivf": {
+      "section": "tech",
+      "label": "First birth from in vitro fertilisation",
+      "value": "Louise Brown was born in Oldham, Greater Manchester, the world's first test tube baby",
+      "detail": "The year page names no doctor and no hospital and cites a BBC report headed I helped deliver Louise. The same page's list of notable births gives her as the first human born through in vitro fertilisation, which is the only place either cached page uses that term.",
+      "date": "1978-07-25",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "tech.gps": {
+      "section": "tech",
+      "label": "First global positioning satellite",
+      "value": "Navstar 1, built by Rockwell International, was launched by the United States",
+      "detail": "The year page carries the launch as a single line, names no launch site, gives no orbit and says nothing about what the satellite was for. The link it hangs on the satellite's name points at a section on Block I satellites, which is the only indication on any cached page that Navstar 1 was the first of a series.",
+      "date": "1978-02-27",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "tech.bbs": {
+      "section": "tech",
+      "label": "First computer bulletin board system",
+      "value": "CBBS was created in Chicago",
+      "detail": "The US year page carries it as one line, spelling out the phrase and then the initials, and names no author, no hardware, no modem speed and no number to dial. No other cached page mentions it, and the year page has nothing about it at all.",
+      "date": "1978-02-16",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "tech.charon": {
+      "section": "tech",
+      "label": "Charon found orbiting Pluto",
+      "value": "A satellite of Pluto was discovered and named Charon",
+      "detail": "The year page carries the discovery as one line, names no astronomer and no observatory, gives no diameter and no orbital period, and cites a BBC Sky at Night article headed How Pluto's moon Charon was discovered. The name Charon appears nowhere else on any cached page.",
+      "date": "1978-06-22",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.67 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$2.65 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The papacy changed hands twice between August and October, an Egyptian president and an Israeli prime minister spent September at a Maryland retreat and then split the peace prize, and in November a congressman flew to a commune in Guyana and neither he nor most of the people living there came back."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Isaac Bashevis Singer",
+        "Peace, Anwar Sadat and Menachem Begin",
+        "Physics, Pyotr Kapitsa, Arno Allan Penzias and Robert Woodrow Wilson",
+        "Chemistry, Peter D. Mitchell",
+        "Medicine, Werner Arber, Daniel Nathans and Hamilton O. Smith",
+        "Economics, Herbert A. Simon"
+      ],
+      "detail": "The year page's October entry dates the peace award to October 27 and says the two men won for their progress toward achieving a Middle East accord. It gives no date and no citation for any of the other five prizes. Harry Martinson, who shared the literature prize four years earlier, died on February 11.",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "culture.gay_rights": {
+      "section": "culture",
+      "label": "Gay rights measures and marches",
+      "value": [
+        "San Francisco's city council signed what the year page calls the most comprehensive gay rights bill in the United States, March 28",
+        "St. Paul, Minnesota became the second US city to repeal its gay rights ordinance, April 25",
+        "The rainbow flag flew for the first time in its original form at the San Francisco Gay Freedom Day Parade, June 25",
+        "The first Sydney Gay and Lesbian Mardi Gras was held as a protest march, October 20",
+        "California voters defeated the Briggs Initiative, which would have prohibited gay school teachers, November 7"
+      ],
+      "detail": "The year page attributes the St. Paul repeal to the success of Anita Bryant's campaign in Miami-Dade County the year before. A Gay and Lesbian Solidarity March had been held in Sydney on June 24 to mark the ninth anniversary of the Stonewall riots, and the year page says that march later became the annual Mardi Gras. The first Take Back the Night march in the United States took place in San Francisco on November 19.",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "culture.garfield": {
+      "section": "culture",
+      "label": "Garfield goes into national syndication",
+      "value": "The comic strip, published locally as Jon from 1976, went into nationwide syndication",
+      "detail": "The US year page says it eventually becomes the world's most widely syndicated comic strip. Neither cached year page names the cartoonist in its own text, and the Britannica page the year page cites is headed Garfield, comic strip by Davis. Neither page names the syndicate, the number of papers it started in, or what changed between the local strip called Jon and the syndicated one.",
+      "date": "1978-06-19",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "culture.love_canal": {
+      "section": "culture",
+      "label": "Love Canal emergency",
+      "value": "Carter declared a state emergency and an evacuation after the revelation that the Love Canal neighbourhood of Niagara Falls, New York was built on a toxic waste dump",
+      "detail": "The US year page calls the declaration unprecedented and carries no count of households moved, no name for the company that dumped there and no cost. It is the only environmental entry on either cached year page for the year apart from the Amoco Cadiz grounding.",
+      "date": "1978-08-02",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Los Angeles Dodgers four games to two, with Bucky Dent named series most valuable player",
+      "detail": "The Yankees clinched on October 17 with a 7 to 2 win in Los Angeles, having beaten the Boston Red Sox 5 to 4 at Fenway Park on October 2 to take the American League East after trailing by 14 games two months earlier. Both October dates are on the US year page and neither is on the sports page. Pete Rose of the Cincinnati Reds collected his 3,000th career hit on May 5, the 13th player in Major League history to reach it, and hit safely in 44 consecutive games from June 14 to July 31, tying Willie Keeler's National League record. Ron Guidry of the Yankees was Associated Press Male Athlete of the Year.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XII",
+      "value": "The Dallas Cowboys of the NFC beat the AFC's Denver Broncos 27 to 10 at the Superdome in front of 76,400, with Harvey Martin and Randy White named co-most valuable players",
+      "detail": "The television page says this was the first time the NFL championship was played and telecast at night. Darryl Stingley of the New England Patriots was left a quadriplegic by a hit from Jack Tatum in a preseason game against the Oakland Raiders on August 12. The sports page also lists the Oakland and San Diego game it calls the Holy Roller, and dates it nowhere.",
+      "date": "1978-01-15",
+      "source": "https://en.wikipedia.org/wiki/1978_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Argentina beat the Netherlands 3 to 1 after extra time to win the tournament, which had opened in Argentina on June 1",
+      "detail": "The year page's lead image caption says the host nation won its first title. Neither cached page names a venue, a scorer, a referee or an attendance for the final, and the sports page gives the result in eleven words without a date.",
+      "date": "1978-06-25",
+      "source": "https://en.wikipedia.org/wiki/1978"
+    },
+    "sports.affirmed": {
+      "section": "sports",
+      "label": "Affirmed wins the Triple Crown",
+      "value": "Affirmed took the Kentucky Derby, the Preakness Stakes and the Belmont Stakes, holding off Alydar in the 110th running of the Belmont on June 10 to become the 11th horse to complete the series",
+      "detail": "The US year page gives the eleventh-horse count and the Belmont running number and the sports page lists all three races. The year page's own entry describes the win by reaching forward to the next Triple Crown, which falls outside this year and is left out. Shirley Heights won the Epsom Derby and the Irish Derby, and Alleged the Prix de l'Arc de Triomphe.",
+      "date": "1978-06-10",
+      "source": "https://en.wikipedia.org/wiki/1978_in_the_United_States"
+    },
+    "sports.ali_spinks": {
+      "section": "sports",
+      "label": "Ali loses and regains the heavyweight title",
+      "value": "Leon Spinks beat Muhammad Ali on a decision over 15 rounds on February 15, and Ali beat Spinks on a decision in the rematch on September 15 to become the first boxer to win the world heavyweight title three times",
+      "detail": "The sports page gives no venue for either fight, no scoring and no purse. The second World Amateur Boxing Championships were held in Belgrade.",
+      "date": "1978-02-15",
+      "source": "https://en.wikipedia.org/wiki/1978_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Boston Bruins, four games to two",
+        "NBA Finals, Washington Bullets over the Seattle SuperSonics, four games to three",
+        "NCAA basketball, Kentucky 94, Duke 88",
+        "European Cup, Liverpool",
+        "FA Cup, Ipswich Town 1, Arsenal 0",
+        "Grey Cup, Edmonton Eskimos 20, Montreal Alouettes 13",
+        "World Snooker Championship, Ray Reardon over Perrie Mans, 25 to 18"
+      ],
+      "detail": "Guy Lafleur of the Canadiens took both the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player. Nottingham Forest won the English league and the League Cup, Real Madrid La Liga, Juventus Serie A and FC Porto the Primeira Liga. Bernard Hinault won the Tour de France and Johan de Muynck the Giro d'Italia. Bjorn Borg took the French Open and Wimbledon, Martina Navratilova won Wimbledon and Chris Evert the US Open, and the United States beat Great Britain 4 to 1 in the Davis Cup. The US Open moved to the hard courts of the USTA National Tennis Center at Flushing Meadows and its total prize money passed $500,000. Nancy Lopez won the LPGA Championship, led the LPGA money list with $189,814 and was Associated Press Female Athlete of the Year, and Tom Watson led the PGA Tour with $362,429. Yugoslavia won the FIBA World Championship and Pakistan the men's Hockey World Cup in Buenos Aires. The first Ironman Triathlon was held at Kona in Hawaii, the first short track speed skating championships at Solihull, and Wilt Chamberlain was elected to the Naismith Memorial Basketball Hall of Fame.",
+      "source": "https://en.wikipedia.org/wiki/1978_in_sports"
+    },
+    "deaths.humphrey": {
+      "section": "deaths",
+      "label": "Hubert Humphrey",
+      "value": "Died January 13. Born 1911",
+      "detail": "American politician, 38th Vice President of the United States. His body lay in state in the Capitol Rotunda on January 14 and 15, which the US year page carries along with cancer as the cause, and the deaths page carries neither. Carter signed the Humphrey-Hawkins Full Employment Act on October 27, adding full employment, growth in production, price stability and balanced trade and budget to the government's stated economic goals.",
+      "date": "1978-01-13",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1978"
+    },
+    "deaths.meir": {
+      "section": "deaths",
+      "label": "Golda Meir",
+      "value": "Died December 8. Born 1898",
+      "detail": "Israeli teacher, politician and stateswoman, 4th Prime Minister of Israel. The deaths page cites a Britannica profile from a series it calls 100 Women Trailblazers, and gives no cause and no place.",
+      "date": "1978-12-08",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1978"
+    },
+    "deaths.kenyatta": {
+      "section": "deaths",
+      "label": "Jomo Kenyatta",
+      "value": "Died August 22. Born about 1897",
+      "detail": "Kenyan activist, politician and statesman, the first Prime Minister and the first President of Kenya. The deaths page marks the birth year as approximate, and the year page says he died aged 89 in Mombasa, which does not fit a birth in 1897, so this fact gives the deaths page figure and names the conflict. Daniel arap Moi became president of Kenya on October 10.",
+      "date": "1978-08-22",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1978"
+    },
+    "deaths.moon": {
+      "section": "deaths",
+      "label": "Keith Moon",
+      "value": "Died September 7. Born 1946",
+      "detail": "English rock drummer of The Who. The music page says he died in a central London flat after a prescription drug overdose at the age of 32, and that his last show with the band had been on May 25, in a performance used for the film The Kids Are Alright.",
+      "date": "1978-09-07",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1978"
+    },
+    "deaths.rockwell": {
+      "section": "deaths",
+      "label": "Norman Rockwell",
+      "value": "Died November 8. Born 1894",
+      "detail": "American artist. The deaths page gives no cause and no place, and no other cached page carries him at all.",
+      "date": "1978-11-08",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1978"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1978. figures_basis is gross, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence directly above the table on the film page agrees, calling the entries the top ten films released this year by box office gross in the United States and Canada. Unlike 1975 and 1976, where the header said rentals and the sentence above it said gross, there is no contradiction to label here, so film.gross reports gross and figures_basis follows. A comment in the film page's markup states the figures are original grosses and not lifetime grosses, which film.gross records. None of the ten titles on that table contains a four-digit year, so the anachronism check needed no title exemption and src/data/title_years.json was read and not edited. Date checks. The year has no US federal election entry on either cached year page and no inauguration, so neither constraint the brief names applies. November 7, 1978 was a Tuesday and November 6 a Monday, so a midterm election on the Tuesday after the first Monday would have fallen on November 7, and the US year page's only November 7 entry is the defeat of the Briggs Initiative in California. Neither cached page carries the 1978 midterm elections at all, so no election fact appears here rather than one built from arithmetic. No dedicated article was pulled as raw wikitext, because no date on the cached pages carries a checkable internal constraint that the pages themselves get wrong. The Academy Awards ceremony honouring this year of film is the 51st, which its own cached page dates to April 9 of the following year at the Dorothy Chandler Pavilion; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date and no year token. The 50th Academy Awards of April 3, which honoured the previous year of film and gave Best Picture to Annie Hall, is left out for the same reason 1975 and 1976 leave out theirs: it would put a second Best Picture on the page. The nomination announcement of February 20 and the technical awards ceremony three days before the main show are left out for the same reason. No radio fact, because the radio window closed after 1959. The year's one radio item, United States Senate proceedings broadcast on radio for the first time on February 8, was not moved into another section to get round that and is not in this file at all; both cached year pages carry it as a single line, citing a National Archives exhibit page headed Advice and Consent: The Panama Canal Treaties, and it was dropped rather than filed under politics or tv. The first radio episode of The Hitchhiker's Guide to the Galaxy on BBC Radio 4 on March 8 is out for the same reason. The Nielsen ranking covers a season that began in the autumn of 1978 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved: the Camp David talks open on September 5 on the year page and on September 17 on the US year page, and pol.camp_david carries both; the Jonestown toll is 918 in all and 909 at the commune in the year page's November entry, over 900 in the same page's lead image caption, and 909 Americans on the US year page, and world.jonestown names all three; the Great Blizzard killed 70 on the year page and caused 51 deaths in Ohio on the US year page, and the texture gives the year page's 70 and no Ohio figure; Jomo Kenyatta was born about 1897 on the deaths page and died aged 89 on the year page, which cannot both hold, and deaths.kenyatta names the conflict; the music page's awards list links the 19th Annual Grammy Awards while its dated events entry gives the 20th on February 23, and music.grammys follows the dated entry; the gap since the last non-Italian pope is over 450 years in the year page's lead caption and back to Adrian VI of 1522 to 1523 in its October entry, and world.three_popes gives both; Aldo Moro is a former Italian Premier at his kidnapping and a former Italian prime minister at the recovery of his body on the same page; Charlie Chaplin's burial place is spelled Cosier-sur-Vevey on the year page, which is why the texture names only a Swiss cemetery near Lake Geneva and no village. Facts taking their value from one cached page and part of their detail or date from another, recorded here rather than left for a reader to notice: film.acting_awards cites the Academy Awards page for the four winners and takes the Golden Globe splits from the film page, saying so, and the film page dates the Globes and BAFTAs to the following year, which is why no ceremony date for either appears; music.hot100_year_end cites the year-end chart page for the top five and takes the best-selling-single annotations for the United States and the United Kingdom from the music page; sports.world_series cites the sports page for the result and the most valuable player and takes the October 2 Fenway Park game and the October 17 clincher from the US year page, which the fact states; sports.super_bowl cites the sports page for the score, venue, attendance and co-most valuable players and takes the night-telecast line from the television page and the Stingley injury from the US year page; sports.affirmed cites the US year page for the eleventh-horse count and the Belmont running number and takes the three-race sweep from the sports page; deaths.humphrey cites the deaths page for the date and birth year and takes the lying in state and the cause from the US year page; deaths.moon cites the deaths page and takes the flat, the overdose, the age and the May 25 last show from the music page; deaths.kenyatta cites the deaths page and takes the Mombasa death and the age of 89 from the year page; tv.camp_david_broadcast cites the television page throughout; pol.camp_david cites the year page and names the US year page's different date. Month-only or undated facts: world.independence carries no date because it lists three dates; film.gross, film.best_picture, film.acting_awards, film.world_cinema, film.how_people_watched, tv.top_shows, music.hot100_year_end, music.listening_format, music.concerts, tech.games, culture.nobel_prizes, culture.gay_rights, sports.world_series and sports.champions carry no single date for the same reason. Inside tech.games, Computer Othello and Block Game carry no month because the games page lists both under the year with no month, and the Space Invaders cabinet total for the United Kingdom is left out because the games page gives it as 85,000 across this year and the next. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question; that Andy Gibb and the three Bee Gees are four brothers, which music.hot100_year_end states in counting five of the top eight as theirs, and which the hot100 page supports only by naming Andy Gibb and the Bee Gees separately; and the reading in culture.mood that the papacy changed hands twice between August and October and that a congressman who flew to Guyana in November did not return, both of which the year page supports in its own entries. All three come out if challenged. Dropped for lack of a source that says enough, or for room, or because a figure reaches past this year: the Senate radio broadcast, described above; the Susan B. Anthony dollar, authorised by a bill Carter signed on October 10 and in circulation from December 13, which no cached page connects to a design, a mintage or a reception; the Humphrey-Hawkins Full Employment Act of October 27, which sits in deaths.humphrey's detail because it carries his name and nowhere else; the bill Carter signed on October 14 allowing homebrewing of beer; the postponement of neutron bomb production on April 7; the Copyright Act of 1976 taking effect on January 1; Stump v. Sparkman of March 28, which is named in pol.bakke's detail as the year's other Supreme Court decision and has no fact of its own; the publication of Mommie Dearest on October 2, which the year page calls the first celebrity tell-all memoir; the Spanish transition to democracy, which the year page carries as two entries that do not sit in order, December 6 saying the constitution officially restores democratic government and December 27 saying it was approved in a referendum ending 40 years of dictatorship, a sequence this file will not assert either way; the changes of government at the head of South Africa on October 9 and 10, in Sweden on October 18 when Thorbjorn Falldin gave way to Ola Ullsten, and in Pakistan on September 16 when Zia-ul-Haq took the presidency, along with Zulfikar Ali Bhutto's death sentence of March 18; the Third Plenum of December 22 at which Deng Xiaoping reversed Mao-era policy, and the household responsibility system begun in Anhui on November 24; the Ethio-Somali truce of March 15 and the Cuban involvement Ethiopia admitted on March 3; Operation Litani of March 14 and the Coastal Road massacre of March 11, which killed 34 Israelis; the Shaba II fighting at Kolwezi in May and the Battle of Cassinga of May 4; the Tabas earthquake of September 16, which killed at least 15,000, and the Thessaloniki earthquake of June 20, which killed fifty; the Sydney Hilton Hotel bombing of February 13; PSA Flight 182 of September 25, which killed 144 in San Diego, Air India Flight 855 of January 1, Pacific Western Airlines Flight 314 of February 11, Korean Air Lines Flight 902 of April 20, the Yangzhuang rail collision of December 16 and United Airlines Flight 173 of December 28; Kosmos 954 scattering radioactive debris over the Northwest Territories on January 24; the Soyuz 28 flight of March 2 to 10, which carried Vladimir Remek of Czechoslovakia, the first person in space from a country other than the United States or the Soviet Union, and the short circuit that ended the scientific mission of the American satellite Seasat on October 10, three months after its June 28 launch, both of which were first written into the details of tech.gps and tech.charon and then cut, because sharing a subject as broad as space is not the same as elaborating the fact above them; the first F-16 delivered to the United States Air Force on August 18; the Budd Company's first self-propelled railcar, unveiled in Philadelphia on February 9, whose model number contains a four-digit string the anachronism check reads as a future year, which is a second reason to leave it out; the Santa Barbara earthquake of August 13; the Ted Bundy attacks of January 15 and his recapture on February 15, the tenth Hillside Strangler victim of February 16, the arrest of John Wayne Gacy on December 22 and the sentencing of David Berkowitz on June 12, all crime items with no fact to attach to; the Willow Island disaster, the Great Blizzard, the New England blizzard, the Amoco Cadiz, the Costa Daurada tanker truck, Home Depot, Resorts International, Messner and Habeler on Everest, Mavis Hutchinson, Ken Warby, the Cleveland default, Charlie Chaplin's coffin, Larry Flynt, Karl Wallenda, Georgi Markov, the Lufthansa heist, Ted Nugent, the Cramps, the Grateful Dead at Giza, the closing of the Winterland Ballroom and the last Guy Lombardo New Year's Eve, all in the texture instead; the Star Wars Holiday Special of November 17, carried on both the film and television pages, which was cut for room; Leigh Brackett finishing a first draft in March and dying two weeks later; George Lucas buying Bulltail Ranch in September; the start of production on Star Trek: The Motion Picture in August; Sgt. Pepper's Lonely Hearts Club Band of July 21 and The Buddy Holly Story of May 18; the Eurovision Song Contest of April 22, won by Izhar Cohen and the Alphabeta for Israel with A-Ba-Ni-Bi; Van Halen's first album of February 10 and Prince's first single of June 7; the death of Terry Kath of Chicago on January 23 and of Glenn Goins of Parliament-Funkadelic on July 29; Showtime going nationwide on March 7; RTE 2 going on air in Ireland on November 2; the Cambridge boat sinking in the University Boat Race in March, the first sinking there since 1951; Footscray's 33.15 for 213 points against St Kilda on July 1; the first Timezone arcade opening in Perth on May 15; Dick Smith towing a fake iceberg to Sydney Harbour on April 1; synthetic insulin, which the year page carries with no date and no name; and the deaths of Kurt Godel on January 14, Harold Abrahams on the same day, Margaret Mead on November 15, Jacques Brel on October 9, Charles Boyer on August 26, Robert Shaw on August 28, Edgar Bergen on September 30, Carlos Chavez on August 2, William Grant Still on December 3, Ignazio Silone on August 22, Louis Prima on August 24, Bob Crane on June 29, Claude Francois on March 11 and Lyman Bostock, shot on September 23, all of which would have earned a place with more room, along with Pope Paul VI and Pope John Paul I, whose deaths sit in world.three_popes, and Aldo Moro, whose killing sits in world.aldo_moro. Names and titles are written in ASCII per the corpus convention, so Bjorn Borg, Thorbjorn Falldin, Zoltan Fabri, Hans W. Geissendorfer, Tomas Munoz, Jose Luis Garcia Sanchez, Emilio Martinez-Lazaro, Ba Chuc, Kurt Godel, Carlos Chavez, Claude Francois and Houari Boumediene lose their diacritics, the superscript in Magnavox's Odyssey squared is written Odyssey 2, and the en dashes inside Cambodian-Vietnamese War and the Humphrey-Hawkins Full Employment Act are written as plain hyphens. Deaths carry a birth year rather than an age, because the deaths page gives only the year. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for, with world at 7 and no other section above 6."
+}

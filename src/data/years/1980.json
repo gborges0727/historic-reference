@@ -1,0 +1,512 @@
+{
+  "year": 1980,
+  "tier": "broadcast",
+  "headline": "Reagan beat Carter in November, Mount St. Helens erupted in May, and John Lennon was shot outside the Dakota",
+  "texture": [
+    "A bomb at the Bologna Centrale railway station killed 85 people and wounded more than 200 on August 2, and a right-wing attack at the Munich Oktoberfest killed 13 and injured 211 on September 26. The Norwegian oil platform Alexander L. Kielland collapsed in the North Sea on March 27 and 123 of its crew of 212 died. The Liberian freighter Summit Venture struck the Sunshine Skyway Bridge over Tampa Bay on May 9, dropping a 1,400-foot section and killing 35 people, most of them on a bus. Saudia Flight 163 caught fire at Riyadh on August 19 and 301 people died.",
+    "A fire at the MGM Grand Hotel and Casino on the Las Vegas Strip killed 85 people on November 21. A heat wave running from June 23 to September 6 claimed 1,700 lives across the United States. A Texaco oil rig broke through into a mine under Lake Peigneur on November 20. Liquid fuel in a Titan II missile exploded at a launch facility north of Damascus, Arkansas on September 18 and 19. Thirty-three inmates were killed and more than a hundred injured in the riot at the New Mexico State Penitentiary on February 2 and 3.",
+    "The London Gold Fixing reached its highest price ever on January 21, $843 per troy ounce. Silver had touched $49.45 per troy ounce three days before that, as the Hunt brothers tried to corner the market, and on Silver Thursday, March 27, the price fell steeply enough to panic the commodity and futures exchanges. Carter proclaimed a grain embargo against the Soviet Union on January 4 with the support of the European Commission. Unemployment peaked at 7.8 percent in July, the highest in four years, and the Chicago, Rock Island and Pacific Railroad ran its last train on March 31 after a court ordered it liquidated in January.",
+    "The Georgia Guidestones were erected in Elbert County on March 22. Paul McCartney was arrested in Tokyo on January 16 carrying half a pound of marijuana, and was released and ejected from Japan on January 25 with the rest of the Wings tour cancelled. Terry Fox set off from St. John's, Newfoundland on April 12 to run across Canada, and stopped outside Thunder Bay on September 1 once the cancer reached his lungs. Rosie Ruiz won the Boston Marathon on April 21 and was later stripped of the win. Quebec voters rejected a proposal to seek independence from Canada by 60 percent on May 20."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.us_election",
+    "world.solidarity",
+    "world.mount_st_helens",
+    "film.gross#0",
+    "film.how_people_watched",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Jimmy Carter (D)",
+      "detail": "Walter Mondale was Vice President, Warren E. Burger was Chief Justice, Tip O'Neill was Speaker of the House and Robert Byrd was Senate majority leader. The 96th Congress was in session. The US year page gives Carter as a Democrat of Georgia, Mondale of Minnesota, Burger of Virginia, O'Neill of Massachusetts and Byrd of West Virginia.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "pol.us_election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Ronald Reagan of California and George H. W. Bush beat the incumbent Jimmy Carter and Walter Mondale with 489 electoral votes and 43,899,248 popular votes against 49 and 35,481,436, and the independent John B. Anderson took 5,719,850 popular votes and no electoral votes",
+      "detail": "The date carries a checkable constitutional constraint and it holds. November 3 fell on a Monday, so it was the first Monday and the Tuesday after it was November 4, which is the date both cached year pages give and the date the dedicated election article gives. That article is cited here because neither year page carries a single figure. It states the popular vote shares as 50.7 percent for Reagan, 41.0 percent for Carter and 6.6 percent for Anderson, and gives turnout as 54.2 percent. Reagan carried 44 states and Carter six plus the District of Columbia. NBC News projected Reagan the winner at 8:15 pm eastern on the strength of exit polls, before voting had finished in the West, the first time a broadcast network used exit polling to call a result, and Carter conceded at 9:50 pm eastern. Speaker Tip O'Neill accused him of weakening the party's performance in the Senate races by conceding early. Republicans took control of the Senate for the first time since 1954.",
+      "date": "1980-11-04",
+      "source": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election"
+    },
+    "pol.nominations": {
+      "section": "politics",
+      "label": "Party nominations",
+      "value": [
+        "Ronald Reagan, a former Governor of California and film actor, was nominated for president at the Republican National Convention in Detroit, July 16, and the convention dropped its long-standing support for the Equal Rights Amendment under the influence of the Religious Right, dismaying moderate Republicans",
+        "Jimmy Carter beat Senator Ted Kennedy to win renomination at the Democratic National Convention in New York City, August 14"
+      ],
+      "detail": "Kennedy had won several primaries including California on Super Tuesday, June 3, without enough delegates to overtake Carter. The film page files Reagan's nomination among the year's film events and describes him as a former president of the Screen Actors Guild. Reagan and Carter debated in Cleveland on October 28 in the only meeting between them, and Reagan had debated the independent John B. Anderson on September 21, which the television page calls the first debate of the campaign and the first with an independent candidate taking part.",
+      "date": "1980-07-16",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "pol.eagle_claw": {
+      "section": "politics",
+      "label": "Operation Eagle Claw fails in the Iranian desert",
+      "value": "The commando mission to free the American embassy hostages in Iran was aborted after mechanical problems grounded the rescue helicopters, and eight American servicemen were killed in a mid-air collision during the operation",
+      "detail": "Six United States diplomats posing as Canadians had escaped from Tehran on January 27 aboard a Swissair flight to Zurich, which both year pages call the Canadian Caper. Ayatollah Khomeini said on February 23 that Iran's parliament would decide the fate of the hostages. The United States severed diplomatic relations with Iran and imposed economic sanctions on April 7, and the International Court of Justice called for the release of the hostages on May 24. Both year pages date the failed mission April 24 to 25 and give the same death toll.",
+      "date": "1980-04-24",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "pol.abscam": {
+      "section": "politics",
+      "label": "Abscam sting, and the first House expulsion since the Civil War",
+      "value": "FBI personnel targeted members of Congress in a sting operation from February 2, and on October 2 the House expelled Congressman Michael Myers by 376 votes to 30",
+      "detail": "The US year page carries the expulsion without naming Abscam, so this fact records the two together and does not join them. Both cached year pages carry the sting itself under February 2 in the same words and neither says what it turned up.",
+      "date": "1980-02-02",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "pol.federal_actions": {
+      "section": "politics",
+      "label": "Federal actions of the year",
+      "value": [
+        "Carter signed legislation approving $1.5 billion in loan guarantees to bail out the Chrysler Corporation, January 7",
+        "The Department of Health, Education, and Welfare split into the Department of Education and the Department of Health and Human Services on May 4, and the Department of Education began operations on May 16",
+        "Carter signed Proclamation 4771, requiring young men to register for a peacetime military draft in response to the Soviet invasion of Afghanistan, June 27",
+        "The Staggers Rail Act deregulated American railroads, October 14",
+        "CERCLA was enacted by Congress, December 11"
+      ],
+      "detail": "The two cached year pages give different age ranges for the draft registration proclamation. The year page says 18- to 25-year-old males and the US year page says 19 and 20-year-old males, so this fact names neither range. Channel Islands National Park was established on March 5 and the Augusta AVA became the first federally recognised American Viticultural Area on June 20.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "world.iran_iraq_war": {
+      "section": "world",
+      "label": "The Iran-Iraq War begins",
+      "value": "The command council of Iraq ordered its army to deliver its fatal blow on Iranian military targets",
+      "detail": "Abolhassan Banisadr had been sworn in on February 4 as the first President of Iran, after winning the presidential election of January 25. Reza Pahlavi, eldest son of the Shah, proclaimed himself the rightful successor to the Peacock Throne on October 31. Six Iranian-born gunmen took over the Iranian embassy in London on April 30 and the SAS retook the building on May 5, with one of the six surviving.",
+      "date": "1980-09-22",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "world.solidarity": {
+      "section": "world",
+      "label": "Solidarity founded in Poland",
+      "value": "Lech Walesa led strikes at the Gdansk Shipyard from August 7 to 31, the Gdansk Agreement of August 31 opened the way to the first trade union in the communist bloc outside state control, the nationwide independent union Solidarity was established on September 17, and the Polish government recognised it on October 31",
+      "detail": "A wave of strikes had begun in Lublin on July 8. The year page names the yard the Gdansk Shipyard in its August entries and the Lenin Shipyard in Gdansk in its September 17 entry.",
+      "date": "1980-08-31",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "world.zimbabwe": {
+      "section": "world",
+      "label": "Zimbabwe becomes independent",
+      "value": "Robert Mugabe was elected Prime Minister on March 4, and Zimbabwe gained de jure independence from the United Kingdom on April 18 with Mugabe as its first Prime Minister",
+      "detail": "Bob Marley and the Wailers performed at the independence festival on April 17 as official guests of state, and the music page quotes Marley calling it the greatest honour of his life. Zimbabwe broke diplomatic and consular relations with South Africa on September 3 while keeping a commercial mission in Johannesburg. The African National Congress published a statement by its imprisoned leader Nelson Mandela on June 10. The Southern African Development Coordination Conference was formed at Lusaka on April 1.",
+      "date": "1980-04-18",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "Indira Gandhi returned to power as Prime Minister of India, January 14",
+        "Desi Bouterse and Roy Horb ousted the government of Henck Arron in Suriname and replaced it with a National Military Council, February 25",
+        "Pierre Trudeau returned to office as Prime Minister of Canada, March 3",
+        "Samuel K. Doe overthrew the government of Liberia and executed President William Tolbert, ending over 130 years of democratic presidential succession there, April 12",
+        "Beatrix acceded to the Dutch throne on the abdication of Queen Juliana, April 30",
+        "Vigdis Finnbogadottir was elected President of Iceland on June 29 and took office on August 1, the world's first democratically directly elected female president",
+        "Kenan Evren staged a military coup in Turkey, September 12"
+      ],
+      "detail": "Sanjay Gandhi, the politically influential son of the Indian Prime Minister, was killed in a plane crash on June 23. Nihat Erim, a former Prime Minister of Turkey, was shot dead by two gunmen in Istanbul on July 19, and Bulent Ulusu, a former admiral, formed Turkey's 44th government on September 21 out of mostly technocrats. James Callaghan announced his resignation as leader of the British Labour Party on October 15. Malcolm Fraser's Liberal and National Country Coalition was re-elected in Australia on October 18 with a substantially reduced majority and lost control of the Senate, with the Australian Democrats taking the balance of power. Greece rejoined the NATO military structure on October 20. The 6th Congress of the Workers' Party ended on October 14 having anointed Kim Jong Il as successor to Kim Il Sung.",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "world.earthquakes": {
+      "section": "world",
+      "label": "Two destroying earthquakes",
+      "value": [
+        "El Asnam, northern Algeria, October 10, magnitude 7.1, maximum Mercalli intensity X, between 2,633 and 5,000 killed and between 8,369 and 9,000 injured",
+        "Irpinia, southern Italy, November 23, magnitude 6.9, maximum Mercalli intensity X, officially 2,483 killed and 8,934 injured, though the year page says the deaths may have been as high as 4,900"
+      ],
+      "detail": "Both magnitudes are given on the moment scale and both maximum intensities are glossed as Extreme. The Livermore earthquake shook the East Bay area of California on January 24, a 5.8 followed two days later by a 5.4, with total losses of $11.5 million, and the Eureka earthquake shook the North Coast of California on November 8 at 7.3, causing six injuries and between $2 million and $2.75 million in losses.",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "world.mount_st_helens": {
+      "section": "world",
+      "label": "Mount St. Helens erupts",
+      "value": "The volcano in Washington state erupted, killing 57 and causing US$3 billion in damage",
+      "detail": "Both cached year pages carry the same toll and the same damage figure. The Eruption of Mount St. Helens!, produced by George Casey, was one of the five nominees for the Academy Award for documentary short subject.",
+      "date": "1980-05-18",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North American box office gross",
+      "value": [
+        "The Empire Strikes Back, $209,398,025, 20th Century Fox",
+        "9 to 5, $103,290,500, 20th Century Fox",
+        "Stir Crazy, $101,300,000, Columbia",
+        "Airplane!, $83,453,539, Paramount",
+        "Any Which Way You Can, $70,687,344, Warner Bros."
+      ],
+      "detail": "Gross, the ticket window total, not the distributor's rentals share that the corpus carries for earlier years. The column header reads Box-office gross and the line introducing the table calls the entries the top ten 1980 released films by box office gross in North America, so the header and the sentence above it agree, and the figures come from Box Office Mojo. Private Benjamin took sixth at $69,847,348 for Warner Bros., Coal Miner's Daughter seventh at $67,182,787 for Universal, Smokey and the Bandit II eighth at $66,132,626 for Universal, The Blue Lagoon ninth at $58,853,106 for Columbia and The Blues Brothers tenth at $57,229,890 for Universal. A separate worldwide table on the same page, which the page says is incomplete, gives The Empire Strikes Back $538,375,067, The Gods Must Be Crazy of South Africa $200,000,000, Airplane! $130,000,000 and The Blues Brothers $115,229,890.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Ordinary People, produced by Ronald L. Schwary",
+      "detail": "Awarded the following spring at the 53rd Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Johnny Carson for the third consecutive time. Ordinary People took four awards, the most of the evening, for Picture, Robert Redford's directing, Alvin Sargent's adapted screenplay and Timothy Hutton in support. Tess won three, for the art direction of Pierre Guffroy and Jack Stephens, the cinematography of Geoffrey Unsworth and Ghislain Cloquet, and Anthony Powell's costumes. The Elephant Man and Raging Bull led the nominations on eight each, Coal Miner's Daughter had seven, and Fame, Ordinary People and Tess six each. The Empire Strikes Back won the sound award for Bill Varney, Steve Maslow, Gregg Landaker and Peter Sutton, and a non-competitive Special Achievement Award for the visual effects of Brian Johnson, Richard Edlund, Dennis Muren and Bruce Nicholson, which the page excludes from its award tallies. Henry Fonda received the Honorary Award. In December the Academy hired Norman Jewison to produce the telecast for the first time and announced Carson as host.",
+      "source": "https://en.wikipedia.org/wiki/53rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Robert De Niro, Raging Bull, as Jake LaMotta",
+        "Best Actress, Sissy Spacek, Coal Miner's Daughter, as Loretta Lynn",
+        "Best Supporting Actor, Timothy Hutton, Ordinary People",
+        "Best Supporting Actress, Mary Steenburgen, Melvin and Howard"
+      ],
+      "detail": "Judd Hirsch was also nominated in support for Ordinary People, Joe Pesci for Raging Bull, Jason Robards for Melvin and Howard as Howard Hughes, and Cathy Moriarty in support for Raging Bull. Bo Goldman won the original screenplay award for Melvin and Howard and Thelma Schoonmaker the editing award for Raging Bull. Michael Gore won the original score for Fame and shared the song award for its title song with the lyricist Dean Pitchford, beating Dolly Parton's 9 to 5 and Willie Nelson's On the Road Again. The Golden Globes split their acting awards differently, giving De Niro the drama actor award, Ray Sharkey the comedy or musical actor award for The Idolmaker, Mary Tyler Moore the drama actress award for Ordinary People and Spacek the comedy or musical actress award. The BAFTA awards went to John Hurt for The Elephant Man and Judy Davis for My Brilliant Career.",
+      "source": "https://en.wikipedia.org/wiki/53rd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Moscow Does Not Believe in Tears, Soviet Union, in Russian, directed by Vladimir Menshov, winner of the Academy Award for Best Foreign Language Film",
+        "Confidence, Hungary, in Hungarian, directed by Istvan Szabo",
+        "Kagemusha, Japan, in Japanese, directed by Akira Kurosawa",
+        "The Last Metro, France, in French, directed by Francois Truffaut",
+        "The Nest, Spain, in Spanish, directed by Jaime de Arminan"
+      ],
+      "detail": "These are the five Foreign Language Film nominees, which is where the Academy Awards page states each film's country and language. Every festival prize on the film page was shared between two films. The Palme d'Or at Cannes went to Bob Fosse's All That Jazz of the United States and to Kagemusha, the Golden Lion at Venice to Louis Malle's Atlantic City and John Cassavetes's Gloria, and the Golden Bear at Berlin to Richard Pearce's Heartland and Werner Schroeter's Palermo or Wolfsburg of West Germany. Nicolas Roeg's Bad Timing, from the United Kingdom, took the People's Choice Award at Toronto. Kurosawa won the BAFTA for direction for Kagemusha. The Fly, an animated short by Ferenc Rofusz, won Best Animated Short Film. No festival dates appear here because the film page dates all three ceremonies to the year after this one.",
+      "source": "https://en.wikipedia.org/wiki/53rd_Academy_Awards"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases and productions",
+      "value": [
+        "The Empire Strikes Back, May 21",
+        "The Shining, May 23, Stanley Kubrick's adaptation of the 1977 novel",
+        "The Blues Brothers, June 20, the first feature film built on characters created on Saturday Night Live",
+        "Ordinary People, September 19, Robert Redford's first film as director",
+        "Heaven's Gate, November 19, whose failure bankrupted United Artists"
+      ],
+      "detail": "Filming began on June 23 on Raiders of the Lost Ark, the first Indiana Jones film by George Lucas and Steven Spielberg. Pacific Data Images was founded by Carl Rosendahl on August 13, and Allied Artists was sold to Lorimar Productions on a date the film page does not give. The Shining and the Ordinary People premiere are dated by the US year page and the rest by the film page.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and the film page says the trade expected comedy and upbeat entertainment to fill them, a response to poor morale in a country in recession, which it says generally increased theatrical visits as audiences sought escapism. Airplane!, The Blues Brothers, Caddyshack and The Jerk were all scheduled for the year.",
+      "detail": "The average cost of making a film had risen to $6 million, which the film page says cut the number of films made for niche audiences, and some studios kept releasing a wide range in the hope that a few large successes would cover the failures. The actors' unions SAG and AFTRA struck the film and television studios from 2:00 am eastern on July 21, chiefly over residuals from videocassettes and cable television, and the television page says it was the first time both struck at once. Cinemax, a 24-hour cable movie network, launched on August 1.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.69",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1980",
+      "value": [
+        "Dallas, CBS, 34.5 rating",
+        "The Dukes of Hazzard, CBS, 27.3",
+        "60 Minutes, CBS, 27.0",
+        "M*A*S*H, CBS, 25.7",
+        "The Love Boat, ABC, 24.3"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. CBS held the top four places and eight of the top eleven. The Jeffersons was sixth on 23.5 and Alice seventh on 22.9, House Calls on CBS and Three's Company on ABC tied for eighth on 22.4, Little House on the Prairie was tenth on 22.1 and One Day at a Time eleventh on 22.0. Magnum, P.I. entered at fourteenth on 21.0, and Monday Night Football and Laverne & Shirley tied for twentieth on 20.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1980%E2%80%9381"
+    },
+    "tv.who_shot_jr": {
+      "section": "tv",
+      "label": "Who shot J.R.",
+      "value": "J. R. Ewing was shot by an unseen assailant on the March 21 season finale of Dallas on CBS, and the November 21 episode named Kristin Shepard, Sue Ellen Ewing's sister, played by Mary Crosby",
+      "detail": "The television page says the revelation drew a record number of viewers and gives no figure. The US year page says millions of viewers tuned in and calls the question a national obsession, and gives no figure either. Dallas topped the Nielsen season ranking that began the same autumn.",
+      "date": "1980-11-21",
+      "source": "https://en.wikipedia.org/wiki/1980_in_American_television"
+    },
+    "tv.cnn": {
+      "section": "tv",
+      "label": "CNN goes on the air",
+      "value": "The Cable News Network began broadcasting as the first 24-hour news channel, and Moneyline and TBS Evening News started the same day on WTBS and CNN",
+      "detail": "The US year page describes the shooting of Vernon Jordan in Fort Wayne, Indiana on May 29 as the first major news story for CNN, which would put it three days before the launch date the same page gives, and this fact does not resolve that. Black Entertainment Television launched on January 25 as a block of programming on the USA Network, the Madison Square Garden Sports Network was renamed the USA Network on April 9, and Bravo launched as a channel devoted exclusively to the performing arts, opening with its own news program Bravo Magazine and a tribute to Aaron Copland, on December 1 by the television page's events table and December 8 by its own network table.",
+      "date": "1980-06-01",
+      "source": "https://en.wikipedia.org/wiki/1980_in_American_television"
+    },
+    "tv.actors_strike": {
+      "section": "tv",
+      "label": "The actors strike the studios",
+      "value": "SAG and AFTRA walked out at 2:00 am eastern on July 21 over residuals from videocassettes and cable television, the musicians' union joined days later, and the television page dates a tentative agreement to September 21 and a settlement to September 25, after 67 days",
+      "detail": "The television page says the strike was the first time both actors' unions went out at once and that it delayed the networks' fall seasons by several weeks, and that the memberships ratified the agreement by October 23. Fifty-one of the 52 nominated performers boycotted the Primetime Emmy Awards on NBC on September 7 in support, and Powers Boothe was the only nominated actor who attended.",
+      "date": "1980-07-21",
+      "source": "https://en.wikipedia.org/wiki/1980_in_American_television"
+    },
+    "tv.closed_captioning": {
+      "section": "tv",
+      "label": "Closed captioning starts on a network schedule",
+      "value": "ABC carried the first regularly scheduled closed captioning on American network television, with captions of spoken dialogue added to programming received through a decoding unit attached to a standard television set",
+      "detail": "The television page says the first broadcast to use the system was a film from 1977, Semi-Tough. Walter Cronkite announced his retirement from the CBS Evening News on February 14. Brandon Tartikoff became President of NBC Entertainment on January 15 at the age of 31.",
+      "date": "1980-03-16",
+      "source": "https://en.wikipedia.org/wiki/1980_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "That's Incredible!, ABC, March 3",
+        "Fridays, ABC, April 11",
+        "The David Letterman Show, NBC, June 23",
+        "Solid Gold, syndication, September 13",
+        "Cosmos, PBS, September 28, hosted by Carl Sagan",
+        "Too Close for Comfort, ABC, November 11",
+        "Bosom Buddies, ABC, November 27",
+        "Magnum, P.I., CBS, December 11"
+      ],
+      "detail": "Shogun ran on NBC as a five-part miniseries from September 15 to 19. The David Letterman Show was cancelled in October. Barbara Mandrell and the Mandrell Sisters began on NBC on November 18 with Dolly Parton as guest, which the television page calls the last network variety show with more than 40 million viewers. Saturday Night Live opened its sixth season on November 15 under Jean Doumanian with a new cast to widespread negative reviews, and Eddie Murphy made his first appearance a week later in a non-speaking part. Hawaii Five-O ended on April 5 after starting in 1968, The Rockford Files on January 10, Love of Life on February 1 after 29 years and 7,316 episodes, and Barnaby Jones on September 4.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Call Me, Blondie",
+        "Another Brick in the Wall, Part II, Pink Floyd",
+        "Magic, Olivia Newton-John",
+        "Rock with You, Michael Jackson",
+        "Do That to Me One More Time, Captain & Tennille"
+      ],
+      "detail": "From the Talent in Action year-end pop singles chart in the Billboard issue dated December 20. Michael Jackson had three songs on the list, Rock with You at four, She's Out of My Life at 65 and Off the Wall at 79. The Eagles also had three, Heartache Tonight at 47, I Can't Tell You Why at 62 and The Long Run at 81, and Kenny Rogers three counting his duet with Kim Carnes. Queen's Crazy Little Thing Called Love was sixth, Paul McCartney's Coming Up seventh and Lipps Inc.'s Funkytown eighth. Gary Numan's Cars was twelfth and Prince's I Wanna Be Your Lover ninety-fifth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1980"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records, and from June 25 on a player carried on the body. The Sony Walkman went on sale in the United States that day.",
+      "detail": "The first UK Indie Chart was published in Record Week on January 19, with Spizzenergi's Where's Captain Kirk topping the singles side and Adam and the Ants' Dirk Wears White Sox the albums side. Radio Caroline shut down on March 20 after the Mi Amigo, the ship housing the pirate station, sank off the English coast in a storm on March 19 and 20. America's Top 10, a television version of the radio countdown American Top 40 hosted by Casey Kasem, went into syndication the week of May 4, which the television page dates to May 5. Roland released the TR-808 drum machine, which the music page lists among items dated only to the year.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_music"
+    },
+    "music.double_fantasy": {
+      "section": "music",
+      "label": "Double Fantasy and a last number one",
+      "value": "John Lennon and Yoko Ono began recording the album on August 4 and it was released on November 17, and the single (Just Like) Starting Over, out in October, went to number one in eight countries including the United States, the United Kingdom and Australia",
+      "detail": "The music page's chart table gives the single five weeks at number one and dates its arrival there to December, after the murder. Over 100,000 mourners attended a public vigil for Lennon in Central Park on December 14.",
+      "date": "1980-11-17",
+      "source": "https://en.wikipedia.org/wiki/1980_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Permanent Waves, Rush, January 14",
+        "Back in Black, AC/DC, July 25",
+        "Zenyatta Mondatta, The Police, October 3",
+        "Remain in Light, Talking Heads, October 8",
+        "Boy, U2, October 20",
+        "Sandinista!, The Clash, December 12"
+      ],
+      "detail": "Prince's Dirty Mind came out the same day as Remain in Light. Pink Floyd's The Wall Tour opened at the Los Angeles Memorial Sports Arena on February 7. Iron Maiden's debut album was released in the United Kingdom on April 14, which the year page dates and the music page does not. Dead Kennedys released Fresh Fruit for Rotting Vegetables on September 2. Gary Numan's Telekon entered the UK albums chart at number one on September 13, his third consecutive number one album in under fourteen months, on the day Elton John played a free concert to 400,000 people in Central Park and took his encore in a Donald Duck costume.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_music"
+    },
+    "music.rock_deaths": {
+      "section": "music",
+      "label": "Three bands lose their man",
+      "value": "Bon Scott, lead singer of AC/DC, died in London on February 19 at 33. Ian Curtis, lead singer of Joy Division, died on May 18 at 23. John Bonham, drummer of Led Zeppelin, was found dead by his bandmate John Paul Jones on September 25 at 32.",
+      "detail": "The music page gives Scott's official cause as acute alcohol poisoning and death by misadventure, and says common folklore instead cites aspiration of vomit. It records Curtis's death as suicide and Bonham's cause as pulmonary aspiration. AC/DC made Brian Johnson their singer on April 1 and released Back in Black on July 25. The surviving members of Joy Division regrouped and played anonymously at Manchester's Beach Club on July 29. Led Zeppelin disbanded on December 4. Darby Crash of the Germs died of a heroin overdose on December 7.",
+      "date": "1980-02-19",
+      "source": "https://en.wikipedia.org/wiki/1980_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Pac-Man, Namco, released May 22, the year's highest-grossing video game at $1,000,000,000 on 100,000 cabinets",
+        "Asteroids, Atari, $700,000,000 on 70,000 cabinets",
+        "Missile Command, Atari, July",
+        "Battlezone, Atari, November, a first-person 3D tank shooter",
+        "Berzerk, Stern Electronics, November 12, with the designer Alan McNeil's signature on the monitor glass of every cabinet",
+        "Zork, Infocom's first game, December"
+      ],
+      "detail": "The year page dates the Pac-Man release to May 22 in Japan and the US year page to May 22 without a country. The American arcade video game market took $2.81 billion and home video games sold $464 million, with the Atari VCS holding a 44 percent share. Nintendo's Game & Watch handhelds were the best-selling home system at over 2,000,000 units, ahead of the Atari VCS at 1,250,000 and the TRS-80 behind both. Atari's VCS port of Space Invaders became the first console title to sell a million copies, and Activision's first five games, all for the VCS, reached shops. Namco's Rally-X in November was the first game with a bonus round, Universal's Space Panic the first with platforms and ladders, and Sun Electronics' Stratovox in May the first with voice synthesis. Electronic Games hosted the first Arcade Awards, which the games page calls the first video game awards ceremony, for games released in 1978 and 1979, with Space Invaders taking the overall Game of the Year award.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_video_games"
+    },
+    "tech.voyager_saturn": {
+      "section": "tech",
+      "label": "Voyager 1 reaches Saturn",
+      "value": "The NASA probe made its closest approach between November 10 and 12, passing within 77,000 miles of the planet's cloud tops and sending back the first high-resolution images of the world",
+      "detail": "The same probe confirmed the existence of Janus, a moon of Saturn, on March 1. Both cached year pages carry the flyby on the same dates and at the same distance.",
+      "date": "1980-11-10",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "tech.computing": {
+      "section": "tech",
+      "label": "Three dates in computing",
+      "value": [
+        "The Global Positioning System time epoch began at 00:00 UTC, January 6",
+        "Tim Berners-Lee began work on ENQUIRE, June 23",
+        "Digital Equipment Corporation, Intel and Xerox introduced the DIX standard for Ethernet, September 30"
+      ],
+      "detail": "The DIX standard was the first Ethernet implementation outside Xerox and the first to support 10 Mbit/s. The year page describes ENQUIRE as the system that eventually led to the World Wide Web and gives a date for that which falls well past this year, so it is left out. Both cached year pages carry all three items on the same dates.",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "tech.smallpox": {
+      "section": "tech",
+      "label": "Smallpox declared eradicated",
+      "value": "The World Health Organization certified the global eradication of the disease",
+      "detail": "The year page carries this as a single line and names no country, no last case and no signatory.",
+      "date": "1980-05-08",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.25 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.10 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Fifty-seven dead under the ash of a mountain in Washington state in May, eighty-two countries staying away from the Olympics in Moscow in July, and in December a crowd standing in Central Park for a man shot outside his own front door."
+    },
+    "culture.mariel_boatlift": {
+      "section": "culture",
+      "label": "Mariel boatlift",
+      "value": "A mass exodus of Cubans to the United States began on April 15",
+      "detail": "The two cached year pages end it on different dates. The year page says the boatlift officially ended in Cuba on September 26 and the US year page says it ended on October 31 by agreement between the two countries, so this fact names both and picks neither. A Miami court acquitted four white police officers on May 17 of killing Arthur McDuffie, a black insurance executive, which the US year page says provoked three days of race riots.",
+      "date": "1980-04-15",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "culture.census": {
+      "section": "culture",
+      "label": "The census counts the country",
+      "value": "The census began on April 1 and put 226,545,805 United States residents in the country on that day",
+      "detail": "The US year page gives that figure for census day itself rather than as an average over the year, and gives no state or city breakdown.",
+      "date": "1980-04-01",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "New word",
+      "value": "Yuppie, in an article by the journalist Dan Rottenberg headed About that Urban Renaissance... in Chicago magazine, which the year page calls the first recorded use",
+      "detail": "The year page carries no gloss of the word and no account of how it spread.",
+      "date": "1980-05-01",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Czeslaw Milosz",
+        "Peace, Adolfo Perez Esquivel",
+        "Physics, James Watson Cronin and Val Logsdon Fitch",
+        "Chemistry, Paul Berg, Walter Gilbert and Frederick Sanger",
+        "Medicine, Baruj Benacerraf, Jean Dausset and George D. Snell",
+        "Economics, Lawrence Klein"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "The Philadelphia Phillies beat the Kansas City Royals four games to two for the club's first championship",
+      "detail": "The sports page says the win ended 97 years of frustration and gives no date. The year page and the US year page both date the clinching game to October 21, the year page calling it Game Six and giving the score as 4 to 1. Rollie Fingers broke Hoyt Wilhelm's major league record of 250 saves during the season. Gary Ward became the sixth Minnesota Twins player to hit for the cycle on September 18, in a 9 to 8 loss to Milwaukee. Sadaharu Oh retired from the Yomiuri Giants as the all-time professional home run king. Bob Costas called his first Major League Baseball game for NBC on October 4, a backup game between the Yankees and the Tigers at Yankee Stadium.",
+      "date": "1980-10-21",
+      "source": "https://en.wikipedia.org/wiki/1980_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XIV",
+      "value": "The Pittsburgh Steelers of the AFC beat the NFC's Los Angeles Rams 31 to 19 at the Rose Bowl in front of 103,985, with the Pittsburgh quarterback Terry Bradshaw named most valuable player",
+      "detail": "The win made Pittsburgh the first NFL franchise to take four Super Bowls, and the US year page says the game was shown to the Americans held hostage in Iran. Alabama had beaten Arkansas 24 to 9 in the Sugar Bowl for the college national championship of the 1979 season. The New Orleans Saints finished 1 and 15 on December 21, the first NFL team to do so. NBC Sports broadcast the Jets' 24 to 17 win over the Dolphins on December 20 with no announcers, which the television page says has never been done again with an NFL game. The NFL draft was televised for the first time, on ESPN, on April 29.",
+      "date": "1980-01-20",
+      "source": "https://en.wikipedia.org/wiki/1980_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics at Lake Placid",
+      "value": "The XIII Winter Games ran at Lake Placid, New York from February 13 to February 24, East Germany took the most medals with 23 and the Soviet Union the most golds with 10, and the United States beat the Soviet team in the medal round of the men's ice hockey on February 22 in the game known as the Miracle on Ice",
+      "detail": "The United States then beat Finland for the gold medal, its first in the event since 1960. Eric Heiden set an Olympic record in the men's 1000 metres on February 19. Al Michaels of ABC Sports called the closing seconds of the Soviet game with the line Do you believe in miracles? Yes! The United States Olympic hockey team was named Associated Press Male Athlete of the Year and ABC's Wide World of Sports Athlete of the Year, and Chris Evert was Associated Press Female Athlete of the Year.",
+      "date": "1980-02-13",
+      "source": "https://en.wikipedia.org/wiki/1980_in_sports"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics at Moscow",
+      "value": "The Games ran from July 19 to August 3 with 82 countries boycotting and athletes from 16 of those competing under a neutral flag, and the Soviet Union took 195 medals and 80 golds",
+      "detail": "Carter announced the American boycott on March 21 over the Soviet invasion of Afghanistan. NBC announced on May 6 that it would not televise the Games, having spent $70,000,000 on the rights and preparation, and the television page says the company still lost $22,000,000 after insurance covered most of it. Nadiya Olizarenko of the Soviet Union ran 1:53.43 in the women's 800 metres on July 27, bettering the 1:54.85 she had set at Moscow on June 12. India won the men's field hockey and Zimbabwe the women's.",
+      "date": "1980-07-19",
+      "source": "https://en.wikipedia.org/wiki/1980_in_sports"
+    },
+    "sports.boxing": {
+      "section": "sports",
+      "label": "Duran, Leonard and Ali",
+      "value": "Roberto Duran beat Sugar Ray Leonard on a 15-round decision for the WBC world welterweight title on June 20, Larry Holmes stopped Muhammad Ali in the eleventh round on October 2 in what would be Ali's last world title bout, and Leonard took the title back in New Orleans on November 25 in the fight known as the No Mas Fight, an eighth-round technical knockout",
+      "detail": "Thomas Hearns knocked out Jose Pipino Cuevas in the second round on August 2 for the WBA world welterweight title, and Yasutsune Uehara knocked out Samuel Serrano in the sixth the same day in Detroit for the WBA junior lightweight title. Aaron Pryor stopped Antonio Cervantes in the fourth at Cincinnati for the WBA junior welterweight title, undated on the sports page. Members of the United States Olympic boxing team were killed in the crash of LOT Polish Airlines Flight 007 near Warsaw, which the year page dates to March 14 and says killed a 14-man American boxing team and 73 others, while the sports page heads the same entry March 14 to 22.",
+      "date": "1980-06-20",
+      "source": "https://en.wikipedia.org/wiki/1980_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New York Islanders over the Philadelphia Flyers, won on Bobby Nystrom's overtime goal in game six on May 24, the club's first",
+        "NBA Finals, Los Angeles Lakers over the Philadelphia 76ers, four games to two",
+        "European Championship, West Germany 2, Belgium 1",
+        "European Cup, Nottingham Forest 1, Hamburg 0",
+        "FA Cup, West Ham United 1, Arsenal 0",
+        "Grey Cup, Edmonton Eskimos 48, Hamilton Tiger-Cats 10",
+        "World Snooker Championship, Cliff Thorburn over Alex Higgins 18 to 16, the first winner from outside the United Kingdom"
+      ],
+      "detail": "The rookie Magic Johnson scored 42 points and took 15 rebounds in the clinching game six on May 16, a 123 to 107 win at Philadelphia with Kareem Abdul-Jabbar absent. CBS let its affiliates choose between carrying that game live at 9 pm eastern and holding it until after the late local news, and no affiliate in the eastern or central zones outside Philadelphia took it live, though an independent station in Atlanta did. Wimbledon singles went to Bjorn Borg and Evonne Goolagong Cawley and the US Open singles to John McEnroe and Chris Evert, and Czechoslovakia beat Italy 4 to 1 in the Davis Cup. Bernard Hinault won the Giro d'Italia and the world road race and Joop Zoetemelk the Tour de France. Seve Ballesteros won the Masters, Jack Nicklaus the US Open and the PGA Championship, and Tom Watson the British Open and the PGA Tour money list with $530,808. Richmond beat Collingwood 159 to 78 in the VFL Grand Final, and the New York Yacht Club retained the America's Cup four races to one.",
+      "source": "https://en.wikipedia.org/wiki/1980_in_sports"
+    },
+    "deaths.lennon": {
+      "section": "deaths",
+      "label": "John Lennon",
+      "value": "Died December 8. Born 1940",
+      "detail": "English musician, singer and songwriter, formerly of the Beatles, shot outside the Dakota, his apartment building in New York City, where Mark David Chapman was arrested. Howard Cosell announced the killing on ABC in the closing seconds of a Monday Night Football game between the Miami Dolphins and the New England Patriots, and NBC interrupted The Tonight Show for a bulletin.",
+      "date": "1980-12-08",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "deaths.tito": {
+      "section": "deaths",
+      "label": "Josip Broz Tito",
+      "value": "Died May 4",
+      "detail": "President of Yugoslavia. No cached page gives a birth year or an age, which is why this entry carries neither. The year page says the largest state funeral in history was organised for him, with state delegations from 128 different countries out of the 154 then in the United Nations.",
+      "date": "1980-05-04",
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    "deaths.hitchcock": {
+      "section": "deaths",
+      "label": "Alfred Hitchcock",
+      "value": "Died April 29. Born 1899",
+      "detail": "English film director, known as the Master of Suspense, who died at his home in Bel Air, California at the age of 80.",
+      "date": "1980-04-29",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "deaths.mcqueen": {
+      "section": "deaths",
+      "label": "Steve McQueen",
+      "value": "Died November 7. Born 1930",
+      "detail": "American actor, who died at 50 after surgery to remove tumours in his neck, having been diagnosed with lung cancer.",
+      "date": "1980-11-07",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    },
+    "deaths.owens": {
+      "section": "deaths",
+      "label": "Jesse Owens",
+      "value": "Died March 31. Born 1913",
+      "detail": "American track and field athlete, who won four gold medals at the Berlin Olympics in 1936.",
+      "date": "1980-03-31",
+      "source": "https://en.wikipedia.org/wiki/1980_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1980. figures_basis is gross, checked with bo.mjs rather than assumed from the era. The box office table's column header on the film page reads Rank, Title, Distributor, Box-office gross, and the sentence directly above it calls the entries the top ten 1980 released films by box office gross in North America, so the two agree and there is no contradiction to label. This is the first year in the corpus where the header states gross rather than domestic rentals, so film.gross drops the rentals gloss the 1975 and 1976 pages carry and says instead that the figures are the ticket window total. Date check. The presidential election carries a checkable constitutional constraint and it holds: November 3, 1980 fell on a Monday, so the first Monday was November 3 and the Tuesday after it was November 4, which is the date both cached year pages give. The dedicated article https://en.wikipedia.org/wiki/1980_United_States_presidential_election was pulled as raw wikitext to confirm that date and is the one source in this file from outside the cache, cited on pol.us_election because neither year page carries a vote figure of any kind. It gives Reagan 489 electoral votes, 44 states and 43,899,248 popular votes, Carter 49, six states plus the District of Columbia and 35,481,436, and Anderson 5,719,850 with no electoral votes. The vote shares of 50.7, 41.0 and 6.6 percent are stated in that article's own prose rather than computed by a template, which is why they appear here, and the turnout of 54.2 percent comes from its infobox, cited to the United States Election Project. The article's forward-looking lines, including the expiry of Carter's term and the later careers of Reagan, Bush and Dole, name years past this one and are left out. No radio fact, because the radio window closed after 1959. Radio material of the year was not moved into another section to get round that: Radio Caroline's shutdown on March 20, after the Mi Amigo sank, sits in music.listening_format because that is a claim about how music reached people, and the year page's note that the station returned aboard a new ship names a later year and is left out. No 1981 token appears anywhere in the facts, which costs three things. The 53rd Academy Awards ceremony date is omitted and film.best_picture says awarded the following spring; the ceremony article gives March 31, 1981 at the Dorothy Chandler Pavilion, after a one-day postponement caused by the attempted assassination of Ronald Reagan, and none of that is on the page. The 52nd Academy Awards of April 14, which honoured the previous year of film and gave Best Picture to Kramer vs. Kramer, is left out for the same reason 1975 and 1976 leave out theirs: it would put a second Best Picture on the page. The Golden Globes of January 31 and the BAFTA awards of March 22 are named in film.acting_awards and film.world_cinema without dates, because the film page dates both to the year after this one, and the same goes for the Cannes, Venice and Berlin prizes. The Nielsen ranking covers a season that began in the autumn of 1980 and ran into the following spring, which tv.top_shows states without naming a second year. No film title in the box office table, the Academy Awards lists or film.other_releases contains a four-digit year, so src/data/title_years.json was checked and not edited. Galactica 1980, an ABC series that debuted on January 27, does contain one, but it is this page's own year rather than a later one, and the show is left out of tv.premieres on merit rather than on that account. Source disagreements labelled rather than resolved: the Mariel boatlift ends September 26 on the year page and October 31 by agreement on the US year page, and culture.mariel_boatlift names both; Proclamation 4771 covers 18- to 25-year-old males on the year page and 19 and 20-year-old males on the US year page, so pol.federal_actions gives no age range; Bravo launches December 1 in the television page's events table and December 8 in its own network table; the actors' strike has a tentative agreement on September 21 and a settlement on September 25 in the same table, and tv.actors_strike gives both; the US year page calls the shooting of Vernon Jordan on May 29 the first major news story for CNN, three days before the June 1 launch the same page gives, and tv.cnn states the contradiction without resolving it; the LOT Polish Airlines crash that killed the American boxing team is March 14 on the year page and March 14 to 22 on the sports page; the Pac-Man release is May 22 in Japan on the year page and May 22 with no country on the US year page; the El Asnam and Irpinia death tolls are both given as ranges by the year page itself. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: pol.nominations cites the year page and takes Reagan's Screen Actors Guild presidency from the film page and the September 21 debate from the television page; world.zimbabwe cites the year page and takes Bob Marley at the independence festival from the music page; world.mount_st_helens cites the year page and takes the documentary short nomination from the Academy Awards page; film.gross, film.other_releases and film.how_people_watched cite the film page and take the SAG and AFTRA strike, Cinemax, The Shining and the Ordinary People premiere from the television and US year pages, which the facts say; music.albums cites the music page and takes the Iron Maiden and Dead Kennedys releases from the year page; sports.world_series cites the sports page for the result and takes the October 21 date from both year pages and Bob Costas's first NBC game from the television page; sports.super_bowl cites the sports page and takes the hostage broadcast from the US year page and the announcerless Jets game and the ESPN draft from the television page; sports.summer_olympics cites the sports page and takes the boycott count and the neutral flag from the year page and NBC's withdrawal from the television page; sports.champions cites the sports page and takes the game six detail and the CBS scheduling from the US year and television pages; deaths.hitchcock cites the US year page for the birth year and takes the Master of Suspense line, the Bel Air house and the age from the film page. Month-only or undated facts: none, except that pol.federal_actions and tech.games carry items the pages date only to a month, which are written with the month alone. Dropped for lack of a source that says enough, or because the item would have had to be parked in the detail of a fact it does not elaborate: the Bologna station bombing of August 2 and the Oktoberfest bombing of September 26, both in texture instead; the MGM Grand fire, the 1980 heat wave, the Lake Peigneur drilling accident, the Damascus Titan missile explosion and the New Mexico State Penitentiary riot, all in texture; the Alexander L. Kielland collapse, the Sunshine Skyway Bridge collapse and Saudia Flight 163, all in texture; the London gold and silver records, Silver Thursday, the grain embargo, the July unemployment peak and the Rock Island railroad, all in texture; the Georgia Guidestones, Paul McCartney's Tokyo arrest, Terry Fox's Marathon of Hope, Rosie Ruiz and the Quebec referendum, all in texture; the Gwangju Uprising of May 18 to 27, which the year page carries with no toll; the Sumpul River massacre of May 14 and the murder of Jean Donovan, Maura Clarke, Ita Ford and Dorothy Kazel in El Salvador on December 2; the Grand Mosque beheadings of January 9; the burning of the Spanish Embassy in Guatemala on January 31; the Corralejas Bullring collapse at Sincelejo on January 20; the Dominican embassy siege in Colombia of February 27 to April 27; the Vaal Reefs mine cage fall of March 26; the Plesetsk Cosmodrome explosion of March 18; Dan-Air Flight 1008 of April 25; Itavia Flight 870 of June 27; the Gotthard Road Tunnel opening of September 5; the Gang of Four trial opening on November 20; the Hague Convention proceedings of October 25; the Azaria Chamberlain disappearance of August 17; the last MG MGB of October 20 and the end of iron and steel in the Black Country on October 5; the Abscam link to Michael Myers, which no cached page makes; the 22nd Grammy Awards of February 27, which honoured the previous year's recordings; the Eurovision Song Contest won by Johnny Logan for Ireland on April 19; the first Monsters of Rock festival at Donington Park on August 16; the Heatwave festival near Toronto on August 23; R.E.M.'s first show on April 5 and first show under that name on April 19; Duran Duran signing with EMI on December 5; the Grease Broadway closure of April 13 after 3,388 performances; Vladimir Vysotsky's death on July 25 and Bill Evans's on September 15; the 1980 Quebec referendum result, in texture instead; the deaths of Jean-Paul Sartre and Peter Sellers, which no cached page carries at all; the deaths of Mae West on November 22, Colonel Sanders on December 16, Jimmy Durante on January 29, William O. Douglas on January 19, Alice Roosevelt Longworth on February 20, Henry Miller on June 7, Dorothy Day on November 29, George Raft on November 24, Tex Avery on August 26, Gower Champion on August 25, Elston Howard on December 14, Dorothy Stratten on August 14, Stella Walsh on December 4 and Tim Hardin on December 29, all of which would have earned a place with more room. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and that records were what people bought music on, which music.listening_format states before its sourced specifics about the Walkman, the indie chart and the drum machine. Both come out if challenged. Names and titles are written in ASCII per the corpus convention, so Lech Walesa, Gdansk, Vigdis Finnbogadottir, Desi Bouterse, Czeslaw Milosz, Adolfo Perez Esquivel, Istvan Szabo, Francois Truffaut, Jaime de Arminan, Bjorn Borg, Roberto Duran, Jose Pipino Cuevas, No Mas, Nadiya Olizarenko, Bulent Ulusu, Ferenc Rofusz, Shogun and Kagemusha lose their diacritics and their non-Latin script. Deaths carry a birth year rather than an age where the US year page gives one, and deaths.tito carries neither because no cached page gives either for him. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for. Film runs to 7, which is inside what 1969, 1970 and 1976 already do, and every other section is at 6 or below."
+}

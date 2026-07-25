@@ -250,6 +250,8 @@ US population carries a visible step between 2019 and 2020 where estimates made 
 
 Figures from 1920 through the late 1970s are usually reported as rentals, meaning the distributor's share rather than the ticket-window total. Sources disagree by roughly a factor of two and neither figure is wrong.
 
+Reading every year's own column header rather than assuming an era default put the changeover at a single year: **1976 is the last year whose table states domestic rentals, and 1977 is the first that states box-office gross.** Every year from 1977 on has read gross so far. This is a fact about how the source pages are written, not about industry practice, which is why it has to be checked per year and not inferred. A related trap sits in the same tables through the mid-1970s: several of them print a sentence calling the figures gross directly above a column header that says rentals. Those years follow the header and say so in the fact, because the header labels the numbers actually in the table.
+
 Set `figures_basis` per year:
 
 - `gross` renders dollar amounts with no qualifier.
@@ -283,7 +285,9 @@ The build fails on any error below. Wire `npm run validate` into `npm run build`
 
    The first is generative: a film fact may contain the very next year in the shape `of YYYY`, because revue films were conventionally titled for the coming year and a 1935 page correctly lists *Broadway Melody of 1936*. Nothing further out than year plus one qualifies and no other shape qualifies.
 
-   The second is a named list, `src/data/title_years.json`, for titles carrying a year that no shape rule can recognise. *2001: A Space Odyssey* in a 1968 rentals table is the case that forced it. The exemption applies only when the full title string is present in the text, so the token alone never passes, and a bare-number title cannot be listed at all, because that string is indistinguishable from the stray year the check exists to catch. Each entry is added one at a time with its justification in the file.
+   The second is a named list, `src/data/name_years.json`, for proper names carrying a four-digit number that no shape rule can recognise. *2001: A Space Odyssey* in a 1968 rentals table forced it, and it then turned out not to be a film problem: a 1978 page dropped the Budd SPV-2000 railcar and a 1982 page dropped the arcade cabinet *Robotron: 2084*, both over model numbers the check read as years. So the list covers any proper name and this exemption is not confined to the `film` section. It applies only when the full name string is present in the text, so the number alone never passes, and safety comes from matching the whole name rather than from the section.
+
+   A work titled only with a number cannot be listed at all. Prince's *1999* is indistinguishable from a stray year, which is what the check is looking for, so a page wanting to name it leaves the failure standing and says so in its notes. Some names need no entry either way: the check matches on word boundaries, so *Miner 2049er* is safe because the trailing letters break the boundary, and a two-digit title like *10* never matches. Each entry is added one at a time with its justification in the file.
 
    Everything else still fails. A fact claiming something *happened* in a later year fails, and a 1931 page referencing 1975 is a hallucination or a retrospective framing. The anchoring module is computed outside the data files and is exempt.
 5. **Section availability.** No fact in a section that is unavailable for that year's tier.

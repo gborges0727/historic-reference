@@ -44,8 +44,8 @@ const PLACEHOLDER_MARKERS = [
 
 const YEAR_TOKEN = /\b(1[0-9]{3}|20[0-9]{2})\b/g;
 
-/** Film titles holding a year that is not a claim about time. See title_years.json. */
-const titleAllowlist = readJson(DATA_DIR, 'title_years.json').titles;
+/** Proper names holding a number that is not a claim about time. See name_years.json. */
+const nameAllowlist = readJson(DATA_DIR, 'name_years.json').names;
 
 /** The substance floor. Every pilot year clears these comfortably. */
 const MIN_FACTS = 14;
@@ -151,17 +151,18 @@ for (const file of files) {
       // "of YYYY" shape the convention actually uses.
       const isRevueTitle =
         field.startsWith('film.') && found === year.year + 1 && titled.has(found);
-      // Some films carry a year in the title that is neither the release year nor the
-      // one after it, and no shape rule can spot them: "2001: A Space Odyssey" in a
-      // 1968 list is a title, not a claim that anything happened in 2001. Those are
-      // named one at a time in title_years.json, and the exemption only applies when
-      // the full title string is actually present in the text.
-      const isNamedTitle =
-        field.startsWith('film.') &&
-        titleAllowlist.some(
-          (title) => title.includes(String(found)) && text.includes(title),
-        );
-      if (isRevueTitle || isNamedTitle) continue;
+      // Other proper names carry a four-digit number that no shape rule can spot, and
+      // it is not always a title and not always in the film section: "2001: A Space
+      // Odyssey" in a 1968 rentals list, the arcade cabinet "Robotron: 2084" in 1982,
+      // the railcar "Budd SPV-2000" in 1978. A model number is not a claim about time
+      // either. Those are named one at a time in name_years.json and the exemption
+      // fires only when the full name string is present in the text, which is what
+      // keeps a bare stray year from passing. No section restriction: the safety comes
+      // from matching the whole name, not from which section the fact sits in.
+      const isKnownName = nameAllowlist.some(
+        (name) => name.includes(String(found)) && text.includes(name),
+      );
+      if (isRevueTitle || isKnownName) continue;
       report.error(
         scope,
         'anachronism',

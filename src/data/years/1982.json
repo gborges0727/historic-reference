@@ -1,0 +1,525 @@
+{
+  "year": 1982,
+  "tier": "broadcast",
+  "headline": "Argentina took the Falklands in April, Israel invaded Lebanon in June, and Sony launched the first CD player",
+  "texture": [
+    "Air Florida Flight 90 hit the 14th Street Bridge in Washington on January 13 and fell into the Potomac, and a Washington Metro train derailed to the north the same day, the system's first fatal accident. The oil platform Ocean Ranger sank off Newfoundland on February 15 with all 84 rig workers aboard. Laker Airways collapsed on February 5, stranding 6,000 passengers against debts of 270 million pounds. Pan Am Flight 759 came down at Kenner, Louisiana on July 9, killing all 146 aboard and 8 on the ground. Sixty-six people were crushed at the Luzhniki stadium in Moscow on October 20.",
+    "A soil sample taken at Times Beach, Missouri on December 3 came back at 300 times the safe level of dioxin, and the Environmental Protection Agency recommended evacuating the town on December 23. Larry Walters rose 16,000 feet above Long Beach on July 2 in a lawn chair tied to weather balloons. Vincent Chin was beaten unconscious at Highland Park, Michigan on June 19 by two autoworkers who took him for Japanese, and he died four days later. Charles Brooks Jr. was put to death in Texas on December 7, the first American execution by lethal injection.",
+    "Canada patriated its constitution on April 17 by proclamation on Parliament Hill, taking full political independence from the United Kingdom and entrenching a bill of rights, and Dominion Day was renamed Canada Day on October 27. Poland banned Solidarity on October 8, having suspended it the previous December, and let Lech Walesa out on November 14 after eleven months of internment near the Soviet border. The Garn-St. Germain Depository Institutions Act deregulated American savings and loans on October 15. China passed a billion people, the first country to do so.",
+    "Gordon Johncock held off Rick Mears by 0.16 seconds at the Indianapolis 500 on May 30, after Mears erased an eleven-second gap over the last ten laps. Gilles Villeneuve was killed qualifying for the Belgian Grand Prix on May 8. Kevin Moen ran through the Stanford band on November 20 to finish a five-lateral kickoff return, and California won 25 to 20. Pete Rose came to the plate for the 13,941st time on August 18. The Mary Rose was raised from the Solent on October 11, having sunk in 1545."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.falklands",
+    "world.lebanon_war",
+    "film.gross#0",
+    "film.how_people_watched",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Second year in office. George H. W. Bush was Vice President, Warren E. Burger was Chief Justice, Tip O'Neill was Speaker of the House and Howard Baker was Senate majority leader. The 97th Congress sat through the year. Reagan gave his first State of the Union address on January 26 and opened the World's Fair at Knoxville on May 1.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "The Republican Party lost 27 seats in the House of Representatives to the majority Democrats",
+      "detail": "The date satisfies the constitutional rule that a federal election falls on the Tuesday after the first Monday in November: November 1 was a Monday and November 2 a Tuesday. The US year page gives the House loss and no Senate figure.",
+      "date": "1982-11-02",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "pol.recession": {
+      "section": "politics",
+      "label": "Unemployment peaks at 10.8 percent",
+      "value": "The US year page puts the peak in November and dates the end of the severe recession to the same month",
+      "detail": "Neither date is given as a day. The page also carries the recession as an ongoing item running from the year before, and describes it under undated events as intensifying during the year. The Dow Jones Industrial Average closed at 1,065.49 on November 3, up 43.41 points or 4.25 percent, its first record in more than nine years, the last having been 1,051.70 on January 11, 1973.",
+      "date": "1982-11",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "pol.era": {
+      "section": "politics",
+      "label": "Equal Rights Amendment fails",
+      "value": "The amendment fell short of the 38 states needed for ratification",
+      "date": "1982-06-30",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "pol.att_divestiture": {
+      "section": "politics",
+      "label": "AT&T agrees to break itself up",
+      "value": "The company agreed to divest itself into 22 subdivisions",
+      "detail": "The US year page carries the agreement in one line and gives no terms.",
+      "date": "1982-01-08",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "pol.vietnam_memorial": {
+      "section": "politics",
+      "label": "Vietnam Veterans Memorial dedicated",
+      "value": "The memorial in Washington was dedicated after a march to the site by thousands of Vietnam War veterans",
+      "detail": "The ground had been broken on March 26.",
+      "date": "1982-11-13",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "world.falklands": {
+      "section": "world",
+      "label": "Falklands War",
+      "value": "Argentine forces landed near Stanley on April 1, the British governor Rex Hunt surrendered the islands on April 2, Argentine forces in Stanley surrendered to British forces on June 14, and the war ended on June 20 when British forces retook the South Sandwich Islands",
+      "detail": "Argentine scrap metal workers, infiltrated by marines, had raised the flag on South Georgia on March 19. British troops retook South Georgia on April 26 in Operation Paraquet. The submarine HMS Conqueror sank the cruiser General Belgrano on May 2, killing 323 sailors. HMS Sheffield was hit by an Exocet on May 4, killing 20, and sank on May 10. HMS Ardent was sunk on May 21 with 22 dead, HMS Antelope lost on May 23, and HMS Coventry and SS Atlantic Conveyor sunk on May 25. British forces beat a larger Argentine force at Goose Green on May 28 and 29, and RFA Sir Galahad was destroyed at Bluff Cove on June 8. Leopoldo Galtieri resigned on June 18.",
+      "date": "1982-04-01",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "world.lebanon_war": {
+      "section": "world",
+      "label": "Israel invades Lebanon",
+      "value": "Israeli forces under Defence Minister Ariel Sharon crossed into southern Lebanon in Operation Peace for the Galilee and reached as far north as Beirut, and the United Nations Security Council voted to demand their withdrawal",
+      "detail": "The Security Council voted to censure Israel on August 4 because its troops were still in Lebanon, and a multinational force landed in Beirut on August 20 to oversee the PLO withdrawal. Four Iranian diplomats were kidnapped on July 4. The Wimpy Operation of September 24 was the first act of armed resistance against Israeli troops in Beirut. On September 25, 400,000 marchers in Israel demanded the resignation of Prime Minister Menachem Begin. The first Tyre headquarters bombing on November 11 killed between 89 and 102 people.",
+      "date": "1982-06-06",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "world.sabra_shatila": {
+      "section": "world",
+      "label": "Sabra and Shatila massacre",
+      "value": "The Phalange, a Lebanese Christian militia, killed thousands of Palestinians in the Sabra and Shatila refugee camps in West Beirut",
+      "detail": "The year page calls it a response to the assassination of the president-elect Bachir Gemayel in Beirut four days earlier, on September 14. His brother Amine Gemayel was elected president on September 23. The year page gives no count beyond thousands.",
+      "date": "1982-09-18",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "world.hama": {
+      "section": "world",
+      "label": "Hama massacre begins",
+      "value": "The massacre began in Syria on February 2, and on February 3 President Hafez al-Assad ordered the army to purge the city of Harran of the Muslim Brotherhood",
+      "detail": "The year page carries both lines and no death toll.",
+      "date": "1982-02-02",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "world.soviet_succession": {
+      "section": "world",
+      "label": "Andropov succeeds Brezhnev",
+      "value": "Yuri Andropov, the former head of the KGB, was selected as general secretary of the Soviet Communist Party's Central Committee, succeeding Leonid Brezhnev, who the year page says had died two days earlier",
+      "detail": "Andropov had been appointed to the Party Secretariat on May 24. The year page dates Brezhnev's death only in relation to the succession, so no fact here carries a day for it.",
+      "date": "1982-11-12",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "world.mexico_debt": {
+      "section": "world",
+      "label": "Mexico cannot pay its foreign debt",
+      "value": "Mexico announced it was unable to pay, which the year page says triggered a debt crisis that spread quickly through Latin America",
+      "detail": "Miguel de la Madrid took office as President of Mexico on December 1.",
+      "date": "1982-08-12",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of leadership",
+      "value": [
+        "Mauno Koivisto elected President of Finland, January 26",
+        "Hussain Muhammad Ershad seizes power in Bangladesh, March 24",
+        "Charles Haughey becomes Taoiseach of Ireland, March 9",
+        "Fahd becomes King of Saudi Arabia on the death of his brother Khalid, June 13",
+        "Helmut Kohl replaces Helmut Schmidt as Chancellor of Germany through a constructive vote of no confidence, October 1",
+        "Olof Palme returns as Prime Minister of Sweden after six years in opposition, October 8",
+        "Felipe Gonzalez elected Prime Minister after the Socialist Party wins the Spanish election, October 28",
+        "Yasuhiro Nakasone becomes Prime Minister of Japan, November 27"
+      ],
+      "detail": "Paul Biya became the second president of Cameroon on November 6 after Ahmadou Ahidjo resigned, and Kenan Evren became the seventh president of Turkey on November 8 following the constitutional referendum. Giovanni Spadolini resigned as Prime Minister of Italy on August 7. An attempted coup against Daniel arap Moi in Kenya failed on August 1. Twenty-two National Party members of parliament in South Africa, led by Andries Treurnicht, voted no confidence in P. W. Botha on February 24. The Ireland general election of February 18 gave a boost to Fianna Fail.",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North America",
+      "value": [
+        "E.T. the Extra-Terrestrial, $359,197,037, Universal",
+        "Tootsie, $177,200,000, Columbia",
+        "An Officer and a Gentleman, $129,795,554, Paramount",
+        "Rocky III, $124,146,897, United Artists and MGM",
+        "Porky's, $105,492,483, 20th Century Fox"
+      ],
+      "detail": "Box-office gross rather than rentals. The table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence above it calls the entries the top ten films released this year by box office gross in North America, so the two agree. The E.T. figure carries a footnote saying Amblin later corrected Variety's reporting and put the initial release at $367.6 million. Star Trek II: The Wrath of Khan was sixth at $78,912,963 and 48 Hrs. seventh at $78,868,508, both Paramount, Poltergeist eighth at $76,606,280 for MGM, The Best Little Whorehouse in Texas ninth at $69,701,637 for Universal and Annie tenth at $57,059,003 for Columbia. A separate table the page calls incomplete puts E.T. at $792,910,554 worldwide and Gandhi at $127,767,889.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Gandhi, produced by Richard Attenborough",
+      "detail": "Awarded the following spring at the 55th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Walter Matthau, Liza Minnelli, Dudley Moore and Richard Pryor. Gandhi took eight awards from eleven nominations, the most of either kind, including Best Director for Attenborough and original screenplay for John Briley. E.T. the Extra-Terrestrial won four, for John Williams's score, sound, sound effects editing and the visual effects of Carlo Rambaldi and Dennis Muren. Tootsie had ten nominations and won one. Missing took adapted screenplay for Costa-Gavras and Donald E. Stewart. The other Best Picture nominees were E.T., Missing, Tootsie and The Verdict. The telecast on ABC drew 53.2 million viewers.",
+      "source": "https://en.wikipedia.org/wiki/55th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Ben Kingsley, Gandhi",
+        "Best Actress, Meryl Streep, Sophie's Choice",
+        "Best Supporting Actor, Louis Gossett Jr., An Officer and a Gentleman",
+        "Best Supporting Actress, Jessica Lange, Tootsie"
+      ],
+      "detail": "The Academy Awards page says Gossett was the first African-American winner of Best Supporting Actor, and that Lange was the second actress to earn lead and supporting nominations in the same year, after Teresa Wright, being nominated for Frances as well. Dustin Hoffman was nominated for Tootsie, Jack Lemmon for Missing, Paul Newman for The Verdict and Peter O'Toole for My Favorite Year. The Golden Globes split their awards differently, giving Best Film in drama to E.T. the Extra-Terrestrial and in musical or comedy to Tootsie, with Hoffman taking the comedy actor award and Julie Andrews the actress award for Victor/Victoria. The BAFTA award for Best Actress went to Katharine Hepburn for On Golden Pond and for supporting actor to Jack Nicholson for Reds.",
+      "source": "https://en.wikipedia.org/wiki/55th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Begin the Beguine, Spain, directed by Jose Luis Garci, winner of the Academy Award for Best Foreign Language Film",
+        "Alsino and the Condor, Nicaragua, directed by Miguel Littin",
+        "Clean Slate, France, directed by Bertrand Tavernier",
+        "Flight of the Eagle, Sweden, directed by Jan Troell",
+        "Private Life, Soviet Union, directed by Yuli Raizman"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country and director. The Palme d'Or at Cannes was shared between Missing, directed by Costa-Gavras, and Yol, directed by Yilmaz Guney of Turkey. The Golden Lion at Venice went to Wim Wenders for The State of Things and the Golden Bear at Berlin to Rainer Werner Fassbinder for Veronika Voss. Das Boot, directed by Wolfgang Petersen, was nominated for directing and adapted screenplay. Shaolin Temple, directed by Chang Hsin Yen, took 161,578,014 yuan in China, and Vidhaata, directed by Subhash Ghai, took 160,000,000 rupees in India.",
+      "source": "https://en.wikipedia.org/wiki/55th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "E.T. the Extra-Terrestrial, June 11, which the film page says became the highest-grossing film to date",
+        "Tron, July 9, the first feature film to use computer animation extensively",
+        "First Blood, October 22",
+        "48 Hrs., December 8, Eddie Murphy's film debut",
+        "Tootsie, December 17, which the film page calls the highest-grossing comedy to date and Columbia's highest-grossing film"
+      ],
+      "detail": "During production of Twilight Zone: The Movie on July 23, the actor Vic Morrow and two child actors were killed in a helicopter stunt accident in California, which the film page says led to changes in filming safety and child-labour law. The Coca-Cola Company bought Columbia Pictures on June 22 for $750 million. Michelle Pfeiffer took her first leading role in Grease 2, released the same day as E.T. Terry Semel became president of Warner Bros. on January 1, and Ned Tanen resigned as president of Universal Pictures on December 27.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and in some of them through a new sound system. The film page says the THX sound system was developed for movie theaters this year, and dates it no further.",
+      "detail": "Tron, released July 9, was the first feature film to use computer animation extensively. E.T. the Extra-Terrestrial opened in the United States on June 11 and took $359,197,037 in North America, against an average ticket price of $2.94. None of the cached pages says anything about home video, cable film channels or television showings of films, so this fact claims nothing about them.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.94",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1982",
+      "value": [
+        "60 Minutes, CBS, 25.5 rating",
+        "Dallas, CBS, 24.6",
+        "M*A*S*H, CBS, 22.6",
+        "Magnum, P.I., CBS, 22.6",
+        "Dynasty, ABC, 22.4"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. M*A*S*H and Magnum, P.I. tied for third and CBS held the top four. Three's Company was sixth on 21.2 for ABC, Simon & Simon seventh on 21.0 and Falcon Crest eighth on 20.7 for CBS, The Love Boat ninth on 20.3 for ABC, and The A-Team on NBC tied with ABC's Monday Night Football for tenth on 20.1.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1982%E2%80%9383"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Fame, NBC, January 7",
+        "Late Night with David Letterman, NBC, February 1",
+        "T.J. Hooker, ABC, March 12",
+        "Cagney & Lacey, CBS, March 25",
+        "Family Ties, NBC, September 22",
+        "At the Movies with Gene Siskel and Roger Ebert, syndication, September 26",
+        "Knight Rider, NBC, September 26",
+        "Cheers, NBC, September 30",
+        "Newhart, CBS, October 25",
+        "St. Elsewhere, NBC, October 26"
+      ],
+      "detail": "Letterman's first guests were Bill Murray, who danced to Physical, and Don Herbert, Mr. Wizard. Bryant Gumbel began co-anchoring the Today Show on January 4. Remington Steele started on NBC on October 1, Silver Spoons and the Hanna-Barbera Pac-Man cartoon on September 25, Square Pegs on CBS on September 27 and the CBS Morning News on October 4. Starcade, a game show built around arcade machines, debuted on TBS on December 27.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "The Lawrence Welk Show, April 17, having started in 1955",
+        "WKRP in Cincinnati, April 21, having started in 1978",
+        "The Incredible Hulk, May 12, having started in 1977",
+        "Barney Miller, May 20, having started in 1975",
+        "Mork & Mindy, May 27, having started in 1978",
+        "Match Game, September 10, having started in 1962",
+        "Lou Grant, September 13, having started in 1977"
+      ],
+      "detail": "The television page's endings table gives each date and start year. Fridays and Blockbusters both ended on April 23, Bosom Buddies on May 27 alongside Mork & Mindy, and Sunrise Semester on October 1 after starting in 1957. In Search of... ended on March 1. The Doctors, which started in 1963, and Texas both ended on December 31.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_American_television"
+    },
+    "tv.cable_launches": {
+      "section": "tv",
+      "label": "New cable channels",
+      "value": [
+        "CNN2, January 1, a round-the-clock news wheel run alongside Cable News Network",
+        "The Weather Channel, May 2, the first 24-hour all-weather network",
+        "Satellite News Channel, June 21",
+        "Home Shopping Club, September 20",
+        "Playboy TV, November 18"
+      ],
+      "detail": "The television page's launch table gives the dates and lists the Weather Channel as cable and satellite and the rest as cable. Daytime and Lifetime Medical Television started in March, the California Music Channel on March 1 and the Cable Health Network in June, the first and last dated to the month only. The year page also carries the Weather Channel on May 2 and calls it the first 24-hour all-weather network.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Physical, Olivia Newton-John",
+        "Eye of the Tiger, Survivor",
+        "I Love Rock 'n Roll, Joan Jett & The Blackhearts",
+        "Ebony and Ivory, Paul McCartney and Stevie Wonder",
+        "Centerfold, The J. Geils Band"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 25, compiled from the Hot 100 issues of November 1, 1981 through October 31, 1982. Olivia Newton-John had two songs on the list. Don't You Want Me by The Human League was sixth, and John Cougar took seventh and eighth with Jack & Diane and Hurts So Good. Tainted Love by Soft Cell was eleventh and Vangelis took twelfth with Chariots of Fire. Eye of the Tiger, written by Jim Peterik and Frankie Sullivan for Rocky III, was nominated for the Academy Award for Best Original Song and lost to Up Where We Belong.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1982"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The compact disc reached the shops. Mass production began at Langenhagen near Hanover on August 17, the first CDs appeared in music stores in Japan on October 1, and Sony launched the first consumer CD player, model CDP-101, on the same day.",
+      "detail": "The music page carries the Langenhagen production start and the Japanese shop release, the year page carries the German production start and the Sony launch, and the year page's own summary of the year lists the CD being commercially introduced alongside the Falklands War and the Tylenol murders. None of the cached pages gives a sales figure for the new format or says how many players were made.",
+      "date": "1982-08-17",
+      "source": "https://en.wikipedia.org/wiki/1982_in_music"
+    },
+    "music.thriller": {
+      "section": "music",
+      "label": "Michael Jackson releases Thriller",
+      "value": "His sixth studio album, which the music page says went on to sell 70 million copies worldwide",
+      "detail": "The three cached pages disagree on the date. The music page and the US year page both give November 30 and the year page gives November 29, so the date here follows the two that agree. All three call it the best-selling album of all time.",
+      "date": "1982-11-30",
+      "source": "https://en.wikipedia.org/wiki/1982_in_music"
+    },
+    "music.us_festival": {
+      "section": "music",
+      "label": "Festivals",
+      "value": "The first US Festival was held over Labor Day weekend near Devore, California, from September 3 to 5, with The Police, Tom Petty & the Heartbreakers, Fleetwood Mac, the Grateful Dead, Talking Heads and The B-52's among the performers",
+      "detail": "The Jamaica World Music Festival ran at Montego Bay from November 25 to 27, with Peter Tosh, Rick James, The Clash, the Grateful Dead and Aretha Franklin, and Squeeze playing their last show before disbanding. The first Prince's Trust charity concert was held at the National Exhibition Centre in Birmingham on May 14, with Status Quo, and a second at the Dominion Theatre in London on July 21 with Pete Townshend, Robert Plant, Madness, Phil Collins, Joan Armatrading and Kate Bush.",
+      "date": "1982-09-03",
+      "source": "https://en.wikipedia.org/wiki/1982_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Germany won the 27th contest, held at the Harrogate Conference Centre in North Yorkshire, with Ein bisschen Frieden, sung by Nicole, who was 17",
+      "detail": "The music page says she also recorded it in English as A Little Peace, which became the 500th chart-topping single in the United Kingdom. The 11th OTI Festival, held at the Coliseo Amauta in Lima on November 27, was won by Puedes contar conmigo, performed by Grupo Unicornio for Venezuela.",
+      "date": "1982-04-24",
+      "source": "https://en.wikipedia.org/wiki/1982_in_music"
+    },
+    "music.osbourne": {
+      "section": "music",
+      "label": "Randy Rhoads killed in a plane crash",
+      "value": "Ozzy Osbourne's lead guitarist died at Leesburg, Florida when the plane he was riding in buzzed Osbourne's tour bus and crashed into a house, killing the pilot and a female passenger as well",
+      "detail": "Osbourne had bitten the head off a live bat thrown on stage at Des Moines on January 20, thinking it was rubber, and was arrested on February 19 for urinating on the Alamo in San Antonio.",
+      "date": "1982-03-19",
+      "source": "https://en.wikipedia.org/wiki/1982_in_music"
+    },
+    "tech.commodore_64": {
+      "section": "tech",
+      "label": "Commodore 64 launched",
+      "value": "Commodore International launched the 8-bit home computer in Las Vegas",
+      "detail": "The video games page lists it among the year's computer hardware without a date, alongside Sinclair Research's ZX Spectrum, the NEC PC-98, the Sharp X1 and Dragon Data's Dragon 32. Timex Sinclair released a modified ZX81 in the United States in July as the TS1000, which the games page calls the first sub-$100 home computer.",
+      "date": "1982-01-07",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Ms. Pac-Man, Midway, January 13, made without Namco's authorisation",
+        "Zaxxon, Sega, January, which introduced isometric graphics",
+        "Dig Dug, Namco, April 19, manufactured by Atari in North America",
+        "Pole Position, Namco, September 24, on the first arcade board built around 16-bit microprocessors",
+        "Q*bert, Gottlieb, October",
+        "Robotron: 2084, Williams Electronics, which popularised the twin-stick control scheme",
+        "E.T. the Extra-Terrestrial, Atari, December, written for the 2600 in five and a half weeks"
+      ],
+      "detail": "The games page puts the US arcade video game market at $4.3 billion for the year and the US home market at $3.8 billion, and the Japanese home market at close to 300 billion yen. Pac-Man was the year's best-selling home game at 9,271,844 units and over $200,000,000, ahead of Donkey Kong at 4,550,000 and Frogger. The Atari 2600 was the best-selling system at 5,100,000 units, ahead of Nintendo's Game & Watch at over 4,600,000 and Coleco's Mini-Arcade at 3,000,000, with Mattel's Intellivision fourth at 1,100,000. Coleco launched the ColecoVision in August and General Consumer Electronics the Vectrex, with its built-in vector monitor, in November. Atari renamed the Video Computer System to the Atari 2600 in November. Activision's Pitfall! sold 4 million copies. Electronic Arts, MicroProse, Lucasfilm Games and Enix were all set up or renamed this year.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_video_games"
+    },
+    "tech.artificial_heart": {
+      "section": "tech",
+      "label": "First permanent artificial heart",
+      "value": "Barney Clark, a retired dentist of 61, received one at the University of Utah and lived 112 days with the device",
+      "detail": "Both year pages carry the operation on the same date and give the same figure for how long he lived.",
+      "date": "1982-12-02",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "tech.elk_cloner": {
+      "section": "tech",
+      "label": "The first computer virus is found",
+      "value": "The Elk Cloner, written by the 15-year-old Rich Skrenta, spread between Apple II computers on floppy disks",
+      "date": "1982-01-30",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "tech.emoticons": {
+      "section": "tech",
+      "label": "First emoticons posted",
+      "value": "Scott Fahlman posted them",
+      "detail": "The year page carries the date and no further description.",
+      "date": "1982-09-19",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.30 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The Dow set a record in the same month unemployment peaked near eleven percent. Children queued for a film about a stranded alien, Britain and Argentina fought over islands in the South Atlantic, and the newest way to play a record was a disc the size of a saucer."
+    },
+    "culture.tylenol": {
+      "section": "culture",
+      "label": "Chicago Tylenol murders",
+      "value": "Seven people in the Chicago area died after taking capsules laced with potassium cyanide, and the killer was not identified",
+      "detail": "The US year page dates the deaths from September 29 to October 1 and the year page puts the poisoning on September 29. The year page's summary of the year says the murders led to tamper-evident packaging.",
+      "date": "1982-09-29",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "culture.usa_today": {
+      "section": "culture",
+      "label": "First edition of USA Today",
+      "value": "The paper published its first edition",
+      "date": "1982-09-15",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "culture.time_man_of_year": {
+      "section": "culture",
+      "label": "Time's Man of the Year is not a man",
+      "value": "The title went to the computer, the first time it was given to something that was not a person",
+      "date": "1982-12-26",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "culture.epcot": {
+      "section": "culture",
+      "label": "EPCOT Center opens",
+      "value": "Walt Disney World opened its second theme park to the public at Orlando, Florida",
+      "detail": "The US year page calls EPCOT Center the second largest theme park and gives no attendance figure for the opening.",
+      "date": "1982-10-01",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Gabriel Garcia Marquez",
+        "Peace, Alva Myrdal and Alfonso Garcia Robles",
+        "Physics, Kenneth G. Wilson",
+        "Chemistry, Aaron Klug",
+        "Medicine, Sune K. Bergstrom, Bengt I. Samuelsson and John R. Vane",
+        "Economics, George Stigler"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Milwaukee Brewers four games to three",
+      "detail": "The sports page calls it the Cardinals' first world championship since 1967 and names the catcher Darrell Porter as series most valuable player, and the US year page calls it their ninth title. Montreal hosted the first All-Star Game held outside the United States on July 13, where Dave Concepcion of the Reds hit a two-run home run in the second inning and was named most valuable player as the National League won 4 to 1, its eleventh win in a row. Cal Ripken Jr. of the Baltimore Orioles played on May 30, the first game of a streak the sports page counts at 2,632.",
+      "date": "1982-10-20",
+      "source": "https://en.wikipedia.org/wiki/1982_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XVI",
+      "value": "The San Francisco 49ers beat the Cincinnati Bengals 26 to 21 at the Pontiac Silverdome in front of 81,270, with the quarterback Joe Montana named most valuable player",
+      "detail": "The year page gives the date and the venue and neither the score nor the attendance. Dwight Clark had made The Catch in the NFC Championship Game on January 10, a 28 to 27 win over the Dallas Cowboys called by Vin Scully and Hank Stram for CBS.",
+      "date": "1982-01-24",
+      "source": "https://en.wikipedia.org/wiki/1982_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Italy beat West Germany 3 to 1 in the final in Spain for their third title",
+      "detail": "The tournament began on June 13, which the year page carries and the sports page does not.",
+      "date": "1982-07-11",
+      "source": "https://en.wikipedia.org/wiki/1982_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New York Islanders over the Vancouver Canucks, four games to none",
+        "NBA Finals, Los Angeles Lakers over the Philadelphia 76ers, four games to two",
+        "NCAA basketball, North Carolina 63, Georgetown 62",
+        "European Cup, Aston Villa 1, Bayern Munich 0",
+        "FA Cup, Tottenham Hotspur 1, Queens Park Rangers 0",
+        "Grey Cup, Edmonton Eskimos 32, Toronto Argonauts 16",
+        "World Snooker Championship, Alex Higgins over Ray Reardon, 18 to 15"
+      ],
+      "detail": "The Islanders clinched on May 16 and the Lakers on June 8. Michael Jordan, a freshman, hit the shot that beat Georgetown with 17 seconds left at the Louisiana Superdome on March 29. Peter Withe scored in the 69th minute at Rotterdam on May 26 to win the European Cup for Aston Villa, who then beat Barcelona 3 to 1 on aggregate in the Super Cup. Wayne Gretzky of the Edmonton Oilers took the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player. Edmonton's Grey Cup on November 28 was a fifth in a row, which the year page says no professional football franchise had managed. IFK Goteborg won the UEFA Cup 4 to 0 on aggregate over Hamburger SV and Barcelona the Cup Winners' Cup 2 to 1 over Standard Liege. Bernard Hinault won both the Tour de France and the Giro d'Italia, Craig Stadler the Masters and the money list at $446,462, and Tom Watson the US Open and the British Open. Carlton won the VFL premiership 103 to 83 over Richmond.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_sports"
+    },
+    "sports.nfl_strike": {
+      "section": "sports",
+      "label": "NFL players strike",
+      "value": "The National Football League Players Association called a strike on September 21, the first in-season stoppage in the league's 63-year history, and it ended on November 16 after 57 days",
+      "detail": "The year page says the strike cut the regular season from 16 games to 9 and forced an expanded 16-team playoff, and the sports page gives the November 16 end date.",
+      "date": "1982-09-21",
+      "source": "https://en.wikipedia.org/wiki/1982"
+    },
+    "sports.boxing": {
+      "section": "sports",
+      "label": "Three heavyweight and light-welterweight nights",
+      "value": [
+        "Larry Holmes beat Gerry Cooney for the WBC heavyweight title, June 11",
+        "Aaron Pryor beat Alexis Arguello by a fourteenth-round knockout to keep the WBA light-welterweight title, November 12",
+        "Ray Mancini beat Duk Koo Kim by a fourteenth-round knockout, November 13, and Kim died four days later"
+      ],
+      "detail": "The sports page says the build-up to Holmes and Cooney was heavily racial, with Cooney billed as The White Hope, and calls Pryor against Arguello the fight of the decade. It says Kim's death brought many new resolutions to boxing. At the Carnival of Champions on December 3, Wilfredo Gomez beat Lupe Pintor by a fourteenth-round knockout and Thomas Hearns beat Wilfred Benitez on a fifteen-round majority decision.",
+      "source": "https://en.wikipedia.org/wiki/1982_in_sports"
+    },
+    "deaths.fonda": {
+      "section": "deaths",
+      "label": "Henry Fonda",
+      "value": "Died August 12. Born 1905",
+      "detail": "Actor.",
+      "date": "1982-08-12",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "deaths.kelly": {
+      "section": "deaths",
+      "label": "Grace Kelly",
+      "value": "Died September 14. Born 1929",
+      "detail": "Actress and Princess of Monaco. The year page says she died after a car crash a few days earlier, and puts her funeral on September 18.",
+      "date": "1982-09-14",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "deaths.belushi": {
+      "section": "deaths",
+      "label": "John Belushi",
+      "value": "Died March 5. Born 1949",
+      "detail": "Comedian and actor. The film page says he died after being injected with a mixture of heroin and cocaine at the Chateau Marmont in Los Angeles, and the music page calls it an apparent drug overdose at the same hotel.",
+      "date": "1982-03-05",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "deaths.monk": {
+      "section": "deaths",
+      "label": "Thelonious Monk",
+      "value": "Died February 17. Born 1917",
+      "detail": "Pianist and composer.",
+      "date": "1982-02-17",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    },
+    "deaths.paige": {
+      "section": "deaths",
+      "label": "Satchel Paige",
+      "value": "Died June 8. Born 1906",
+      "detail": "Baseball player.",
+      "date": "1982-06-08",
+      "source": "https://en.wikipedia.org/wiki/1982_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1982. figures_basis is gross, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence introducing the table on the same page calls the entries the top ten 1982 released films by box office gross in North America, so header and introduction agree and there is no rentals gloss to write. Date checks. The midterm elections fall on November 2, which satisfies the constitutional rule that a federal election is held on the Tuesday after the first Monday in November: November 1 was a Monday. There is no inauguration this year. The Academy Awards honouring this year of film are the 55th, which the ceremony's own page dates to April 11, 1983 at the Dorothy Chandler Pavilion; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a 1983 token. The 54th Academy Awards of March 29, hosted by Johnny Carson, which honoured the previous year of film and gave Best Picture to Chariots of Fire, is left out for the same reason 1975 leaves out the 47th: it would put a second Best Picture on the page. The 24th Grammy Awards of February 24, hosted by Quincy Jones, are left out for the same reason, since they honoured the previous year's recordings and gave Album of the Year to Double Fantasy. No dedicated article was pulled as wikitext, because no date on the cached pages carries a checkable internal constraint the pages themselves get wrong. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn of 1982 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved. Thriller is dated November 30 on the music page and the US year page and November 29 on the year page, and music.thriller follows the two that agree and says so. Air Florida Flight 90 killed 78 in the year page's January entry and in the US year page, and 80 in the year page's own infobox summary, so the texture gives no toll. Adobe Systems is founded on February 28 in one line of the US year page and in December, by John Warnock and Charles Geschke, in another line of the same page, so it is left out of the facts entirely rather than dated. The World Series is the Cardinals' first title since 1967 on the sports page and their ninth on the US year page, and sports.world_series carries both. Month-only dates. pol.recession carries 1982-11 because the US year page gives the unemployment peak and the end of the recession as November with no day. Facts taking their value from one cached page and part of their detail from another: film.how_people_watched cites the film page throughout and takes the ticket price from the series data; tech.commodore_64 cites the US year page for the Las Vegas launch and takes the other computer hardware from the video games page; music.listening_format cites the music page for the Langenhagen production start and the Japanese shop release and names the year page's version of the same two events; music.thriller cites the music page and names both other pages; culture.tylenol cites the US year page for the span and takes the tamper-evident packaging line from the year page's summary; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player and takes The Catch from the television page's January entry; sports.nfl_strike cites the year page for the call and the season it cost and takes the November 16 end date from the sports page; deaths.belushi cites the US year page and names the film and music page accounts; deaths.kelly cites the US year page and takes the car crash and the funeral from the year page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Titles containing a four-digit year. Two of the year's video games carry one, Williams Electronics' Robotron: 2084 and Big Five Software's Miner 2049er. Neither is a film, src/data/title_years.json lists only 2001: A Space Odyssey and Airport 1975, and that file's own rules say an entry has to be justified one at a time, so both games are left out of tech.games rather than added to the allowlist. Prince's album 1999 is left out for the same reason. Dropped for lack of a source that says enough, or because a figure or date reaches past this year: the International Whaling Commission's decision of July 23 to end commercial whaling, because the page gives the end as a year after this one; the Vic Morrow helicopter accident's death toll for the two child actors, whom the year page and the film page both leave unnamed, with the accident itself in film.releases; the Hama massacre's death toll, which the year page does not give; Brezhnev's date of death, which the year page states only as two days before November 12, so world.soviet_succession quotes the page's phrasing and no deaths fact carries him; the Canada Act and the patriation of the Canadian constitution, in texture instead; the Poland ban on Solidarity and Lech Walesa's release, in texture instead; the Garn-St. Germain Depository Institutions Act, in texture instead; China passing a billion people, undated on the year page and in texture instead; the Boeing 757's first flight on February 19; the Helsinki Metro opening on August 2; ABBA's final public performance on The Late, Late Breakfast Show on December 11 and the announced breakup of Blondie on November 1, both dropped rather than parked in the detail of a fact they have nothing to do with; Israel completing its withdrawal from the Sinai Peninsula on April 25 under the 1979 treaty with Egypt, dropped from world.lebanon_war's detail for the same reason; the National Association of Broadcasters ending its Television Code on January 1 after a Washington, D.C. circuit court ruled parts of it unconstitutional, dropped for room rather than for want of a source; the World's Fair at Knoxville, whose opening day drew over 100,000 and whose six-month run drew over 11 million, kept only in pol.us_president's detail because Reagan gave the opening address and it belongs to no other fact here; the Mary Rose, the Times Beach dioxin readings, Larry Walters, Vincent Chin, Charles Brooks Jr., the Ocean Ranger, Laker Airways, Pan Am Flight 759 and the Luzhniki disaster, all in texture instead; Braniff International Airways' bankruptcy of May 12; the Salang Tunnel tanker explosion of November 3, which killed at least 176; the Beaune coach crash of July 31, which killed 53 including 46 children; the Nagasaki mudslides of July 23, which killed 299; the Bijon Setu massacre of April 30, which the year page leaves without a toll; the Woo Bum-kon spree killing of April 26 and 27; the Hyde Park and Regent's Park bombings of July 20; the nuclear disarmament rally of June 12, which drew 750,000 to Central Park; John DeLorean's arrest on October 19 and the DeLorean Motor Company's end of production on October 30; the Twilight Zone accident's effect on child-labour law, carried in film.releases' detail; the first US execution by lethal injection, in texture instead; Claus von Bulow's conviction on March 16; Wayne Williams's conviction on February 27; Sun Myung Moon's sentence of July 16; the Weather Channel's launch, folded into tv.cable_launches; the tennis Grand Slam singles titles, which went to Johan Kriek, Mats Wilander and Jimmy Connors twice among the men and Chris Evert twice and Martina Navratilova twice among the women; the 1982 Commonwealth Games at Brisbane, the European Athletics Championships at Athens and the Asian Games at New Delhi, all dated to the month only. Deaths that would have earned a place with more room: Arthur Rubinstein on December 20, Bess Truman on October 18, Jack Webb on December 23, King Vidor on November 1, Warren Oates on April 3, John Cheever on June 18, Lee Strasberg on February 17, Marty Robbins on December 8, Eleanor Powell on February 11, Paul Lynde on January 10, Abe Fortas on April 5, Hugh Everett III on July 19, Dave Garroway on July 21, Vic Morrow on July 23 whose accident is in film.releases, Jack Swigert on December 27, Alberto Vargas on December 30, and Gilles Villeneuve on May 8 whose crash is in the texture. Names and titles are written in ASCII per the corpus convention, so Felipe Gonzalez, Jose Luis Garci, Yilmaz Guney, Gabriel Garcia Marquez, Alfonso Garcia Robles, Sune K. Bergstrom, Dave Concepcion, IFK Goteborg, Standard Liege, Fianna Fail, Claus von Bulow and Ein bisschen Frieden lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. This file runs 54 facts across 10 sections, two above the 40 to 52 the brief asks for and one above what 1975 already does. No section exceeds 7, which is the per-section guidance, and the overshoot is spread rather than concentrated: politics 6, world 7, film 7, tv 4, music 6, tech 5, prices 2, culture 6, sports 6, deaths 5. Trimming to 52 would have meant cutting the first edition of USA Today and the first emoticons, both single-line firsts of exactly the shape the corpus already carries, so the count was left two over instead. Review pass restored Robotron: 2084 to tech.games. It had been left out because the anachronism check read 2084 as a year and the allowlist covered only film titles. That allowlist is now src/data/name_years.json, covers proper names in any section, and lists the cabinet, so the game can be named. Miner 2049er needed no entry after all: the check matches on word boundaries and the trailing letters break it, so that title was never at risk and is left out only for room. Prince's 1999 still cannot be named, because a work titled with a bare number is indistinguishable from a stray year and that file's rules forbid listing one."
+}

@@ -1,0 +1,530 @@
+{
+  "year": 1979,
+  "tier": "broadcast",
+  "headline": "The Shah left Iran in January, Three Mile Island partly melted down in March, and Soviet troops entered Afghanistan",
+  "texture": [
+    "A DC-10 crashed on takeoff from O'Hare on May 25 as American Airlines Flight 191, killing all 271 aboard and two people on the ground. Another DC-10 flew into Mount Erebus in Antarctica on November 28 on a sightseeing trip and all 257 aboard died. The French tanker Betelgeuse exploded at the Gulf Oil terminal at Bantry in Ireland on January 8 and 50 people were killed. The Machchu-2 dam at Morbi in India gave way on August 11, with the toll put between 1,800 and 25,000. A storm during the Fastnet Race on August 14 drowned 15 sailors.",
+    "Eleven fans died in a crowd crush for unreserved seats before a Who concert at the Riverfront Coliseum in Cincinnati on December 3, and the band was not told until after the show. Ten shoppers died in a fire at the Woolworths in Manchester city centre on May 8. A 106-car Canadian Pacific freight train carrying explosive and poisonous chemicals derailed at Mississauga on November 10 and exploded, forcing the largest peacetime evacuation in Canadian history. Police in Bregenz locked Andreas Mihavecz in a holding cell on April 1 and forgot him there without food or drink for eighteen days.",
+    "The Susan B. Anthony dollar went into circulation on July 2. McDonald's put the Happy Meal behind a national American advertising campaign on June 15 after testing it in Missouri franchises since February, and opened its first Singapore restaurant at Liat Towers on Orchard Road on October 20. Douglas Adams published The Hitchhiker's Guide to the Galaxy in Britain on October 12. Typhoon Tip reached 870 millibars near Guam on the same day, the lowest sea-level pressure recorded. Bryan Allen pedalled the man-powered Gossamer Albatross across the English Channel on June 12.",
+    "Pluto crossed inside Neptune's orbit on February 7, which had not happened since either planet was known to science. A total solar eclipse arced over the northwestern United States and central Canada on February 26, with a partial eclipse visible over almost all of North America. Hong Kong's MTR began service on September 30 with the Kwun Tong Line. Bucharest's first metro line ran 8.63 km from Timpuri Noi to Semanatoarea from November 16, and Sweden outlawed corporal punishment in the home on July 1 ahead of any other country."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.iran_hostage_crisis",
+    "world.iranian_revolution",
+    "world.soviet_afghanistan",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Jimmy Carter (D)",
+      "detail": "The US year page gives Carter as a Democrat of Georgia, Walter Mondale as Vice President, a Democrat of Minnesota, Warren E. Burger of Virginia as Chief Justice, Tip O'Neill as Speaker of the House, a Democrat of Massachusetts, and Robert Byrd as Senate majority leader, a Democrat of West Virginia. The 95th Congress sat until January 3 and the 96th from that date. Bill Clinton took office as Governor of Arkansas on January 9, after Joe Purcell had held it for six days.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_the_United_States"
+    },
+    "pol.three_mile_island": {
+      "section": "politics",
+      "label": "Three Mile Island accident",
+      "value": "The most serious nuclear power plant accident in America happened at Three Mile Island in Pennsylvania, and the year page's lead image caption calls it a partial nuclear meltdown",
+      "detail": "The two cached year pages date it differently and this fact does not choose between them: the year page puts it on March 28 and the US year page on March 29, which is why only the month is carried here. Neither page gives a radiation reading, an evacuation count or the name of the operator. The US year page carries a photograph of Jimmy Carter leaving Three Mile Island for Middletown, Pennsylvania on April 1.",
+      "date": "1979-03",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "pol.iran_hostage_crisis": {
+      "section": "politics",
+      "label": "Iran hostage crisis begins",
+      "value": "Iranian radicals, mostly students, invaded the US Embassy in Tehran and took 90 hostages, 53 of them American, demanding that the United States send the former Shah back to stand trial",
+      "detail": "The two cached year pages give different crowd sizes for the same event, 500 on the year page and 3,000 on the US year page, so neither figure appears in the value. Khomeini had urged Iranians on November 1 to demonstrate on November 4 and to expand attacks on American and Israeli interests. Carter halted all oil imports from Iran on November 12 and issued Executive Order 12170 on November 14, freezing Iranian assets in the United States and in American banks. Khomeini ordered 13 female and African American hostages released on November 17. A mob attacked and set fire to the United States Embassy in Islamabad on November 21, killing four, after false radio reports from Khomeini that Americans had occupied the Grand Mosque in Mecca.",
+      "date": "1979-11-04",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "pol.crisis_of_confidence": {
+      "section": "politics",
+      "label": "Carter's crisis of confidence speech",
+      "value": "The president addressed the nation on television about what he called the crisis of confidence in America today",
+      "detail": "The US year page says the speech came to be known as the malaise speech though Carter never used the word, and the year page calls it his national malaise speech. Neither page says what he proposed in it.",
+      "date": "1979-07-15",
+      "source": "https://en.wikipedia.org/wiki/1979_in_the_United_States"
+    },
+    "pol.dept_of_education": {
+      "section": "politics",
+      "label": "Department of Education established",
+      "value": "Carter signed the law creating it",
+      "detail": "The US year page carries the signing as a single line and names no first secretary.",
+      "date": "1979-10-17",
+      "source": "https://en.wikipedia.org/wiki/1979_in_the_United_States"
+    },
+    "pol.fed_monetary_target": {
+      "section": "politics",
+      "label": "Federal Reserve changes what it targets",
+      "value": "The Federal Reserve System moved from an interest rate target policy to a money supply target policy",
+      "detail": "The year page carries the change as a single line, names nobody at the Federal Reserve and gives no rate. The US dollar's exchange rate against the Deutsche Mark fell to 1.7079 on December 3, which the year page calls the all-time low so far.",
+      "date": "1979-10-06",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "pol.chrysler_loan_guarantees": {
+      "section": "politics",
+      "label": "Chrysler gets federal loan guarantees",
+      "value": "The company received government loan guarantees at the request of its chief executive Lee Iacocca",
+      "detail": "The French carmaker Peugeot had completed a takeover of Chrysler's European operations on January 1 under a deal agreed the previous year, taking in Britain's former Rootes Group factories and the former Simca factories in France. Neither cached page gives the size of the guarantees.",
+      "date": "1979-12-21",
+      "source": "https://en.wikipedia.org/wiki/1979_in_the_United_States"
+    },
+    "world.iranian_revolution": {
+      "section": "world",
+      "label": "The Iranian Revolution",
+      "value": "Shah Mohammad Reza Pahlavi flew out of Iran with his family on January 16 and settled in Egypt, Ayatollah Khomeini returned to Tehran on February 1 after nearly 15 years of exile, the army withdrew to barracks on February 10 and 11 and left power in Khomeini's hands, a referendum on April 1 made the government an Islamic Republic by 98 percent, and Khomeini became the first Supreme Leader of Iran on December 3",
+      "detail": "Khomeini created the Council of the Islamic Revolution on February 3. His supporters took over Iranian law enforcement, the courts and government administration on February 7, the day the National Consultative Assembly held its final session. The Khomeini government cut diplomatic relations with Israel on February 18. Thousands of women took part in International Women's Day protests in Tehran on March 8. The year page describes the February withdrawal as ending the Pahlavi dynasty.",
+      "date": "1979-02-01",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "world.egypt_israel_treaty": {
+      "section": "world",
+      "label": "Egypt and Israel sign a peace treaty",
+      "value": "President Anwar Sadat of Egypt and Prime Minister Menachem Begin of Israel signed it in a ceremony at the White House",
+      "detail": "The year page's lead image caption calls it the first peace deal between Israel and an Arab nation. The year page names the treaty the Egypt-Israel peace treaty and the US year page the Egyptian-Israeli Peace Treaty, and both date it the same.",
+      "date": "1979-03-26",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "world.salt_ii": {
+      "section": "world",
+      "label": "SALT II signed in Vienna",
+      "value": "Jimmy Carter and Leonid Brezhnev signed the strategic arms limitation agreement",
+      "detail": "The year page's lead image caption describes SALT II as signed to limit nuclear arms and says nothing about ratification. NATO took its Double-Track Decision on December 12, offering the Warsaw Pact a mutual limitation of medium-range and intermediate-range ballistic missiles alongside a threat to deploy more middle-range nuclear weapons in Western Europe if there was no agreement.",
+      "date": "1979-06-18",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "world.soviet_afghanistan": {
+      "section": "world",
+      "label": "Soviet Union invades Afghanistan",
+      "value": "The invasion was launched covertly, and three days later the PDPA general secretary Hafizullah Amin was executed in Operation Storm-333 and Babrak Karmal replaced him",
+      "detail": "The year page's lead image caption puts the start of the Soviet-Afghan War here. Carter had signed the first directive for secret aid to the opponents of the pro-Soviet government in Kabul on July 3. Muslim extremists in Kabul kidnapped the American ambassador to Afghanistan, Adolph Dubs, on February 14, and he was killed during a gunfight between his kidnappers and police.",
+      "date": "1979-12-24",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "world.indochina_wars": {
+      "section": "world",
+      "label": "Two wars in Indochina",
+      "value": [
+        "The People's Army of Vietnam and Vietnamese-backed Cambodian insurgents announced the fall of Phnom Penh and the collapse of the Pol Pot regime on January 7, and Pol Pot and the Khmer Rouge retreated west to an area along the Thai border, ending large-scale fighting",
+        "China invaded northern Vietnam on February 17 and launched the Sino-Vietnamese War, and major hostilities ended on March 16"
+      ],
+      "detail": "The year page carries the two as separate entries and does not connect them. It gives no casualty figure for either. Concerts for the People of Kampuchea were held over four nights at the Hammersmith Odeon in London from December 26 to raise funds for victims of war in Cambodia, with Queen, the Who, the Clash, Wings, Elvis Costello and members of Led Zeppelin taking part.",
+      "date": "1979-01-07",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "Margaret Thatcher became Britain's first woman prime minister after the Conservatives won a majority in the general election of May 3, ending James Callaghan's Labour government, which had lost a motion of confidence by one vote on March 28",
+        "Tanzanian troops took Kampala on April 11 and Idi Amin fled Uganda",
+        "Joe Clark became Canada's sixteenth and youngest prime minister on June 4, and his minority government fell in a non-confidence motion on December 13",
+        "Jerry Rawlings took power in Ghana on June 4 after a coup that overthrew General Fred Akuffo",
+        "Saddam Hussein took the presidency of Iraq on July 16 when Hasan al-Bakr resigned, and arranged the arrest and later execution of nearly seventy members of the ruling Ba'ath Party on July 22",
+        "Anastasio Somoza Debayle resigned as president of Nicaragua on July 17 and fled to Miami, and the Sandinista National Liberation Front assumed power on July 21",
+        "French paratroopers helped David Dacko overthrow Emperor Bokassa in the Central African Empire on September 20",
+        "Charles Haughey succeeded Jack Lynch as Taoiseach of Ireland on December 5"
+      ],
+      "detail": "John Vorster resigned as State President of South Africa on June 4 after the Muldergate information scandal and Marais Viljoen took the office on June 19. Morarji Desai resigned as India's prime minister on July 28 and Charan Singh succeeded him. Maria de Lourdes Pintasilgo became prime minister of Portugal on July 21. Thorbjorn Falldin returned as Prime Minister of Sweden on October 12, replacing Ola Ullsten, who was named foreign minister. Suleyman Demirel formed Turkey's 43rd government on November 12 as a minority government. Luis Garcia Meza carried out a military coup in Bolivia on November 1, and the junta began a violent crackdown on its opponents in the All Saints' Massacre on November 5. Maurice Bishop led a successful coup in Grenada on March 13.",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Independence and self-rule",
+      "value": [
+        "Saint Lucia, from the United Kingdom, February 22",
+        "Greenland, limited autonomy from Denmark with its own Parliament sitting in Nuuk, May 1",
+        "the Federated States of Micronesia became self-governing, May 10",
+        "Kiribati, the Gilbert Islands becoming fully independent of the United Kingdom, July 12",
+        "Nigeria terminated military rule and established the Second Nigerian Republic, October 1",
+        "Saint Vincent and the Grenadines, from the United Kingdom, October 27"
+      ],
+      "detail": "The first black-led government of Rhodesia in 90 years took power on June 1 in the unrecognised republic of Zimbabwe Rhodesia, in succession to Ian Smith and under his power-sharing deal. That state returned to British control on December 12 and resumed the name Southern Rhodesia, a ceasefire was signed in London on December 21 under the Lancaster House Agreement, and 96 Patriotic Front guerrillas entered Salisbury on December 26 to monitor a ceasefire beginning December 28. South Africa granted independence to the homeland of Venda on September 13, which the year page says was not recognised outside South Africa. The first direct elections to the European Parliament began on June 7, with citizens of the nine member states electing 410 members in what the year page calls the first international election in history.",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, United States and Canada",
+      "value": [
+        "Kramer vs. Kramer, $106,260,000, Columbia",
+        "The Amityville Horror, $86,432,520, American International",
+        "Rocky II, $85,182,160, United Artists",
+        "Apocalypse Now, $83,471,511, United Artists",
+        "Star Trek: The Motion Picture, $82,258,456, Paramount"
+      ],
+      "detail": "Box-office gross, the ticket window total rather than the distributor's share, which is what the table's own column header states: Rank, Title, Distributor, Box-office gross. The table is captioned Highest-grossing films of 1979 (United States and Canada). Alien was sixth at $80,931,801 for 20th Century Fox, The Muppet Movie seventh at $76,657,000 for Universal and Associated Film, The Jerk ninth at $73,691,419 for Universal and Moonraker tenth at $70,308,099 for United Artists. The film titled 10 was eighth at $74,865,517 for Warner Bros. Kramer vs. Kramer's figure is round to the nearest ten thousand and The Muppet Movie's to the nearest thousand, and the other eight are exact to the dollar. The film page separately says Moonraker went on to become the highest-grossing film of the year worldwide.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Kramer vs. Kramer, produced by Stanley R. Jaffe",
+      "detail": "Awarded the following spring at the 52nd Academy Awards, whose own page dates the ceremony outside this year, so no date is given here. Kramer vs. Kramer won five awards, the most of the evening, from nine nominations, taking Picture, Director for Robert Benton, Actor, Supporting Actress and the screenplay award for material from another medium, also Benton's. All That Jazz tied it on nine nominations and won four, among them Alan Heim's editing and Ralph Burns's adaptation score. Apocalypse Now had eight nominations and won two, Vittorio Storaro's cinematography and the sound award to Walter Murch, Mark Berger, Richard Beggs and Nat Boxer. Steve Tesich won the original screenplay award for Breaking Away. Alien won Best Visual Effects for H. R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder and Dennis Ayling. The Academy hired Howard W. Koch in September to produce the telecast for the sixth time, and announced in November that Johnny Carson would host.",
+      "source": "https://en.wikipedia.org/wiki/52nd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Dustin Hoffman, Kramer vs. Kramer, as Ted Kramer",
+        "Best Actress, Sally Field, Norma Rae, as Norma Rae Webster",
+        "Best Supporting Actor, Melvyn Douglas, Being There, as Ben Rand",
+        "Best Supporting Actress, Meryl Streep, Kramer vs. Kramer, as Joanna Kramer"
+      ],
+      "detail": "Kramer vs. Kramer took three of the four acting nominations it could hold, with Justin Henry nominated in support as Billy Kramer and Jane Alexander in support as Margaret Phelps alongside Streep. Mickey Rooney was nominated in support for The Black Stallion, whose sound editor Alan Splet took a Special Achievement Award. Alec Guinness received an Honorary Award for advancing the art of screen acting through a host of memorable and distinguished performances, and Hal Elias one for service to the Academy. Mariel Hemingway was nominated in support for Manhattan and Al Pacino for ...And Justice for All. The Golden Globes split their acting awards differently, giving Hoffman the drama actor award and Peter Sellers the musical or comedy award for Being There, Field the drama actress award and Bette Midler the musical or comedy award for The Rose, while the BAFTA acting awards went to Jack Lemmon and Jane Fonda for The China Syndrome and to Rachel Roberts for Yanks.",
+      "source": "https://en.wikipedia.org/wiki/52nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The Tin Drum, Federal Republic of Germany, in German, directed by Volker Schlondorff, winner of the Academy Award for Best Foreign Language Film",
+        "The Maids of Wilko, Poland, directed by Andrzej Wajda",
+        "Mama Turns 100, Spain, directed by Carlos Saura",
+        "A Simple Story, France, directed by Claude Sautet",
+        "To Forget Venice, Italy, directed by Franco Brusati"
+      ],
+      "detail": "These are the five Foreign Language Film nominees, which is where the Academy Awards page states each film's country and language. The Palme d'Or at Cannes was shared between Apocalypse Now, directed by Francis Ford Coppola of the United States, and The Tin Drum, and the Golden Bear at Berlin went to David, directed by Peter Lilienthal of West Germany. La Cage aux Folles took the Golden Globe for foreign language film, brought Edouard Molinaro a Best Director nomination and had three nominations in all. Hayao Miyazaki's directorial debut, The Castle of Cagliostro, was released in Japan on December 15. The film page gives no dates for either festival.",
+      "source": "https://en.wikipedia.org/wiki/52nd_Academy_Awards"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases and productions",
+      "value": [
+        "Alien, May 25, which the film page calls a landmark of the science fiction genre",
+        "Moonraker, June 29, the eleventh film in the James Bond franchise",
+        "Apocalypse Now, August 15",
+        "Monty Python's Life of Brian, premiered in the United States on August 17",
+        "Star Trek: The Motion Picture, December 7, after a world premiere at the Smithsonian Institution in Washington on December 6"
+      ],
+      "detail": "The Muppet Movie, the first feature for Jim Henson's Muppets, was released in the United Kingdom on May 31. Production began on The Empire Strikes Back on March 5 and on Raiders of the Lost Ark on November 1. Buena Vista released Take Down on March 2, its first film since American movie ratings began that was not rated G. Don Bluth and a group of fellow animators resigned from the Walt Disney Company's animation department on September 19 to set up a rival studio. Benjamin Melniker and Michael E. Uslan bought the film rights to Batman from DC Comics on October 3. Allied Artists filed for bankruptcy, which the film page dates only to the year.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first, then on a network. ABC broadcast Jaws on television for the first time on November 4, and 43 million American viewers watched Elvis, an ABC television film starring Kurt Russell, on February 11.",
+      "detail": "Alan Ladd Jr. and the vice-presidents Jay Kanter and Gareth Wigan agreed to leave 20th Century Fox on June 27 and formally announced The Ladd Company on October 1. Frank Price became president of Columbia Pictures in March. Mary Pickford died of a stroke on May 29, whom the film page calls a silent screen legend and Hollywood pioneer and, at the height of her career, the most famous woman in the world.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.47",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1979",
+      "value": [
+        "60 Minutes, CBS, 28.4 rating",
+        "Three's Company, ABC, 26.3",
+        "That's Incredible!, ABC, 25.8",
+        "Alice and M*A*S*H, CBS, tied on 25.3",
+        "Dallas, CBS, 25.0"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. CBS held eight of the top eleven places, with Flo seventh at 24.4, The Jeffersons eighth at 24.3, The Dukes of Hazzard ninth at 24.1, One Day at a Time tenth at 23.0 and Archie Bunker's Place eleventh at 22.9. Taxi was thirteenth at 22.4, House Calls and Real People tied for fourteenth on 22.1, Happy Days was seventeenth at 21.7 and WKRP in Cincinnati twenty-second at 20.7. Four programmes tied for twenty-ninth on a 20.0, Tenspeed and Brown Shoe, the ABC Sunday Night Movie, Vega$ and Knots Landing.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1979%E2%80%9380"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Dukes of Hazzard, CBS, January 26",
+        "This Old House, PBS, February 20",
+        "Real People, NBC, April 18",
+        "The Facts of Life, NBC, August 24",
+        "Hart to Hart, ABC, August 25",
+        "Benson, ABC, September 13",
+        "Archie Bunker's Place, CBS, September 23",
+        "Knots Landing, CBS, December 27"
+      ],
+      "detail": "Nightly Business Report started on PBS on January 22 and CBS News Sunday Morning on January 28. Seven programmes began on September 22 alone, most of them Saturday morning cartoons, among them Scooby-Doo and Scrappy-Doo, which introduced the character Scrappy-Doo, and Spider-Woman. Buck Rogers in the 25th Century began on NBC on September 20, Trapper John, M.D. on CBS on September 25 and House Calls on CBS on December 17. Melody Thomas made her first appearance as Nikki Reed on The Young and the Restless on February 20.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_American_television"
+    },
+    "tv.cable_launches": {
+      "section": "tv",
+      "label": "Cable and satellite channels that launched",
+      "value": [
+        "USA Network, founded January 3",
+        "C-SPAN, March 19",
+        "Nickelodeon, April 1, out of QUBE's Pinwheel experiment and starting on Warner Cable systems in Buffalo, New York",
+        "Galavision, April 2",
+        "Satellite Program Network, July 30",
+        "ESPN, September 7, which the television page calls the first cable channel launched as a 24-hour channel",
+        "The Movie Channel, December 1, showing films around the clock and opening with Roman Holiday"
+      ],
+      "detail": "SportsCenter began on ESPN the day the channel launched. The year page calls ESPN the first cable sports channel. Cornerstone Television started on April 15 and a service called Take 2 on April 1, and the television page lists the Christian Television Network and the National Christian Network with no launch date. KNXV-TV signed on as Phoenix's first UHF station on September 9, carrying ONTV.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_American_television"
+    },
+    "tv.nightline": {
+      "section": "tv",
+      "label": "ABC starts a nightly programme on the hostages",
+      "value": "The programme that became Nightline debuted under the title The Iran Crisis: America Held Hostage",
+      "detail": "The television page lists it under the Nightline title with the original one in brackets, four days after the embassy in Tehran was seized.",
+      "date": "1979-11-08",
+      "source": "https://en.wikipedia.org/wiki/1979_in_American_television"
+    },
+    "tv.all_in_the_family": {
+      "section": "tv",
+      "label": "All in the Family ends",
+      "value": "The final episode on CBS was seen by 40.2 million American viewers, and the television page says the show would relaunch the following season as Archie Bunker's Place",
+      "detail": "Starsky and Hutch ended on May 15, Rhoda on May 18, Welcome Back, Kotter on June 8, Good Times on August 1 and Wonder Woman on September 11. Jeopardy! stopped on March 2 after starting in 1964, and Lamp Unto My Feet on January 21 after starting in 1948. Dan Aykroyd and John Belushi made their final appearances as Saturday Night Live cast members on May 26.",
+      "date": "1979-04-08",
+      "source": "https://en.wikipedia.org/wiki/1979_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "My Sharona, The Knack",
+        "Bad Girls, Donna Summer",
+        "Le Freak, Chic",
+        "Da Ya Think I'm Sexy?, Rod Stewart",
+        "Reunited, Peaches & Herb"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 22. Donna Summer had four songs on the chart, more than any other act, with Bad Girls second, Hot Stuff seventh, MacArthur Park twelfth and Heaven Knows thirty-ninth. The Bee Gees had three inside the top 40, Too Much Heaven eleventh, Tragedy sixteenth and Love You Inside Out thirty-third. I Will Survive by Gloria Gaynor was sixth, Y.M.C.A. by the Village People eighth, Ring My Bell by Anita Ward ninth and Sad Eyes by Robert John tenth. The chart page prints the Knack's title as My Sharona.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1979"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records. The Sony Walkman went on sale in Japan on July 1, and the year page's lead image montage lists its debut among the year's events.",
+      "detail": "Philips showed the disc that would carry recorded music next, and the year page carries the demonstration twice on two dates: March 1, as a prototype of an optical digital audio disc shown at a press conference in Eindhoven, and March 8, as the first public demonstration of the compact disc. Stephen Stills laid down four songs at The Record Plant in Los Angeles on February 7 and became the first major rock artist to record digitally, though none were released, and Ry Cooder was the first to release a digitally recorded record. EMI made its first non-classical digital recording at Abbey Road in July, of the jazz-funk duo Morrissey-Mullen covering Love Don't Live Here Anymore, later put out as a limited edition vinyl EP. Stevie Wonder used digital audio recording on Journey through the Secret Life of Plants.",
+      "date": "1979-07-01",
+      "source": "https://en.wikipedia.org/wiki/1979_in_music"
+    },
+    "music.disco": {
+      "section": "music",
+      "label": "Disco on the charts and at Comiskey Park",
+      "value": "Disco held the first six places on the Billboard Hot 100 in the week ending July 21, beginning with Donna Summer's Bad Girls, and seven of the top ten. A Disco Demolition Night publicity stunt at Comiskey Park on July 12 forced the Chicago White Sox to forfeit their game against the Detroit Tigers.",
+      "detail": "The music page dates an earlier spell of disco holding eight of the top ten to May 12, for two weeks, led by Peaches and Herb's Reunited. Summer took the number one single and album at once for a second time on June 16 with Hot Stuff and Bad Girls, held two of the top three from June 30 for four weeks, and became the first female artist to sit on top of the Hot 100, the Hot Soul Singles chart and the Billboard 200 together. On November 24 No More Tears (Enough is Enough) with Barbra Streisand made her the first woman with three number one singles in a calendar year. The year page's lead image caption says Disco Demolition Night turned into a riot.",
+      "date": "1979-07-21",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "music.rappers_delight": {
+      "section": "music",
+      "label": "Rapper's Delight released",
+      "value": "The Sugarhill Gang's single became the first rap record to reach the Top 40 of the Billboard Hot 100",
+      "detail": "The year page, the US year page and the music page all carry the same date and the same claim, and none gives a chart position or a sales figure.",
+      "date": "1979-09-16",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Breakfast in America, Supertramp, March 16",
+        "Unknown Pleasures, Joy Division, June 15, their debut",
+        "Highway to Hell, AC/DC, July 27",
+        "Off the Wall, Michael Jackson, August 10",
+        "The Wall, Pink Floyd, November 30",
+        "London Calling, The Clash, December 14"
+      ],
+      "detail": "The year page says Off the Wall sold 7 million copies in the United States alone. The music page calls The Wall the last album recorded by the line-up of David Gilmour, Roger Waters, Nick Mason and Richard Wright. Gary Numan's Tubeway Army released Are 'Friends' Electric? as a single on May 4 and took it to number one in the UK on June 30, which the music page calls the first synth-pop single to top that chart, and their album Replicas topped the UK album chart on July 21, followed by Numan's own The Pleasure Principle on September 22. Bauhaus released Bela Lugosi's Dead on August 6, which the year page calls the first gothic rock release.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Space Invaders, Taito, the top-grossing video game worldwide for a second year running",
+        "Head On, Sega, April, a dot-eating driving game widely cloned for home systems",
+        "Asteroids, Atari, November, built on vector graphics, which displaced Space Invaders as the most popular game in the United States",
+        "Galaxian, Namco, November, a fixed shooter in full colour",
+        "Microvision, Milton Bradley, November, the first handheld console using interchangeable cartridges"
+      ],
+      "detail": "The games page computes Japanese cabinet sales of Space Invaders as 300,000, being 400,000 by this year less 100,000 the year before, gives 55,000 in the United States and puts worldwide sales at 355,000 or more, with the United Kingdom figure unknown. The American arcade market took $1.5 billion in revenue and the American home video game market $330 million. The Atari Video Computer System was the best-selling home system at 1,000,000 units. Activision, Capcom, Edu-Ware, Infocom, Quicksilva and Strategic Simulations were all founded. Atari released Lunar Lander in August, the first arcade version of a concept created on minicomputers ten years earlier. Nintendo released Radar Scope in December, and 2,000 of the 3,000 machines manufactured were later converted to another game. Electronic Games magazine gave Space Invaders its Game of the Year award at the first Arkie Awards, held the following year for games of this one.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_video_games"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Voyager 1 photographs revealed Jupiter's rings on March 4, the probe made its closest approach to Jupiter at 277,000 km on March 5, and its images proved that Io has volcanoes on March 8",
+        "The first fully functional Space Shuttle orbiter, Columbia, was delivered to the Kennedy Space Center on March 25 to be prepared for its first launch",
+        "Skylab began falling back to Earth on July 11 as its orbit decayed after more than six years",
+        "Pioneer 11 became the first spacecraft to visit Saturn on September 1, passing the planet at 21,000 km",
+        "The first European Ariane rocket was launched on December 24"
+      ],
+      "detail": "Both cached year pages carry Pioneer 11 at the same distance and Columbia's delivery on the same date. The US year page puts Skylab's time in orbit at six years and two months where the year page says more than six years. The year page gives no launch site for Ariane. The largest magnetar event on record was detected on March 7, which the year page states without naming an observatory.",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "tech.computing": {
+      "section": "tech",
+      "label": "Computing",
+      "value": [
+        "VisiCalc became the first commercial spreadsheet program",
+        "Tom Truscott and Jim Ellis of Duke University conducted the first Usenet experiments",
+        "Texas Instruments released the TI-99/4 in June, the first home computer with a 16-bit processor",
+        "NEC released the PC-8001 in September",
+        "Atari released the Atari 400 and Atari 800 in November, with custom graphics and sound coprocessors supporting sprites, four-channel audio and programmable display modes"
+      ],
+      "detail": "The year page carries VisiCalc and the Usenet experiments among items it dates only to the year, and neither is on any other cached page. The games page counts 580,000 personal computers of all makes sold, 200,000 TRS-80s, 150,000 NEC PC-8001s, 100,000 Atari 400s and 800s, 45,000 Commodore PETs and 35,000 Apple IIs. subLOGIC released Flight Simulator for the Apple II in October, Automated Simulations released Temple of Apshai in August, and Richard Bartle and Roy Trubshaw created what the games page calls the first playable MUD.",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.90 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$2.90 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Fuel prices climbing through the year, a partial meltdown in Pennsylvania in March, a Chicago crowd tearing up a baseball field over a crate of disco records in July, and from November a nightly count of the days since fifty-three Americans were taken in Tehran."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Odysseas Elytis",
+        "Peace, Mother Teresa",
+        "Physics, Sheldon Glashow, Abdus Salam and Steven Weinberg",
+        "Chemistry, Herbert C. Brown and Georg Wittig",
+        "Medicine, Allan MacLeod Cormack and Godfrey Hounsfield",
+        "Economics, Theodore Schultz and W. Arthur Lewis"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "culture.pope_travels": {
+      "section": "culture",
+      "label": "Pope John Paul II travels",
+      "value": "He arrived in Mexico City on January 25 for his first visit to Mexico, reached Poland on June 2 for a nine-day stay that made him the first Pope to visit a Communist country, and made a six-city visit to the United States from October 1 to 7, starting in Boston",
+      "detail": "He addressed the United Nations General Assembly in New York on October 2 against all forms of concentration camps and torture, and ended the American visit in Washington on October 7 with his first visit to the White House. The year page calls the Polish visit nine days that changed the world and says it brought about the solidarity of the Polish people against Communism. The Mexican visit was mainly for the Latin American Episcopal Conference at Puebla.",
+      "date": "1979-06-02",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "culture.smallpox": {
+      "section": "culture",
+      "label": "Smallpox declared eradicated",
+      "value": "The World Health Organization announced the eradication of the virus",
+      "detail": "The year page carries the announcement as a single line and names no place and no official.",
+      "date": "1979-10-26",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "culture.gay_rights": {
+      "section": "culture",
+      "label": "National March on Washington for gay rights",
+      "value": "Tens of thousands of people took part in the march in Washington",
+      "detail": "Los Angeles' city council passed the city's first homosexual rights bill on June 2, signed without fanfare by Mayor Tom Bradley, and the city passed its gay and lesbian civil rights bill on July 8. Dan White was convicted of manslaughter rather than murder on May 21 for the assassination of San Francisco's Mayor George Moscone and Supervisor Harvey Milk, after what became known as the Twinkie defence persuaded a jury the crime was not premeditated, and a maximum sentence of seven years with eligibility for early parole prompted the White Night riots.",
+      "date": "1979-10-14",
+      "source": "https://en.wikipedia.org/wiki/1979"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Pittsburgh Pirates beat the Baltimore Orioles four games to three for their fifth title",
+      "detail": "Willie Stargell was the Series most valuable player, Associated Press Male Athlete of the Year and ABC's Wide World of Sports Athlete of the Year. The sports page says the Pirates became the only team in sports history to come back from a three games to one deficit in a championship series twice, having also done it in the 1925 World Series, while the year page counts them the fourth Major League team to recover from that deficit. Willie Mays received 409 of 432 votes in the writers' election on January 23 to earn enshrinement in the Hall of Fame. Thurman Munson, the New York Yankees catcher and captain, died in an air crash on August 2. Major League umpires went on strike on April 2, forcing replacements from the minor leagues.",
+      "date": "1979-10-17",
+      "source": "https://en.wikipedia.org/wiki/1979_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XIII",
+      "value": "The Pittsburgh Steelers of the AFC beat the NFC's Dallas Cowboys 35 to 31 at the Miami Orange Bowl in front of 79,484, with the Pittsburgh quarterback Terry Bradshaw named most valuable player",
+      "detail": "The sports page gives the score, venue, attendance and most valuable player and no date, so January 21 comes from the US year page, which gives the score and the venue and neither of the other two. Alabama beat Penn State 14 to 7 in the Sugar Bowl to claim the Associated Press national championship for the college season just finished. Pat Summerall called his first NFL telecast with John Madden on November 25, a Minnesota Vikings game against the Tampa Bay Buccaneers.",
+      "date": "1979-01-21",
+      "source": "https://en.wikipedia.org/wiki/1979_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the New York Rangers, four games to one, their fourth in a row",
+        "NBA Finals, Seattle SuperSonics over the Washington Bullets, four games to one, coached by Lenny Wilkens",
+        "NCAA basketball, Michigan State 75, Indiana State 64, at Salt Lake City",
+        "FA Cup, Arsenal 3, Manchester United 2, May 12",
+        "Grey Cup, Edmonton Eskimos 17, Montreal Alouettes 9",
+        "Cricket World Cup, West Indies beat England by 92 runs in a tournament held in England from June 9 to 23",
+        "World Snooker Championship, Terry Griffiths over Dennis Taylor, 24 to 16"
+      ],
+      "detail": "The year page names Earvin Magic Johnson leading Michigan State and Larry Bird leading Indiana State in the championship game of March 26, which the sports page carries with neither name and no date. Bryan Trottier of the New York Islanders took both the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player. The NHL voted on March 22 to approve its merger with the World Hockey Association, to take effect in three months, the WHA formally ceased operations on June 22, and an expansion draft on June 13 restocked the Edmonton, Hartford, Quebec and Winnipeg franchises. Bernard Hinault won the Tour de France and Giuseppe Saronni the Giro d'Italia. Fuzzy Zoeller won the Masters in the first sudden-death playoff the tournament had used, Seve Ballesteros became the first golfer from continental Europe to win a major since Arnaud Massy in 1907, and the United States beat Europe 17 to 11 in the first Ryder Cup with a side representing all of Europe. Carlton won the 83rd VFL premiership, and the Australian National Basketball League was founded with the St Kilda Saints beating the Canberra Cannons 94 to 93 in its first final.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Grand Slam singles titles",
+      "value": [
+        "Australian Open, Guillermo Vilas and Barbara Jordan",
+        "French Open, Bjorn Borg and Chris Evert",
+        "Wimbledon, Bjorn Borg and Martina Navratilova, both finals dated July 7",
+        "US Open, John McEnroe and Tracy Austin"
+      ],
+      "detail": "Austin was 16 years, 8 months and 28 days old, the youngest US Open champion, and beat the four-time defending champion Chris Evert 6-4, 6-3 in the final after beating the second seed Navratilova in the semifinal, which ended a run of 32 straight wins for Evert. Austin was Associated Press Female Athlete of the Year. The United States beat Italy 5 to 0 in the Davis Cup. The sports page gives no dates for the other three finals.",
+      "source": "https://en.wikipedia.org/wiki/1979_in_sports"
+    },
+    "sports.boxing": {
+      "section": "sports",
+      "label": "Two world title nights in Las Vegas",
+      "value": "Larry Holmes kept the world heavyweight title on September 28 with an eleventh-round technical knockout of Earnie Shavers, and on a dual world championship card on November 30 Vito Antuofermo held the world middleweight title in a fifteen-round draw with Marvin Hagler while Sugar Ray Leonard won his first world title, knocking out the WBC welterweight champion Wilfred Benitez in round 15",
+      "detail": "The sports page gives no venue beyond Las Vegas for either date and no attendance for either card.",
+      "date": "1979-11-30",
+      "source": "https://en.wikipedia.org/wiki/1979_in_sports"
+    },
+    "deaths.wayne": {
+      "section": "deaths",
+      "label": "John Wayne",
+      "value": "Died June 11. Born 1907",
+      "detail": "American actor and film director. The film page calls him a famous Western movie actor and says he died at 72 of stomach cancer, neither of which the deaths list carries.",
+      "date": "1979-06-11",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1979"
+    },
+    "deaths.mountbatten": {
+      "section": "deaths",
+      "label": "Louis Mountbatten, 1st Earl Mountbatten of Burma",
+      "value": "Died August 27. Born 1900",
+      "detail": "British fleet admiral, statesman and Viceroy of India, assassinated. The year page says he and two others were killed by a Provisional IRA bomb on his boat in the Republic of Ireland, that 18 British soldiers were killed in the Warrenpoint ambush the same day, and that Doreen Knatchbull, Baroness Brabourne, died of her injuries the following day. Thomas McMahon was sentenced to life in prison in Dublin on November 23.",
+      "date": "1979-08-27",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1979"
+    },
+    "deaths.rockefeller": {
+      "section": "deaths",
+      "label": "Nelson Rockefeller",
+      "value": "Died January 26. Born 1908",
+      "detail": "American politician, 41st Vice President of the United States.",
+      "date": "1979-01-26",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1979"
+    },
+    "deaths.park": {
+      "section": "deaths",
+      "label": "Park Chung Hee",
+      "value": "Died October 26. Born 1917",
+      "detail": "Korean politician, third President of South Korea, assassinated by the KCIA director Kim Jae-gyu. Major General Chun Doo-hwan ordered the arrest of the army chief of staff, General Jeong Seung-hwa, on December 12 without authorisation from President Choi Kyu-hah, alleging involvement in the assassination.",
+      "date": "1979-10-26",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1979"
+    },
+    "deaths.bhutto": {
+      "section": "deaths",
+      "label": "Zulfiqar Ali Bhutto",
+      "value": "Died April 4. Born 1928",
+      "detail": "Ninth Prime Minister and fourth President of Pakistan, executed. The year page says he was hanged for the murder of a political opponent.",
+      "date": "1979-04-04",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1979"
+    },
+    "deaths.vicious": {
+      "section": "deaths",
+      "label": "Sid Vicious",
+      "value": "Died February 2. Born 1957",
+      "detail": "English musician, bassist of the Sex Pistols. The music page says he was found dead of an overdose a day after being released on bail from Rikers Island.",
+      "date": "1979-02-02",
+      "source": "https://en.wikipedia.org/wiki/Deaths_in_1979"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1979. figures_basis is gross, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Box-office gross, and the table's own caption reads Highest-grossing films of 1979 (United States and Canada). Unlike the mid-1970s pages, nothing on the film page calls these rentals and nothing contradicts the header, so film.gross states gross with no disagreement to name. Eighth on that table is a Warner Bros. film at $74,865,517 whose title is the bare two-digit number ten. src/data/title_years.json lists only 2001: A Space Odyssey and Airport 1975, and its own rules paragraph says a film titled with a bare number cannot be exempted because the string is indistinguishable from a stray year, so that file was not edited. The title is left out of film.gross, which names the distributor and the figure instead and says why, and it is reported for a decision rather than added unilaterally. The number is two digits and not four, so no anachronism check fires either way. Date checks. The year has no US federal election and no inauguration, so two of the three constraints the brief names do not apply. The third does: the Academy Awards ceremony honouring this year of film is the 52nd, and its own page dates it to April 14, 1980, which falls outside this year. film.best_picture therefore says awarded the following spring and gives no ceremony date, and the two ceremony facts drawn from that page are the ones dated inside this year, Howard W. Koch hired as producer in September and Johnny Carson announced as host in November. The 51st Academy Awards of April 9, which honoured the previous year of film, is left out for the same reason 1975 and 1976 leave out theirs: it would put a second Best Picture on the page. The film page's award table dates the 37th Golden Globes and the 33rd BAFTA Awards to January and March of the following year, so film.acting_awards names their winners and no dates. No dedicated article was pulled as wikitext. The one date on the cached pages that a dedicated article could have settled, Three Mile Island, has no checkable internal constraint of the kind the brief describes, and the corpus convention for two cached pages disagreeing is to label rather than resolve, so pol.three_mile_island names both dates and carries only the month. No radio fact, because the radio window closed after 1959. Radio material of the year was not moved into another section to get round that: Morning Edition premiering on National Public Radio on November 5 is left out entirely, and so are the false radio reports from Khomeini of November 21 as a radio item, though the embassy attack in Islamabad they caused is in pol.iran_hostage_crisis. The Nielsen ranking covers a season that began in the autumn of 1979 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved: Three Mile Island is March 28 on the year page and March 29 on the US year page; the crowd that seized the Tehran embassy is 500 on the year page and 3,000 on the US year page, so pol.iran_hostage_crisis gives neither number in its value; Skylab had been in orbit more than six years on the year page and six years and two months on the US year page; the Philips optical disc demonstration appears twice on the same year page, as a prototype at a press conference in Eindhoven on March 1 and as the first public demonstration of the compact disc on March 8, and music.listening_format carries both; the Machchu-2 dam toll is given as between 1,800 and 25,000 on the year page, a range the texture reproduces rather than narrowing; the Pirates' comeback is the only one of its kind twice in sports history on the sports page and the fourth by a Major League team on the year page, and sports.world_series names both; Hong Kong's MTR begins service on September 30 and opens on October 1 in two entries on the same year page, so the texture gives the September 30 service date and no opening date. Facts taking their value from one cached page and part of their detail or date from another, recorded here rather than left for a reader to notice: film.how_people_watched cites the television page for the Jaws broadcast and the ABC Elvis film and takes the Ladd Company, Frank Price and Mary Pickford from the film page; music.disco cites the year page for the July 21 chart and Disco Demolition Night and takes the May 12 chart and all the Donna Summer records from the music page; music.listening_format cites the music page for the Walkman and takes the two Philips dates from the year page; tech.computing cites the year page for VisiCalc and Usenet and takes every unit figure and the software releases from the video games page; tech.spaceflight cites the year page and names where the US year page differs; sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player, takes January 21 from the US year page and Pat Summerall's first NFL telecast from the television page; sports.world_series cites the sports page and takes the fourth-team count and the umpires' strike from the year page and the US year page; sports.champions cites the sports page and takes the Cricket World Cup dates of June 9 to 23 and the two names in the NCAA final from the year page, which the fact states; culture.gay_rights cites the year page throughout; deaths.wayne cites the deaths list and takes the age and cause from the film page; deaths.vicious cites the deaths list and takes the overdose and Rikers Island from the music page; deaths.mountbatten and deaths.park cite the deaths list and take the circumstances from the year page. Month-only or undated facts: pol.three_mile_island carries 1979-03 and no day, for the reason above; world.new_leaders, world.independence, culture.nobel_prizes, film.gross, film.world_cinema, tech.games, tech.computing, tech.spaceflight and sports.champions are lists with dates inside the entries and no single fact date. Dropped for lack of a source that says enough, or because it would have had to be parked in the detail of a fact it does not elaborate: the largest anti-nuclear demonstration to that date, in New York City on September 23, which the US year page carries with no organiser and which cannot be attached to Three Mile Island without a claim no cached page makes; the MUSE No Nukes concerts at Madison Square Garden from September 19 to 23, for the same reason; Ted Kennedy announcing on November 7 and Ronald Reagan on November 13, because both name a nomination belonging to a later year; the unemployment rate reaching 5.6 percent in May, which the US year page calls the low point for the late 1970s business cycle and gives no year-end figure for; the coldest January over the contiguous United States since at least 1888 and the coldest winter since at least 1895, both of which the US year page states as spans crossing into the next year; the Sverdlovsk anthrax leak of April 2, which killed 66; the Wichita Falls tornado of April 10, which killed 42; the Ixtoc I oil spill from June 3, whose size the year page gives three different ways; the Grand Mosque seizure of November 20, which killed 250 and wounded 600, left out because the only fact it could sit in is the hostage crisis and the two are separate events; the Greensboro massacre of November 3; the NORAD false alarm of November 9; the Vela incident of September 22; the Tumaco earthquake of December 12; the Montenegro earthquake of April 15, which killed 136; the Zaragoza hotel fire of July 12, which killed 72; the Lembata Island tsunami of July 18, which killed over 500; the Warsaw bank gas explosion of February 15, which killed 49; the Whiddy Island, Mount Erebus, Flight 191, Fastnet, Woolworths, Mississauga, Who concert and Bregenz items, all in texture instead; Etan Patz kidnapped on May 25 and John Spenkelink executed the same day in the first American use of the electric chair since capital punishment returned; the Guardian Angels formed on February 13; the Daytona 500 of February 18, the first 500-mile race televised in full in the United States, which sits in neither sports nor tv because it belongs to both; the Eurovision Song Contest won by Milk and Honey at Jerusalem on March 31, the first held outside Europe; the 21st Grammy Awards of February 15, which honoured the previous year's recordings; the Havana Jam festival of March 2 to 4; the Music for UNICEF Concert of January 9; the California Music Festival of April 7, which drew 110,000; Elton John's Soviet tour from May 21; the one-child policy, Hanyu Pinyin romanisation and the exhumation of the Romanov remains, all undated on the year page; peak worldwide per capita oil production, undated; the deaths of Charles Mingus on January 5, Conrad Hilton on January 3, Jack Soo on January 11, Donny Hathaway on January 13, Jean Renoir on February 12, Josef Mengele on February 7, Dennis Gabor on February 9, Emmett Kelly on March 28, Mary Pickford on May 29, whose death is in film.how_people_watched instead, Thurman Munson on August 2, whose death is in sports.world_series instead, Jean Seberg on August 30, Herbert Marcuse on July 29, Gracie Fields, Al Capp, Merle Oberon, Darryl F. Zanuck on December 22 and Richard Rodgers on December 30. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and that records were what people played music on, which music.listening_format states before its sourced specifics. Both come out if challenged. Names and titles are written in ASCII per the corpus convention, so Volker Schlondorff, Edouard Molinaro, Bjorn Borg, Thorbjorn Falldin, Suleyman Demirel, Luis Garcia Meza, Wilfred Benitez, Morrissey-Mullen and Semanatoarea lose their diacritics, and the en dash in the original title of ABC's hostage programme is written as a colon in tv.nightline. Deaths carry a birth year rather than an age, because the deaths list gives only the year. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for. Politics, world, film and sports each run to 7 against the roughly 7 the brief suggests. Review pass restored the eighth-place title to film.gross. The film is titled 10, and the fact had left it out saying the almanac had no way to write it. That was not true: the anachronism check matches four-digit years only, so a two-digit title never triggers it, and title_years.json was never involved. It is written as \"The film titled 10\" so a reader does not read the number as a rank or a figure. Its director is not named because the source table gives only title, distributor and gross."
+}

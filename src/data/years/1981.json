@@ -1,0 +1,492 @@
+{
+  "year": 1981,
+  "tier": "broadcast",
+  "headline": "Iran freed the 52 hostages as Reagan was sworn in, Columbia flew in April, and MTV started August 1",
+  "texture": [
+    "Two skywalks at the Hyatt Regency in Kansas City came down into a crowded atrium lobby on July 17 and killed 114. Seven coaches of an overcrowded passenger train fell into the Bagmati River in Bihar on June 6, with the toll put at between 500 and 800. The Indonesian passenger ship Tampomas II caught fire and capsized in the Java Sea on January 27, killing 580. A fire in the early hours at the Stardust nightclub in Artane, Dublin, on February 14 killed 48 young people and injured 214. The lifeboat Solomon Browne was lost with all crew off south-west Cornwall on December 20 while trying to take people off the Union Star.",
+    "Antonio Tejero walked into the Spanish Congress of Deputies with members of the Guardia Civil on February 23 and stopped the session that was about to name Leopoldo Calvo-Sotelo head of government. The coup collapsed once King Juan Carlos denounced it. Rioters in Brixton threw petrol bombs and looted shops on April 11, Toxteth followed on July 3 and Handsworth on July 10. Peter Sutcliffe was sentenced on May 22 on thirteen counts of murder and seven of attempted murder. Marcus Sarjeant fired six blank shots near Elizabeth II at Trooping the Colour on June 13 and startled her horse.",
+    "The first DeLorean, stainless steel with gull-wing doors, came off the line at Dunmurry in Northern Ireland on January 21. TGV service between Paris and Lyon began on September 27. The John Bull ran under its own power outside Washington on September 15 at 150 years old. The Lockheed F-117 Nighthawk made its first flight at Groom Lake on June 18, the same day the first game of paintball was played at Henniker, New Hampshire, and the E-mu Emulator sampler keyboard was unveiled at the NAMM expo in Chicago, with production serial number 001 going to Stevie Wonder. Picasso's Guernica was moved from New York to Madrid on September 10.",
+    "Metro-Goldwyn-Mayer acquired United Artists on May 16, after losses on the $40,000,000 Heaven's Gate pushed its owner Transamerica to sell. Marvin Davis paid $720 million for 20th Century Fox on June 8, and Norman Lear and Jerry Perenchio agreed on November 25 to buy Avco Embassy for $25 million. Diana Ross left Motown for RCA on May 14 on a $20,000,000 deal the music page calls the most lucrative recording contract to that point. Luke and Laura married on General Hospital on November 16, which the television page calls the highest-rated hour in daytime television history."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.iran_hostages",
+    "world.aids_first_report",
+    "film.gross#0",
+    "tv.mtv",
+    "music.hot100_year_end#0",
+    "tech.ibm_pc",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R), from January 20, with Jimmy Carter (D) until that date",
+      "detail": "George H. W. Bush was Vice President from January 20 and Walter Mondale until then, Warren E. Burger was Chief Justice and Tip O'Neill was Speaker of the House. Robert Byrd was Senate majority leader until January 3 and Howard Baker from that date. The 96th Congress sat until January 3 and the 97th from that date.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "Reagan sworn in as the 40th president",
+      "value": "Ronald Reagan took the oath on January 20 and George H. W. Bush was sworn in as the 43rd vice president",
+      "detail": "The date carries a checkable constraint, since a presidential inauguration falls on January 20, and both cached year pages give January 20. The dedicated article on the first inauguration of Ronald Reagan agrees, dating it to Tuesday, January 20, at the West Front of the United States Capitol with Chief Justice Warren E. Burger administering the oath.",
+      "date": "1981-01-20",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "pol.reagan_shooting": {
+      "section": "politics",
+      "label": "Reagan shot outside a Washington hotel",
+      "value": "John Hinckley Jr. shot the president in the chest, and Press Secretary James Brady was among those also wounded",
+      "detail": "The dedicated article on the attempted assassination was pulled to check the date and gives March 30, matching both cached year pages. It puts the shooting outside the Washington Hilton and names the other wounded as Brady, the Secret Service agent Tim McCarthy and the District of Columbia police officer Thomas Delahanty, where both cached year pages say two police officers instead. The television page says the networks broke into their afternoon soap operas and that CNN carried the story for two days.",
+      "date": "1981-03-30",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "pol.air_traffic_controllers": {
+      "section": "politics",
+      "label": "Reagan fires the striking air traffic controllers",
+      "value": "11,359 controllers who had ignored his order to return to work were dismissed",
+      "date": "1981-08-05",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "pol.oconnor": {
+      "section": "politics",
+      "label": "First woman on the Supreme Court",
+      "value": "Reagan nominated Sandra Day O'Connor on July 7, appointed her on August 19, and she took her seat on September 25",
+      "detail": "The US year page carries the nomination, the appointment and the seating on those three dates. The year page carries the nomination and the seating and not the appointment.",
+      "date": "1981-07-07",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "pol.recession": {
+      "section": "politics",
+      "label": "The United States enters the severe early 1980s recession",
+      "value": "The US year page dates the start to June, exactly a year after the milder 1980 recession ended, with unemployment at 7.2 percent",
+      "detail": "The page gives a month and no day, so no day is written here. It lists the recession among its ongoing entries with a span that reaches past this year, which is left out.",
+      "date": "1981-06",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "world.iran_hostages": {
+      "section": "world",
+      "label": "Iran releases the 52 American hostages",
+      "value": "They were freed after 444 days, minutes after Reagan was sworn in, ending the Iran hostage crisis",
+      "detail": "United States and Iranian officials had signed the release agreement the day before, on January 19. The year page puts the release minutes after the swearing-in and the US year page puts it minutes after, in the same words.",
+      "date": "1981-01-20",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "world.aids_first_report": {
+      "section": "world",
+      "label": "First recognised cases of AIDS",
+      "value": "The Centers for Disease Control and Prevention reported that five homosexual men in Los Angeles had a rare form of pneumonia seen only in patients with weakened immune systems",
+      "detail": "Both cached year pages carry the report on the same date and in nearly the same words, and neither names the men or the hospital.",
+      "date": "1981-06-05",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "world.sadat": {
+      "section": "world",
+      "label": "Anwar Sadat assassinated",
+      "value": "The Egyptian president was killed during a military parade",
+      "detail": "Vice President Hosni Mubarak was elected President of Egypt on October 14, one week after the assassination.",
+      "date": "1981-10-06",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "world.pope_shot": {
+      "section": "world",
+      "label": "Pope John Paul II shot in St Peter's Square",
+      "value": "Mehmet Ali Agca, a Turkish gunman, shot him as he entered the square to address a general audience, and the Pope recovered",
+      "detail": "The Pope had received a delegation led by the Polish Solidarity leader Lech Walesa on January 15 and visited the Philippines from February 17 to 22.",
+      "date": "1981-05-13",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "world.poland_martial_law": {
+      "section": "world",
+      "label": "Martial law declared in Poland",
+      "value": "Wojciech Jaruzelski imposed it to prevent Solidarity dismantling the communist system",
+      "detail": "Prime Minister Jozef Pinkowski had resigned on February 9 and been replaced by Jaruzelski. As many as 50,000 demonstrators, mostly women and children, took part in the Polish hunger demonstrations of July 30.",
+      "date": "1981-12-13",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "world.hunger_strike": {
+      "section": "world",
+      "label": "Irish hunger strike at the Maze",
+      "value": "Bobby Sands, a Provisional IRA member, began a hunger strike for political status at HM Prison Maze on March 1 and died on May 5, the first of seven IRA and three INLA hunger strikers to die",
+      "date": "1981-03-01",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of leadership",
+      "value": [
+        "Gro Harlem Brundtland became Prime Minister of Norway, February 4",
+        "Augusto Pinochet was sworn in as President of Chile for another eight-year term, March 11",
+        "Francois Mitterrand became the first socialist President of the French Fifth Republic, May 21",
+        "Ziaur Rahman, President of Bangladesh, was assassinated in Chittagong, May 30",
+        "Mahathir Mohamad became the fourth Prime Minister of Malaysia, July 10",
+        "Andreas Papandreou became Prime Minister of Greece, October 21",
+        "Urho Kekkonen resigned as President of Finland, October 26, after the longest tenure in the office"
+      ],
+      "detail": "Abolhassan Banisadr was deposed as Iranian president on June 22, and eight people including the country's president and prime minister were killed on August 30 when a briefcase exploded in the prime minister's office in Tehran. Gregorio Conrado Alvarez was inaugurated as a military de facto President of Uruguay on September 1. A coup in Ghana on December 31 removed Hilla Limann's government and replaced it with a council led by Flight Lieutenant Jerry Rawlings. Greece entered the European Economic Community on January 1, Belize became independent from the United Kingdom on September 21 and Antigua and Barbuda on November 1.",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North American box office gross",
+      "value": [
+        "Raiders of the Lost Ark, $212,222,025, Paramount",
+        "On Golden Pond, $119,285,432, Universal",
+        "Superman II, $108,185,706, Warner Bros.",
+        "Arthur, $95,461,682, Warner Bros.",
+        "Stripes, $85,297,000, Columbia"
+      ],
+      "detail": "Gross rather than rentals. The table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence directly above it calls these the top ten films released in 1981 by box office gross in North America, so the two agree. The figures come from Box Office Mojo. The Cannonball Run was sixth at $72,179,579 for 20th Century Fox, Chariots of Fire seventh at $58,972,904 for Warner Bros. and 20th Century Fox jointly, For Your Eyes Only eighth at $54,812,802 for United Artists, The Four Seasons ninth at $50,427,646 for Universal and Time Bandits tenth at $42,365,581 for Embassy.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Chariots of Fire, produced by David Puttnam",
+      "detail": "Awarded the following spring at the 54th Academy Awards, hosted by Johnny Carson. The film took four awards, for Picture, Colin Welland's original screenplay, Vangelis's original score and Milena Canonero's costume design, and lost Best Director to Warren Beatty for Reds. Reds had the most nominations with twelve and On Golden Pond ten, while Raiders of the Lost Ark won four competitive awards from eight nominations plus a non-competitive Special Achievement Award for the sound effects editing of Ben Burtt and Richard L. Anderson. The Academy introduced a competitive makeup award at this ceremony, and Rick Baker won the first one for An American Werewolf in London. Vittorio Storaro won cinematography for Reds.",
+      "source": "https://en.wikipedia.org/wiki/54th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Henry Fonda, On Golden Pond",
+        "Best Actress, Katharine Hepburn, On Golden Pond",
+        "Best Supporting Actor, John Gielgud, Arthur",
+        "Best Supporting Actress, Maureen Stapleton, Reds"
+      ],
+      "detail": "Burt Lancaster was nominated for Atlantic City, Dudley Moore for Arthur, Warren Beatty for Reds and Paul Newman for Absence of Malice. Meryl Streep was nominated for The French Lieutenant's Woman and won the drama actress award at the Golden Globes and the BAFTA for it. Jane Fonda was nominated in support for On Golden Pond and Elizabeth McGovern for Ragtime. The Golden Globes gave their comedy or musical acting awards to Dudley Moore and Bernadette Peters, while Burt Lancaster took the BAFTA for Atlantic City and Ian Holm the supporting BAFTA for Chariots of Fire.",
+      "source": "https://en.wikipedia.org/wiki/54th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Films from elsewhere and the festival prizes",
+      "value": [
+        "Mephisto, Hungary, in German, directed by Istvan Szabo, winner of the Academy Award for Best Foreign Language Film",
+        "The Boat Is Full, Switzerland, in German, directed by Markus Imhoof",
+        "Man of Iron, Poland, directed by Andrzej Wajda, winner of the Palme d'Or at Cannes",
+        "Marianne and Juliane, West Germany, directed by Margarethe von Trotta, winner of the Golden Lion at Venice",
+        "Faster, Faster, Spain and France, directed by Carlos Saura, winner of the Golden Bear at Berlin"
+      ],
+      "detail": "The first two entries and Man of Iron are Foreign Language Film nominees, which is where the Academy Awards page states each film's country and language. The three festival prizes are on the film page, which gives no dates for any of the three festivals.",
+      "source": "https://en.wikipedia.org/wiki/54th_Academy_Awards"
+    },
+    "film.oscars_postponed": {
+      "section": "film",
+      "label": "The Academy Awards put off a day by the shooting",
+      "value": "The 53rd Academy Awards, set for March 30, were postponed after Reagan was shot that morning and held the following day, with a message from the President recorded before the shooting played at the ceremony",
+      "detail": "That ceremony honoured films released the year before, so the Best Picture on this page is the one given at the 54th ceremony instead. The US year page places the postponed ceremony on March 31 at the Dorothy Chandler Pavilion in Los Angeles with Johnny Carson hosting.",
+      "date": "1981-03-30",
+      "source": "https://en.wikipedia.org/wiki/1981_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first, and at home on a pay-cable channel that no longer went off the air. Showtime ended its part-time schedule and went to seven days a week around the clock on July 4, and HBO began broadcasting 24 hours a day on December 24.",
+      "detail": "The television page carries both changes as dated entries. It also records three more cable services starting in the same year, Alpha Repertory Television Service on April 12, Spotlight on May 28 and CBS Cable, alongside MTV on August 1. Neither the film page nor the television page says anything about videocassettes or rental, so nothing about tape is claimed here.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.78",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1981",
+      "value": [
+        "Dallas, CBS, 28.4 rating",
+        "60 Minutes, CBS, 27.7",
+        "The Jeffersons, CBS, 23.4",
+        "Three's Company, ABC, 23.3",
+        "Alice, CBS, 22.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. CBS held the top three. The Dukes of Hazzard and Too Close for Comfort tied for sixth on a 22.6, M*A*S*H was ninth at 22.3 and Monday Night Football eleventh at 21.8. Falcon Crest reached thirteenth at 21.4 in its first season and Dynasty nineteenth at 20.2 in its second, while Hill Street Blues sat twenty-seventh at 18.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1981%E2%80%9382"
+    },
+    "tv.mtv": {
+      "section": "tv",
+      "label": "MTV goes on the air",
+      "value": "The first 24-hour music video channel launched on cable television in the United States, and the first video it aired was Video Killed the Radio Star by the Buggles",
+      "detail": "Two other cable services started within a fortnight of it, the Eternal Word Television Network on August 15 at six in the evening Central Time and, earlier in the year, Alpha Repertory Television Service on April 12. The music page says Duran Duran's Girls on Film, released as a single on July 13, was censored for airplay on the channel and banned by the BBC.",
+      "date": "1981-08-01",
+      "source": "https://en.wikipedia.org/wiki/1981_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Dynasty, ABC, January 12, with John Forsythe as Blake Carrington",
+        "Hill Street Blues, NBC, January 15, at ten in the evening Eastern time",
+        "SCTV Network 90, NBC, May 16",
+        "Gimme a Break, NBC, October 29",
+        "The Fall Guy, ABC, November 4",
+        "Simon & Simon, CBS, November 24",
+        "Falcon Crest, CBS, December 4"
+      ],
+      "detail": "The television page quotes the New York Times critic Tom Buckley calling Dynasty an embarrassingly obvious knockoff of Dallas. Private Benjamin started on CBS on April 6, Best of the West on ABC on September 10, Love, Sidney on NBC on October 28 and Bret Maverick on NBC on December 1. Nickelodeon began You Can't Do That on Television on December 4.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_American_television"
+    },
+    "tv.cronkite": {
+      "section": "tv",
+      "label": "Walter Cronkite signs off",
+      "value": "He left the anchor chair at the CBS Evening News after nineteen years, and Dan Rather took over the following Monday, March 9",
+      "detail": "The television page dates the sign-off to March 6 and says Rather was succeeding him for a run of nearly twenty-four years. The US year page gives the same date and says nineteen years. Fred Silverman was dismissed as president of NBC on June 30 after failing to lift the network out of third place and was replaced by Grant Tinker.",
+      "date": "1981-03-06",
+      "source": "https://en.wikipedia.org/wiki/1981_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Charlie's Angels, ABC, dated June 24 in the television page's events table and August 19 in its endings table, having started in 1976",
+        "The Waltons, August 20, having started in 1972",
+        "The Muppet Show, June 10, having started in 1976",
+        "Soap, April 20, having started in 1977",
+        "The Mike Douglas Show, November 30, having started in 1961"
+      ],
+      "detail": "The events table calls the June 24 broadcast the series finale of Charlie's Angels and the endings table gives August 19, which is stated here rather than resolved. Sanford ended on NBC on July 10, closing out Redd Foxx's run as Fred G. Sanford. Chuck Woolery hosted his last Wheel of Fortune on December 25 after a salary dispute with Merv Griffin, and Pat Sajak began hosting on December 28.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Bette Davis Eyes, Kim Carnes",
+        "Endless Love, Diana Ross and Lionel Richie",
+        "Lady, Kenny Rogers",
+        "(Just Like) Starting Over, John Lennon",
+        "Jessie's Girl, Rick Springfield"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 26, compiled from the Hot 100 issues of November 1, 1980 through October 31, 1981. Three John Lennon songs appear on the list, charting after his murder late in the previous year, with Woman twenty-first. Blondie had two entries, Rapture fifteenth and The Tide Is High seventeenth, and Juice Newton two, Queen of Hearts fourteenth and Angel of the Morning twenty-fifth. Kool & the Gang took sixth with Celebration and the Stars on 45 Medley twenty-fourth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1981"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records the industry said were being copied. The British Phonographic Industry took out newspaper ads on October 27 unveiling the slogan Home Taping Is Killing Music and advocating a levy on blank cassette tapes.",
+      "detail": "The music page gives the campaign a date and a demand and no sales figure. It records no compact disc, no videodisc and no personal stereo for the year, so nothing about those is claimed here. Its other playback entry is a satellite one: an estimated 35 million people worldwide watched a live transmission of a Rod Stewart concert at the Los Angeles Forum on December 18, which the page calls the first broadcast of its kind since Elvis Presley's Aloha from Hawaii special in 1973.",
+      "date": "1981-10-27",
+      "source": "https://en.wikipedia.org/wiki/1981_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "23rd Grammy Awards",
+      "value": "Presented in New York on February 25 and hosted by Paul Simon, with Christopher Cross the first artist to win all four General Field awards in a single ceremony, for his self-titled debut album and its single Sailing",
+      "detail": "The music page calls the Album of the Year result controversial, since it beat Pink Floyd's The Wall.",
+      "date": "1981-02-25",
+      "source": "https://en.wikipedia.org/wiki/1981_in_music"
+    },
+    "music.uk_singles": {
+      "section": "music",
+      "label": "Synthpop takes the British singles chart",
+      "value": "The Human League reached number one on December 11 with Don't You Want Me, which stayed five weeks and became the year's best-selling single in the United Kingdom, and Soft Cell's Tainted Love, number one from September 5, was second",
+      "detail": "Adam and the Ants had the third and fourth best sellers, Stand and Deliver, which entered at number one on May 9, held for five weeks and sold over a million, and Prince Charming, number one from September 19 for four weeks. The music page lists Ultravox, Depeche Mode and Orchestral Manoeuvres in the Dark alongside the Human League as synthpop acts with hits, and dates the Human League album Dare to October 16 and Architecture & Morality by Orchestral Manoeuvres in the Dark to November 21.",
+      "date": "1981-12-11",
+      "source": "https://en.wikipedia.org/wiki/1981_in_music"
+    },
+    "music.central_park": {
+      "section": "music",
+      "label": "Simon & Garfunkel play Central Park",
+      "value": "The free reunion concert in New York drew a crowd the music page puts at over 500,000 and the US year page at approximately half a million",
+      "detail": "The Rolling Stones opened their Tattoo You tour at JFK Stadium in Philadelphia on September 25. The punk band Fear appeared on Saturday Night Live on October 31 and fans stormed the stage and damaged equipment, so the show cut to a commercial.",
+      "date": "1981-09-19",
+      "source": "https://en.wikipedia.org/wiki/1981_in_music"
+    },
+    "tech.ibm_pc": {
+      "section": "tech",
+      "label": "IBM PC released",
+      "value": "The original Model 5150, with a 4.77 MHz Intel 8088 processor, went on sale in the United States at a base price of $1,565",
+      "detail": "Both cached year pages carry the release on the same date with the same processor speed and price. The video games page says IBM and Microsoft shipped the game DONKEY.BAS with the machine, calling it arguably the first game for an IBM PC compatible.",
+      "date": "1981-08-12",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "tech.shuttle": {
+      "section": "tech",
+      "label": "Space Shuttle Columbia flies twice",
+      "value": "Columbia launched on the STS-1 mission on April 12 with John Young and Robert Crippen aboard and returned to Earth on April 14, the first time a crewed reusable spacecraft had come back from orbit, and STS-2 lifted off on November 12 with Joe Engle and Richard Truly",
+      "detail": "Workers were killed during a ground test of the orbiter at the Kennedy Space Center on March 19, three weeks before the first launch. The year page says two or three killed and four injured and the US year page says three killed and five injured, which is left as it stands rather than picked between. Venera 13 was launched to Venus on October 30 and Venera 14 on November 4, and the Boeing 767 made its first flight on September 26.",
+      "date": "1981-04-12",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Donkey Kong, Nintendo, July 9, introducing Donkey Kong and Mario and setting the template for the platform game",
+        "Defender, Williams Electronics, February, a scrolling shooter",
+        "Frogger, Konami, August, distributed in North America by Sega-Gremlin from October",
+        "Galaga, Namco, September, the sequel to Galaxian",
+        "Tempest, Atari, October, using Atari's colour vector display and the first game letting a player choose a starting level",
+        "Ultima, June, and Wizardry, September, the openings of two computer role-playing series"
+      ],
+      "detail": "Konami's Scramble, released in February, is called the first side-scrolling shooter with forced scrolling and multiple distinct levels. Williams released Stargate, the sequel to Defender, on October 21 and Sega released the third-person racing game Turbo on October 18. Rock-Ola's Fantasy, released in October, was the first game with a continue feature. Muse Software released Castle Wolfenstein for the Apple II and Infocom released Zork II. Electronic Games, which the games page calls the first magazine about video games, was founded by Arnie Katz and Bill Kunkel in the winter, and Computer and Video Games started in Britain in November.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_video_games"
+    },
+    "tech.arcade_money": {
+      "section": "tech",
+      "label": "What the arcades took",
+      "value": "The American arcade video game market generated $4.8 billion in revenue and the American home video game market $1 billion, with Atari still the market leader, and the European home market was worth $200 million",
+      "detail": "Pac-Man was the highest-grossing game of the year at $1.2 billion in arcade revenue, which the games page compares to three times what the highest-grossing film had taken in five years. The Play Meter, Cash Box and RePlay charts put Pac-Man first in the United States, with Defender and Asteroids behind it. In Japan the annual Game Machine chart put Donkey Kong first, Janputer second and Pro Golf third, with Pac-Man fourth.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_video_games"
+    },
+    "tech.test_tube_baby": {
+      "section": "tech",
+      "label": "First American test-tube baby",
+      "value": "Elizabeth Jordan Carr was born in Norfolk, Virginia",
+      "detail": "Both cached year pages carry the birth on the same date in the same words and neither names the hospital or the doctors.",
+      "date": "1981-12-28",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.38 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The hostages came home the hour a new administration started, the president was shot ten weeks later and went back to work, and a cable channel that played nothing but music videos went on the air in August. Five men in Los Angeles had a pneumonia nobody could account for."
+    },
+    "culture.royal_wedding": {
+      "section": "culture",
+      "label": "Charles and Diana marry at St Paul's",
+      "value": "A worldwide television audience of over 750 million watched the wedding of the Prince of Wales and Lady Diana Spencer in London",
+      "detail": "Both the year page and the television page give the same figure and the same cathedral.",
+      "date": "1981-07-29",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "culture.vietnam_memorial": {
+      "section": "culture",
+      "label": "Maya Lin's memorial design chosen",
+      "value": "A jury of architects and sculptors picked her design for the Vietnam Veterans Memorial in Washington unanimously, from among 1,421 other entries",
+      "date": "1981-05-06",
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Elias Canetti",
+        "Peace, United Nations High Commissioner for Refugees",
+        "Physics, Nicolaas Bloembergen, Arthur Leonard Schawlow and Kai Siegbahn",
+        "Chemistry, Kenichi Fukui and Roald Hoffmann",
+        "Medicine, Roger Wolcott Sperry, David H. Hubel and Torsten Wiesel",
+        "Economics, James Tobin"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1981"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the New York Yankees four games to two, with the series most valuable player award tied three ways between Ron Cey, Pedro Guerrero and Steve Yeager",
+      "detail": "The US year page dates the clinching win to October 28 and calls it the Dodgers' fifth title. Bob Gibson was the only player elected to the Baseball Hall of Fame, on January 15 and in his first year of eligibility, with Don Drysdale, Gil Hodges, Harmon Killebrew, Hoyt Wilhelm and Juan Marichal all short of the 301 votes needed.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_sports"
+    },
+    "sports.baseball_strike": {
+      "section": "sports",
+      "label": "Major League Baseball strike",
+      "value": "Players struck from June 12 over free-agent compensation, 38 percent of the schedule was cancelled, and play resumed on August 9 with the All-Star Game at Cleveland Municipal Stadium",
+      "detail": "The sports page calls it a 49-day strike and the television page says it ran through July 31, which does not line up with the August 9 restart the other three pages carry. NBC used its Saturday Game of the Week slot during the strike for a 20-minute strike update and a sports anthology series.",
+      "date": "1981-06-12",
+      "source": "https://en.wikipedia.org/wiki/1981_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XV",
+      "value": "The Oakland Raiders beat the Philadelphia Eagles 27 to 10 at the Superdome in front of 76,135, with the Oakland quarterback Jim Plunkett named most valuable player",
+      "detail": "The US year page gives the score and the venue and not the attendance or the most valuable player. Georgia beat Notre Dame 17 to 10 in the Sugar Bowl to take the college football national championship for the previous season.",
+      "date": "1981-01-25",
+      "source": "https://en.wikipedia.org/wiki/1981_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New York Islanders over the Minnesota North Stars, clinched May 21",
+        "NBA Finals, Boston Celtics over the Houston Rockets, four games to two",
+        "NCAA basketball, Indiana 63, North Carolina 50",
+        "European Cup, Liverpool 1, Real Madrid 0",
+        "FA Cup, Tottenham Hotspur 3, Manchester City 2",
+        "Grey Cup, Edmonton Eskimos 26, Ottawa Rough Riders 23",
+        "World Snooker Championship, Steve Davis over Doug Mountjoy, 18 to 12"
+      ],
+      "detail": "Aston Villa won the English league title and Ipswich Town the UEFA Cup 5 to 4 on aggregate over AZ '67 Alkmaar, while Flamengo beat Liverpool 3 to 0 for the World Club Championship. Carlton won the VFL premiership over Collingwood, and South Melbourne moved to Sydney and became the Sydney Swans at the end of that season. Bernard Hinault won the Tour de France and Giovanni Battaglin the Giro d'Italia. Tom Watson won the Masters and Bill Rogers the British Open, and Tom Kite led the PGA Tour money list with $375,699. France won the Five Nations with a Grand Slam. John Henry won the first Arlington Million on August 30, the first million dollar horse race.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_sports"
+    },
+    "sports.leonard_hearns": {
+      "section": "sports",
+      "label": "Leonard beats Hearns to unify the welterweight title",
+      "value": "Sugar Ray Leonard stopped Thomas Hearns in the fourteenth round",
+      "detail": "Leonard was Sports Illustrated's Sportsman of the Year. Larry Holmes kept the WBC heavyweight title on April 11 by unanimous decision over Trevor Berbick, and Berbick then beat Muhammad Ali on December 11 in what proved to be Ali's last fight. Salvador Sanchez knocked out Wilfredo Gomez in the eighth round on August 21 to keep the WBC featherweight title.",
+      "date": "1981-09-16",
+      "source": "https://en.wikipedia.org/wiki/1981_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Grand Slam singles titles",
+      "value": [
+        "Australian Open, Johan Kriek and Martina Navratilova",
+        "French Open, Bjorn Borg and Hana Mandlikova",
+        "Wimbledon, John McEnroe and Chris Evert",
+        "US Open, John McEnroe and Tracy Austin"
+      ],
+      "detail": "McEnroe was Associated Press Male Athlete of the Year and Austin Female Athlete of the Year. The United States beat Argentina 3 to 1 in the Davis Cup. The sports page gives no dates for any of the finals.",
+      "source": "https://en.wikipedia.org/wiki/1981_in_sports"
+    },
+    "deaths.marley": {
+      "section": "deaths",
+      "label": "Bob Marley",
+      "value": "Died May 11. Born 1945",
+      "detail": "Jamaican reggae singer. The year page gives his age as 36 and cancer as the cause.",
+      "date": "1981-05-11",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "deaths.louis": {
+      "section": "deaths",
+      "label": "Joe Louis",
+      "value": "Died April 12. Born 1914",
+      "detail": "Heavyweight boxer.",
+      "date": "1981-04-12",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "deaths.wood": {
+      "section": "deaths",
+      "label": "Natalie Wood",
+      "value": "Died November 29. Born 1938",
+      "detail": "Actress. The film page dates her drowning in a boating accident off Santa Catalina Island to the same day.",
+      "date": "1981-11-29",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "deaths.holden": {
+      "section": "deaths",
+      "label": "William Holden",
+      "value": "Died November 12. Born 1918",
+      "detail": "Film actor.",
+      "date": "1981-11-12",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    },
+    "deaths.haley": {
+      "section": "deaths",
+      "label": "Bill Haley",
+      "value": "Died February 9. Born 1925",
+      "detail": "Rock and roll musician. The music page calls him a rock and roll pioneer, gives his age as 55 and the cause as a heart attack.",
+      "date": "1981-02-09",
+      "source": "https://en.wikipedia.org/wiki/1981_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1981. figures_basis is gross, checked with bo.mjs rather than assumed from the era. The box office table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence directly above the table calls the entries the top ten films released in 1981 by box office gross in North America, so header and lead sentence agree and no rentals gloss is written. Date checks. Two dates this year carry checkable constraints and both were checked against the dedicated article pulled as raw wikitext. A presidential inauguration falls on January 20; both cached year pages give January 20, and the article on the first inauguration of Ronald Reagan gives Tuesday, January 20, at the West Front of the Capitol with Chief Justice Warren E. Burger administering the oath, so the cached pages stand and pol.inauguration cites the US year page. The attempted assassination is March 30 on the year page, the US year page and the film page, and the dedicated article on the attempted assassination gives March 30 as well, so that date stands too. That article does disagree with both cached year pages on who else was hit: it names James Brady, the Secret Service agent Tim McCarthy and the police officer Thomas Delahanty, while the cached pages say Brady and two police officers, and pol.reagan_shooting names the disagreement rather than picking a side. The 54th Academy Awards, which honour this year of film, fall in the following spring, so film.best_picture gives no ceremony date and no fact carries a token for the next year. The 53rd ceremony, held on March 31 of this year, is in film.oscars_postponed for the postponement itself, and its Best Picture is deliberately left out so the page carries only one. No radio section, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn of 1981 and ran into the following spring, which tv.top_shows states without naming a second year. No film title in this file contains a four-digit year, so src/data/title_years.json needed no entry and was not touched. Source disagreements labelled rather than resolved. Charlie's Angels ends on June 24 in the television page's events table and August 19 in its endings table, and tv.endings states both. The March 19 shuttle ground test kills two or three workers and injures four on the year page and kills three and injures five on the US year page, and tech.shuttle carries both counts. The Simon & Garfunkel crowd is over 500,000 on the music page and approximately half a million on the US year page, and music.central_park gives both. The baseball strike is a 49-day stoppage on the sports page and runs through July 31 on the television page, which does not fit the August 9 restart the year page, the US year page and the sports page all carry, and sports.baseball_strike says so. James L. Dozier's kidnapping in Verona is December 5 on the US year page and December 17 on the year page, an unresolved two-week gap, which is why it appears in neither the facts nor the texture. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: pol.reagan_shooting cites the US year page and takes the network coverage from the television page and the wounded from the dedicated article; film.how_people_watched cites the television page throughout; tv.mtv cites the television page and takes the Duran Duran ban from the music page; tech.ibm_pc cites the year page and takes DONKEY.BAS from the video games page; sports.world_series cites the sports page and takes the October 28 clinch from the US year page; deaths.marley and deaths.haley cite the US year page for the birth years and take the ages and causes from the year page and the music page. Deaths carry a birth year rather than an age, because the US year page gives only the year, and the ages that do appear are attributed to the page that states them. Month-only dates. pol.recession carries 1981-06 because the US year page dates the start of the recession to June with no day; its span, which reaches past this year, is left out. tech.games dates Defender, Frogger, Galaga, Tempest, Ultima and Wizardry to months because the video games page gives months for those releases. Dropped for lack of a source that says enough, or because it would put a later year token on the page: the Hyatt Regency walkway collapse, the Bihar train disaster, the Tampomas II, the Stardust fire and the Penlee lifeboat disaster, all in texture instead; the El Mozote massacre of December 11, which the year page gives as 900 civilians killed by army units with no further attribution; the Iraqi embassy bombing in Beirut of December 15, which killed 61; the Israeli bombing of Beirut on July 17, which killed approximately 300 civilians; the Israeli strike on the Osirak reactor of June 7; the Gulf of Sidra incident of August 19; the Spanish coup attempt, the Brixton, Toxteth and Handsworth riots, the Peter Sutcliffe sentence and the Marcus Sarjeant shots at Trooping the Colour, all in texture instead; the first London Marathon of March 29 with 7,500 runners; the DeLorean, the TGV, the John Bull, the F-117 first flight, the first game of paintball and the E-mu Emulator, all in texture instead; the MGM purchase of United Artists, the Marvin Davis purchase of 20th Century Fox, the Avco Embassy sale and the Diana Ross move from Motown to RCA, all in texture instead; Luke and Laura's wedding on General Hospital, in texture instead; crack cocaine first reported in the United States and the Caribbean, which the year page leaves undated; China reaching a population of one billion, which the year page dates only to around the end of the year; the Washington Star ceasing publication on August 7 after 128 years; the Pawtucket and Rochester game of April 18 that ran 33 innings, was suspended after 32 on the morning of April 19 and finished on June 23, because the finish and the record both need three dates to state honestly and the section was already full; the Ric Flair title win of September 17; the Metallica formation of October 28; the Adam Walsh kidnapping and murder; the Atlanta child murders arrest of June 21; the Wonderland murders of July 1; the 1981 Springbok Tour of New Zealand from July 19. Deaths that would have earned a place with more room: Omar N. Bradley on April 8, Robert Moses on July 29, William Wyler on July 27, Paddy Chayefsky on August 1, Harry Chapin on July 16, Hoagy Carmichael on December 27, Jack Albertson on November 25, Edith Head on October 24, Will Durant on November 7, Melvyn Douglas on August 4, Harry Warren on September 22, Samuel Barber on January 23, Mary Lou Williams on May 28, Georges Brassens on October 29, Nelson Algren on May 9, William Saroyan on May 18, Beulah Bondi on January 11, Bernard Lee on January 16, Anwar Sadat on October 6 whose assassination is in world.sadat instead, and Bob Hite of Canned Heat on April 5. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before it reached any other window, which film.how_people_watched states before its sourced specifics about pay cable. That comes out if challenged. Names and titles are written in ASCII per the corpus convention, so Francois Mitterrand, Mehmet Ali Agca, Jozef Pinkowski, Istvan Szabo, Bjorn Borg, Hana Mandlikova, Gregorio Conrado Alvarez, Salvador Sanchez, Wilfredo Gomez and Lech Walesa lose their diacritics. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for, with world and film at 7 each."
+}
