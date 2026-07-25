@@ -1,0 +1,159 @@
+{
+  "year": 1930,
+  "tier": "early",
+  "headline": "Tombaugh found a ninth planet, Gandhi walked to the sea, and the Nazis won a hundred and seven seats",
+  "texture": [
+    "Clyde Tombaugh confirmed a ninth planet on February 18, working from photographs taken in January, and it was named Pluto. Gandhi set off on March 12 with seventy-eight followers to walk two hundred miles to the coast, and in April he broke the salt laws by picking up a handful of it. The National Socialists took a hundred and seven seats in the German federal election on September 14, up from a dozen.",
+    "Hoover signed the Smoot-Hawley Tariff on June 17, raising duties on more than twenty thousand goods while economists begged him not to. The studios instituted the Motion Picture Production Code on March 31 and then spent four years mostly ignoring it. Uruguay hosted and won the first World Cup, beating Argentina four to two in the final on July 30.",
+    "The year's second-biggest picture was Check and Double Check, built around the radio act Amos 'n' Andy and played by two white performers in blackface. Whoopee! outsold it and All Quiet on the Western Front came third, then won Best Picture. William Howard Taft died in March, the only man to have been both president and chief justice, and D. H. Lawrence died the same month."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.smoot_hawley",
+    "world.pluto",
+    "world.salt_march",
+    "world.german_election",
+    "film.gross#0",
+    "film.best_picture"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Herbert Hoover (R)",
+      "detail": "Second year in office, with the downturn deepening.",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "pol.smoot_hawley": {
+      "section": "politics",
+      "label": "Smoot-Hawley Tariff",
+      "value": "Hoover signed it, raising duties on more than twenty thousand imported goods",
+      "date": "1930-06-17",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "world.pluto": {
+      "section": "world",
+      "label": "Pluto discovered",
+      "value": "Clyde Tombaugh confirmed a ninth planet at Lowell Observatory from photographs taken in January",
+      "date": "1930-02-18",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "world.salt_march": {
+      "section": "world",
+      "label": "Salt March",
+      "value": "Gandhi walked two hundred miles to the sea with seventy-eight followers, then broke the salt laws in April",
+      "detail": "He had told the Viceroy in advance that civil disobedience would begin.",
+      "date": "1930-03-12",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "world.german_election": {
+      "section": "world",
+      "label": "German federal election",
+      "value": "The National Socialists won 107 seats in the Reichstag",
+      "date": "1930-09-14",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Whoopee!, $2,655,000, United Artists",
+        "Check and Double Check, $1,751,000, RKO",
+        "All Quiet on the Western Front, $1,634,000, Universal",
+        "Hell's Angels, $1,600,000, United Artists",
+        "The Big House, $1,279,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1930_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "All Quiet on the Western Front",
+      "detail": "Third at the box office as well.",
+      "source": "https://en.wikipedia.org/wiki/3rd_Academy_Awards"
+    },
+    "film.hays_code": {
+      "section": "film",
+      "label": "Motion Picture Production Code",
+      "value": "The studios instituted the Hays Code, setting out what a film could show",
+      "detail": "Enforcement was weak for the first few years.",
+      "date": "1930-03-31",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre with sound, which most had by now. Silent production had essentially stopped.",
+      "source": "https://en.wikipedia.org/wiki/1930_in_film"
+    },
+    "radio.amos_andy": {
+      "section": "radio",
+      "label": "Radio's reach into film",
+      "value": "Check and Double Check put the radio act Amos 'n' Andy on screen, played by two white performers in blackface, and it was the year's second-biggest film",
+      "source": "https://en.wikipedia.org/wiki/1930_in_film"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The second year of the slump, when it was still possible to think of it as a bad patch rather than a decade."
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "First World Cup",
+      "value": "Uruguay beat Argentina four to two in the final at Montevideo",
+      "detail": "The tournament began on July 13, when Lucien Laurent scored the first goal in the competition's history.",
+      "date": "1930-07-30",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Philadelphia Athletics beat the St. Louis Cardinals",
+      "detail": "Played October 1 to 8.",
+      "source": "https://en.wikipedia.org/wiki/1930_in_sports"
+    },
+    "deaths.taft": {
+      "section": "deaths",
+      "label": "William Howard Taft",
+      "value": "Died March 8. Born 1857",
+      "detail": "27th president of the United States and later chief justice, the only person to hold both offices.",
+      "date": "1930-03-08",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "deaths.lawrence": {
+      "section": "deaths",
+      "label": "D. H. Lawrence",
+      "value": "Died March 2. Born 1885",
+      "detail": "British writer.",
+      "date": "1930-03-02",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "deaths.balfour": {
+      "section": "deaths",
+      "label": "Arthur Balfour",
+      "value": "Died March 19",
+      "detail": "British statesman and former prime minister.",
+      "date": "1930-03-19",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "deaths.primo_de_rivera": {
+      "section": "deaths",
+      "label": "Miguel Primo de Rivera",
+      "value": "Died March 16",
+      "detail": "Spanish general who had ruled as prime minister until the previous year.",
+      "date": "1930-03-16",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    },
+    "deaths.felton": {
+      "section": "deaths",
+      "label": "Rebecca Latimer Felton",
+      "value": "Died January 24",
+      "detail": "American writer, lecturer and politician.",
+      "date": "1930-01-24",
+      "source": "https://en.wikipedia.org/wiki/1930"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Taft's birth year and the Smoot-Hawley economists' petition are general knowledge of those subjects rather than claims from the year pages, and come out if challenged. The Nazi seat count rising from a dozen is stated as an increase without giving the previous figure, which the source does not."
+}

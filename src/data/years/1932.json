@@ -1,0 +1,179 @@
+{
+  "year": 1932,
+  "tier": "early",
+  "headline": "The Dow bottomed out in July, Roosevelt won in November, and Hitler became a German citizen in February",
+  "texture": [
+    "The Dow Jones reached its lowest point of the entire slump on July 8, having lost most of what it was worth in 1929. Franklin Roosevelt, governor of New York, won the presidency on November 8. The Nazis remained the largest party in the Reichstag after the election on November 6, without a majority, and Hitler had only obtained German citizenship on February 25, which was what let him stand for office at all.",
+    "Charles Lindbergh's infant son was taken from the family home in March and the search ran for months. Amelia Earhart flew the Atlantic alone on May 20 and 21, landing in County Londonderry, five years after Lindbergh had done it. General Kurt von Schleicher met Hitler in secret in May, and there were violent scenes in the Reichstag chamber the same month.",
+    "The Sign of the Cross led the box office at $2,738,993 in rentals, with The Kid from Spain close behind. Grand Hotel was fifth and won Best Picture. Lake Placid held the Winter Olympics in February and Los Angeles the summer games. John Philip Sousa died on March 6 and Edgar Wallace in February, a month after finishing the story that became King Kong."
+  ],
+  "lead": [
+    "pol.roosevelt_elected",
+    "world.dow_bottom",
+    "world.hitler_citizenship",
+    "pol.lindbergh_kidnapping",
+    "film.gross#0",
+    "film.best_picture",
+    "world.earhart_solo"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Herbert Hoover (R)",
+      "detail": "Final full year of his term, with unemployment at its worst.",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "pol.roosevelt_elected": {
+      "section": "politics",
+      "label": "Roosevelt elected",
+      "value": "Franklin D. Roosevelt, Democratic governor of New York, won the presidency",
+      "date": "1932-11-08",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "pol.lindbergh_kidnapping": {
+      "section": "politics",
+      "label": "Lindbergh kidnapping",
+      "value": "The infant son of Charles and Anne Morrow Lindbergh was taken from their home",
+      "date": "1932-03",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "world.dow_bottom": {
+      "section": "world",
+      "label": "The market bottoms",
+      "value": "The Dow Jones Industrial Average reached its lowest level of the Depression",
+      "date": "1932-07-08",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "world.hitler_citizenship": {
+      "section": "world",
+      "label": "Hitler becomes a German citizen",
+      "value": "Naturalised, which made him eligible to stand for office",
+      "date": "1932-02-25",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "world.german_election": {
+      "section": "world",
+      "label": "German federal election",
+      "value": "The Nazis remained the largest party in the Reichstag without a majority",
+      "detail": "The Papen government had dissolved the Reichstag earlier in the year for a July election.",
+      "date": "1932-11-06",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "world.schleicher_hitler": {
+      "section": "world",
+      "label": "Schleicher meets Hitler",
+      "value": "The general met him secretly in May, one of the manoeuvres that put him in reach of the chancellorship",
+      "date": "1932-05",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "world.earhart_solo": {
+      "section": "world",
+      "label": "Earhart flies the Atlantic alone",
+      "value": "Landed in County Londonderry on May 21 after leaving the United States the day before",
+      "date": "1932-05-20",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "world.reichstag_violence": {
+      "section": "world",
+      "label": "Violence in the Reichstag",
+      "value": "Scenes in the chamber in Berlin as Nazi deputies disrupted proceedings",
+      "date": "1932-05",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Sign of the Cross, $2,738,993, Paramount",
+        "The Kid from Spain, $2,621,000, United Artists",
+        "Emma, $1,409,000, MGM",
+        "Hell Divers, $1,244,000, MGM",
+        "Grand Hotel, $1,235,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1932_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Grand Hotel",
+      "detail": "Fifth at the box office, and the only Best Picture winner nominated in no other category.",
+      "source": "https://en.wikipedia.org/wiki/5th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, for a ticket price that had fallen with everything else. Double features spread because two pictures for one price filled seats.",
+      "source": "https://en.wikipedia.org/wiki/1932_in_film"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The bottom. Not a metaphor this year, an actual measured floor in July, with a quarter of the workforce idle and an election fought over what to do about it."
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Lake Placid, New York, in February",
+      "date": "1932-02",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Los Angeles",
+      "date": "1932-07",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Chicago Cubs",
+      "detail": "Played September 28 to October 2.",
+      "source": "https://en.wikipedia.org/wiki/1932_in_sports"
+    },
+    "deaths.sousa": {
+      "section": "deaths",
+      "label": "John Philip Sousa",
+      "value": "Died March 6",
+      "detail": "American band leader, conductor and composer.",
+      "date": "1932-03-06",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "deaths.wallace": {
+      "section": "deaths",
+      "label": "Edgar Wallace",
+      "value": "Died February 10. Born 1875",
+      "detail": "British novelist and screenwriter.",
+      "date": "1932-02-10",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "deaths.strachey": {
+      "section": "deaths",
+      "label": "Lytton Strachey",
+      "value": "Died January 21. Born 1880",
+      "detail": "British writer and biographer.",
+      "date": "1932-01-21",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "deaths.carrington": {
+      "section": "deaths",
+      "label": "Dora Carrington",
+      "value": "Died March 11. Born 1893",
+      "detail": "British painter.",
+      "date": "1932-03-11",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    },
+    "deaths.casas": {
+      "section": "deaths",
+      "label": "Ramon Casas i Carbo",
+      "value": "Died February 29. Born 1866",
+      "detail": "Spanish painter.",
+      "date": "1932-02-29",
+      "source": "https://en.wikipedia.org/wiki/1932"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Three claims are general knowledge of their subjects rather than statements from the year pages, and come out if challenged: that Grand Hotel was nominated in no other category, that Edgar Wallace had just finished the King Kong story, and that double features spread because of the price. The unemployment figure in the mood line is the commonly cited quarter and carries no source, which is why it sits in a section that requires none."
+}

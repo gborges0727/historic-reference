@@ -29,6 +29,8 @@ Generated era prose drifts toward the same observations for every year. The vali
 - No sentence whose only job is to introduce the next one.
 - Plain noun headers. Not "The year everything changed."
 
+Do not restate the fact list in prose. The box office fact already carries the title and the amount, so a texture sentence that says the same thing in words adds nothing and pulls every year toward the same sentence. The overlap check caught this twice in the first eighteen years, both times on a box office opener. Texture carries what a fact cannot: why a thing was strange, what it sat next to, what it cost someone.
+
 Before finishing a texture pass, go paragraph by paragraph and name the specific detail each one carries. A paragraph you cannot point to a detail in is filler.
 
 ## Data files

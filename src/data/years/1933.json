@@ -1,0 +1,172 @@
+{
+  "year": 1933,
+  "tier": "early",
+  "headline": "Hitler took the chancellorship in January, Roosevelt closed the banks in March, and Prohibition ended in December",
+  "texture": [
+    "Hindenburg appointed Hitler chancellor in January. The Reichstag burned on February 27 and the powers taken in response never came back. The Nazis won 43.9 percent in the March election, Dachau was completed on March 20, and by the end of the year there was no other legal party. Hitler had given a secret speech to his military leaders on February 3 setting out what he intended.",
+    "Roosevelt was sworn in on March 4 and closed every bank in the country days later. When they reopened, the Dow rose 15.34 percent in a single session, which stood as a record. The Civilian Conservation Corps was established on March 31 to put young men to work in the forests. The Twenty-first Amendment was ratified on December 5 and Prohibition ended after thirteen years.",
+    "Mae West had two of the four biggest pictures, I'm No Angel and She Done Him Wrong. Roman Scandals finished first and King Kong opened on March 2. Cavalcade won Best Picture. Calvin Coolidge died on January 5, four years out of office, and John Galsworthy at the end of the same month."
+  ],
+  "lead": [
+    "pol.fdr_inaugurated",
+    "world.hitler_chancellor",
+    "world.reichstag_fire",
+    "pol.prohibition_repealed",
+    "film.gross#0",
+    "film.king_kong",
+    "pol.ccc"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Herbert Hoover (R) until March 4, then Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "pol.fdr_inaugurated": {
+      "section": "politics",
+      "label": "Roosevelt sworn in",
+      "value": "Became the 32nd president and declared a bank holiday within days, closing every bank in the country",
+      "detail": "When trading resumed the Dow rose from 53.84 to 62.10, a gain of 15.34 percent in one session.",
+      "date": "1933-03-04",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "pol.ccc": {
+      "section": "politics",
+      "label": "Civilian Conservation Corps",
+      "value": "Established as an unemployment relief programme putting young men to work on public land",
+      "date": "1933-03-31",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "pol.prohibition_repealed": {
+      "section": "politics",
+      "label": "Prohibition repealed",
+      "value": "The Twenty-first Amendment was ratified, ending it after thirteen years",
+      "detail": "The Blaine Act had passed the Senate on February 17.",
+      "date": "1933-12-05",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "world.hitler_chancellor": {
+      "section": "world",
+      "label": "Hitler appointed chancellor",
+      "value": "Named by President Hindenburg in January",
+      "detail": "He gave a proclamation to the German people in Berlin on February 1 and a secret speech to his military leaders on February 3.",
+      "date": "1933-01",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "world.reichstag_fire": {
+      "section": "world",
+      "label": "Reichstag fire",
+      "value": "The German parliament building burned in Berlin",
+      "detail": "The emergency powers taken in response were never given back.",
+      "date": "1933-02-27",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "world.german_election": {
+      "section": "world",
+      "label": "German federal election",
+      "value": "The Nazi Party took 43.9 percent of the vote",
+      "date": "1933-03",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "world.dachau": {
+      "section": "world",
+      "label": "Dachau completed",
+      "value": "The first Nazi concentration camp was finished in Germany",
+      "date": "1933-03-20",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Roman Scandals, $2,443,000, United Artists",
+        "I'm No Angel, $2,250,000, Paramount",
+        "Gold Diggers of 1933, $2,202,000, Warner Bros.",
+        "She Done Him Wrong, $2,200,000, Paramount",
+        "The Bowery, $2,000,000, United Artists"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Mae West starred in two of the top four.",
+      "source": "https://en.wikipedia.org/wiki/1933_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Cavalcade",
+      "source": "https://en.wikipedia.org/wiki/6th_Academy_Awards"
+    },
+    "film.king_kong": {
+      "section": "film",
+      "label": "King Kong released",
+      "value": "Directed by Merian C. Cooper and starring Fay Wray",
+      "date": "1933-03-02",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, often on a double bill, at the cheapest ticket prices the business would ever charge.",
+      "source": "https://en.wikipedia.org/wiki/1933_in_film"
+    },
+    "radio.fireside_chats": {
+      "section": "radio",
+      "label": "Roosevelt on the radio",
+      "value": "He began addressing the country directly by radio in the week he took office, starting with the banking crisis",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two governments taking emergency powers in the same spring, one to reopen banks and one to abolish opposition, and a country that could legally buy a drink again by Christmas."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Giants beat the Washington Senators",
+      "detail": "Played October 3 to 7.",
+      "source": "https://en.wikipedia.org/wiki/1933_in_sports"
+    },
+    "deaths.coolidge": {
+      "section": "deaths",
+      "label": "Calvin Coolidge",
+      "value": "Died January 5. Born 1872",
+      "detail": "30th president of the United States.",
+      "date": "1933-01-05",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "deaths.galsworthy": {
+      "section": "deaths",
+      "label": "John Galsworthy",
+      "value": "Died January 31. Born 1867",
+      "detail": "British writer and Nobel laureate.",
+      "date": "1933-01-31",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "deaths.brooks": {
+      "section": "deaths",
+      "label": "Harriet Brooks",
+      "value": "Died April 17. Born 1876",
+      "detail": "Canadian physicist.",
+      "date": "1933-04-17",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "deaths.brum": {
+      "section": "deaths",
+      "label": "Baltasar Brum",
+      "value": "Died March 31. Born 1883",
+      "detail": "President of Uruguay.",
+      "date": "1933-03-31",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    },
+    "deaths.hiers": {
+      "section": "deaths",
+      "label": "Walter Hiers",
+      "value": "Died February 27. Born 1893",
+      "detail": "American actor.",
+      "date": "1933-02-27",
+      "source": "https://en.wikipedia.org/wiki/1933"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. The fireside chat fact is dated only to the week Roosevelt took office because the source does not give the broadcast date. Hitler's appointment carries a month rather than a day for the same reason. The claim that the March Dow gain stood as a record, and that no other German party remained legal by year end, are general knowledge rather than statements from the year pages."
+}
