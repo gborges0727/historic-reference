@@ -151,16 +151,24 @@ export function openWindows(year) {
 /**
  * Facts grouped for rendering: section order preserved, empty sections dropped,
  * lead facts excluded because the page prints those above in their own treatment.
+ *
+ * A promotion to the lead must not delete a section from the page. When a section's
+ * only fact is the promoted one, it stays, because otherwise a 1938 page with one
+ * radio fact and one prices fact in the lead shows neither section and reads as a
+ * year with no radio and no wages. Duplicating one row is the cheaper error.
  */
 export function groupFacts(facts, { exclude = [] } = {}) {
   const skip = new Set(exclude);
-  return SECTION_ORDER.map((section) => ({
-    section,
-    title: SECTION_TITLES[section],
-    facts: Object.entries(facts)
-      .filter(([id, fact]) => fact.section === section && !skip.has(id))
-      .map(([id, fact]) => ({ id, ...fact })),
-  })).filter((group) => group.facts.length > 0);
+  return SECTION_ORDER.map((section) => {
+    const inSection = Object.entries(facts).filter(([, fact]) => fact.section === section);
+    const kept = inSection.filter(([id]) => !skip.has(id));
+    const use = kept.length > 0 ? kept : inSection;
+    return {
+      section,
+      title: SECTION_TITLES[section],
+      facts: use.map(([id, fact]) => ({ id, ...fact })),
+    };
+  }).filter((group) => group.facts.length > 0);
 }
 
 export { tierFor };
