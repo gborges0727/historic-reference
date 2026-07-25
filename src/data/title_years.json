@@ -3,6 +3,7 @@
   "why": "Film titles that contain a year later than the year they were released in. The anachronism check exists to catch a hallucinated future date, and a title is not a date, so each of these is an exemption from that check and has to be justified one at a time. Adding an entry means asserting that the string is a real title and that the year inside it is part of the name. The revue convention, where a 1935 page lists Broadway Melody of 1936, is handled generatively by the 'of YYYY' rule in validate-data.mjs and does not need entries here.",
   "rules": "The year inside the title must sit next to enough other text to be unmistakable. A film titled only with a bare number cannot be exempted this way, because the string is indistinguishable from a stray year, and one of those is exactly what the check is looking for. If such a title comes up, quote it in the year's notes and leave the check failing rather than widening this list to a bare number.",
   "titles": [
-    "2001: A Space Odyssey"
+    "2001: A Space Odyssey",
+    "Airport 1975"
   ]
 }

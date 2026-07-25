@@ -1,0 +1,498 @@
+{
+  "year": 1976,
+  "tier": "broadcast",
+  "headline": "Jimmy Carter beat Gerald Ford in November, the United States turned 200 on July 4, and Mao Zedong died in Beijing",
+  "texture": [
+    "A supporting cable broke above Cavalese in the Italian Alps on March 9 and 43 people died in the falling cable car. The Teton Dam in southeast Idaho gave way on June 5 and killed 11. The Big Thompson River flooded in northern Colorado on July 31, destroying more than 400 cars and houses and killing 143 people. A British Airways Trident and a Yugoslav DC-9 collided near Zagreb on September 10 and all 176 aboard died. The Mississippi River ferry MV George Prince was struck by a ship on October 20 while crossing from Destrehan to Luling in Louisiana, and 78 passengers and crew were killed.",
+    "Delegates at an American Legion convention in the Bellevue-Stratford Hotel in Philadelphia began falling ill with pneumonia on July 27, and 29 of them died of what was later recognised as Legionnaires' disease. The first known case of Ebola was recorded at Nzara in Sudan on June 27, and a second outbreak came at Yambuku in Zaire on August 26. Twenty-six Chowchilla schoolchildren and their bus driver were abducted on July 15 and buried in a box truck in a Livermore quarry, and the captives dug themselves free after 16 hours.",
+    "Anita Roddick opened the first Body Shop in Brighton on March 26. Price Club, a membership-only retailer, was founded in California on July 12. The first 7.4 kilometres of the Washington Metro opened on March 27, the CN Tower opened to the public in Toronto on June 26, and the InterCity 125 was introduced in the United Kingdom on October 4 with services starting two days later. Bandits took A$1.4 million in bookmakers' settlements from Queen Street in Melbourne on April 21, and Albert Spaggiari's gang broke into the vault of the Societe Generale bank in Nice between July 16 and 20.",
+    "Bill Sargent offered the Beatles $30 million on January 19 to reunite for one concert, and on April 24 Lorne Michaels offered them $3,000 on Saturday Night Live, raised to $3,200 on the May 22 show. EMI reissued all 22 previously released British Beatles singles on March 6 along with a new single of Yesterday, and all 23 charted at once. Bruce Springsteen jumped the wall at Graceland on April 29 and was escorted off by guards, and Jerry Lee Lewis was arrested outside the same gates on November 23 waving a pistol and demanding to see Elvis Presley."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.us_election",
+    "culture.bicentennial",
+    "world.tangshan_earthquake",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Gerald Ford (R)",
+      "detail": "Nelson Rockefeller was Vice President, Warren E. Burger was Chief Justice, Carl Albert was Speaker of the House and Mike Mansfield was Senate majority leader. The 94th Congress was in session. The US year page gives Ford as a Republican of Michigan, Rockefeller as a Republican of New York, Albert as a Democrat of Oklahoma and Mansfield as a Democrat of Montana.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_the_United_States"
+    },
+    "pol.us_election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Jimmy Carter of Georgia beat the incumbent Gerald Ford with 297 electoral votes and 40,831,881 popular votes against Ford's 240 and 39,148,634, and became the first candidate from the Deep South to win since the Civil War",
+      "detail": "The date carries a checkable constitutional constraint and it holds. November 1 fell on a Monday, so the first Monday was November 1 and the Tuesday after it was November 2, which is the date both cached year pages give and the date the dedicated election article gives. That article is cited here because neither year page carries a single figure. It adds that Carter took 23 states and the District of Columbia against Ford's 27, that turnout was 54.8 percent, that Carter's margin in the national popular vote was two percentage points, and that a Republican elector in Washington, Mike Padden, voted for Ronald Reagan for president instead of Ford, which is why Ford finished on 240 rather than the 241 he was pledged. Walter Mondale was Carter's running mate and Bob Dole was Ford's. NBC called the result at 3:30 am eastern time once Carter had carried Mississippi, ABC seconds later, and CBS at 3:45 am. The two year pages differ only in wording: the year page says Carter narrowly defeats Ford and the US year page drops the adverb.",
+      "date": "1976-11-02",
+      "source": "https://en.wikipedia.org/wiki/1976_United_States_presidential_election"
+    },
+    "pol.carter_nomination": {
+      "section": "politics",
+      "label": "Carter nominated at the Democratic National Convention",
+      "value": "Nominated for president at the convention in New York City, having won the Iowa Democratic caucus on January 19",
+      "detail": "Barbara Jordan became the first African American to keynote a political convention on July 12, three days before the nomination.",
+      "date": "1976-07-15",
+      "source": "https://en.wikipedia.org/wiki/1976_in_the_United_States"
+    },
+    "pol.ford_nomination": {
+      "section": "politics",
+      "label": "Ford edges Reagan for the Republican nomination",
+      "value": "Won the nomination at Kansas City, Missouri after beating Reagan in the Kentucky, Tennessee and Oregon primaries on May 25",
+      "detail": "Reagan announced the liberal senator Richard Schweiker as his running mate on July 26, in an effort to draw moderate Republican delegates away from Ford.",
+      "date": "1976-08-19",
+      "source": "https://en.wikipedia.org/wiki/1976_in_the_United_States"
+    },
+    "pol.gregg_v_georgia": {
+      "section": "politics",
+      "label": "Gregg v. Georgia restores the death penalty",
+      "value": "The Supreme Court ruled that the death penalty is not inherently cruel or unusual and is a constitutionally acceptable form of punishment, overturning Furman v. Georgia of 1972",
+      "detail": "The US year page's list of ongoing conditions marks capital punishment as suspended by Furman v. Georgia from 1972 until this year.",
+      "date": "1976-07-03",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "pol.copyright_act": {
+      "section": "politics",
+      "label": "Copyright Act of 1976",
+      "value": "Extended the duration of copyright in the United States",
+      "detail": "The two cached year pages give the extension differently. The year page says an additional 19 years and the US year page says an additional 20, so this fact names both rather than choosing one. Both date it October 19, and neither says what the term was extended from.",
+      "date": "1976-10-19",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.china": {
+      "section": "world",
+      "label": "Zhou Enlai dies and the Cultural Revolution ends",
+      "value": "Zhou Enlai, the first Premier of China, died on January 8, crowds laid wreaths at Beijing's Monument of the Martyrs on April 5 to commemorate him in what became the Tiananmen Incident, and the Cultural Revolution concluded on October 6 with the capture of the Gang of Four",
+      "detail": "Poems against the Gang of Four were displayed at the Monument of the Martyrs alongside the wreaths and provoked a police crackdown. A concealed bomb exploded at the gates of the Soviet embassy in China on April 29, killing four Chinese, which the year page files under the Sino-Soviet split.",
+      "date": "1976-01-08",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.tangshan_earthquake": {
+      "section": "world",
+      "label": "Tangshan earthquake",
+      "value": "The earthquake flattened Tangshan in China, killing 242,769 people and injuring 164,851",
+      "detail": "The year page's lead image caption rounds the toll to over 240,000 while the July entry on the same page gives the exact figures used here. Neither figure carries a magnitude on any cached page.",
+      "date": "1976-07-28",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.soweto_uprising": {
+      "section": "world",
+      "label": "Soweto uprising begins",
+      "value": "The uprising against apartheid began in Soweto, South Africa",
+      "detail": "The year page carries the start as a single line with no toll and no account of what set it off, and its lead image montage includes a photograph filed as Mbuyisa Makhubu carrying Hector Pieterson at the Soweto uprising. Transkei gained independence from South Africa on October 26, which the year page writes inside quotation marks.",
+      "date": "1976-06-16",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.entebbe": {
+      "section": "world",
+      "label": "Air France hijacking and the Entebbe raid",
+      "value": "Palestinian militants hijacked an Air France plane in Greece on June 27 with 246 passengers and 12 crew and took it to Entebbe in Uganda, and Israeli airborne commandos freed 103 hostages there on July 4",
+      "detail": "Yonatan Netanyahu and several Ugandan soldiers were killed in the raid. The United Kingdom broke diplomatic relations with Uganda on July 27 over the hijacking of Air France Flight 139.",
+      "date": "1976-06-27",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.argentina_coup": {
+      "section": "world",
+      "label": "Argentine coup deposes Isabel Peron",
+      "value": "Military forces deposed the president on March 24, and the military dictatorship of General Jorge Rafael Videla came to power on March 29",
+      "detail": "A series of kidnappings and forced disappearances of students under the dictatorship, followed by torture, rape and murder, began with the Night of the Pencils on September 16.",
+      "date": "1976-03-24",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.earthquakes": {
+      "section": "world",
+      "label": "Other major earthquakes",
+      "value": [
+        "Guatemala, February 4, magnitude 7.5, affecting Guatemala and Honduras, 23,000 dead and 76,000 injured",
+        "Friuli, Italy, May 6, more than 900 dead and 100,000 left homeless",
+        "Moro Gulf, Philippines, August 17, magnitude 8.0 off the coast of Mindanao, a destructive tsunami, between 5,000 and 8,000 dead and more than 90,000 homeless",
+        "Caldiran and Muradiye, eastern Turkey, November 24, magnitude 7.3, between 4,000 and 5,000 dead"
+      ],
+      "detail": "The year page glosses the Guatemalan shaking's maximum Mercalli intensity of IX as Violent, gives the Guatemalan and Moro Gulf magnitudes on the moment scale and the Turkish one on the surface-wave scale, and gives no magnitude at all for Friuli.",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "James Callaghan became Prime Minister of the United Kingdom on April 5, after Harold Wilson resigned on March 16",
+        "Jacques Chirac resigned as Prime Minister of France on August 25 and Raymond Barre succeeded him",
+        "Thorbjorn Falldin replaced Olof Palme as Prime Minister of Sweden, October 8",
+        "Jose Lopez Portillo took office as President of Mexico, December 1",
+        "Patrick Hillery was sworn in as the 6th President of Ireland on December 3, after Cearbhall O Dalaigh resigned on October 22"
+      ],
+      "detail": "O Dalaigh resigned after being publicly insulted by the Minister for Defence. General elections in Italy on June 20 produced the Communist Party's best result in a general election, and the Japanese general election of December 5 cost the Liberal Democratic Party its majority in the 511-member House of Representatives while leaving it the largest party with 249 seats. Seychelles became independent of the United Kingdom on June 29 and joined the United Nations on September 21, and Trinidad and Tobago became a republic on August 1 with President Ellis Clarke replacing Elizabeth II as head of state.",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Rocky, $55,900,000, United Artists",
+        "A Star Is Born, $37,100,000, Warner Bros.",
+        "King Kong, $36,900,000, Paramount",
+        "Silver Streak, $30,018,000, 20th Century Fox",
+        "All the President's Men, $30,000,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor's share rather than the ticket window total, so roughly half what a gross figure would say. The column header reads Domestic rentals while the line introducing the table calls the entries the top ten films by box office gross in North America, and this file goes by the header. The Omen took sixth at $28,500,000 for 20th Century Fox, The Bad News Bears seventh at $24,800,000 for Paramount, The Enforcer eighth at $24,000,000 for Warner Bros., In Search of Noah's Ark ninth at $23,800,000 for Sunn Classic, and Midway tenth at $21,610,435 for Universal. Eight of the ten figures are round to the nearest hundred thousand, Silver Streak's $30,018,000 is round to the nearest thousand, and Midway's $21,610,435 is exact to the dollar.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Rocky, produced by Robert Chartoff and Irwin Winkler",
+      "detail": "Awarded the following spring at the 49th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Richard Pryor, Ellen Burstyn, Jane Fonda and Warren Beatty. Network and All the President's Men each won four awards, the most of the evening, and both lost Best Picture, Best Director and Best Film Editing to Rocky. Network and Rocky led on nominations with ten each. John G. Avildsen won Best Director, Paddy Chayefsky took his third solo writing Oscar for the Network screenplay, and William Goldman won the adapted screenplay award for All the President's Men. Sylvester Stallone was nominated for both writing and acting for Rocky, the first person since Orson Welles to be nominated for both on one film, and lost in both categories to Network. No honorary awards were given.",
+      "source": "https://en.wikipedia.org/wiki/49th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Peter Finch, Network, awarded posthumously",
+        "Best Actress, Faye Dunaway, Network",
+        "Best Supporting Actor, Jason Robards, All the President's Men, as Ben Bradlee",
+        "Best Supporting Actress, Beatrice Straight, Network"
+      ],
+      "detail": "Finch was the first posthumous acting winner. He died of a heart attack between the end of the year and the ceremony, so no date for it appears here. Straight set a record for the shortest performance ever to win an acting Oscar, with five minutes and two seconds of screen time. Network was the second film after A Streetcar Named Desire to win three acting awards, and it took nominations in all four acting categories with five nominated performances. Piper Laurie was nominated for Carrie, her first film role since her Best Actress nomination for The Hustler fifteen years earlier, and Jodie Foster was nominated for Taxi Driver.",
+      "source": "https://en.wikipedia.org/wiki/49th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Black and White in Color, Cote d'Ivoire, winner of the Academy Award for Best Foreign Language Film",
+        "Cousin Cousine, France",
+        "Jacob the Liar, East Germany",
+        "Nights and Days, Poland",
+        "Seven Beauties, Italy"
+      ],
+      "detail": "These are the five Foreign Language Film nominees, which is where the Academy Awards page states each film's country. Lina Wertmuller became the first woman nominated for Best Director, for Seven Beauties, which was also nominated in the foreign language category. Both festival prizes went to American films, the Palme d'Or at Cannes to Taxi Driver directed by Martin Scorsese and the Golden Bear at Berlin to Buffalo Bill and the Indians, or Sitting Bull's History Lesson directed by Robert Altman, so the year's festival winners are not entries from outside the United States. The Golden Globe for Best Foreign Language Film went to Ingmar Bergman's Face to Face, which also brought Bergman a Best Director nomination and Liv Ullmann a Best Actress nomination. Marie-Christine Barrault was nominated for Best Actress for Cousin Cousine and Giancarlo Giannini for Best Actor for Seven Beauties.",
+      "source": "https://en.wikipedia.org/wiki/49th_Academy_Awards"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases and productions",
+      "value": [
+        "Family Plot, April 9, Alfred Hitchcock's last film",
+        "The Shootist, August 11, John Wayne's final film appearance",
+        "Rocky, November 21, the first in the film series",
+        "Carrie, November 3, a Brian De Palma horror film premiered in 17 theatres in the Washington and Baltimore area",
+        "Bound for Glory, December 5, the first film in which Garrett Brown used his new Steadicam"
+      ],
+      "detail": "Filming on George Lucas's Star Wars began on March 22, and Lucas gave up his directing fee of $500,000 in exchange for complete ownership of the merchandising and sequel rights. The film page notes that the Steadicam had already been seen in Marathon Man and Rocky, which were shot later than Bound for Glory and released earlier. The Carrie premiere date and theatre count come from the year page, which cites a Variety report; the film page carries neither.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The Rocky Horror Picture Show was re-released as a midnight movie at the Waverly Theater in Greenwich Village on April 1, and King Kong opened on December 17 to the year's highest opening weekend gross.",
+      "detail": "Paramount set up a separate motion picture division in January under David V. Picker, Alan Ladd Jr. was promoted from head of worldwide production to president of 20th Century Fox's film division on August 26, and Michael Eisner was brought in as president and chief executive of Paramount Pictures on November 15.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.13",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1976",
+      "value": [
+        "Happy Days, ABC, 31.5 rating",
+        "Laverne & Shirley, ABC, 30.9",
+        "ABC Monday Night Movie, ABC, 26.0",
+        "M*A*S*H, CBS, 25.9",
+        "Charlie's Angels, ABC, 25.8"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. ABC held seven of the top eleven places. Three programmes tied for eighth on a 23.4, the ABC Sunday Night Movie, Baretta on ABC and One Day at a Time on CBS. Three's Company was eleventh at 23.1, All in the Family twelfth at 22.9, 60 Minutes and Hawaii Five-O tied for eighteenth on a 21.9, and Monday Night Football was twenty-second at 21.2.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1976%E2%80%9377"
+    },
+    "tv.presidential_debates": {
+      "section": "tv",
+      "label": "Ford and Carter debate on television",
+      "value": "The two men debated in prime time on September 23, October 6 and October 22, the first debates between major party nominees for president since 1960 and the first ever televised in colour",
+      "detail": "Pauline Frederick moderated the second debate, in which Ford declared that there is no Soviet domination of Eastern Europe, a statement the year page flags as untrue at the time. Barbara Walters of ABC moderated the third. The first vice presidential debate in the United States took place on October 15 between the senators Bob Dole and Walter Mondale.",
+      "date": "1976-09-23",
+      "source": "https://en.wikipedia.org/wiki/1976_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Bionic Woman, ABC, January 14",
+        "Laverne & Shirley, ABC, January 27",
+        "The Gong Show, NBC, June 14",
+        "Family Feud, ABC, July 12",
+        "Alice, CBS, August 31",
+        "The Muppet Show, syndication, September 20",
+        "Charlie's Angels, ABC, September 22",
+        "Quincy, M.E., NBC, October 3"
+      ],
+      "detail": "Sixteen programmes started on September 11 alone, most of them Saturday morning children's shows, among them The Scooby-Doo/Dynomutt Hour and Electra Woman and Dyna Girl on ABC and Ark II on CBS. What's Happening!! began on ABC on August 5 and In Search of... went into syndication on September 6. Marcus Welby, M.D. ended on July 29 and Medical Center on September 6, both having debuted in 1969, and Mister Rogers' Neighborhood stopped on February 20.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_American_television"
+    },
+    "tv.superstation": {
+      "section": "tv",
+      "label": "The first superstation",
+      "value": "WTCG-TV in Atlanta began transmitting its regular programming by satellite to four cable systems at 1:00 pm eastern time",
+      "detail": "The pay television network Showtime had made its debut on July 1, carried on a single cable system in Dublin, California.",
+      "date": "1976-12-17",
+      "source": "https://en.wikipedia.org/wiki/1976_in_American_television"
+    },
+    "tv.gone_with_the_wind": {
+      "section": "tv",
+      "label": "Gone with the Wind on network television",
+      "value": "NBC showed the film across two nights, November 7 and 8, and the television page calls it the highest-rated program ever aired on a single network",
+      "detail": "The Carol Burnett Show broadcast a parody of it called Went with the Wind! on November 13, five days after the second part, and TV Guide later ranked the sketch 53rd on its list of the top 100 episodes of all time. The Sound of Music had been televised for the first time on ABC on February 29.",
+      "date": "1976-11-07",
+      "source": "https://en.wikipedia.org/wiki/1976_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Silly Love Songs, Wings",
+        "Don't Go Breaking My Heart, Elton John and Kiki Dee",
+        "Disco Lady, Johnnie Taylor",
+        "December, 1963 (Oh, What a Night), The Four Seasons",
+        "Play That Funky Music, Wild Cherry"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 25, compiled from the Hot 100 charts of November 8 the previous year through October 30. Wings had two songs on the list and Elton John two. The music page prints a different reconstruction of the same year-end chart, putting Rod Stewart's Tonight's the Night (Gonna Be Alright) first and Silly Love Songs second, and explains that Billboard's late December print deadline stopped about 60 records from completing their chart runs and pulled in about 50 records whose runs had started the previous year.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1976"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records. Ten Percent by Double Exposure became the first 12-inch single sold to the public rather than pressed only as a promotional copy for disc jockeys.",
+      "detail": "The Eagles' compilation Their Greatest Hits (1971-1975) became the first album certified platinum by the Recording Industry Association of America on February 24, a week after its release, under a new certification set at 1,000,000 copies for an album and 2,000,000 for a single. The music page gives no month or day for the Double Exposure release, listing it among items dated only to the year, and no cached page mentions cassettes or eight-track cartridges as a way of buying music.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_music"
+    },
+    "music.punk": {
+      "section": "music",
+      "label": "Punk records reach the shops",
+      "value": "The Ramones released their first album on April 23, the Damned's New Rose came out on October 22 as what the music page calls the first release from a British punk group, and the Sex Pistols signed to EMI on October 8 and released Anarchy in the U.K. on November 26",
+      "detail": "The 100 Club Punk Festival in London on September 20 and 21 was the first international punk festival, and Siouxsie and the Banshees played their first concert there. The Sex Pistols went on Thames Television's Today on December 1 as a last-minute replacement for Queen and caused a national outcry by swearing on air. Bono, The Edge, Adam Clayton and Larry Mullen Jr. formed a band called Feedback in Dublin on September 25.",
+      "date": "1976-04-23",
+      "source": "https://en.wikipedia.org/wiki/1976_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Frampton Comes Alive!, Peter Frampton, January 15",
+        "Their Greatest Hits (1971-1975), Eagles, February 17",
+        "Boston, Boston, August 25",
+        "Songs in the Key of Life, Stevie Wonder, September 28",
+        "Hotel California, Eagles, December 8"
+      ],
+      "detail": "Stevie Wonder had announced a contract with Motown worth more than $13,000,000 on April 14. The Alan Parsons Project released their first album, Tales of Mystery and Imagination, on May 1, and Bob Dylan's live album Hard Rain came out on September 14, the day his one-hour NBC concert special of the same name went out.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_music"
+    },
+    "tech.computer_companies": {
+      "section": "tech",
+      "label": "Two computer companies founded",
+      "value": [
+        "Apple Computer Company, formed April 1 in California by Steve Jobs and Steve Wozniak",
+        "Microsoft, registered November 26 with the Office of the Secretary of the State of New Mexico"
+      ],
+      "detail": "The video games page dates the Apple founding to the same day and adds Ronald Wayne as a third founder, whom neither year page names. The US year page's own summary lists the incorporation of both companies among the year's major events.",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "tech.cray_1": {
+      "section": "tech",
+      "label": "The Cray-1 supercomputer",
+      "value": "The first commercially developed supercomputer was released by Seymour Cray's Cray Research, and the first purchaser was the Energy Research and Development Administration at Los Alamos, New Mexico",
+      "detail": "No date, because both cached year pages place the release in March without giving a day. Neither page states a price or a speed, and the year page's citation is a wire report headed 100 Million Computations Each Second.",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "tech.viking": {
+      "section": "tech",
+      "label": "Two Viking landers reach Mars",
+      "value": "The Viking 1 lander touched down on Mars on July 20, and Viking 2 entered Mars orbit on August 7 and landed at Utopia Planitia on September 3",
+      "detail": "NASA released the Face on Mars photograph, taken by Viking 1, on July 31. The two cached year pages disagree over which lander returned the first close-up colour photographs of the Martian surface. The US year page credits Viking 1 on July 20 and the year page credits Viking 2 on September 3, and this fact names both rather than choosing one. The first LAGEOS laser geodynamics satellite was launched on May 4 and the space shuttle Enterprise was rolled out of a hangar at Palmdale, California on September 17.",
+      "date": "1976-07-20",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Breakout, Atari's arcade cabinet, shipped in May",
+        "Death Race by Exidy, April, which caused the first controversy over violence in video games after an Associated Press reporter wrote about its imagery",
+        "Coleco's Telstar, June, the most popular dedicated console line of the year at over 1,000,000 units",
+        "Fairchild's Video Entertainment System, November, the first console with programmable cartridges"
+      ],
+      "detail": "The year page dates the Breakout release to May 13 while the games page gives only the month. Atari built about 11,000 Breakout cabinets against 54,000 arcade cabinets sold across the whole United States market, and RePlay's operator survey published in October put Midway's Sea Wolf first and Breakout sixth among arcade games on location. Home consoles sold 3.24 million to 4 million units for $125 million to $225 million at retail. The Video Entertainment System shipped somewhere between 40,000 and 60,000 units depending on which of the games page's two sources is used, and only one of its three launch titles, Videocart-1, was broadly available. Warner Communications bought Atari outright on October 1 in a $28,000,000 deal to buy out the shareholders.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_video_games"
+    },
+    "tech.vhs": {
+      "section": "tech",
+      "label": "VHS home video",
+      "value": "The year page's lead image montage lists the debut of VHS among the year's events",
+      "detail": "That caption is the only place any cached page mentions VHS. It gives no date, no manufacturer and no country, and no other cached page carries the format at all, so this fact claims nothing beyond the debut.",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.61 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$2.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The republic turned two hundred in July and celebrated coast to coast, a Romanian gymnast of fourteen posted the first perfect score in Olympic gymnastics two weeks later, and in November the incumbent who had reached the office through a resignation lost it by two points."
+    },
+    "culture.bicentennial": {
+      "section": "culture",
+      "label": "United States Bicentennial",
+      "value": "The country celebrated the 200th anniversary of the Declaration of Independence from coast to coast, and the Puerto Rican Socialist Party led 50,000 marchers in Philadelphia the same day to demand a Bicentennial Without Colonies and independence for Puerto Rico",
+      "detail": "The Treasury Department had reintroduced the two-dollar bill as a Federal Reserve Note on April 13, Thomas Jefferson's 233rd birthday, as part of the celebration. The television networks carried extensive coverage of the day. Elton John played to 62,000 at Shaffer Stadium in Foxboro, the Eagles and Fleetwood Mac to 36,000 at Tampa Stadium, Lynyrd Skynyrd and ZZ Top to 35,000 at Memphis Memorial Stadium, and Elvis Presley to 11,974 at the Mabee Center in Tulsa. Gerald Ford presented the last of the Bicentennial Minutes on CBS on December 31, after they had run nightly on the network since July 4, 1974.",
+      "date": "1976-07-04",
+      "source": "https://en.wikipedia.org/wiki/1976_in_the_United_States"
+    },
+    "culture.quinlan": {
+      "section": "culture",
+      "label": "Karen Ann Quinlan ruling",
+      "value": "The New Jersey Supreme Court ruled that a patient in a persistent vegetative state could be disconnected from her ventilator",
+      "detail": "Both cached year pages carry the ruling under March 31, and the US year page's summary lists it among the year's major events. The year page adds that she remained comatose, and gives a date of death that falls outside this page's year, so it is left out.",
+      "date": "1976-03-31",
+      "source": "https://en.wikipedia.org/wiki/1976_in_the_United_States"
+    },
+    "culture.judgment_of_paris": {
+      "section": "culture",
+      "label": "Judgment of Paris wine tasting",
+      "value": "A blind taste-test in Paris set French wines against California wines, and the California wines won",
+      "detail": "The year page says the result surprised the wine world and opened the wine industry to newcomers in several countries. It names no judges, no wines and no scores.",
+      "date": "1976-05-24",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Saul Bellow",
+        "Peace, Betty Williams and Mairead Corrigan",
+        "Physics, Burton Richter and Samuel Chao Chung Ting",
+        "Chemistry, William Nunn Lipscomb Jr",
+        "Physiology or Medicine, Baruch S. Blumberg and D. Carleton Gajdusek",
+        "Economics, Milton Friedman"
+      ],
+      "detail": "The year page carries a separate entry for around 10,000 Protestant and Catholic women demonstrating for peace in Northern Ireland on August 14, without naming either peace laureate and without linking the two entries, so this fact does not link them either.",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Two Olympic Games",
+      "value": "The Winter Games opened at Innsbruck in Austria on February 4 and the Summer Games ran at Montreal from July 17 to August 1, and the Soviet Union led the medal table at both",
+      "detail": "The Soviet Union took 125 medals and 49 golds at Montreal and 27 medals and 13 golds at Innsbruck. Nadia Comaneci, a fourteen-year-old Romanian gymnast, earned the first of seven perfect scores of 10 on July 18, and Bruce Jenner won the men's decathlon on July 30. Comaneci was Associated Press Female Athlete of the Year and ABC's Wide World of Sports Athlete of the Year, and Jenner was Associated Press Male Athlete of the Year. The year page's lead image caption says the Montreal Games faced boycotts and controversy, and no cached page says who boycotted or why.",
+      "date": "1976-02-04",
+      "source": "https://en.wikipedia.org/wiki/1976_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cincinnati Reds swept the New York Yankees in four games for their second championship in a row",
+      "detail": "The sports page calls the Reds the Big Red Machine and gives no date, so the October 21 date comes from the US year page. Sparky Lyle of the Yankees broke Hoyt Wilhelm's American League record of 154 career saves during the season, and the Yankees signed the free agent Reggie Jackson to a five-year contract worth $3,000,000 on November 29.",
+      "date": "1976-10-21",
+      "source": "https://en.wikipedia.org/wiki/1976_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl X",
+      "value": "The Pittsburgh Steelers of the AFC beat the NFC's Dallas Cowboys 21 to 17 at the Miami Orange Bowl in front of 80,187, with the Pittsburgh receiver Lynn Swann named most valuable player",
+      "detail": "Lee Roy Selmon went first overall in the NFL draft on April 8. The Seattle Seahawks and the Tampa Bay Buccaneers, both founded this year, played their first games on August 1, a date the sports page does not give and the US year page does. Tony Dorsett was awarded the Heisman Trophy on November 30.",
+      "date": "1976-01-18",
+      "source": "https://en.wikipedia.org/wiki/1976_in_sports"
+    },
+    "sports.aba_merger": {
+      "section": "sports",
+      "label": "The ABA merges into the NBA",
+      "value": "The two leagues agreed the merger on June 17, and the San Antonio Spurs, Denver Nuggets, New York Nets and Indiana Pacers joined the National Basketball Association",
+      "detail": "Of the seven American Basketball Association teams still operating, the Virginia Squires folded and the Kentucky Colonels and the Spirits of St. Louis were bought out. A dispersal draft on August 8 assigned the players from the two folded franchises to new teams. The New York Nets had beaten the Denver Nuggets four games to two in the last ABA playoffs.",
+      "date": "1976-06-17",
+      "source": "https://en.wikipedia.org/wiki/1976_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Philadelphia Flyers, four games to none",
+        "NBA Finals, Boston Celtics over the Phoenix Suns, four games to two",
+        "NCAA basketball, Indiana 86, Michigan 68",
+        "European Championship, Czechoslovakia beat West Germany 5 to 3 on penalties after a 2 to 2 draw",
+        "FA Cup, Southampton 1, Manchester United 0",
+        "Grey Cup, Ottawa Rough Riders 23, Saskatchewan Roughriders 20"
+      ],
+      "detail": "Game 5 of the NBA Finals went to triple overtime at the Boston Garden on June 4, the Celtics winning 128 to 126. Guy Lafleur of the Canadiens took the Art Ross Trophy as the NHL's leading scorer and Bobby Clarke of the Flyers the Hart Memorial Trophy. Torino won Serie A for the first time since the Superga air disaster wiped out the team 27 years before. Lucien Van Impe of Belgium won the Tour de France and Felice Gimondi of Italy the Giro d'Italia. Bjorn Borg won Wimbledon and Chris Evert took both Wimbledon and the US Open, and Italy beat Chile 4 to 1 in the Davis Cup. Ray Reardon beat Alex Higgins 27 to 16 for the World Snooker Championship, and world rankings were introduced with Reardon at number one. Judy Rankin led the LPGA Tour with $150,734, the first player to earn more than $100,000 in a season.",
+      "source": "https://en.wikipedia.org/wiki/1976_in_sports"
+    },
+    "deaths.mao": {
+      "section": "deaths",
+      "label": "Mao Zedong",
+      "value": "Died September 9. Born 1893",
+      "detail": "Chinese revolutionary and political theorist, Chairman of the Chinese Communist Party, who died in Beijing after a series of heart attacks. The People's Republic announced Hua Guofeng as his successor on October 12, and that later entry on the year page gives the cause as a single heart attack rather than a series.",
+      "date": "1976-09-09",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "deaths.christie": {
+      "section": "deaths",
+      "label": "Agatha Christie",
+      "value": "Died January 12. Born 1890",
+      "detail": "English detective fiction writer.",
+      "date": "1976-01-12",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "deaths.robeson": {
+      "section": "deaths",
+      "label": "Paul Robeson",
+      "value": "Died January 23. Born 1898",
+      "detail": "American actor, singer, writer and activist.",
+      "date": "1976-01-23",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "deaths.hughes": {
+      "section": "deaths",
+      "label": "Howard Hughes",
+      "value": "Died April 5. Born 1905",
+      "detail": "American aviation pioneer, film director and millionaire recluse.",
+      "date": "1976-04-05",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "deaths.lang": {
+      "section": "deaths",
+      "label": "Fritz Lang",
+      "value": "Died August 2. Born 1890",
+      "detail": "Austrian-German-American filmmaker, screenwriter and occasional film producer.",
+      "date": "1976-08-02",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    },
+    "deaths.britten": {
+      "section": "deaths",
+      "label": "Benjamin Britten",
+      "value": "Died December 4. Born 1913",
+      "detail": "English composer, who had accepted a life peerage on July 2, which the music page dates and describes as only a few months before his death.",
+      "date": "1976-12-04",
+      "source": "https://en.wikipedia.org/wiki/1976"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1976. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence directly above that table on the film page calls the entries the top ten 1976 released films by box office gross in North America, and film.gross names the contradiction rather than picking a side. Date check. The presidential election carries a checkable constitutional constraint and it holds: November 1 fell on a Monday, so the first Monday was November 1 and the Tuesday after it was November 2, which is the date both cached year pages give. The dedicated article https://en.wikipedia.org/wiki/1976_United_States_presidential_election was pulled as raw wikitext to confirm that date and is the one source in this file from outside the cache, cited on pol.us_election because neither year page carries a single vote figure. It gives November 2, 1976, Carter on 297 electoral votes and 40,831,881 popular votes against Ford on 240 and 39,148,634, 23 states plus the District of Columbia against 27, turnout of 54.8 percent, a two-point popular margin, the faithless elector Mike Padden, and the network calls after 3:30 am. Its percentage figures are computed by a template from the raw counts rather than stated, so this file quotes the counts and not the percentages, and its forward-looking lines about the Twenty-second Amendment and Ford's expiring partial term were left out because they name a later year. No radio fact, because the radio window closed after 1959. Radio material of the year was not moved into another section to get round that: the Australian ban on cigarette and tobacco advertising of September 1 covered television and radio together and is left out entirely rather than filed under tv. No 1977 token appears anywhere in the facts, which cost three things. The 49th Academy Awards ceremony date is omitted and film.best_picture says awarded the following spring. Peter Finch's death, which the ceremony article puts in mid-January of the following year, is described in film.acting_awards as falling between the end of the year and the ceremony with no date. The Nielsen ranking covers a season that began in the autumn of 1976 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved: the Copyright Act extension is an additional 19 years on the year page and an additional 20 on the US year page, and pol.copyright_act names both; the first close-up colour photographs of the Martian surface are credited to Viking 1 on July 20 by the US year page and to Viking 2 on September 3 by the year page, and tech.viking names both; the Tangshan toll is 242,769 in the year page's July entry and over 240,000 in its own lead image caption; the Breakout arcade release is May 13 on the year page and only May on the games page; the Video Entertainment System's unit sales are 50,000 to 60,000 in one of the games page's sources and 40,000 in the other; Mao's death is a series of heart attacks in the year page's September entry and a single heart attack in its October 12 entry; the Cavalese cable car killed 43 by the year page's own text and 42 by the New York Times headline it cites, which is why the texture gives 43 and no other figure; Bruce Jenner is named Bruce on the year page and Caitlyn Jenner, then Bruce, on the sports and US year pages, and sports.olympics uses the year page's form. Facts taking their value from one cached page and part of their detail or date from another, recorded here rather than left for a reader to notice: film.other_releases cites the film page and takes the Carrie premiere date and its 17-theatre count from the year page, which the film page does not carry; tech.computer_companies cites the year page and takes Ronald Wayne from the games page; tv.presidential_debates cites the television page and takes Ford's Soviet-domination remark and the year page's note that it was untrue at the time from the year page; culture.bicentennial cites the US year page and takes the network coverage from the television page and the four July 4 concert attendances from the music page; sports.world_series cites the sports page for the sweep and takes October 21 from the US year page, which the fact states; sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player and takes the August 1 Seahawks and Buccaneers date from the US year page, which the fact states; sports.champions cites the sports page and takes the June 4 triple-overtime Game 5 at the Boston Garden from the year page; deaths.britten cites the year page and takes the July 2 life peerage from the music page. Month-only or undated facts: tech.cray_1 carries no date, because both year pages put the release in March with no day; tech.vhs carries no date, because the only mention of the format on any cached page is the year page's lead image caption, which gives no date, manufacturer or country and is quoted as a caption for that reason; music.listening_format gives no date for the Double Exposure 12-inch single, because the music page lists it among items dated only to the year. Dropped for lack of a source that says enough, or because it would have had to be parked in the detail of a fact it does not elaborate: the first laser printer, the IBM 3800, which the year page carries with no date and no other detail; the Federal Election Campaign Act that Ford signed on May 11; the 18th Annual Grammy Awards of February 28, which honoured the previous year's recordings; the Eurovision Song Contest of April 3, won by Brotherhood of Man with Save Your Kisses for Me; Gary Gilmore's arrest in Utah on July 20, which cannot be connected to Gregg v. Georgia without reaching into a later year; Mike Schmidt's four consecutive home runs on April 17 and Rick Monday's flag rescue at Dodger Stadium on April 25, both baseball-season items with no championship fact to attach to; the Selous Scouts raid into Nyadzonya on August 9, which is southern Africa but not South African apartheid policy; the Uruguayan changes of president on June 12 and September 1 and the capture of Marcelo Gelman on August 24, which would have had to sit inside an Argentine fact; the Winter Olympics closing date, which no cached page gives; Ulrike Meinhof found hanged in Stuttgart-Stammheim on May 9; the Seveso chemical plant explosion of July 10; the Thammasat University massacre in Bangkok of October 6; the Polish price strikes of June 25 to 30; the Cubana de Aviacion Flight 455 bombing of October 6, which killed all 73 aboard; the Yuba City bus disaster of May 21; Hurricane Belle of August 10 to 13; the Wichita Holiday Inn sniper of August 11; the California State University, Fullerton shooting of July 12; the first Son of Sam attack of July 29; the Guatemala City and Zagreb air and ground tolls beyond what the texture carries; Viktor Belenko landing a MiG-25 at Hakodate on September 6; the assassination of Orlando Letelier in Washington on September 21; the murder of the US ambassador to Lebanon, Francis E. Meloy Jr., on June 16 and the Syrian intervention in the Lebanese Civil War of May 31; the Third Cod War settlement of June 1; the G-6 becoming the G-7 on June 27; the first megamouth shark, found off Oahu on November 15; the Museum of Broadcasting opening on November 9; Barbara Walters joining Harry Reasoner on the ABC Evening News on October 4, Jane Pauley's Today debut on October 11 and David Brinkley rejoining NBC Nightly News on June 7; Queen's free Hyde Park concert for over 150,000 on September 18 and the Rolling Stones at Knebworth for an estimated 120,000 on August 21; Elton John disclosing his bisexuality in Rolling Stone on September 8; Eric Clapton's Birmingham remarks of August 5; the attempted assassination of Bob Marley on December 3; the court ruling of August 31 that George Harrison had subconsciously copied He's So Fine; the first class of women inducted at the United States Naval Academy on July 6; the deaths of Werner Heisenberg on February 1, Zhou Enlai on January 8, whose death is a world fact instead, Howlin' Wolf on January 10, Sal Mineo on February 12, Florence Ballard on February 22, Luchino Visconti on March 17, Phil Ochs on April 5, Carol Reed on April 17, Johnny Mercer on June 25, Dalton Trumbo on September 10, Edith Evans on October 14, Jean Gabin on November 15, Rosalind Russell on November 28, Richard J. Daley on December 20 and Freddie King on December 28. Texture material taken from the cached pages but given no fact of its own: the Cavalese cable car; the Teton Dam collapse; the Big Thompson River flood; the Zagreb mid-air collision; the MV George Prince ferry disaster; the Legionnaires' disease outbreak at the Bellevue-Stratford Hotel; the first known Ebola cases at Nzara and Yambuku; the Chowchilla kidnapping; the first Body Shop; the founding of Price Club; the opening of the Washington Metro, the CN Tower and the InterCity 125; the Great Bookie Robbery; Albert Spaggiari's bank vault break-in at Nice; Bill Sargent's and Lorne Michaels's Beatles reunion offers; the EMI reissue of 22 British Beatles singles; Bruce Springsteen at the Graceland wall and Jerry Lee Lewis outside the same gates; and The Band's last public performance in San Francisco on November 25, filmed by Martin Scorsese, which was cut from the facts to hold the music section to four and is not in the texture either. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question and which comes out if challenged; and that Gerald Ford had reached the presidency through Nixon's resignation rather than an election, which culture.mood states without naming him and which the dedicated election article supports. Not written because no cached page says it: any link between the Nobel Peace Prize to Betty Williams and Mairead Corrigan and the August 14 demonstration by around 10,000 Protestant and Catholic women in Northern Ireland. The year page carries the two as unconnected entries and names nobody in the second, so culture.nobel_prizes records both and says outright that it is not joining them. Names and titles are written in ASCII per the corpus convention, so Isabel Peron, Jose Lopez Portillo, Cearbhall O Dalaigh, Thorbjorn Falldin, Nadia Comaneci, Lina Wertmuller, Cote d'Ivoire, Bjorn Borg, Cubana de Aviacion, the Societe Generale bank and Caldiran lose their diacritics, and the en dash inside the Eagles compilation title is written as a plain hyphen in Their Greatest Hits (1971-1975). December, 1963 (Oh, What a Night) keeps the year inside its title because that is the record's name and 1963 is earlier than this page's year. Deaths carry a birth year rather than an age, because the year page gives only the year. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for. World runs to 7 and film to 7 against the roughly 7 the brief suggests, which is inside what 1969 and 1970 already do."
+}

@@ -1,0 +1,505 @@
+{
+  "year": 1971,
+  "tier": "broadcast",
+  "headline": "The Pentagon Papers went to print, Nixon cut the dollar's link to gold, and Bangladesh won its independence",
+  "texture": [
+    "Crush barriers on Stairway 13 at Ibrox Park gave way as fans left a Rangers and Celtic match in Glasgow on January 2, killing 66 and injuring more than 200. The Sylmar earthquake shook the Greater Los Angeles area on February 9 at a maximum Mercalli intensity of XI, killing 64 and injuring 2,000. Twenty seconds of shaking destroyed most of Bingol in Turkey on May 22, killing more than 1,000 and leaving 10,000 homeless. A fire in a 22-story hotel in Seoul killed 158 on December 25.",
+    "Amtrak took over intercity passenger service on May 1 and had its first fatal accident on June 10, when the City of New Orleans derailed near Tonti, Illinois, killing 11 and injuring 163. The first Starbucks opened in Pike Place Market in Seattle on March 30, FedEx was founded in Little Rock on May 5, and Southwest Airlines flew its first routes between Dallas, Houston and San Antonio on June 18. The first McDonald's in Australia opened at Yagoona in Sydney on December 30.",
+    "Led Zeppelin played Stairway to Heaven in public for the first time at the Ulster Hall in Belfast on March 5. Carole King gave her first live concert at Carnegie Hall on June 8. A fan fired a flare gun into the rafters of the Montreux Casino during a Frank Zappa concert on December 4 and burned the building down, watched by members of Deep Purple from a hotel across Lake Geneva. George Lucas premiered THX 1138, his first full-length film, on March 11, and founded Lucasfilm in December.",
+    "The longest game in National Football League history ran 82 minutes and 40 seconds on December 25, the Miami Dolphins beating the Kansas City Chiefs 27 to 24 on Garo Yepremian's 37-yard field goal in the second overtime, in the Chiefs' last home game at Municipal Stadium. The first One Day International cricket match was played at the Melbourne Cricket Ground on January 5, after a Test match was abandoned for rain, and Australia beat England by five wickets. Satchel Paige became the first Negro league player elected to the Baseball Hall of Fame on February 9."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.pentagon_papers",
+    "pol.nixon_shock",
+    "world.bangladesh",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Richard Nixon (R)",
+      "detail": "Spiro Agnew was Vice President and Warren E. Burger was Chief Justice. Mike Mansfield was Senate majority leader. The 91st Congress sat until January 3 and the 92nd from January 3. The US year page has John William McCormack as Speaker of the House until January 3 and Carl Albert starting January 21, and does not say who held the chair between those dates.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_the_United_States"
+    },
+    "pol.pentagon_papers": {
+      "section": "politics",
+      "label": "The Pentagon Papers",
+      "value": "The New York Times began publishing them on June 13, and in New York Times Co. v. United States on June 30 the Supreme Court ruled that they could be published, rejecting the government's injunctions as unconstitutional prior restraint",
+      "detail": "The year page describes them as secret United States policy on the Vietnam War and gives no page count, author or route by which the newspaper obtained them.",
+      "date": "1971-06-13",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "pol.26th_amendment": {
+      "section": "politics",
+      "label": "Twenty-sixth Amendment lowers the voting age",
+      "value": "Formally certified by President Nixon, it lowered the voting age from 21 to 18",
+      "detail": "Both the year page and the US year page date the certification to July 5 and neither gives a ratification date.",
+      "date": "1971-07-05",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "pol.nixon_shock": {
+      "section": "politics",
+      "label": "Nixon ends dollar convertibility to gold",
+      "value": "He announced that the United States would no longer convert dollars to gold at a fixed value, effectively ending the Bretton Woods system, and imposed a 90-day freeze on wages, prices and rents",
+      "detail": "The dollar had flooded European currency markets on May 5, threatening the Deutsche Mark in particular, and the central banks of Austria, Belgium, the Netherlands and Switzerland stopped trading. The dollar was devalued on December 18, which the year page calls the second devaluation in history. The US year page puts the peak unemployment rate at 6.1 percent in August.",
+      "date": "1971-08-15",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "pol.attica": {
+      "section": "politics",
+      "label": "Attica Prison riot",
+      "value": "A revolt at the maximum-security prison in Attica, New York ran from September 9 to 13 and ended with state police and the National Guard storming the facility, and 42 people died, 10 of them hostages",
+      "detail": "The year page gives the toll and the storming and does not say what the prisoners demanded or how many took part.",
+      "date": "1971-09-09",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "pol.vietnam_at_home": {
+      "section": "politics",
+      "label": "The war inside the United States",
+      "value": [
+        "William Calley found guilty of 22 murders in the My Lai massacre and sentenced to life in prison, March 29",
+        "Marches against the war in Washington and San Francisco, April 24",
+        "As many as 12,000 arrested when anti-war militants tried to disrupt government business in Washington, May 3",
+        "American troop numbers in Vietnam down to 196,700, the lowest since January 1966, October 29"
+      ],
+      "detail": "The two cached pages disagree on the size of the April 24 march in the capital: the year page has an estimated 200,000 and the US year page five hundred thousand, and both put 125,000 in San Francisco. Ernest Medina was cleared of all charges connected with My Lai on September 22. A Harris Poll on May 3 found 60 percent of Americans against the war. Vietnam Veterans for a Just Peace, claiming to speak for the majority of veterans who had served in Southeast Asia, came out against the war protests on June 1. On November 12 Nixon set a deadline early the following year for removing another 45,000 troops.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "The Supreme Court",
+      "value": [
+        "Swann v. Charlotte-Mecklenburg Board of Education, April 20, holding unanimously that busing of students may be ordered to achieve racial desegregation",
+        "Lemon v. Kurtzman, June 28, on the Establishment Clause",
+        "Hugo Black retired on September 17 after 34 years, at that point a record for longevity, and died eight days later",
+        "Nixon nominated Lewis Franklin Powell Jr. and William H. Rehnquist to the court, October 21"
+      ],
+      "detail": "Lemon v. Kurtzman comes from the US year page, which calls it a landmark case on the Establishment Clause without saying what it held, so this fact does not say either. The other three entries are on the year page.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "world.bangladesh": {
+      "section": "world",
+      "label": "Bangladesh Liberation War",
+      "value": "The Pakistani army began Operation Searchlight in East Pakistan at midnight on March 25, the Indo-Pakistani War opened on December 3 when Pakistan struck nine Indian airbases in Operation Chengiz Khan, and the Pakistan Army in East Pakistan surrendered to the joint forces of India and the Bengali nationalist separatists on December 16",
+      "detail": "Sheikh Mujibur Rahman launched a non-cooperation movement on March 2 and told a crowd at the Racecourse Field in Dhaka on March 7 to be ready to fight for independence. President Agha Muhammad Yahya Khan had voided election results giving the Awami League a parliamentary majority. Mujib was arrested on March 26, the day M. A. Hannan declared independence on his behalf from the Kalurghat Radio Station in Chittagong, and Ziaur Rahman declared it again from the same station on March 27. The People's Republic of Bangladesh formed under Mujib at Mujibnagor on April 17 and its government fled to India on April 19. The year page calls the campaign that began with Operation Searchlight the start of the Bangladesh genocide. India signed a twenty-year treaty of friendship with the Soviet Union on August 9, and Nixon ordered the 7th Fleet toward the Bay of Bengal on December 8.",
+      "date": "1971-03-25",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "world.un_china": {
+      "section": "world",
+      "label": "China's seat at the United Nations",
+      "value": "The General Assembly admitted the People's Republic of China and expelled the Republic of China on October 25, and the People's Republic took the Republic of China's seat on the Security Council on November 23",
+      "detail": "The United States ended its trade embargo of China on June 10. Austria and the People's Republic established diplomatic relations on May 26.",
+      "date": "1971-10-25",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "world.gulf_independence": {
+      "section": "world",
+      "label": "Gulf states that changed status",
+      "value": [
+        "Bahrain declared independence as the State of Bahrain, August 14",
+        "Qatar gained independence from the United Kingdom and declined to join either the United Arab Emirates or Saudi Arabia, September 3",
+        "Oman gained independence from the United Kingdom, November 18",
+        "Six of the seven Trucial States combined in an act of union to found the United Arab Emirates, December 2"
+      ],
+      "detail": "Two days before the union, on November 30, Iranian forces occupied Abu Musa jointly by agreement with Sharjah and took the Greater and Lesser Tunbs by force from Ras Al Khaimah.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "world.troubles": {
+      "section": "world",
+      "label": "The Troubles in Northern Ireland",
+      "value": "British security forces arrested hundreds of nationalists on August 9 at the start of internment, the United Kingdom raised its troop numbers there from 11,000 on July 9 to 12,500 on August 15, and an Ulster Volunteer Force bombing of McGurk's Bar in Belfast killed 15 on December 4",
+      "detail": "British troops were posted on the border with the Republic of Ireland on August 14 to stop arms smuggling, and fought the IRA in Derry on August 18. Ian Paisley founded the Democratic Unionist Party on October 30.",
+      "date": "1971-08-09",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "world.uk": {
+      "section": "world",
+      "label": "Decimal currency and the EEC vote in Britain",
+      "value": [
+        "Decimal Day, February 15, when the United Kingdom and Ireland both switched to decimal currency",
+        "The House of Commons voted 356 to 244 in favour of joining the European Economic Community, October 28"
+      ],
+      "detail": "Britain reopened its membership negotiations in Luxembourg on June 21 and lifted all restrictions on gold ownership on April 1.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "world.amin": {
+      "section": "world",
+      "label": "Idi Amin takes power in Uganda",
+      "value": "Amin deposed Milton Obote in a coup and became president",
+      "detail": "Border clashes between Tanzania and Uganda followed on August 25.",
+      "date": "1971-01-25",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Fiddler on the Roof, $40,500,000, United Artists",
+        "Billy Jack, $32,500,000, Warner Bros.",
+        "The French Connection, $26,300,000, 20th Century Fox",
+        "Summer of '42, $20,500,000, Warner Bros.",
+        "Diamonds Are Forever, $19,727,000, United Artists"
+      ],
+      "detail": "Rentals are the distributor's share, not the total taken at the ticket window, so these figures run well below what a gross would state. The column on the film page is headed Domestic rentals, while the line introducing the table calls the entries the year's top ten by box office gross in North America, and this file goes with the column header. Dirty Harry was sixth at $18,000,000 and A Clockwork Orange seventh at $17,000,000, both for Warner Bros., Carnal Knowledge eighth at $14,075,000 for Embassy, The Last Picture Show ninth at $13,110,000 for Columbia and Bedknobs and Broomsticks tenth at $11,426,000 for Disney.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The French Connection, produced by Philip D'Antoni",
+      "detail": "Awarded the following spring at the 44th Academy Awards, where the film took five awards, more than any other, among them Best Director for William Friedkin and Best Adapted Screenplay for Ernest Tidyman, who worked from Robin Moore's book. Its eight nominations tied Fiddler on the Roof and The Last Picture Show for the most. The other Best Picture nominees were A Clockwork Orange, produced by Stanley Kubrick, Fiddler on the Roof, produced by Norman Jewison, The Last Picture Show, produced by Stephen J. Friedman, and Nicholas and Alexandra, produced by Sam Spiegel.",
+      "source": "https://en.wikipedia.org/wiki/44th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Gene Hackman, The French Connection",
+        "Best Actress, Jane Fonda, Klute",
+        "Best Supporting Actor, Ben Johnson, The Last Picture Show",
+        "Best Supporting Actress, Cloris Leachman, The Last Picture Show"
+      ],
+      "detail": "The Last Picture Show took four of the year's acting nominations, Jeff Bridges alongside Ben Johnson and Ellen Burstyn alongside Cloris Leachman, and won both of its categories. George C. Scott was nominated for Best Actor for The Hospital, and Paddy Chayefsky won the original screenplay award for it. The Golden Globes split their lead awards, giving the drama awards to Hackman and Fonda and the comedy or musical awards to Chaim Topol for Fiddler on the Roof and Twiggy for The Boy Friend, which is on the film page rather than the ceremony page.",
+      "source": "https://en.wikipedia.org/wiki/44th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The Garden of the Finzi-Continis, Italy and West Germany, directed by Vittorio De Sica, winner of the Golden Bear at Berlin and of the Academy Award for Best Foreign Language Film",
+        "The Go-Between, United Kingdom, directed by Joseph Losey, winner of the Palme d'Or at Cannes",
+        "Sunday Bloody Sunday, United Kingdom, directed by John Schlesinger, winner of Best Film at the BAFTA Awards",
+        "The Policeman, winner of the Golden Globe for Best Foreign Language Film"
+      ],
+      "detail": "The Go-Between also took the BAFTA awards for supporting actor and supporting actress, Edward Fox and Margaret Leighton, and for Harold Pinter's screenplay. Sunday Bloody Sunday took the BAFTA acting awards for Peter Finch and Glenda Jackson. The Garden of the Finzi-Continis was nominated for the Academy Award for adapted screenplay as well, for Vittorio Bonicelli and Ugo Pirro.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The first permanent IMAX projection system began showing in May at the Cinesphere at Ontario Place in Toronto.",
+      "detail": "Melvin Van Peebles's Sweet Sweetback's Baadasssss Song, released on April 23, became the highest-grossing independent film of the year. Frank Yablans became president of Paramount Pictures on May 10. Britain's National Film School began operating at Beaconsfield Film Studios.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$1.65",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1971",
+      "value": [
+        "All in the Family, CBS, 34.0 rating",
+        "The Flip Wilson Show, NBC, 28.2",
+        "Marcus Welby, M.D., ABC, 27.8",
+        "Gunsmoke, CBS, 26.0",
+        "ABC Movie of the Week, ABC, 25.6"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Sanford and Son was sixth at 25.2 and Mannix seventh at 24.8. Funny Face and Adam-12 tied for eighth at 23.9, and The Mary Tyler Moore Show tied with Here's Lucy for tenth at 23.7. Monday Night Football came twenty-fifth at 20.9 and Bonanza twentieth at 21.9.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1971%E2%80%9372"
+    },
+    "tv.all_in_the_family": {
+      "section": "tv",
+      "label": "All in the Family debuts",
+      "value": "CBS aired the first episode, with Carroll O'Connor as Archie Bunker and a disclaimer at the start of the program warning viewers about potentially offensive content",
+      "detail": "The television page credits the program with starting a trend toward realism in American situation comedies.",
+      "date": "1971-01-12",
+      "source": "https://en.wikipedia.org/wiki/1971_in_American_television"
+    },
+    "tv.cigarette_ads": {
+      "section": "tv",
+      "label": "Cigarette advertising leaves the air",
+      "value": "The last cigarette advertisements on American television ran during the January 1 broadcast of The Tonight Show Starring Johnny Carson on NBC, and the ban on radio and television cigarette advertisements took effect the next day",
+      "detail": "The television page dates the final advertisements to January 1 and attributes the ban to a law passed a year earlier. The US year page dates the ban taking effect to January 2.",
+      "date": "1971-01-01",
+      "source": "https://en.wikipedia.org/wiki/1971_in_American_television"
+    },
+    "tv.schedule_changes": {
+      "section": "tv",
+      "label": "Changes to the autumn schedule",
+      "value": [
+        "CBS dropped all four of its rural-oriented series from the autumn schedule it released in May: Green Acres, The Beverly Hillbillies, Mayberry R.F.D. and Hee Haw",
+        "Network prime time shrank on September 13 when the original Prime Time Access Rule took effect"
+      ],
+      "detail": "The television page calls the CBS cancellations the rural purge and says Hee Haw stayed in production for first-run syndication. Hee Haw, Lassie, Let's Make a Deal, The Lawrence Welk Show and The Road Runner Show all moved to syndication. NBC could not take advantage of the new rule and won none of the first thirteen weeks of the season in the Nielsen ratings.",
+      "date": "1971-05",
+      "source": "https://en.wikipedia.org/wiki/1971_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Masterpiece Theatre, PBS, January 10",
+        "The Sonny & Cher Comedy Hour, CBS, August 1",
+        "The Jackson 5ive, ABC, September 11",
+        "McMillan & Wife, NBC, September 17",
+        "The New Dick Van Dyke Show, CBS, September 18",
+        "The Electric Company, PBS, October 25"
+      ],
+      "detail": "O'Hara, U.S. Treasury began on CBS on September 17. Saturday mornings gained The Funky Phantom, Help! It's the Hair Bear Bunch, The Pebbles and Bamm-Bamm Show, Lidsville and Sabrina, the Teenage Witch, all on September 11. Among the programs that finished were Dark Shadows on ABC on April 2, The Ed Sullivan Show on CBS on June 6, which the page dates from 1948, and The Red Skelton Show on NBC on August 1.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Joy to the World, Three Dog Night",
+        "Maggie May and Reason to Believe, Rod Stewart",
+        "It's Too Late and I Feel the Earth Move, Carole King",
+        "One Bad Apple, The Osmonds",
+        "How Can You Mend a Broken Heart, Bee Gees"
+      ],
+      "detail": "The list ran in the year-end edition of Billboard dated December 25 and was compiled from the Hot 100 charts of January 2 through November 27. The chart page's captions credit The Carpenters with three songs on the list, the most of any artist, and Three Dog Night with two. Donny Osmond came seventh with Go Away Little Girl, John Denver eighth with Take Me Home, Country Roads, and Janis Joplin eleventh with Me and Bobby McGee.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1971"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records with two sides. Billboard's year-end Hot 100 counted Maggie May backed with Reason to Believe as one entry at number two and It's Too Late backed with I Feel the Earth Move as one entry at number three, each pair being one record.",
+      "detail": "None of the cached pages for the year names a playback format, so this fact reports what the chart itself shows rather than naming a disc size or speed.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1971"
+    },
+    "music.concert_for_bangladesh": {
+      "section": "music",
+      "label": "The Concert for Bangladesh",
+      "value": "George Harrison, Ravi Shankar, Ringo Starr, Bob Dylan and Leon Russell starred at Madison Square Garden in New York, with Billy Preston, Eric Clapton, Jesse Ed Davis and Badfinger also on the bill, before 40,000 people",
+      "detail": "The music page lists the performers and the year page and the US year page give the attendance of 40,000. Harrison's single Bangla Desh came out in July and reached 23 on the Billboard Hot 100 and 10 in the United Kingdom.",
+      "date": "1971-08-01",
+      "source": "https://en.wikipedia.org/wiki/1971_in_music"
+    },
+    "music.fillmore": {
+      "section": "music",
+      "label": "Bill Graham closes both Fillmores",
+      "value": "The Fillmore East in New York closed on June 27 with The Allman Brothers Band, The Beach Boys and Mountain, and the Fillmore West in San Francisco closed on July 4 with Santana, Creedence Clearwater Revival and The Grateful Dead",
+      "detail": "Patrons at the Fillmore East were handed commemorative posters at the door and found red roses on their seats. The Allman Brothers Band had recorded At Fillmore East there on March 12 and 13, and John Lennon and Yoko Ono had joined Frank Zappa on that stage for an encore jam on June 6. The year page dates the hall's opening on 2nd Avenue to March 8, 1968.",
+      "date": "1971-06-27",
+      "source": "https://en.wikipedia.org/wiki/1971_in_music"
+    },
+    "music.awards": {
+      "section": "music",
+      "label": "Music awards",
+      "value": [
+        "13th Grammy Awards, March 16, broadcast on live television for the first time and honouring the previous year's recordings, with Simon & Garfunkel taking Album of the Year, Record of the Year and Song of the Year for Bridge over Troubled Water and its title track, and The Carpenters Best New Artist",
+        "Eurovision Song Contest, April 3, won by Severine of Monaco with Un banc, un arbre, une rue at the Gaiety Theatre in Dublin",
+        "Country Music Association Entertainer of the Year, Charley Pride"
+      ],
+      "detail": "The Country Music Association also made Pride its top male vocalist, gave Single of the Year to Sammi Smith's Help Me Make It Through The Night, Song of the Year to Freddie Hart's Easy Loving and Album of the Year to Ray Price's I Won't Mention It Again, and named Jerry Reed musician of the year.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_music"
+    },
+    "music.imagine": {
+      "section": "music",
+      "label": "John Lennon releases Imagine",
+      "value": "His second studio album came out, as the year page counts them",
+      "detail": "Lennon had left Britain for New York City on August 31. He played the John Sinclair Freedom Rally at Crisler Arena in Ann Arbor, Michigan on December 10, in support of the imprisoned activist.",
+      "date": "1971-09-09",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "tech.intel_4004": {
+      "section": "tech",
+      "label": "Intel releases the first microprocessor",
+      "value": "The Intel 4004",
+      "detail": "The year page calls it the world's first microprocessor and the US year page the world's first commercially available microprocessor.",
+      "date": "1971-11-15",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "tech.apollo": {
+      "section": "tech",
+      "label": "Apollo missions to the Moon",
+      "value": [
+        "Apollo 14, launched January 31 with Alan Shepard, Stuart Roosa and Edgar Mitchell, landed on the Moon February 5 and returned to Earth February 9",
+        "Apollo 15, launched July 26 with David Scott, Alfred Worden and James Irwin, whose crew became the first to ride in a vehicle on the Moon on July 31, and returned August 7"
+      ],
+      "detail": "The year page calls Apollo 14 the third successful lunar landing mission and, on its return, the third human Moon landing; the US year page words the second of those as the third crewed Moon landing.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "tech.soyuz_11": {
+      "section": "tech",
+      "label": "The Soyuz 11 crew die on the way home",
+      "value": "Vladislav Volkov, Georgi Dobrovolski and Viktor Patsayev launched on June 6 and died on June 30, after a successful mission aboard Salyut 1, the world's first human-occupied space station, when their air supply leaked out through a faulty valve",
+      "detail": "The Soviet Union had launched Salyut 1 on April 19, and Soyuz 10 failed to dock with it on April 24.",
+      "date": "1971-06-30",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "tech.mars": {
+      "section": "tech",
+      "label": "Spacecraft reach Mars",
+      "value": "Mariner 9 became the first spacecraft to enter Mars orbit successfully on November 13, and the Soviet Mars 3 lander reached the surface on December 2, transmitted for a few seconds and then went silent",
+      "detail": "Mariner 8 failed to launch on May 9, Mars 2 was launched on May 19 and Mariner 9 on May 30. The year page calls Mars 3 the first spacecraft to reach the planet.",
+      "date": "1971-11-13",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "tech.computing_firsts": {
+      "section": "tech",
+      "label": "Computing firsts",
+      "value": [
+        "Michael S. Hart posted the first e-book, a copy of the United States Declaration of Independence, on the University of Illinois at Urbana-Champaign mainframe, July 4",
+        "The UNIX Programmer's Manual was published, November 3",
+        "Ray Tomlinson sent the first ARPANET e-mail between host computers, late in the year"
+      ],
+      "detail": "The year page treats Hart's posting as the origin of Project Gutenberg and dates the Tomlinson e-mail only to late in the year, with no month.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.36 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.60 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Revolt at Attica ending with dozens dead, a secret history of the war printed in the New York Times over the government's objection and then cleared by the Supreme Court, the dollar cut loose from gold in August, and a December war that turned East Pakistan into Bangladesh."
+    },
+    "culture.disney_world": {
+      "section": "culture",
+      "label": "Walt Disney World opens",
+      "value": "The resort opened in Orlando, Florida",
+      "detail": "The year page's own summary of the year calls it a major tourist destination.",
+      "date": "1971-10-01",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Physics, Dennis Gabor",
+        "Chemistry, Gerhard Herzberg",
+        "Medicine, Earl W. Sutherland Jr.",
+        "Literature, Pablo Neruda",
+        "Peace, Willy Brandt",
+        "Economics, Simon Kuznets"
+      ],
+      "detail": "The year page lists the economics award as the Nobel Memorial Prize in Economic Sciences alongside the five original prizes.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "culture.founded": {
+      "section": "culture",
+      "label": "Organisations founded",
+      "value": [
+        "Greenpeace, in Vancouver, British Columbia, October 14",
+        "Medecins Sans Frontieres, formed when two groups of French doctors working in humanitarian aid merged, December 20",
+        "The Libertarian Party, in the United States, December 11",
+        "The world's first domestic violence shelter, established by Erin Pizzey in Chiswick, London, in November"
+      ],
+      "detail": "The year page gives no day for the Chiswick shelter, only the month, and lists the Center for Science in the Public Interest as founded during the year with no date at all. The Libertarian Party entry is from the US year page.",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "culture.dan_cooper": {
+      "section": "culture",
+      "label": "The Dan Cooper hijacking",
+      "value": "A man calling himself Dan Cooper parachuted out of the Northwest Orient Airlines plane he had hijacked, during a severe storm over Washington State, carrying US$200,000 in ransom money, and was never seen again",
+      "detail": "The year page says his name was later misreported as D. B. Cooper. The US year page calls him D. B. Cooper outright and puts the storm over Washington.",
+      "date": "1971-11-24",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Pittsburgh Pirates beat the Baltimore Orioles four games to three, taking Game 7 at Baltimore 2 to 1 on October 17",
+      "detail": "Game 4, which the Pirates won 4 to 3 at Three Rivers Stadium on October 13, was played at night. The year page calls it the first Major League Baseball postseason game played at night and the sports page the first night game in World Series history.",
+      "date": "1971-10-17",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl V",
+      "value": "The Baltimore Colts of the AFC beat the Dallas Cowboys of the NFC 16 to 13 at the Miami Orange Bowl in front of 79,204, and the most valuable player was Chuck Howley, a Dallas linebacker, from the losing side",
+      "detail": "The US year page gives the score and the venue and neither the attendance nor the most valuable player.",
+      "date": "1971-01-17",
+      "source": "https://en.wikipedia.org/wiki/1971_in_sports"
+    },
+    "sports.frazier_ali": {
+      "section": "sports",
+      "label": "Frazier beats Ali at Madison Square Garden",
+      "value": "Joe Frazier held on to the world heavyweight championship with a 15-round unanimous decision over Muhammad Ali",
+      "detail": "The sports page calls it the first of three bouts between the two, and the year page carries it under the name the Fight of the Century.",
+      "date": "1971-03-08",
+      "source": "https://en.wikipedia.org/wiki/1971_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Chicago Black Hawks, four games to three",
+        "NBA Finals, Milwaukee Bucks over the Baltimore Bullets, four games to none, their first championship",
+        "NCAA basketball, UCLA 68, Villanova 62",
+        "European Champions Cup, Ajax 2, Panathinaikos 0",
+        "FA Cup, Arsenal 2, Liverpool 1, completing the league and cup double",
+        "Grey Cup, Calgary Stampeders 14, Toronto Argonauts 11"
+      ],
+      "detail": "The Canadiens were the second team in NHL history to win the Cup in Game 7 on the road, and did it after the home side had won each of the previous six games. It was Jean Beliveau's last NHL game. Bobby Orr took the Hart Memorial Trophy as the league's most valuable player and Phil Esposito the Art Ross Trophy as its leading regular-season scorer, both of the Boston Bruins, and the World Hockey Association was formed as a rival league. Arsenal sealed the First Division at Tottenham Hotspur's ground on May 3, Ray Kennedy scoring the winner. Eddy Merckx of Belgium won the Tour de France and the world road race, Gosta Pettersson of Sweden the Giro d'Italia, and Lee Trevino the US Open and the British Open. Trevino was also the Associated Press male athlete of the year and the Sports Illustrated sportsman of the year.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis singles titles",
+      "value": [
+        "Australian Open, Ken Rosewall and Margaret Court",
+        "French Open, Jan Kodes and Evonne Goolagong",
+        "Wimbledon, John Newcombe and Evonne Goolagong",
+        "US Open, Stan Smith and Billie Jean King"
+      ],
+      "detail": "Goolagong was the Associated Press female athlete of the year. Chris Evert, aged sixteen, reached the semifinals of her first US Open and lost there to Billie Jean King. The sports page notes that this was the first time in 16 years that Americans took both singles titles at the US Open. The United States won the Davis Cup 3 to 2 over Romania.",
+      "source": "https://en.wikipedia.org/wiki/1971_in_sports"
+    },
+    "deaths.chanel": {
+      "section": "deaths",
+      "label": "Coco Chanel",
+      "value": "Died January 10. Born 1883",
+      "detail": "French fashion designer.",
+      "date": "1971-01-10",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "deaths.stravinsky": {
+      "section": "deaths",
+      "label": "Igor Stravinsky",
+      "value": "Died April 6. Born 1882",
+      "detail": "Russian composer.",
+      "date": "1971-04-06",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "deaths.morrison": {
+      "section": "deaths",
+      "label": "Jim Morrison",
+      "value": "Died July 3. Born 1943",
+      "detail": "American singer, the lead singer of The Doors, aged 27. The year page says he died of heart failure in the bathtub of his third-floor apartment on the Rue Beautreillis in Paris. The music page says only that he was found dead in a bath tub in Paris, and adds that Alain Ronay claimed years later to have helped Pamela Courson cover up the circumstances.",
+      "date": "1971-07-03",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "deaths.armstrong": {
+      "section": "deaths",
+      "label": "Louis Armstrong",
+      "value": "Died July 6. Born 1901",
+      "detail": "African-American jazz trumpeter, as the year page describes him.",
+      "date": "1971-07-06",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    "deaths.khrushchev": {
+      "section": "deaths",
+      "label": "Nikita Khrushchev",
+      "value": "Died September 11. Born 1894",
+      "detail": "Soviet leader, as the year page describes him, giving no office.",
+      "date": "1971-09-11",
+      "source": "https://en.wikipedia.org/wiki/1971"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026 from the cached wikitext under .sources/1971. Nothing outside the nine cached pages was fetched, and nothing was written from memory. figures_basis is rentals, checked with bo.mjs rather than assumed from the decade: the box office column header on the film page reads Rank, Title, Distributor, Domestic rentals. The line directly above that table calls the entries the top ten 1971 released films by box office gross in North America, so the page contradicts itself, and film.gross follows the column header and names the contradiction rather than choosing. No film title in the rentals table trips the anachronism check: Summer of '42 carries a two-digit year, which is not a four-digit year token, so src/data/title_years.json needed no entry and was not touched. Date checks. The year has no US federal election and no inauguration. The 44th Academy Awards ceremony falls in the following spring on both the film page and the ceremony page, which agree on the date, so film.best_picture says awarded the following spring and gives no ceremony date. The Twenty-sixth Amendment certification is July 5 on both the year page and the US year page. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved: the April 24 anti-war march in Washington is an estimated 200,000 on the year page and five hundred thousand on the US year page, and pol.vietnam_at_home records both; the first night game of the World Series is the first Major League Baseball postseason game played at night on the year page and the first night game in World Series history on the sports page; the cigarette advertising ban runs out on January 1 on the television page and takes effect January 2 on the US year page; the Intel 4004 is the world's first microprocessor on the year page and the world's first commercially available one on the US year page; Apollo 14's return is the third human Moon landing on the year page and the third crewed Moon landing on the US year page; the Dan Cooper hijacker is Dan Cooper later misreported as D. B. Cooper on the year page and D. B. Cooper on the US year page; Jim Morrison's death is heart failure in a third-floor apartment on the Rue Beautreillis on the year page and simply found dead in a bath tub on the music page. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to find: pol.supreme_court cites the year page and takes Lemon v. Kurtzman from the US year page; pol.nixon_shock cites the year page and takes the 6.1 percent August unemployment peak from the US year page; music.concert_for_bangladesh cites the music page for the performers and takes the attendance of 40,000 from the year page and the US year page; film.acting_awards cites the ceremony page and takes the Golden Globe lead awards from the film page; culture.founded cites the year page and takes the Libertarian Party from the US year page; sports.super_bowl cites the sports page for the attendance and the most valuable player, which the US year page does not carry. Month-only dates and why: tv.schedule_changes is dated 1971-05 because the television page dates the CBS autumn schedule release to May with no day, and culture.founded says November for the Chiswick shelter because the year page lists it under November with no day. General knowledge rather than a claim from the cached pages, stated so it comes out if challenged: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched gives as the answer to its own question. music.listening_format is the weakest fact in the file and says so in its own detail: none of the nine cached pages names a playback format, disc size or speed for the year, so the fact reports the one format claim the sources do support, that the year-end Hot 100 counted a two-sided record as one entry, and names Maggie May with Reason to Believe and It's Too Late with I Feel the Earth Move as the two cases on the top five. Calling those discs 45 rpm singles, and the albums LPs, would be general knowledge and is left out. No radio fact, because the radio window closed after 1959; the radio material of the year, National Public Radio's first broadcast on April 20, is therefore in neither the facts nor the texture. No tech.games fact, because that window opens in 1972. Dropped for lack of a source that agrees with itself: the February Mississippi Delta tornado outbreak, which killed 123 people on both pages but is dated February 20 on the US year page and February 21 to 22 on the year page. Dropped because the cached pages give no day: the Nordic Council secretariat inauguration, Massachusetts Chapter 766, the peak of crude oil production in the continental United States, whose figure the year page loses to a broken conversion template, Rafael Kubelik becoming music director of the Metropolitan Opera in June, and the founding of the Center for Science in the Public Interest. Dropped to hold the section counts down rather than for want of a source: the Charlie Chaplin honorary Oscar, given for the incalculable effect he had in making motion pictures the art form of this century, which brought him back from twenty years of self-imposed exile in Switzerland and drew a twelve-minute standing ovation, the longest in Academy Awards history; the Kennedy Center inauguration on September 8 with the premiere of Leonard Bernstein's Mass; the Stanford prison experiment begun by Philip Zimbardo in Palo Alto on August 14; the Emergency Broadcast System sending a real warning across American stations on February 20 in place of the weekly NORAD test from Cheyenne Mountain; the Nasdaq founded on February 4 with the Nasdaq Composite debuting on February 8; Rolls-Royce going bankrupt and being nationalised on February 4, and the British postal workers' strike under Tom Jackson of the Union of Post Office Workers ending on March 7 after 47 days; the bomb at the top of the Post Office Tower in London on October 31, which the year page reports without attributing it to anyone; the Aswan High Dam opening on January 15; Hafez al-Assad becoming president of Syria on March 12; the 1971 JVP insurrection in Ceylon from April 5; the Moroccan coup attempt of July 10 and 11; Walter Ulbricht resigning as party leader in East Germany on May 3; the Okinawa Reversion Agreement of June 17 and Nixon's declaration of a war on drugs the same day; the Citizens' Commission to Investigate the FBI taking the files from the Media, Pennsylvania office on March 8; the Postal Reorganization Act taking effect on July 1; the South Tower of the World Trade Center topping out on July 19, whose height the year page loses to a broken conversion template; the Democratic Republic of the Congo becoming Zaire on October 27; Britain launching Prospero on Black Arrow on October 28 as the sixth nation to orbit a satellite on its own rocket; the Persepolis state banquet of October 14; Greenpeace's founding date is in the facts but the Amchitka thermonuclear test of November 6 that prompted the sailing is not; Reggie Jackson's All-Star home run off the Tiger Stadium roof transformer on July 13; Al Unser's Indianapolis 500 win on May 29; the Glastonbury Festival held at the summer solstice from June 20; the Avandaro festival at Valle de Bravo on September 11 and 12; Mick Jagger's wedding at Saint-Tropez on May 12; Sticky Fingers on April 23, Who's Next on August 14, Meddle on October 31 and Led Zeppelin IV on November 8, whose sales figures on the year and music pages are cumulative and reach past this year; Juliane Koepcke surviving a fall of 10,000 feet from LANSA Flight 508 on December 24. Deaths that would have earned a place with more room: Duane Allman on October 29, Dean Acheson and Gene Vincent on October 12, Hugo Black on September 25, Lin Biao on September 13, Ralph Bunche on December 9, Audie Murphy on May 28, Ogden Nash on May 19, Thomas E. Dewey on March 16, Harold Lloyd on March 8, Francois Duvalier on April 21, Wasfi Tal on November 28, Edie Sedgwick on November 16, Max Steiner on December 28. Texture material taken from the cached pages and given no fact of its own: the Ibrox disaster, the Sylmar earthquake, the Bingol earthquake, the Daeyeonggak Hotel fire, Amtrak and the City of New Orleans derailment near Tonti, Starbucks, FedEx, Southwest Airlines, the first Australian McDonald's, the first public performance of Stairway to Heaven at the Ulster Hall, Carole King's Carnegie Hall concert, the Montreux Casino fire, THX 1138 and the founding of Lucasfilm, the longest game in NFL history, the first One Day International, and Satchel Paige's election to the Baseball Hall of Fame. The Deep Purple song written about the Montreux fire is named identically on the year page and the music page and is not quoted here, because the title as those pages print it could not be checked against a second source. Names are written in ASCII per the corpus convention, so Bingol, Jean Beliveau, Jan Kodes, Gosta Pettersson, Medecins Sans Frontieres, Severine and Francois Duvalier lose their diacritics. Deaths carry a birth year rather than an age, because the year page gives only the year; Morrison also carries the age 27 because both the year page and the music page state it. This file runs 52 facts across 10 sections."
+}

@@ -1,0 +1,506 @@
+{
+  "year": 1974,
+  "tier": "broadcast",
+  "headline": "Nixon resigned and Ford pardoned him, Hank Aaron hit his 715th home run, and Turkey invaded Cyprus",
+  "texture": [
+    "Turkish Airlines Flight 981 came down in the woods near Paris on March 3 with all 346 aboard, the deadliest aircraft accident to that point. Fire broke out in the Joelma Building in Sao Paulo on February 1 and killed 177, with 293 injured and eleven more dying later of their injuries. An express train from Belgrade derailed at Zagreb on August 30, killing more than 150. A tanker car struck a boxcar at Decatur, Illinois on July 19, killing seven and injuring 349. A 7.1 earthquake shook Zhaotong in China on May 11, with deaths put at between 1,600 and 20,000.",
+    "Four Ulster Volunteer Force car bombs went off in counties Dublin and Monaghan on May 17, killing 33 civilians and wounding almost 300, the highest casualties of any single event in the Troubles. A bomb wrecked the annex of Westminster Hall on June 17, destroying offices and a canteen. Two Birmingham pubs were bombed on November 21, killing 21. A bomb on a train between Italy and West Germany killed twelve on August 4, and the Mitsubishi Heavy Industries building in Tokyo was bombed on August 30, killing eight and wounding more than 376.",
+    "Philippe Petit strung a wire between the twin towers of the World Trade Center on August 7 and walked across it. The Cleveland Indians ran Ten Cent Beer Night against the Texas Rangers on June 4 and forfeited the game after violence spread from the stands onto the field. Evel Knievel failed to rocket across the Snake River Canyon in Idaho on September 8. Franklin National Bank collapsed on October 8 through fraud and mismanagement, the largest bank failure in the country to that date. Daylight Saving Time began on January 6, nearly four months early, because of the energy crisis.",
+    "The Terracotta Army of Qin Shi Huang was found at Xi'an in China on March 29, and a skeleton of Australopithecus afarensis named Lucy was found on November 24. Henry Heimlich described abdominal thrusts in a medical journal on June 1 as a treatment for choking. Volkswagen launched the Golf in West Germany on March 29 to replace the Beetle. Peasant women in Chamoli district, Uttarakhand put their bodies around trees on March 26 to stop loggers felling them, starting the Chipko movement. An all-female Japanese team summited Manaslu in Nepal on May 4, the first women up an 8,000 metre peak."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.nixon_resignation",
+    "pol.nixon_pardon",
+    "world.cyprus",
+    "sports.aaron_715",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Richard Nixon (R) until August 9, then Gerald Ford (R)",
+      "detail": "Ford had been Vice President until August 9, and that office stayed vacant until December 19, when the House of Representatives confirmed Nelson Rockefeller and he was sworn in that evening, the Senate having confirmed him on December 10. Warren E. Burger was Chief Justice, Carl Albert was Speaker of the House and Mike Mansfield was Senate majority leader. The 93rd Congress was in session.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "pol.nixon_resignation": {
+      "section": "politics",
+      "label": "Nixon resigns",
+      "value": "Nixon announced his resignation in a sixteen minute televised address from the Oval Office at 9:01 pm Eastern Daylight Time on August 8, and it took effect the next day, making him the first president of the United States to leave office by resignation",
+      "detail": "The date was checked against the dedicated article rather than copied from the year page. Both put the address on August 8 and the resignation on August 9, and the dedicated article adds the 9:01 pm start, the sixteen minutes and the Oval Office. It also has Nixon's letter of resignation delivered to Secretary of State Henry Kissinger at 11:35 am on August 9, at which moment Ford became president. The year page and the television page both give the resignation as effective at noon on August 9, an hour and twenty-five minutes after the letter, and this fact follows the dedicated article. Nixon said he had concluded that because of the Watergate matter he might not have the support of the Congress he considered necessary.",
+      "date": "1974-08-08",
+      "source": "https://en.wikipedia.org/wiki/Richard_Nixon%27s_resignation_speech"
+    },
+    "pol.ford_sworn_in": {
+      "section": "politics",
+      "label": "Ford sworn in as the 38th president",
+      "value": "Took the oath at 12:05 pm on Friday, August 9 in the East Room of the White House from Chief Justice Warren E. Burger, with Betty Ford holding the Bible open to Proverbs 3:5 to 6, and told the country that our long national nightmare is over",
+      "detail": "The date has a checkable constraint and it holds. August 9 fell on a Friday, which is the day the dedicated article names. Ford was the ninth vice president to succeed to the presidency during a term and the first to do so because of a resignation rather than a death. He had become vice president only eight months earlier, the first appointed under the terms of the Twenty-fifth Amendment after Spiro Agnew resigned, which makes him the only person to have held both offices without being elected to either. Burger was travelling in the Netherlands and was flown back to Washington for the swearing-in. The US year page names only the East Room and gives no time.",
+      "date": "1974-08-09",
+      "source": "https://en.wikipedia.org/wiki/Inauguration_of_Gerald_Ford"
+    },
+    "pol.nixon_pardon": {
+      "section": "politics",
+      "label": "Ford pardons Nixon",
+      "value": "Proclamation 4311 granted Nixon a full and unconditional pardon for any crimes he might have committed against the United States as president",
+      "detail": "The date was checked against the dedicated article, which agrees with both year pages on September 8. Ford explained it in a televised broadcast, calling the Nixon family's situation a tragedy in which we all have played a part and saying that only he could write the end to it. His approval rating fell from 71 percent to 50 percent afterwards. On October 17 he appeared before Congress to give sworn testimony about the pardon, which the US year page calls the only time a sitting president has done so.",
+      "date": "1974-09-08",
+      "source": "https://en.wikipedia.org/wiki/Pardon_of_Richard_Nixon"
+    },
+    "pol.impeachment_process": {
+      "section": "politics",
+      "label": "Impeachment process against Nixon",
+      "value": "The House Judiciary Committee opened formal hearings on May 9, the Supreme Court ruled 8 to 0 with one abstention in United States v. Nixon on July 24 that he could not withhold subpoenaed White House tapes, and the committee adopted three articles of impeachment between July 27 and 30",
+      "detail": "The articles charged obstruction of justice, failure to uphold laws, and refusal to produce material the committee had subpoenaed. Nixon had refused on January 4 to surrender 500 tapes and documents subpoenaed by the Senate Watergate Committee, citing executive privilege, and in his State of the Union Address on January 30 he declared that one year of Watergate is enough. Seven former White House officials were indicted on March 1 and charged with conspiracy to obstruct justice. The smoking gun tape of June 23, 1972 was revealed on August 5, in which Nixon and White House Chief of Staff H.R. Haldeman discuss using the Central Intelligence Agency to block a Federal Bureau of Investigation inquiry, and on August 7 Barry Goldwater, Hugh Scott and John Rhodes told him he lacked the votes to escape impeachment and conviction.",
+      "date": "1974-05-09",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Congressional midterm elections",
+      "value": "Democrats made large gains, with the Republican Party losing seats over the Watergate scandal",
+      "detail": "The date has a checkable constitutional constraint and it holds. November 1 fell on a Friday, so the first Monday was November 4 and the Tuesday after it was November 5, which is the date both year pages give. The year page describes the gains as nationwide in House, Senate and gubernatorial elections.",
+      "date": "1974-11-05",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "pol.cia_domestic_spying": {
+      "section": "politics",
+      "label": "CIA domestic spying reported",
+      "value": "The New York Times revealed illegal domestic spying by the Central Intelligence Agency",
+      "detail": "The US year page carries the revelation as a single line and names neither the reporter nor the programs involved.",
+      "date": "1974-12-21",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "world.cyprus": {
+      "section": "world",
+      "label": "Coup in Cyprus and the Turkish invasion",
+      "value": "The Greek military junta sponsored a coup in Cyprus on July 15 that replaced President Makarios III with Nikos Sampson, Turkey invaded on July 20, the junta in Athens was replaced by a civilian government on July 23, and Turkey invaded a second time on August 14, occupying 37 percent of the island",
+      "detail": "Greece withdrew its forces from NATO's military command structure on August 14 as a result of the second invasion. The year page calls the Greek transition the metapolitefsi. The first election since the junta's fall was held on November 17 and the newly formed New Democracy party won 220 of 300 seats in the Hellenic Parliament, and a referendum on December 8 rejected the monarchy by a margin of two to one.",
+      "date": "1974-07-15",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "world.carnation_revolution": {
+      "section": "world",
+      "label": "Carnation Revolution in Portugal",
+      "value": "A left-wing military coup restored democracy and ended 41 years of the Estado Novo dictatorship, and Prime Minister Marcelo Caetano fled to Brazil, where President Ernesto Geisel granted him political asylum",
+      "detail": "At 12:20 am on April 25 Radio Renascenca broadcast Grandola, Vila Morena by the political folk singer Jose Afonso, the signal for the Armed Forces Movement to begin the takeover. That detail is on the music page and not on the year page. The Portuguese military junta granted independence to Guinea-Bissau on September 10.",
+      "date": "1974-04-25",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "world.uk_two_elections": {
+      "section": "world",
+      "label": "Two general elections in the United Kingdom",
+      "value": "The February 28 election ended in a hung parliament, with the Liberal Party under Jeremy Thorpe taking its biggest vote, Conservative prime minister Edward Heath resigned on March 4 and Labour's Harold Wilson succeeded him, and Wilson won the second election of the year on October 11 with a three-seat majority",
+      "detail": "Wilson had led the country from 1964 to 1970. The year page says he had led his party for a total of 11 years and had now won four of the five general elections he had contested.",
+      "date": "1974-02-28",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "world.brandt_resigns": {
+      "section": "world",
+      "label": "Brandt resigns over a spy in his office",
+      "value": "The exposure of the East German spy Gunter Guillaume inside the West German government on April 24 led to Chancellor Willy Brandt's resignation on May 7 after four years in office, and Helmut Schmidt took the chancellorship on May 16",
+      "detail": "The year page calls the case the Guillaume Affair.",
+      "date": "1974-05-07",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "world.smiling_buddha": {
+      "section": "world",
+      "label": "India tests a nuclear weapon",
+      "value": "India detonated its first nuclear weapon under Project Smiling Buddha, becoming the sixth nation to do so",
+      "date": "1974-05-18",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "world.haile_selassie": {
+      "section": "world",
+      "label": "Haile Selassie deposed in Ethiopia",
+      "value": "The Derg deposed the emperor, ending the rule of the Solomonic dynasty, and the Ethiopian Civil War began",
+      "detail": "The year page dates the dynasty's rule from 1270. On November 23 the Derg killed a group of government and military officials in what the year page calls the Massacre of the Sixty, among them Aklilu Habte-Wold, the 6th Prime Minister of Ethiopia, Endelkachew Makonnen, the 4th Prime Minister, and Aman Andom, the country's 1st President.",
+      "date": "1974-09-12",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "world.cyclone_tracy": {
+      "section": "world",
+      "label": "Cyclone Tracy destroys Darwin",
+      "value": "The storm almost completely destroyed Darwin in the Northern Territory of Australia over December 24 and 25",
+      "detail": "The year page gives no casualty or damage figures, so none appear here.",
+      "date": "1974-12-24",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Towering Inferno, $50,000,000, 20th Century Fox and Warner Bros.",
+        "Blazing Saddles, $45,200,000, Warner Bros.",
+        "Young Frankenstein, $38,800,000, 20th Century Fox",
+        "Earthquake, $36,300,000, Universal",
+        "The Trial of Billy Jack, $31,100,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Rank, Title, Distributor, Domestic rentals. The Godfather Part II was sixth at $30,700,000 for Paramount, Airport 1975 seventh at $25,800,000 for Universal, The Longest Yard eighth at $23,000,000 and Death Wish ninth at $22,000,000, both also Paramount, and The Life and Times of Grizzly Adams tenth at $21,895,000 for Sunn Classic.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Godfather Part II, produced by Francis Ford Coppola with Gray Frederickson and Fred Roos as co-producers",
+      "detail": "Awarded the following spring at the 47th Academy Awards, where it took six awards from eleven nominations, including Best Director for Coppola and Best Adapted Screenplay for Coppola and Mario Puzo. Chinatown matched its eleven nominations and won one, Robert Towne's Best Original Screenplay. The Towering Inferno had eight nominations and won three. Howard Hawks and Jean Renoir received Honorary Awards.",
+      "source": "https://en.wikipedia.org/wiki/47th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Art Carney, Harry and Tonto",
+        "Best Actress, Ellen Burstyn, Alice Doesn't Live Here Anymore",
+        "Best Supporting Actor, Robert De Niro, The Godfather Part II",
+        "Best Supporting Actress, Ingrid Bergman, Murder on the Orient Express"
+      ],
+      "detail": "Three of the five Best Supporting Actor nominees came from The Godfather Part II: De Niro as Vito Corleone, Michael V. Gazzo as Frank Pentangeli and Lee Strasberg as Hyman Roth. Before the ceremony Dustin Hoffman, nominated for Lenny, called the awards ugly and grotesque and likened the ceremony to a beauty pageant, and the host Bob Hope replied that if Hoffman won he was going to have a friend pick it up for him, George C. Scott. Jack Nicholson, nominated for Chinatown, took the Golden Globe for Best Actor in a drama and a BAFTA for Chinatown and The Last Detail together.",
+      "source": "https://en.wikipedia.org/wiki/47th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Amarcord, Italy, winner of the Academy Award for Best Foreign Language Film",
+        "Cats' Play, Hungary",
+        "The Deluge, Poland",
+        "Lacombe, Lucien, France",
+        "The Truce, Argentina"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country. The Palme d'Or at Cannes went to The Conversation, directed by Francis Ford Coppola of the United States, and the Golden Bear at Berlin to The Apprenticeship of Duddy Kravitz, directed by Ted Kotcheff of Canada. Lacombe, Lucien took the BAFTA for Best Film and Scenes from a Marriage the Golden Globe for Best Foreign Language Film.",
+      "source": "https://en.wikipedia.org/wiki/47th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Blazing Saddles opened in the United States on February 7 and Chinatown, directed by Roman Polanski and starring Jack Nicholson, Faye Dunaway and John Huston, on June 20.",
+      "detail": "Technicolor stopped its dye-transfer printing process on November 1. Metro-Goldwyn-Mayer marked its fiftieth anniversary with That's Entertainment!, a documentary assembled out of its own musicals. Earthquake and The Towering Inferno were two of the three disaster films the film page notes as released in consecutive months from October. Joseph E. Levine resigned as president of Embassy Pictures on May 28, Barry Diller was announced as chairman and chief executive of Paramount Pictures on September 23, Frank Yablans announced his resignation as that studio's president on November 8, and Gordon Stulberg resigned as president of 20th Century Fox on December 30.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$1.89",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1974",
+      "value": [
+        "All in the Family, CBS, 30.2 rating",
+        "Sanford and Son, NBC, 29.6",
+        "Chico and the Man, NBC, 28.5",
+        "The Jeffersons, CBS, 27.6",
+        "M*A*S*H, CBS, 27.4"
+      ],
+      "detail": "Nielsen ranks by season, so this covers the season that opened in the autumn and ran into the following spring. Rhoda was sixth at 26.3, Good Times seventh at 25.8 and The Waltons eighth at 25.5. No ABC program reached the top fifteen, and the network's highest entry sat sixteenth at 22.6. The Rockford Files came twelfth at 23.7 in its first season, and Gunsmoke had fallen to twenty-eighth at 20.5.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1974%E2%80%9375"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Happy Days, ABC, January 15",
+        "Good Times, CBS, February 1",
+        "Nova, PBS, March 3",
+        "Rhoda, CBS, September 9",
+        "Little House on the Prairie, NBC, September 11",
+        "Chico and the Man, NBC, September 13",
+        "The Rockford Files, NBC, September 13"
+      ],
+      "detail": "Police Woman began on NBC and Kolchak: The Night Stalker on ABC the same day as Chico and the Man. The $10,000 Pyramid started on ABC on May 6 and The $25,000 Pyramid in syndication on September 9, alongside Dinah!. Get Christie Love! began on ABC on September 11 and Harry O on September 12. The US year page describes Happy Days as a sitcom about life in the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "The Secret Storm, CBS, February 8",
+        "The Brady Bunch, March 8",
+        "Here's Lucy, CBS, March 18",
+        "The Partridge Family, March 23",
+        "The Dean Martin Show, NBC, April 5"
+      ],
+      "detail": "The cancellation of Here's Lucy ended 23 consecutive years of Lucille Ball on television, which had begun with the premiere of I Love Lucy in 1951. The Secret Storm closed after 20 years and 5,195 episodes and was replaced ten days later by Tattletales, a celebrity gossip game show hosted by Bert Convy. The Dean Martin Show finished after 264 hour-long episodes. Love, American Style and Room 222 both ended on January 11. The television page's table of endings gives no network for The Brady Bunch or The Partridge Family, so neither is named here.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_American_television"
+    },
+    "tv.jane_pittman": {
+      "section": "tv",
+      "label": "The Autobiography of Miss Jane Pittman",
+      "value": "CBS broadcast an adaptation of Ernest J. Gaines's novel following the 110-year life of a former slave, with Cicely Tyson in the title role",
+      "detail": "The television page calls it multi-Emmy-winning and puts the story's span from the American Civil War to the Civil Rights Movement.",
+      "date": "1974-01-31",
+      "source": "https://en.wikipedia.org/wiki/1974_in_American_television"
+    },
+    "tv.chubbuck": {
+      "section": "tv",
+      "label": "Christine Chubbuck shoots herself on air",
+      "value": "The presenter drew a revolver during a live newscast on Suncoast Digest at WXLT-TV in Sarasota, Florida, and died in hospital fourteen hours later",
+      "detail": "The three cached pages tell it three ways. The television page describes a gunshot from behind her right ear and calls her a reporter for WXLT, the US year page gives the revolver and the fourteen hours and calls her a television presenter, and the year page calls it the first suicide on live television.",
+      "date": "1974-07-15",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "The Way We Were, Barbra Streisand",
+        "Seasons in the Sun, Terry Jacks",
+        "Love's Theme, Love Unlimited Orchestra",
+        "Come and Get Your Love, Redbone",
+        "Dancing Machine, The Jackson 5"
+      ],
+      "detail": "Billboard's Top 100, printed in the Talent In Action section of the issue dated December 28 and compiled from Hot 100 charts dated November 24, 1973 through October 26, 1974. The Loco-Motion by Grand Funk Railroad was sixth, TSOP by MFSB and The Three Degrees seventh and The Streak by Ray Stevens eighth. Gladys Knight and the Pips had three songs on the list, at 34, 41 and 69. Paul McCartney's band Wings had Band on the Run at 22, with Jet and Helen Wheels also charting.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1974"
+    },
+    "music.tsop": {
+      "section": "music",
+      "label": "TSOP reaches number one",
+      "value": "TSOP (The Sound of Philadelphia) by MFSB went to the top of the Billboard Hot 100 for the first of two weeks",
+      "detail": "The music page calls it the first disco song to reach number one. It had been commissioned, composed and recorded as the theme for the syndicated television program Soul Train, where it debuted in October 1973, which the same page says also makes it the first television theme song of the rock era to get there.",
+      "date": "1974-04-20",
+      "source": "https://en.wikipedia.org/wiki/1974_in_music"
+    },
+    "music.abba_eurovision": {
+      "section": "music",
+      "label": "ABBA win Eurovision with Waterloo",
+      "value": "The Swedish group won the 19th Eurovision Song Contest at The Dome in Brighton, England",
+      "detail": "Sandie Shaw, who had won the contest in 1967, attended. The music page says the win kickstarted the group's international career.",
+      "date": "1974-04-06",
+      "source": "https://en.wikipedia.org/wiki/1974_in_music"
+    },
+    "music.dylan_tour": {
+      "section": "music",
+      "label": "Bob Dylan and The Band tour",
+      "value": "The 40-date tour opened at Chicago Stadium on January 3, Dylan's first since 1966",
+      "detail": "David Bowie launched the Diamond Dogs tour at the Montreal Forum on June 14, a year after announcing that he was giving up touring as Ziggy Stardust. George Harrison opened a North American tour in Vancouver on November 2, the first by a former Beatle since the band's tour of August 1966. John Lennon joined Elton John on stage at Madison Square Garden for three songs on November 28.",
+      "date": "1974-01-03",
+      "source": "https://en.wikipedia.org/wiki/1974_in_music"
+    },
+    "music.california_jam": {
+      "section": "music",
+      "label": "First California Jam festival",
+      "value": "Held at the Ontario Motor Speedway in Ontario, California, co-headlined by Deep Purple and Emerson, Lake & Palmer, with Black Sabbath, Black Oak Arkansas and the Eagles also on the bill",
+      "detail": "The year page says the festival set what were then records for the loudest amplification system ever installed, the highest paid attendance and the highest gross. No attendance figure appears here because the pages disagree: the music page says 200,000 and the US year page says 250,000. The Ozark Music Festival at Sedalia, Missouri from July 19 to 21 drew a crowd the music page puts at between 100,000 and 350,000, and the first Knebworth concert in England on July 20 was headlined by The Allman Brothers Band.",
+      "date": "1974-04-06",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Old records came back through the screen. Rock Around the Clock by Bill Haley and His Comets re-entered the Billboard top 40 on May 25, twenty years after it was recorded, off the back of its use in the film American Graffiti and the television series Happy Days.",
+      "detail": "The Bottom Line opened in Greenwich Village on February 12 with Dr. John as its first headlining act, and the Ramones played CBGB for the first time on August 16. Lord Shorty's Endless Vibrations, which the music page calls the first soca LP and the first major soca hit worldwide, is listed among the year's releases without a date.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_music"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "Spacecraft",
+      "value": [
+        "Skylab 4 returned to Earth on February 8 after a record 84 days in orbit",
+        "Mariner 10 approached Mercury on March 29",
+        "NASA launched the ATS-6 satellite on May 30",
+        "Pioneer 11 passed Jupiter on December 4 and captured images of the Great Red Spot"
+      ],
+      "detail": "The Skylab 4 return is on both the year page and the US year page. The other three are on the US year page only.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "tech.upc": {
+      "section": "tech",
+      "label": "First barcode scanned at a checkout",
+      "value": "The Universal Product Code was scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio",
+      "date": "1974-06-26",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "tech.arecibo_message": {
+      "section": "tech",
+      "label": "Arecibo message",
+      "value": "The radio telescope at the Arecibo Observatory in Puerto Rico sent an interstellar radio message towards Messier 13, the Great Globular Cluster in Hercules",
+      "detail": "The year page also estimates when the message arrives, which is left out because that figure falls outside this page's own year.",
+      "date": "1974-11-16",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Arcade and computer games",
+      "value": [
+        "Tank, Kee Games, November, the best selling arcade video game released this year",
+        "Gran Trak 10, Atari, March, a driving game holding its graphics and course data in ROM",
+        "TV Basketball, Taito and Midway, February, the first coin-operated video game with human-shaped characters",
+        "Speed Race, Taito, November, an early form of scrolling graphics",
+        "Baseball, Ramtek, October, the first coin-operated sports video game to depict its play authentically"
+      ],
+      "detail": "Tomohiro Nishikado designed Taito's Basketball, which Midway licensed for North America as TV Basketball, making it the first Japanese video arcade game officially exported to the United States. Speed Race helped establish 100 yen as the standard play price in Japan. Frost & Sullivan put the year at 40,000 video game cabinets and $40,500,000 in machine sales. Magnavox and Sanders Associates sued Atari, Bally, Chicago Dynamic Industries, Allied Leisure and Empire Distributing on April 15 over the Odyssey patents of Ralph Baer and Bill Rusch. Atari bought Kee Games in September and made Joseph Keenan its president, and Nakamura Seisakusho, later Namco, bought Atari Japan in July for 296 million yen. Jim Bowery's Spasim, written for the PLATO IV system in March, was the first computer game to use true 3D graphics rather than a fixed perspective.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.53 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$2.00 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Watergate ran from a refusal to hand over tapes in January to a resignation in August and a pardon a month later, the five month oil embargo against the United States lifted in March, and the year closed with Darwin flattened on Christmas Eve."
+    },
+    "culture.hearst_sla": {
+      "section": "culture",
+      "label": "Patricia Hearst and the Symbionese Liberation Army",
+      "value": "Members of the group kidnapped the newspaper heiress from her Berkeley apartment on February 4, she joined them in robbing a branch of the Hibernia Bank in San Francisco on April 15, and Los Angeles police raided their headquarters on May 17, killing six",
+      "detail": "The dead included the group's leader Donald DeFreeze and Camilla Hall. All three entries are on the US year page and none is on the year page.",
+      "date": "1974-02-04",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "culture.people_magazine": {
+      "section": "culture",
+      "label": "People magazine's first issue",
+      "value": "Published in the United States with Mia Farrow on the cover",
+      "date": "1974-03-04",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "culture.dungeons_dragons": {
+      "section": "culture",
+      "label": "Dungeons & Dragons released",
+      "value": "The tabletop role-playing game designed by Gary Gygax and Dave Arneson was first released, in the United States",
+      "detail": "The US year page carries it among undated entries, so no month is given.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "culture.rubiks_cube": {
+      "section": "culture",
+      "label": "Rubik's Cube invented",
+      "value": "The Hungarian architecture professor Erno Rubik built the mechanical puzzle",
+      "detail": "The year page carries it under date unknown, so no month is given.",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Physics, Martin Ryle and Antony Hewish",
+        "Chemistry, Paul Flory",
+        "Medicine, Albert Claude, Christian de Duve and George Emil Palade",
+        "Literature, Eyvind Johnson and Harry Martinson",
+        "Peace, Sean MacBride and Eisaku Sato",
+        "Economics, Gunnar Myrdal and Friedrich Hayek"
+      ],
+      "detail": "The year page lists the economics award alongside the five original prizes and links it to the Nobel Memorial Prize in Economic Sciences.",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Oakland Athletics beat the Los Angeles Dodgers four games to one for a third consecutive Major League championship",
+      "detail": "The sports page gives the series result and the US year page the October 17 clinching date and the third consecutive title.",
+      "date": "1974-10-17",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "sports.aaron_715": {
+      "section": "sports",
+      "label": "Hank Aaron passes Babe Ruth",
+      "value": "The Atlanta Braves outfielder hit his 715th career home run in the fourth inning at Atlanta-Fulton County Stadium, off Al Downing of the Los Angeles Dodgers, breaking Ruth's record",
+      "detail": "He had tied Ruth with his 714th at Riverfront Stadium in Cincinnati four days earlier, on April 4.",
+      "date": "1974-04-08",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "sports.frank_robinson": {
+      "section": "sports",
+      "label": "First African-American manager in Major League Baseball",
+      "value": "Frank Robinson took the job",
+      "detail": "The sports page carries the line without a date, so none is given here.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "West Germany beat the Netherlands 2 to 1 on July 7 in a tournament played in West Germany from June 13, and were awarded the new FIFA World Cup Trophy",
+      "date": "1974-07-07",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "sports.rumble_in_the_jungle": {
+      "section": "sports",
+      "label": "The Rumble in the Jungle",
+      "value": "Muhammad Ali knocked out George Foreman in the eighth round at Kinshasa in Zaire, regaining the world heavyweight title that had been stripped from him seven years earlier",
+      "detail": "Ali was Associated Press Male Athlete of the Year and Sports Illustrated Sportsman of the Year, and Chris Evert was Associated Press Female Athlete of the Year. The first World Amateur Boxing Championships were held in Havana from August 17 to 30, and Carlos Monzon kept his world middleweight title in Paris on February 9 by knocking out the world welterweight champion Jose Napoles in the seventh round.",
+      "date": "1974-10-30",
+      "source": "https://en.wikipedia.org/wiki/1974_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Super Bowl VIII, Miami Dolphins 24, Minnesota Vikings 7, at Rice Stadium before 71,882",
+        "Stanley Cup, Philadelphia Flyers over the Boston Bruins, four games to two",
+        "NBA Finals, Boston Celtics over the Milwaukee Bucks, four games to three",
+        "NCAA basketball, North Carolina State 76, Marquette 64",
+        "FA Cup, Liverpool 3, Newcastle United 0",
+        "Grey Cup, Montreal Alouettes 20, Edmonton Eskimos 7",
+        "World Snooker Championship, Ray Reardon over Graham Miles, 22 to 12"
+      ],
+      "detail": "Larry Csonka was most valuable player of Super Bowl VIII, and the US year page has the Dolphins repeating as National Football League champions. The Celtics title was their twelfth and the deciding game went 102 to 87. The Flyers were the first expansion team to win the Stanley Cup, and Phil Esposito of the beaten Bruins took both the Art Ross Trophy and the Hart Memorial Trophy. North Carolina State had beaten UCLA 80 to 77 in overtime in the semifinals, ending the Bruins' run of seven consecutive national titles, and Notre Dame had ended their record 88-game winning streak 71 to 70 on January 19. Jimmy Connors won the Australian Open, Wimbledon and the US Open, Bjorn Borg the French Open, Chris Evert the French Open and Wimbledon, and Billie Jean King the US Open. Eddy Merckx won the Giro d'Italia, the Tour de France and the world road race championship, Gary Player the Masters and the British Open, and Red Rum the Grand National.",
+      "source": "https://en.wikipedia.org/wiki/1974_in_sports"
+    },
+    "deaths.pompidou": {
+      "section": "deaths",
+      "label": "Georges Pompidou",
+      "value": "Died April 2. Born 1911",
+      "detail": "100th Prime Minister of France, 19th President of France and Co-Prince of Andorra.",
+      "date": "1974-04-02",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "deaths.ellington": {
+      "section": "deaths",
+      "label": "Duke Ellington",
+      "value": "Died May 24. Born 1899",
+      "detail": "American jazz pianist and bandleader.",
+      "date": "1974-05-24",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "deaths.warren": {
+      "section": "deaths",
+      "label": "Earl Warren",
+      "value": "Died July 9. Born 1891",
+      "detail": "American jurist and politician, Chief Justice of the United States Supreme Court.",
+      "date": "1974-07-09",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "deaths.peron": {
+      "section": "deaths",
+      "label": "Juan Peron",
+      "value": "Died July 1. Born 1895",
+      "detail": "Argentine army general and politician, twice President of Argentina. His wife Isabel Peron had been sworn in as the first female President of Argentina two days earlier, on June 29, taking over from him while he was ill.",
+      "date": "1974-07-01",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "deaths.lindbergh": {
+      "section": "deaths",
+      "label": "Charles Lindbergh",
+      "value": "Died August 26. Born 1902",
+      "detail": "American aviator.",
+      "date": "1974-08-26",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    },
+    "deaths.u_thant": {
+      "section": "deaths",
+      "label": "U Thant",
+      "value": "Died November 25. Born 1909",
+      "detail": "Burmese diplomat and 3rd Secretary-General of the United Nations.",
+      "date": "1974-11-25",
+      "source": "https://en.wikipedia.org/wiki/1974"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1974. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor(s), Domestic rentals, under a caption reading Highest-grossing films of 1974. Film title held out of the file. The seventh-placed rentals entry is Airport 1975, at $25,800,000 for Universal Pictures. Its title carries a year later than this page's own, and the anachronism check in validate-data.mjs rejects that unless the exact string sits in src/data/title_years.json. The brief for this year said not to edit that file, so the title is named here and left out of film.gross, whose detail says why the seventh rank is unnamed. Adding Airport 1975 to title_years.json would let the detail name it, and that entry would satisfy the file's own rule, because the year sits next to enough other text to be unmistakable rather than being a bare number. Date checks. Three of them were run against dedicated articles pulled as raw wikitext, which are the only sources in this file from outside the cache. pol.nixon_resignation cites https://en.wikipedia.org/wiki/Richard_Nixon%27s_resignation_speech, which puts the address on the evening of August 8 at 9:01 pm Eastern Daylight Time, runs it 16 minutes, and has the letter of resignation reaching Secretary of State Henry Kissinger at 11:35 am on August 9, at which moment Ford became president. The year page and the television page both say the resignation was effective at noon on August 9, which is an hour and twenty-five minutes later than the delivery of the letter and close to the 12:05 pm oath, and the fact names the disagreement and follows the dedicated article. pol.ford_sworn_in cites https://en.wikipedia.org/wiki/Inauguration_of_Gerald_Ford for the 12:05 pm oath, the East Room, Warren E. Burger, Betty Ford holding the Bible open to Proverbs 3:5 to 6, and Burger being flown back from the Netherlands; the US year page carries only the East Room. The dedicated article names August 9 as a Friday and the calendar bears that out. pol.nixon_pardon cites https://en.wikipedia.org/wiki/Pardon_of_Richard_Nixon, which agrees with both year pages on September 8 and adds Proclamation 4311, the quoted explanation and the drop in approval from 71 percent to 50 percent; the only time a sitting president has given sworn testimony to Congress is the US year page's line, not the dedicated article's, and the fact draws on both. The midterm elections have a checkable constitutional constraint and it holds: November 1 fell on a Friday, so the first Monday was November 4 and the Tuesday after it was November 5, which is the date both year pages give. Two presidents in one year, so pol.us_president carries both men the way 1963 does, and the vice presidency it describes was vacant from August 9 to December 19. No radio fact, because the radio window closed after 1959. The radio material of the year is in music.listening_format and in world.carnation_revolution, where a radio broadcast of Grandola, Vila Morena was the signal to start the coup. tech.games is open from 1972 and carries the arcade year, the two financial estimates and the Magnavox patent suit; the computer side of the year, Spasim on PLATO IV, sits in that fact's detail rather than in an id whose availability window does not exist. The Nielsen ranking covers a season that began in the autumn of 1974 and ran into the following spring, which tv.top_shows states without naming a second year. The 47th Academy Awards ceremony and its nomination announcement both fall in the following year, so film.best_picture says awarded the following spring and gives no ceremony date. Source disagreements labelled rather than resolved: the California Jam crowd is 200,000 on the music page and 250,000 on the US year page, so music.california_jam gives no figure and names both; the Christine Chubbuck death is a gunshot from behind the right ear on the television page, a revolver and a death fourteen hours later on the US year page, and the first suicide on live television on the year page, and tv.chubbuck names all three; the WXLT call sign is WXLT on the television page and WXLT-TV on the US year page; the Zhaotong earthquake toll is a range of 1,600 to 20,000 on the year page and appears in texture as that range. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.carnation_revolution cites the year page and takes the Radio Renascenca broadcast from the music page; music.california_jam cites the year page for the venue, the two co-headliners and the three records the festival set, and takes the rest of the bill, the two attendance figures, the Ozark Music Festival and the Knebworth concert from the music page; film.world_cinema cites the Academy Awards page for the five Foreign Language Film nominees and their countries and takes the Palme d'Or, the Golden Bear, the BAFTA and the Golden Globe from the film page; sports.world_series cites the US year page for the date and the third consecutive title and the sports page for the four games to one; sports.rumble_in_the_jungle cites the US year page for the bout and takes the athlete of the year awards, the Havana amateur championships and the Monzon fight from the sports page; sports.champions cites the sports page for every result and takes the Dolphins repeating as champions, the Celtics' twelfth title, the 102 to 87 deciding game and the Flyers being the first expansion team to win the Stanley Cup from the US year page; film.acting_awards cites the Academy Awards page for the four winners and takes Jack Nicholson's Golden Globe and BAFTA from the film page; tv.premieres cites the television page and takes the description of Happy Days from the US year page. Dropped for lack of a day on the cached pages: Skittles, and the first Standing Conference of Eastern, Central and Southern African Library and Information Associations at Dar es Salaam, both undated on the year page; PepsiCo becoming the first American company to sell products in the Soviet Union, Monty Python's Flying Circus first going out in the United States on KERA-TV, the founding of the Women's Center of Rhode Island and Stanley Milgram's Obedience to Authority, all undated on the US year page; the original Alice Cooper group breaking up and Journey signing to Columbia Records, undated on the music page. Dropped to hold the section counts down rather than for want of a source: the federal campaign reform bill Ford signed on October 15; the Justice Department's final antitrust suit against AT&T on November 20, whose year page line reaches forward past this year; the Boldt ruling of February 12 on treaty fishing rights in Washington state; Samuel Byck's attempt on February 22 to hijack an airplane and crash it into the White House; the murder of Alberta Williams King on June 30; the Baltimore police strike of July 11 to 17; the killing of Chilean general Carlos Prats on September 30; the Kiryat Shmona massacre of April 11; the Laju incident at Singapore on January 31; the Zamalek stadium stampede in Cairo on February 17 that killed 49; the Japanese Red Army seizure of the French Embassy in The Hague on September 13; Kuala Lumpur being declared a Federal Territory on February 1; the FALN bombs in Manhattan on October 26; the founding of the World Tourism Organization on November 1 and the International Energy Agency on November 18; the United Nations General Assembly granting the Palestine Liberation Organization observer status on November 22; Malta becoming a republic on December 13; the Bundes-Immissionsschutzgesetz passed by the Bundestag on March 18; the Australian federal election of May 18; Pinochet taking the title of Supreme Chief of the Nation on June 27; the removal of restrictions on holding private gold on December 31, which is in texture instead; the 16th Annual Grammy Awards of March 2, which honoured the previous year's recordings; the first American Music Awards of February 19; Expo '74 opening at Spokane on May 4; the Ronald DeFeo murders in Amityville on November 13; the Miss World pageant of November 26; the two Boeing 727 crashes of December 1; Lufthansa Flight 540 at Nairobi on November 20; TWA Flight 841 in the Ionian Sea on September 8; the John Stonehouse arrest on December 23. Deaths that would have earned a place with more room: Ed Sullivan on October 13, Jack Benny on December 26, Oskar Schindler on October 9, Cass Elliot on July 29 aged 30, Nick Drake on November 25, Vittorio De Sica on November 13, Karen Silkwood on November 13, Samuel Goldwyn on January 31, Georgy Zhukov on June 18, Vannevar Bush on June 28, Marcel Pagnol on April 18, Agnes Moorehead on April 30, Bud Abbott on April 24, Louis Kahn on March 17, Chet Huntley on March 20, Walter Lippmann on December 14, Anne Sexton on October 4, David Oistrakh on October 24, Erich Kastner on July 29, Dizzy Dean on July 17, Tim Horton on February 21. Texture material taken from the cached pages but given no fact of its own: Turkish Airlines Flight 981; the Joelma Building fire; the Zagreb derailment; the Decatur railcar explosion; the Zhaotong earthquake; the Dublin and Monaghan bombings; the Westminster Hall bomb; the Birmingham pub bombings; the Italicus Express bomb; the Mitsubishi Heavy Industries bombing; Philippe Petit at the World Trade Center; Ten Cent Beer Night; Evel Knievel at the Snake River Canyon; the Franklin National Bank collapse; the early start of Daylight Saving Time; the Terracotta Army; Lucy; the Heimlich maneuver; the Volkswagen Golf; the Chipko movement; the first women's ascent of Manaslu. The Super Outbreak of April 3 and 4 was left out of texture because the year page gives around 319 dead and about 5,484 injured while the US year page gives over 300 dead and over 5,000 injured, and neither figure could be stated without picking a side. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and that records in 1974 meant 45s and LPs and that music reached most listeners over the radio, which music.listening_format states before its sourced example. Both come out if challenged. Names and titles are written in ASCII per the corpus convention, so Sao Paulo, Gunter Guillaume, Radio Renascenca, Grandola, Vila Morena, Jose Afonso, Erno Rubik, Sean MacBride, Eisaku Sato, Bjorn Borg, Juan Peron, Isabel Peron, Carlos Monzon and Jose Napoles lose their diacritics. Deaths carry a birth year rather than an age, because the year page gives only the year. This file runs 55 facts across 10 sections, three above the 40 to 52 the brief asks for, which is inside what 1963 and 1970 already do at 56 and 54. The largest sections are politics and world at 7 each, inside the roughly 7 the brief suggests, and deaths carries 6. Review pass made two changes. Airport 1975 was added to src/data/title_years.json and restored to the film.gross detail by name; the year in that title sits beside a word, so it meets that file's own rule, and a fact explaining that the build would not let it print a title was a build artifact showing through to a reader. music.listening_format no longer opens with \"On 45s and LPs, and on the radio\", which was general knowledge rather than a claim from the cached pages. It now leads with the sourced Rock Around the Clock re-entry, which is itself an answer to how music reached people that year."
+}

@@ -1,0 +1,510 @@
+{
+  "year": 1973,
+  "tier": "broadcast",
+  "headline": "The Paris Peace Accords ended US involvement in Vietnam, the Yom Kippur War brought an oil embargo, and Agnew resigned",
+  "texture": [
+    "Mark Essex shot four civilians and three police officers during a siege at the Downtown Howard Johnson's Motor Lodge in New Orleans on January 7, and police firing from a Marine helicopter killed him ten hours in. A Royal Jordanian Boeing 707 flying from Jeddah came down at Kano in Nigeria on January 22 and killed 176. Propane being pumped from a rail car in Kingman, Arizona set off a boiling liquid expanding vapour explosion on July 5 that killed 11 firefighters. A flash fire took 51 lives at the Summerland amusement centre in Douglas on August 2, and 104 died in the Taiyo department store at Kumamoto on November 29.",
+    "Ron Blomberg of the New York Yankees batted as the first designated hitter in Major League Baseball on April 6, and Orlando Cepeda had signed with the Boston Red Sox on January 18 as the first player brought in specifically to be one. Nolan Ryan threw his second no-hitter of the season against Detroit on July 15, two months to the day after no-hitting Kansas City. Willie Mays announced his retirement on September 20. Yankee Stadium closed on September 30 for a renovation costing $160 million, and CBS had sold the club on January 1 for $10 million to a syndicate led by George Steinbrenner.",
+    "David Bowie retired his Ziggy Stardust persona in front of a shocked Hammersmith Odeon audience on July 3, at the end of his British tour. Kiss played their first concert at the Coventry Club in Queens on January 30 and became the first act signed to Neil Bogart's Casablanca Records on November 1. CBGB opened in Manhattan on December 10. Robert Wyatt fell three storeys from a London apartment block on June 1 and was paralysed from the waist down, writing the material for Rock Bottom during six months in hospital. Lou Reed was bitten on the buttocks by a fan at a concert in Buffalo on March 24.",
+    "Federal Express began operations on April 17 with 14 small aircraft out of Memphis International Airport, delivering 186 packages to 25 cities that night. Trading began on the Chicago Board Options Exchange on April 26. The dollar was devalued by 10 percent on February 13. Ohio put up the first metric road distance signs of any state on February 12. Thomas Pynchon's Gravity's Rainbow was published on February 28. The Norrmalmstorg robbery on August 23 gave the term Stockholm syndrome its name, and the Ideal Toy Company brought out the Evel Knievel stunt cycle on October 1."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.saturday_night_massacre",
+    "world.yom_kippur_war",
+    "world.oil_embargo",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Richard Nixon (R)",
+      "detail": "Spiro Agnew was Vice President until October 10, the office stood vacant from October 10 to December 6, and Gerald Ford held it from December 6. Warren E. Burger was Chief Justice, Carl Albert was Speaker of the House and Mike Mansfield was Senate majority leader. The 92nd Congress sat until January 3 and the 93rd from that date. The US year page lists Nixon as a Republican of California.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "pol.nixon_inauguration": {
+      "section": "politics",
+      "label": "Nixon inaugurated for a second term",
+      "value": "Sworn in at the East Portico of the United States Capitol by Chief Justice Warren E. Burger, who administered the vice presidential oath to Spiro Agnew as well, at the 47th inauguration and under the theme The Spirit of '76",
+      "detail": "The date carries a checkable constraint and it holds. Both cached year pages put the swearing-in on January 20, and the dedicated article gives Saturday, January 20, which the calendar bears out. That article, cited here, supplies the venue, the count of this as the 47th inauguration, the single Chief Justice administering both oaths and the inaugural theme, none of which either year page carries. The US year page has only the line that Nixon and Agnew were sworn in for their second term. Apollo 17 astronauts joined the inaugural parade with a training version of the Lunar Roving Vehicle. Conditions at Washington National Airport at noon were 42 degrees Fahrenheit and cloudy with a 16 mile an hour wind. Events planned for the days after were cancelled when Lyndon B. Johnson died two days later, and Johnson's casket had to travel the whole length of the Capitol to lie in state because the inaugural stands were still up on the East Front steps.",
+      "date": "1973-01-20",
+      "source": "https://en.wikipedia.org/wiki/Second_inauguration_of_Richard_Nixon"
+    },
+    "pol.paris_peace_accords": {
+      "section": "politics",
+      "label": "Paris Peace Accords end US involvement in Vietnam",
+      "value": "The accords were signed on January 27 and the last United States soldier left Vietnam on March 29",
+      "detail": "Nixon announced the suspension of offensive action in North Vietnam on January 15, citing progress in negotiations, and announced on January 23 that a peace accord had been reached. The military draft was abolished on the day the accords were signed, with the administration stating there would be no draft calls that year and that it would not request an extension of its draft authority, which expired on June 30. The first American prisoners of war were released on February 11. Many of the few remaining soldiers began leaving on March 17, and one reunion of a former prisoner with his family became the Pulitzer Prize-winning photograph Burst of Joy. US bombing of Cambodia ended on August 15, which the year page says officially halted 12 years of combat activity in Southeast Asia under the Case-Church Amendment.",
+      "date": "1973-01-27",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "pol.watergate": {
+      "section": "politics",
+      "label": "Watergate reaches the White House staff",
+      "value": "James W. McCord Jr. wrote to Judge John Sirica on March 23 that the defendants had been pressured to stay silent, naming former Attorney General John Mitchell as overall boss of the operation, and on April 30 Nixon announced that White House Counsel John Dean had been fired and that Attorney General Richard Kleindienst had resigned along with H. R. Haldeman and John Ehrlichman",
+      "detail": "G. Gordon Liddy was found guilty of Watergate charges on January 30. Televised hearings opened in the United States Senate on May 17, John Dean began his testimony before the Senate Watergate Committee on June 25, and Alexander Butterfield told the committee on July 16 that Nixon had secretly recorded potentially incriminating conversations. W. Mark Felt, whom the US year page names as Deep Throat, retired from the Federal Bureau of Investigation on June 22.",
+      "date": "1973-03-23",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "pol.saturday_night_massacre": {
+      "section": "politics",
+      "label": "Saturday Night Massacre",
+      "value": "Nixon ordered Attorney General Elliot Richardson to dismiss the Watergate special prosecutor Archibald Cox, Richardson refused and resigned along with Deputy Attorney General William Ruckelshaus, and Solicitor General Robert Bork, third in line at the Department of Justice, then fired Cox",
+      "detail": "The date carries a checkable constraint and it holds: October 20 fell on a Saturday. Both cached pages say the event brought calls for Nixon's impeachment. Bork, as acting Attorney General, appointed Leon Jaworski as the new special prosecutor on November 1. Nixon told 400 Associated Press managing editors in Orlando on November 17 that he was not a crook. His attorney J. Fred Buzhardt revealed on November 21 that one of the White House tape recordings had an eighteen and a half minute gap.",
+      "date": "1973-10-20",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "pol.vice_presidency": {
+      "section": "politics",
+      "label": "Agnew resigns and Ford is confirmed as vice president",
+      "value": "Agnew resigned on October 10 and pleaded no contest in federal court in Baltimore to income tax evasion on $29,500 he had received in 1967 while governor of Maryland, taking a $10,000 fine and three years' probation, and the Senate confirmed Gerald Ford 92 to 3 on November 27 and the House 387 to 35 on December 6, when he was sworn in",
+      "detail": "The office stood vacant between the two dates. The US year page's caption calls Ford the 40th vice president, and the article on Nixon's second inauguration calls Agnew the 39th.",
+      "date": "1973-10-10",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Landmark Supreme Court decisions",
+      "value": [
+        "Roe v. Wade, January 22, overturning state bans on abortion",
+        "Miller v. California, June 21, establishing the Miller test for determining obscenity"
+      ],
+      "detail": "The US year page gives Roe in a single line and adds nothing about the reasoning or the vote. Capital punishment remained suspended under Furman v. Georgia, which the same page lists among the year's ongoing conditions.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "pol.laws": {
+      "section": "politics",
+      "label": "Laws and a veto override",
+      "value": [
+        "War Powers Resolution, November 7, enacted when Congress overrode Nixon's veto, limiting presidential power to wage war without congressional approval",
+        "Trans-Alaska Pipeline Authorization Act, signed November 16, authorising construction of the Alaska Pipeline",
+        "Endangered Species Act, passed December 28",
+        "Education of the Handicapped Act, passed by Congress July 2, mandating special education federally"
+      ],
+      "detail": "The Drug Enforcement Administration was founded on July 1. Both cached pages carry the War Powers override, the pipeline act and the Endangered Species Act. The Education of the Handicapped Act and the Drug Enforcement Administration appear only on the US year page. Neither page says who signed the Endangered Species Act, only that it passed.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "world.yom_kippur_war": {
+      "section": "world",
+      "label": "Yom Kippur War",
+      "value": "Egyptian and Syrian forces attacked Israeli forces in the Sinai Peninsula and the Golan Heights on Yom Kippur, October 6, in what the year page calls the fourth and largest Arab-Israeli conflict, and the fighting ended on October 25",
+      "detail": "Egypt and Israel signed a United States-sponsored cease-fire accord on November 11. Israeli commandos had raided Beirut on April 10 in Operation Spring of Youth and killed three leaders of the Palestinian resistance movement, and the Lebanese army's inaction brought the immediate resignation of Prime Minister Saeb Salam. Israeli fighter aircraft shot down Libyan Arab Airlines Flight 114 over the Sinai on February 21, having suspected the airliner of being a military plane, and 108 of the 113 people aboard were killed.",
+      "date": "1973-10-06",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "world.oil_embargo": {
+      "section": "world",
+      "label": "OPEC oil embargo",
+      "value": "An embargo against several countries that had supported Israel set off the year's energy crisis",
+      "detail": "The year page dates the embargo to October 17 and names no member states, no target list and no price. The US year page carries the oil crisis and the wider energy crisis among the year's ongoing conditions without describing either. The music page gives the same October 17 date as the start of shortages in the vinyl needed to press records. Nixon signed the Trans-Alaska Pipeline Authorization Act on November 16.",
+      "date": "1973-10-17",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "world.chile_coup": {
+      "section": "world",
+      "label": "Military coup in Chile",
+      "value": "Chile's elected government was overthrown on September 11 after serious political instability, President Salvador Allende allegedly took his own life in the La Moneda presidential palace during the coup, and General Augusto Pinochet headed a US-backed military junta",
+      "detail": "The singer and political activist Victor Jara was killed on September 16 and the poet Pablo Neruda died on September 23. The Weather Underground bombed ITT in New York City on September 28 in protest at the company's involvement in the coup. Chile broke off diplomatic contact with Sweden in December, which the year page dates only to the month.",
+      "date": "1973-09-11",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "world.eec_enlargement": {
+      "section": "world",
+      "label": "Britain, Ireland and Denmark join the European Economic Community",
+      "value": "All three entered on January 1",
+      "detail": "Value Added Tax was introduced in the United Kingdom on April 1. The Republic of Ireland held a general election on February 28 and Liam Cosgrave became Taoiseach, and Erskine Hamilton Childers was elected the fourth President of Ireland on June 25. A referendum in Northern Ireland on March 8 asked whether to reunite with the Republic or stay in the United Kingdom and returned 98 percent for remaining, and the Provisional Irish Republican Army answered by planting four car bombs in London the same day, two of which went off, killing one person and injuring over 200.",
+      "date": "1973-01-01",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "Philippines, January 17, Ferdinand Marcos became President for Life",
+        "Argentina, May 25, Hector Jose Campora became democratic president, ending the Revolucion Argentina military dictatorship that had held power since 1966",
+        "Greece, June 1, the military junta abolished the monarchy and proclaimed a republic, and Georgios Papadopoulos was himself ousted on November 25 in a coup led by Brigadier General Dimitrios Ioannidis",
+        "Uruguay, June 27, President Juan Maria Bordaberry dissolved parliament under military pressure and a civic-military dictatorship began",
+        "Afghanistan, July 17, King Mohammed Zahir Shah was deposed by his cousin Mohammed Daoud Khan while in Italy for eye surgery",
+        "Sweden, September 15, Carl XVI Gustaf became king on the death of his grandfather Gustaf VI Adolf"
+      ],
+      "detail": "A military insurrection in Uruguay had already challenged Bordaberry on February 8. Fahri Koruturk became the sixth president of Turkey on April 5, and Naim Talu, a former civil servant, formed the country's 36th government on April 15. The Thammasat student uprising in Bangkok on October 14 brought over 100,000 people out against the Thanom military government, and soldiers killed 77 and injured 857. The Athens Polytechnic uprising against the Greek regime followed on November 17. Sir Richard Sharples, Governor of Bermuda, was assassinated outside Government House along with his aide-de-camp on March 10.",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that changed status",
+      "value": [
+        "The Bahamas gained full independence within the Commonwealth of Nations, July 10",
+        "Guinea-Bissau's independence from the Portuguese Estado Novo regime was declared by Luis Cabral on September 27 and recognised by the United Nations on October 26",
+        "Papua New Guinea gained self-government from Australia, December 1"
+      ],
+      "detail": "West Germany and East Germany were both admitted to the United Nations on September 18. The Caribbean Community and Common Market was inaugurated on August 1. The Polisario Front, dedicated to the independence of Spanish Sahara, was formed on May 10.",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Exorcist, $88,500,000, Warner Bros.",
+        "The Sting, $79,000,000, Universal",
+        "American Graffiti, $55,900,000, Universal",
+        "Papillon, $22,500,000, Allied Artists",
+        "The Way We Were, $22,457,000, Columbia"
+      ],
+      "detail": "Rentals are what the distributor kept rather than what the ticket window took in, so each figure runs well below a gross. The column header reads Domestic rentals while the sentence directly above the table calls these the top ten 1973 released films by box office gross in the United States and Canada, and this fact follows the header. Magnum Force was sixth at $20,100,000 for Warner Bros., Last Tango in Paris seventh at $16,711,000 for United Artists, Paper Moon eighth at $16,559,000 for Paramount, Live and Let Die ninth at $15,925,000 for United Artists and Serpico tenth at $15,400,000 for Paramount. The Sting was released on December 25 and The Exorcist on December 26, both in the last week of the year the table credits them to. The top four figures come from Joel Waldo Finler's The Hollywood Story, the next five from a domestic revenue database and the tenth from The Numbers. Outside North America the biggest releases were The Mad Adventures of Rabbi Jacob in France at 7,295,727 admissions, Papillon in Germany at 8,500,000 admissions, The House of 72 Tenants in Hong Kong at HK$5,600,000, Bobby in India at 110,000,000 rupees, Malicious in Italy at 11,756,327 admissions, The Headless Horseman in the Soviet Union at 64,900,000 admissions, Cabaret in Spain at 125.8 million pesetas and Live and Let Die in the United Kingdom at 9,000,000 admissions.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Sting, produced by Tony Bill, Julia Phillips and Michael Phillips",
+      "detail": "Presented the next spring at the 46th Academy Awards, at the Dorothy Chandler Pavilion in Los Angeles, with Burt Reynolds, Diana Ross, John Huston and David Niven presiding. The Sting won seven awards, including Best Director for George Roy Hill, and tied The Exorcist for the most nominations on ten each. The Exorcist and The Way We Were were the only other films to win more than one award. Marvin Hamlisch took three, for the dramatic score of The Way We Were, the adaptation of The Sting and the song The Way We Were, and the Academy Awards page calls him the only person to win three Oscars in one year without winning Best Picture. That page also calls this the most recent ceremony at which the three highest-grossing films of the year were all nominated for Best Picture, those being The Exorcist, The Sting and American Graffiti. The other nominees were American Graffiti, Cries and Whispers and A Touch of Class.",
+      "source": "https://en.wikipedia.org/wiki/46th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jack Lemmon, Save the Tiger",
+        "Best Actress, Glenda Jackson, A Touch of Class",
+        "Best Supporting Actor, John Houseman, The Paper Chase",
+        "Best Supporting Actress, Tatum O'Neal, Paper Moon"
+      ],
+      "detail": "Not one of the four winning performances came from the Best Picture winner. Marlon Brando was nominated for Last Tango in Paris, Al Pacino for Serpico, Jack Nicholson for The Last Detail and Robert Redford for The Sting, and none of them won. Linda Blair was nominated for The Exorcist and Madeline Kahn for Paper Moon, the same film as the winner. Honorary Awards went to Henri Langlois for preserving the art of film and to Groucho Marx for the Marx Brothers. A streaker named Robert Opel crossed the stage during the ceremony flashing a peace sign, and the host David Niven asked the audience whether it was fascinating to think that probably the only laugh that man would ever get in his life was by stripping off and showing his shortcomings.",
+      "source": "https://en.wikipedia.org/wiki/46th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Day for Night, France, directed by Francois Truffaut, winner of the Academy Award for Best Foreign Language Film",
+        "The House on Chelouche Street, Israel",
+        "L'Invitation, Switzerland",
+        "The Pedestrian, Germany (West)",
+        "Turkish Delight, Netherlands"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country. The rest of this comes from the film page's awards table. Day for Night also took Best Film and Best Director at the BAFTA Awards. The Palme d'Or at Cannes was shared between The Hireling, directed by Alan Bridges of the United Kingdom, and Scarecrow, directed by Jerry Schatzberg of the United States. The Golden Bear at Berlin went to Satyajit Ray's Ashani Sanket, released in English as Distant Thunder. The Golden Globe for Best Foreign Language Film went to The Pedestrian. Luis Bunuel and Jean-Claude Carriere won the BAFTA for the adapted screenplay of The Discreet Charm of the Bourgeoisie, and Stephane Audran the BAFTA for Best Actress in that film and in Just Before Nightfall.",
+      "source": "https://en.wikipedia.org/wiki/46th_Academy_Awards"
+    },
+    "film.other_releases": {
+      "section": "film",
+      "label": "Other releases",
+      "value": [
+        "The Exorcist, December 26, out in 30 theatres nationwide with long lines forming and accounts of audiences fainting and vomiting",
+        "The Sting, December 25, which the music page credits with reviving interest in Scott Joplin's ragtime",
+        "American Graffiti, August 11, George Lucas's second film as director",
+        "Enter the Dragon, July 26, six days after Bruce Lee died",
+        "Westworld, August 17, the first feature film to use digital image processing",
+        "Charlotte's Web, March 1, animated from the children's book",
+        "Robin Hood, November 8, the 21st Walt Disney Productions feature"
+      ],
+      "detail": "The film page carries The Sting, The Exorcist, Enter the Dragon and Westworld, and says The Exorcist reawakened the horror film genre. The US year page carries the 30-theatre opening, the August 11 date for American Graffiti, Charlotte's Web and Robin Hood, and adds that critical reception of Robin Hood waned over the years. Kim Jong-il published his film treatise On the Art of the Cinema on April 11.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Five Fingers of Death, released in the United States in March, was a surprise success that started a kung fu film craze in North America.",
+      "detail": "Warner Bros. and Walt Disney Studios both celebrated their 50th anniversaries. The film page names Bruce Lee, who died in July, as the year's highest-grossing actor worldwide, and lists a separate table of worldwide gross figures that it calls incomplete and that includes revenue from later re-releases, putting The Exorcist at $441,306,145, Enter the Dragon at $400,000,000, The Sting at $257,000,000, Live and Let Die at $161,800,000 and American Graffiti at $140,000,000.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1973",
+      "value": [
+        "All in the Family, CBS, 31.2 rating",
+        "The Waltons, CBS, 28.1",
+        "Sanford and Son, NBC, 27.5",
+        "M*A*S*H, CBS, 25.7",
+        "Hawaii Five-O, CBS, 24.0"
+      ],
+      "detail": "The ranking covers a television season rather than a calendar year, running from its autumn start into the spring that follows. Maude was sixth on 23.5, Kojak and The Sonny & Cher Comedy Hour tied seventh on 23.3, and The Mary Tyler Moore Show and Cannon tied ninth on 23.1. The Six Million Dollar Man at eleventh on 22.7 was the highest ABC placement, Happy Days came sixteenth on 21.5 and Good Times seventeenth on 21.4. Five network movie slots appear in the top thirty, the CBS Friday Night Movie highest at nineteenth on 21.2.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1973%E2%80%9374"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Schoolhouse Rock!, ABC, January 6",
+        "Barnaby Jones, CBS, January 28",
+        "Police Story, NBC, March 20",
+        "The Young and the Restless, CBS, March 26",
+        "The $10,000 Pyramid, CBS, March 26",
+        "Star Trek: The Animated Series, NBC, September 8",
+        "Super Friends, ABC, September 8",
+        "Kojak, CBS, October 24"
+      ],
+      "detail": "Love Story began on NBC on October 3 and The Tomorrow Show on October 15. CBS brought back Match Game on July 2, and the television page says it became the highest-rated daytime program of the year. Betty White made her first appearance on The Mary Tyler Moore Show as Sue Ann Nivens when the fourth season opened on September 15. Kojak's trademark lollipop appeared for the first time on December 12, in the episode Dark Sunday.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Bonanza, NBC, January 16, on the air since 1959",
+        "The Mod Squad, March 1",
+        "Rowan & Martin's Laugh-In, March 12, with repeats to May 20",
+        "Concentration, NBC, March 23, after 3,796 airings",
+        "Lassie, March 24, on the air since 1954",
+        "Mission: Impossible, March 30"
+      ],
+      "detail": "Concentration was the longest-running game show at the time and ended after 14 years and seven months. Adam's Rib and Needles and Pins both started and finished inside the year, opening on September 14 and September 21 and both closing on December 28. The television page's ending table lists two programs twice without reconciling the dates, The Doris Day Show on March 12 and September 9 and Bridget Loves Bernie on March 3 and September 9.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_American_television"
+    },
+    "tv.watergate_hearings": {
+      "section": "tv",
+      "label": "Networks rotate the Watergate hearings",
+      "value": "ABC interrupted its daytime programming on May 17 for the Senate hearings, CBS televised the next day's and NBC the day after that, and the three carried on cycling coverage that way until August 7",
+      "date": "1973-05-17",
+      "source": "https://en.wikipedia.org/wiki/1973_in_American_television"
+    },
+    "tv.aloha_from_hawaii": {
+      "section": "tv",
+      "label": "Elvis Presley's Aloha From Hawaii goes out by satellite",
+      "value": "The special was broadcast in over 40 countries, and the US year page calls it the first worldwide telecast by an entertainer, watched by more people than the Apollo Moon landings",
+      "detail": "It was not shown in Eastern Bloc countries, with the single exception of East Germany, where it went out on Der schwarze Kanal. In the United States and Brazil it did not air until April. The music page titles it Aloha From Hawaii Via Satellite and gives the same count of over 40 countries.",
+      "date": "1973-01-14",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Tie a Yellow Ribbon Round the Ole Oak Tree, Tony Orlando and Dawn",
+        "Bad, Bad Leroy Brown, Jim Croce",
+        "Killing Me Softly with His Song, Roberta Flack",
+        "Let's Get It On, Marvin Gaye",
+        "My Love, Paul McCartney & Wings"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 29, compiled from the Hot 100 charts of the issue dates November 25, 1972 through November 17, 1973. Stevie Wonder and War each had three songs on the list and Tony Orlando and Dawn two. Kris Kristofferson was sixth with Why Me, Elton John seventh with Crocodile Rock, Billy Preston eighth with Will It Go Round in Circles, Carly Simon ninth with You're So Vain and Diana Ross tenth with Touch Me in the Morning. Jim Croce died on September 20, before the chart was published.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1973"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records pressed from vinyl. The oil crisis that began on October 17 caused shortages of the vinyl needed to manufacture them, and a number of new albums were either delayed or available only in limited quantities until after the holiday season.",
+      "detail": "The King Biscuit Flower Hour was first broadcast on February 18, with performances by Blood, Sweat & Tears, the Mahavishnu Orchestra and a new artist named Bruce Springsteen. The Midnight Special began as a regular NBC series on February 2 with Helen Reddy as featured artist, and Don Kirshner's Rock Concert was first syndicated on September 27 with a Rolling Stones performance. American Country Countdown, which the US year page calls a country spin-off of American Top 40, debuted on October 6 with Don Bowman as host, counting down the week's top 40 country hits from Billboard's Hot Country Singles chart.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "The Dark Side of the Moon, Pink Floyd, March 1, with a sleeve designed by Hipgnosis",
+        "Tubular Bells, Mike Oldfield, May 25, the first release on Richard Branson's newly launched Virgin label in the United Kingdom",
+        "Angel Clare, Art Garfunkel, September 11, his solo debut 17 years after starting his career",
+        "Selling England by the Pound, Genesis, October 5"
+      ],
+      "detail": "The Dark Side of the Moon entered the Billboard 200 on March 17 and reached the top of it on April 28. Capitol Records put out two Beatles compilations on April 2, The Beatles 1962-1966 and The Beatles 1967-1970, known as the Red Album and the Blue Album. The Angel Clare entry comes from the US year page and the rest from the music page.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_music"
+    },
+    "music.hip_hop": {
+      "section": "music",
+      "label": "DJ Kool Herc originates hip hop",
+      "value": "Both the US year page and the music page put it in New York City on the same date and neither names a venue",
+      "detail": "The music page's undated list has salsa music originating in New York City at an approximate date in the same year, and the pioneer disco gay nightclub the Tenth Floor closing in Manhattan.",
+      "date": "1973-08-11",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "music.watkins_glen": {
+      "section": "music",
+      "label": "Summer Jam at Watkins Glen",
+      "value": "Over 600,000 people came to the rock festival in New York state to see The Allman Brothers Band, The Band and the Grateful Dead",
+      "detail": "Led Zeppelin had set the record for the highest attendance at a single concert on May 5, drawing 56,800 to Tampa Stadium and beating the 55,600 the Beatles brought to Shea Stadium on August 15, 1965. That tour ran from May 4 to July 29 and was filmed for The Song Remains the Same. Millennium '73, a festival hosted by Guru Maharaj Ji at the Astrodome on November 8, was called by supporters the most significant event in human history.",
+      "date": "1973-07-28",
+      "source": "https://en.wikipedia.org/wiki/1973_in_music"
+    },
+    "tech.skylab": {
+      "section": "tech",
+      "label": "Skylab, the first United States space station",
+      "value": "Launched on May 14, with Skylab 2 sent up on May 25 carrying Pete Conrad, Paul Weitz and Joseph Kerwin to repair damage to the station, Skylab 3 on July 28 with Owen Garriott, Jack Lousma and Alan Bean, and Skylab 4 on November 16 with Gerald Carr, William Pogue and Edward Gibson on an 84-day mission",
+      "detail": "Skylab 4 went up from Cape Canaveral, Florida. The Skylab 3 crew were sent to conduct medical and scientific experiments aboard the station.",
+      "date": "1973-05-14",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "tech.mobile_phone": {
+      "section": "tech",
+      "label": "First handheld mobile phone call",
+      "value": "Made by Martin Cooper in New York City",
+      "detail": "The year page calls it a mobile phone and says Cooper worked for Motorola. The US year page calls it a cellular phone and does not name the company. Neither says whom he called.",
+      "date": "1973-04-03",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "tech.probes": {
+      "section": "tech",
+      "label": "NASA planetary probes",
+      "value": [
+        "Pioneer 10 sent back the first close-up images of Jupiter, December 3",
+        "Pioneer 11 launched on a mission to study the Solar System in April",
+        "Mariner 10 launched toward Mercury, November 3"
+      ],
+      "detail": "The Pioneer 11 launch date does not agree between the cached pages, the year page giving April 5 and the US year page April 6, so this fact carries the month alone. Comet Kohoutek was discovered on March 18.",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "tech.soviet_space": {
+      "section": "tech",
+      "label": "Soviet crewed spaceflight resumes",
+      "value": "Soyuz 12 was launched on September 27 with Vasily Lazarev and Oleg Makarov, the first Soviet crewed flight since the Soyuz 11 accident of 1971, and Soyuz 13 followed on December 18 with Pyotr Klimuk and Valentin Lebedev",
+      "detail": "The Mars 5 probe was launched on July 25 and Mars 6 on August 5. Nine people were killed on June 26 in the explosion of a Cosmos 3-M rocket at the Plesetsk Cosmodrome.",
+      "date": "1973-09-27",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Pong clones fill the arcades",
+      "value": "Atari launched Pong nationally to coin-operated game distributors across the United States in March, and by the Music Operators of America show in Chicago on November 9 to 11 over a dozen companies were exhibiting video games, almost all of them clones or variants of it",
+      "detail": "Between 50,000 and 70,000 video game cabinets were counted in the United States and machine sales revenue put between $20 million and $77 million, both figures given as ranges because the two cited studies disagree. Allied Leisure's Paddle Battle was the biggest seller at 17,000 lifetime cabinets, ahead of Williams Electronics' Pro Tennis at 7,000 and Midway's Winner, the licensed Pong, also at 7,000. Magnavox reported 89,000 Odyssey consoles sold against Ralph Baer's count of 83,000, on $4.6 million of retail console revenue. Sega released Pong-Tron and Taito released Elepong in July, the first two coin-operated video games made in Japan, and Nutting Associates shipped Wimbledon in December, among the first colour games. Konami was incorporated in Japan on March 19 and Exidy founded in California on October 19.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_video_games"
+    },
+    "tech.buildings": {
+      "section": "tech",
+      "label": "Sears Tower and the World Trade Center",
+      "value": "The Sears Tower in Chicago reached its full height of 1,451 feet on May 3 and took the title of world's tallest building, and the original World Trade Center in New York was formally opened on April 4",
+      "detail": "Neither event is described the same way twice in the cache. The year page has the Sears Tower topped out on May 3 and the US year page has it finished on that date, and the year page has the World Trade Center officially dedicated on April 4 while the US year page has it officially opening with a ribbon cutting ceremony. The Bosphorus Bridge in Istanbul was completed on October 30, connecting Europe and Asia across the strait for the first time, and the year page's caption instead says it was opened by the Turkish president Fahri Koruturk.",
+      "date": "1973-05-03",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.39 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.60 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president sworn in for a second term in January and telling Associated Press editors in November that he was not a crook, the last American soldier out of Vietnam in March, and an oil embargo in October that reached as far as the vinyl records were pressed from."
+    },
+    "culture.wounded_knee": {
+      "section": "culture",
+      "label": "Wounded Knee occupation",
+      "value": "The American Indian Movement occupied Wounded Knee, South Dakota on February 27, and the 71-day standoff with federal authorities on the Pine Ridge Reservation ended with the occupiers' surrender on May 8",
+      "detail": "The US year page calls the same people activists and militants inside one entry and does not say what they were demanding.",
+      "date": "1973-02-27",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "culture.dsm": {
+      "section": "culture",
+      "label": "Homosexuality removed from the DSM",
+      "value": "The American Psychiatric Association took it out of the second edition of its Diagnostic and Statistical Manual",
+      "detail": "The US year page files the entry under gay rights and gives no more than that one line. The UpStairs Lounge arson attack on a gay bar in the New Orleans French Quarter had killed 32 patrons on June 24 and is still unsolved.",
+      "date": "1973-12-15",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Patrick White",
+        "Peace, Henry Kissinger and Le Duc Tho",
+        "Physics, Leo Esaki, Ivar Giaever and Brian David Josephson",
+        "Chemistry, Ernst Otto Fischer and Geoffrey Wilkinson",
+        "Medicine, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen",
+        "Economics, Wassily Leontief"
+      ],
+      "detail": "Kissinger took up the post of United States Secretary of State on September 22 while remaining National Security Advisor. Several earlier laureates died during the year, among them Ragnar Frisch on January 31, Pearl S. Buck on March 6, Walter Rudolf Hess and Karl Ziegler both on August 12, Selman Waksman on August 16 and Artturi Ilmari Virtanen on November 11.",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Oakland Athletics beat the New York Mets four games to three, taking Game 7 on October 21 by 5 to 2, and repeated as champions",
+      "detail": "The sports page gives the series result and the US year page the Game 7 score and date. The Mets had won the National League pennant on October 10. The Yomiuri Giants of Tokyo took a ninth consecutive Japan Central League title on October 22 and the Japan Series on November 1, which the sports page flags as needing a citation.",
+      "date": "1973-10-21",
+      "source": "https://en.wikipedia.org/wiki/1973_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl VII",
+      "value": "The Miami Dolphins beat the Washington Redskins 14 to 7 at the Los Angeles Memorial Coliseum in front of 90,182, completing the only unbeaten and untied season in NFL history, with the Miami free safety Jake Scott named most valuable player",
+      "detail": "The Oakland Raiders ended the Dolphins' unbeaten run at 18 games on September 23 with a 12 to 7 win, Miami's first defeat since Super Bowl VI in January 1972. O. J. Simpson of the Buffalo Bills became the first running back to rush for 2,000 yards in a professional season on December 16, and was Associated Press Male Athlete of the Year. The Rose Bowl, which the sports page lists under this year and labels the 1972 season, went to Southern California 42 to 17 over Ohio State.",
+      "date": "1973-01-14",
+      "source": "https://en.wikipedia.org/wiki/1973_in_sports"
+    },
+    "sports.secretariat": {
+      "section": "sports",
+      "label": "Secretariat wins the Triple Crown",
+      "value": "Ridden by Ron Turcotte, he took the Kentucky Derby on May 5 in a record time for the event, the Preakness Stakes on May 19 by two and a half lengths over Sham, and the Belmont Stakes on June 9 by 31 lengths",
+      "detail": "The sports page calls him the first horse in 25 years to win all three United States Triple Crown races and the US year page says he broke a 25-year hiatus since 1948. A malfunction in the track's timing equipment at the Preakness prevented a confirmed new track record. Red Rum won the Grand National and Rheingold the Prix de l'Arc de Triomphe.",
+      "date": "1973-06-09",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "sports.battle_of_the_sexes": {
+      "section": "sports",
+      "label": "Battle of the Sexes",
+      "value": "Billie Jean King beat Bobby Riggs in straight sets at the Astrodome in Houston in front of 30,492, which the US year page calls the largest live audience ever to see a tennis match in the United States, with a global television audience estimated at 90 million in 36 countries",
+      "detail": "The score is not consistent across the cache. The US year page gives 6-4, 6-4, 6-3, the New York Times headline cited on the year page reads 6-4, 6-3, 6-3, and the sports page says only three straight sets, so this fact names none of them. Riggs had challenged and beaten Margaret Court 6-2, 6-1 on May 13 at Ramona, California. Men and women players received equal prize money at the US Open, and King was Associated Press Female Athlete of the Year.",
+      "date": "1973-09-20",
+      "source": "https://en.wikipedia.org/wiki/1973_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Chicago Blackhawks, four games to two",
+        "NBA Finals, New York Knicks over the Los Angeles Lakers, four games to one, clinched 102 to 93 in Game 5 on May 10",
+        "NCAA basketball, UCLA 87, Memphis State 66, a seventh consecutive title",
+        "Heavyweight boxing, George Foreman beat Joe Frazier by knockout in the second round at Kingston, Jamaica, January 22",
+        "FA Cup, Sunderland 1, Leeds United 0",
+        "Grey Cup, Ottawa Rough Riders 22, Edmonton Eskimos 18",
+        "World Snooker Championship, Ray Reardon over Eddie Charlton, 38 to 32"
+      ],
+      "detail": "Bill Walton of UCLA scored 44 points in the championship game from 21 of 22 field goal attempts, and the win was John Wooden's eighth title in ten seasons. The Foreman fight was HBO Boxing's first telecast. Luis Ocana of Spain won the Tour de France, Jack Nicklaus took the PGA Championship and led the money list at $308,362, and Johnny Miller won the US Open with a closing round of 63. Australia beat the United States 5 to 0 in the Davis Cup, and the first FINA world swimming championships were held in Belgrade. The Indiana Pacers took the ABA Finals from the Kentucky Colonels four games to three, and the New England Whalers the first World Hockey Association championship from the Winnipeg Jets four games to one. The Five Nations Championship in rugby union ended in a five-way tie with every side winning two matches.",
+      "source": "https://en.wikipedia.org/wiki/1973_in_sports"
+    },
+    "deaths.johnson": {
+      "section": "deaths",
+      "label": "Lyndon B. Johnson",
+      "value": "Died January 22. Born 1908",
+      "detail": "36th President of the United States, who died at his ranch in Johnson City, Texas, two days after Nixon's second inauguration. The US year page notes that his death left no former US president living. Inaugural events planned for that week were cancelled for the state funeral.",
+      "date": "1973-01-22",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "deaths.picasso": {
+      "section": "deaths",
+      "label": "Pablo Picasso",
+      "value": "Died April 8. Born 1881",
+      "detail": "Spanish artist.",
+      "date": "1973-04-08",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "deaths.lee": {
+      "section": "deaths",
+      "label": "Bruce Lee",
+      "value": "Died July 20. Born 1940",
+      "detail": "Chinese-American martial artist and actor. The film page has him dying before Enter the Dragon was released on July 26 and names him the year's highest-grossing actor worldwide. The year page gives no cause of death.",
+      "date": "1973-07-20",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "deaths.tolkien": {
+      "section": "deaths",
+      "label": "J. R. R. Tolkien",
+      "value": "Died September 2. Born 1892",
+      "detail": "British writer. The year page cites a New York Times obituary headlined that he was dead at 81 and had written The Lord of the Rings.",
+      "date": "1973-09-02",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    },
+    "deaths.casals": {
+      "section": "deaths",
+      "label": "Pablo Casals",
+      "value": "Died October 22. Born 1876",
+      "detail": "Spanish cellist and conductor. The music page's undated list has the Santa Fe Chamber Music Festival launched during the year with Casals as its president.",
+      "date": "1973-10-22",
+      "source": "https://en.wikipedia.org/wiki/1973"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1973. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence directly above that table on the same page calls the entries the top ten 1973 released films by box office gross in the United States and Canada, and film.gross names the contradiction and follows the header. Date checks. Two dates in this year carry checkable internal constraints and both hold. A presidential inauguration falls on January 20, and pol.nixon_inauguration cites https://en.wikipedia.org/wiki/Second_inauguration_of_Richard_Nixon, pulled as raw wikitext and the only source in this file from outside the cache, which gives Saturday, January 20, 1973 at the East Portico of the United States Capitol, the 47th inauguration, Chief Justice Warren E. Burger administering both the presidential and the vice presidential oaths, and the inaugural theme The Spirit of '76. January 20, 1973 was a Saturday, which the calendar confirms, so there is no disagreement to name, only a gap: the US year page has a single line saying Nixon and Agnew were sworn in for their second term, with no venue, no names and no theme. The Saturday Night Massacre is named for a day of the week, and October 20, 1973 was a Saturday, which pol.saturday_night_massacre states. That article's forward-looking lines were left out, being the comparison to a later crewed lunar mission and the sentence about both men resigning within two years. The 45th Academy Awards were held on March 27 of this year, hosted by Carol Burnett, Michael Caine, Charlton Heston and Rock Hudson at the Dorothy Chandler Pavilion, drew a television audience of 85 million and gave Best Picture to The Godfather, with Cabaret taking eight awards including Best Director for Bob Fosse. All of that is dropped, because the ceremony honours the previous year of film and carrying it would put a second Best Picture on the page, which is what the neighbouring years do too. The 46th Academy Awards ceremony and its nomination announcement both fall in the following year, so film.best_picture says presented the next spring and gives no ceremony date, and the film page's awards table dates for the Golden Globes, the BAFTAs and the Academy Awards are all outside this year and were therefore not quoted. No radio fact, because the radio window closed after 1959. The radio material of the year sits in music.listening_format instead, which is where the brief puts it: the first King Biscuit Flower Hour on February 18, The Midnight Special becoming a regular series on February 2, Don Kirshner's Rock Concert on September 27, and American Country Countdown spinning off American Top 40 on October 6. No film.ticket_price fact, because the movie ticket series carries a null for this year. The Nielsen ranking covers a season that began in the autumn of 1973 and ran into the following spring, which tv.top_shows states without naming a second year. The oil embargo carries its own fact under world.oil_embargo, separate from prices.gas, whose scaffolded value and source were not touched; the annual average of $0.39 predates most of the embargo's effect and the file makes no claim about what happened to the price after October. Source disagreements labelled rather than resolved: Pioneer 11's launch is April 5 on the year page and April 6 on the US year page, so tech.probes gives the month only and says why; the Sears Tower is topped out on the year page and finished on the US year page, both on May 3; the World Trade Center is officially dedicated on the year page and officially opening with a ribbon cutting on the US year page, both on April 4; the Bosphorus Bridge is completed in the year page's text and opened by President Fahri Koruturk in the same page's image caption; the first handheld call is a mobile phone made by Martin Cooper of Motorola on the year page and a cellular phone made by Martin Cooper with no employer on the US year page; the Battle of the Sexes score is 6-4, 6-4, 6-3 on the US year page, 6-4, 6-3, 6-3 in the New York Times headline the year page cites, and three straight sets on the sports page, so sports.battle_of_the_sexes names none of the three; the American Indian Movement occupiers of Wounded Knee are activists and militants inside one US year page entry; the television page's ending table lists The Doris Day Show under both March 12 and September 9 and Bridget Loves Bernie under both March 3 and September 9. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.oil_embargo cites the year page and takes the vinyl shortage from the music page and the ongoing-conditions listing from the US year page; film.other_releases cites the film page and takes the 30-theatre opening of The Exorcist, the August 11 date for American Graffiti, Charlotte's Web and Robin Hood from the US year page; film.world_cinema cites the Academy Awards page for the nominees and their countries and the film page for Cannes, Berlin, the BAFTAs and the Golden Globe; film.how_people_watched cites the film page, which is the only page carrying the Warner Bros. and Disney anniversaries, the kung fu craze and the worldwide gross table; music.listening_format cites the music page and takes American Country Countdown from the US year page; music.albums cites the music page and takes Art Garfunkel's Angel Clare from the US year page; music.hip_hop cites the US year page, which gives the same line as the music page; tv.aloha_from_hawaii cites the US year page for the Apollo comparison and names the music page's fuller title; sports.world_series cites the sports page for the series result and takes the Game 7 score and date from the US year page; sports.secretariat cites the US year page for the three race dates and margins and takes the 25-year framing from both pages; sports.champions cites the sports page and takes the seventh consecutive UCLA title, the 21 of 22 shooting and John Wooden's eighth title in ten seasons from the US year page; deaths.johnson cites the year page and takes the ranch, the no-living-former-president line and the cancelled inaugural events from the US year page and the inauguration article; deaths.lee and deaths.casals cite the year page and name the film page and the music page for their details. Dropped for lack of a source that says enough, or because the cached pages give no day: the Trinity Broadcasting Network launch, dated only as unknown on the television page; the origination of salsa music in New York City, given as an approximate date; the closure of the Tenth Floor nightclub, undated; the Song dynasty trade ship dredged up near the southern coast of China, undated; the introduction of Lite Beer by Miller, listed among ongoing conditions with no date. Dropped to hold the section counts down rather than for want of a source: the Northern Ireland border poll and the Old Bailey car bombs of March 8, which are in world.eec_enlargement's detail because both concern the two Irelands, and the Northern Ireland Assembly elections of June 28 and the March 20 White Paper, which are not; the Lofthouse Colliery disaster of March 21; the Ezeiza massacre of June 20; the Tupolev Tu-144 crash at the Paris air show on June 3; Varig Flight 820 near Orly on July 11 and Pan Am Flight 160 at Logan on November 3; Delta Air Lines Flight 723, which the two pages describe with the same wording and the same odd note that one passenger died several months later; the National Personnel Records Center fire of July 12; the Point Mugu earthquake of February 21; the Morganza Spillway opening of April 17 and the Mississippi flood; the Johnson Sea Link accident of June 17; the Dean Corll murders uncovered on August 8; the Lillehammer affair of July 21 and the Black September attack at Athens airport on August 5; the kidnapping of Kim Dae-jung on August 8; the GSG 9 formation of April 17; the Sydney Opera House opened by Elizabeth II on October 20 after 14 years of construction; the Docutel automated teller machine patent of June 4; the Chicago Board Options Exchange, Federal Express, the dollar devaluation, Ohio's metric signs, Gravity's Rainbow, the Norrmalmstorg robbery and the Evel Knievel stunt cycle, all of which are in texture instead; Project Tiger, the Swedish Data Act of May 11, the Polisario Front and the Second Cod War; the Eurovision Song Contest won for Luxembourg by Anne-Marie David on April 7; the assassination of Luis Carrero Blanco in Madrid on December 20; Johnny Carson's December 19 remark about a toilet paper shortage, which set off a three-week panic; SeaWorld Orlando opening on December 15; the IRT Third Avenue Line closure of April 28; the Grateful Dead, Rolling Stones and Everly Brothers material on the music page; the 101 BASIC Computer Games collection published in July; the fourth American Computer Chess Championship of August 26 to 28. Deaths that would have earned a place with more room: David Ben-Gurion on December 1, Pablo Neruda on September 23, Noel Coward on March 26, Pearl S. Buck on March 6, John Ford on August 31, W. H. Auden on September 29, Bobby Darin on December 20, Betty Grable on July 2, Veronica Lake on July 7, Robert Ryan on July 11, Lon Chaney Jr. on July 12, Eddie Rickenbacker on July 23, Walter Ulbricht on August 1, Fulgencio Batista on August 6, Gram Parsons on September 19, Jim Croce on September 20, Paavo Nurmi on October 2, Gene Krupa on October 16, Ludwig von Mises on October 10, Abebe Bikila on October 25, Elsa Schiaparelli on November 13, Ismet Inonu on December 25, Frank Costello on February 18, Edward G. Robinson on January 26, Howard H. Aiken on March 14 and Jeannette Rankin on May 18. Salvador Allende and Victor Jara are in world.chile_coup rather than in deaths, and Jim Croce is in music.hot100_year_end. Texture material taken from the cached pages but given no fact of its own: the Mark Essex siege in New Orleans; the Royal Jordanian crash at Kano; the Kingman propane explosion; the Summerland fire at Douglas; the Taiyo department store fire at Kumamoto; Ron Blomberg as the first designated hitter and Orlando Cepeda as the first player signed to be one; Nolan Ryan's second no-hitter of the season; Willie Mays's retirement; the Yankee Stadium closure and the CBS sale of the club; David Bowie retiring Ziggy Stardust; Kiss's first concert and Casablanca signing; the opening of CBGB; Robert Wyatt's fall; Lou Reed bitten in Buffalo; Federal Express; the Chicago Board Options Exchange; the dollar devaluation; Ohio's metric road signs; Gravity's Rainbow; the Norrmalmstorg robbery; the Evel Knievel stunt cycle. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question and which comes out if challenged. Names and titles are written in ASCII per the corpus convention, so Le Duc Tho, Hector Jose Campora, Revolucion Argentina, Juan Maria Bordaberry, Fahri Koruturk, Francois Truffaut, Luis Bunuel, Jean-Claude Carriere, Stephane Audran, Victor Jara, Luis Ocana and Ismet Inonu lose their diacritics. Deaths carry a birth year rather than an age, because the year page gives only the year; Tolkien's age is stated because the obituary headline the year page cites gives it. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for. Politics runs to 8 against the roughly 7 the brief suggests, which is what 1969 and 1970 already do, because the year carries a second inauguration, the end of American involvement in Vietnam, the Watergate disclosures and the replacement of the vice president at once."
+}

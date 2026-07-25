@@ -1,0 +1,520 @@
+{
+  "year": 1972,
+  "tier": "broadcast",
+  "headline": "Five men were arrested inside the Watergate, Nixon went to China, and eleven Israeli athletes were killed at Munich",
+  "texture": [
+    "Iberia Airlines Flight 602 hit a peak 462 metres high on Ibiza on January 7 and killed 104. A coal sludge spill at Buffalo Creek in West Virginia killed 125 on February 26. Fire in a nightclub atop the Sennichi department store in Osaka killed 115 on May 13. The Staines air disaster killed 118 two minutes after a British European Airways Trident took off from Heathrow on June 18. The Managua earthquake on December 23 killed between 5,000 and 11,000 in the Nicaraguan capital, and President Anastasio Somoza Debayle was later accused of withholding foreign aid.",
+    "Yugoslav air stewardess Vesna Vulovic was the only survivor when her aircraft came apart over Czechoslovakia on January 26, falling 10,160 metres in the tail section. Japanese soldier Shoichi Yokoi was found in Guam on January 24 after 28 years in the jungle. Laszlo Toth attacked Michelangelo's Pieta in St. Peter's Basilica with a geologist's hammer on May 21, shouting that he was Jesus Christ. Uruguayan Air Force Flight 571 came down at about 14,000 feet in the Andes on October 13, and sixteen survivors were found alive on December 20 after resorting to cannibalism.",
+    "The Dow Jones Industrial Average had never closed above 1,000 until November 14, when it finished at 1,003.16. The first scientific hand-held calculator, the HP-35, was introduced on January 4 at $395. Over 40,000 mourners filed past Mahalia Jackson's open casket at Chicago's Great Salem Baptist Church on January 31. Elvis Presley sold out four Madison Square Garden shows in a single day and played the first on June 10. Twelve miles of US Highway 51 in Memphis had been renamed Elvis Presley Boulevard on January 17.",
+    "Three Japanese Red Army members acting for the Popular Front for the Liberation of Palestine killed 26 people and injured 80 at Lod Airport in Israel on May 30. Volkswagen Beetle sales passed those of the Ford Model T on February 17 when the 15,007,034th Beetle was produced. George Carlin was arrested at Summerfest in Milwaukee on July 21 for reciting his seven words. Franco Harris turned a deflected Terry Bradshaw pass into a touchdown on December 23 to beat the Oakland Raiders 13 to 7."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.watergate",
+    "pol.election",
+    "world.munich_massacre",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.games#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Richard Nixon (R)",
+      "detail": "Spiro Agnew was Vice President, Warren E. Burger was Chief Justice, Carl Albert was Speaker of the House and Mike Mansfield was Senate majority leader. The 92nd Congress was in session. The US year page gives Nixon as a Republican of California and Agnew as a Republican of Maryland.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Richard Nixon defeated Senator George McGovern in a landslide, and turnout was the lowest since 1948, with only 55 percent of the electorate voting",
+      "detail": "The date has a checkable constraint and it holds. November 1 fell on a Wednesday, so the first Monday was November 6 and the Tuesday after it was November 7, which is the date both cached year pages give. McGovern, who backed the immediate and complete withdrawal of US troops from South Vietnam, was nominated at the Democratic National Convention in Miami Beach between July 10 and 14 and named Senator Thomas Eagleton as his running mate. Eagleton withdrew on August 1 after revealing that he had been hospitalised three times for depression, and R. Sargent Shriver replaced him on October 8. The Republican convention, also in Miami Beach, renominated Nixon and Agnew on August 21.",
+      "date": "1972-11-07",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "pol.watergate": {
+      "section": "politics",
+      "label": "Watergate break-in",
+      "value": "Five White House operatives were arrested on June 17 for burgling the offices of the Democratic National Committee, and on June 23 Nixon and White House chief of staff H. R. Haldeman were taped talking about using the CIA to obstruct the FBI investigation into the break-in",
+      "detail": "Two earlier attempts had failed, the Ameritas dinner on May 26 and a second break-in on May 27. Over $10,000 in cash was found in the purse of the conspirator Howard Hunt's wife, who had been aboard United Airlines Flight 553 when it crashed short of a runway in Chicago on December 8. The year page puts the discovery a day after the crash and the US year page lists both under December 8.",
+      "date": "1972-06-17",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "pol.nixon_china": {
+      "section": "politics",
+      "label": "Nixon visits the People's Republic of China",
+      "value": "An eight-day visit from February 21 to 28, during which he met Mao Zedong",
+      "detail": "Both cached year pages call the visit unprecedented and neither gives any detail beyond the meeting with Mao. The Universal Postal Union decided on April 13 to recognise the People's Republic as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.",
+      "date": "1972-02-21",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "pol.salt": {
+      "section": "politics",
+      "label": "SALT I signed in Moscow",
+      "value": "Nixon and Leonid Brezhnev signed the SALT I treaty, the Anti-Ballistic Missile Treaty and other agreements",
+      "detail": "The United States and the Soviet Union had joined some 70 nations on April 10 in signing the Biological Weapons Convention, an agreement to ban biological warfare. The United States sold grain to the Soviet Union for $750,000,000 on July 8, which the US year page carries as a single line.",
+      "date": "1972-05-26",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "pol.vietnam": {
+      "section": "politics",
+      "label": "The war in Vietnam",
+      "value": [
+        "Easter Offensive, March 30, North Vietnamese forces crossed into the Demilitarized Zone of South Vietnam",
+        "United States bombing of Hanoi and Haiphong resumed, April 16",
+        "Nixon ordered the mining of Haiphong Harbor, May 8",
+        "Operation Linebacker and Operation Custom Tailor began, May 10",
+        "Last US ground troops withdrawn, August 12",
+        "Long Binh base turned over to South Vietnam, November 11",
+        "Christmas bombing of North Vietnam, December 25"
+      ],
+      "detail": "The Haiphong mining and the withdrawal of the last ground troops are on the US year page rather than the year page cited here. Nixon announced on June 28 that no new draftees would be sent to Vietnam, and the last draft lottery had been held on February 2, with those candidates never called to duty. Ron Ziegler told the press on November 30 that there would be no more public announcements about troop withdrawals because levels were down to 27,000. Henry Kissinger said on October 26, after a visit to South Vietnam, that peace was at hand. Associated Press photographer Nick Ut took his photograph of the nine-year-old Phan Thi Kim Phuc running down a road after being burned by napalm on June 8.",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "pol.wallace_shooting": {
+      "section": "politics",
+      "label": "George Wallace shot at a campaign rally",
+      "value": "The Governor of Alabama was shot and paralysed by Arthur Bremer at a political rally in Laurel, Maryland",
+      "detail": "Bremer was jailed for 63 years on August 4. Shirley Chisholm, the first African American congresswoman, had announced her own candidacy for president on January 25, and Wallace was one of the other candidates in the Democratic primaries.",
+      "date": "1972-05-15",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "world.troubles": {
+      "section": "world",
+      "label": "The Troubles in Northern Ireland",
+      "value": [
+        "Bloody Sunday, January 30, the British Army killed 14 unarmed nationalist civil rights marchers in Derry",
+        "Aldershot bombing, February 22, an Official Irish Republican Army car bomb killed seven outside a British military base in England",
+        "Official Irish Republican Army ceasefire declared, May 30",
+        "Bloody Friday, July 21, 22 Provisional Irish Republican Army bombs exploded in Belfast, killing nine and seriously injuring 130",
+        "Operation Motorman, July 31 at 4:00 am, the British Army began retaking the no-go areas in Belfast, Derry and Newry",
+        "Claudy bombing, July 31 at 10:00 am, three car bombs in County Londonderry killed nine"
+      ],
+      "detail": "The British Embassy in Dublin was burned to the ground on February 2 during anti-British riots across Ireland, along with several British-owned businesses. A bomb at the British Yacht Club in West Berlin the same day killed the German boat builder Irwin Beelitz, and the West German June 2 Movement claimed responsibility and announced its support for the Provisional Irish Republican Army. Sean Mac Stiofain, a Provisional leader, was arrested in Dublin on November 19 after giving a radio interview to RTE and charged with membership of the organisation.",
+      "date": "1972-01-30",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "world.munich_massacre": {
+      "section": "world",
+      "label": "Munich massacre at the Summer Olympic Games",
+      "value": "Eight members of the Arab group Black September entered the Olympic Village and eleven Israeli athletes were murdered, along with five of the guerillas and one policeman in a failed hostage rescue",
+      "detail": "The year page dates the attack across September 5 and 6. The Games had opened in Munich on August 26 and ran to September 10.",
+      "date": "1972-09-05",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "world.bangladesh": {
+      "section": "world",
+      "label": "Bangladesh after the war",
+      "value": [
+        "Sheikh Mujibur Rahman returned on January 10 after more than nine months in prison in Pakistan",
+        "He declared a new constitutional government on January 11 with himself as president",
+        "Members of the Mukti Bahini laid down their arms on January 18, 33 days after the war against the occupying Pakistan Army ended",
+        "The United States formally recognised Bangladesh on April 4",
+        "The Constitution of Bangladesh came into effect on December 16"
+      ],
+      "detail": "Pakistan withdrew from the Commonwealth of Nations on January 30. India and Bangladesh signed the Indo-Bangladeshi Treaty of Friendship, Cooperation and Peace on March 19, and India and Pakistan signed the Simla Agreement on July 2, agreeing to settle their disputes bilaterally. President Zulfikar Ali Bhutto announced on January 20 that Pakistan would immediately begin a nuclear weapons programme.",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "world.uganda_expulsion": {
+      "section": "world",
+      "label": "Idi Amin expels Uganda's Asians",
+      "value": "The Ugandan dictator declared that 50,000 Asians holding British passports would be expelled to Britain within three months, and most of their property was confiscated",
+      "date": "1972-08-04",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "world.burundi_genocide": {
+      "section": "world",
+      "label": "Ikiza in Burundi",
+      "value": "Burundi government forces began a four-month genocide against the Hutu people, killing between 100,000 and 300,000",
+      "detail": "The toll is a range on the year page rather than a single figure, and the page gives no further detail than the start date and the four-month span.",
+      "date": "1972-04-27",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "world.marcos_martial_law": {
+      "section": "world",
+      "label": "Marcos declares martial law in the Philippines",
+      "value": "Ferdinand Marcos announced on national television the issuance of Proclamation No. 1081, placing the entire country under martial law",
+      "detail": "Imelda Marcos, the First Lady, was stabbed and seriously wounded by an assailant on December 7, and her bodyguards shot him.",
+      "date": "1972-09-23",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "world.changes_of_government": {
+      "section": "world",
+      "label": "Changes of government",
+      "value": [
+        "Colonel Ignatius Kutu Acheampong overthrew Prime Minister Kofi Abrefa Busia of Ghana in a military coup, January 13",
+        "Margrethe II succeeded her father Frederik IX as Queen of Denmark, January 14",
+        "Birendra succeeded his father as King of Nepal, January 31",
+        "Jean-Bedel Bokassa became President of the Central African Republic, March 2",
+        "The Dominion of Ceylon became the republic of Sri Lanka under prime minister Sirimavo Bandaranaike, May 22",
+        "Gough Whitlam's Labor Party won the Australian federal election, December 2"
+      ],
+      "detail": "Margrethe was the first queen regnant of Denmark since 1412 and the first Danish monarch not named Frederick or Christian since 1513. Whitlam was the first Labor prime minister of Australia since the defeat of Ben Chifley in 1949, was sworn in on December 5, and used executive power first to withdraw all Australian personnel from the Vietnam War. Jigme Singye Wangchuck succeeded his father as King of Bhutan on July 24 and Mathieu Kerekou led a coup in the Republic of Dahomey on October 26. Denmark joined the European Community on October 2 with the Faroe Islands staying out, and Norway rejected membership of the European Economic Community in a referendum on September 25.",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Godfather, $86,300,000, Paramount",
+        "The Poseidon Adventure, $42,000,000, 20th Century Fox",
+        "What's Up, Doc?, $28,000,000, Warner Bros.",
+        "Deliverance, $22,500,000, Warner Bros.",
+        "Jeremiah Johnson, $21,900,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Rank, Title, Distributor, Domestic rentals, while the sentence directly above it on the same page calls the entries the top ten films by box office gross in North America, and this file follows the header. Cabaret was sixth at $20,250,000 for Allied Artists, Deep Throat seventh at $20,000,000 for Bryanston, The Getaway eighth at $18,000,000 for National General, Brother of the Wind ninth at $12,000,000 for Sun International and Lady Sings the Blues tenth at $9,666,000 for Paramount. The top four figures are sourced to Joel Waldo Finler's The Hollywood Story, the ninth to a Variety list of all-time film rental champs, and the other five to a domestic revenue database the page flags as needing a reliable source. The film page also says The Godfather became the highest-grossing film of all time.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Godfather, produced by Albert S. Ruddy",
+      "detail": "Awarded the following spring at the 45th Academy Awards, at the Dorothy Chandler Pavilion in Los Angeles, with Carol Burnett, Michael Caine, Charlton Heston and Rock Hudson presiding. The Godfather took three awards from ten nominations, among them adapted screenplay for Francis Ford Coppola and Mario Puzo. Cabaret matched it on ten nominations and won eight, which the Academy Awards page calls a record for the most Oscar prizes without winning Best Picture, and Bob Fosse took Best Director for it. Charlie Chaplin won his only competitive Oscar, for the original dramatic score of Limelight, a film of 1952 that was eligible because it had not screened in Los Angeles until this year. The other Best Picture nominees were Deliverance, The Emigrants and Sounder.",
+      "source": "https://en.wikipedia.org/wiki/45th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Marlon Brando, The Godfather, declined",
+        "Best Actress, Liza Minnelli, Cabaret",
+        "Best Supporting Actor, Joel Grey, Cabaret",
+        "Best Supporting Actress, Eileen Heckart, Butterflies Are Free"
+      ],
+      "detail": "Brando boycotted the ceremony and sent Sacheen Littlefeather, an actress and activist for Native American civil rights, to explain why he would not collect the award. The audience at the Dorothy Chandler Pavilion was divided between applause and jeers, and Brando later told Dick Cavett that they should at least have had the courtesy to listen to her. Her appearance prompted the Academy to rule out future proxy acceptance. Littlefeather and the telecast's director Marty Pasetta both claimed John Wayne had to be restrained by six security guards, which the film historian Farran Nehme later said never happened. This was the first year two African American women were nominated for Best Actress, Cicely Tyson for Sounder and Diana Ross for Lady Sings the Blues, and Ross was criticised for running an advertising campaign demanding that she win. James Caan, Robert Duvall and Al Pacino were all nominated for Best Supporting Actor for The Godfather and none won.",
+      "source": "https://en.wikipedia.org/wiki/45th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The Discreet Charm of the Bourgeoisie, France, directed by Luis Bunuel, winner of the Academy Award for Best Foreign Language Film",
+        "The Working Class Goes to Heaven, Italy, directed by Elio Petri, joint Palme d'Or at Cannes",
+        "The Mattei Affair, Italy, directed by Francesco Rosi, joint Palme d'Or at Cannes",
+        "The Canterbury Tales, Italy and France, directed by Pier Paolo Pasolini, Golden Bear at Berlin"
+      ],
+      "detail": "The Academy Awards page gives the other Foreign Language Film nominees as The Dawns Here Are Quiet from the Soviet Union, I Love You Rosa from Israel, My Dearest Senorita from Spain and The New Land from Sweden, and notes that The Emigrants, Jan Troell's Swedish film nominated for Best Picture, had been a Foreign Language Film nominee at the previous ceremony as well. The Golden Globe in that category went jointly to The Emigrants and The New Land.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Universal Pictures and Paramount Pictures each marked their 60th anniversary and the Motion Picture Association of America its 50th.",
+      "detail": "The Godfather had its premiere at the Loew's State Theatre in New York City on March 15 and the X-rated animated feature Fritz the Cat was released on April 12, both from the US year page. Curtis Mayfield released the soundtrack to Super Fly on July 11, according to the year page.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1972",
+      "value": [
+        "All in the Family, CBS, 33.3 rating",
+        "Sanford and Son, NBC, 27.6",
+        "Hawaii Five-O, CBS, 25.2",
+        "Maude, CBS, 24.7",
+        "Bridget Loves Bernie, CBS, 24.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. The NBC Sunday Mystery Movie tied Bridget Loves Bernie for fifth on 24.2. The Mary Tyler Moore Show and Gunsmoke tied for seventh on 23.6. Monday Night Football came eighteenth at 21.0, and The Waltons tied for nineteenth at 20.6 along with The Partridge Family and Medical Center. Six network movie slots appear in the top thirty, the highest of them the Tuesday Movie of the Week at seventeenth with a 21.5.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1972%E2%80%9373"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Sanford and Son, NBC, January 14",
+        "Emergency!, NBC, January 15",
+        "The New Price is Right, CBS, September 4",
+        "Maude, CBS, September 12",
+        "The Waltons, CBS, September 14",
+        "The Bob Newhart Show, CBS, September 16",
+        "M*A*S*H, CBS, September 17",
+        "Kung Fu, ABC, October 14"
+      ],
+      "detail": "Gambit and The Joker's Wild started on CBS the same day as The New Price is Right, overhauling the network's daytime schedule, and the first daytime episode had been taped at CBS Television City on August 19. Maude was the first spin-off from All in the Family, with Bea Arthur in the title role. Fat Albert and the Cosby Kids and The New Scooby-Doo Movies began on CBS on September 9, The Streets of San Francisco on ABC on September 16 and Great Performances on PBS on November 4. Among the programs that finished were The Courtship of Eddie's Father on March 1, Bewitched on March 25 after a 1964 debut, My Three Sons on April 13 after a 1960 debut, The Road Runner Show on September 2 and Josie and the Pussycats on December 23.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_American_television"
+    },
+    "tv.hbo": {
+      "section": "tv",
+      "label": "HBO begins operating",
+      "value": "Home Box Office launched as a pay television service at 7:30 pm Eastern Time to an initial base of 365 subscribers of Teleservice Cable in Wilkes-Barre, Pennsylvania",
+      "detail": "The inaugural telecast was a National Hockey League game between the New York Rangers and the Vancouver Canucks from Madison Square Garden, carried over channel 21 on the Teleservice system. The first film shown went out immediately after the game finished, Sometimes a Great Notion, a 1971 picture with Paul Newman and Henry Fonda. The US year page carries the launch as a bare line with no time, no place and no subscriber count.",
+      "date": "1972-11-08",
+      "source": "https://en.wikipedia.org/wiki/1972_in_American_television"
+    },
+    "tv.color_marker": {
+      "section": "tv",
+      "label": "TV Guide drops its colour marker",
+      "value": "The magazine stopped using a C to indicate colour programmes and began using BW for monochrome instead, at a point when about half of US television households had colour sets",
+      "detail": "The television page dates the change to that issue and says it saved a lot of printer's ink.",
+      "date": "1972-08-26",
+      "source": "https://en.wikipedia.org/wiki/1972_in_American_television"
+    },
+    "tv.rockin_eve": {
+      "section": "tv",
+      "label": "The first Dick Clark's New Year's Rockin' Eve",
+      "value": "The first installment aired on NBC, beginning a yearly run of Dick Clark-hosted New Year's specials",
+      "detail": "The music page names Three Dog Night as the featured act, with Blood, Sweat & Tears, Helen Reddy and Al Green also performing, and says the show later moved to ABC. That page also has ABC premiering the concert series In Concert on September 21, with Alice Cooper in the first episode.",
+      "date": "1972-12-31",
+      "source": "https://en.wikipedia.org/wiki/1972_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "The First Time Ever I Saw Your Face, Roberta Flack",
+        "Alone Again (Naturally), Gilbert O'Sullivan",
+        "American Pie, Don McLean",
+        "Without You, Harry Nilsson",
+        "The Candy Man, Sammy Davis Jr."
+      ],
+      "detail": "From the year-end edition of Billboard dated December 30, compiled from the Hot 100 charts of the issue dates December 4, 1971 through November 18. Al Green had three songs on the list, more than any other artist, the highest of them Let's Stay Together at eleventh. Chuck Berry's My Ding-a-Ling came fifteenth and Michael Jackson's Ben twentieth. The music page prints a different table drawn from a chart-position aggregator rather than from Billboard, which puts American Pie first at 19 weeks on the Billboard chart and Without You second at 19 weeks, and adds that Hot Butter's instrumental Popcorn held the top spot for 17 weeks in Switzerland and 20 in Norway.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1972"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On records. The United States gave federal copyright protection to sound recordings for the first time, and before that phonograph records had been protected only at state level, and not in all states.",
+      "detail": "The music page words the change as federal copyright protection for sound recordings and the US year page as phonorecords being granted federal copyright protection for the first time. Both give the same date.",
+      "date": "1972-02-15",
+      "source": "https://en.wikipedia.org/wiki/1972_in_music"
+    },
+    "music.bowie_ziggy": {
+      "section": "music",
+      "label": "David Bowie introduces Ziggy Stardust",
+      "value": "Bowie brought out the persona at the second show of the Ziggy Stardust Tour, at The Toby Jug pub in Tolworth, Surrey",
+      "detail": "The music page cites the memoir Spider from Mars by Mick Woodmansey for the date and the venue, and labels the tour with the year it began and the year it ended, so this fact names neither.",
+      "date": "1972-02-10",
+      "source": "https://en.wikipedia.org/wiki/1972_in_music"
+    },
+    "music.wings_debut": {
+      "section": "music",
+      "label": "Wings play their first show",
+      "value": "Paul McCartney's new band made their live debut at the University of Nottingham, his first public concert since the Beatles' 1966 US tour",
+      "detail": "McCartney's single Give Ireland Back to the Irish, which the music page says was inspired by the Bloody Sunday killings in Derry on January 30, was banned by the BBC on February 19, and the page adds that the controversy only increased the song's popularity and it reached the Top 20 in England. The official Beatles fan club closed down on March 31.",
+      "date": "1972-02-09",
+      "source": "https://en.wikipedia.org/wiki/1972_in_music"
+    },
+    "music.wattstax": {
+      "section": "music",
+      "label": "Wattstax",
+      "value": "One hundred thousand people attended the Wattstax Black music concert at the Los Angeles Memorial Coliseum",
+      "detail": "The US year page carries the concert as a single line, calls it legendary and cites a National Public Radio piece on the documentary made of it. No cached page gives a performer.",
+      "date": "1972-08-20",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Magnavox Odyssey and Pong",
+      "value": [
+        "Magnavox Odyssey, released in September in twenty-five major US markets, with twelve games packed in and a light gun sold separately",
+        "Pong, released by Atari in November to coin-operated game distributors in northern California, with the production version out on November 29"
+      ],
+      "detail": "Magnavox manufactured 140,000 Odyssey consoles in the first year and the games page gives two figures for how many sold, 69,000 from a Magnavox disclosure and 80,000 from Ralph Baer's own compilation, which the page says contradict each other. Pong ran to 8,000 arcade cabinets over its lifetime. Magnavox had begun showing the Odyssey to dealers and the public on May 3 with a travelling exhibit that opened in Phoenix, and at a showing in Burlingame, California on May 24, Nolan Bushnell of Nutting Associates played the demonstration unit and took particular note of the Odyssey game Table Tennis. Bushnell and Ted Dabney founded Atari in Sunnyvale, which the games page dates June 27 and the US year page June 26. The year page credits Pong to Bushnell and Allan Alcorn. The Intergalactic Spacewar Olympics at the Stanford Artificial Intelligence Project on October 19 was the first formal video game competition.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_video_games"
+    },
+    "tech.apollo": {
+      "section": "tech",
+      "label": "Apollo 16 and Apollo 17",
+      "value": [
+        "Apollo 16 launched April 16 with John Young, Ken Mattingly and Charlie Duke, and the crew set a lunar rover speed record of 17 km/h",
+        "Apollo 17 launched December 7 with Gene Cernan, Ronald Evans and Harrison Schmitt, landed on the Moon December 11 and returned to Earth December 19, concluding the programme of lunar exploration"
+      ],
+      "detail": "Cernan became the last person to walk on the Moon on December 14, after he and Schmitt completed the third and final extra-vehicular activity of the mission. The Blue Marble photograph of the Earth was taken on the day Apollo 17 launched, and five mice flew with the crew. Nixon had ordered the development of a Space Shuttle programme on January 5, and Wernher von Braun retired from NASA on May 26, frustrated by the agency's unwillingness to pursue a crewed trans-orbital programme.",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "tech.robotic_spacecraft": {
+      "section": "tech",
+      "label": "Robotic spacecraft",
+      "value": [
+        "Mariner 9 sent pictures as it orbited Mars, February 4",
+        "Luna 20 landed on the Moon on February 21 and came back to Earth on February 26 with 55 grams of lunar soil",
+        "Pioneer 10 launched from Cape Kennedy on March 2, to be the first man-made spacecraft to leave the Solar System",
+        "Venera 8 launched March 27 and landed on Venus on July 22, transmitting for 50 minutes on surface temperature and atmospheric pressure",
+        "Landsat 1 launched July 23, the first Earth-resources satellite"
+      ],
+      "detail": "The year page's March 27 entry says Venera 8 would make the first soft landing on Venus, while its July 22 entry says only that the probe landed on the surface and transmitted for 50 minutes. Pioneer 10 appears twice on the cached pages, described as the first man-made spacecraft to leave the Solar System on the year page and the first man-made satellite to do so on the US year page.",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "tech.leap_second": {
+      "section": "tech",
+      "label": "Two leap seconds added in one year",
+      "value": "The International Time Bureau added a leap second to Coordinated Universal Time on June 30 and a second one on December 31, for the first and last time, making the year 366 days and two seconds long",
+      "detail": "The year page calls it the longest year ever within the context of UTC.",
+      "date": "1972-12-31",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "tech.recombinant_dna": {
+      "section": "tech",
+      "label": "First recombinant DNA molecule reported",
+      "value": "Paul Berg and colleagues published the first report of the production of a recombinant DNA molecule, which the year page calls the birth of modern molecular biology methodology",
+      "detail": "The US year page has Herbert Boyer and Stanley N. Cohen conceiving the concept of recombinant DNA at a scientific meeting in Honolulu in November, and records Berg recombining DNA in a test tube separately. Tombs containing bamboo slips, among them Sun Tzu's Art of War and Sun Bin's lost military treatise, were found by construction workers in Shandong on April 10.",
+      "date": "1972-10-01",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.36 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.60 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Five men arrested inside the Democratic National Committee offices in June and a landslide for the president in November, eleven Israeli athletes killed at the Olympic Games in September, and the last two men to walk on the Moon coming home in December."
+    },
+    "culture.womens_rights": {
+      "section": "culture",
+      "label": "Equal rights measures and firsts for women",
+      "value": [
+        "The 92nd Congress voted on March 22 to send the proposed Equal Rights Amendment to the states for ratification",
+        "The Boston Marathon was run on April 17 as the first in which women were officially allowed to compete",
+        "Sally Priesand was ordained on June 3 as the first female rabbi in the United States",
+        "Nixon signed Title IX into law on June 23 as part of the Education Amendments, prohibiting gender discrimination in any educational program receiving federal funds",
+        "Ms. magazine began publication on July 1",
+        "The first female FBI agents were hired on October 25"
+      ],
+      "detail": "The first women were admitted to Dartmouth College, which the US year page lists without a date. That page also lists the Boston Marathon twice, once under April 17 and once undated. The year page describes Priesand as the first American woman and the second known woman anywhere to be ordained as a rabbi within Judaism, where the US year page says only the first female rabbi in the country.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "culture.court_rulings": {
+      "section": "culture",
+      "label": "Supreme Court rulings",
+      "value": [
+        "Eisenstadt v. Baird, March 22, unmarried people have the right to access contraception on the same basis as married couples",
+        "Furman v. Georgia, June 29, the death penalty is unconstitutional, and all death sentences were converted to life imprisonment"
+      ],
+      "detail": "The California Supreme Court had voided that state's death penalty on February 18, commuting all its death sentences to life in prison. The US year page lists the suspension of capital punishment under Furman among the year's ongoing conditions. Baker v. Nelson was decided in the Minnesota Supreme Court on October 15, affirming that a state law preventing same-sex marriage was constitutional.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "culture.tuskegee": {
+      "section": "culture",
+      "label": "Tuskegee syphilis study made public",
+      "value": "US health officials admitted that African American men had been used as guinea pigs in the study without their informed consent",
+      "detail": "The year page names it the Tuskegee Syphilis Study and the US year page gives the full title, the Tuskegee Study of Untreated Syphilis in the Negro Male. Neither page says how long the study had run or how many men were involved.",
+      "date": "1972-07-25",
+      "source": "https://en.wikipedia.org/wiki/1972_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Heinrich Boll",
+        "Peace, not awarded",
+        "Physics, John Bardeen, Leon Neil Cooper and John Robert Schrieffer",
+        "Chemistry, Christian B. Anfinsen, Stanford Moore and William H. Stein",
+        "Physiology or Medicine, Gerald M. Edelman and Rodney R. Porter",
+        "Economics, John Hicks and Kenneth Arrow"
+      ],
+      "detail": "The year page lists the Peace Prize as not awarded and gives the economics award under its own heading, separately from the five original prizes.",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Oakland Athletics beat the Cincinnati Reds four games to three, taking the title on October 22 for the franchise's sixth and its first since 1930, when it was based in Philadelphia",
+      "detail": "The Major League Baseball Players Association had called a strike on April 1, the first work stoppage in the 103-year history of the sport, and the walkout lasted 13 days with 86 games cancelled. The Washington Senators moved to Dallas-Fort Worth and became the Texas Rangers. The Baseball Writers' Association elected Sandy Koufax with 344 votes, Yogi Berra with 339 and Early Wynn with 301 to the Hall of Fame on January 19. Sparky Lyle saved 35 games for the New York Yankees and became the first left-hander to reach 100 career saves in the American League.",
+      "date": "1972-10-22",
+      "source": "https://en.wikipedia.org/wiki/1972_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl VI",
+      "value": "The Dallas Cowboys beat the Miami Dolphins 24 to 3 at Tulane Stadium in front of 81,023, with the Dallas quarterback Roger Staubach named most valuable player",
+      "detail": "The US year page gives the score alone, without the venue, the attendance or the most valuable player. Nebraska had beaten Alabama 38 to 6 in the Orange Bowl to take the college football national championship for the previous season.",
+      "date": "1972-01-16",
+      "source": "https://en.wikipedia.org/wiki/1972_in_sports"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Winter and Summer Olympic Games",
+      "value": [
+        "Winter Games, Sapporo, Japan, February 3 to 13, with the Soviet Union taking the most medals at 16 and the most golds at 8",
+        "Summer Games, Munich, West Germany, August 26 to September 10, with the Soviet Union taking the most medals at 99 and the most golds at 50"
+      ],
+      "detail": "Rhodesia was expelled by the International Olympic Committee on August 22 for its racist policies, which the year page carries rather than the sports page. Mark Spitz was Associated Press Male Athlete of the Year in swimming and Olga Korbut Female Athlete of the Year in gymnastics. West Germany won the men's Olympic field hockey gold and Pakistan the silver, and the sports page leaves the bronze medal line blank.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_sports"
+    },
+    "sports.fischer_spassky": {
+      "section": "sports",
+      "label": "Bobby Fischer takes the world chess title",
+      "value": "The match against the Soviet world champion Boris Spassky began at Reykjavik in Iceland on July 11, and Fischer won on September 1 to become the first American world chess champion",
+      "detail": "The US year page calls it the Match of the century and the year page calls it long anticipated.",
+      "date": "1972-09-01",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Boston Bruins over the New York Rangers, four games to two, taking the last game 3 to 0 on May 11",
+        "NBA Finals, Los Angeles Lakers over the New York Knicks, four games to one",
+        "NCAA basketball, UCLA 81, Florida State 76",
+        "European Championship, West Germany 3, Soviet Union 0",
+        "FA Cup, Leeds United 1, Arsenal 0",
+        "Grey Cup, Hamilton Tiger-Cats 13, Saskatchewan Roughriders 10",
+        "World Snooker Championship, Alex Higgins over John Spencer, 37 to 32"
+      ],
+      "detail": "Canada beat the Soviet Union 6 to 5 in the eighth and final game of the Summit Series on September 28, Paul Henderson scoring what the sports page calls the goal of the century, to take the first Canada against Soviet Union challenge series four wins to three with one tie. The World Hockey Association began play on October 11 having signed Bobby Hull and Derek Sanderson away from the NHL. Phil Esposito led the NHL in regular season scoring and Bobby Orr was its most valuable player. Eddy Merckx won both the Giro d'Italia and the Tour de France and set a world hour record in Mexico City on October 25. Jack Nicklaus won the Masters and the US Open and led the PGA Tour money list with $320,542, and Kathy Whitworth led the LPGA Tour with $65,063. Billie Jean King won the French Open, Wimbledon and the US Open, the first player in the Open Era to repeat as US Open singles champion. Emerson Fittipaldi became the youngest Formula One world champion at 25 by winning the Italian Grand Prix at Monza on September 10, which the year page carries.",
+      "source": "https://en.wikipedia.org/wiki/1972_in_sports"
+    },
+    "deaths.truman": {
+      "section": "deaths",
+      "label": "Harry S. Truman",
+      "value": "Died December 26. Born 1884",
+      "detail": "33rd President of the United States, who died in Kansas City, Missouri, according to the US year page.",
+      "date": "1972-12-26",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "deaths.hoover": {
+      "section": "deaths",
+      "label": "J. Edgar Hoover",
+      "value": "Died May 2. Born 1895",
+      "detail": "American civil servant, the first Director of the Federal Bureau of Investigation.",
+      "date": "1972-05-02",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "deaths.robinson": {
+      "section": "deaths",
+      "label": "Jackie Robinson",
+      "value": "Died October 24. Born 1919",
+      "detail": "African American baseball player. The year page's entry cites a New York Times obituary headlined as the death of the first Black player in the major leagues, and the page itself says only that he was an African-American baseball player.",
+      "date": "1972-10-24",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "deaths.clemente": {
+      "section": "deaths",
+      "label": "Roberto Clemente",
+      "value": "Died December 31. Born 1934",
+      "detail": "Puerto Rican baseball player, the Pittsburgh Pirates right fielder, killed in a plane crash off Puerto Rico while taking relief supplies to victims of the Managua earthquake eight days earlier.",
+      "date": "1972-12-31",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "deaths.nkrumah": {
+      "section": "deaths",
+      "label": "Kwame Nkrumah",
+      "value": "Died April 27. Born 1909",
+      "detail": "First President of Ghana.",
+      "date": "1972-04-27",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    },
+    "deaths.windsor": {
+      "section": "deaths",
+      "label": "The Duke of Windsor",
+      "value": "Died May 28. Born 1894",
+      "detail": "Previously King Edward VIII of the United Kingdom, which is how the year page names him rather than by his own name.",
+      "date": "1972-05-28",
+      "source": "https://en.wikipedia.org/wiki/1972"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1972. Every source in this file is a cached page; no dedicated article was pulled, because the one date with a checkable internal constraint holds. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence directly above that table on the same page calls the entries the top ten films by box office gross in North America, and film.gross names the contradiction rather than picking a side. Date check. The presidential election has a checkable constitutional constraint and it holds: November 1 fell on a Wednesday, so the first Monday was November 6 and the Tuesday after it was November 7, which is the date both cached year pages give, and pol.election states the check. No other date on the page carries an internal constraint, so no dedicated article was needed. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that. The two radio-shaped items in the cached pages, the BBC ban on Give Ireland Back to the Irish and Sean Mac Stiofain's arrest after an RTE interview, sit in the music and world facts that already carry their subjects. No film.ticket_price fact, because the movie ticket series carries a null for this year. The Nielsen ranking covers a season that began in the autumn of 1972 and ran into the following spring, which tv.top_shows states without naming a second year. The 45th Academy Awards ceremony and its nomination announcement both fall in the following year, so film.best_picture says awarded the following spring and gives no ceremony date. tech.games uses exactly that id rather than a sub-id so the 1972 gate in sections.mjs fires; both the Magnavox Odyssey and the Pong cabinet sit in one fact. music.listening_format uses that exact spelling per the brief. Source disagreements labelled rather than resolved: Atari's founding is June 27 on the video games page and June 26 on the US year page, and tech.games names both; the Watergate cash in Howard Hunt's wife's purse is a day after the United Airlines crash on the year page and under the same December 8 heading on the US year page; Pioneer 10 is the first man-made spacecraft to leave the Solar System on the year page and the first man-made satellite to do so on the US year page; Venera 8 is described as making the first soft landing on Venus in the year page's launch entry while the same page's July 22 entry claims only a landing and 50 minutes of transmission; Sally Priesand is the first American woman and second woman anywhere ordained as a rabbi on the year page and only the first female rabbi in the United States on the US year page; the Boston Marathon appears twice on the US year page, dated April 17 in the events list and undated in the list at the foot; the Odyssey's first-year sales are 69,000 in a Magnavox disclosure and 80,000 in Ralph Baer's compilation, which the video games page itself flags as contradictory. Forward-looking source material left out because a year token later than 1972 cannot appear: the film page's note that The Godfather held the all-time gross record until Jaws in 1975, so film.gross carries only the record claim; the year page's framing of Apollo 17 as the last crewed mission beyond low Earth orbit until a named later flyby, and of Cernan as the last man on the Moon until a named later year, so tech.apollo says only that the programme of lunar exploration concluded; the music page's label for the Ziggy Stardust Tour, which names the year it ended, so music.bowie_ziggy gives the tour without either year and says so; the US year page's date range for the suspension of capital punishment under Furman, so culture.court_rulings calls it an ongoing condition instead; the Claudy bombing's later public disclosure; the video games page's patent grant date for Nolan Bushnell's Computer Space filing; the television page's later dates for the Tonight Show's return to New York and for WNAC-TV's shutdown. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: pol.vietnam cites the year page and takes the May 8 mining of Haiphong Harbor and the August 12 withdrawal of the last ground troops from the US year page, which the detail states; pol.nixon_china cites the year page and both pages carry the visit identically; film.world_cinema cites the film page for the festival prizes and the foreign-language Oscar and takes the nominee list from the Academy Awards page; film.how_people_watched cites the film page for the studio anniversaries and takes The Godfather premiere and Fritz the Cat from the US year page and the Super Fly soundtrack from the year page; tv.rockin_eve cites the television page and takes the performers and the In Concert premiere from the music page; sports.olympics cites the sports page and takes the expulsion of Rhodesia from the year page; sports.champions cites the sports page and takes Emerson Fittipaldi's title from the year page; deaths.truman cites the year page and takes the place of death from the US year page. Dropped for lack of a source that says enough, or because the cached pages give no day: Iraq's nationalisation of the Iraq Petroleum Company, dated only to June; Somalia's adoption of the Somali alphabet, dated only to October; the Nishitetsu Lions sale, dated only to November; Colombian looters finding Ciudad Perdida, undated; the first women admitted to Dartmouth College, undated and recorded instead in culture.womens_rights; Roy Wood leaving the Electric Light Orchestra, dated only to June. Dropped to hold the section counts down rather than for want of a source: the Qir earthquake of April 10, which killed 5,374 in Fars province in Iran; the F-86 that failed to get airborne at Sacramento Executive Airport on September 24 and killed 12 children and 11 adults in a Farrell's Ice Cream Parlour; the Sunshine Mine fire of May 2, which killed 91 in Idaho; the Black Hills flood of June 9, which killed 238, and Hurricane Agnes, which killed 117 between June 14 and 23; Eastern Air Lines Flight 401 in the Everglades on December 29, the first hull loss of a wide-body aircraft; the Chicago commuter rail crash of October 30, which killed 45; the Saltillo train crash of October 6, which killed 208; the Alitalia crash west of Palermo on May 5, which killed 115, and the East German Ilyushin crash of August 14, which killed all 156; the Mohawk Airlines crash into an Albany house on March 3; the Trelew massacre of August 22; the last executions in Paris on November 28; the Lockheed L-1011 TriStar entering service on April 26 and the Airbus A300's first flight on October 28; the McDonnell Douglas F-15 Eagle's first flight on July 27; the Pruitt-Igoe demolitions of March 16 and July 15; the Angela Davis release of February 23 and acquittal of June 4; the USS Kitty Hawk riot of October 12; the Equal Rights Amendment's companion ruling and the Stone Mountain carvings completed on March 3; the first Rainbow Gathering of July 4 and the first Libertarian Party convention from June 15; the Aboriginal Tent Embassy of January 26; the Club of Rome's Limits to Growth of March 2 and The Joy of Sex of October 1; the United Nations Conference on the Human Environment from June 5 and the United Nations Environment Programme of December 15; the UNESCO world heritage convention of November 16; Kurt Waldheim becoming Secretary-General on January 1; the sinking of the RMS Queen Elizabeth in Victoria harbour on January 9; the pound sterling floating from June 23; the International Monetary Market opening on May 16; the Dow Jones close above 1,000 on November 14 and the HP-35 calculator of January 4, both moved to texture; the first Star Trek fan convention of January 21 and the Tonight Show's move to Burbank in May; WHDH-TV losing channel 5 in Boston on March 18; the DDT ban taking effect on December 31; the Okinawa reversion of May 15; the Simla Agreement, kept inside world.bangladesh instead; the Eurovision Song Contest won by Vicky Leandros in Edinburgh on March 25 and the first OTI Festival in Madrid on November 25; the 14th Grammy Awards of March 15, which honoured the previous year's recordings; the 44th Academy Awards of April 10, which honoured the previous year of film and would put a second Best Picture on the page; Elvis Presley's Madison Square Garden run and Mahalia Jackson's funeral, both moved to texture; John Lennon's immigration fight from February 29; the One To One Concert of August 30; Billy Preston headlining Radio City Music Hall on May 8; the first live performance of Dark Side of the Moon at Brighton on January 20; Les Harvey's electrocution on stage at Swansea on May 2. Deaths that would have earned a place with more room: Lester B. Pearson on December 27, Mahalia Jackson on January 27, Maurice Chevalier on January 1, Ezra Pound on November 1, Louis Leakey on October 1, Igor Sikorsky on October 26, Paul-Henri Spaak on July 31, Maria Goeppert Mayer on February 20, Marianne Moore on February 5, Margaret Rutherford and Cecil Day-Lewis on May 22, Dan Blocker on May 13, George Sanders on April 25, Prescott Bush on October 8, Charles Atlas on December 24, Andrei Tupolev on December 23, C. Rajagopalachari on December 25. Texture material taken from the cached pages but given no fact of its own: Iberia Airlines Flight 602; the Buffalo Creek coal sludge spill; the Sennichi department store nightclub fire; the Staines air disaster; the Managua earthquake and the accusation against Anastasio Somoza Debayle; Vesna Vulovic's survival; Shoichi Yokoi found in Guam; Laszlo Toth's attack on the Pieta; Uruguayan Air Force Flight 571; the Dow Jones close of 1,003.16; the HP-35 at $395; Mahalia Jackson's funeral; Elvis Presley at Madison Square Garden and Elvis Presley Boulevard; the Lod Airport massacre; Volkswagen Beetle sales passing the Ford Model T; George Carlin's arrest at Summerfest; the Immaculate Reception. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question and which comes out if challenged; and that records means discs played on a turntable, which music.listening_format implies and the copyright entry it cites does not spell out. Names and titles are written in ASCII per the corpus convention, so Heinrich Boll, Luis Bunuel, Jean-Bedel Bokassa, Mathieu Kerekou, Sean Mac Stiofain, Vesna Vulovic, Le Duc Tho, Reykjavik, Zurich and Ondrej Nepela lose their diacritics, and Michelangelo's Pieta loses its accent. Deaths carry a birth year rather than an age, because the year page gives only the year. This file runs 52 facts across 10 sections, at the top of the 40 to 52 band the brief asks for. Politics and world each run to 7, which is the ceiling the brief suggests, film, tv, music, tech, culture and sports each run to 5, deaths to 6 and prices to the two series facts."
+}

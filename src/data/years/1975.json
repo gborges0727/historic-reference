@@ -1,0 +1,507 @@
+{
+  "year": 1975,
+  "tier": "broadcast",
+  "headline": "Saigon fell in April, Jaws opened in 409 cinemas in June, and Franco died in November",
+  "texture": [
+    "The Banqiao Dam in China's Henan Province failed on August 8 after Typhoon Nina and over 200,000 people died. A tube train crashed at Moorgate station in London on February 28, killing 43. The bulk ore carrier Lake Illawarra struck the Tasman Bridge in Hobart on January 5 and brought part of it down, drowning 12. A coach went off Dibbles Bridge near Grassington on May 27 and 32 died, the worst toll in a British road accident. Eastern Airlines Flight 66 hit a microburst on approach to Kennedy on June 24 and 113 of the 124 aboard were killed.",
+    "Steve Prefontaine died in a car accident at Eugene, Oregon on May 30. John Walker of New Zealand ran 3:49.4 at Gothenburg on August 12, the first man under 3:50 for the mile. Ruffian broke a leg on July 6 in a match race against the Kentucky Derby winner Foolish Pleasure and was put down the next day after an operation failed. Rennie Stennett of the Pittsburgh Pirates went seven for seven in a nine-inning game on September 16 and scored five runs in a 22 to 0 win over the Cubs. Glenelg kicked 49.23, or 317 points, against Central District on August 23.",
+    "Sony put the Betamax video recorder on sale in the United States in November, inside a teakwood console with a 19-inch colour television, for $2,495. Volkswagen brought the Golf to America in January and called it the Rabbit. Space Mountain opened at Walt Disney World on January 15, the day the Carousel of Progress moved there from Disneyland. WGPR-TV signed on in Detroit on September 29 on channel 62, the first American television station owned and operated by African Americans. The Price Is Right went to a full hour on CBS on November 3.",
+    "Rembrandt's The Night Watch was slashed a dozen times at the Rijksmuseum on September 14. The last naturally occurring case of smallpox was diagnosed and treated on October 16, in Rahima Banu, a two-year-old in Bangladesh. Junko Tabei reached the summit of Everest on May 16, the first woman to do it, and the Suez Canal reopened on June 5 for the first time since the Six-Day War. Jacques Cousteau found the wreck of the Britannic in the Kea Channel on December 3. Ella Grasso took office in January as Governor of Connecticut, the first woman to hold a United States governorship without succeeding her husband."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.fall_of_saigon",
+    "world.helsinki_accords",
+    "film.gross#0",
+    "film.how_people_watched",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Gerald Ford (R)",
+      "detail": "Nelson Rockefeller was Vice President, Warren E. Burger was Chief Justice, Carl Albert was Speaker of the House and Mike Mansfield was Senate majority leader. The 93rd Congress sat until January 3 and the 94th from that date.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "pol.watergate_convictions": {
+      "section": "politics",
+      "label": "Watergate convictions",
+      "value": "John N. Mitchell, H. R. Haldeman and John Ehrlichman were found guilty of the Watergate cover-up on January 1 and sentenced on February 21 to between 30 months and 8 years in prison",
+      "detail": "The US year page describes Mitchell as the former United States Attorney General and Haldeman and Ehrlichman as former White House aides. The year page carries the guilty verdicts on the same date and not the sentences.",
+      "date": "1975-01-01",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "pol.cia_investigations": {
+      "section": "politics",
+      "label": "Rockefeller Commission on the CIA",
+      "value": "Ford appointed Vice President Rockefeller on January 8 to head a special commission looking into alleged domestic abuses by the CIA, and the commission issued its report in Washington on June 10, recommending a joint congressional oversight committee on intelligence",
+      "date": "1975-01-08",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "pol.ford_assassination_attempts": {
+      "section": "politics",
+      "label": "Two attempts on Ford's life in seventeen days",
+      "value": "Lynette Fromme, a follower of the jailed Charles Manson, tried to shoot the president in Sacramento on September 5, and Sara Jane Moore tried in San Francisco on September 22, both stopped by the Secret Service",
+      "detail": "Both cached pages carry both attempts on the same two dates, the US year page naming Manson and the year page not.",
+      "date": "1975-09-05",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "pol.mayaguez": {
+      "section": "politics",
+      "label": "Mayaguez incident",
+      "value": "Khmer Rouge forces seized the American merchant ship SS Mayaguez in international waters on May 12, and the Navy and Marines recovered it on May 15 at a cost of 38 American lives",
+      "detail": "The year page carries only the May 15 rescue and the death toll. The US year page carries the seizure as well.",
+      "date": "1975-05-12",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "pol.nyc_bailout": {
+      "section": "politics",
+      "label": "New York City bailout approved",
+      "value": "The city was approved for $2.3 billion a year, $6.9 billion in total",
+      "detail": "The US year page gives the annual figure, the total, and an end date falling after this year, which is left out here.",
+      "date": "1975-12-08",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "world.fall_of_saigon": {
+      "section": "world",
+      "label": "Fall of Saigon and the end of the Vietnam War",
+      "value": "North Vietnamese forces took Saigon on April 30, South Vietnam surrendered unconditionally and was replaced by a Provisional Revolutionary Government, and the remaining Americans and South Vietnamese civilians were evacuated by helicopter from April 29 under Operation Frequent Wind",
+      "detail": "North Vietnamese troops had attacked Ban Me Thuot on March 10 on the way to Saigon, and President Nguyen Van Thieu ordered the Central Highlands evacuated on March 13, which became a mass exodus of troops and civilians known as the Convoy of Tears. The first military Operation Babylift flight crashed 27 minutes after takeoff on April 4, killing 138 of the people aboard with 176 surviving. North Vietnam captured the Spratly Islands held by South Vietnam on April 29. The Australian Embassy was closed and evacuated on April 25, almost ten years to the day after the first Australian troop commitment.",
+      "date": "1975-04-30",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.khmer_rouge": {
+      "section": "world",
+      "label": "Khmer Rouge take Phnom Penh",
+      "value": "The Khmer Republic surrendered on April 17 as Communist Khmer Rouge forces captured Phnom Penh and ended the Cambodian Civil War, and on April 18 they began a forcible mass evacuation of the city and started the Cambodian genocide",
+      "detail": "The year page records a mass evacuation of American troops and Cambodian civilians alongside the surrender. In Laos the war ended on December 2 when the Pathet Lao took Vientiane, forcing King Sisavang Vatthana to abdicate.",
+      "date": "1975-04-17",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of leadership",
+      "value": [
+        "Margaret Thatcher defeated Edward Heath for the leadership of the opposition UK Conservative Party, February 11, at 49 the first woman to lead any British political party",
+        "King Faisal of Saudi Arabia was shot and killed by his nephew, March 25",
+        "Greece was established as the Hellenic Republic after a referendum and seven years of military rule, June 11",
+        "Sheikh Mujibur Rahman, founding president of Bangladesh, was killed in a coup led by Major Syed Faruque Rahman, August 15",
+        "Juan Carlos became acting head of state of Spain on October 30 and was declared King on November 22",
+        "Robert Muldoon's National Party defeated Bill Rowling's Labour government in New Zealand, November 29"
+      ],
+      "detail": "Franco conceded on October 30 that he was too ill to govern, and the year page dates the end of his dictatorship to his death on November 20. Francoist Spain had executed five ETA and FRAP members on September 27, the last executions carried out in Spain. Colonel Richard Ratsimandrava, President of Madagascar, was assassinated on February 11. A military coup in Chad overthrew and killed President Francois Tombalbaye on April 13. Suleyman Demirel formed Turkey's 39th government on March 31 as a four-party coalition. Vasco Goncalves was ousted as Prime Minister of Portugal on September 19, and a coup attempt by far-left activists failed there on November 25.",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.helsinki_accords": {
+      "section": "world",
+      "label": "Helsinki Accords signed",
+      "value": "The agreement recognising Europe's national borders and respect for human rights was signed in Finland",
+      "detail": "The year page carries the signing as a single line and names no signatory. The Treaty of Osimo, signed on November 10, settled the Italian and Yugoslav dispute over Trieste, with most of the land area and residents going to Italy. The first Group of 6 summit was held at the Chateau de Rambouillet in France on November 15.",
+      "date": "1975-08-01",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Countries that became independent",
+      "value": [
+        "Mozambique, from Portugal, June 25",
+        "Cape Verde, from Portugal after 500 years of rule, July 5",
+        "Comoros, from France, July 6",
+        "Sao Tome and Principe, from Portugal, July 12",
+        "Papua New Guinea, from Australia, September 16",
+        "Angola, from Portugal, November 11, with civil war erupting the same day",
+        "Suriname, from the Kingdom of the Netherlands, November 25",
+        "East Timor, declared by Portuguese Timor, November 28"
+      ],
+      "detail": "Portugal had named Angola's date in the Alvor Agreement of January 15. Sikkim acceded to India on May 16 after a referendum and abolished the Chogyal, its monarchy. Cape Verde, Mozambique and Sao Tome and Principe joined the United Nations on September 16 and the Comoros on November 12. Indonesia invaded East Timor on December 7, nine days after the declaration. The Green March began on November 6, with 300,000 unarmed Moroccans converging on Tarfaya to wait for a signal from King Hassan II to cross into Western Sahara, and under the Madrid Accords of November 14 Spain agreed to hand power in the Spanish Sahara to Morocco and Mauritania. Fifteen West African countries signed the Treaty of Lagos on May 28, creating the Economic Community of West African States.",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.indian_emergency": {
+      "section": "world",
+      "label": "State of emergency in India",
+      "value": "Indira Gandhi declared it on June 25, suspending civil liberties and elections, and Parliament approved the declaration on July 21 by 301 votes to 76 in the lower house and 147 to 32 in the upper",
+      "date": "1975-06-25",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.lebanon_civil_war": {
+      "section": "world",
+      "label": "Lebanese Civil War begins",
+      "value": "The Kataeb militia attacked a bus at Ain El Remmeneh and killed 27 Palestinians, which triggered the war",
+      "detail": "The year page calls the attack the Bus massacre and gives its length in years, which reaches past this year and is left out.",
+      "date": "1975-04-13",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "world.australian_crisis": {
+      "section": "world",
+      "label": "Australian constitutional crisis",
+      "value": "Governor-General Sir John Kerr dismissed the Whitlam Labor government on November 11 and commissioned Malcolm Fraser of the Liberal and National Country Coalition as caretaker Prime Minister, and the Coalition then won the federal election of December 13",
+      "detail": "The year page calls the dismissal controversial and says the Fraser government achieved the largest parliamentary majority in federal Australian political history to that point. The Racial Discrimination Act 1975 took effect on October 31, the Order of Australia was awarded for the first time on June 9, and the Postmaster-General's Department was split on July 1 into Telecom Australia and Australia Post.",
+      "date": "1975-11-11",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Jaws, $133,400,000, Universal",
+        "One Flew Over the Cuckoo's Nest, $59,200,000, United Artists",
+        "The Rocky Horror Picture Show, $50,420,000, 20th Century Fox",
+        "Shampoo, $23,822,000, Columbia",
+        "Dog Day Afternoon, $22,500,000, Warner Bros."
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The table's column header reads Rank, Title, Distributor, Domestic rentals, while the sentence directly above it calls these the top ten films by box office gross in North America, and this fact follows the header. The Rocky Horror figure carries a footnote saying its unusually long theatrical run may mean the number does not reflect what the film took in the year. Three figures come from Joel Waldo Finler's The Hollywood Story and the rest from a domestic revenue database. The Return of the Pink Panther was sixth at $20,017,000 for United Artists, Three Days of the Condor seventh at $20,014,000 for Paramount, Funny Lady eighth at $19,313,000 for Columbia, The Other Side of the Mountain ninth at $18,012,000 for Universal and Tommy tenth at $17,793,000 for Columbia.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "One Flew Over the Cuckoo's Nest, produced by Michael Douglas and Saul Zaentz",
+      "detail": "Awarded the following spring at the 48th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and presided over by Walter Matthau, Robert Shaw, George Segal, Goldie Hawn and Gene Kelly. The film took five awards from nine nominations, the most of either kind that year, sweeping Picture, Director for Milos Forman, Actor, Actress and Adapted Screenplay for Bo Goldman and Lawrence Hauben. The Academy Awards page calls that the second such sweep, after It Happened One Night in 1934. Barry Lyndon had seven nominations and won four, for Leonard Rosenman's scoring adaptation, John Alcott's cinematography, art direction and costume design. Jaws won all three of its other nominations and lost only Best Picture, taking John Williams's score, the sound award and Verna Fields's editing. The ceremony returned the Oscar telecast to ABC, which had carried it from 1961 until NBC took the rights in 1971.",
+      "source": "https://en.wikipedia.org/wiki/48th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jack Nicholson, One Flew Over the Cuckoo's Nest",
+        "Best Actress, Louise Fletcher, One Flew Over the Cuckoo's Nest",
+        "Best Supporting Actor, George Burns, The Sunshine Boys",
+        "Best Supporting Actress, Lee Grant, Shampoo"
+      ],
+      "detail": "Burns was 80, the oldest acting winner to that point and the last person born in the nineteenth century to win an acting award. Isabelle Adjani, nominated at 20 for The Story of Adele H., became the youngest Best Actress nominee, taking the record from Elizabeth Hartman, who had been 22 in 1965. Brad Dourif was nominated in support for Cuckoo's Nest, Al Pacino for Dog Day Afternoon and Chris Sarandon in support for the same film, and Lily Tomlin and Ronee Blakley were both nominated in support for Nashville. The Golden Globes split their acting awards differently, giving Walter Matthau the comedy or musical actor award for The Sunshine Boys and Ann-Margret the actress award for Tommy, while the BAFTA awards went to Pacino and to Ellen Burstyn for Alice Doesn't Live Here Anymore.",
+      "source": "https://en.wikipedia.org/wiki/48th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Dersu Uzala, Soviet Union, winner of the Academy Award for Best Foreign Language Film",
+        "Letters from Marusia, Mexico",
+        "Profumo di donna, Italy",
+        "The Promised Land, Poland",
+        "Sandakan No. 8, Japan"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country. Profumo di donna was also nominated for adapted screenplay. Sholay opened in Bombay on August 15, directed by Ramesh Sippy and written by Salim-Javed, and the film page says it drew negative reviews and a tepid commercial response before word of mouth made it the highest-grossing Indian film to that point, on about 250,000,000 admissions. Federico Fellini was nominated for Best Director for Amarcord, which had won the Foreign Language Film award the year before, making it the last film nominated in separate years. The Palme d'Or went to Chronicle of the Years of Fire and the Golden Bear to Adoption, and no dates are given for either festival because the film page dates both to the year after this one. Pier Paolo Pasolini was murdered at Ostia on November 2, which the film page says was apparently for political reasons.",
+      "source": "https://en.wikipedia.org/wiki/48th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and from June 20 in 409 of them at once. Universal opened Jaws in 409 cinemas across the United States and backed it with a national television advertising campaign, a combination the US year page calls a release method virtually unheard-of.",
+      "detail": "The three cached pages give three different figures for what the film took. The rentals table says $133,400,000, the film page says it was the first film to earn $100,000,000 in United States and Canadian theatrical rentals, and the US year page says it brought in $123.1 million by the end of its initial run. The Rocky Horror Picture Show, which premiered in London on August 14, sits third on the rentals table with a footnote warning that its run was still going. Richard Hollingshead, who invented the drive-in theater, died on May 13. Sneak Previews, which the film page calls the first American film review show, began on November 23 with Gene Siskel and Roger Ebert.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$2.03",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1975",
+      "value": [
+        "All in the Family, CBS, 30.1 rating",
+        "Rich Man, Poor Man, ABC, 28.0",
+        "Laverne & Shirley, ABC, 27.5",
+        "Maude, CBS, 25.0",
+        "The Bionic Woman, ABC, 24.9"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. ABC took six of the top eleven places, including the ABC Monday Night Movie tenth at 24.2 and Happy Days eleventh at 23.9. Sanford and Son on NBC and Rhoda on CBS tied for seventh on a 24.4, and The Waltons and M*A*S*H tied for fourteenth on a 22.9. The Mary Tyler Moore Show had fallen to nineteenth at 21.9.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1975%E2%80%9376"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Wheel of Fortune, NBC, January 6, with Chuck Woolery hosting and Susan Stafford assisting",
+        "The Jeffersons, CBS, January 18",
+        "Barney Miller, ABC, January 23",
+        "Ryan's Hope, ABC, July 7",
+        "Welcome Back, Kotter, ABC, September 9",
+        "Good Morning America, ABC, November 3",
+        "One Day at a Time, CBS, December 16"
+      ],
+      "detail": "All in the Family sent the Bunkers' neighbours off into The Jeffersons on January 11. Another World became the first American soap opera to run an hour on January 6 and Days of Our Lives followed on April 21. Phyllis and The Invisible Man both started on September 8, Ellery Queen on September 11, and Wonder Woman on November 7 as a television film serving as a pilot. AM America had made its ABC debut on January 6, which the US year page carries and the television page does not.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_American_television"
+    },
+    "tv.snl": {
+      "section": "tv",
+      "label": "NBC's Saturday Night goes on the air",
+      "value": "The first episode went out with George Carlin hosting and Billy Preston and Janis Ian as the musical guests",
+      "detail": "Simon & Garfunkel reunited on the second episode, on October 18, performing The Boxer, Scarborough Fair and a new collaboration, My Little Town. The television page lists the debut under the original title NBC's Saturday Night and the US year page under Saturday Night Live.",
+      "date": "1975-10-11",
+      "source": "https://en.wikipedia.org/wiki/1975_in_American_television"
+    },
+    "tv.hbo_satellite": {
+      "section": "tv",
+      "label": "HBO becomes the first pay network on satellite",
+      "value": "Home Box Office delivered a continuous signal by satellite for the first time, carrying the Thrilla in Manila live",
+      "detail": "The year page dates this to September 30 US time and the fight itself to October 1 in Manila, which the television page also does, describing the live feed as sent to the United States by satellite.",
+      "date": "1975-09-30",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Gunsmoke, CBS, dated March 28 in one part of the television page and March 31 in another",
+        "Jeopardy!, NBC, January 3, after 2,753 episodes",
+        "Ironside, NBC, January 16",
+        "The Odd Couple, ABC, March 7",
+        "Death Valley Days, August 1, having started in 1952",
+        "What's My Line?, September 5, having started in 1950"
+      ],
+      "detail": "The television page's events table puts Gunsmoke's last televised episode on March 28 and says the plotline was cut short so the series ended on a cliffhanger, while its endings table gives March 31 and a 1955 start. McLean Stevenson made his final appearance as Henry Blake on M*A*S*H on March 18, in an episode ending with Blake reported killed by enemy fire after his honourable discharge, and it was Wayne Rogers's last as Trapper John. Mannix ended on April 13, Kung Fu on April 26 and Adam-12 on May 20.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Love Will Keep Us Together, Captain & Tennille",
+        "Rhinestone Cowboy, Glen Campbell",
+        "Philadelphia Freedom, Elton John",
+        "Before the Next Teardrop Falls, Freddy Fender",
+        "My Eyes Adored You, Frankie Valli"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 27, compiled from the Hot 100 issues of November 2, 1974 through November 1, 1975. Elton John had three songs on the list, more than any other act, with Philadelphia Freedom third, Lucy in the Sky with Diamonds thirty-fifth and Someone Saved My Life Tonight ninety-second. Freddy Fender, the Eagles, Olivia Newton-John, Barry Manilow and Linda Ronstadt each had two. Carl Douglas took fifteenth with Kung Fu Fighting and Van McCoy twenty-second with The Hustle.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1975"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On LPs and singles. Elton John's Captain Fantastic and the Brown Dirt Cowboy became the first album to enter the US Billboard 200 at number one, on May 17",
+      "detail": "The Bee Gees' Jive Talkin' reached number one on August 9 and went platinum on sales over a million. Keith Jarrett improvised a solo piano concert at the Cologne Opera on January 24 that was recorded live and released as The Koln Concert, which the music page calls the best-selling piano recording in history. Jeff Beck released Blow by Blow on March 29, the first album put out under his name alone, and the US year page says it reached the American top five and sold over a million copies.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "music.lennon": {
+      "section": "music",
+      "label": "John Lennon wins his deportation case and stops recording",
+      "value": "The New York Court of Appeals overturned his 1972 deportation order on October 7, and his son Sean was born at two in the morning on October 9, which began a retirement from the music business that he said would last five years",
+      "detail": "Lennon released his Rock 'n' Roll LP on February 21, made up of his favourite rock songs from the 1950s, and promoted it with a telephone interview given to 20 rock radio stations at once. A New York district court judge, Richard Owen, had ruled on January 2 that Lennon and his lawyers could see the immigration files on the deportation case. Tom Snyder interviewed him on NBC's Tomorrow Show on April 28.",
+      "date": "1975-10-07",
+      "source": "https://en.wikipedia.org/wiki/1975_in_music"
+    },
+    "music.born_to_run": {
+      "section": "music",
+      "label": "Born to Run and two magazine covers",
+      "value": "Bruce Springsteen's album was released on August 25, and on October 27 he appeared on the covers of both Time and Newsweek in the same week",
+      "detail": "He played the Monmouth Arts Center on October 11 in a show billed as The Homecoming Concert, which the music page also names by its later title, the Count Basie Theater. The album's release date is on the US year page and the covers and the concert are on the music page.",
+      "date": "1975-08-25",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "music.punk": {
+      "section": "music",
+      "label": "First shows for Talking Heads and the Sex Pistols",
+      "value": "Talking Heads played their first show at CBGB in New York on June 20, and the Sex Pistols played their first concert at St. Martin's School of Art in London on November 6",
+      "detail": "The Ramones signed to Sire Records, which the music page lists without a date. The first issue of Punk magazine came out on December 24 with a drawing of Lou Reed on the cover. Steve Harris formed Iron Maiden on December 25, taking the name from a torture device mentioned in The Man in the Iron Mask.",
+      "date": "1975-06-20",
+      "source": "https://en.wikipedia.org/wiki/1975_in_music"
+    },
+    "music.concert_records": {
+      "section": "music",
+      "label": "Concert attendance records",
+      "value": "The Who drew 78,000 to the Pontiac Silverdome on December 6, which the music page calls the record for the largest indoor concert, and Elvis Presley played to the biggest audience of his career in the same building on December 31",
+      "detail": "Presley ripped his trousers on stage and had to leave to change. Bill Graham's S.N.A.C.K. benefit at Kezar Stadium in San Francisco on March 23 drew almost 60,000 for the Grateful Dead, the Doobie Brothers, Santana, Jefferson Starship, Joan Baez and Neil Young, with a surprise appearance by Bob Dylan, and the music page calls it the largest benefit concert to that date. Stevie Wonder performed to 125,000 at the Washington Monument on May 10 for Human Kindness Day.",
+      "date": "1975-12-06",
+      "source": "https://en.wikipedia.org/wiki/1975_in_music"
+    },
+    "tech.microsoft": {
+      "section": "tech",
+      "label": "Microsoft founded",
+      "value": "Bill Gates and Paul Allen founded the company in Albuquerque, New Mexico, spelled Micro-Soft at the time, and released their Altair BASIC interpreter",
+      "detail": "The three cached pages that carry the founding differ. The year page names both men, the Micro-Soft spelling and the Altair BASIC release. The video games page names both men and says the company was set up to focus on software for microprocessors. The US year page names only Gates. The US year page separately has Gates using the name Micro-soft in a letter to Allen for the first time on November 29.",
+      "date": "1975-04-04",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "tech.apollo_soyuz": {
+      "section": "tech",
+      "label": "Apollo and Soyuz dock in orbit",
+      "value": "An American Apollo spacecraft and the Soviet Soyuz 19 docked, the first link-up between spacecraft of the two nations",
+      "detail": "The US year page calls it the last Apollo mission. A Soviet crewed launch had failed on April 5 when the Soyuz 18a booster malfunctioned during staging at an altitude of 192 km and the cosmonauts Vasily Lazarev and Oleg Makarov had to be pulled clear of the vehicle, both surviving.",
+      "date": "1975-07-17",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "tech.viking_1": {
+      "section": "tech",
+      "label": "Viking 1 launched toward Mars",
+      "value": "NASA sent the planetary probe on its way",
+      "detail": "Both year pages carry the launch on the same date and neither names a launch site. The Hughes Helicopters AH-64 Apache made its first flight on September 30.",
+      "date": "1975-08-20",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Western Gun, Taito, September, the first human against human combat in a video game",
+        "Home Pong, the Tele-Games version Atari made for Sears, on sale in Sears stores from October",
+        "Gun Fight, Midway Manufacturing, November, the first video game built around a microprocessor and the first twin-stick shooter",
+        "Odyssey 100 and Odyssey 200, Magnavox, November, built on Texas Instruments chips, with the original Odyssey discontinued"
+      ],
+      "detail": "The games page puts American arcade machine sales for the year at 50,000 to 79,000 units and $68,000,000 to $76,000,000, both from a Frost & Sullivan study, and gives Gun Fight an estimated 8,600 cabinets. Atari had shown the Pong home console at the New York Toy Fair from February 16 and found no interest among toy buyers, then signed a distribution agreement with Sears on March 17, under which Sears created the Tele-Games brand. Maneater, released by Project Support Engineering in October in a cabinet moulded as a great white shark with open jaws, was one of several games trading on Jaws, with Atari's Shark Jaws and U.S. Billiards' Shark. The MOS Technology 6502 microprocessor was shown at the first WESCON trade show in San Francisco from September 16.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.57 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$2.10 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Helicopters lifting Americans out of Saigon in April, a film about a shark opening in four hundred and nine cinemas at once in June, and Franco dead in November after Juan Carlos had already taken over the running of Spain."
+    },
+    "culture.hoffa": {
+      "section": "culture",
+      "label": "Jimmy Hoffa disappears",
+      "value": "The Teamsters Union president was reported missing in Detroit and was never found",
+      "date": "1975-07-30",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "culture.hearst": {
+      "section": "culture",
+      "label": "Patricia Hearst captured",
+      "value": "The fugitive was taken in San Francisco",
+      "date": "1975-09-18",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "culture.broadway": {
+      "section": "culture",
+      "label": "New musicals on Broadway",
+      "value": [
+        "The Wiz, a new musical version of the Wizard of Oz story, opened at the Majestic Theater on January 5",
+        "The Rocky Horror Show opened on March 10 and ran four performances",
+        "A Chorus Line opened on July 25"
+      ],
+      "detail": "The music page carries The Wiz and the US year page the other two. Elizabeth Seton was canonised on September 14, becoming the first American Roman Catholic saint.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Eugenio Montale",
+        "Peace, Andrei Sakharov",
+        "Physics, Aage Bohr, Ben Roy Mottelson and James Rainwater",
+        "Chemistry, John Cornforth and Vladimir Prelog",
+        "Medicine, David Baltimore, Renato Dulbecco and Howard Martin Temin",
+        "Economics, Leonid Kantorovich and Tjalling Koopmans"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cincinnati Reds beat the Boston Red Sox four games to three",
+      "detail": "The Red Sox took Game 6 on October 21 on Carlton Fisk's home run in the twelfth inning, and the Reds won Game 7 the following day in a broadcast the US year page says broke records for a televised sporting event. The sports page calls the series one of the most memorable of all. Fred Lynn of the Red Sox was Associated Press Male Athlete of the Year. Ralph Kiner was inducted into the Baseball Hall of Fame on January 23.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl IX",
+      "value": "The Pittsburgh Steelers beat the Minnesota Vikings 16 to 6 at Tulane Stadium in New Orleans in front of 80,997, with the Pittsburgh fullback Franco Harris named most valuable player",
+      "detail": "The US year page gives the score and the venue and neither the attendance nor the most valuable player.",
+      "date": "1975-01-12",
+      "source": "https://en.wikipedia.org/wiki/1975_in_sports"
+    },
+    "sports.thrilla_in_manila": {
+      "section": "sports",
+      "label": "Thrilla in Manila",
+      "value": "Muhammad Ali beat Joe Frazier in Manila to keep the world heavyweight title, in a fight the year page says was watched live by well over 100 million people worldwide",
+      "detail": "The sports page says many regard it as the greatest fight in boxing history.",
+      "date": "1975-10-01",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Philadelphia Flyers over the Buffalo Sabres, four games to two",
+        "NBA Finals, Golden State Warriors over the Washington Bullets, four games to none",
+        "NCAA basketball, UCLA 92, Kentucky 85, in John Wooden's last game as coach",
+        "European Cup, Bayern Munich 2, Leeds United 0",
+        "FA Cup, West Ham United 2, Fulham 0",
+        "Grey Cup, Edmonton Eskimos 9, Montreal Alouettes 8",
+        "World Snooker Championship, Ray Reardon over Eddie Charlton, 31 to 30"
+      ],
+      "detail": "The Flyers clinched on May 27 with a 2 to 0 win in game six, their second Cup in a row. Bobby Orr of the Boston Bruins took the Art Ross Trophy as the league's leading scorer and Bobby Clarke of the Flyers the Hart Memorial Trophy as its most valuable player. UCLA's title was its tenth in twelve seasons, won at San Diego. Derby County took the English league title two points clear of Liverpool and Ipswich Town, Dynamo Kyiv won the European Cup Winners' Cup 3 to 0 over Ferencvaros in Basel, and Borussia Monchengladbach won the UEFA Cup 5 to 1 on aggregate over FC Twente. Bernard Thevenet won the Tour de France and Fausto Bertoglio the Giro d'Italia. Jack Nicklaus won the Masters and the PGA Championship and led the money list with $298,149, and Tom Watson won the British Open.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_sports"
+    },
+    "sports.cricket_world_cup": {
+      "section": "sports",
+      "label": "First Cricket World Cup",
+      "value": "The West Indies beat Australia by 17 runs in the final of the first tournament",
+      "detail": "The sports page gives no dates and no venue. The seventh Pan American Games were held in Mexico City, the seventh Mediterranean Games in Algiers.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Grand Slam singles titles",
+      "value": [
+        "Australian Open, John Newcombe and Evonne Goolagong",
+        "French Open, Bjorn Borg and Chris Evert",
+        "Wimbledon, Arthur Ashe and Billie Jean King",
+        "US Open, Manuel Orantes and Chris Evert"
+      ],
+      "detail": "Chris Evert was Associated Press Female Athlete of the Year. Martina Navratilova, eighteen, announced her defection from Czechoslovakia to the United States, and Sweden beat Czechoslovakia 3 to 2 in the Davis Cup. The sports page gives no dates for any of the finals.",
+      "source": "https://en.wikipedia.org/wiki/1975_in_sports"
+    },
+    "deaths.franco": {
+      "section": "deaths",
+      "label": "Francisco Franco",
+      "value": "Died November 20. Born 1892",
+      "detail": "Spanish general and politician, Caudillo of Spain. He had conceded on October 30 that he was too ill to govern, and Juan Carlos was declared King two days after the death.",
+      "date": "1975-11-20",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "deaths.chiang": {
+      "section": "deaths",
+      "label": "Chiang Kai-shek",
+      "value": "Died April 5. Born 1887",
+      "detail": "Chinese nationalist general and politician, first President of the Republic of China.",
+      "date": "1975-04-05",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "deaths.selassie": {
+      "section": "deaths",
+      "label": "Haile Selassie I",
+      "value": "Died August 27. Born 1892",
+      "detail": "Emperor of Ethiopia.",
+      "date": "1975-08-27",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "deaths.shostakovich": {
+      "section": "deaths",
+      "label": "Dmitri Shostakovich",
+      "value": "Died August 9. Born 1906",
+      "detail": "Soviet and Russian composer. The music page adds that he died in Moscow.",
+      "date": "1975-08-09",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    },
+    "deaths.de_valera": {
+      "section": "deaths",
+      "label": "Eamon de Valera",
+      "value": "Died August 29. Born 1882",
+      "detail": "Irish politician and statesman, third President of Ireland and three times Taoiseach.",
+      "date": "1975-08-29",
+      "source": "https://en.wikipedia.org/wiki/1975"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1975. figures_basis is rentals, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Domestic rentals. The sentence directly above that table on the same page calls the entries the top ten 1975 released films by box office gross in North America, and film.gross names the contradiction rather than picking a side. Date checks. The year has no US federal election and no inauguration, so the two constraints the brief names do not apply. The Academy Awards ceremony honouring this year of film is the 48th, which its own page dates to Monday, March 29, 1976 at the Dorothy Chandler Pavilion; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries the 1976 token. The 47th Academy Awards of April 8, which honoured the previous year of film and gave Best Picture to The Godfather Part II, is left out for the same reason 1969 and 1970 leave out theirs: it would put a second Best Picture on the page. No dedicated article was pulled, because no date on the cached pages carries a checkable internal constraint that the pages themselves get wrong. No radio fact, because the radio window closed after 1959. The radio material of the year, John Lennon promoting his Rock 'n' Roll LP with a telephone interview given to 20 rock radio stations at once, sits in music.lennon instead, where the page puts it. The Nielsen ranking covers a season that began in the autumn of 1975 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved. Jaws has three different money figures across the three cached pages, $133,400,000 on the rentals table, the first $100,000,000 in United States and Canadian theatrical rentals on the film page, and $123.1 million by the end of its initial run on the US year page, and film.how_people_watched names all three. Gunsmoke's last episode is March 28 in the television page's events table and March 31 in its endings table, which tv.endings states in the value itself rather than choosing. The Microsoft founding is Gates and Allen with the Micro-Soft spelling and Altair BASIC on the year page, Gates and Allen focusing on microprocessor software on the video games page, and Gates alone on the US year page, and tech.microsoft names all three. Ella Grasso's swearing-in as Governor of Connecticut is January 8 in the US year page's events list and January 6 in the same page's governors table, so the texture gives only the month and no fact carries a day. The Edmund Fitzgerald sinks 27 km from the entrance to Whitefish Bay on the year page and 15 miles off Whitefish Point on the US year page, which is why it is in neither the facts nor the texture. The film page dates the Cannes and Berlin festivals whose prizes it lists to May and June of the year after this one, which cannot be right for prizes given to films of this year, so film.world_cinema names both winners and no festival dates and says why. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: film.how_people_watched cites the US year page for the 409 cinemas and the television campaign and takes the rentals record, the Rocky Horror footnote and Sneak Previews from the film page and Richard Hollingshead's death from the US year page's list of deaths; music.listening_format cites the US year page for Captain Fantastic and Blow by Blow and takes Jive Talkin' and The Koln Concert from the music page; music.born_to_run cites the US year page for the release date and takes the two covers and the Monmouth Arts Center show from the music page; tv.premieres cites the television page and takes AM America from the US year page, saying so; tv.hbo_satellite cites the year page and names the television page's version of the same broadcast; sports.world_series cites the sports page for the result and takes Game 6, Game 7 and the broadcast record from the US year page; sports.thrilla_in_manila cites the year page for the worldwide audience and takes the greatest-fight line from the sports page; culture.broadway cites the US year page for The Rocky Horror Show and A Chorus Line and takes The Wiz from the music page; deaths.shostakovich cites the year page and takes Moscow from the music page; world.helsinki_accords and world.independence cite the year page throughout. Dropped for lack of a source that says enough, or because a figure or date reaches past this year: the Banqiao Dam, Moorgate, the Tasman Bridge, Dibbles Bridge and Eastern Airlines Flight 66, all in texture instead; the LaGuardia Airport bombing of December 29, which killed 11 and which the year page leaves unattributed; the Haicheng earthquake of February 4, which killed 2,041 and injured 27,538 after much of the city had been evacuated in what the year page calls a claimed example of earthquake prediction; the Diyarbakir and Lice earthquake of September 6, which killed at least 2,085; the New York City bailout's end date, which falls after this year, which is why pol.nyc_bailout gives only the annual and total figures; the length of the Lebanese Civil War, for the same reason; Ronald Reagan entering the Republican presidential race on November 20, because the nomination he was seeking belongs to a later year; the Metric Conversion Act of December 23; Ford's posthumous pardon of Robert E. Lee on August 5; the Weather Underground bombing of the State Department on January 29; the Pine Ridge shootout of June 26; the Karen Ann Quinlan case, whose year page entry runs past this year; the unemployment rate peaking at 9.0 percent in May, which the US year page gives with no month-end figure and no source; the Trans-Alaska Pipeline construction start of March 9; the Suez Canal reopening, the last natural smallpox case, Junko Tabei on Everest, the slashing of The Night Watch and Jacques Cousteau finding the Britannic, all in texture instead; the 17th Grammy Awards of March 1, which honoured the previous year's recordings; the Eurovision Song Contest won by Teach-In at Stockholm on March 22; Bohemian Rhapsody reaching number one in the United Kingdom on November 21, because the music page states its run in weeks of this year and weeks of the next; the Jackson 5 leaving Motown on June 30; Peter Gabriel leaving Genesis on August 23; Faces breaking up on December 18; the Sanyo Shinkansen extension to Hakata of March 10; the Sikkim referendum, folded into world.independence instead; the World Football League folding after twelve weeks with the Birmingham Vulcans on the best record; the Philippine Basketball Association's first game on April 9; Darryl Dawkins as the first NBA player drafted out of high school, which the sports page leaves undated; Bobby Fischer forfeiting the world chess title to Anatoly Karpov on April 3; the Whina Cooper land march in New Zealand, dated only to September and October; Benoit Mandelbrot coining the word fractal, undated on the year page; the Jehovah's Witnesses who sold houses and businesses expecting Armageddon, an August 15 entry with no count attached. Deaths that would have earned a place with more room: Aristotle Onassis on March 15, Josephine Baker on April 12, P. G. Wodehouse on February 14, Hannah Arendt on December 4, Thornton Wilder on December 7, Rod Serling on June 28, Umm Kulthum on February 3, Susan Hayward on March 14, Fredric March on April 14, Barbara Hepworth on May 20, Sarvepalli Radhakrishnan on April 17, Eisaku Sato, Graham Hill, Bernard Herrmann on December 24 the day after finishing the Taxi Driver soundtrack, Pier Paolo Pasolini on November 2 whose murder is in film.world_cinema instead, King Faisal on March 25 whose assassination is in world.new_leaders instead, and Larry Fine on January 24 and Moe Howard on May 4, two of the Three Stooges dying four months apart. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and that records and singles were what people played music on, which music.listening_format states before its sourced specifics. Both come out if challenged. Names and titles are written in ASCII per the corpus convention, so Milos Forman, Nguyen Van Thieu, Sao Tome and Principe, Bjorn Borg, Eamon de Valera, The Koln Concert, Ban Me Thuot, Francois Tombalbaye, Suleyman Demirel, Vasco Goncalves, Ferencvaros, Borussia Monchengladbach, Bernard Thevenet, Diyarbakir, Salim-Javed and The Story of Adele H. lose their diacritics. Deaths carry a birth year rather than an age, because the year page gives only the year. This file runs 53 facts across 10 sections, one above the 40 to 52 the brief asks for, and world runs to 8 against the roughly 7 it suggests, which is inside what 1963 and 1970 already do."
+}
