@@ -1,0 +1,52 @@
+---
+/**
+ * The signature element. A ticket stub carrying the four anchoring outputs:
+ * distance both ways, living memory, then and now, technology age.
+ * Every figure comes from lib/anchor.mjs. Nothing here is written per year.
+ */
+interface Props {
+  anchor: any;
+}
+
+const { anchor } = Astro.props;
+const { distance, livingMemory, thenAndNow, technology } = anchor;
+---
+
+<section class="stub" aria-label={`How far away ${anchor.year} is`}>
+  <p class="stub__distance">
+    {
+      distance.years === 0 ? (
+        <span>This year.</span>
+      ) : (
+        <>
+          <b>{distance.spelled} ago</b>. The same distance back from {anchor.year} lands in{' '}
+          <b>{distance.mirrorYear}</b>.
+        </>
+      )
+    }
+  </p>
+  <p class="stub__memory">{livingMemory.line}</p>
+
+  {
+    thenAndNow.length > 0 && (
+      <ul class="stub__figures">
+        {thenAndNow.map((figure: any) => (
+          <li class="figure">
+            <div class="figure__label">{figure.label}</div>
+            <div class="figure__pair">
+              <span class="figure__then">{figure.then}</span>
+              {!figure.unchanged && (
+                <span class="figure__now">
+                  <span class="figure__arrow" aria-hidden="true">→ </span>
+                  {figure.now} <span class="figure__nowyear">{figure.nowYear}</span>
+                </span>
+              )}
+            </div>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  {technology.sentence && <p class="stub__tech">{technology.sentence}</p>}
+</section>

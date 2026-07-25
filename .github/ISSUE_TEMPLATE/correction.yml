@@ -1,0 +1,62 @@
+name: Correction
+description: Report a wrong fact on a year page
+title: 'Correction: <year>, <fact>'
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every fact on the site carries a source link. If a fact is wrong, this is the
+        fastest way to get it fixed. A correction with a source gets applied. A
+        correction without one gets researched first, which takes longer.
+
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      description: The year page the fact appears on, 1920 to 2025.
+      placeholder: '1958'
+    validations:
+      required: true
+
+  - type: input
+    id: fact
+    attributes:
+      label: Fact
+      description: >
+        The fact id if you can see it in the page source, otherwise the label as printed.
+      placeholder: 'film.gross, or "Highest-grossing films"'
+    validations:
+      required: true
+
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: What the page says now, and what it should say.
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: >
+        A URL that supports the correction. Primary sources are best. Wikipedia is fine
+        as a path to the underlying source.
+      placeholder: 'https://'
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: basis
+    attributes:
+      label: Is this a basis disagreement?
+      description: >
+        Box office figures before about 1980 are often reported two ways, as rentals
+        (the distributor share) or as gross (the ticket window total), and the two differ
+        by roughly a factor of two. Chart and ratings methods changed too. If two sources
+        disagree rather than one being wrong, say so here and both get cited.
+      options:
+        - label: Two sources disagree and both look defensible
+          required: false

@@ -1,0 +1,545 @@
+/*
+ * Year Context. See DESIGN.md for the plan this implements.
+ * Three tier accents, one layout, one signature element (the stub).
+ */
+
+:root {
+  --ink: #16181d;
+  --ground: #dfe1dc;
+  --card: #f4f5f2;
+  --rule: #b9bdb6;
+
+  /* Overridden per tier on <body>. Modern is the default. */
+  --era: #175a92;
+  --era-wash: rgba(23, 90, 146, 0.08);
+
+  --display: 'Big Shoulders Display', 'Arial Narrow', sans-serif;
+  --body: Newsreader, Georgia, 'Times New Roman', serif;
+  --mono: 'DM Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --rail: 8.5rem;
+  --measure: 62ch;
+  --gap: 1.5rem;
+  --step: 0.35rem;
+}
+
+[data-tier='early'] {
+  --era: #4a5b70;
+  --era-wash: rgba(74, 91, 112, 0.08);
+}
+
+[data-tier='broadcast'] {
+  --era: #a8322d;
+  --era-wash: rgba(168, 50, 45, 0.08);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  font-synthesis: none;
+}
+
+a {
+  color: inherit;
+  text-decoration-color: var(--era);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--era);
+}
+
+:focus-visible {
+  outline: 2px solid var(--era);
+  outline-offset: 3px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--display);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  line-height: 0.95;
+  margin: 0;
+}
+
+/* ------------------------------------------------------------------ shell */
+
+.shell {
+  display: grid;
+  grid-template-columns: var(--rail) minmax(0, 1fr);
+  gap: 0 2.5rem;
+  max-width: 66rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 5rem;
+}
+
+.rail {
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+}
+
+.rail__year {
+  font-family: var(--display);
+  font-size: 4.5rem;
+  line-height: 0.85;
+  letter-spacing: -0.01em;
+  margin: 0;
+  font-variant-numeric: lining-nums;
+}
+
+.rail__tier {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--era);
+  margin-top: 0.5rem;
+}
+
+.rail__nav {
+  margin-top: 1.5rem;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.column {
+  min-width: 0;
+}
+
+.headline {
+  font-family: var(--body);
+  font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.1rem);
+  line-height: 1.22;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: -0.005em;
+  max-width: var(--measure);
+  margin: 0 0 2rem;
+  text-wrap: balance;
+}
+
+/* -------------------------------------------------------------- the stub */
+
+.stub {
+  background: var(--card);
+  border: 1px solid var(--rule);
+  border-left: none;
+  position: relative;
+  padding: 1.4rem 1.5rem 1.2rem 2.1rem;
+  margin-bottom: 2.5rem;
+}
+
+/* Perforated edge. The one flourish, and it is drawn with a gradient. */
+.stub::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 0.9rem;
+  background:
+    radial-gradient(circle at 0.45rem 0.45rem, var(--ground) 0.22rem, transparent 0.23rem) 0 0 / 0.9rem
+      0.9rem repeat-y,
+    var(--era-wash);
+  border-right: 1px dashed var(--rule);
+}
+
+.stub__distance {
+  font-family: var(--body);
+  font-size: 1.15rem;
+  line-height: 1.45;
+  margin: 0 0 0.35rem;
+  max-width: 48ch;
+}
+
+.stub__distance b {
+  font-weight: 600;
+  color: var(--era);
+}
+
+.stub__memory,
+.stub__tech {
+  font-family: var(--body);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0.3rem 0 0;
+  max-width: 54ch;
+}
+
+.stub__figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  gap: 0.9rem 1.25rem;
+  margin: 1.1rem 0 0.9rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--rule);
+  list-style: none;
+}
+
+.figure__label {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: color-mix(in srgb, var(--ink) 62%, var(--ground));
+}
+
+/* Then on one line, now on the next, arrow leading the now. Laid out as rows rather
+   than a wrapping line so a long figure never leaves the arrow stranded. */
+.figure__pair {
+  font-family: var(--mono);
+  font-size: 0.95rem;
+  margin-top: 0.25rem;
+  display: grid;
+  gap: 0.1rem;
+}
+
+.figure__then {
+  font-weight: 500;
+}
+
+.figure__arrow {
+  color: var(--era);
+}
+
+.figure__now {
+  color: color-mix(in srgb, var(--ink) 70%, var(--ground));
+}
+
+.figure__nowyear {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  color: color-mix(in srgb, var(--ink) 55%, var(--ground));
+}
+
+/* --------------------------------------------------------------- lead */
+
+.lead {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2.5rem;
+  display: grid;
+  gap: 0;
+  border-top: 1px solid var(--rule);
+}
+
+.lead__item {
+  border-bottom: 1px solid var(--rule);
+  border-left: 2px solid var(--era);
+  padding: 0.7rem 0.9rem;
+  display: grid;
+  grid-template-columns: minmax(7rem, 12rem) minmax(0, 1fr);
+  gap: 0.3rem 1.25rem;
+  align-items: baseline;
+  transition: border-left-width 120ms ease, background-color 120ms ease;
+}
+
+.lead__item:hover {
+  border-left-width: 5px;
+  background: var(--era-wash);
+}
+
+.lead__label {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: color-mix(in srgb, var(--ink) 62%, var(--ground));
+}
+
+.lead__value {
+  font-family: var(--mono);
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+/* ------------------------------------------------------------ texture */
+
+.texture {
+  max-width: var(--measure);
+  margin: 0 0 3rem;
+}
+
+.texture p {
+  margin: 0 0 1.15rem;
+}
+
+.texture p:first-of-type::first-letter {
+  font-family: var(--display);
+  font-size: 3.4rem;
+  float: left;
+  line-height: 0.78;
+  padding: 0.1em 0.12em 0 0;
+  color: var(--era);
+}
+
+/* ----------------------------------------------------------- sections */
+
+.sections {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+  gap: 2rem 2.5rem;
+  align-items: start;
+}
+
+.section__title {
+  font-size: 1.05rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 3px solid var(--era);
+  margin-bottom: 0.75rem;
+}
+
+.facts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.fact {
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.fact__label {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: color-mix(in srgb, var(--ink) 62%, var(--ground));
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.fact__value {
+  font-family: var(--mono);
+  font-size: 0.93rem;
+  line-height: 1.45;
+  margin-top: 0.15rem;
+}
+
+.fact__list {
+  list-style: none;
+  padding: 0;
+  margin: 0.15rem 0 0;
+}
+
+.fact__list li {
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  padding-left: 1.1rem;
+  position: relative;
+}
+
+/* A dash, not a number. Some list facts are ranked and some are not, and the data
+   does not say which, so numbering half of them would invent a ranking. */
+.fact__list li::before {
+  content: '\2013';
+  position: absolute;
+  left: 0.1rem;
+  color: var(--era);
+}
+
+.fact__detail {
+  font-size: 0.92rem;
+  line-height: 1.45;
+  margin-top: 0.25rem;
+  color: color-mix(in srgb, var(--ink) 82%, var(--ground));
+}
+
+.fact__date {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  color: var(--era);
+  white-space: nowrap;
+}
+
+.fact__source {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* -------------------------------------------------------------- footer */
+
+.pagefoot {
+  grid-column: 1 / -1;
+  margin-top: 3.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 2rem;
+  justify-content: space-between;
+  font-family: var(--mono);
+  font-size: 0.75rem;
+}
+
+.pagefoot__basis {
+  max-width: 46ch;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* --------------------------------------------------------------- index */
+
+.masthead {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 4rem 1.25rem 2rem;
+}
+
+.masthead h1 {
+  font-size: clamp(3rem, 1.5rem + 7vw, 6.5rem);
+  letter-spacing: -0.02em;
+}
+
+.masthead p {
+  max-width: 54ch;
+  font-size: 1.15rem;
+  margin: 1.25rem 0 0;
+}
+
+.decades {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 1rem 1.25rem 5rem;
+}
+
+.decade {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  padding: 0.9rem 0;
+  border-top: 1px solid var(--rule);
+}
+
+.decade__label {
+  font-family: var(--display);
+  font-size: 1.5rem;
+  color: color-mix(in srgb, var(--ink) 60%, var(--ground));
+}
+
+.decade__years {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.yearchip {
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  display: block;
+  padding: 0.35rem 0.55rem;
+  border: 1px solid var(--rule);
+  background: var(--card);
+  text-decoration: none;
+  border-bottom: 3px solid var(--era);
+}
+
+.yearchip:hover {
+  background: var(--era-wash);
+}
+
+.yearchip--empty {
+  color: color-mix(in srgb, var(--ink) 58%, var(--ground));
+  background: transparent;
+  border-bottom-color: var(--rule);
+}
+
+/* --------------------------------------------------------------- motion */
+
+@media (prefers-reduced-motion: no-preference) {
+  .lead__item {
+    animation: rise 420ms cubic-bezier(0.2, 0.7, 0.3, 1) backwards;
+  }
+
+  .lead__item:nth-child(1) { animation-delay: 40ms; }
+  .lead__item:nth-child(2) { animation-delay: 80ms; }
+  .lead__item:nth-child(3) { animation-delay: 120ms; }
+  .lead__item:nth-child(4) { animation-delay: 160ms; }
+  .lead__item:nth-child(5) { animation-delay: 200ms; }
+  .lead__item:nth-child(6) { animation-delay: 240ms; }
+  .lead__item:nth-child(7) { animation-delay: 280ms; }
+  .lead__item:nth-child(8) { animation-delay: 320ms; }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(0.5rem);
+  }
+}
+
+/* ------------------------------------------------------------ narrow */
+
+@media (max-width: 46rem) {
+  .shell {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+    padding-top: 1.25rem;
+  }
+
+  .rail {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+    border-bottom: 3px solid var(--era);
+    padding-bottom: 0.5rem;
+  }
+
+  .rail__year {
+    font-size: 3.25rem;
+  }
+
+  .rail__tier,
+  .rail__nav {
+    margin-top: 0;
+  }
+
+  .rail__nav {
+    flex-direction: row;
+    gap: 1rem;
+    width: 100%;
+  }
+
+  .lead__item {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .stub {
+    padding-left: 1.8rem;
+  }
+}

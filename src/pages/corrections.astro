@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+
+/**
+ * TODO: settle the repo slug. This is the only place a GitHub URL is written, and
+ * astro.config.mjs holds the only path. Two constants, one migration each.
+ */
+const REPO = 'https://github.com/OWNER/REPO';
+const base = import.meta.env.BASE_URL;
+const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.replace(/\/{2,}/g, '/');
+---
+
+<Base
+  title="Corrections | Year Context"
+  description="How to report a wrong fact, and what happens to it."
+>
+  <main class="shell" style="grid-template-columns: minmax(0, 1fr);">
+    <div class="column" style="max-width: 62ch;">
+      <h1 style="font-size: clamp(2rem, 1.4rem + 3vw, 3.5rem); margin-bottom: 1.5rem;">
+        Corrections
+      </h1>
+      <div class="texture">
+        <p>
+          Every page here is generated from sourced data, and generated history contains errors.
+          What separates a record people can use from one they cannot is whether the errors are
+          visible, sourced, and fixable.
+        </p>
+        <p>
+          Each fact carries a source link. If a fact is wrong, open an issue with the year, the
+          fact label, what is wrong, and a source. Corrections are applied to the data file and the
+          source URL is replaced in the same change.
+        </p>
+        <p>
+          <a href={`${REPO}/issues/new?template=correction.yml`}>Open a correction issue</a>, or
+          read <a href={`${REPO}/blob/main/CORRECTIONS.md`}>CORRECTIONS.md</a> for what has already
+          been fixed.
+        </p>
+        <p>
+          Some figures cannot be pinned down and are labelled rather than guessed. Box office
+          numbers before about 1980 are reported as rentals, the distributor share, roughly half
+          the ticket-window total, and pages say which basis they use. Where no basis could be
+          established, films are ranked with no amounts at all.
+        </p>
+        <p><a href={href('')}>Back to the years</a></p>
+      </div>
+    </div>
+  </main>
+</Base>

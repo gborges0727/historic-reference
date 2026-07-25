@@ -1,0 +1,23 @@
+{
+  "name": "historical-context",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "validate": "node scripts/validate-data.mjs && node scripts/validate-prose.mjs",
+    "validate:partial": "node scripts/validate-data.mjs --partial && node scripts/validate-prose.mjs",
+    "build": "npm run validate && astro build",
+    "build:partial": "npm run validate:partial && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.1.3",
+    "zod": "^4.4.3"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "why": "Every year in tech_firsts.json is checked against a source here. This one file produces the technology-age line on all 106 pages, so a wrong year here is wrong 106 times.",
+  "retrieved": "2026-07-24",
+  "entries": {
+    "radio_broadcasting_us": {
+      "year": 1920,
+      "anchor": "KDKA Pittsburgh broadcast the Harding election returns on November 2, 1920, the date usually given for the start of US commercial broadcasting.",
+      "source": "https://en.wikipedia.org/wiki/KDKA_(AM)",
+      "caveat": "There is no consensus on which station was first. WWJ Detroit, WHA Madison, and Charles Herrold's San Jose station all have claims, and the definition of commercial broadcasting is itself disputed. 1920 is the conventional date, not a settled one."
+    },
+    "talking_pictures": {
+      "year": 1927,
+      "anchor": "The Jazz Singer premiered on October 6, 1927, the first feature-length film with lip-synchronous singing and speech, using Vitaphone sound-on-disc.",
+      "source": "https://en.wikipedia.org/wiki/The_Jazz_Singer",
+      "caveat": "Synchronized music and effects came earlier, including Don Juan in 1926, and De Forest's Phonofilm shorts carried dialogue from 1923. The 1927 date is about features with speech."
+    },
+    "television_us_commercial": {
+      "year": 1941,
+      "anchor": "WNBT and WCBW signed on as the first two fully licensed commercial television stations in the United States on July 1, 1941. WNBT received its commercial license on June 24, 1941.",
+      "source": "https://en.wikipedia.org/wiki/WNBC-TV",
+      "caveat": "SPEC.md gave 1947 for this key. Nothing sourceable happened to television in 1947 that 1941 does not already cover, and by 1948 only about 1 percent of US households owned a set, so 1947 is not a household milestone either. Corrected to the date commercial television was licensed and went on the air."
+    },
+    "jet_airliner_service": {
+      "year": 1952,
+      "anchor": "A BOAC de Havilland Comet flew London to Johannesburg on May 2, 1952, the first scheduled jet airliner service carrying fare-paying passengers.",
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Comet"
+    },
+    "color_tv_majority_us": {
+      "year": 1972,
+      "anchor": "1972 was the first year more than half of US television households had a color set, and the first year color sets outsold black-and-white.",
+      "source": "https://en.wikipedia.org/wiki/Color_television",
+      "caveat": "Color penetration was 3.1 percent in 1964. All three networks ran essentially all-color prime-time schedules from the 1966 to 1967 season, six years before half of homes could see it in color."
+    },
+    "vcr_home": {
+      "year": 1975,
+      "anchor": "Sony introduced Betamax in Japan on May 10, 1975, and the LV-1901 reached US stores in early November 1975.",
+      "source": "https://en.wikipedia.org/wiki/Betamax",
+      "caveat": "Cartrivision and the Philips VCR both launched in 1972 and failed. Betamax is the anchor because it started the home video market that lasted, not because it was first."
+    },
+    "personal_computer": {
+      "year": 1977,
+      "anchor": "The Commodore PET, Apple II, and TRS-80 all shipped in 1977, the first mass-market pre-assembled personal computers. The Apple II shipped on June 10, 1977.",
+      "source": "https://en.wikipedia.org/wiki/Personal_computer",
+      "caveat": "The Altair 8800 arrived in 1974 as a kit and is credited with starting the microcomputer revolution. 1977 is when a machine could be bought assembled."
+    },
+    "cd_audio": {
+      "year": 1982,
+      "anchor": "The first 50 CD titles were released in Japan on October 1, 1982, led by a reissue of Billy Joel's 52nd Street.",
+      "source": "https://en.wikipedia.org/wiki/Compact_disc",
+      "caveat": "CD players and discs did not reach North America and Europe until March 14, 1983. A US reader's first chance to buy one was 1983."
+    },
+    "cell_phone_commercial": {
+      "year": 1983,
+      "anchor": "Ameritech switched on the first US commercial cellular network, AMPS, in Chicago on October 13, 1983.",
+      "source": "https://en.wikipedia.org/wiki/History_of_mobile_phones",
+      "caveat": "The handset itself came later. The Motorola DynaTAC 8000X cleared the FCC on September 21, 1983 and only went on sale in April 1984 at $3,995. Automatic cellular service ran in Tokyo from 1979 and the Nordic countries from October 1981."
+    },
+    "world_wide_web_public": {
+      "year": 1993,
+      "anchor": "CERN put the web software into the public domain on April 30, 1993, and NCSA Mosaic reached Mac and Windows in August 1993.",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+      "caveat": "The first website went online on December 20, 1990. 1993 is when the web became free to use and had a browser most people could run."
+    },
+    "dvd": {
+      "year": 1997,
+      "anchor": "DVD reached the United States on March 24, 1997 in seven test markets, with the nationwide rollout on August 22, 1997.",
+      "source": "https://en.wikipedia.org/wiki/DVD",
+      "caveat": "The format launched in Japan on November 1, 1996, mostly with music video releases."
+    },
+    "broadband_majority_us": {
+      "year": 2004,
+      "anchor": "By December 2004, half of American home internet users had a high-speed connection, up from 42 percent in May 2004 and 24 percent in October 2002.",
+      "source": "https://www.pewresearch.org/internet/2005/09/21/findings/",
+      "caveat": "The denominator is home internet users, not all households. Measured across all American adults, Pew first recorded broadband above dial-up in March 2005 at 33 percent against 28 percent."
+    },
+    "smartphone_modern": {
+      "year": 2007,
+      "anchor": "The iPhone was announced on January 9, 2007 and went on sale in the United States on June 29, 2007 at $499 for 4 GB, on AT&T.",
+      "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    },
+    "streaming_video_subscription": {
+      "year": 2007,
+      "anchor": "Netflix turned on streaming, then called Watch Now, on January 16, 2007, with 1,000 titles against 70,000 on DVD.",
+      "source": "https://en.wikipedia.org/wiki/Netflix",
+      "caveat": "SPEC.md had streaming_video_mainstream at 2010. Mainstream is not a dateable event, so the key now anchors on the launch of subscription streaming. Netflix first sold streaming without DVDs in November 2010, which is the 2010 milestone the old key was reaching for."
+    }
+  }
+}

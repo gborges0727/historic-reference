@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { allYears, tierFor } from '../lib/year-schema.mjs';
+import { spelledYears } from '../lib/format.mjs';
+import { NOW } from '../lib/series.mjs';
+
+const entries = await getCollection('years');
+const have = new Map(entries.map((e) => [e.data.year, e.data]));
+const base = import.meta.env.BASE_URL;
+const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.replace(/\/{2,}/g, '/');
+
+const decades: { label: string; years: number[] }[] = [];
+for (const year of allYears()) {
+  const label = `${Math.floor(year / 10) * 10}s`;
+  const last = decades[decades.length - 1];
+  if (last && last.label === label) last.years.push(year);
+  else decades.push({ label, years: [year] });
+}
+---
+
+<Base
+  title="Year Context"
+  description="What the world was like in every year from 1920 to 2025, for anyone about to watch a film from one of them."
+>
+  <header class="masthead">
+    <h1>Year Context</h1>
+    <p>
+      A 2011 film feels recent. 2011 was {spelledYears(NOW - 2011)} ago, and the same distance back
+      from 2011 lands in {2011 - (NOW - 2011)}, which does not feel recent at all. One page per
+      year, 1920 to 2025, so the year a film came out is a place you can stand in rather than a
+      number.
+    </p>
+  </header>
+
+  <nav class="decades" aria-label="Years">
+    {
+      decades.map((decade) => (
+        <div class="decade">
+          <div class="decade__label">{decade.label}</div>
+          <ul class="decade__years">
+            {decade.years.map((year) => {
+              const entry = have.get(year);
+              return (
+                <li data-tier={tierFor(year)}>
+                  {entry ? (
+                    <a class="yearchip" href={href(`year/${year}`)} title={entry.headline}>
+                      {year}
+                    </a>
+                  ) : (
+                    <span class="yearchip yearchip--empty" aria-label={`${year}, not written yet`}>
+                      {year}
+                    </span>
+                  )}
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      ))
+    }
+  </nav>
+</Base>

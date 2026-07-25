@@ -1,0 +1,119 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import AnchorStub from '../../components/AnchorStub.astro';
+import Fact from '../../components/Fact.astro';
+import { buildAnchor } from '../../lib/anchor.mjs';
+import { series, techFirsts, NOW } from '../../lib/series.mjs';
+import { groupFacts } from '../../lib/sections.mjs';
+import { resolveLead } from '../../lib/year-schema.mjs';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('years');
+  const present = entries.map((e) => e.data.year).sort((a, b) => a - b);
+  return entries.map((entry) => {
+    const year = entry.data.year;
+    const index = present.indexOf(year);
+    return {
+      params: { year: String(year) },
+      props: {
+        data: entry.data,
+        previous: present[index - 1] ?? null,
+        next: present[index + 1] ?? null,
+      },
+    };
+  });
+}
+
+const { data, previous, next } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const anchor = buildAnchor({ year: data.year, now: NOW, series, techFirsts });
+
+// Lead pointers resolve to a fact plus the single value they point at. The validator
+// has already proved every one of them resolves, so a null here is impossible.
+const lead = data.lead
+  .map((pointer: string) => {
+    const resolved = resolveLead(pointer, data.facts);
+    return resolved ? { pointer, ...resolved } : null;
+  })
+  .filter(Boolean);
+
+const leadIds = lead.map((item: any) => item.id);
+const groups = groupFacts(data.facts, { exclude: leadIds });
+
+const BASIS_NOTE: Record<string, string> = {
+  rentals:
+    'Box office figures for this year are rentals, the distributor share rather than the ticket-window total.',
+  unavailable:
+    'Box office figures for this year could not be established on a consistent basis, so the films are ranked without amounts.',
+};
+const basisNote = data.figures_basis ? BASIS_NOTE[data.figures_basis] : undefined;
+
+const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.replace(/\/{2,}/g, '/');
+---
+
+<Base
+  title={`${data.year} | Year Context`}
+  description={data.headline}
+  tier={data.tier}
+>
+  <main class="shell">
+    <div class="rail">
+      <h1 class="rail__year">{data.year}</h1>
+      <div class="rail__tier">{data.tier}</div>
+      <nav class="rail__nav" aria-label="Nearby years">
+        {previous && <a href={href(`year/${previous}`)}>← {previous}</a>}
+        {next && <a href={href(`year/${next}`)}>{next} →</a>}
+        <a href={href('')}>all years</a>
+      </nav>
+    </div>
+
+    <div class="column">
+      <p class="headline">{data.headline}</p>
+
+      <AnchorStub anchor={anchor} />
+
+      <ul class="lead">
+        {
+          lead.map((item: any) => (
+            <li class="lead__item">
+              <div class="lead__label">{item.fact.label}</div>
+              <div class="lead__value">{item.value}</div>
+            </li>
+          ))
+        }
+      </ul>
+
+      <div class="texture">
+        {data.texture.map((paragraph: string) => <p>{paragraph}</p>)}
+      </div>
+
+      <div class="sections">
+        {
+          groups.map((group: any) => (
+            <section>
+              <h2 class="section__title">{group.title}</h2>
+              <ul class="facts">
+                {group.facts.map((fact: any) => (
+                  <Fact fact={fact} />
+                ))}
+              </ul>
+            </section>
+          ))
+        }
+      </div>
+    </div>
+
+    <footer class="pagefoot">
+      <div>
+        {previous && <a href={href(`year/${previous}`)}>{previous}</a>}
+        {previous && next && ' / '}
+        {next && <a href={href(`year/${next}`)}>{next}</a>}
+      </div>
+      {basisNote && <div class="pagefoot__basis">{basisNote}</div>}
+      <div>
+        <a href={href('corrections')}>Something wrong? Send a correction</a>
+      </div>
+    </footer>
+  </main>
+</Base>
