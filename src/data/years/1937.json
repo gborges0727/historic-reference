@@ -1,0 +1,156 @@
+{
+  "year": 1937,
+  "tier": "early",
+  "headline": "Guernica was bombed in April, the Hindenburg burned in May, and Japan took Nanjing in December",
+  "texture": [
+    "German and Italian aircraft bombed Guernica on April 26 for the Nationalists, and Picasso finished the painting about it by June. The Hindenburg caught fire coming in to land in New Jersey on May 6, in front of newsreel cameras, which ended passenger airships. Amelia Earhart and Fred Noonan disappeared over the Pacific on July 2 after taking off from New Guinea.",
+    "Japanese troops moved on Nanjing from October 3, began the battle for it on December 1, and occupied the city on December 13. Hitler held a secret meeting in the Reich Chancellery on November 5 to tell his commanders what he intended. The Golden Gate Bridge opened on May 27.",
+    "MGM had four of the five biggest films, led by Saratoga, which Jean Harlow died partway through making. Snow White and the Seven Dwarfs opened on December 21 as the first feature-length cel-animated film, and did not reach most of the country until the following year. The Life of Emile Zola won Best Picture. George Gershwin and Maurice Ravel both died this year."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.guernica",
+    "world.hindenburg",
+    "world.nanjing",
+    "world.earhart_lost",
+    "film.snow_white",
+    "film.gross#0"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "detail": "First year of his second term.",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "pol.golden_gate": {
+      "section": "politics",
+      "label": "Golden Gate Bridge opens",
+      "value": "Opened across the entrance to San Francisco Bay",
+      "date": "1937-05-27",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "world.guernica": {
+      "section": "world",
+      "label": "Bombing of Guernica",
+      "value": "Carried out for the Nationalists by German and Italian aircraft",
+      "detail": "Picasso completed his painting of it by June.",
+      "date": "1937-04-26",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "world.hindenburg": {
+      "section": "world",
+      "label": "Hindenburg disaster",
+      "value": "The German airship burst into flames while landing in New Jersey",
+      "date": "1937-05-06",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "world.earhart_lost": {
+      "section": "world",
+      "label": "Earhart disappears",
+      "value": "She and navigator Fred Noonan vanished after taking off from New Guinea",
+      "date": "1937-07-02",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "world.nanjing": {
+      "section": "world",
+      "label": "Fall of Nanjing",
+      "value": "Japanese forces occupied the Chinese capital after a battle that began on December 1",
+      "detail": "Japanese troops had begun advancing on the city from October 3.",
+      "date": "1937-12-13",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "world.hitler_chancellery_meeting": {
+      "section": "world",
+      "label": "Hitler briefs his commanders",
+      "value": "A secret meeting in the Reich Chancellery setting out his intentions",
+      "date": "1937-11-05",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Saratoga, $2,432,000, MGM",
+        "Maytime, $2,183,000, MGM",
+        "The Good Earth, $2,002,000, MGM",
+        "Stella Dallas, $2,000,000, United Artists",
+        "Rosalie, $1,946,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. MGM had four of the five.",
+      "source": "https://en.wikipedia.org/wiki/1937_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Life of Emile Zola",
+      "source": "https://en.wikipedia.org/wiki/10th_Academy_Awards"
+    },
+    "film.snow_white": {
+      "section": "film",
+      "label": "Snow White and the Seven Dwarfs",
+      "value": "Released as the first feature-length cel-animated film",
+      "detail": "It opened in December and reached most of the country the following year.",
+      "date": "1937-12-21",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and the newsreel before the feature was where most people saw the Hindenburg burn.",
+      "source": "https://en.wikipedia.org/wiki/1937_in_film"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two wars running in Europe and Asia while American attention was on a bridge, an airship and a lost aviator."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the New York Giants, four games to one",
+      "source": "https://en.wikipedia.org/wiki/1937_in_sports"
+    },
+    "deaths.gershwin": {
+      "section": "deaths",
+      "label": "George Gershwin",
+      "value": "Died this year. Born 1898",
+      "detail": "American composer.",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "deaths.ravel": {
+      "section": "deaths",
+      "label": "Maurice Ravel",
+      "value": "Died this year. Born 1875",
+      "detail": "French composer, who wrote Bolero.",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "deaths.quiroga": {
+      "section": "deaths",
+      "label": "Horacio Quiroga",
+      "value": "Died February 19. Born 1878",
+      "detail": "Uruguayan writer.",
+      "date": "1937-02-19",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "deaths.corbino": {
+      "section": "deaths",
+      "label": "Orso Mario Corbino",
+      "value": "Died January 23. Born 1876",
+      "detail": "Italian physicist and politician.",
+      "date": "1937-01-23",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    },
+    "deaths.alexander": {
+      "section": "deaths",
+      "label": "Ross Alexander",
+      "value": "Died January 2. Born 1907",
+      "detail": "American actor.",
+      "date": "1937-01-02",
+      "source": "https://en.wikipedia.org/wiki/1937"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the minimum wage series starts next year and the other two later still. Gershwin and Ravel carry no date because the source lists them as undated sub-entries. Jean Harlow dying during production of Saratoga, and the Hindenburg fire ending passenger airship travel, are general knowledge of those subjects rather than claims from the year pages."
+}

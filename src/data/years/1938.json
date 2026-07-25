@@ -1,0 +1,162 @@
+{
+  "year": 1938,
+  "tier": "early",
+  "headline": "Germany took Austria in March and the Sudetenland by agreement in September, then burned the synagogues in November",
+  "texture": [
+    "German troops occupied Austria on March 12 and the annexation was declared the next day. In September, Britain, France, Italy and Germany agreed at Munich that Germany could have the Sudetenland, and Poland and Hungary put in claims of their own. Hitler broke the agreement on October 21. On the night of November 9 the synagogues burned across Germany, along with Jewish shops and homes.",
+    "Orson Welles broadcast The War of the Worlds on October 30 as a series of news bulletins, and enough listeners took it literally to make the papers for a week. Superman appeared in Action Comics on April 18. The minimum wage became law in the United States on October 24, at twenty-five cents an hour.",
+    "Snow White and the Seven Dwarfs went wide in February and took $3,996,000 in rentals, more than any film had. You Can't Take It with You was fifth and won Best Picture. The Yankees swept the Cubs in the World Series, their third title in a row, and Boys Town came second at the box office with Spencer Tracy playing a priest."
+  ],
+  "lead": [
+    "world.anschluss",
+    "world.munich_agreement",
+    "world.kristallnacht",
+    "radio.war_of_the_worlds",
+    "prices.min_wage",
+    "film.gross#0",
+    "culture.superman"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "pol.minimum_wage_law": {
+      "section": "politics",
+      "label": "Minimum wage established",
+      "value": "A federal minimum wage became law in the United States",
+      "date": "1938-10-24",
+      "source": "https://en.wikipedia.org/wiki/1938_in_the_United_States"
+    },
+    "world.anschluss": {
+      "section": "world",
+      "label": "Anschluss",
+      "value": "German troops occupied Austria and the annexation was declared the following day",
+      "date": "1938-03-12",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "world.munich_agreement": {
+      "section": "world",
+      "label": "Munich Agreement",
+      "value": "German, Italian, British and French leaders agreed to Germany's demands on the Sudetenland",
+      "detail": "Poland and Hungary pressed claims on Czechoslovak territory as soon as the Czech government capitulated. Hitler broke the agreement on October 21, and Hungary was awarded the Felvidek region on November 2.",
+      "date": "1938-09-30",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "world.kristallnacht": {
+      "section": "world",
+      "label": "Kristallnacht",
+      "value": "The night of broken glass, when synagogues, shops and homes were attacked across Germany",
+      "date": "1938-11-09",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "world.poland_lithuania": {
+      "section": "world",
+      "label": "Polish ultimatum to Lithuania",
+      "value": "Poland demanded normal diplomatic relations under threat",
+      "date": "1938-03-17",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "world.vatican_franco": {
+      "section": "world",
+      "label": "Vatican recognises Franco",
+      "value": "Recognised his government while the Spanish Civil War was still being fought",
+      "date": "1938-05",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "radio.war_of_the_worlds": {
+      "section": "radio",
+      "label": "The War of the Worlds broadcast",
+      "value": "Orson Welles presented the invasion as a sequence of news bulletins",
+      "date": "1938-10-30",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Snow White and the Seven Dwarfs, $3,996,000, RKO and Walt Disney",
+        "Boys Town, $2,828,000, MGM",
+        "Alexander's Ragtime Band, $2,630,000, 20th Century Fox",
+        "Test Pilot, $2,431,000, MGM",
+        "You Can't Take It with You, $2,182,000, Columbia"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Snow White had opened in December of the previous year and went wide in February.",
+      "source": "https://en.wikipedia.org/wiki/1938_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "You Can't Take It with You",
+      "detail": "Fifth at the box office.",
+      "source": "https://en.wikipedia.org/wiki/11th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The biggest film of the year was a cartoon, which nobody had expected to work at feature length.",
+      "source": "https://en.wikipedia.org/wiki/1938_in_film"
+    },
+    "culture.superman": {
+      "section": "culture",
+      "label": "Superman appears",
+      "value": "First published in Action Comics number one",
+      "date": "1938-04-18",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A year of governments agreeing to things they knew would not hold, and a radio play about an invasion that some listeners believed because the format was the same one carrying the news from Europe."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. It became law in October.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees swept the Chicago Cubs, four games to none",
+      "source": "https://en.wikipedia.org/wiki/1938_in_sports"
+    },
+    "deaths.rohlfs": {
+      "section": "deaths",
+      "label": "Christian Rohlfs",
+      "value": "Died January 8. Born 1849",
+      "detail": "German painter.",
+      "date": "1938-01-08",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "deaths.palacio_valdes": {
+      "section": "deaths",
+      "label": "Armando Palacio Valdes",
+      "value": "Died January 29. Born 1853",
+      "detail": "Spanish writer.",
+      "date": "1938-01-29",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "deaths.auriol": {
+      "section": "deaths",
+      "label": "George Auriol",
+      "value": "Died February 6. Born 1863",
+      "detail": "French poet.",
+      "date": "1938-02-06",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    "deaths.gould": {
+      "section": "deaths",
+      "label": "Howard Gould",
+      "value": "Died February 3. Born 1863",
+      "detail": "American actor.",
+      "date": "1938-02-03",
+      "source": "https://en.wikipedia.org/wiki/1938"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. First year with a prices section: the federal minimum wage series starts here, at the rate in effect on December 31. The claim that the Welles broadcast made the papers for a week, and that Snow White outsold any previous film, are general knowledge rather than statements from the year pages. Spencer Tracy playing a priest in Boys Town is likewise general knowledge of the film."
+}

@@ -1,0 +1,168 @@
+{
+  "year": 1939,
+  "tier": "early",
+  "headline": "Germany and the Soviet Union split Poland by pact in August, and the invasion started at quarter to five",
+  "texture": [
+    "The Molotov-Ribbentrop Pact was signed on August 23 and the two governments that had spent years denouncing each other divided the country between them. Poland began mobilising on August 30. The invasion opened at 4:45 in the morning on September 1, and Britain and France sent ultimatums that Germany ignored. Franco had taken Madrid in the spring, ending the Spanish war, and Britain and France had recognised his government in February.",
+    "Gone with the Wind took $20,000,000 in rentals, five times what the second-place film managed and more than any picture would take for years. The Wizard of Oz came fifth. Mr. Smith Goes to Washington was second. All three came out of a single twelve-month stretch that studios have been measured against ever since.",
+    "Lou Gehrig's run of 2,130 consecutive games ended on May 2. The New York World's Fair opened on April 30 with a General Electric pavilion showing television to people who had never seen it. Amelia Earhart was formally declared dead on January 5, eighteen months after she disappeared. W. B. Yeats died on January 28 and Douglas Fairbanks on December 12."
+  ],
+  "lead": [
+    "world.war_begins",
+    "world.molotov_ribbentrop",
+    "world.franco_wins",
+    "film.gross#0",
+    "film.best_picture",
+    "sports.gehrig_streak",
+    "culture.worlds_fair"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "detail": "The United States stayed neutral when the war began in September.",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "world.war_begins": {
+      "section": "world",
+      "label": "The Second World War begins",
+      "value": "Germany invaded Poland at 4:45 Central European Time",
+      "detail": "Britain and France delivered ultimatums. Norway, Finland, Sweden and Switzerland declared neutrality. Danzig was annexed to Germany.",
+      "date": "1939-09-01",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "world.molotov_ribbentrop": {
+      "section": "world",
+      "label": "Molotov-Ribbentrop Pact",
+      "value": "Germany and the Soviet Union signed a non-aggression pact dividing eastern Europe between them",
+      "detail": "Vyacheslav Molotov had replaced Maxim Litvinov as Soviet foreign commissar on May 3. Details became public on August 24.",
+      "date": "1939-08-23",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "world.franco_wins": {
+      "section": "world",
+      "label": "Franco takes power in Spain",
+      "value": "Assumed power in Madrid, ending the civil war",
+      "detail": "The United Kingdom and France had recognised his government on February 27.",
+      "date": "1939-03",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "world.poland_mobilises": {
+      "section": "world",
+      "label": "Poland mobilises",
+      "value": "Began mobilisation against Germany two days before the invasion",
+      "date": "1939-08-30",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "world.earhart_declared_dead": {
+      "section": "world",
+      "label": "Earhart declared dead",
+      "value": "Officially pronounced dead eighteen months after she disappeared",
+      "date": "1939-01-05",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Gone with the Wind, $20,000,000, MGM and Selznick International",
+        "Mr. Smith Goes to Washington, $3,500,000, Columbia",
+        "Jesse James, $2,335,000, 20th Century Fox",
+        "Babes in Arms, $2,311,000, MGM",
+        "The Wizard of Oz, $2,048,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The top film took nearly six times the second.",
+      "source": "https://en.wikipedia.org/wiki/1939_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Gone with the Wind",
+      "detail": "Awarded the following spring. Also the year's highest-grossing film by a wide margin.",
+      "source": "https://en.wikipedia.org/wiki/12th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, at a reserved-seat price for the longer pictures. Gone with the Wind ran nearly four hours with an interval.",
+      "source": "https://en.wikipedia.org/wiki/1939_in_film"
+    },
+    "culture.worlds_fair": {
+      "section": "culture",
+      "label": "New York World's Fair opens",
+      "value": "Opened in Queens with exhibits built around what the next decades would look like",
+      "detail": "The Golden Gate International Exposition had opened in San Francisco on February 18.",
+      "date": "1939-04-30",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A world's fair about the future in April and a war in September, with the best year Hollywood ever had running through the middle of it."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.gehrig_streak": {
+      "section": "sports",
+      "label": "Gehrig's streak ends",
+      "value": "Lou Gehrig's run of 2,130 consecutive major league games came to an end",
+      "date": "1939-05-02",
+      "source": "https://en.wikipedia.org/wiki/1939_in_sports"
+    },
+    "sports.hall_of_fame": {
+      "section": "sports",
+      "label": "Baseball Hall of Fame inductions",
+      "value": "Cap Anson, Buck Ewing, Charles Radbourn, Albert Spalding and Charles Comiskey were among those inducted on May 2",
+      "date": "1939-05-02",
+      "source": "https://en.wikipedia.org/wiki/1939_in_sports"
+    },
+    "deaths.yeats": {
+      "section": "deaths",
+      "label": "W. B. Yeats",
+      "value": "Died January 28. Born 1865",
+      "detail": "Irish writer and Nobel laureate.",
+      "date": "1939-01-28",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "deaths.fairbanks": {
+      "section": "deaths",
+      "label": "Douglas Fairbanks",
+      "value": "Died December 12",
+      "detail": "American actor, a founder of United Artists.",
+      "date": "1939-12-12",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "deaths.mosjoukine": {
+      "section": "deaths",
+      "label": "Ivan Mosjoukine",
+      "value": "Died January 18. Born 1889",
+      "detail": "Soviet actor.",
+      "date": "1939-01-18",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "deaths.zemgals": {
+      "section": "deaths",
+      "label": "Gustavs Zemgals",
+      "value": "Died January 6. Born 1871",
+      "detail": "Second president of Latvia.",
+      "date": "1939-01-06",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    },
+    "deaths.marston": {
+      "section": "deaths",
+      "label": "Lawrence Marston",
+      "value": "Died February 1. Born 1857",
+      "detail": "American actor, playwright and film director.",
+      "date": "1939-02-01",
+      "source": "https://en.wikipedia.org/wiki/1939"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Franco taking Madrid carries a month rather than a day, the source giving none, and the same line mentions his death decades later, which is not repeated here. Sigmund Freud died this year but appears only as an image caption, so he is left out. Several claims are general knowledge rather than statements from the year pages: that 1939 is the year Hollywood is measured against, Gone with the Wind's running time and reserved seating, Fairbanks founding United Artists, and the World's Fair showing television."
+}
