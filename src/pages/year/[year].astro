@@ -82,7 +82,21 @@ const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.
           lead.map((item: any) => (
             <li class="lead__item">
               <div class="lead__label">{item.fact.label}</div>
-              <div class="lead__value">{item.value}</div>
+              {/*
+                A pointer at a whole fact can land on an array value, and rendering an
+                array here concatenates it: 1994's games read "December 3Sega Saturn,
+                released in Japan on November 22Sega 32X". Fact.astro already handled
+                this; the lead never did. Eight years were affected.
+              */}
+              {Array.isArray(item.value) ? (
+                <ul class="lead__list">
+                  {item.value.map((entry: string) => (
+                    <li>{entry}</li>
+                  ))}
+                </ul>
+              ) : (
+                <div class="lead__value">{item.value}</div>
+              )}
             </li>
           ))
         }

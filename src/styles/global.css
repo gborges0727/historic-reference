@@ -276,6 +276,37 @@ h3 {
   font-weight: 500;
 }
 
+/* A lead pointer at a whole fact can land on a list, so the lead needs the same
+   treatment the body facts get. Same dash marker as .fact__list, for the same reason:
+   some of these lists are ranked and some are not, and numbering them would invent an
+   order the data does not claim. */
+.lead__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lead__list li {
+  font-family: var(--mono);
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 500;
+  padding-left: 1.1rem;
+  position: relative;
+}
+
+.lead__list li + li {
+  margin-top: 0.3rem;
+}
+
+.lead__list li::before {
+  content: '\2013';
+  position: absolute;
+  left: 0.1rem;
+  font-weight: 400;
+  color: var(--era);
+}
+
 /* ------------------------------------------------------------ texture */
 
 .texture {
