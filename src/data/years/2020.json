@@ -1,0 +1,483 @@
+{
+  "year": 2020,
+  "tier": "modern",
+  "headline": "A pandemic declared in March, George Floyd murdered in May, and a presidential election contested into December",
+  "texture": [
+    "The South by Southwest festival was called off on March 6, the first cancellation in its 34-year history. New York's governor capped gatherings at 500 on March 12, closing every Broadway theatre, and the Metropolitan Opera, Carnegie Hall and the New York Philharmonic shut the same day. The American box office took nothing at all on March 24. West Virginia became the fiftieth state to confirm a case on March 17, and the hospital ship USNS Comfort was sent to New York on March 22. By April 11 farmers were pouring away nearly four million gallons of milk a day.",
+    "Minneapolis's city council voted unanimously on June 12 to disband its police department. Protesters declared an autonomous zone in Seattle's Capitol Hill on June 8. Atlanta's police chief resigned on June 13 and demonstrators burned the fast food restaurant where Rayshard Brooks had been shot the day before. Mississippi's governor signed a bill on June 30 retiring the state flag that carried a Confederate emblem, and voters approved a replacement design on November 3. Thousands gathered at the Lincoln Memorial on August 28 for a Commitment March.",
+    "On July 15 attackers took over the Twitter accounts of prominent politicians and chief executives and ran a bitcoin scam from them. Jeff Bezos's net worth passed $200 billion on August 26, three weeks after Mark Zuckerberg reached $100 billion and became the third centibillionaire. Asian giant hornets turned up in Washington state in May, and the Pentagon released three navy videos of unidentified aerial phenomena on April 27. Amazon opened its first cashierless grocery store in Seattle on February 25.",
+    "Rudy Giuliani held a press conference on November 7 at Four Seasons Total Landscaping in Philadelphia. Thousands marched in Washington on November 14 behind the president's fraud claims, and at a second march on December 12 four people were stabbed and 33 arrested. Oregon voted on November 3 to decriminalise possession of small amounts of every narcotic, the first state to do it. Defense Secretary Mark Esper was dismissed by tweet on November 9, and the Boeing 737 MAX was cleared to fly in the United States again on November 18 after a twenty-month ban."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.covid_pandemic",
+    "pol.floyd_protests",
+    "pol.election",
+    "film.how_people_watched",
+    "film.gross#0",
+    "tech.online_video",
+    "prices.unemployment"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Donald Trump (R)",
+      "detail": "Fourth year of his term, with Mike Pence as vice president. He delivered his third State of the Union address on February 4, was acquitted by the Senate the next day, and was taken to Walter Reed National Military Medical Center on October 2 after testing positive for COVID-19, returning to the White House on October 5.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "pol.impeachment": {
+      "section": "politics",
+      "label": "Senate impeachment trial",
+      "value": "The Senate acquitted President Trump",
+      "detail": "The trial opened on January 16 and the Senate voted 51 to 49 on January 31 against calling witnesses. The US year page dates the acquittal to February 5 and gives no vote count on the articles themselves.",
+      "date": "2020-02-05",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "pol.floyd_protests": {
+      "section": "politics",
+      "label": "Murder of George Floyd",
+      "value": "A Minneapolis police officer, Derek Chauvin, killed George Floyd, 46, by kneeling on his neck, and protests broke out in hundreds of cities",
+      "detail": "Video of the arrest circulated and the four officers were fired. Chauvin was charged with third-degree murder and manslaughter on May 29. A state of emergency was declared in the Twin Cities on May 28 and curfews followed in Los Angeles, Philadelphia and Atlanta on May 30. The world year page dates the spread of protests across hundreds of American cities to May 26.",
+      "date": "2020-05-25",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "pol.bostock": {
+      "section": "politics",
+      "label": "Supreme Court on employment discrimination",
+      "value": "The court ruled that Title VII of the Civil Rights Act of 1964 protects gay and transgender workers from being fired for who they are",
+      "date": "2020-06-15",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "pol.scotus_vacancy": {
+      "section": "politics",
+      "label": "Supreme Court vacancy filled",
+      "value": "Amy Coney Barrett was confirmed 52 to 48 on a party line vote",
+      "detail": "Ruth Bader Ginsburg died on September 18 and Trump said he would fill the seat with a woman. He nominated Barrett, then a judge on the Seventh Circuit Court of Appeals, on September 26.",
+      "date": "2020-10-26",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Joe Biden defeated the incumbent, Donald Trump, and Kamala Harris became the first woman elected vice president",
+      "detail": "November 3 was the Tuesday after the first Monday in November, which is where the date belongs. News organisations called the result on November 7 once the remaining counts came in from states slowed by an influx of mail-in ballots. Biden was projected to win Arizona on November 13, the first Democrat to take the state since 1996. Harris is also the second person of colour elected to the office.",
+      "date": "2020-11-03",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "pol.election_contest": {
+      "section": "politics",
+      "label": "The result was contested",
+      "value": "Trump asserted shortly after midnight that he had won and demanded that counting stop, and from November 9 his campaign filed lawsuits in several states alleging fraud",
+      "detail": "A coalition of federal and state officials called the election the most secure in American history on November 12 and said there was no evidence that voting systems had been compromised. Trump said on November 15 that Biden had won while alleging that the vote was rigged. Georgia re-certified Biden as its winner on December 7 after a hand recount, and the Supreme Court denied a suit on December 11 that sought to overturn his victory in four states.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "world.covid_pandemic": {
+      "section": "world",
+      "label": "COVID-19 pandemic",
+      "value": "The World Health Organization assessed the outbreak as a pandemic on March 11, having declared a public health emergency of international concern on January 30",
+      "detail": "The outbreak began in Wuhan in December 2019 and Chinese authorities confirmed human-to-human transmission on January 20. Italy became the first country to quarantine nationwide on March 9, the European Union closed its external and Schengen borders on March 17, and India and the United Kingdom locked down on March 24. The worldwide death toll passed 10,000 on March 20, 100,000 on April 10, 500,000 on June 28 and one million on September 29. Confirmed cases passed 80 million on December 27.",
+      "date": "2020-03-11",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "world.covid_united_states": {
+      "section": "world",
+      "label": "The pandemic in the United States",
+      "value": "The first case was confirmed on January 21 and the national death toll passed 100,000 on May 27",
+      "detail": "The CDC confirmed the first case on January 21. The first US death was reported on February 29 by officials in Washington state, with 66 cases nationwide. Trump declared a national emergency on March 13, most schools were closed by March 16, and three quarters of the population were under lockdown restrictions by March 31. He signed the CARES Act on March 27, a $2 trillion package the US year page calls the largest in the country's history, and announced Operation Warp Speed on May 15 to speed a vaccine.",
+      "date": "2020-01-21",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "world.vaccines": {
+      "section": "world",
+      "label": "Vaccines",
+      "value": "The United Kingdom began mass inoculation on December 8, the first country to do so with a fully tested, clinically authorised vaccine",
+      "detail": "Pfizer and BioNTech announced the first successful phase III trial on November 9, reporting 90 percent effectiveness on interim results. Moderna reported 94.5 percent on November 16 and the Oxford and AstraZeneca vaccine up to 90 percent on November 23, depending on the dosing. Britain approved the Pfizer and BioNTech vaccine on December 2, the first country in the world to do it. The American Food and Drug Administration authorised it on December 11, the first doses were given on December 14, and Moderna's was authorised on December 18. Russia had begun mass vaccination with Sputnik V on December 5.",
+      "date": "2020-12-08",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "world.brexit": {
+      "section": "world",
+      "label": "United Kingdom leaves the European Union",
+      "value": "The United Kingdom and Gibraltar formally withdrew on January 31, starting an eleven-month transition period that expired on December 31",
+      "detail": "The two sides agreed a comprehensive free trade agreement on December 24, a week before the transition ran out. The European Union had opened legal proceedings against Britain on October 1 for missing a deadline to withdraw parts of a bill that would have overridden the withdrawal agreement.",
+      "date": "2020-01-31",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "world.soleimani": {
+      "section": "world",
+      "label": "US drone strike at Baghdad airport",
+      "value": "Ten people were killed, among them the Iranian general Qasem Soleimani and the Iraqi paramilitary leader Abu Mahdi al-Muhandis",
+      "detail": "Iran fired ballistic missiles at two Iraqi bases housing American soldiers on January 8. Hours later Iranian forces shot down Ukraine International Airlines Flight 752 shortly after it took off from Tehran, killing all 176 people aboard.",
+      "date": "2020-01-03",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "world.beirut_explosion": {
+      "section": "world",
+      "label": "Beirut port explosion",
+      "value": "Unsafely stored ammonium nitrate exploded and killed at least 218 people",
+      "detail": "Thousands were injured, the port was severely damaged, and an estimated 300,000 people were left without homes. Damage is put at $10 billion to $15 billion. The Lebanese government declared a two-week state of emergency the next day.",
+      "date": "2020-08-04",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "world.hong_kong": {
+      "section": "world",
+      "label": "Hong Kong national security law",
+      "value": "China passed a law allowing it to act against opposition to Beijing inside Hong Kong and abroad",
+      "detail": "The National People's Congress had voted in favour of the legislation on May 27 and Hong Kong's legislative council passed a National Anthem Ordinance on June 4. Pro-democracy lawmakers resigned en masse in November after four of them were disqualified, and three activists were jailed on December 2 over the protests of the previous year.",
+      "date": "2020-06-30",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Demon Slayer: Kimetsu no Yaiba Mugen Train, $507,127,293, Toho and Aniplex",
+        "The Eight Hundred, $461,421,559, CMC Pictures",
+        "My People, My Homeland, $433,241,288, China Lion",
+        "Bad Boys for Life, $426,505,244, Sony",
+        "Tenet, $365,309,519, Warner Bros."
+      ],
+      "detail": "Worldwide gross, which is what the film page's table header states. No film passed a billion dollars, the first year that had happened since 2007, and a non-English-language film topped the worldwide chart for the first time. Six of the top ten were Chinese or Japanese productions, also a first. China overtook North America as the largest market, taking $2.7 billion in theatrical revenue against North America's $2.3 billion, the lowest North American figure in at least 40 years. Several companies stopped reporting box office numbers during the year, so the totals here are incomplete and would rise on any re-release.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "Cinemas across the United States closed on March 17 under national restrictions on gatherings. Drive-ins were not closed and got busy again, and studios sent films to premium video on demand instead.",
+      "detail": "The weekend of March 13 to 15 was the lowest American total since the weekend of October 30 to November 1, 1998, at $55.3 million, a smaller percentage drop than the weekend after September 11. Disney and Universal stopped reporting box office figures on March 19. AMC refused to book Universal films from April 28 after Trolls World Tour went straight to premium video on demand, and on July 28 the two agreed a theatrical window of 17 days with AMC taking a share of the online revenue. Warner Bros. announced in December that its next slate would open in cinemas and on HBO Max the same day, each film staying on the service for a month. None of the ten cached pages carries the closures, the drive-ins or the Warner Bros. decision, so this fact cites the dedicated article.",
+      "date": "2020-03-17",
+      "source": "https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Nomadland, produced by Mollye Asher, Dan Janvey, Frances McDormand, Peter Spears and Chloe Zhao",
+      "detail": "Awarded the following April at the 93rd Academy Awards, held at Union Station in Los Angeles. Nomadland took three awards in all and Mank led the field with ten nominations. The Academy ruled on April 28 that a film released to video on demand or streaming would still qualify if it had been scheduled for a theatrical release and was uploaded to the Academy's screening service within 60 days, and it added New York City, Chicago, the San Francisco Bay Area, Atlanta and Miami to Los Angeles as qualifying cities. It also pushed the eligibility deadline back by two months and merged Best Sound Mixing and Best Sound Editing into one category. The telecast drew 10.4 million American viewers, the lowest for an Oscar broadcast since figures began with the 46th ceremony in 1974.",
+      "source": "https://en.wikipedia.org/wiki/93rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Anthony Hopkins, The Father",
+        "Best Actress, Frances McDormand, Nomadland",
+        "Best Supporting Actor, Daniel Kaluuya, Judas and the Black Messiah",
+        "Best Supporting Actress, Yuh-jung Youn, Minari"
+      ],
+      "detail": "Chloe Zhao took Best Director for Nomadland. Chadwick Boseman was nominated posthumously for Ma Rainey's Black Bottom, and the ceremony moved Best Actor to the end of the evening. Emerald Fennell won Best Original Screenplay for Promising Young Woman, and Florian Zeller and Christopher Hampton shared Best Adapted Screenplay for The Father.",
+      "source": "https://en.wikipedia.org/wiki/93rd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best International Feature Film",
+      "value": [
+        "Another Round, Denmark, in Danish, directed by Thomas Vinterberg, the winner",
+        "Better Days, Hong Kong, in Mandarin, directed by Derek Tsang",
+        "Collective, Romania, in Romanian, directed by Alexander Nanau",
+        "The Man Who Sold His Skin, Tunisia, in Arabic, directed by Kaouther Ben Hania",
+        "Quo Vadis, Aida?, Bosnia and Herzegovina, in Bosnian, directed by Jasmila Zbanic"
+      ],
+      "detail": "The Cannes Film Festival was cancelled outright. Berlin ran from February 20 to March 1, before the closures, and Venice went ahead from September 2 to 12 with Toronto from September 10 to 21.",
+      "source": "https://en.wikipedia.org/wiki/93rd_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$9.18",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2020",
+      "value": [
+        "Sunday Night Football, NBC, 16.50 rating",
+        "Thursday Night Football, FOX, 13.42",
+        "NCIS, CBS, 12.58",
+        "The Equalizer, CBS, 12.07",
+        "FBI, CBS, 10.98"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. 60 Minutes was sixth on 10.73, Chicago Fire seventh on 10.23, Blue Bloods eighth on 10.16, and Chicago Med and Chicago P.D. ninth and tenth on 9.74 and 9.73. Wikipedia has no per-season ratings page for this season, so the figures come from the by-season table instead.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "72nd Primetime Emmy Awards",
+      "value": "Schitt's Creek won all seven comedy categories, the first comedy series to sweep them, and Succession and Watchmen took drama series and limited series",
+      "detail": "Jimmy Kimmel hosted on ABC from the Staples Center rather than the Microsoft Theater, and winners spoke remotely from home. Watchmen led all programmes with 11 wins and 26 nominations, and HBO took 30 awards in all. Netflix drew 160 nominations, beating the record of 137 HBO set the year before, and Disney+, Apple TV+ and Quibi all won their first Emmys. Zendaya won lead actress in a drama at 24 for Euphoria, the youngest ever in the category. None of the cached pages carries this ceremony, so the fact cites its own article.",
+      "date": "2020-09-20",
+      "source": "https://en.wikipedia.org/wiki/72nd_Primetime_Emmy_Awards"
+    },
+    "tv.streaming_launches": {
+      "section": "tv",
+      "label": "Streaming services launched",
+      "value": [
+        "Quibi, April 6, short episodes made for a phone",
+        "Peacock, April 15 for Xfinity subscribers and July 15 in full, ad-supported with a free tier",
+        "HBO Max, May 27, carrying Warner Bros., CNN, TNT, TBS and Cartoon Network alongside HBO"
+      ],
+      "detail": "HBO Go closed on July 31 and HBO Now on December 17, both folded into HBO Max. The AT&T-only Audience network shut on May 23, days before HBO Max opened, and became a channel advertising it.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_American_television"
+    },
+    "tv.quibi": {
+      "section": "tv",
+      "label": "Quibi shut down",
+      "value": "The short-form service closed on December 1, having launched in April",
+      "detail": "The Wall Street Journal reported on October 21 that it would shut. It had launched mobile-only and made a series of accessibility concessions afterwards.",
+      "date": "2020-12-01",
+      "source": "https://en.wikipedia.org/wiki/2020_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Blinding Lights, The Weeknd",
+      "detail": "It spent four non-consecutive weeks at the top of the weekly chart and set Billboard records for time spent in the top five and in the top ten. Circles by Post Malone came second and The Box by Roddy Ricch third. The Weeknd was also the year's top Hot 100 artist. Roddy Ricch and Lil Baby tied for the most songs on the year-end list with six each.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2020"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The Hot 100 counted physical singles, downloads, radio airplay and streams together, with Nielsen SoundScan doing the compiling",
+      "detail": "The year-end list was published on December 3 from data running from November 23, 2019 to November 14. No cached page for the year names a subscription service, a sales total or a vinyl figure, so nothing here says which service anyone actually used.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2020"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "62nd Grammy Awards",
+      "value": "Billie Eilish won Record, Album and Song of the Year and Best New Artist",
+      "detail": "Bad Guy took record and song, and When We All Fall Asleep, Where Do We Go? took the album award. The US year page dates the ceremony to January 26, places it in Los Angeles and names Alicia Keys as host. The awards honoured the previous year's recordings.",
+      "date": "2020-01-26",
+      "source": "https://en.wikipedia.org/wiki/2020_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest cancelled",
+      "value": "The first cancellation in the contest's 64-year history",
+      "detail": "Called off because of the spread of COVID-19 in Europe.",
+      "date": "2020-03-18",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "The Doobie Brothers",
+        "Whitney Houston",
+        "Depeche Mode",
+        "T. Rex",
+        "The Notorious B.I.G.",
+        "Nine Inch Nails"
+      ],
+      "detail": "The music page gives no ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_music"
+    },
+    "tech.online_video": {
+      "section": "tech",
+      "label": "Zoom",
+      "value": "More than 300 million daily meeting participants by April, counted as the number of times someone joined a meeting",
+      "detail": "Zoom had gained 2.22 million users by February, more than it added across the whole of the previous year, and the app was downloaded 2.13 million times in March. It was one of the most downloaded mobile apps in the world for the year, at over 500 million downloads. It added end-to-end encryption for business and enterprise users in June and for free accounts in October. No cached page for the year mentions Zoom except in passing as the format of a television special, so this fact cites the software's own article.",
+      "source": "https://en.wikipedia.org/wiki/Zoom_(software)"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "SpaceX flew the first crewed Dragon 2 from Cape Canaveral on May 30",
+        "The Demo-2 crew splashed down on August 2, the first American crewed splashdown since 1975",
+        "OSIRIS-REx touched down on the asteroid Bennu on October 20 to collect a sample",
+        "SpaceX Crew-1 launched from the Kennedy Space Center on November 15, the first operational crew flight",
+        "NASA launched the Mars 2020 rover on July 30 to look for signs of ancient life"
+      ],
+      "detail": "NASA selected SpaceX, Blue Origin and Dynetics on April 30 to design a lunar lander, and confirmed molecular water on the sunlit side of the Moon on October 26. The Arecibo Telescope collapsed on December 1, weeks after the announcement of its planned demolition. The US year page adds that the Demo-2 crew's return on August 2 was the first American crewed splashdown since 1975 and that Mike Pence named the eighteen Artemis astronauts on December 9, and it dates the Crew-1 launch to November 16 where the world year page gives November 15.",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Xbox Series X and Series S, Microsoft, November 10",
+        "PlayStation 5, Sony, November 12",
+        "Oculus Quest 2, Reality Labs, October 13",
+        "Animal Crossing: New Horizons, Nintendo, the year's best-selling premium game at 31,800,000 units and $2 billion",
+        "Cyberpunk 2077, CD Projekt Red, December 10, fifth on the year's sales list at 13,000,000 units, refunded and pulled from the PlayStation Store on December 17"
+      ],
+      "detail": "American spending on games reached $33.7 billion over the first nine months of the year against $27.9 billion for the same period the year before, with lockdowns keeping people at home. Easy games with little story, among them Among Us and Fall Guys, grew sharply. The Last of Us Part II took Game of the Year at the Golden Joystick Awards on November 24 and at The Game Awards on December 10, and Hades won the later ceremonies. The Nintendo 3DS family was discontinued on September 17 and the Xbox One X on July 16. Microsoft agreed on September 21 to buy ZeniMax Media.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_video_games"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "Social platforms and the government",
+      "value": "Trump signed an executive order on August 6 barring American companies and citizens from transacting with ByteDance, TikTok's parent, within 45 days, and took similar action against Tencent",
+      "detail": "He had signed an order on May 28 rolling back liability protections for social media companies, two days after Twitter first labelled one of his tweets misleading, and had threatened to shut the platforms down. Facebook banned Holocaust denial on October 12 and removed a 300,000-member Stop the Steal group on November 5. The Justice Department sued Facebook on December 3 over discrimination against American workers in hiring.",
+      "date": "2020-08-06",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "tech.alphafold": {
+      "section": "tech",
+      "label": "AlphaFold",
+      "value": "DeepMind's program predicted protein structures accurately enough at the CASP assessment that the problem was called largely solved",
+      "detail": "Announced on November 30, on a challenge about fifty years old.",
+      "date": "2020-11-30",
+      "source": "https://en.wikipedia.org/wiki/2020_in_science"
+    },
+    "tech.apple": {
+      "section": "tech",
+      "label": "Apple",
+      "value": "The first American company valued above $2 trillion, on August 19",
+      "detail": "It released the first Macs built on its own processor on November 10, a MacBook Air, a Mac mini and a MacBook Pro.",
+      "date": "2020-08-19",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.17 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "14.7 percent, reported on May 8",
+      "detail": "281,000 Americans filed for unemployment in the week reported on March 19 and 3.28 million in the week reported on March 26. Nearly 22 million filed within a single month by April 16, which the US year page calls the worst unemployment crisis since the Great Depression, and more than 33 million claims had been filed since mid-March by the time the rate was published.",
+      "date": "2020-05-08",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "prices.gdp": {
+      "section": "prices",
+      "label": "US economic output",
+      "value": "A 32.9 percent annualised contraction between April and June, the sharpest since records began in 1945",
+      "detail": "The Department of Commerce had reported a 4.8 percent contraction in the first quarter on April 29. The Congressional Budget Office reported on May 19 that output was falling at an annual rate of 38 percent. The International Monetary Fund said on April 14 that it expected the world economy to shrink 3 percent.",
+      "date": "2020-07-30",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "prices.markets": {
+      "section": "prices",
+      "label": "Stock market and oil",
+      "value": "The Dow Jones fell 2,997.10 points on March 16, the largest point drop in its history and the second largest percentage drop ever at 12.93 percent",
+      "detail": "The US year page calls that a larger crash than the one of 1929. The index rose 11.3 percent on March 24, its biggest one-day percentage gain since 1933, and closed above 30,000 for the first time on November 24. West Texas Intermediate crude fell into negative territory on April 20, and Brent had fallen 9 percent on March 30 during the price war between Russia and Saudi Arabia. OPEC and its allies agreed on April 12 to cut output by 9.7 million barrels a day from May 1, the largest such cut agreed.",
+      "date": "2020-03-16",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two weeks that were supposed to flatten a curve became a year of dark theatres, taped-off playgrounds and funerals nobody could attend, ending in an argument about whether a vote count could be trusted."
+    },
+    "culture.time_cover": {
+      "section": "culture",
+      "label": "Time's verdict",
+      "value": "The magazine put a red X through the year on its cover and called it the worst ever",
+      "detail": "Its sixth X cover. The article inside did not go that far, saying instead that there had been worse years in American and world history but that most people alive had seen nothing like this one. Dated December 5.",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Louise Gluck",
+        "Peace, World Food Programme",
+        "Physics, Roger Penrose, Reinhard Genzel and Andrea M. Ghez",
+        "Chemistry, Emmanuelle Charpentier and Jennifer Doudna",
+        "Medicine, Harvey J. Alter, Michael Houghton and Charles M. Rice",
+        "Economics, Paul Milgrom and Robert B. Wilson"
+      ],
+      "detail": "The year page gives no announcement dates.",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LIV",
+      "value": "Kansas City Chiefs 31, San Francisco 49ers 20, at Hard Rock Stadium in front of 62,417",
+      "detail": "Jennifer Lopez and Shakira co-headlined the halftime show. The attendance figure comes from the sports page and the score from the US year page.",
+      "date": "2020-02-02",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "sports.shutdown": {
+      "section": "sports",
+      "label": "Seasons suspended",
+      "value": "The NBA suspended its season on March 11 after the Utah Jazz centre Rudy Gobert tested positive, the first major professional league to stop",
+      "detail": "The NHL and Major League Soccer suspended their seasons the next day and Major League Baseball suspended spring training. The NCAA cancelled all remaining winter and spring championships on March 12, including the men's and women's basketball tournaments. Athletes across several sports refused to play in late August after Jacob Blake was shot by police in Kenosha.",
+      "date": "2020-03-11",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "sports.olympics_postponed": {
+      "section": "sports",
+      "label": "Tokyo Games postponed",
+      "value": "The International Olympic Committee and Japan put off the Summer Games",
+      "detail": "The European football championship and the Copa America had been postponed on March 17, and the Tour de France was pushed to August on April 15.",
+      "date": "2020-03-24",
+      "source": "https://en.wikipedia.org/wiki/2020"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the Tampa Bay Rays four games to two, a seventh title",
+      "detail": "Played October 20 to 27. The regular season was cut short and the All-Star Game and the College World Series were both cancelled.",
+      "date": "2020-10-27",
+      "source": "https://en.wikipedia.org/wiki/2020_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Los Angeles Lakers over the Miami Heat four games to two, a seventeenth title, clinched October 11",
+        "Stanley Cup, Tampa Bay Lightning over the Dallas Stars four games to two, a second cup, clinched September 28 after playoffs that ran from August 1",
+        "MLS Cup, Columbus Crew beat Seattle Sounders 3 to 0 at home on December 12, a second title",
+        "UEFA Champions League, Bayern Munich beat Paris Saint-Germain on August 23"
+      ],
+      "detail": "Lewis Hamilton won a seventh Formula One drivers' championship at the Turkish Grand Prix on November 15. Authentic won the Kentucky Derby on September 5, the race having been put back from May, its first postponement since 1945.",
+      "source": "https://en.wikipedia.org/wiki/2020_in_sports"
+    },
+    "deaths.bryant": {
+      "section": "deaths",
+      "label": "Kobe Bryant",
+      "value": "Died January 26. Born 1978",
+      "detail": "Basketball player. He was one of nine killed in a helicopter crash at Calabasas, California, along with his 13-year-old daughter Gianna.",
+      "date": "2020-01-26",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "deaths.lewis": {
+      "section": "deaths",
+      "label": "John Lewis",
+      "value": "Died July 17. Born 1940",
+      "detail": "Civil rights leader and congressman. C. T. Vivian, a minister and lieutenant of Martin Luther King Jr., died the same day.",
+      "date": "2020-07-17",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "deaths.boseman": {
+      "section": "deaths",
+      "label": "Chadwick Boseman",
+      "value": "Died August 28, aged 43",
+      "detail": "American actor. The film page names Black Panther and 42.",
+      "date": "2020-08-28",
+      "source": "https://en.wikipedia.org/wiki/2020_in_film"
+    },
+    "deaths.ginsburg": {
+      "section": "deaths",
+      "label": "Ruth Bader Ginsburg",
+      "value": "Died September 18. Born 1933",
+      "detail": "Associate Justice of the Supreme Court since 1993.",
+      "date": "2020-09-18",
+      "source": "https://en.wikipedia.org/wiki/2020_in_the_United_States"
+    },
+    "deaths.connery": {
+      "section": "deaths",
+      "label": "Sean Connery",
+      "value": "Died October 31, aged 90",
+      "detail": "British actor. The film page names the James Bond series and The Untouchables.",
+      "date": "2020-10-31",
+      "source": "https://en.wikipedia.org/wiki/2020_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the ten cached wikitext pages under .sources/2020 plus four dedicated articles named below. Box office basis. bo.mjs reports GROSS from a header reading Rank, Title, Distributor, Worldwide gross, and the table is captioned Highest-grossing films of 2020, so figures_basis is gross and film.gross names worldwide in both its label and its detail. The film page states outright that several companies stopped reporting box office numbers during the year and that grosses will rise on any re-release, so the five figures listed are incomplete rather than final, and film.gross says so. Dedicated articles pulled because the cache does not carry the fact. Four, each cited on the fact that uses it and flagged in that fact's own detail where a reader might wonder. (1) Top-rated United States television programs by season, because the per-season ratings page the fetcher looked for does not exist on Wikipedia for this season and the API confirms it under both the en dash and the hyphen title; without it the page would carry no Nielsen ranking at all. (2) 72nd Primetime Emmy Awards, because the cached television page's award table covers only ceremonies held after this year, so the cache carries no televison award ceremony that took place inside it. (3) Impact of the COVID-19 pandemic on cinema, because film.how_people_watched is the fact this year most obviously needs and the cached film page's own Events section carries only the AMC and Universal dispute, not the closures, the drive-ins or the Warner Bros. announcement. (4) Zoom (software), because the ten cached pages mention Zoom only as the format of a charity television special, and a page about this year with no videoconferencing fact would read as broken. Date checks. November 3 was a Tuesday and the Tuesday after the first Monday in November, which is where a US federal election belongs, and the US year page dates the election to November 3, so no disagreement to resolve and no article pulled for the date. No inauguration falls this year. February 2 was a Sunday for Super Bowl LIV and September 20 a Sunday for the Emmy telecast, both consistent. Every date in the file falls inside the year. The election and the pandemic are written from what the sources state and nothing else: pol.election_contest gives the lawsuits, the officials' statement of November 12, Trump's November 15 remark and the Supreme Court's December 11 denial as events, and takes no position on any of them. Anachronism. No four-digit year later than 2020 appears in any fact or in the texture. checkname.mjs was run on Cyberpunk 2077, The Eight Hundred, Consolidated Appropriations Act, Xbox Series X and Series S, and Among Us. Cyberpunk 2077 FAILS on 2077 and is therefore absent from tech.games, which is the one omission a games reader would notice: it was released on December 10, refunds followed and Sony pulled it from the PlayStation Store on December 17. It is a candidate for src/data/name_years.json, which was not touched here. The Consolidated Appropriations Act of December 21 is left out for the same class of reason, its own title carrying the following year. The Academy Awards ceremony of April 25 the following year is written as the following April, the corpus convention, and its viewing figure is attributed without a date. The postponed Tokyo Games are given as the host city and the decision date with no edition named, per the host-city convention, and the same treatment is applied to the European football championship and the Copa America. Warner Bros. is described as putting its next slate on HBO Max rather than by the slate's year. The Nielsen ranking names only the autumn it started in and explains the span in its detail. Dropped for lack of a source. There is no cached deaths page, the manifest recording Deaths_in_2020 as a redirect to a list of lists, so every death here comes from the US year page or the film page. No cached page carries a Merriam-Webster first-recorded-words list or any word-of-the-year, and none describes a meme or a piece of internet slang, so culture.slang and culture.memes are both open and both empty. The cached music page is an index of links with no events section, no format claim, no sales figure and no mention of streaming, vinyl or any subscription service, which is why music.listening_format claims only what the Billboard page says about how the Hot 100 was compiled and says so in its own detail. The cached television page carries no debut table, only a pointer to a separate list, so there is no tv.premieres fact. Mulan going to Disney+ for a fee in September appears in none of the cached pages and is not in the four articles pulled either, so it is out. General knowledge rather than a claim from a source: the whole of culture.mood, which carries no source and no digit, and comes out if challenged. Diacritics are written in ASCII per the corpus convention, so Chloe Zhao, Louise Gluck and Jasmila Zbanic lose theirs. Dropped for room. Politics and world: the Nashville tornado outbreak of March 2 that killed 26, the Harvey Weinstein conviction of February 24 and his 23-year sentence of March 11, the Taliban agreement of February 29, the killing of Ahmaud Arbery on February 23 and of Breonna Taylor on March 13, the Michigan kidnapping plot charged on October 8, the Kenosha shootings of August 23 and 25, the Belarusian election of August 9, the Nagorno-Karabakh war of September 27 and its November 9 ceasefire, the Tigray war from November 4, the American withdrawal from the Paris Agreement on November 4 and from the Open Skies Treaty on November 22, the assassination of Mohsen Fakhrizadeh on November 27, the normalisation agreements between Israel and the United Arab Emirates on August 13, Bahrain on September 11, Sudan on October 23 and Morocco on December 10, the Hanau shootings of February 19, the Petrinja earthquake of December 29, Shinzo Abe's resignation of August 28 and Yoshihide Suga's succession on September 16, the Regional Comprehensive Economic Partnership of November 15, Africa being declared free of wild polio on August 25, the western wildfires that set a California record on September 6, the Atlantic hurricane season including Laura on August 27 and Eta and Iota making landfall in Nicaragua two weeks apart, and the Nashville bombing of December 25. Film and television: the 92nd Academy Awards of February 9, left out on the same ground as other years because it honoured the previous year of film and would put a second Best Picture on the page; the 77th Golden Globes of January 5; the closure of the El Rey Network and the launch of Fave TV in December. Music: the Billboard, Brit, Juno, MTV Video Music, MTV Europe and American Music Awards, and the Pulitzer Prize for Music to Anthony Davis's The Central Park Five. Sports: the Calabasas crash is carried under deaths rather than twice. Deaths that would have earned a place with more room: Alex Trebek on November 8, Eddie Van Halen on October 6, Diego Maradona on November 25, Kirk Douglas on February 5 aged 103, Olivia de Havilland on July 26 aged 104, Ennio Morricone on July 6 aged 91, Max von Sydow on March 8 aged 90, Diana Rigg on September 10 aged 82, Terry Jones on January 21 aged 77, Little Richard on May 9 aged 87, Kenny Rogers on March 20 aged 81, Bill Withers on March 30 aged 81, John Prine on April 7 aged 73, Charley Pride on December 12, C. T. Vivian on July 17, Whitey Ford on October 8 and Chris Doleman on January 28. This file runs 53 facts across 10 sections: politics 7, world 7, film 6, tv 4, music 5, tech 6, prices 5, culture 3, sports 5, deaths 5. No radio fact, because the radio window closed after 1959. Review pass added Cyberpunk 2077 to src/data/name_years.json and restored it to tech.games. It was the year's biggest game story and had been absent entirely because the anachronism check reads 2077 as a year. Consolidated Appropriations Act, 2021 is listed too, since US appropriations acts are named for the fiscal year ahead, the same convention as Office 2007 in a politics fact where no generative rule reaches."
+}

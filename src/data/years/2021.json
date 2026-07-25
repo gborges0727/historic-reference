@@ -1,0 +1,478 @@
+{
+  "year": 2021,
+  "tier": "modern",
+  "headline": "A mob stormed the Capitol on January 6, Biden took the oath on January 20, Kabul fell to the Taliban in August",
+  "texture": [
+    "The GameStop short squeeze peaked at $483 a share on January 27, pushed by the r/wallstreetbets forum, and investment funds reported heavy losses before brokerages restricted trading in the stock the next day. Elon Musk had passed Jeff Bezos on January 7 to become the world's richest person, with a net worth above $185 billion. Facebook banned Donald Trump indefinitely that same day and Twitter suspended his account on January 8. Google pulled Parler from Google Play on January 8, Apple suspended it on January 9, and Parler went dark on January 10 when Amazon stopped hosting it.",
+    "Texas administered its millionth vaccine dose on January 14, the first state to get there. Greg Abbott lifted the Texas mask requirement on March 2 against CDC warnings. The CDC told fully vaccinated people on May 13 that they could drop masks and distancing except where a law required them. Half of American adults were fully vaccinated by May 25 and half the whole population by August 6, about 166 million people. The FDA gave the Pfizer-BioNTech vaccine full approval on August 23 and authorised it for children aged 5 through 11 on October 29.",
+    "A winter storm from February 13 to 17 caused over 9,724,000 power outages across 13 states and pushed the Southwest Power Pool to declare an energy emergency. The Champlain Towers South condominium in Surfside, Florida, collapsed on June 24, leaving 98 dead. Hurricane Ida came ashore at New Orleans on August 29 after wrecking parts of Venezuela. A crowd crush at Travis Scott's Astroworld Festival in Houston on November 5 killed 10 people and injured more than 300.",
+    "Haitian president Jovenel Moise was shot dead at his home on July 7, and a magnitude 7.2 earthquake killed more than 2,500 people in the country on August 14. The G7 agreed on June 5 to a global minimum corporate tax rate of 15 percent. Barbados became a republic on November 30, the 55th anniversary of its independence, and stayed in the Commonwealth. The World Health Organization endorsed the first malaria vaccine on October 6, and the UN Environment Programme said on August 30 that leaded petrol had gone out of road use worldwide, a century after it was introduced."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.capitol_attack",
+    "world.covid_vaccination",
+    "world.afghanistan",
+    "film.gross#0",
+    "tech.spaceflight#0",
+    "sports.olympics",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Donald Trump (R) until January 20, then Joe Biden (D)",
+      "detail": "Biden was sworn in as the 46th president on January 20 and Kamala Harris became the first woman, the first Asian American and the first African American to hold the vice presidency. Trump was the first outgoing president to boycott his successor's inauguration since Andrew Johnson in 1869. Biden's first executive orders that day rejoined the Paris Agreement and the World Health Organization, repealed the travel bans, ended funding for the border wall and revoked the Keystone XL permit.",
+      "date": "2021-01-20",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "pol.capitol_attack": {
+      "section": "politics",
+      "label": "Attack on the United States Capitol",
+      "value": "Supporters of President Donald Trump stormed the Capitol and forced Congress to evacuate during the count of electoral votes",
+      "detail": "Five people died. The US year page says at least 56 police officers and five civilians were injured, and the world year page classifies the event as a domestic terrorist attack. Congress reconvened and certified Joe Biden on the morning of January 7. Senator Ted Cruz and Representative Paul Gosar had objected to Arizona's results, the first forced vote on an objection since 2004, and Representative Scott Perry and Senator Josh Hawley then objected to Pennsylvania's.",
+      "date": "2021-01-06",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "pol.impeachment": {
+      "section": "politics",
+      "label": "Second impeachment of Donald Trump",
+      "value": "The House impeached him 232 to 197, making him the first US president impeached twice",
+      "detail": "The Senate trial opened on February 9 and acquitted him on February 13 by 57 to 43, ten votes short of the two-thirds needed to convict.",
+      "date": "2021-01-13",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "117th Congress, seated January 3, with Nancy Pelosi as Speaker",
+      "detail": "Mitch McConnell was Senate majority leader until January 20 and Chuck Schumer from January 20. Two Georgia runoffs on January 5 decided both of that state's Senate seats, Kelly Loeffler against Raphael Warnock and David Perdue against Jon Ossoff. Kamala Harris resigned her California Senate seat on January 18 and Alex Padilla succeeded her, the first Latino to represent the state in the Senate.",
+      "date": "2021-01-03",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "pol.american_rescue_plan": {
+      "section": "politics",
+      "label": "American Rescue Plan Act",
+      "value": "A $1.9 trillion pandemic relief package, passed by the House 220 to 211 and signed the next day",
+      "detail": "The Senate had cleared the way on February 5 with a budget resolution carried 50 to 50 on Kamala Harris's tie-breaking vote, passed the bill itself on March 6, and the House sent the final version to the president on March 10.",
+      "date": "2021-03-10",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "pol.infrastructure": {
+      "section": "politics",
+      "label": "Infrastructure Investment and Jobs Act",
+      "value": "President Biden signed the $1.2 trillion bipartisan infrastructure bill into law",
+      "detail": "He had announced a deal with senators on June 24. The Senate passed it 69 to 30 on August 10 and the House 228 to 206 on November 5.",
+      "date": "2021-11-15",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "pol.chauvin": {
+      "section": "politics",
+      "label": "Derek Chauvin convicted",
+      "value": "The former Minneapolis police officer was found guilty on all counts in the murder of George Floyd",
+      "detail": "Jury selection began March 8 and opening statements March 29. He was sentenced on June 25 to 22.5 years. Floyd's family settled their lawsuit against the city of Minneapolis for $27 million on March 12.",
+      "date": "2021-04-20",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "world.covid_deaths": {
+      "section": "world",
+      "label": "Recorded COVID-19 deaths worldwide",
+      "value": "Past 2 million on January 15, 3 million on April 17, 4 million on July 8 and 5 million on November 1",
+      "detail": "Confirmed cases passed 100 million worldwide on January 26 and 200 million on August 4. The US year page puts the American toll past 400,000 on January 19, 500,000 on February 22 and 600,000 on June 15, and calls the last figure equal to the country's annual cancer deaths.",
+      "date": "2021-11-01",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "world.covid_vaccination": {
+      "section": "world",
+      "label": "COVID-19 vaccine doses given worldwide",
+      "value": "Past 100 million on February 1, 1 billion on April 24 and 3 billion on June 29",
+      "detail": "The world year page says over half the first billion doses went into arms in three countries, the United States, China and India. COVAX made its first delivery on February 24.",
+      "date": "2021-06-29",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "world.afghanistan": {
+      "section": "world",
+      "label": "Afghanistan",
+      "value": "The Taliban captured Kabul on August 15 and the Afghan government surrendered",
+      "detail": "A suicide bombing at Kabul airport on August 26 killed at least 182 people, among them 13 US service members. The last American troops left Hamid Karzai International Airport on August 30, ending 20 years of operations in the country.",
+      "date": "2021-08-15",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "world.suez_blockage": {
+      "section": "world",
+      "label": "Ever Given blocks the Suez Canal",
+      "value": "One of the largest container ships in the world ran aground and obstructed the canal, holding up international shipping for six days",
+      "date": "2021-03-23",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "world.cop26": {
+      "section": "world",
+      "label": "United Nations Climate Change Conference",
+      "value": "The 26th conference was held in Glasgow from October 31 to November 13, a year after its scheduled date",
+      "detail": "It had been postponed because of the pandemic.",
+      "date": "2021-10-31",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "world.omicron": {
+      "section": "world",
+      "label": "Omicron variant",
+      "value": "The World Health Organization convened an emergency meeting in Geneva over a heavily mutated variant first identified in South Africa",
+      "detail": "The world year page says it appeared more infectious than Delta.",
+      "date": "2021-11-26",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Spider-Man: No Way Home, $1,921,426,073, Sony",
+        "The Battle at Lake Changjin, $909,596,236, Bona",
+        "Hi, Mom, $841,674,419, Lian Ray",
+        "No Time to Die, $774,253,007, MGM and Universal",
+        "F9, $726,229,501, Universal",
+        "Detective Chinatown 3, $686,257,563, Warner Bros. and Wanda"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says. No Way Home reached cinemas in mid-December, so its figure is a lifetime total that carried on accruing after the year ended. It was the 48th film to pass a billion dollars worldwide and the highest-grossing film never released in China. The Battle at Lake Changjin became the highest-grossing non-English film ever made, Hi, Mom the highest-grossing film by a solo female director, and Detective Chinatown 3 set the record for the biggest opening weekend in a single territory.",
+      "source": "https://en.wikipedia.org/wiki/2021_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "CODA, produced by Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger",
+      "detail": "Awarded the following March at the 94th Academy Awards, hosted by Regina Hall, Amy Schumer and Wanda Sykes at the Dolby Theatre, the first three-host ceremony since the 59th in 1987. CODA won all three of the awards it was nominated for, the fewest nominations for a Best Picture winner since Grand Hotel, and was the first Best Picture winner distributed by a streaming service and the first with a primarily deaf cast. The Power of the Dog led the field with twelve nominations and Dune won six awards, more than any other film. The telecast on ABC averaged 16.62 million viewers.",
+      "source": "https://en.wikipedia.org/wiki/94th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Will Smith, King Richard",
+        "Best Actress, Jessica Chastain, The Eyes of Tammy Faye",
+        "Best Supporting Actor, Troy Kotsur, CODA",
+        "Best Supporting Actress, Ariana DeBose, West Side Story"
+      ],
+      "detail": "Kotsur was the first deaf man and the second deaf performer to win an acting award, after Marlee Matlin. Jane Campion took Best Director for The Power of the Dog, the third woman to win it and the first woman nominated for it twice. Hans Zimmer won Best Original Score for Dune, and Billie Eilish and Finneas O'Connell Best Original Song for No Time to Die.",
+      "source": "https://en.wikipedia.org/wiki/94th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best International Feature Film",
+      "value": [
+        "Drive My Car, Japan, in Japanese, directed by Ryusuke Hamaguchi, the winner",
+        "Flee, Denmark, in Danish, directed by Jonas Poher Rasmussen",
+        "The Hand of God, Italy, in Italian, directed by Paolo Sorrentino",
+        "Lunana: A Yak in the Classroom, Bhutan"
+      ],
+      "detail": "Flee was the first film nominated for Best Animated Feature, Best International Feature Film and Best Documentary Feature in the same year. The film page gives the festival prizes: the Palme d'Or at the 74th Cannes Film Festival to Julia Ducournau's Titane, the Golden Lion at the 78th Venice International Film Festival to Audrey Diwan's Happening, and the Golden Bear at the 71st Berlin International Film Festival to Radu Jude's Bad Luck Banging or Loony Porn.",
+      "source": "https://en.wikipedia.org/wiki/94th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$10.17",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a cinema, at roughly two fifths of the pre-pandemic rate. Theatres in the United States and Canada took an estimated $4.55 billion, double the previous year's $2.28 billion and 60 percent below the $11.4 billion of 2019.",
+      "detail": "The global box office finished at $21.4 billion, up 78 percent, and China was the biggest single country at $7.3 billion. Richard Brody wrote in The New Yorker in December that the reopening had brought many great films back to the big screen but fewer people to see them, and that a film released online usually registered as a nonevent however accessible it was. No cached page for the year gives a subscription figure for any home service.",
+      "source": "https://en.wikipedia.org/wiki/2021_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2021",
+      "value": [
+        "Sunday Night Football, NBC, 18.00",
+        "Thursday Night Football, FOX, 15.40",
+        "NCIS, CBS, 10.90",
+        "FBI, CBS, 10.29",
+        "Chicago Fire, NBC, 9.81"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Blue Bloods was sixth on 9.78, The Equalizer seventh on 9.42, Young Sheldon eighth on 9.21, 60 Minutes ninth on 9.19 and Chicago P.D. tenth on 9.15. The source table heads the column Rating. The cache holds no ratings page for this season, so the figures come from the by-season summary article instead.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "73rd Primetime Emmy Awards",
+      "value": "The Crown won Outstanding Drama Series, Ted Lasso Outstanding Comedy Series and The Queen's Gambit the limited series award",
+      "detail": "Broadcast on CBS with Cedric the Entertainer hosting. Netflix took 10 Emmys on the night and a record-tying 44 counting the Creative Arts ceremony the weekend before. Ted Lasso brought Apple TV+ the comedy award.",
+      "date": "2021-09-19",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "tv.streaming_launches": {
+      "section": "tv",
+      "label": "Streaming services",
+      "value": [
+        "Discovery+, January 4, originals and archive from the Discovery networks plus some A&E programming",
+        "DC Universe closed on January 21 and became a comics subscription, its original series moving to HBO Max",
+        "WWE Network folded into Peacock in the United States on March 18"
+      ],
+      "detail": "AT&T and Discovery agreed on May 17 to merge WarnerMedia, which held HBO, HBO Max, Warner Bros., CNN and TBS, with Discovery's networks under David Zaslav.",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "tv.nfl_rights": {
+      "section": "tv",
+      "label": "NFL television deals",
+      "value": "The league announced new contracts keeping Sunday afternoons on CBS and Fox and Sunday Night Football on NBC, and giving Amazon Prime Video exclusive rights to Thursday Night Football",
+      "detail": "Thursday night moves off Fox and the NFL Network. ESPN's Monday Night Football gains doubleheaders shared with ABC. The television page dates the deals to March and Amazon's exclusivity was later pulled forward by a year.",
+      "date": "2021-03-18",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "tv.jeopardy": {
+      "section": "tv",
+      "label": "Alex Trebek's last Jeopardy!",
+      "value": "His final episode aired after 36 years, recorded ten days before his death the previous November",
+      "detail": "Ken Jennings took over as temporary host on January 11 and a run of guest hosts followed for the rest of the season. Sony Pictures Television named Mike Richards for the daily syndicated show and Mayim Bialik for primetime on August 11.",
+      "date": "2021-01-08",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Levitating, Dua Lipa",
+      "detail": "It topped the year-end list without ever topping the weekly chart, where it peaked at two, the first song to do that since Lifehouse's Hanging by a Moment in 2001. Save Your Tears by The Weeknd and Ariana Grande came second and Blinding Lights by The Weeknd third. Doja Cat, Justin Bieber and Drake tied for the most songs on the list with six each.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2021"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard built the Hot 100 from physical and digital single sales, radio airplay and streaming together, compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on December 2 from data running from November 21, 2020 to November 13. Billboard crowned Blinding Lights the most successful Hot 100 single of all time in November, displacing Chubby Checker's The Twist. Olivia Rodrigo was named the year's top Hot 100 artist, the youngest woman to take that title, with four songs on the list and all of them inside the top 40.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2021"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "63rd Grammy Awards",
+      "value": "Record of the Year to Everything I Wanted by Billie Eilish, Album to Folklore by Taylor Swift, Song to I Can't Breathe by H.E.R. and Best New Artist to Megan Thee Stallion",
+      "detail": "Broadcast on CBS with Trevor Noah hosting. The ceremony had been set for January 31 and was moved to March after a surge in COVID-19 hospitalisations in Los Angeles County. The awards honoured the previous year's recordings.",
+      "date": "2021-03-14",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "Foo Fighters",
+        "The Go-Go's",
+        "Jay-Z",
+        "Carole King",
+        "Todd Rundgren",
+        "Tina Turner"
+      ],
+      "detail": "The music page gives no ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/2021_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Italy won with Zitti e buoni by Maneskin, at the contest held in Rotterdam from May 18 to 22",
+      "detail": "The previous year's contest had been cancelled. Peacock carried the semi-finals and the final live, the first time the whole contest was streamed in the United States.",
+      "date": "2021-05-22",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "NASA's Perseverance rover and its Ingenuity helicopter landed at Jezero Crater on Mars on February 18 after seven months in transit",
+        "Ingenuity made the first powered flight on another planet on April 19",
+        "China launched the Tianhe module of its space station on April 29, landed the Zhurong rover on Mars on May 14 and sent up its first three station crew on June 17",
+        "Blue Origin flew its first crew on a reusable New Shepard on July 19, four people including its founder Jeff Bezos",
+        "Inspiration4 launched on September 16, the first all-civilian spaceflight, three days in orbit",
+        "The James Webb Space Telescope was launched on December 25"
+      ],
+      "detail": "The Hope orbiter reached Mars on February 9, the first Arabian mission to do so. NASA launched Lucy on October 16 to visit the Trojan asteroids and DART on November 24 to try deflecting one. Russia's Nauka laboratory docked with the International Space Station on July 29 after a difficult flight, and a Russian anti-satellite weapon test on November 16 drew international condemnation.",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "tech.windows_11": {
+      "section": "tech",
+      "label": "Windows 11",
+      "value": "Microsoft released the desktop operating system",
+      "detail": "The world year page carries the release in one line and says nothing about uptake or reception.",
+      "date": "2021-10-05",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "Facebook becomes Meta",
+      "value": "Mark Zuckerberg announced that Facebook, Inc., owner of Facebook, Instagram, WhatsApp and Oculus, would rebrand as Meta Platforms",
+      "detail": "The company had banned Donald Trump from its platforms indefinitely on January 7 over his role in the Capitol attack.",
+      "date": "2021-10-28",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "tech.crypto": {
+      "section": "tech",
+      "label": "El Salvador adopts Bitcoin",
+      "value": "The country became the first to accept the cryptocurrency as legal tender, alongside the US dollar",
+      "detail": "The Legislative Assembly passed the law on June 9 and it took effect on September 7.",
+      "date": "2021-09-07",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Disco Elysium: The Final Cut, ZA/UM, October 15, on Windows, scoring 97",
+        "The House in Fata Morgana: Dreams of the Revenants Edition, Novectacle, April 9, on the Nintendo Switch, 96",
+        "Tetris Effect: Connected, Enhance Games, October 8, on Windows, 94",
+        "Hades, Supergiant Games, August 13, on the PlayStation 5 and Xbox Series X and S, 93",
+        "Forza Horizon 5, Playground Games, November 5, on the Xbox Series X and S, 92",
+        "Psychonauts 2, Double Fine, August 25, on the Xbox One, 91",
+        "Battlefield 2042, fifth on the year's US best-seller list"
+      ],
+      "detail": "Scores and dates from the games page's table of releases rated 90 or higher on Metacritic, which gives the date of the platform scored rather than a title's first appearance anywhere. Newzoo put the global games market at $180.3 billion, up 1.4 percent, with 52 percent of it mobile, 28 percent console and 20 percent computer, and named China the largest market at $46.01 billion and the United States second at $40.54 billion. It Takes Two won Game of the Year at The Game Awards on December 9 and Resident Evil Village at the 39th Golden Joystick Awards on November 23. Best sellers were Call of Duty: Vanguard in the United States, Monster Hunter Rise in Japan and FIFA 22 in Europe. Nintendo released a Switch with an OLED screen on October 8. California's Department of Fair Employment and Housing sued Activision Blizzard on July 20 after a two-year investigation, and thousands of employees signed an open letter and walked out.",
+      "source": "https://en.wikipedia.org/wiki/2021_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.05 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "6.4 percent in January, 3.9 percent in December",
+      "detail": "Seasonally adjusted, all civilian workers aged 16 and over. It fell below 6 percent in June and below 5 percent in October.",
+      "source": "https://data.bls.gov/timeseries/LNS14000000"
+    },
+    "prices.inflation": {
+      "section": "prices",
+      "label": "US consumer price inflation",
+      "value": "1.4 percent over the twelve months to January, 7.0 percent over the twelve months to December",
+      "detail": "Consumer Price Index for All Urban Consumers, US city average, all items, not seasonally adjusted. The twelve-month changes are computed from the index levels the Bureau of Labor Statistics publishes for that series. The Biden administration announced a release of 50 million barrels from the Strategic Petroleum Reserve on November 23 to bring prices down, the largest such release to that point.",
+      "source": "https://data.bls.gov/timeseries/CUUR0000SA0"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A second pandemic year argued over in terms of vaccines and mandates rather than lockdowns, opening with a mob inside the Capitol and closing with a new variant out of southern Africa and another round of cancelled plans."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Abdulrazak Gurnah",
+        "Peace, Maria Ressa and Dmitry Muratov",
+        "Physics, Syukuro Manabe, Klaus Hasselmann and Giorgio Parisi",
+        "Chemistry, Benjamin List and David MacMillan",
+        "Medicine, David Julius and Ardem Patapoutian",
+        "Economics, David Card, Joshua Angrist and Guido Imbens"
+      ],
+      "detail": "The year page gives no ceremony dates, only the announcements between October 4 and October 11.",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "culture.public_domain": {
+      "section": "culture",
+      "label": "Public Domain Day",
+      "value": "Every book and film published in 1925 entered the public domain in the United States",
+      "date": "2021-01-01",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LV",
+      "value": "Tampa Bay Buccaneers 31, Kansas City Chiefs 9",
+      "detail": "The first team to play a Super Bowl in its own stadium, and the first wildcard team to win one since Green Bay in the 2010 season. Tom Brady took his seventh title. Tampa Bay had reached the game with a 31 to 26 win over Green Bay on January 24.",
+      "date": "2021-02-07",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Atlanta Braves beat the Houston Astros",
+      "detail": "The sports page dates the series to October 26. The US year page records the clinching game on November 2.",
+      "date": "2021-11-02",
+      "source": "https://en.wikipedia.org/wiki/2021_in_the_United_States"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Tokyo from July 23 to August 8, a year after the dates they were scheduled for",
+      "detail": "The postponement was made because of the pandemic and the Games kept their original name. The Paralympics followed in Tokyo from August 24 to September 5. The Belarusian sprinter Krystsina Tsimanouskaya was granted a humanitarian visa by Poland after her coaches tried to fly her home against her will, and the IOC expelled the two coaches from the Olympic Village.",
+      "date": "2021-07-23",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Milwaukee Bucks over the Phoenix Suns in six games on July 20, a first title since 1971",
+        "Stanley Cup, Tampa Bay Lightning over the Montreal Canadiens four games to one on July 7, a second in a row",
+        "UEFA Champions League, Chelsea beat Manchester City 1 to 0 in the final on May 29",
+        "European Championship, Italy beat England on penalties in the final on July 11, at a tournament hosted by 11 countries from June 11"
+      ],
+      "detail": "The football tournament had also been postponed by a year and kept its original name. Dublin was dropped as a host on April 23 because it could not guarantee spectators.",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "sports.formula_one": {
+      "section": "sports",
+      "label": "Formula One",
+      "value": "Max Verstappen won his first world championship, the first Dutch driver to take the title",
+      "detail": "Lewis Hamilton had won his 100th Grand Prix on September 26, the first driver to reach that mark.",
+      "date": "2021-12-12",
+      "source": "https://en.wikipedia.org/wiki/2021"
+    },
+    "deaths.philip": {
+      "section": "deaths",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "value": "Died April 9 at Windsor Castle, aged 99",
+      "detail": "Husband of Queen Elizabeth II and consort from her accession in 1952, the longest-serving royal consort in British history. Born June 10, 1921. None of the ten cached pages carries his death, so this fact cites his own article.",
+      "date": "2021-04-09",
+      "source": "https://en.wikipedia.org/wiki/Prince_Philip,_Duke_of_Edinburgh"
+    },
+    "deaths.tyson": {
+      "section": "deaths",
+      "label": "Cicely Tyson",
+      "value": "Died January 28, aged 96",
+      "detail": "American actress. The film page names Sounder and The Help.",
+      "date": "2021-01-28",
+      "source": "https://en.wikipedia.org/wiki/2021_in_film"
+    },
+    "deaths.aaron": {
+      "section": "deaths",
+      "label": "Hank Aaron",
+      "value": "Died January 22, aged 86",
+      "detail": "Baseball player. The television page lists him playing himself on Happy Days, MacGyver, Mr. Belvedere, Touched by an Angel and Futurama.",
+      "date": "2021-01-22",
+      "source": "https://en.wikipedia.org/wiki/2021_in_American_television"
+    },
+    "deaths.watts": {
+      "section": "deaths",
+      "label": "Charlie Watts",
+      "value": "Died August 24, aged 80",
+      "detail": "English rock drummer, of The Rolling Stones.",
+      "date": "2021-08-24",
+      "source": "https://en.wikipedia.org/wiki/2021_in_music"
+    },
+    "deaths.sondheim": {
+      "section": "deaths",
+      "label": "Stephen Sondheim",
+      "value": "Died November 26, aged 91",
+      "detail": "American film and theater composer and lyricist.",
+      "date": "2021-11-26",
+      "source": "https://en.wikipedia.org/wiki/2021_in_music"
+    },
+    "deaths.white": {
+      "section": "deaths",
+      "label": "Betty White",
+      "value": "Died December 31, aged 99",
+      "detail": "American actress. The film page names Lake Placid and The Proposal.",
+      "date": "2021-12-31",
+      "source": "https://en.wikipedia.org/wiki/2021_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the ten cached wikitext pages under .sources/2021 plus three dedicated pulls named below. Box office basis. bo.mjs reports GROSS and WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, under a heading reading Highest-grossing films of 2021, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Spider-Man: No Way Home opened in mid-December, so its $1,921,426,073 is a lifetime worldwide total that carried on accruing after the year ended rather than a figure earned inside it. Cache gaps and dedicated pulls. The manifest records two pages that did not resolve: Deaths_in_2021, which is a redirect to a list of lists, and Top-rated_United_States_television_programs_of_2021-22, which returned 404 and does not exist under any spelling; the Wikipedia API confirms the title is missing. tv.top_shows therefore cites Top-rated United States television programs by season, whose block for the season beginning in the autumn carries the same table, and says so in its own detail. No cached page mentions the death of Prince Philip at all, which a reader would notice on a 2021 page, so deaths.philip cites his own article and says so in its detail; the date, place, age and the longest-serving consort line all come from that article. No cached page carries an unemployment rate or an inflation figure either, and the year is one where both matter, so prices.unemployment and prices.inflation come from the Bureau of Labor Statistics series LNS14000000 and CUUR0000SA0. The twelve-month CPI changes are computed from the published index levels, which prices.inflation states in its own detail rather than presenting them as a figure the BLS printed in that form. Source disagreements labelled rather than resolved. The February 13 to 17 winter storm is 58 dead in the United States and 12 in Mexico on the US year page and at least 136 dead on the world year page; the power outage count is over 9,724,000 across 13 states on the US page and over 9.9 million on the world page. The texture uses the US page's outage figure and states no death toll, because there is no way to pick between the two. Date checks. January 6 was a Wednesday and January 20 a Wednesday, both consistent with the two pages that carry them, and January 20 is the constitutional inauguration date, so the year page agrees with the constraint and no dedicated article was needed for either. February 7 was a Sunday for Super Bowl LV and November 2 a Tuesday for the World Series clincher, both consistent. No US federal election falls this year. The Capitol attack and the inauguration are written from the two year pages with no editorial framing added in either direction: the counts, the injuries and the classification as domestic terrorism are the pages' own words. Nothing in this file reaches into the following year. The 94th Academy Awards ceremony, its nominations announcement, the Chris Rock and Will Smith incident, the Golden Globes, BAFTA and Critics' Choice ceremonies, the 74th Primetime Emmys, the D.I.C.E. and Game Developers Choice and British Academy Games Awards, and the completion of the WarnerMedia and Discovery merger are all out for that reason. film.best_picture says the following March rather than a date, the corpus convention. The 93rd Academy Awards of April 25 are left out on the same ground other years use, because they honoured the previous year of film and would put a second Best Picture on the page. Names carrying a four-digit number. checkname.mjs was run on Battlefield 2042, the 2020 Summer Olympics, UEFA Euro 2020, Mars 2020, Windows 11, FIFA 22, Madden NFL 22, Forza Horizon 5, Halo Infinite and Final Fantasy XIV: Endwalker. Every one is safe except Battlefield 2042, which fails because 2042 is later than 2021, so it is left out of tech.games even though it was among the year's best-selling premium games in the United States; it is a candidate for the allowlist. The NFL television deals announced on March 18 cover seasons named for years later than this one, so tv.nfl_rights describes what the deals do and drops the season range. The Summer Olympics, the Paralympics and the European Championship all kept the name of the year they were scheduled for, which is earlier than this page year and therefore safe, and each fact says the event ran a year late rather than naming a future edition. src/data/name_years.json was not touched. Diacritics are written in ASCII per the corpus convention, so Maneskin, Jovenel Moise and Krystsina Tsimanouskaya lose theirs. Dropped for lack of a source. No cached page carries a Merriam-Webster word list, a meme, an internet slang term, a website ranking or a vinyl or streaming sales figure, so culture.slang, culture.memes and tech.web_sites are all open and all empty, and music.listening_format claims only what the Billboard page says about how the Hot 100 was compiled. No cached page carries the NFT market, the Beeple sale, the Facebook whistleblower testimony, the Colonial Pipeline attack in the science page, the deaths of Colin Powell, Desmond Tutu, Donald Rumsfeld or Bob Dole, or any home video or disc figure. The 2021 in film page says nothing about day-and-date streaming releases, so film.how_people_watched carries the box office totals and the one contemporary quote the page does hold. General knowledge rather than a claim from the cached pages: the whole of culture.mood, which carries no source and no digit. It comes out if challenged. Dropped for room. Politics and world: the Georgia runoff results, the GameStop squeeze, the Parler removals, Elon Musk passing Jeff Bezos, the Texas power crisis, the Surfside collapse, Hurricane Ida, the Astroworld crowd crush, the assassination of Jovenel Moise, the Haiti earthquake, the G7 minimum tax, Barbados becoming a republic, the malaria vaccine endorsement and the leaded petrol announcement are all in the texture instead of facts; the Myanmar, Mali, Guinea and Sudan coups, the Israel and Gaza fighting of May, the Ryanair Flight 4978 diversion, the Ever Given owner's apology, the Pandora Papers, the German and Canadian and Japanese and Chilean elections, Benjamin Netanyahu leaving office, the AUKUS pact, the Colonial Pipeline ransomware attack, the NSO Group spyware investigation, the Gansu ultramarathon disaster, the killing of Daunte Wright, the Atlanta spa shootings, the Boulder supermarket shooting, the NRA bankruptcy filing, the Alex Jones liability finding, the Steve Bannon indictment and the Kyle Rittenhouse and Ghislaine Maxwell trials are out entirely. Television and music: the Conan finale of June 24, the MTV Video Music Awards of September 12, the Billboard Music Awards, the BRIT Awards, the American Music Awards, the Juno Awards, the Mercury Prize, the Pulitzer Prize for Music to Tania Leon's Stride, and the deaths of Larry King, Bob Dole, Phil Spector, Chick Corea, Don Everly, DMX, Michael K. Williams, Christopher Plummer, Cloris Leachman, Ed Asner, Jean-Paul Belmondo and Norm Macdonald, all of which the cache carries. This file runs 52 facts across 10 sections: politics 7, world 6, film 6, tv 5, music 5, tech 5, prices 4, culture 3, sports 5, deaths 6. No radio fact, because the radio window closed after 1959. Review pass added Battlefield 2042 to src/data/name_years.json and restored it to tech.games."
+}

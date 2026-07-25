@@ -1,0 +1,539 @@
+{
+  "year": 2016,
+  "tier": "modern",
+  "headline": "Britain voted to leave the EU, Donald Trump won the November election, and the Cubs ended a 108-year drought",
+  "texture": [
+    "Samsung discontinued the Galaxy Note 7 on October 10 after handsets overheated and caught fire. An attacker aimed denial-of-service traffic at the DNS provider Dyn on October 21 and put Twitter, Reddit, Netflix, Spotify and PayPal out of reach. Yahoo disclosed on December 14 that a breach three years earlier had exposed more than a billion accounts, having already disclosed a smaller one in September. Tesla Motors reported the first known death caused by a self-driving car on June 30. Funai built the last videocassette recorder on July 22.",
+    "Obama declared a federal emergency over the tap water in Flint on January 16. On July 7 a sniper identified as Micah Xavier Johnson shot five Dallas police officers dead at a Black Lives Matter protest, and police killed him with a C-4 charge carried by a robot, the first time an American police department used lethal force that way. Water cannon, tear gas and rubber bullets were turned on Dakota Access pipeline protesters at Standing Rock on November 20, injuring more than 300, and the Army Corps of Engineers refused the Lake Oahe easement on December 4.",
+    "Obama landed in Cuba on March 21, the first sitting American president on the island since Calvin Coolidge in 1928, and on May 27 became the first to visit Hiroshima. The Brazilian Senate voted 61 to 20 on August 31 to remove Dilma Rousseff, and Michel Temer took the rest of her term. South Korean legislators suspended Park Geun-hye on December 9. India announced on November 8 that certain banknotes would stop being legal tender, and cash ran short for weeks. The Gotthard Base Tunnel opened on June 1 after two decades of digging.",
+    "Leicester City were confirmed Premier League champions on May 2, having opened the season at 5000:1. On the night of April 13 the Golden State Warriors won a 73rd regular-season game, one more than the 1995-96 Chicago Bulls had managed, and Kobe Bryant scored 60 against the Utah Jazz in his last game after twenty years with the Lakers. Harambe, a seventeen-year-old western lowland gorilla, was shot at the Cincinnati Zoo on May 28 after a three-year-old boy climbed into his enclosure."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.brexit",
+    "film.gross#0",
+    "tech.pokemon_go",
+    "sports.world_series",
+    "deaths.bowie",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D)",
+      "detail": "Final year of his second term, with Joe Biden as vice president. He gave his last State of the Union address to the 114th Congress on January 12, and attended his last White House Correspondents' Dinner on April 30.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election, November 8",
+      "value": "Donald Trump was elected the 45th president and Mike Pence the 48th vice president",
+      "detail": "The US year page records Hillary Clinton's popular vote lead as nearly 3 million and says Trump won through the Electoral College, which cast 304 votes for him and 227 for Clinton when it met on December 19. It calls the result one of the most shocking upsets in US history, notes that most news outlets and experts had considered a Trump win unlikely, and states that Trump was the oldest man elected president, at 70, and the first to take the office with no prior political or military service. Faith Spotted Eagle became the first Native American to receive an electoral vote. November 8 was the Tuesday after the first Monday in November, the statutory date for a federal election.",
+      "date": "2016-11-08",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "114th Congress, with Paul Ryan as Speaker and Mitch McConnell as Senate majority leader",
+      "detail": "The Republican Party kept its majorities in both chambers at the November elections. Catherine Cortez Masto became the first Latina senator, Kamala Harris the first Asian American and the second black woman in the Senate, and Ilhan Omar the first Somali American lawmaker.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "pol.supreme_court_vacancy": {
+      "section": "politics",
+      "label": "Supreme Court vacancy",
+      "value": "Justice Antonin Scalia died on February 13 at 79, and Obama nominated Merrick Garland to the seat on March 16",
+      "detail": "The seat was still open at the end of the year. John Roberts was chief justice throughout, and the US year page records no vote on the nomination.",
+      "date": "2016-02-13",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "pol.orlando": {
+      "section": "politics",
+      "label": "Pulse nightclub shooting",
+      "value": "Omar Mateen, aged 29, killed 49 people and wounded 53 at a gay dance club in Orlando",
+      "detail": "The world year page says the gunman claimed allegiance to the Islamic State. The US year page says the attack passed the Virginia Tech shootings of 2007 as the deadliest mass shooting in US history and that it was investigated as domestic terrorism. Senator Chris Murphy filibustered for nearly fifteen hours on June 15 and 16 in response, and ended when the Senate agreed to vote on universal background checks and on barring gun sales to people on terrorism watch lists.",
+      "date": "2016-06-12",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "pol.police_killings": {
+      "section": "politics",
+      "label": "Two police shootings filmed a day apart",
+      "value": "Alton Sterling was shot outside a convenience store in Baton Rouge on July 5, and Philando Castile at a traffic stop in Falcon Heights, Minnesota, on July 6",
+      "detail": "Bystanders recorded Sterling on several phones and the US year page says the footage sparked wide outrage. Castile was 32 and was stopped in a car. The Justice Department opened a federal investigation into the first, and Governor Mark Dayton asked it to look at the second.",
+      "date": "2016-07-05",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "world.brexit": {
+      "section": "world",
+      "label": "United Kingdom referendum on European Union membership",
+      "value": "The country voted to leave",
+      "detail": "The world year page carries the result in a single line and gives no vote share, no turnout and no reaction. None of the eleven cached pages names a prime minister, before or after.",
+      "date": "2016-06-23",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "world.aleppo": {
+      "section": "world",
+      "label": "Aleppo retaken",
+      "value": "The Syrian army declared complete control of the city on December 22, ending a battle that had run since July 2012",
+      "detail": "A four-year stalemate broke in July when government troops closed the rebels' last supply line into the city with Russian air support. Rebel counteroffensives in September and October failed, and a November campaign took the rest of the city. Evacuation convoys of civilians and fighters started on December 15, stalled twice, and finished on December 22. None of the eleven cached pages for the year mentions Aleppo at all, so this fact cites the battle's own article.",
+      "date": "2016-12-22",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_(2012%E2%80%932016)"
+    },
+    "world.castro": {
+      "section": "world",
+      "label": "Fidel Castro died",
+      "value": "The former first secretary of the Communist Party of Cuba died in his sleep on the evening of November 25, aged 90",
+      "detail": "His brother Raul Castro announced the death on state television. The Council of State declared nine days of national mourning, from the morning of November 26 to midday on December 4. The body was cremated on November 26 and the ashes interred at Santiago de Cuba on December 4. None of the eleven cached pages for the year mentions Castro at all, so this fact cites the event's own article.",
+      "date": "2016-11-25",
+      "source": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Fidel_Castro"
+    },
+    "world.attacks": {
+      "section": "world",
+      "label": "Attacks in Europe and Turkey",
+      "value": [
+        "Istanbul, January 12, a bombing near the Blue Mosque killed ten people and wounded fifteen",
+        "Brussels, March 22, suicide bombings at Zaventem airport and Maalbeek metro station killed 35 and injured 300",
+        "Istanbul, June 28, an attack on Ataturk Airport killed 44 and injured over 230, suspected of ISIL",
+        "Nice, July 14, a truck driven into the Bastille Day crowd killed 86 and injured more than 400",
+        "Berlin, December 19, a truck driven into the Christmas market at Breitscheidplatz killed 12 and injured 56"
+      ],
+      "detail": "All five come from the world year page's dated entries, which name a suspected perpetrator only for the Istanbul airport attack.",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "world.turkey_coup": {
+      "section": "world",
+      "label": "Attempted coup in Turkey",
+      "value": "A faction of the armed forces calling itself the Peace at Home Council failed to seize the state institutions on July 15 and 16",
+      "detail": "At least 240 people died, and the world year page says the attempt triggered a series of purges throughout the country that it describes as unprecedented.",
+      "date": "2016-07-15",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "world.panama_papers": {
+      "section": "world",
+      "label": "Panama Papers published",
+      "value": "11.5 million confidential documents from the Panamanian firm Mossack Fonseca, covering more than 214,000 offshore companies",
+      "detail": "Published by the International Consortium of Investigative Journalists with the German newspaper Sueddeutsche Zeitung, and including the identities of shareholders and directors among them heads of state.",
+      "date": "2016-04-03",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "world.zika": {
+      "section": "world",
+      "label": "Zika virus outbreak",
+      "value": "The World Health Organization announced the outbreak on January 28",
+      "detail": "The US year page says the Centers for Disease Control and Prevention confirmed on April 13 that the virus causes birth defects, and reported the first US-related death from it on April 29, an elderly man in Puerto Rico.",
+      "date": "2016-01-28",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Captain America: Civil War, $1,153,296,293, Disney",
+        "Rogue One: A Star Wars Story, $1,056,057,273, Disney",
+        "Finding Dory, $1,028,570,889, Disney",
+        "Zootopia, $1,025,784,195, Disney",
+        "The Jungle Book, $966,550,600, Disney"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header and the sentence above it both say. Disney held all five top places, the first studio to do so in one year, and the first since at least 1913 to hold the three highest-grossing films in the United States. Four of its films passed a billion dollars, beating Universal's record of three set the year before, and it became the first studio to take more than $7 billion at the global box office, past Universal's $6.9 billion in 2015. Finding Dory and Zootopia were the first two animated films to pass a billion in the same year.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Moonlight, produced by Adele Romanski, Dede Gardner and Jeremy Kleiner",
+      "detail": "Awarded the following February at the 89th Academy Awards. Warren Beatty and Faye Dunaway were handed the wrong envelope, Dunaway read out La La Land, and its producers were more than two minutes into their speeches before crew came on stage and took the envelopes back. Producer Fred Berger ended his speech with the words we lost, by the way, and producer Jordan Horowitz announced the error himself and held the correct card up to the camera. La La Land had 14 nominations and won 6, Moonlight had 8 and won 3.",
+      "source": "https://en.wikipedia.org/wiki/89th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Casey Affleck, Manchester by the Sea",
+        "Best Actress, Emma Stone, La La Land",
+        "Best Supporting Actor, Mahershala Ali, Moonlight",
+        "Best Supporting Actress, Viola Davis, Fences"
+      ],
+      "detail": "Damien Chazelle took Best Director for La La Land, Kenneth Lonergan Best Original Screenplay for Manchester by the Sea and Barry Jenkins Best Adapted Screenplay for Moonlight. The Academy's page counts a record-tying seven non-white acting nominees and a record six black ones, with black actors in every acting category for the first time in its history, after two years of criticism over all-white nominee lists.",
+      "source": "https://en.wikipedia.org/wiki/89th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "The Salesman, Iran, in Persian, directed by Asghar Farhadi, the winner",
+        "Land of Mine, Denmark, in Danish, directed by Martin Zandvliet",
+        "A Man Called Ove, Sweden, in Swedish, directed by Hannes Holm",
+        "Tanna, Australia, in Nauvhal, directed by Martin Butler and Bentley Dean",
+        "Toni Erdmann, Germany, in German, directed by Maren Ade"
+      ],
+      "detail": "The film page gives the festival prizes: the Palme d'Or at the 69th Cannes Film Festival to Ken Loach's I, Daniel Blake, the Golden Lion at the 73rd Venice International Film Festival to Lav Diaz's The Woman Who Left, and the Golden Bear at the 66th Berlin International Film Festival to Gianfranco Rosi's Fire at Sea.",
+      "source": "https://en.wikipedia.org/wiki/89th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$8.65",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Ten films passed $700 million worldwide, the first year with that many, thirteen passed $600 million and sixteen passed $500 million.",
+      "detail": "None of the eleven cached pages describes a disc format, a rental figure or a subscription service for films, and the film page ranks the year by worldwide gross without a word about home viewing. The only distribution change it records is Comcast's NBCUniversal completing its $3.8 billion purchase of DreamWorks Animation on August 22.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2016",
+      "value": [
+        "The Big Bang Theory, CBS, 11.5 rating",
+        "NCIS, CBS, 11.4",
+        "Sunday Night Football, NBC, 11.1",
+        "Thursday Night Football, CBS and NBC, 9.6",
+        "Bull, CBS, 9.6"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. This Is Us was sixth on 9.4, Blue Bloods seventh on 8.9, NCIS: New Orleans eighth on 8.5, Dancing with the Stars ninth on 8.1 and NCIS: Los Angeles tenth on 7.8.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2016%E2%80%9317"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Billions, Showtime, January 17",
+        "American Crime Story, FX, February 2",
+        "Full Frontal with Samantha Bee, TBS, February 8",
+        "Fuller House, Netflix, February 26",
+        "Stranger Things, Netflix, July 15",
+        "Atlanta, FX, September 6",
+        "This Is Us, NBC, September 20",
+        "Luke Cage, Netflix, September 30",
+        "Westworld, HBO, October 2",
+        "Insecure, HBO, October 9",
+        "The Crown, Netflix, November 4"
+      ],
+      "detail": "Dates and channels from the television page's debut table.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "American Idol, Fox, April 7, after fifteen seasons, with Trent Harmon the last winner",
+        "The Good Wife, CBS, May 8, on air since 2009",
+        "Castle, ABC, May 16, on air since 2009",
+        "Person of Interest, CBS, June 21, on air since 2011",
+        "The Nightly Show with Larry Wilmore, Comedy Central, August 18, cancelled after a year and a half"
+      ],
+      "detail": "End dates, channels and first-aired years from the television page's ending table, except the American Idol detail, which is the US year page's.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_American_television"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "68th Primetime Emmy Awards",
+      "value": "Game of Thrones won outstanding drama series and Veep outstanding comedy series, both repeating",
+      "detail": "Broadcast on ABC with Jimmy Kimmel hosting, and the US year page places it at the Microsoft Theater in Los Angeles. The People v. O. J. Simpson: American Crime Story led the night with five awards, including outstanding limited series. Rami Malek won lead drama actor for Mr. Robot and Tatiana Maslany lead drama actress for Orphan Black, both for the first time.",
+      "date": "2016-09-18",
+      "source": "https://en.wikipedia.org/wiki/2016_in_American_television"
+    },
+    "tv.debate_audience": {
+      "section": "tv",
+      "label": "First presidential debate on television",
+      "value": "Hofstra University hosted it on September 26, and the cached pages disagree on how many people watched",
+      "detail": "The television page gives an estimated record of 84 million across 13 networks, past the 81 million who watched a Carter and Reagan debate in 1980. The US year page says an estimated audience of up to 100 million. Neither figure is resolved here. The Trump campaign had objected that this date and the October 9 debate at Washington University in St. Louis fell opposite primetime NFL games, and the Commission on Presidential Debates, which had set the dates a year ahead, kept them.",
+      "date": "2016-09-26",
+      "source": "https://en.wikipedia.org/wiki/2016_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Love Yourself, Justin Bieber",
+      "detail": "Bieber's Sorry came second, Drake's One Dance third and Rihanna's Work fourth, the first time two artists had taken the top four places since Lady Gaga and The Black Eyed Peas in 2009. Bieber became the third artist with both of the top two, after the Beatles in 1964 and Usher in 2004. Drake had eight songs on the list, more than anyone else. For the first time in ten years the year-end number one had spent five weeks or fewer at the top of the weekly chart.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2016"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard built the Hot 100 from physical and digital single sales, radio airplay and streaming together, compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on December 8 from data running from December 5, 2015 to November 26. The television page adds that Kanye West announced on Saturday Night Live on February 13 that The Life of Pablo would be released only on Tidal, and that the album reached competing services from April. No cached page for the year gives a sales figure for any format.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2016"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "58th Grammy Awards",
+      "value": "Uptown Funk by Mark Ronson featuring Bruno Mars won Record of the Year",
+      "detail": "Taylor Swift won Album of the Year for 1989, Ed Sheeran and Amy Wadge Song of the Year for Thinking Out Loud, and Meghan Trainor Best New Artist. The awards honoured the previous year's recordings.",
+      "date": "2016-02-15",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "Cheap Trick",
+        "Chicago",
+        "Deep Purple",
+        "N.W.A",
+        "Steve Miller"
+      ],
+      "detail": "The music page gives no ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_music"
+    },
+    "music.beyonce": {
+      "section": "music",
+      "label": "Lemonade",
+      "value": "Beyonce released her sixth studio album on April 23",
+      "detail": "Formation took video of the year and Hold Up best female video at the MTV Video Music Awards. The music page's awards table also names Adele artist of the year at the Billboard Music Awards, with 25 the top Billboard 200 album, and See You Again by Wiz Khalifa the top Hot 100 song there.",
+      "date": "2016-04-23",
+      "source": "https://en.wikipedia.org/wiki/2016_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Jamala won for Ukraine with 1944, at the contest held in Stockholm from May 10 to 14",
+      "date": "2016-05-14",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "tech.gravitational_waves": {
+      "section": "tech",
+      "label": "Gravitational waves announced",
+      "value": "Scientists at LIGO, Virgo and GEO600 reported the first direct detection of a gravitational wave, predicted by Einstein's general relativity",
+      "detail": "The signal came from the collision and merger of two black holes.",
+      "date": "2016-02-11",
+      "source": "https://en.wikipedia.org/wiki/2016_in_science"
+    },
+    "tech.alphago": {
+      "section": "tech",
+      "label": "AlphaGo beat a professional Go player",
+      "value": "Google DeepMind's program beat Lee Se-dol of South Korea in the first of a series of games in Seoul on March 9",
+      "detail": "Google had announced on January 27 that the program could beat the European champion. The science page carries no result for the rest of the series.",
+      "date": "2016-03-09",
+      "source": "https://en.wikipedia.org/wiki/2016_in_science"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "SpaceX landed the first stage of a Falcon 9 on a floating drone ship on April 8, the first time that was done",
+        "Juno entered orbit around Jupiter and began a twenty-month survey, dated July 4 by the science and US year pages and July 5 by the world year page",
+        "OSIRIS-REx launched on September 8, NASA's first asteroid sample return mission",
+        "ExoMars Trace Gas Orbiter launched from Baikonur on March 14, a joint ESA and Roscosmos mission"
+      ],
+      "detail": "Astronomers announced Proxima b on August 24, an Earth-sized planet in the habitable zone of Proxima Centauri, the closest star to the Sun. Scott Kelly and Mikhail Korniyenko returned on March 1 after 340 days aboard the International Space Station, a station record.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_science"
+    },
+    "tech.pokemon_go": {
+      "section": "tech",
+      "label": "Pokemon Go",
+      "value": "The augmented reality mobile game was released on July 6 and took about $950 million in digital revenue during the year",
+      "detail": "The games page ranks it ninth among the year's highest-grossing games and credits it, with Clash Royale, for much of the $41 billion attributed to mobile gaming. It won the mobile award and the innovation award at the 34th Golden Joystick Awards on November 18, and the mobile award at The Game Awards on December 1. The page says augmented reality became mainstream with it.",
+      "date": "2016-07-06",
+      "source": "https://en.wikipedia.org/wiki/2016_in_video_games"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Dark Souls III, Bandai Namco Entertainment, March 24",
+        "Uncharted 4: A Thief's End, Sony Interactive Entertainment, May 10",
+        "Overwatch, Blizzard Entertainment, May 24",
+        "Inside, Playdead, June 29",
+        "Forza Horizon 3, Microsoft Studios, September 27"
+      ],
+      "detail": "Dates from the games page's table of titles scoring at least 90 on Metacritic. Overwatch took Game of the Year at The Game Awards on December 1 and Dark Souls III at the 34th Golden Joystick Awards on November 18. SuperData put the global software market at $91 billion, of which $41 billion was mobile, $34 billion computer, $26 billion console retail and $6.6 billion console downloads. Newzoo credited $70.4 billion of it to the top 25 listed companies, led by Tencent on $10.2 billion. The Entertainment Software Association and NPD put US revenue at $30.4 billion, of which digital purchases were 74 percent.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_video_games"
+    },
+    "tech.devices_games": {
+      "section": "tech",
+      "label": "Game hardware released",
+      "value": [
+        "Oculus Rift CV1, Oculus VR, March 28",
+        "Microsoft HoloLens, March 30",
+        "HTC Vive, April 5",
+        "PlayStation VR, Sony, October 13",
+        "Google Daydream, November 10"
+      ],
+      "detail": "The games page says headsets came out in much greater numbers and at much lower prices than the enthusiast-only ones of earlier generations. Microsoft released the Xbox One S on August 2, and Sony the PlayStation 4 Slim on September 15 and the PlayStation 4 Pro on November 10. The NES Classic Edition reached North America and Europe on November 11.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_video_games"
+    },
+    "tech.internet_access": {
+      "section": "tech",
+      "label": "Mobile passed desktop for reaching the internet",
+      "value": "More people worldwide used mobile devices than desktop computers to get online, for the first time",
+      "detail": "The world year page dates the crossover to November 1 and says the United States had reached the same point two years earlier.",
+      "date": "2016-11-01",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.14 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.interest_rate": {
+      "section": "prices",
+      "label": "Federal Reserve benchmark rate",
+      "value": "Raised by 0.25 percent on December 14, only the second increase in a decade",
+      "detail": "The US year page says the Federal Reserve cited strong economic growth and rising employment, and that the chair, Janet Yellen, called the outlook for the economy uncertain. It carries no unemployment figure for the year.",
+      "date": "2016-12-14",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "prices.powerball": {
+      "section": "prices",
+      "label": "Powerball jackpot",
+      "value": "The national lottery prize passed $1 billion for the first time on January 9",
+      "date": "2016-01-09",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A year of funerals for people whose records and films almost everyone owned, from Bowie in January to Carrie Fisher in the week after Christmas, ending with an election result nearly every forecaster had called the other way."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Bob Dylan",
+        "Peace, Juan Manuel Santos",
+        "Physics, John M. Kosterlitz, Duncan Haldane and David J. Thouless",
+        "Chemistry, Ben Feringa, Jean-Pierre Sauvage and Fraser Stoddart",
+        "Medicine, Yoshinori Ohsumi",
+        "Economics, Oliver Hart and Bengt R. Holmstrom"
+      ],
+      "detail": "The year page gives no announcement dates. Santos was president of Colombia, whose government signed a revised peace deal with the Revolutionary Armed Forces of Colombia on November 24.",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "Words first recorded this year",
+      "value": [
+        "post-truth",
+        "chatbot",
+        "dark kitchen",
+        "nihonium",
+        "moscovium",
+        "tennessine",
+        "oganesson"
+      ],
+      "detail": "The last four are the names given on December 28 to the chemical elements 113, 115, 117 and 118.",
+      "source": "https://en.wikipedia.org/wiki/2016"
+    },
+    "culture.hamilton": {
+      "section": "culture",
+      "label": "70th Tony Awards",
+      "value": "Hamilton won 11 awards including Best Musical, from a record 16 nominations",
+      "detail": "Presented on June 12. The cast's performance was introduced by a filmed message from the Obamas and Chance the Rapper.",
+      "date": "2016-06-12",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl 50",
+      "value": "Denver Broncos 24, Carolina Panthers 10, at Levi's Stadium in Santa Clara in front of 71,088",
+      "detail": "Von Miller was named most valuable player. CBS drew 111.9 million viewers to its English-language broadcast, which the television page calls the third most watched program in the medium's history, and ESPN Deportes carried it in Spanish.",
+      "date": "2016-02-07",
+      "source": "https://en.wikipedia.org/wiki/2016_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Chicago Cubs beat the Cleveland Indians four games to three, a third title and the first since 1908",
+      "detail": "The sports page dates the series October 25 to November 2 and calls the drought the longest in North American sport at 108 years. The television page says game seven went to ten innings and that Fox drew 40.045 million viewers, the biggest national audience for a baseball game since game seven of the 1991 World Series.",
+      "date": "2016-11-02",
+      "source": "https://en.wikipedia.org/wiki/2016_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Cleveland Cavaliers over the Golden State Warriors in seven games on June 19, a first title in the franchise's 45 years and Cleveland's first major championship since 1964",
+        "Stanley Cup, Pittsburgh Penguins over the San Jose Sharks in six games on June 12, a fourth cup",
+        "European Championship, Portugal won the tournament France hosted from June 10 to July 10",
+        "NCAA men's basketball, Villanova beat North Carolina 77 to 74 on April 4"
+      ],
+      "detail": "The television page says game seven of the NBA Finals drew 30.8 million viewers, the largest audience ABC has had for a basketball game, and that the Cavaliers won it 93 to 89 at Oracle Arena.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Rio de Janeiro held the games from August 5 to 21, the first in South America",
+      "detail": "The sports page says the United States won both the gold and the overall medal tallies. The television page says NBC, Telemundo and seven sister cable networks put out 6,700 hours of live coverage, that apart from the opening and closing ceremonies, which ran an hour behind, this was the first Olympics since 1996 at which NBC showed most events live in the continental United States, and that it was the first sports broadcast to carry a live descriptive audio track for blind viewers.",
+      "date": "2016-08-05",
+      "source": "https://en.wikipedia.org/wiki/2016_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Grand Slam singles winners",
+      "value": [
+        "Australian Open, Novak Djokovic and Angelique Kerber",
+        "French Open, Novak Djokovic and Garbine Muguruza",
+        "Wimbledon, Andy Murray and Serena Williams",
+        "US Open, Stan Wawrinka and Angelique Kerber"
+      ],
+      "detail": "Kerber and Djokovic took two singles titles each. Serena and Venus Williams took the Wimbledon women's doubles, Martina Hingis and Sania Mirza the Australian, and Jamie Murray and Bruno Soares the Australian and US men's doubles.",
+      "source": "https://en.wikipedia.org/wiki/2016_in_sports"
+    },
+    "deaths.bowie": {
+      "section": "deaths",
+      "label": "David Bowie",
+      "value": "Died January 10, aged 69",
+      "detail": "English singer, songwriter and actor. The film page names Labyrinth and The Man Who Fell to Earth.",
+      "date": "2016-01-10",
+      "source": "https://en.wikipedia.org/wiki/2016_in_music"
+    },
+    "deaths.prince": {
+      "section": "deaths",
+      "label": "Prince",
+      "value": "Died April 21, aged 57",
+      "detail": "American musician. Cities across the United States held vigils and lit buildings, bridges and other venues purple.",
+      "date": "2016-04-21",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "deaths.ali": {
+      "section": "deaths",
+      "label": "Muhammad Ali",
+      "value": "Died June 3, aged 74",
+      "detail": "Boxer and conscientious objector. He died of septic shock at a hospital in Scottsdale, Arizona.",
+      "date": "2016-06-03",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "deaths.cohen": {
+      "section": "deaths",
+      "label": "Leonard Cohen",
+      "value": "Died November 7, aged 82",
+      "detail": "Canadian singer-songwriter and writer. Born 1934.",
+      "date": "2016-11-07",
+      "source": "https://en.wikipedia.org/wiki/2016_in_music"
+    },
+    "deaths.glenn": {
+      "section": "deaths",
+      "label": "John Glenn",
+      "value": "Died December 8, aged 95",
+      "detail": "Astronaut, Marine Corps colonel and United States senator, and the first American to orbit the Earth.",
+      "date": "2016-12-08",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    },
+    "deaths.fisher": {
+      "section": "deaths",
+      "label": "Carrie Fisher",
+      "value": "Died December 27, aged 60",
+      "detail": "Actress and writer, known for Princess Leia in the Star Wars films, and a script doctor and mental health advocate. She had a cardiac arrest on a transatlantic flight four days earlier. Her mother, the actress Debbie Reynolds, died the next day after a stroke while preparing for the funeral.",
+      "date": "2016-12-27",
+      "source": "https://en.wikipedia.org/wiki/2016_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the eleven cached wikitext pages under .sources/2016 plus two dedicated articles named below. Box office basis. bo.mjs reports GROSS with territory WORLDWIDE, from a header reading Rank, Title, Distributor, Worldwide gross, and the sentence above the table says the top ten films released in 2016 by worldwide gross, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Pulled from outside the cache. Two events the cache does not carry at all, and that a reader would notice missing from this year, are sourced to their own articles and say so in their own detail: world.aleppo, because none of the eleven pages contains the word Aleppo, and world.castro, because none of them mentions Fidel Castro. Both were checked by grep across every cached file before the pull. Source disagreements labelled rather than resolved. The first presidential debate of September 26 is given an estimated record 84 million viewers across 13 networks by the television page and up to 100 million by the US year page, and tv.debate_audience states both and takes neither. Juno's arrival at Jupiter is dated July 4 by the science page and the US year page and July 5 by the world year page, and tech.spaceflight names all three rather than choosing. Date checks. November 8 was the Tuesday after the first Monday in November, the constitutional date for a federal election, and the first Monday was November 7, so the US year page's date holds and pol.election says so. The Electoral College met December 19, the Monday after the second Wednesday in December, which is also consistent. February 7 was a Sunday for Super Bowl 50, September 18 a Sunday for the Emmys, November 2 a Wednesday for the World Series clincher, and June 23 a Thursday for the referendum. No cached page disagreed with another on a date, so no dedicated article was pulled for date checking. The inauguration falls in the following year and is not on this page. Nothing in this file reaches into the following year. The 89th Academy Awards ceremony date and its nomination announcement, the 74th Golden Globes, the 70th BAFTA Awards, the Producers and Screen Actors Guild ceremonies, the 20th D.I.C.E. Awards, the 17th Game Developers Choice Awards, the 13th British Academy Games Awards, the 69th Primetime Emmy Awards and the Syrian army's formal victory declaration of early January are all out for that reason. film.best_picture says the following February rather than a date, the corpus convention. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Dropped for lack of a source. No cached page gives a US unemployment rate for the year, so there is no unemployment fact and prices.interest_rate says so in its own detail rather than filling the gap. No cached page ranks or counts websites, names a social network's user total, or describes a meme, so tech.web_sites, tech.social and culture.memes are all open and all empty; culture.slang carries the year page's new English words list instead. The music page carries no sales figure for any format and no streaming service, which is why music.listening_format claims only what the Billboard page says about how the Hot 100 was compiled plus the television page's Tidal item, and says so in its own detail. No cached page names a UK prime minister before or after the referendum, so world.brexit records the result only and says what is missing. General knowledge rather than a claim from the cached pages: the whole of culture.mood, which carries no source and no digit. It comes out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. checkname.mjs was run on the Eurovision song 1944, Battlefield 1, Doom, Overwatch, NBA 2K17, Madden NFL 17, Super Bowl 50, Kwangmyongsong-4, Resolution 2334, Leicester City's 5000:1 odds, Proxima b, LaMia Flight 2933, the Tupolev Tu-154, EgyptAir Flight 804, the Galaxy Note 7, the Oculus Rift CV1, the PlayStation 4 Pro and the NES Classic Edition, and reported every one safe, either because the number is above 2099, below four digits, glued to letters, or earlier than 2016. Nothing in the sources carried a title reaching past the page year, so there is nothing to report for the allowlist. Diacritics are written in ASCII per the corpus convention, so Beyonce, Sueddeutsche Zeitung, Garbine Muguruza, Bengt R. Holmstrom, Ataturk Airport, Radovan Karadzic, Pokemon Go and Raul Castro lose theirs. Deaths carry an age where a cached page gives one. There is no cached deaths page for the year: the manifest records Deaths_in_2016 as a redirect to a list of lists, so every death here comes from the US year page, the film page or the music page. Dropped for room. Politics and world: the Flint emergency of January 16, the Dallas police shooting of July 7 and the robot-delivered charge that ended it, the Standing Rock water cannon of November 20 and the Lake Oahe easement refusal of December 4, Obama's Cuba visit of March 21 and Hiroshima visit of May 27, Dilma Rousseff's removal of August 31, Park Geun-hye's suspension of December 9, India's demonetisation of November 8 and the Gotthard Base Tunnel opening of June 1 are all in the texture instead of facts; the Saudi break with Iran of January 3, the Ouagadougou attacks, the recapture of Joaquin Guzman, Taiwan's election and Tsai Ing-wen's swearing-in, the Taiwan and Ecuador and central Italy earthquakes, the Pope and Patriarch Kirill meeting of February 12, the Bemba and Karadzic and Habre convictions, the Nagorno-Karabakh clashes, EgyptAir Flight 804, Rodrigo Duterte's election, the South China Sea arbitration ruling of July 12, Latvia joining the OECD, Solar Impulse 2, North Korea's fifth nuclear test, the MH17 investigators' conclusion of September 28, Hurricane Matthew, the Maldives leaving the Commonwealth, the Kigali amendment on hydrofluorocarbons, Ferdinand Marcos's burial, LaMia Flight 2933 and the Chapecoense squad, Vajiralongkorn's succession, the Italian referendum and Matteo Renzi's resignation, the assassination of Andrei Karlov beyond its mention in world.attacks, Resolution 2334, the Tu-154 crash into the Black Sea, the Ebola vaccine result, the leap second, the recovered Van Gogh paintings, the Republican and Democratic conventions of July, the running-mate announcements, the FBI email investigation and its reopening, the Russian hacking accusation of October 7, the Access Hollywood tape and the WikiLeaks releases of the same afternoon, the four state marijuana votes of November 8, the Louisiana floods, the Kalamazoo and Hesston and Burlington shootings, the New York and New Jersey pipe bombs, the Charlotte protests, the Oakland warehouse fire, the Comet Ping Pong shooting, the Yahoo breach and Dyn attack and Galaxy Note 7 recall and Tesla autopilot death and last videocassette recorder, which are in the texture, and the Charter and Time Warner Cable merger. Television and film: the 88th Academy Awards of February 28, at which Spotlight won Best Picture, left out on the same ground as other years because it honoured the previous year of film and would put a second Best Picture on the page; the 73rd Golden Globes of January 10; the launches of Gun TV and Light TV; DirecTV Now's launch and Hulu's move to subscription only; the 90th Miss America pageant. Music: the Rolling Stones in Havana on March 25, Beyonce's Lemonade of April 23 beyond its VMA mention, the MTV Europe Music Awards, the Mnet Asian Music Awards, the Japan Record Awards, the Golden Disc and Seoul Music Awards, and the deaths of Glenn Frey on January 18, Maurice White on February 3, Keith Emerson, Merle Haggard on April 6, Christina Grimmie on June 10, Sharon Jones on November 18, Leon Russell, Greg Lake on December 8 and George Michael on December 25. Film and other deaths that would have earned a place with more room: Alan Rickman on January 14 aged 69, Abe Vigoda, Vilmos Zsigmond, Harper Lee on February 19, Nancy Reagan on March 6, Garry Shandling, Elie Wiesel on July 1, Gene Wilder on August 29, Edward Albee, Arnold Palmer on September 25, Janet Reno, Zsa Zsa Gabor and Debbie Reynolds on December 28, whose death is carried inside deaths.fisher because the US year page states the connection itself, and Marvin Minsky on January 24. Sport: Leicester City's title and the Warriors' 73rd win and Kobe Bryant's last game are in the texture; the Rio Paralympics of September 7 to 18, the Winter Youth Olympics at Lillehammer, the Daytona 500, the 100th Indianapolis 500, Nyquist in the Kentucky Derby, the WNBA draft, the Boston Marathon and the All-Star Game are out. This file runs 56 facts across 10 sections: politics 6, world 7, film 6, tv 5, music 6, tech 7, prices 4, culture 4, sports 5, deaths 6. No radio fact, because the radio window closed after 1959. Kept out of neighbouring details on the rule that a detail elaborates its own fact and nothing else: the Supreme Court's five to three ruling of June 27 striking down a Texas law on abortion clinics, which shares nothing with the vacancy fact but the institution; the three police officers shot dead in Baton Rouge on July 17, which the sources do not connect to the two shootings of July 5 and 6; and the assassination of Andrei Karlov in Ankara on December 19, which shares only a date with the Berlin attack."
+}

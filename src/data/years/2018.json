@@ -1,0 +1,477 @@
+{
+  "year": 2018,
+  "tier": "modern",
+  "headline": "Seventeen died at Parkland in February, Trump met Kim in Singapore in June, Democrats took the House in November",
+  "texture": [
+    "Computer researchers disclosed Meltdown and Spectre on January 3, two flaws in the microprocessors inside almost every machine built. Facebook suspended Cambridge Analytica on March 16, and its share price fell almost 20 percent on July 26, taking $109 billion off the company in a day. Podcast, video and streaming content from Alex Jones and InfoWars came off YouTube, the Apple Podcasts directory, Facebook and Spotify between August 3 and 6, and Apple pulled the InfoWars app on September 7.",
+    "Teachers and school staff in West Virginia walked out on February 22, the first statewide strike in the state's history. Thousands of pupils left class on March 14 for the National School Walkout, and people marched in more than 900 cities on March 24 under the name March for Our Lives. Eight students and two teachers were shot dead at Santa Fe High School in Texas on May 18. Five staff were killed in the newsroom of The Capital in Annapolis on June 28.",
+    "Oak Ridge National Laboratory unveiled Summit on June 8, a machine rated at 200 petaflops. Amazon opened the first Amazon Go shop to the public in Seattle on January 22, with no cashier. Uber grounded its self-driving cars worldwide on March 19 after one killed a woman in Arizona. Qantas began flying Boeing 787 Dreamliners nonstop from Perth to Heathrow on March 25, and the Hong Kong to Zhuhai to Macau bridge opened on October 23.",
+    "Wildfires in Greece killed 102 people by July 26. Part of the Morandi Bridge fell in Genoa on August 14, killing 43. A magnitude 7.5 earthquake and the tsunami behind it killed at least 4,340 on Sulawesi on September 28. Lion Air Flight 610 went into the sea off Java on October 29 with 189 aboard. The Camp Fire started in Butte County on November 8 and killed 88 people, destroying 18,804 buildings."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.midterms",
+    "pol.parkland",
+    "world.singapore_summit",
+    "film.gross#0",
+    "tech.social_facebook",
+    "sports.world_cup",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Donald Trump (R)",
+      "detail": "Mike Pence was vice president and John Roberts chief justice. Trump gave his first official State of the Union address on January 30, and the US year page says 75 percent of the people who watched it approved.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "115th Congress, Republican majorities in both chambers",
+      "detail": "Paul Ryan was Speaker and Mitch McConnell Senate majority leader. Ryan announced on April 11 that he would not run again. The government shut down on January 20 after Senate Democrats blocked a bill funding it to mid-February, and a partial shutdown began on December 22 when Congress could not agree a budget.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "US midterm elections",
+      "value": "Democrats gained 40 seats to take control of the House of Representatives and lost two seats in the Senate",
+      "detail": "Held on the Tuesday after the first Monday in November, which the world year page and the US year page both date November 6. Democrats also picked up seven governorships. Jeff Sessions resigned as attorney general at Trump's request the next day.",
+      "date": "2018-11-06",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "pol.parkland": {
+      "section": "politics",
+      "label": "Marjory Stoneman Douglas High School shooting",
+      "value": "Seventeen people were killed at the school in Parkland, Florida",
+      "detail": "The US year page calls it the deadliest high school shooting in the United States, past the Columbine massacre of 1999. Florida passed a law by 67 votes to 50 on March 7 raising the age for buying a gun from 18 to 21.",
+      "date": "2018-02-14",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "pol.kavanaugh": {
+      "section": "politics",
+      "label": "Brett Kavanaugh confirmed to the Supreme Court",
+      "value": "The Senate voted 50 to 48, amid controversy over sexual assault claims against him",
+      "detail": "Anthony Kennedy announced on June 27 that he would leave the court on July 31, and Trump nominated Kavanaugh, a judge of the DC Circuit, on July 9. Christine Blasey Ford gave evidence to the Senate Judiciary Committee on September 27. Two more women had come forward on September 23 and 26.",
+      "date": "2018-10-06",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "pol.family_separation": {
+      "section": "politics",
+      "label": "Family separations at the border",
+      "value": "Trump signed an executive order suspending the zero-tolerance policy that had taken children from their parents",
+      "detail": "The world year page says thousands of the children were never reunited with their families after the policy was suspended. The US year page records 575 women arrested outside the Hart Senate Office Building on June 28 while protesting Immigration and Customs Enforcement, and hundreds of thousands demonstrating across all 50 states on June 30.",
+      "date": "2018-06-20",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "pol.mueller": {
+      "section": "politics",
+      "label": "Special counsel's Russia investigation",
+      "value": "Robert Mueller charged 13 Russians on February 16 with interfering in the 2016 presidential election, and 12 Russian intelligence officers on July 13 with hacking during it",
+      "detail": "Paul Manafort was convicted on August 21 on eight of eighteen counts of tax and bank fraud, the same day Michael Cohen pleaded guilty to eight charges including two campaign finance counts. Rick Gates had admitted conspiracy on February 23.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "world.singapore_summit": {
+      "section": "world",
+      "label": "Trump met Kim Jong-un in Singapore",
+      "value": "The first meeting between a sitting US president and a North Korean leader",
+      "detail": "The US year page dates the meeting to June 11 and 12 and the world year page to June 12. Trump accepted the invitation on March 9. Kim met Xi Jinping on March 28, leaving North Korea for the first time since taking office in 2011, and crossed into South Korea on April 27 to meet Moon Jae-in. North Korea set its clocks to match the South's on May 5, and foreign journalists reported the Punggye-ri test tunnels destroyed on May 24.",
+      "date": "2018-06-12",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "world.khashoggi": {
+      "section": "world",
+      "label": "Jamal Khashoggi murdered",
+      "value": "The Washington Post journalist was killed inside the Saudi consulate in Istanbul",
+      "detail": "The US year page says it set off a diplomatic crisis between the United States and Saudi Arabia, and the world year page lists the protests that followed among the year's defining events.",
+      "date": "2018-10-02",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "world.skripal": {
+      "section": "world",
+      "label": "Novichok poisoning in Salisbury",
+      "value": "Sergei Skripal, a former Russian double agent, and his daughter Yulia were poisoned with a nerve agent in the English city",
+      "detail": "More than 20 countries expelled over 100 Russian diplomats on March 26 in response, and Trump ordered 60 out of the United States. Russia expelled 60 American diplomats and closed the US consulate in St. Petersburg on March 29.",
+      "date": "2018-03-04",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "world.thai_cave": {
+      "section": "world",
+      "label": "Tham Luang cave rescue",
+      "value": "Twelve boys and their football coach were brought out of the flooded cave in Thailand after 17 days underground",
+      "detail": "One law enforcement officer was killed during the operation.",
+      "date": "2018-07-10",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "world.royal_wedding": {
+      "section": "world",
+      "label": "Prince Harry married Meghan Markle",
+      "value": "At St George's Chapel, Windsor Castle",
+      "date": "2018-05-19",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "world.ireland_referendum": {
+      "section": "world",
+      "label": "Ireland voted to repeal its abortion ban",
+      "value": "66.4 percent to 33.6 percent for repeal in a constitutional referendum",
+      "detail": "The world year page carries the result in one line and gives no turnout figure, no campaign detail and no date for the law that followed.",
+      "date": "2018-05-25",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Avengers: Infinity War, $2,048,359,754, Disney",
+        "Black Panther, $1,347,597,973, Disney",
+        "Jurassic World: Fallen Kingdom, $1,308,467,944, Universal",
+        "Incredibles 2, $1,242,805,359, Disney",
+        "Aquaman, $1,148,528,393, Warner Bros."
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header states. Infinity War took $258 million in its North American opening weekend, the biggest ever recorded there, and $641 million worldwide, the first film to open above $600 million. Black Panther took $202 million over three days in February and $242.16 million over the four-day holiday weekend. North America recorded its first billion-dollar February, 43 percent of it from Black Panther, and China passed North America as the largest box office market in the first quarter, $3.17 billion against $2.89 billion. Bohemian Rhapsody was sixth on $911 million.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Green Book, produced by Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga",
+      "detail": "Awarded the following February at the 91st Academy Awards, at the Dolby Theatre in Hollywood, with no host at all after Kevin Hart stepped down in December over old anti-gay jokes. The Favourite and Roma led the field on ten nominations each, Alfonso Cuaron won Best Director for Roma, Bohemian Rhapsody took four awards, the most of the evening, and the telecast drew 29.56 million viewers. The Academy announced a Popular Film category in August and postponed it a month later after members said it implied art films were not popular with audiences.",
+      "source": "https://en.wikipedia.org/wiki/91st_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Rami Malek, Bohemian Rhapsody",
+        "Best Actress, Olivia Colman, The Favourite",
+        "Best Supporting Actor, Mahershala Ali, Green Book",
+        "Best Supporting Actress, Regina King, If Beale Street Could Talk"
+      ],
+      "detail": "Malek played Freddie Mercury and Colman Queen Anne. Spike Lee won Adapted Screenplay for BlacKkKlansman with Charlie Wachtel, David Rabinowitz and Kevin Willmott. Ludwig Goransson took Original Score for Black Panther, Ruth E. Carter Costume Design for the same film, Spider-Man: Into the Spider-Verse the animated award, and Shallow, from A Star Is Born, Best Original Song.",
+      "source": "https://en.wikipedia.org/wiki/91st_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Roma, Mexico, in Spanish and Mixtec, directed by Alfonso Cuaron, the winner",
+        "Capernaum, Lebanon, in Arabic, directed by Nadine Labaki",
+        "Cold War, Poland, in Polish and French, directed by Pawel Pawlikowski",
+        "Never Look Away, Germany, in German, directed by Florian Henckel von Donnersmarck",
+        "Shoplifters, Japan, in Japanese, directed by Hirokazu Kore-eda"
+      ],
+      "detail": "The film page gives the festival prizes: the Palme d'Or at the 71st Cannes Film Festival to Shoplifters, the Golden Lion at the 75th Venice International Film Festival to Roma, and the Golden Bear at the 68th Berlin International Film Festival to Adina Pintilie's Touch Me Not.",
+      "source": "https://en.wikipedia.org/wiki/91st_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$9.16",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a cinema first, except where Netflix put the film online during or just after a one-week run in a single theatre",
+      "detail": "Richard Brody of The New Yorker, quoted at length on the film page, named Shirkers and The Ballad of Buster Scruggs as Netflix releases arriving alongside a limited theatrical run, and wrote that films which barely qualified as having opened in cinemas were more widely available to viewers at home than titles playing in thousands of multiplexes. The world year page records cinemas opening in Saudi Arabia on April 18 for the first time since 1983, with Black Panther the first film screened.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2018",
+      "value": [
+        "Sunday Night Football, NBC, 10.9 rating",
+        "The Big Bang Theory, CBS, 10.6",
+        "NCIS, CBS, 9.6",
+        "Thursday Night Football, FOX, and Young Sheldon, CBS, tied on 8.7",
+        "This Is Us, NBC, 8.5"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Blue Bloods and FBI tied seventh on 7.9, The Good Doctor and Manifest ninth on 7.4, and The Conners came 27th on 5.8.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2018%E2%80%9319"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "70th Primetime Emmy Awards",
+      "value": "Game of Thrones won Outstanding Drama Series and The Marvelous Mrs. Maisel five awards including Outstanding Comedy Series",
+      "detail": "Broadcast on NBC and hosted by the Weekend Update anchors Colin Jost and Michael Che. Rachel Brosnahan and Alex Borstein took the comedy acting awards for Mrs. Maisel.",
+      "date": "2018-09-17",
+      "source": "https://en.wikipedia.org/wiki/2018_in_American_television"
+    },
+    "tv.roseanne": {
+      "section": "tv",
+      "label": "Roseanne came back and was cancelled",
+      "value": "The first new episode in 21 years drew 18.2 million viewers on March 27, and ABC cancelled the show on May 29 after Roseanne Barr posted a racist remark about Valerie Jarrett",
+      "detail": "The premiere took the highest comedy rating in the 18 to 49 demographic since the eighth-season opener of The Big Bang Theory. Barr was dropped by her agency, ABC pulled its Emmy campaign, and reruns came off Paramount Network, TV Land, CMT, Laff and Hulu. ABC announced on June 21 that the cast would return without her as The Conners.",
+      "date": "2018-05-29",
+      "source": "https://en.wikipedia.org/wiki/2018_in_American_television"
+    },
+    "tv.mergers": {
+      "section": "tv",
+      "label": "Television companies bought and sold",
+      "value": "A federal judge approved AT&T's $85 billion purchase of Time Warner on June 12, rejecting the Justice Department's antitrust suit, and the deal closed two days later with Time Warner renamed WarnerMedia",
+      "detail": "Comcast, which owns NBCUniversal, bid $65 billion in cash on June 13 for the 21st Century Fox entertainment assets Disney had agreed to buy, including FX Networks and Fox Sports Networks.",
+      "date": "2018-06-12",
+      "source": "https://en.wikipedia.org/wiki/2018_in_American_television"
+    },
+    "tv.spinney": {
+      "section": "tv",
+      "label": "Sesame Street changed Big Bird's performer",
+      "value": "Caroll Spinney announced his retirement from Sesame Street after performing Big Bird and Oscar the Grouch since the programme began in 1969",
+      "detail": "Matt Vogel took over Big Bird and Eric Jacobson Oscar. Spinney's last scenes were to air in the show's 50th season.",
+      "date": "2018-10-17",
+      "source": "https://en.wikipedia.org/wiki/2018_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "God's Plan, Drake",
+      "detail": "It spent eleven consecutive weeks at number one during the year. Perfect by Ed Sheeran came second and Meant to Be by Bebe Rexha with Florida Georgia Line third. Drake and Cardi B tied for the most songs on the list with eight each, and Post Malone put four inside the top 40. Fourteen songs carried over from the previous year's list, among them Havana, which had scraped in at 96 and returned at 4.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2018"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Streaming counted toward the Hot 100 alongside physical and digital single sales and radio airplay, all of it tallied by Nielsen SoundScan",
+      "detail": "Billboard published the year-end list on December 4, calculated from chart weeks running December 2, 2017 to November 17. None of the eleven cached pages names a subscription streaming service, gives a sales figure for any format, or says what anyone played music on, so nothing here does either.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2018"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "60th Grammy Awards",
+      "value": "Bruno Mars won Record of the Year and Album of the Year for 24K Magic and Song of the Year for That's What I Like",
+      "detail": "Alessia Cara was named Best New Artist. The awards honoured the previous year's recordings.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_music"
+    },
+    "music.awards": {
+      "section": "music",
+      "label": "Other music awards",
+      "value": [
+        "Billboard Music Awards, Top Artist Ed Sheeran, Top Billboard 200 Album Damn by Kendrick Lamar",
+        "MTV Video Music Awards, Video of the Year Havana by Camila Cabello featuring Young Thug, Best New Artist Cardi B",
+        "Brit Awards, British Album of the Year Gang Signs and Prayer by Stormzy, British Breakthrough Act Dua Lipa",
+        "Mnet Asian Music Awards, Artist of the Year and Album of the Year both to BTS"
+      ],
+      "detail": "The music page gives no ceremony dates. Despacito was named Top Hot 100 Song at the Billboard awards.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Netta Barzilai won for Israel with Toy, at the contest held in Lisbon from May 8 to 12",
+      "date": "2018-05-12",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "SpaceX flew the Falcon Heavy for the first time on February 6 from Kennedy Space Center, with Elon Musk's own Tesla Roadster as the dummy payload",
+        "The Transiting Exoplanet Survey Satellite launched on April 18",
+        "InSight launched for Mars on May 5 and landed on November 26",
+        "A Delta IV Heavy launched the Parker Solar Probe toward the Sun on August 12",
+        "Voyager 2, launched in 1977, crossed the heliopause into interstellar space on November 5"
+      ],
+      "detail": "The science page dates the Voyager 2 confirmation to December 10, six years after Voyager 1 did the same. The world year page notes that Voyager 2 left the heliosphere within hours of the Parker probe reaching its first perihelion. The Kepler telescope ran out of fuel on October 30 and the Dawn mission ended on November 1. China launched Chang'e 4 toward the far side of the Moon on December 8.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_science"
+    },
+    "tech.social_facebook": {
+      "section": "tech",
+      "label": "Facebook and Cambridge Analytica",
+      "value": "Facebook suspended the data firm on March 16 over mishandled user profiles, and Mark Zuckerberg answered questions from several Senate committees sitting jointly on April 10",
+      "detail": "87 million people had their private information taken. The share price fell almost 20 percent on July 26 after the company warned investors that user growth had slowed, taking more than $109 billion off its market value, which the world year page calls the largest single-day loss in corporate history to that point.",
+      "date": "2018-03-16",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "tech.online_privacy": {
+      "section": "tech",
+      "label": "General Data Protection Regulation",
+      "value": "The European Union's privacy rules took effect, binding on anyone holding data about European citizens anywhere in the world",
+      "date": "2018-05-25",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "tech.apple_trillion": {
+      "section": "tech",
+      "label": "Apple reached a trillion dollars",
+      "value": "The first public company anywhere to reach a market capitalisation of $1 trillion, as its share price passed $207",
+      "date": "2018-08-02",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "tech.gene_editing": {
+      "section": "tech",
+      "label": "First genome-edited babies",
+      "value": "He Jiankui reported the birth of twin girls whose embryos he had edited with CRISPR to try to make them resistant to HIV",
+      "detail": "The science page dates his report of the births to November 25 and the world year page dates his announcement at a Hong Kong conference to November 28.",
+      "date": "2018-11-25",
+      "source": "https://en.wikipedia.org/wiki/2018_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Highest-grossing video games, worldwide digital revenue",
+      "value": [
+        "Fortnite, $5,477,000,000, Epic Games",
+        "Honor of Kings and Arena of Valor, $2,510,000,000, Tencent",
+        "League of Legends, $1,900,000,000, Riot Games",
+        "Dungeon Fighter Online, $1,700,000,000, Nexon",
+        "Crossfire, $1,453,000,000, Smilegate"
+      ],
+      "detail": "Digital purchases, microtransactions and free-to-play across mobile, computer and console. Tencent published or owned six of the top ten and all of the top five. NewZoo valued the industry at $134.9 billion, up 10.9 percent, with mobile taking 47 percent, consoles 28 percent and computers 25 percent. The NPD Group put United States revenue at a record $43.4 billion in a year with no new console. Red Dead Redemption 2 arrived October 26 and scored 97 on Metacritic, the year's highest, and God of War took Game of the Year at The Game Awards on December 6 after Fortnite: Battle Royale won it at the Golden Joystick Awards on November 16.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.73 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "3.9 percent in May",
+      "detail": "The US year page dates the figure to May 4 and calls it the lowest since 2000. It carries no other unemployment figure for the year.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "prices.stock_market": {
+      "section": "prices",
+      "label": "US stock market",
+      "value": "The Dow Jones index closed down 4.6 percent on February 5, its biggest fall since the financial crisis of 2008, and finished at 22,445.37 on December 21 after its worst week since that crisis",
+      "detail": "Both figures come from the US year page, which gives no closing number for the February fall.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A February shooting at a Florida high school and students walking out of class the month after, a summer of children taken from their parents at the border and a president standing beside Putin in Helsinki, then a November of counted ballots and wildfire smoke over California."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Peace, Denis Mukwege and Nadia Murad",
+        "Physics, Arthur Ashkin, Gerard Mourou and Donna Strickland",
+        "Chemistry, Frances Arnold, George Smith and Greg Winter",
+        "Medicine, James P. Allison and Tasuku Honjo",
+        "Economics, William Nordhaus and Paul Romer",
+        "Literature, Olga Tokarczuk"
+      ],
+      "detail": "The world year page gives no dates, and records the literature prize for this year as handed out later rather than alongside the others.",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "culture.museum_fire": {
+      "section": "culture",
+      "label": "National Museum of Brazil burned",
+      "value": "Fire in Rio de Janeiro destroyed more than 90 percent of an archive of 20 million items",
+      "date": "2018-09-02",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LII",
+      "value": "Philadelphia Eagles 41, New England Patriots 33, at U.S. Bank Stadium in front of 67,612",
+      "detail": "Nick Foles was named most valuable player. The US year page calls it the Eagles' first Super Bowl and the end of a 57-year championship drought. The television page says NBC's English broadcast and Universo's Spanish one drew an estimated 103.4 million viewers between them, down 7 percent on the previous year and the lowest-rated Super Bowl telecast since 2009.",
+      "date": "2018-02-04",
+      "source": "https://en.wikipedia.org/wiki/2018_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Boston Red Sox beat the Los Angeles Dodgers four games to one, a ninth title",
+      "detail": "Played October 23 to 28. Boston had won the American League and Los Angeles the National League in a season running March 29 to September 30.",
+      "date": "2018-10-28",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Pyeongchang in South Korea from February 9 to 25, with the United States taking 9 gold, 8 silver and 6 bronze medals",
+      "detail": "The world year page dates the opening ceremony to February 9 and places the Winter Paralympics at Pyeongchang from March 9 to 18. Neither cached page names an overall medal winner.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "France beat Croatia 4 to 2 in the final, at a tournament held in Russia from June 14",
+      "detail": "FIFA awarded hosting rights for a later World Cup to a joint bid from Canada, Mexico and the United States on June 13, the day before this tournament began.",
+      "date": "2018-07-15",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Golden State Warriors over the Cleveland Cavaliers four games to none, a sixth NBA title",
+        "Stanley Cup, Washington Capitals over the Vegas Golden Knights in five games, a first in the franchise's history, with Alex Ovechkin taking the playoff award",
+        "Champions League, Real Madrid beat Liverpool 3 to 1 in the final at Kyiv on May 26"
+      ],
+      "detail": "The US year page dates the Capitals' clinching game to June 7 and the Warriors' to June 8, and calls the Stanley Cup the first championship for Washington since the Redskins won Super Bowl XXVI.",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "sports.triple_crown": {
+      "section": "sports",
+      "label": "Triple Crown",
+      "value": "Justify, ridden by Mike Smith and trained by Bob Baffert, became the thirteenth horse to win it",
+      "detail": "He took the Kentucky Derby on May 5, the Preakness Stakes on May 19 and the Belmont Stakes on June 9. The US year page says he was the first horse since 1882 to win the Derby without having raced as a two-year-old, and that it was run under the wettest conditions in its history. None of the eleven cached pages carries the Preakness or the Belmont, so this fact cites the horse's own article.",
+      "date": "2018-06-09",
+      "source": "https://en.wikipedia.org/wiki/Justify_(horse)"
+    },
+    "deaths.hawking": {
+      "section": "deaths",
+      "label": "Stephen Hawking",
+      "value": "Died March 14. Born 1942",
+      "detail": "British theoretical physicist and cosmologist. His last paper, on a smooth exit from eternal inflation, was published on April 27, and a posthumous book, Brief Answers to the Big Questions, came out on October 16.",
+      "date": "2018-03-14",
+      "source": "https://en.wikipedia.org/wiki/2018_in_science"
+    },
+    "deaths.mccain": {
+      "section": "deaths",
+      "label": "John McCain",
+      "value": "Died August 25. Born 1936",
+      "detail": "US senator from Arizona and the Republican presidential nominee in 2008. He died at his home in Cornville of glioblastoma, four days before his birthday, after thirteen months of illness.",
+      "date": "2018-08-25",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "deaths.bush": {
+      "section": "deaths",
+      "label": "George H. W. Bush",
+      "value": "Died November 30, aged 94",
+      "detail": "Forty-first president of the United States, of Parkinson's disease at his home in Houston. He was the nation's oldest and longest-living president at the time. Barbara Bush, first lady, had died on April 17.",
+      "date": "2018-11-30",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "deaths.franklin": {
+      "section": "deaths",
+      "label": "Aretha Franklin",
+      "value": "Died August 16, aged 76",
+      "detail": "American rhythm and blues and soul singer and songwriter.",
+      "date": "2018-08-16",
+      "source": "https://en.wikipedia.org/wiki/2018_in_music"
+    },
+    "deaths.lee": {
+      "section": "deaths",
+      "label": "Stan Lee",
+      "value": "Died November 12. Born 1922",
+      "detail": "Comics artist and writer at Marvel Comics.",
+      "date": "2018-11-12",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    },
+    "deaths.bourdain": {
+      "section": "deaths",
+      "label": "Anthony Bourdain",
+      "value": "Died June 8. Born 1956",
+      "detail": "Chef, author and television presenter. He and the fashion designer Kate Spade, who died on June 5, both took their own lives inside a week.",
+      "date": "2018-06-08",
+      "source": "https://en.wikipedia.org/wiki/2018_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the eleven cached wikitext pages under .sources/2018 plus one dedicated article named below. Box office basis and territory. bo.mjs reports GROSS and WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, with a hidden editor note restricting the table to films first released in the year, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Disney distributed three of the top five and the film page's records section is the source for the opening-weekend and monthly figures in the detail. Date checks. This is a US midterm year, and the election falls on the Tuesday after the first Monday in November: November 1 was a Thursday, so the first Monday was November 5 and the election November 6, which is what both the world year page and the US year page say. No inauguration falls this year. February 4 was a Sunday for Super Bowl LII, October 28 a Sunday for the World Series clincher, October 6 a Saturday for the Kavanaugh confirmation vote, and June 9 a Saturday for the Belmont Stakes, all consistent with the pages. No cached page disagreed with another on a date, so no dedicated article was pulled for a date check. Dedicated article pulled. The eleven cached pages carry the Kentucky Derby but neither the Preakness nor the Belmont, and the sports page's horse racing section is a bare link, so a Triple Crown a reader would expect to find was missing. sports.triple_crown cites Justify's own article for the three race dates, the jockey, the trainer and the thirteenth-winner count, says so in its detail, and takes the Derby particulars from the US year page. Anachronism. Nothing in this file names a later year. The 91st Academy Awards ceremony fell the following February, so film.best_picture says the following February rather than a date, as the corpus does elsewhere. Left out for the same reason: the 76th Golden Globes, the 24th Critics' Choice Awards, the Producers, Directors, Screen Actors and Writers Guild ceremonies, the 72nd BAFTAs, the 71st Primetime Emmy Awards, the 22nd D.I.C.E. Awards, the 19th Game Developers Choice Awards and the 15th British Academy Games Awards, all of which the film, television and games pages tabulate under the following year's dates. The 90th Academy Awards of March 4 is out on the usual ground that it honoured the previous year of film and would put a second Best Picture on the page. The World Cup awarded on June 13 is written as the three host countries with no edition named, per the host-city convention. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. checkname.mjs was run on Fortnite, Red Dead Redemption 2, Super Smash Bros. Ultimate, FIFA 19, NBA 2K19, Madden NFL 19, Voyager 2, Falcon Heavy, Lion Air Flight 610, Boeing 787 Dreamliner, Super Bowl LII, THEC64Mini, Atari Flashback 9, Chang'e 4 and Summit at 200 petaflops, and reported every one safe. Diacritics are written in ASCII per the corpus convention, so Alfonso Cuaron, Pawel Pawlikowski, Ludwig Goransson, Gerard Mourou, Pyeongchang and Kilauea lose theirs. Dropped for lack of a source. No cached page carries a word-of-the-year or first-use list, so there is no culture.slang fact. None names a music subscription service, a streaming subscriber count, a vinyl or album sales figure or any playback device, which is why music.listening_format claims only what the Billboard page says about how the Hot 100 was compiled and says so in its own detail. Nothing in the cache carries Kofi Annan's death, the redefinition of the kilogram, a cryptocurrency price, a smartphone release, a Time Person of the Year or a website ranking, so tech.devices, tech.web_sites and culture.memes are open and empty. General knowledge rather than a claim from the cached pages: the whole of culture.mood, which carries no source and no digit, and the premise of film.how_people_watched that an audience of this period saw a new film in a cinema before anywhere else. Both come out if challenged. Deaths. There is no cached deaths page: the manifest records Deaths_in_2018 as a redirect to a list of lists, so every death here comes from the US year page, the music page or the science page. Ages are given where a page gives one and a birth year where it gives only that. Dropped for room. Politics and world: the Kilauea eruption from May 3, the Santa Fe and Thousand Oaks and Tree of Life shootings, Hurricanes Florence and Michael, the Merrimack Valley gas explosions, the steel and aluminium tariffs of March 1 and the Chinese tariffs that followed, the Helsinki press conference of July 16, the withdrawal from the Iran agreement announced May 8 and the sanctions reimposed August 7, the exit from the UN Human Rights Council, Jair Bolsonaro's election on October 28 and his stabbing on September 6, Putin's fourth term from March 18, China removing term limits on March 11, Jacob Zuma's resignation, Mahathir Mohamad's win in Malaysia, the Eritrea and Ethiopia peace declaration of July 9, Saudi Arabia allowing women to drive on June 24, Eswatini's renaming, the Supreme Court of India decriminalising homosexuality on September 6 and Canada legalising cannabis on October 17, both of which were cut from world.ireland_referendum's detail because they do not elaborate it, the yellow vest protests, the Kerch Strait incident, the Japan floods of July 7 and the Kerala floods of August, the Genoa and Greece and Sulawesi entries which are in the texture instead, the Guatemalan volcano eruption of June 3, the Humboldt Broncos bus crash of April 6, the Toronto van attack of April 23, the Kemerovo fire, the Magnitogorsk building collapse of December 31, and California becoming the world's fifth-largest economy in May. Television and film: the Les Moonves allegations, the Samantha Bee row of May 31, the Sinclair and Tribune collapse, and the film page's long list of Marvel Cinematic Universe grossing records, of which only the Infinity War and Black Panther figures are carried. Music: the ARIA and Juno and American Music Awards and the MTV Europe Music Awards, all tabulated on the music page. Deaths that would have earned a place with more room: Barbara Bush on April 17, named in the detail of her husband's fact, Avicii on April 20, XXXTentacion on June 18, Charles Krauthammer on June 21, Neil Simon on August 26, Burt Reynolds on September 6, Mac Miller on September 7, Stephen Hillenburg on November 26, Penny Marshall on December 17, Ursula K. Le Guin on January 22, John Young on January 5, Billy Graham on February 21, Verne Troyer on April 21, Roy Clark on November 15 and Kate Spade on June 5, who is named in Anthony Bourdain's detail because the US year page carries the two deaths in one sentence. This file runs 54 facts across 10 sections: politics 7, world 6, film 6, tv 5, music 5, tech 6, prices 4, culture 3, sports 6, deaths 6. No radio fact, because the radio window closed after 1959."
+}

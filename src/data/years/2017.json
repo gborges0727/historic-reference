@@ -1,0 +1,495 @@
+{
+  "year": 2017,
+  "tier": "modern",
+  "headline": "Trump replaced Obama on January 20, Harvey and Maria flooded Texas and Puerto Rico, MeToo spread in October",
+  "texture": [
+    "La La Land took seven awards from seven nominations at the Golden Globes on January 8, a record for a single film, and Meryl Streep used her Cecil B. DeMille award to criticise the president-elect, who called her overrated on Twitter the next day. At the Academy Awards on February 26 the wrong envelope reached the stage and La La Land was announced as Best Picture before the card was shown to reveal Moonlight, directed by Barry Jenkins.",
+    "Bill O'Reilly was fired by Fox News on April 19 after accusations of sexual harassment. Kevin Spacey apologised on October 30 for an alleged advance towards a child actor thirty years earlier. CBS fired Charlie Rose on November 21 after eight women accused him of inappropriate behaviour, and NBC fired Matt Lauer six days after that. Richard Brody wrote in The New Yorker that what the year in movies lacked was the unmade work of the people pushed out of it, and the careers of the cast and crew who would have filled those films.",
+    "Fire went through Grenfell Tower in West London on June 14 and killed 72 residents, the worst residential fire in Britain since the war. The Suddeutsche Zeitung published 13.4 million documents on November 5, leaked from the offshore law firm Appleby, and handed the investigation to the International Consortium of Investigative Journalists. Catalonia declared independence from Spain on October 27 after a referendum no country recognised. Zimbabwe's military put Robert Mugabe under house arrest on November 15 and took control of the country.",
+    "The Ringling Bros. and Barnum and Bailey Circus staged its last show on May 21 at Nassau Coliseum, ending 146 years. Toys R Us filed for Chapter 11 on September 18 carrying $5 billion in long-term debt. Floyd Mayweather beat Conor McGregor in the tenth round in Las Vegas on August 26, taking his professional record to 50 and 0 and passing Rocky Marciano. A total eclipse crossed from Oregon to South Carolina on August 21, the first to span the continental United States since June 1918."
+  ],
+  "lead": [
+    "pol.us_president",
+    "culture.metoo",
+    "world.hurricanes",
+    "film.gross#0",
+    "tech.games",
+    "sports.super_bowl",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Donald Trump (R), sworn in as the 45th president on January 20",
+      "detail": "Barack Obama held the office until that morning and gave his farewell address at McCormick Place in Chicago on January 10. Mike Pence was sworn in as the 48th vice president, eleven days after his term as governor of Indiana ended. John Roberts was chief justice.",
+      "date": "2017-01-20",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "115th Congress, opened January 3, with Paul Ryan as Speaker of the House and Mitch McConnell as Senate majority leader",
+      "detail": "It confirmed the Electoral College result on January 6. Doug Jones won the Alabama Senate seat over Roy Moore on December 12, the first time a Democrat had taken the state since 1992.",
+      "date": "2017-01-03",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "pol.travel_ban": {
+      "section": "politics",
+      "label": "Travel ban executive orders",
+      "value": "An order signed January 27 barred entry to refugees of the Syrian civil war and travellers from seven Muslim-majority countries, and protests against it ran nationwide for about two weeks",
+      "detail": "Washington state's attorney general Bob Ferguson secured a nationwide temporary restraining order on February 3. Executive Order 13780 replaced the first order on March 6 and was blocked by federal judges on March 15, a decision the Ninth Circuit upheld on June 12. The Supreme Court allowed the ban on six countries to take effect on December 4.",
+      "date": "2017-01-27",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "pol.russia_investigation": {
+      "section": "politics",
+      "label": "Russia investigation",
+      "value": "Trump fired FBI director James Comey on May 9, and the Justice Department named Robert Mueller special counsel eight days later",
+      "detail": "The intelligence community had released a declassified assessment on January 6 saying Russia ran a cyber operation on Putin's orders to influence the election. Comey testified to the Senate Intelligence Committee on June 8. Donald Trump Jr. released email transcripts on July 11 showing he had been offered damaging material on Hillary Clinton. The first charges came on October 27, and Michael Flynn was charged with lying to the FBI on December 1.",
+      "date": "2017-05-17",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "pol.charlottesville": {
+      "section": "politics",
+      "label": "Unite the Right rally in Charlottesville",
+      "value": "Alt-right, white nationalist, neo-Nazi and neo-Confederate groups gathered against the removal of the Robert Edward Lee sculpture and other Confederate monuments, and a counter-protester, Heather Heyer, was killed when a car hit her",
+      "detail": "The world year page names Heyer and the car attack, and the US year page lists the groups and says the rally left three people dead. Trump condemned the white supremacist groups explicitly on August 14 after several days of public pressure, and disbanded two of his business councils on August 16 as members resigned. Up to 30,000 people gathered on Boston Common on August 19 to protest a right-wing rally there.",
+      "date": "2017-08-12",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "pol.las_vegas": {
+      "section": "politics",
+      "label": "Las Vegas shooting",
+      "value": "Stephen Paddock fired from the 32nd floor of the Mandalay Bay hotel into a crowd at the Route 91 Harvest music festival, killing 60",
+      "detail": "The world year page's dated entry gives 867 injured and its own image caption more than 400, and both are stated here rather than resolved. The page calls it the deadliest mass shooting by a lone gunman in United States history, surpassing the Orlando nightclub shooting of the previous year.",
+      "date": "2017-10-01",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "pol.tax_act": {
+      "section": "politics",
+      "label": "Tax Cuts and Jobs Act",
+      "value": "The Senate passed what the US year page calls the most sweeping overhaul of the US tax code since the Reagan era",
+      "detail": "The page dates the Senate vote to December 2 and carries no signing date inside the year.",
+      "date": "2017-12-02",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "world.brexit": {
+      "section": "world",
+      "label": "United Kingdom triggers Article 50",
+      "value": "The UK invoked Article 50 of the Lisbon Treaty, opening the negotiations to leave the European Union",
+      "date": "2017-03-29",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "UK general election",
+      "value": "A snap election held three years before the next was due produced a hung parliament, and Theresa May's Conservatives lost their majority",
+      "detail": "Labour under Jeremy Corbyn made gains for the first time since 1997. Days later the Conservatives entered a confidence-and-supply deal with the Democratic Unionist Party.",
+      "date": "2017-06-08",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "world.france_election": {
+      "section": "world",
+      "label": "French presidential election",
+      "value": "Emmanuel Macron of En Marche! won the second round decisively, beating Marine Le Pen of the National Front",
+      "date": "2017-05-07",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "world.manchester": {
+      "section": "world",
+      "label": "Manchester Arena bombing",
+      "value": "An ISIL bombing at an Ariana Grande concert killed 22 people and injured more than 500",
+      "detail": "The same page's image caption gives 23 killed and more than a thousand injured, and both counts are stated here rather than resolved. The caption names The Glade of Light as the memorial.",
+      "date": "2017-05-22",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "world.isil_territory": {
+      "section": "world",
+      "label": "Islamic State loses its cities",
+      "value": [
+        "ISIL destroyed the Great Mosque of al-Nuri in Mosul, June 21",
+        "Mosul declared fully liberated, July 10",
+        "Raqqa declared fully liberated, October 17",
+        "Deir ez-Zor in Syria and Al-Qa'im in Iraq declared liberated on the same day, November 3",
+        "The Iraqi military announced it had fully liberated all of Iraq's territory and retaken the Iraqi-Syrian border, December 9"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "world.north_korea": {
+      "section": "world",
+      "label": "North Korea",
+      "value": "A sixth and most powerful nuclear test on September 3, and Kim Jong-nam killed with VX nerve agent at Kuala Lumpur International Airport on February 13",
+      "detail": "Kim Jong-nam was the eldest son of Kim Jong-il and the half-brother of Kim Jong-un, and two women attacked him. A ballistic missile test across the Sea of Japan on February 11 drew international condemnation. The UN Security Council approved sanctions on North Korean trade and investment unanimously on August 5 and voted 15 to 0 for further sanctions on December 22.",
+      "date": "2017-09-03",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "world.hurricanes": {
+      "section": "world",
+      "label": "Atlantic hurricanes",
+      "value": [
+        "Harvey, August 25 to 30, a Category 4 landfall in Texas that flooded the Houston area, 107 killed, tied for the costliest hurricane on record",
+        "Irma, first of many landfalls at peak intensity on September 6, 134 killed, damages of $77.2 billion",
+        "Maria, September 19 and 20, Category 5 on Dominica and Category 4 on Puerto Rico, over 3,000 deaths and damages above $91.6 billion"
+      ],
+      "detail": "Harvey's toll of 107 comes from the world year page's image caption and the rest from its dated entries. The Addicks and Barker dams in Houston began overflowing on August 29, and millions of homes lost power as Irma's centre crossed Florida on September 10.",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Star Wars: The Last Jedi, $1,332,539,889, Disney",
+        "Beauty and the Beast, $1,263,521,126, Disney",
+        "The Fate of the Furious, $1,236,005,118, Universal",
+        "Despicable Me 3, $1,034,799,409, Universal",
+        "Jumanji: Welcome to the Jungle, $962,077,546, Sony"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says. The Last Jedi reached American cinemas on December 15, so its figure is a lifetime total that went on accruing after the year ended. Wolf Warrior 2 was seventh on $870,325,439 and became the highest-grossing Chinese film ever released, taking 5.68 billion yuan at home. The film page says this was the first year since 1958 in which the top three highest-grossing domestic films were all female-led, and that the Marvel Cinematic Universe passed $11 billion, $12 billion and $13 billion in the course of it.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Shape of Water, produced by Guillermo del Toro and J. Miles Dale",
+      "detail": "Awarded the following March at the 90th Academy Awards, hosted by Jimmy Kimmel for a second consecutive year, the first person to host back-to-back ceremonies since Billy Crystal. The film led the field with 13 nominations and won four, and Dunkirk won three. The poster carried the tagline What could possibly go wrong?, an allusion to the announcement error at the previous ceremony, and Derek McLane's stage used a curtain of forty-five million Swarovski crystals. The telecast drew 26.5 million viewers in the United States, which the Hollywood Reporter piece the page cites calls an all-time low.",
+      "source": "https://en.wikipedia.org/wiki/90th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Gary Oldman, Darkest Hour, as Winston Churchill",
+        "Best Actress, Frances McDormand, Three Billboards Outside Ebbing, Missouri",
+        "Best Supporting Actor, Sam Rockwell, Three Billboards Outside Ebbing, Missouri",
+        "Best Supporting Actress, Allison Janney, I, Tonya"
+      ],
+      "detail": "Guillermo del Toro took Best Director, Roger Deakins Best Cinematography for Blade Runner 2049 and Alexandre Desplat Best Original Score. Jordan Peele won Best Original Screenplay for Get Out, the first African American to win it, and James Ivory won Best Adapted Screenplay for Call Me by Your Name at 89, the oldest winner of a competitive Oscar. Greta Gerwig was the fifth woman nominated for Best Director, for Lady Bird. Rachel Morrison was the first woman nominated for Best Cinematography, for Mudbound, and Mary J. Blige the first person nominated for acting and songwriting in the same year. Christopher Plummer, nominated at 88 for All the Money in the World, was the oldest performer ever nominated for a competitive Oscar.",
+      "source": "https://en.wikipedia.org/wiki/90th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "A Fantastic Woman, Chile, in Spanish, directed by Sebastian Lelio, the winner",
+        "The Insult, Lebanon, in Arabic, directed by Ziad Doueiri",
+        "Loveless, Russia, in Russian, directed by Andrey Zvyagintsev",
+        "On Body and Soul, Hungary, in Hungarian, directed by Ildiko Enyedi",
+        "The Square, Sweden, in Swedish, directed by Ruben Ostlund"
+      ],
+      "detail": "The film page gives the festival prizes: the Palme d'Or at the 70th Cannes Film Festival to Ruben Ostlund's The Square, the Golden Lion at the 74th Venice International Film Festival to Guillermo del Toro's The Shape of Water, and the Golden Bear at the 67th Berlin International Film Festival to Ildiko Enyedi's On Body and Soul.",
+      "source": "https://en.wikipedia.org/wiki/90th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$8.97",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. The film page ranks the year by worldwide theatrical gross and records no film reaching a home service ahead of cinemas.",
+      "detail": "None of the eleven cached pages carries a disc format, a rental figure or a film-specific streaming service. The home services the cache does carry are television ones and have their own fact under television.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2017",
+      "value": [
+        "The Big Bang Theory, CBS, 11.1 rating",
+        "NCIS, CBS, 10.3",
+        "Sunday Night Football, NBC, 10.3",
+        "This Is Us, NBC, 10.2",
+        "Roseanne, ABC, 10.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Young Sheldon was sixth on 9.5, The Good Doctor seventh on 9.3, Bull eighth on 8.9, Thursday Night Football ninth on 8.5 and Blue Bloods tenth on 8.2.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2017%E2%80%9318"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "69th Primetime Emmy Awards",
+      "value": "The Handmaid's Tale won five awards for Hulu, the first streaming program to take both Outstanding Drama Series and the lead actress award in a drama",
+      "detail": "Aired on CBS with Stephen Colbert hosting. Elisabeth Moss won the acting award. Sean Spicer appeared, and the ceremony used political material in the speeches and in Colbert's opening number. Netflix took Outstanding Television Movie for Black Mirror, the first streaming program to win that category.",
+      "date": "2017-09-17",
+      "source": "https://en.wikipedia.org/wiki/2017_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that arrived or came back",
+      "value": [
+        "One Day at a Time, Netflix, January 6, a remake of a series that last aired in 1984",
+        "Samurai Jack, Adult Swim, March 11, last aired 2004",
+        "Prison Break, Fox, April 4, last aired 2009",
+        "Mystery Science Theater 3000, Netflix, April 14, last aired 1999",
+        "Twin Peaks, Showtime, May 21, last aired 1991",
+        "Star Trek: Discovery, CBS All Access, September 24"
+      ],
+      "detail": "Dates and previous channels from the television page's table of returning programs. The Star Trek premiere aired in primetime on CBS for the occasion and ended the absence of a first-run Star Trek series since Enterprise was cancelled by UPN in 2005.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_American_television"
+    },
+    "tv.streaming_launches": {
+      "section": "tv",
+      "label": "Live television over the internet",
+      "value": [
+        "YouTube TV, April 5, in New York City, Los Angeles, the San Francisco Bay Area, Philadelphia and Chicago",
+        "Hulu's live channel service, beta launch May 3, more than 50 channels for $39.99"
+      ],
+      "detail": "YouTube TV was announced on February 28 and carried the five major broadcast networks plus about 40 cable channels, a smaller lineup than the more than 100 on AT&T's DirecTV Now, with nothing from Viacom, Time Warner, Discovery, A+E or AMC. It allowed six profiles per subscription, three simultaneous streams per account and a cloud recorder that held programs for nine months. Amazon Prime bought the streaming rights to Thursday Night Football on April 4 for $50 million, five times what Twitter paid the previous year.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Shape of You, Ed Sheeran",
+      "detail": "It spent twelve nonconsecutive weeks at number one during the year, and Castle on the Hill from the same album finished 40th. Despacito (Remix) by Luis Fonsi and Daddy Yankee featuring Justin Bieber came second and That's What I Like by Bruno Mars third. Closer by The Chainsmokers featuring Halsey made the top ten for a second year running, only the third song to do so after Candle in the Wind and How Do I Live. Migos placed five songs on the list and Ed Sheeran was named the top Hot 100 artist.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2017"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "By streaming. Despacito became the most-streamed song of all time in July, counting 4.6 billion plays across the original and the remix, and its video became the most-viewed on YouTube in August.",
+      "detail": "The Hot 100 counted weekly physical and digital single sales alongside airplay and streaming, compiled by Nielsen SoundScan, and the year-end list was published on December 11 from data running from December 3, 2016 to November 25. No cached page names a subscription service, a vinyl figure or a sales total, so the streaming claims here come from the song's own article.",
+      "source": "https://en.wikipedia.org/wiki/Despacito"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "59th Grammy Awards",
+      "value": "Adele won Record of the Year and Song of the Year for Hello and Album of the Year for 25, and Chance the Rapper was named Best New Artist",
+      "detail": "The US year page places the ceremony at the Staples Center in Los Angeles on February 12. The awards honoured the previous year's recordings.",
+      "date": "2017-02-12",
+      "source": "https://en.wikipedia.org/wiki/2017_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Salvador Sobral won for Portugal with Amar pelos dois, at the contest held in Kyiv from May 9 to 13",
+      "date": "2017-05-13",
+      "source": "https://en.wikipedia.org/wiki/2017_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "The Legend of Zelda: Breath of the Wild, Nintendo, March 3, scoring 97 on Metacritic",
+        "Persona 5, Atlus, April 4",
+        "PlayerUnknown's Battlegrounds, in early access on personal computers from March, 30 million units sold by the end of the year",
+        "Super Mario Odyssey, Nintendo, October 27, also scoring 97",
+        "Fortnite Battle Royale, September 26"
+      ],
+      "detail": "Nintendo released the Switch worldwide on March 3, the same day as Breath of the Wild, along with the New Nintendo 2DS XL, and Microsoft released the Xbox One X. Newzoo put global game revenue at $116.6 billion, up 10 percent, of which 43 percent came from mobile. PUBG was the best-selling premium game at 30 million units and $900 million, ahead of Call of Duty: WWII. Breath of the Wild took Game of the Year at the 35th Golden Joystick Awards on November 17 and at The Game Awards on December 7. Six of the ten highest-grossing games were published or owned by Tencent, including the top three.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_video_games"
+    },
+    "tech.ai": {
+      "section": "tech",
+      "label": "Artificial intelligence",
+      "value": "DeepMind's AlphaGo beat Ke Jie, the world's top-ranked Go player, in the third of three matches at the Future of Go Summit in China",
+      "detail": "Google revealed on January 4 that Master, an anonymous online player who had taken 60 games and lost none in seven days, was an improved AlphaGo. Google's AlphaZero beat a champion chess program on December 5 after teaching itself to play in four hours. Carnegie Mellon announced Libratus in January, built to beat humans at poker, and the Japanese insurer Fukoku Mutual Life said on January 5 that 34 of its office workers would be replaced by IBM's Watson.",
+      "date": "2017-05-27",
+      "source": "https://en.wikipedia.org/wiki/2017_in_science"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Space and astronomy",
+      "value": [
+        "Seven Earth-sized exoplanets found orbiting TRAPPIST-1, an ultra-cool dwarf star, announced February 22",
+        "SpaceX conducted the world's first reflight of an orbital-class rocket, March 30",
+        "Cassini ended its 13-year mission by plunging into Saturn, September 15",
+        "Robert Weryk discovered Oumuamua, the first known interstellar object passing through the Solar System, October 19"
+      ],
+      "detail": "Nature published the paper recognising Oumuamua as coming from outside the Solar System on November 20. SpaceX had resumed flights on January 14 after a launch pad explosion the previous September, putting ten satellites in orbit on a reusable Falcon 9. The science page places TRAPPIST-1 about 40 light-years from Earth and the US year page 39, and neither is resolved here.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_science"
+    },
+    "tech.gravitational_waves": {
+      "section": "tech",
+      "label": "Two neutron stars seen colliding",
+      "value": "The first observation of a collision of two neutron stars, catalogued as GW170817",
+      "detail": "The world year page dates the detection to August 17 and calls it a breakthrough in astrophysics. The science page carries the announcement of October 16.",
+      "date": "2017-08-17",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "tech.internet_rules": {
+      "section": "tech",
+      "label": "FCC repeals net neutrality",
+      "value": "The Federal Communications Commission voted to repeal the net neutrality rules, against strong public opposition",
+      "date": "2017-12-14",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "tech.devices": {
+      "section": "tech",
+      "label": "iPhone X",
+      "value": "Apple unveiled it on September 12 and released it on November 3 at $999, the most expensive iPhone launch price to that point",
+      "detail": "It was the first iPhone built without a home button and the first with an OLED screen, and Face ID replaced the Touch ID sensor the home button had held. Pre-orders opened on October 27. None of the eleven cached pages mentions the phone, so this fact cites its own article.",
+      "date": "2017-11-03",
+      "source": "https://en.wikipedia.org/wiki/IPhone_X"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$2.41 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.art_auction": {
+      "section": "prices",
+      "label": "Record auction prices",
+      "value": [
+        "Leonardo da Vinci's Salvator Mundi, $450 million at Christie's in New York on November 15, a record for any work of art",
+        "Jean-Michel Basquiat's Untitled, $110 million at Sotheby's on May 18, the most expensive work by an American artist sold at auction"
+      ],
+      "detail": "The Leonardo sale comes from the world year page and the Basquiat from the US year page, which dates the painting to 1982.",
+      "date": "2017-11-15",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "prices.life_expectancy": {
+      "section": "prices",
+      "label": "US life expectancy",
+      "value": "78.6 years, down from 78.7, a second annual fall in a row",
+      "detail": "The National Center for Health Statistics published the figure on December 21, covering the previous year. The US year page calls it the first such consecutive decline in more than half a century and says the drop was driven by the opioid crisis.",
+      "date": "2017-12-21",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "prices.bitcoin": {
+      "section": "prices",
+      "label": "Bitcoin price",
+      "value": "An all-time high of $19,783.06 on December 17, up 1,824 percent since January 1",
+      "detail": "It broke $5,000 for the first time on September 1 and rose 5 percent in the 24 hours to the December high. None of the eleven cached pages mentions bitcoin at all, so this fact cites the currency's own history article.",
+      "date": "2017-12-17",
+      "source": "https://en.wikipedia.org/wiki/History_of_bitcoin"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Marches in January, evacuations in September, and an autumn in which powerful men in film, television and news lost their jobs within weeks of each other."
+    },
+    "culture.metoo": {
+      "section": "culture",
+      "label": "MeToo",
+      "value": "The New York Times published an investigation by Jodi Kantor and Megan Twohey on October 5 accusing the film producer Harvey Weinstein of sexual harassment spanning three decades, and Alyssa Milano's post ten days later spread the phrase Me Too as a hashtag",
+      "detail": "The US year page carries the Times investigation, naming actresses, production assistants, temps and other employees among those involved, and cites the Kantor and Twohey report of October 5. The New Yorker published on the same subject, which the film page's assessment of the year names alongside the Times. Tarana Burke had used the phrase on Myspace around 2006. No cached page carries the hashtag, so the Milano date comes from the movement's own article.",
+      "date": "2017-10-05",
+      "source": "https://en.wikipedia.org/wiki/MeToo_movement"
+    },
+    "culture.womens_march": {
+      "section": "culture",
+      "label": "Women's March",
+      "value": "2.9 million people marched against the inauguration, at 420 marches in the United States and 168 in other countries",
+      "detail": "The US year page calls it the single biggest protest in US history and the world year page the largest single-day protest in American history at the time.",
+      "date": "2017-01-21",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Kazuo Ishiguro",
+        "Peace, International Campaign to Abolish Nuclear Weapons",
+        "Physics, Barry Barish, Kip Thorne and Rainer Weiss",
+        "Chemistry, Jacques Dubochet, Joachim Frank and Richard Henderson",
+        "Medicine, Jeffrey C. Hall, Michael Rosbash and Michael W. Young",
+        "Economics, Richard Thaler"
+      ],
+      "detail": "The world year page lists the winners and gives no dates.",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LI",
+      "value": "New England Patriots 34, Atlanta Falcons 28, the first Super Bowl decided in overtime",
+      "detail": "Played at NRG Stadium in front of 70,807, which is the sports page's attendance figure. The US year page dates the game to February 5 and calls it the first overtime game in the event's history.",
+      "date": "2017-02-05",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Houston Astros beat the Los Angeles Dodgers after seven games",
+      "detail": "The US year page dates the clinching game to November 1 and notes that Houston had been struck by Hurricane Harvey three months earlier.",
+      "date": "2017-11-01",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Golden State Warriors over the Cleveland Cavaliers four games to one, a fifth championship and a second in three years, with Kevin Durant winning his first title and the Finals award",
+        "Stanley Cup, Pittsburgh Penguins over the Nashville Predators four games to two, a fifth cup in the club's 50th season and a second in a row, with Sidney Crosby taking the Conn Smythe Trophy for the second year running"
+      ],
+      "detail": "The US year page dates the Penguins' clinching game to June 11 and the Warriors' to June 12, and says Golden State went 16 and 1 in the postseason, the best record in history.",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "sports.anthem_protests": {
+      "section": "sports",
+      "label": "National anthem protests in the NFL",
+      "value": "After Trump told an Alabama rally on September 22 that owners should fire players who knelt during the anthem, 28 of the 32 teams playing two days later locked arms, knelt or stayed in their locker rooms",
+      "detail": "The television page records the response across the CBS, Fox and NBC broadcasts and on the Sunday morning talk shows. The US year page says the remarks drew widespread condemnation and more protests. ESPN's Jemele Hill had called Trump a white supremacist on Twitter on September 11.",
+      "date": "2017-09-24",
+      "source": "https://en.wikipedia.org/wiki/2017_in_American_television"
+    },
+    "sports.russia_doping": {
+      "section": "sports",
+      "label": "Russia banned from the Winter Games",
+      "value": "The International Olympic Committee banned Russia from the Winter Games in Pyeongchang after an investigation into state-sponsored doping",
+      "date": "2017-12-05",
+      "source": "https://en.wikipedia.org/wiki/2017"
+    },
+    "sports.usmnt": {
+      "section": "sports",
+      "label": "United States miss the World Cup",
+      "value": "The men's national team lost 2 to 1 to Trinidad and Tobago in its final qualifier and was eliminated for the first time in its history",
+      "detail": "The US year page says the Americans had to win to qualify for the tournament in Russia, and that the defeat ended a run of seven consecutive qualifications.",
+      "date": "2017-10-10",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "deaths.hurt": {
+      "section": "deaths",
+      "label": "John Hurt",
+      "value": "Died January 25, aged 77",
+      "detail": "British actor. The film page names The Elephant Man and Alien.",
+      "date": "2017-01-25",
+      "source": "https://en.wikipedia.org/wiki/2017_in_film"
+    },
+    "deaths.berry": {
+      "section": "deaths",
+      "label": "Chuck Berry",
+      "value": "Died March 18, aged 90",
+      "detail": "American rock and roll guitarist, singer and songwriter. The US year page calls him a rock and roll pioneer.",
+      "date": "2017-03-18",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "deaths.moore": {
+      "section": "deaths",
+      "label": "Roger Moore",
+      "value": "Died May 23, aged 89",
+      "detail": "British actor. The film page names James Bond and The Cannonball Run.",
+      "date": "2017-05-23",
+      "source": "https://en.wikipedia.org/wiki/2017_in_film"
+    },
+    "deaths.hefner": {
+      "section": "deaths",
+      "label": "Hugh Hefner",
+      "value": "Died September 27, aged 91",
+      "detail": "Founder of Playboy. The US year page records that the Playboy Mansion went up for sale in January on terms requiring him to live there until he died.",
+      "date": "2017-09-27",
+      "source": "https://en.wikipedia.org/wiki/2017_in_the_United_States"
+    },
+    "deaths.petty": {
+      "section": "deaths",
+      "label": "Tom Petty",
+      "value": "Died October 2, aged 66",
+      "detail": "American rock singer, songwriter and guitarist, of Tom Petty and the Heartbreakers, the Traveling Wilburys and Mudcrutch.",
+      "date": "2017-10-02",
+      "source": "https://en.wikipedia.org/wiki/2017_in_music"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the eleven cached wikitext pages under .sources/2017 plus five dedicated articles named below. Box office basis. bo.mjs reports GROSS and territory WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, so figures_basis is gross and film.gross names worldwide in its label and again in its detail. Star Wars: The Last Jedi reached American cinemas on December 15 per the US year page, so its $1,332,539,889 is a lifetime worldwide total that carried on accruing after the year ended rather than a figure earned inside it. Date checks. The inauguration falls on January 20, which is the date the US year page gives and the date the Twentieth Amendment fixes, so the two agree and no dedicated article was needed. No US federal election falls this year; the Alabama Senate special election of December 12 is not a federal general election and is carried in pol.us_congress as the page dates it. The 90th Academy Awards ceremony falls in the following year, so film.best_picture says the following March rather than a date, which is the corpus convention. Source disagreements labelled rather than resolved. The Las Vegas shooting is 60 killed and 867 injured in the world year page's dated entry and 60 killed and more than 400 injured in the same page's image caption. The Manchester Arena bombing is 22 killed and more than 500 injured in the dated entry and 23 killed and more than a thousand injured in the caption. TRAPPIST-1 is about 40 light-years away on the science page and 39 light years on the US year page. The Disney purchase of most of 21st Century Fox is $66 billion on the world year page and $52.4 billion on the US year page, and was left out of the facts entirely rather than stated at one figure. Every one of these is written into the fact's detail. Dedicated articles pulled because the cache does not carry the fact. culture.metoo cites the MeToo movement's own article for Alyssa Milano's post of October 15 and for Tarana Burke's use of the phrase around 2006, since no cached page contains the word MeToo at all; the October 5 New York Times investigation by Jodi Kantor and Megan Twohey is in the US year page and the New Yorker reporting is named in the film page's assessment of the year, so those halves are cached. music.listening_format cites the Despacito article, because no cached page mentions streaming as a way of listening, no cached page names a subscription service, and the hot100 page carries only a description of how the chart was compiled. tech.devices cites the iPhone X article, because no cached page mentions the phone. prices.bitcoin cites the history of bitcoin, because no cached page mentions bitcoin. The four together are the fill-the-gap pulls the brief allows, and each says so in its own detail. Names carrying a four-digit number. checkname.mjs was run on Blade Runner 2049, GW170817, Turkish Airlines Flight 6491, Executive Order 13769, TRAPPIST-1, Super Bowl LI, Mystery Science Theater 3000, Route 91 Harvest, Persona 5, Wolf Warrior 2, Call of Duty: WWII, Xbox One X, New Nintendo 2DS XL, the $19,783.06 bitcoin high and the 1,824 percent figure. Every one reported SAFE except Blade Runner 2049, which fails because 2049 is later than 2017. The film had five Academy Award nominations and won two, and it is left out of the file entirely rather than named; no allowlist entry is requested for it, and this note is the only place the omission appears. Three future-edition names were handled by the host-city convention instead of an allowlist entry: the IOC award of September 13 to Paris and Los Angeles is not in the facts, the Russian doping ban of December 5 is written as the Winter Games in Pyeongchang with no edition named, and sports.usmnt says the tournament in Russia rather than naming it. The Qatar diplomatic crisis is written on the world year page as the crisis of 2017 to 2018 and was left out for that reason among others. The Nielsen ranking covers a season that began in the autumn and ran into the following spring, which tv.top_shows states without naming a second year. Dropped for lack of a source. No cached page carries a US unemployment figure for the year, the BLS and FRED data endpoints both refuse automated requests, and no series file covers unemployment, so there is no prices.unemployment fact. The music page's Rock and Roll Hall of Fame row is empty in the wikitext, so there is no inductees fact. There is no cached deaths page: the manifest records Deaths_in_2017 as a redirect to a list of lists, so every death here comes from the film page, the music page or the US year page. Equifax, Whole Foods, Uber and the Puerto Rico power collapse appear in no cached page and were not pulled, since the four pulls above already cover what a reader would most notice missing. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Diacritics are written in ASCII per the corpus convention, so Sebastian Lelio, Ruben Ostlund, Ildiko Enyedi, Suddeutsche Zeitung and Oumuamua lose theirs. Dropped for room. Politics and world: the withdrawal from the Trans-Pacific Partnership of January 23 and from the Paris climate agreement announced June 1 and from UNESCO of October 12, the recognition of Jerusalem as Israel's capital on December 6, the DACA announcement of September 5, the Dow passing 20,000 on January 25, the healthcare repeal votes of July, the Sutherland Springs church shooting of November 5 that killed 26, the New York City truck attack of October 31, the Scalise shooting of June 14, the WannaCry attack of May 12 that reached at least 150 countries, the Petya cyberattacks on Ukraine of June 27, the Rohingya operation from August 25, the Istanbul nightclub shooting of January 1, the Quebec City mosque shooting of January 29, the London Bridge and Westminster attacks, the Barcelona attacks of August 17, the Sinai mosque attack of November 24 that killed 305, the Mexico earthquakes of September 7 and 19, the Iran-Iraq earthquake of November 12, the Mocoa landslide, the South Asian floods, the Kurdistan referendum of September 25, Xi Jinping's second term of October 25, Montenegro joining NATO, the Gambian crisis of January, and the Mladic verdict of November 22. The Grenfell Tower fire, the Paradise Papers, the Catalan declaration and the Zimbabwean coup are in the texture instead of the facts. Film and television: the 89th Academy Awards of February 26, which honoured the previous year of film and would put a second Best Picture on the page, is in the texture for the envelope error rather than in the facts; also out are the Golden Globes, the SAG and Producers Guild ceremonies, the Toys R Us bankruptcy of September 18, the Weinstein Company collapse, and every award ceremony held in the following year. Music: the MTV Video Music Awards of August 27, the Latin Grammys, the Brit Awards, the Mercury Prize to Sampha, the Juno Awards to Leonard Cohen, and the deaths of Chris Cornell on May 17, Chester Bennington on July 20, Glen Campbell on August 8, Walter Becker on September 3, Fats Domino on October 24, Malcolm Young on November 18 and Gregg Allman on May 27. Film deaths that would have earned a place with more room: Mary Tyler Moore on January 25 aged 80, Don Rickles on April 6, Jonathan Demme on April 26, Adam West on June 9, Martin Landau on July 15, Sam Shepard on July 27, Jeanne Moreau on July 31, Jerry Lewis on August 20 aged 91, Harry Dean Stanton on September 15 aged 91, Om Puri on January 6, Emmanuelle Riva on January 27 and William Peter Blatty on January 12. Other deaths: Charles Manson on November 19 aged 83 and Hugh Hefner, who is carried. This file runs 54 facts across 10 sections: politics 7, world 7, film 6, tv 4, music 4, tech 6, prices 5, culture 4, sports 6, deaths 5. No radio fact, because the radio window closed after 1959. Review pass added Blade Runner 2049 to src/data/name_years.json and restored the film to Roger Deakins's Best Cinematography credit, which had named the award without the picture."
+}
