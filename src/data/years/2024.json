@@ -1,0 +1,486 @@
+{
+  "year": 2024,
+  "tier": "modern",
+  "headline": "Trump beat Harris on November 5, Paris held the Summer Olympics in July, Assad fled Damascus in December",
+  "texture": [
+    "A door plug blew out of an Alaska Airlines 737 MAX 9 over Portland on January 5, and the Federal Aviation Administration grounded every MAX 9 in the country. Boeing agreed on July 8 to plead guilty to a criminal fraud conspiracy charge tied to two earlier crashes of the same aircraft. The Singaporean cargo ship Dali struck the Francis Scott Key Bridge in Baltimore on March 26 and brought it down, with six road workers presumed dead. Crews blew up the remaining span with explosives on May 13 and towed the ship back to port a week later.",
+    "More than 1,300 pilgrims died in extreme heat during the Hajj at Mecca in June. Villages in Papua New Guinea were buried by a landslide on May 24, and the world year page gives the toll as anywhere from 160 to more than two thousand. Hurricane Beryl wrecked the island of Carriacou on July 1 and became the earliest Category 5 hurricane on record. Spain had its worst flooding in half a century on October 29, with over 200 killed after a year's worth of rain fell in eight hours. Notre-Dame reopened to the public in Paris on December 7.",
+    "Apple began selling the Vision Pro to American buyers on February 2. Willis Gibson, aged thirteen, reached the kill screen of the NES version of Tetris on January 3, the first person known to have got there. 99 Cents Only Stores began closing all 371 of its shops in April, and Six Flags Great Adventure retired Kingda Ka, the tallest roller coaster in the world, on November 14. The Onion won Alex Jones's InfoWars at a bankruptcy auction that same day, and a federal judge rejected the sale on December 10.",
+    "Caitlin Clark passed Pete Maravich's career scoring record in NCAA Division I basketball on March 3, at 3,685 points. Mystik Dan won the 150th Kentucky Derby on May 4 in the closest three-horse photo finish since 1947. Taylor Swift closed the American leg of the Eras Tour at Lucas Oil Stadium in Indianapolis on November 3, the highest-grossing concert tour ever staged. In December, Bart Simpson led the Cincinnati Bengals against Homer and the Dallas Cowboys in an animated alternate broadcast of a Monday Night Football game on Disney+ and ESPN+."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.gaza",
+    "world.syria",
+    "film.gross#0",
+    "tech.ai",
+    "sports.olympics",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Joe Biden (D)",
+      "detail": "Kamala Harris was vice president and John Roberts chief justice. Mike Johnson (R-Louisiana) was Speaker of the House and Chuck Schumer (D-New York) Senate majority leader, in the 118th Congress. Biden delivered the State of the Union address on March 7. He pardoned his son Hunter on December 1, having said previously that he would not, and commuted the sentences of roughly 1,500 people on December 12.",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Donald Trump and JD Vance beat Kamala Harris and Tim Walz, 312 electoral votes to 226",
+      "detail": "Trump took 77,302,580 votes to Harris's 75,017,613, 49.8 percent against 48.3 percent, on turnout of 64.3 percent. He carried 31 states plus Maine's second district, and she carried 19 states, the District of Columbia and Nebraska's second district. The US year page calls him the second president elected to non-consecutive terms after Grover Cleveland, the first convicted felon elected to the office and the oldest man elected to it. The offices on the ballot were the presidency, the vice presidency, all 435 House seats and roughly a third of the Senate. The date satisfies the constitutional rule that the vote falls on the Tuesday after the first Monday in November, and November 5 was a Tuesday. None of the ten cached pages carries a vote count, so the figures come from the election's own article, which cites the Federal Election Commission.",
+      "date": "2024-11-05",
+      "source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+    },
+    "pol.biden_withdrawal": {
+      "section": "politics",
+      "label": "Biden left the presidential race",
+      "value": "He announced his withdrawal and endorsed Kamala Harris, who launched her own campaign the same day and was the presumptive Democratic nominee the next",
+      "detail": "He had debated Donald Trump on June 27, broadcast by CNN from Atlanta. The US year page records that his age and health were raised afterwards, that his campaign team was accused of withholding information about his condition from Democratic leaders, and that members of Congress, statewide officials, donors and celebrities called on him to stand down. The Republican convention met at the Fiserv Forum in Milwaukee from July 15 to 18, where Trump picked Vance on the first day, and the Democratic convention at the United Center in Chicago from August 19 to 22. Harris and Trump debated on September 10 at the National Constitution Center in Philadelphia.",
+      "date": "2024-07-21",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "pol.trump_conviction": {
+      "section": "politics",
+      "label": "Trump convicted in New York",
+      "value": "A jury found him guilty of 34 counts of falsifying business records in the hush money trial, the first US president ever convicted of a felony",
+      "detail": "Judge Juan Merchan had fined him $9,000 for contempt of court on April 30. Sentencing was postponed until September after the Supreme Court's immunity ruling. Judge Aileen Cannon dismissed the classified documents case on July 15, and Special Counsel Jack Smith dropped the election interference case on November 25. In a separate civil matter on January 26, a jury awarded E. Jean Carroll $83.3 million.",
+      "date": "2024-05-30",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "pol.trump_shooting": {
+      "section": "politics",
+      "label": "Attempted assassination of Donald Trump",
+      "value": "He was shot at and slightly injured at a campaign rally in Butler, Pennsylvania",
+      "detail": "The Butler County district attorney reported that the suspect was shot dead and that a member of the audience was killed, with two other attendees injured. Secret Service director Kimberly Cheatle resigned on July 23 after criticism of the agency's handling of the rally. A second attempt followed on September 15 at Trump's golf course in Florida, where Ryan Wesley Routh was accused of lying in wait.",
+      "date": "2024-07-13",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court on presidential immunity",
+      "value": "In Trump v. United States the court held 6 to 3 that former presidents have absolute immunity from prosecution for official acts resting on core constitutional powers, presumed immunity for other official acts, and none for unofficial acts",
+      "detail": "Two other decisions ran through the same term. On March 4 the court ruled unanimously in Trump v. Anderson that states cannot keep presidential candidates off the ballot. On June 28 it overruled the 1984 Chevron decision by 6 to 3 in Loper Bright Enterprises v. Raimondo, cutting the deference courts give federal agencies.",
+      "date": "2024-07-01",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "world.elections": {
+      "section": "world",
+      "label": "A year of national elections",
+      "value": "About 80 countries holding roughly 4 billion people went to the polls, among them eight of the ten most populous",
+      "detail": "The world year page names Bangladesh, Brazil, Pakistan, Russia, India, Mexico, Indonesia and the United States, along with France, the United Kingdom, Japan and the European Parliament. Among democracies it says over 80 percent of incumbent parties lost support against their previous result. India's BJP lost its outright majority while its alliance kept one, the African National Congress lost its majority in South Africa for the first time, Japan's Liberal Democrats lost theirs, and Botswana's ruling party was voted out. Bassirou Diomaye Faye won in Senegal, the first opposition candidate to take the presidency in the first round since independence.",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.gaza": {
+      "section": "world",
+      "label": "Gaza war",
+      "value": "The International Court of Justice ordered Israel on January 26 to take all measures within its power to prevent genocidal acts, and on May 24 to halt its offensive in Rafah",
+      "detail": "The UN Security Council passed a resolution calling for an immediate ceasefire on March 25. The UN estimated on March 14 that at least 56 percent of Palestinian civilians killed were women and children. Ismail Haniyeh, the political leader of Hamas, was assassinated at his residence in Tehran on July 31, and Yahya Sinwar was killed in a gunfight with Israeli forces in Gaza on October 16. The International Criminal Court issued arrest warrants on November 21 against Benjamin Netanyahu, Yoav Gallant and Mohammed Deif. Protests against the war spread across university campuses worldwide from April.",
+      "date": "2024-01-26",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.lebanon": {
+      "section": "world",
+      "label": "Israel and Hezbollah",
+      "value": "Israeli forces invaded southern Lebanon on October 1, after a September offensive that killed the Hezbollah secretary-general Hassan Nasrallah",
+      "detail": "Pagers and other devices carried by Hezbollah members exploded across Lebanon on September 17 and 18, killing 32 people and injuring more than 3,200. September 23 was the deadliest day of the conflict since 2006. Israel bombed Hezbollah's central headquarters in Beirut on September 27. Netanyahu announced a ceasefire deal with Lebanon on November 26. Iran fired ballistic missiles at Israel on October 1 in response to the assassinations, and Israel struck back on October 26.",
+      "date": "2024-10-01",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.syria": {
+      "section": "world",
+      "label": "Fall of the Assad government",
+      "value": "Bashar al-Assad fled Damascus for Moscow after being overthrown, ending 61 years of Ba'athist rule in Syria",
+      "detail": "Opposition forces had taken most of Aleppo on November 30, which brought the first Russian airstrikes on the city since 2016. The opposition then formed a transitional government as a provisional administration.",
+      "date": "2024-12-08",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.south_korea": {
+      "section": "world",
+      "label": "Martial law in South Korea",
+      "value": "President Yoon Suk Yeol declared martial law in a late-night address on December 3 and members of parliament voted it down",
+      "detail": "His powers and duties were suspended on December 14 when MPs voted to impeach him. Acting president Han Duck-soo was himself impeached on December 27 for failing to fill vacancies on the Constitutional Court.",
+      "date": "2024-12-03",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.european_politics": {
+      "section": "world",
+      "label": "Governments changed in Europe",
+      "value": "Keir Starmer led Labour to victory in the United Kingdom general election of July 4, returning the party to government for the first time in 14 years",
+      "detail": "The left-wing New Popular Front won the most seats in the French legislative election of July 7 without taking a majority, and Michel Barnier became the first French prime minister to lose a motion of no confidence since Georges Pompidou in 1962. Olaf Scholz dismissed the finance minister Christian Lindner on November 5 and his coalition fell apart. Sweden joined NATO on March 7, the last Nordic country to do so. Romania's Constitutional Court annulled the first round of its presidential election on December 6 over accusations of Russian interference.",
+      "date": "2024-07-04",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.crocus_attack": {
+      "section": "world",
+      "label": "Crocus City Hall attack",
+      "value": "Gunmen affiliated with Islamic State attacked concertgoers at the venue in Krasnogorsk near Moscow, killing 151 people and injuring 609",
+      "detail": "The world year page calls it the deadliest terrorist attack in Russia since the Beslan school siege of 2004. An Islamic State double bombing at Kerman in Iran on January 3 had killed 94 people during a memorial for Qasem Soleimani.",
+      "date": "2024-03-22",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "world.temperature_record": {
+      "section": "world",
+      "label": "Global surface temperature",
+      "value": "Earth recorded its highest average annual surface air temperature since measurements began, ahead of the previous year",
+      "detail": "The science page carries the figure as a Copernicus chart of global surface temperature from 1940 onward and states no anomaly value in its text for the year, so none is given here. The same page opens with the Japan Meteorological Agency confirming on January 2 that the previous year had been the warmest on record at 1.43 degrees Celsius above the 1850 to 1900 baseline, and NASA putting that figure at 1.4 degrees above the late nineteenth century average.",
+      "source": "https://en.wikipedia.org/wiki/2024_in_science"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Inside Out 2, $1,698,863,816, Disney",
+        "Deadpool & Wolverine, $1,338,073,645, Disney",
+        "Moana 2, $1,059,242,164, Disney",
+        "Despicable Me 4, $972,021,410, Universal",
+        "Wicked, $758,729,195, Universal",
+        "Mufasa: The Lion King, $723,060,982, Disney"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says, citing Box Office Mojo and The Numbers. Inside Out 2 passed The Lion King to become the highest-grossing animated film ever made and reached a billion dollars faster than any animated film before it. Deadpool & Wolverine took the record for the biggest opening weekend for an R-rated film and passed Joker as the highest-grossing R-rated release. The Despicable Me films became the first animated series to gross $5 billion, and Wicked passed Mamma Mia! as the biggest screen adaptation of a Broadway musical. The film page notes this was the first year since 2019 in which the whole worldwide top ten came from Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/2024_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Anora, produced by Alex Coco, Samantha Quan and Sean Baker",
+      "detail": "Awarded the following March at the 97th Academy Awards, held at the Dolby Theatre in Hollywood with Conan O'Brien hosting for the first time. Anora won five awards in all, the most of any film. Sean Baker collected four of them in one night for producing, directing, writing and editing it, the second person to win four in an evening after Walt Disney at the 26th ceremony in 1954 and the first to do it for a single film. Emilia Perez led the nominations with thirteen, the most ever for a film not in English, with The Brutalist and Wicked on ten each. The telecast on ABC and Hulu drew 19.69 million viewers.",
+      "source": "https://en.wikipedia.org/wiki/97th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Adrien Brody, The Brutalist",
+        "Best Actress, Mikey Madison, Anora",
+        "Best Supporting Actor, Kieran Culkin, A Real Pain",
+        "Best Supporting Actress, Zoe Saldana, Emilia Perez"
+      ],
+      "detail": "Brody's acceptance speech ran 5 minutes and 37 seconds, the longest in Oscar history. Saldana was the first Dominican American to win an Oscar. Karla Sofia Gascon of Emilia Perez was the first openly transgender performer nominated in an acting category. Paul Tazewell won Best Costume Design for Wicked, the first black man to take that award, and Daniel Blumberg Best Original Score for The Brutalist. El Mal from Emilia Perez won Best Original Song.",
+      "source": "https://en.wikipedia.org/wiki/97th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best International Feature Film",
+      "value": [
+        "I'm Still Here, Brazil, in Portuguese, directed by Walter Salles, the winner",
+        "Emilia Perez, France, in Spanish, directed by Jacques Audiard",
+        "Flow, Latvia, directed by Gints Zilbalodis",
+        "The Girl with the Needle, Denmark, in Danish, directed by Magnus von Horn",
+        "The Seed of the Sacred Fig, Germany, in Persian, directed by Mohammad Rasoulof"
+      ],
+      "detail": "Emilia Perez and I'm Still Here were the first two films nominated for Best Picture and Best International Feature in the same year, and I'm Still Here the first Portuguese-language film nominated for Best Picture. Flow won Best Animated Feature, the first independently animated film to take that award and the first Latvian film to win any Oscar. No Other Land won Best Documentary Feature and was the first Palestinian film to win one. The film page gives the festival prizes: the Palme d'Or at the 77th Cannes Film Festival to Sean Baker's Anora, the Golden Lion at the 81st Venice International Film Festival to Pedro Almodovar's The Room Next Door, and the Golden Bear at the 74th Berlin International Film Festival to Mati Diop's Dahomey.",
+      "source": "https://en.wikipedia.org/wiki/97th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a cinema. Nine of the ten Best Picture nominees had a domestic gross to report and the tenth had none, because Netflix refuses to release those figures for its films",
+      "detail": "The Oscars page puts the nine together at $900 million taken from the American and Canadian box offices by the time nominations were announced: Wicked $466 million, Dune: Part Two $283 million, A Complete Unknown $59 million, Conclave $32 million, The Substance $17 million, Anora $15 million, The Brutalist $6 million, Nickel Boys $1.1 million and I'm Still Here $162,000. Emilia Perez was the tenth. None of the ten cached pages gives a total for the year's box office or a subscriber count for any home service.",
+      "source": "https://en.wikipedia.org/wiki/97th_Academy_Awards"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2024",
+      "value": [
+        "Sunday Night Football, NBC, 21.6",
+        "Tracker, CBS, 17.4",
+        "High Potential, ABC, 16.1",
+        "Matlock, CBS, 16.0",
+        "Georgie & Mandy's First Marriage, CBS, 12.1",
+        "Ghosts, CBS, 12.1"
+      ],
+      "detail": "Nielsen counts by season rather than by calendar year, so this list covers the run that opened in September and finished the following spring. The last two tied for fifth place. Monday Night Football was seventh on 11.9, Elsbeth eighth on 11.5, Will Trent ninth on 11.4 and 9-1-1 tenth on 11.1. The column in the source is headed Rating with no unit given. The manifest records the ratings page for this season as a 404, so the table comes from the by-season list instead.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "76th Primetime Emmy Awards",
+      "value": "Shogun won Outstanding Drama Series, Hacks Outstanding Comedy Series and Baby Reindeer the limited series award",
+      "detail": "Broadcast on ABC from the Peacock Theater with Eugene Levy and Dan Levy hosting. Shogun was the first series not in English to win the drama award, and its 18 wins counting the Creative Arts ceremony broke the record of 13 set by John Adams in 2008 for the most awarded programme in a single year. The Bear took 11 and had gone in with 23 nominations, more than any comedy season before it. Hiroyuki Sanada and Anna Sawai were the first Japanese performers to win the drama acting awards. FX led every network and platform with 36 wins. None of the ten cached pages carries the winners, so this comes from the ceremony's own article.",
+      "date": "2024-09-15",
+      "source": "https://en.wikipedia.org/wiki/76th_Primetime_Emmy_Awards"
+    },
+    "tv.super_bowl_broadcast": {
+      "section": "tv",
+      "label": "Most-watched television programme on record",
+      "value": "The Super Bowl on CBS drew an estimated 123.4 million viewers, the largest audience for any US television programme",
+      "detail": "Univision carried Spanish-language coverage, its first Super Bowl, and Nickelodeon ran a children's version, the first alternate English-language telecast of the game. A Wild Card playoff game on January 13 had gone out exclusively on Peacock, the first NFL playoff game carried only on a streaming service, with NBC's Miami and Kansas City stations airing it locally to satisfy the league's broadcast rules.",
+      "date": "2024-02-11",
+      "source": "https://en.wikipedia.org/wiki/2024_in_American_television"
+    },
+    "tv.streaming_sports": {
+      "section": "tv",
+      "label": "Netflix took on live sport",
+      "value": "Jake Paul beat Mike Tyson over eight rounds at AT&T Stadium in a fight streamed to an estimated 60 million households, alongside about 100,000 complaints about picture quality, buffering and disconnections",
+      "detail": "Netflix had bought rights in May to NFL Christmas Day games, two of them this year and at least one in each of the two years after. It aired both on December 25, Kansas City at Pittsburgh and Baltimore at Houston, the second with a live halftime show by Beyonce, and the picture and sound drew good reviews this time. ESPN, Fox and Warner Bros. Discovery announced a joint sports streaming service in February, and a federal judge blocked its launch on August 16 after an antitrust suit from FuboTV.",
+      "date": "2024-11-15",
+      "source": "https://en.wikipedia.org/wiki/2024_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": [
+        "Curb Your Enthusiasm, HBO, April 7, on air since 2000",
+        "Young Sheldon, CBS, May 16, on air since 2017",
+        "The Good Doctor, ABC, May 21, on air since 2017",
+        "Star Trek: Discovery, Paramount+, May 30, on air since 2017",
+        "Blue Bloods, CBS, December 13, on air since 2010"
+      ],
+      "detail": "Dates and start years come from the television page's table of shows ending in the year. Skydance Media and Paramount Global announced a definitive agreement to merge on July 7.",
+      "source": "https://en.wikipedia.org/wiki/2024_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Lose Control, Teddy Swims",
+      "detail": "It topped the year-end list after a single week at number one on the weekly chart back in March. A Bar Song (Tipsy) by Shaboozey came second and Beautiful Things by Benson Boone third, with I Had Some Help by Post Malone featuring Morgan Wallen fourth and Lovin on Me by Jack Harlow fifth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2024"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The Hot 100 counted physical singles, downloads, radio airplay and streams together in one figure, with Nielsen SoundScan compiling the data for Billboard",
+      "detail": "The year-end ranking was published on December 13, calculated from data running October 28, 2023 to October 19. Taylor Swift was named the chart's top artist and placed five songs on the list. Morgan Wallen also had five, all inside the top 50. Sabrina Carpenter had four, Espresso highest at seven. Three of Kendrick Lamar's diss tracks aimed at Drake made the list, Not Like Us at six, Like That at fourteen and Euphoria at sixty-six.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2024"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "66th Annual Grammy Awards",
+      "value": "Record of the Year to Flowers by Miley Cyrus, Album to Midnights by Taylor Swift, Song to What Was I Made For? by Billie Eilish and Best New Artist to Victoria Monet",
+      "detail": "The four winners come from the music page's table of the year's awards. The US year page adds that the ceremony was held at the Crypto.com Arena in Los Angeles. The awards honoured the previous year's recordings.",
+      "date": "2024-02-04",
+      "source": "https://en.wikipedia.org/wiki/2024_in_music"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "Performers, Mary J. Blige, Cher, Dave Matthews Band, Foreigner, Kool & The Gang, Ozzy Osbourne and A Tribe Called Quest",
+        "Musical Influence, Alexis Korner, John Mayall and Big Mama Thornton",
+        "Musical Excellence, Jimmy Buffett, MC5 and Dionne Warwick",
+        "Ahmet Ertegun Award, Suzanne de Passe"
+      ],
+      "detail": "The music page gives no ceremony date. John Mayall died on July 22, aged 90, a few months after his induction was announced.",
+      "source": "https://en.wikipedia.org/wiki/2024_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Switzerland won with The Code by Nemo, at the contest held in Malmo from May 7 to 11",
+      "detail": "The music page lists the same result in its table of the year's awards.",
+      "date": "2024-05-11",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Japan became the fifth country to land softly on the Moon, with its SLIM spacecraft, on January 19",
+        "Intuitive Machines' Nova-C lander touched down on February 22, the first commercial vehicle to land on the Moon",
+        "Jared Isaacman made the first commercial spacewalk on September 12",
+        "SpaceX returned and caught a Super Heavy booster from Starship on October 13, a first",
+        "Europa Clipper launched on October 14 towards Jupiter's icy moon",
+        "The Parker Solar Probe passed within 6.1 million kilometres closer to the Sun than the previous record on December 24"
+      ],
+      "detail": "Boeing's Starliner launched its first crewed flight on an Atlas V to the International Space Station on June 5. Solar storms and intense flares hit Earth from May 10, rated G5 by the National Oceanic and Atmospheric Administration, and put aurorae at latitudes much further north and south than usual, as far as Melbourne on May 12. The long-period comet C/2023 A3, called the comet of the century, made its closest approach to Earth on October 12.",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "tech.ai": {
+      "section": "tech",
+      "label": "Artificial intelligence",
+      "value": "Both science Nobel Prizes went to machine learning: physics to John Hopfield and Geoffrey Hinton for neural networks, chemistry in part to Demis Hassabis and John Jumper for protein structure prediction",
+      "detail": "The European Union adopted the Artificial Intelligence Act on March 13, the world's first comprehensive legal and regulatory framework for the technology. Google DeepMind announced AlphaFold 3 on May 8, a model that predicts the structure and interactions of molecules. OpenAI announced GPT-4o on May 13, handling visual and video speech recognition and translation. Nvidia passed Microsoft on June 18 to become the world's most valuable listed company, on a market capitalisation above $3.34 trillion, on demand for the chips that train these systems.",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "tech.crowdstrike": {
+      "section": "tech",
+      "label": "CrowdStrike outage",
+      "value": "A faulty software update from the security firm took down IT systems worldwide, with airlines worst affected",
+      "detail": "The world year page files it as global IT outages affecting businesses and organisations across the world on the same day.",
+      "date": "2024-07-19",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "Platforms and governments",
+      "value": "Biden signed the Protecting Americans from Foreign Adversary Controlled Applications Act, requiring ByteDance to sell TikTok to an American buyer within nine months or have the app banned in the United States",
+      "detail": "ByteDance sued the government on First Amendment grounds two weeks later, and a federal appeals court ruled against the company on December 6. Brazil's Supreme Court upheld a block on X on September 2 over disinformation and Elon Musk's failure to name a legal representative in the country. Bluesky dropped its invite-only registration on February 6, and Alexandria Ocasio-Cortez became its first user with a million followers on December 2.",
+      "date": "2024-04-24",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Astro Bot, Team Asobi and Sony, September 6, on the PlayStation 5, scoring 94",
+        "Elden Ring Shadow of the Erdtree, FromSoftware and Bandai Namco, June 21, 94",
+        "Metaphor: ReFantazio, Studio Zero for Sega and Atlus, October 11, 94",
+        "Final Fantasy VII Rebirth, Square Enix, February 29, on the PlayStation 5, 92",
+        "Black Myth: Wukong, Game of the Year at the 42nd Golden Joystick Awards on November 21",
+        "Astro Bot, Game of the Year at The Game Awards on December 12"
+      ],
+      "detail": "Scores and dates from the games page's table of releases rated 90 or higher on Metacritic. Nearly 15,000 jobs went across the industry, on top of cuts running since 2022: Unity announced 1,800 in January, Microsoft Gaming 1,900 on January 25, Riot Games about 530 on January 22 and Twitch 500. Disney put $1.5 billion into Epic Games on February 7. SAG-AFTRA voice actors struck from July 26 over the use of AI voices. Best-selling premium games were Super Mario Party Jamboree in Japan, Call of Duty: Black Ops 6 in the United States and EA Sports FC 25 in Europe. Sony released the PlayStation 5 Pro on November 7 at $700.",
+      "source": "https://en.wikipedia.org/wiki/2024_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.45 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "3.7 percent in January, 4.1 percent in December",
+      "detail": "Seasonally adjusted, all civilian workers aged 16 and over. It sat at 3.9 percent from February through May, crossed 4 percent in June and reached 4.2 percent in July, August and November. No cached page for the year carries an unemployment figure, so this comes from the Bureau of Labor Statistics series.",
+      "source": "https://data.bls.gov/timeseries/LNS14000000"
+    },
+    "prices.inflation": {
+      "section": "prices",
+      "label": "US consumer price inflation",
+      "value": "3.1 percent over the twelve months to January, 2.9 percent over the twelve months to December",
+      "detail": "Consumer Price Index for All Urban Consumers, US city average, all items, not seasonally adjusted. The twelve-month changes are computed here from the index levels the Bureau of Labor Statistics publishes for that series rather than taken from a printed rate. No cached page for the year carries an inflation figure.",
+      "source": "https://data.bls.gov/timeseries/CUUR0000SA0"
+    },
+    "prices.stocks": {
+      "section": "prices",
+      "label": "US stock market",
+      "value": "The Dow Jones Industrial Average passed 40,000 points for the first time on May 16",
+      "detail": "The US year page describes a bull market driven by demand for Nvidia's chips for artificial intelligence work, which took the firm to third largest publicly traded company in the world by market capitalisation and helped push the S&P 500 to record highs. Nvidia then passed Microsoft on June 18 above $3.34 trillion.",
+      "date": "2024-05-16",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A year of voting on nearly every continent, held against a war that kept spreading north out of Gaza, and an American campaign that swapped one of its candidates in July after a gunman fired on a rally in Pennsylvania."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Han Kang",
+        "Peace, Nihon Hidankyo",
+        "Physics, John J. Hopfield and Geoffrey E. Hinton",
+        "Chemistry, David Baker, Demis Hassabis and John M. Jumper",
+        "Physiology or Medicine, Victor Ambros and Gary Ruvkun",
+        "Economics, Daron Acemoglu, Simon Johnson and James A. Robinson"
+      ],
+      "detail": "The peace prize went to the Japanese organisation of atomic bomb survivors, for its work towards a world free of nuclear weapons and for witness testimony that nuclear weapons must never be used again. Han Kang was cited for prose that confronts historical traumas. The medicine prize was for the discovery of microRNA and its part in gene regulation. The year page lists the prizes and gives no ceremony dates.",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "culture.public_domain": {
+      "section": "culture",
+      "label": "Public Domain Day",
+      "value": "Every book, film and other work published in 1928 entered the public domain in the United States, Steamboat Willie among them",
+      "detail": "The US year page calls the cartoon the most notable work in the batch, as the earliest version of Mickey Mouse, and records that several works built on that version were announced once it was free to use.",
+      "date": "2024-01-01",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Paris from July 26 to August 11, with the Paralympics in the same city from August 28 to September 8",
+      "detail": "The world year page records that the opening ceremony and the boxing bout between Luca Hamori and Imane Khelif both set off international argument, and cites an apology from Olympic officials to anyone the ceremony offended. It gives no medal table.",
+      "date": "2024-07-26",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LVIII",
+      "value": "Kansas City Chiefs 25, San Francisco 49ers 22, in overtime at Allegiant Stadium in Las Vegas",
+      "detail": "Only the second Super Bowl to go to overtime, after Super Bowl LI, and the Chiefs were the first repeat champions since the New England Patriots in 2004. A shooting at the team's victory parade at Union Station in Kansas City on February 14 killed one person and injured at least nine, and two armed suspects were arrested at the scene.",
+      "date": "2024-02-11",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the New York Yankees four games to one, an eighth title for the club",
+      "detail": "The clinching game finished 7 to 6 after the Dodgers came back from five runs down with help from Yankee errors.",
+      "date": "2024-10-30",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Boston Celtics over the Dallas Mavericks in five games on June 17, an eighteenth title and the most held by any club",
+        "Stanley Cup, Florida Panthers over the Edmonton Oilers in seven games on June 24, a first for the franchise",
+        "European Championship, Spain won the tournament held in Germany from June 14 to July 14",
+        "Copa America, Argentina won the tournament held in the United States from June 20 to July 14"
+      ],
+      "detail": "The football results come from the world year page and the North American ones from the US year page. Florida had lost the previous final and, at three games to nil up, avoided becoming the second team to lose a Stanley Cup Final from that position since the Detroit Red Wings in the 1941 to 1942 season. The Atlanta Hawks took the first pick in the NBA draft at the Barclays Center on June 26.",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "sports.chess": {
+      "section": "sports",
+      "label": "World Chess Championship",
+      "value": "Gukesh Dommaraju of India beat the defending champion Ding Liren, at 18 years and 195 days the youngest world champion",
+      "detail": "He broke the record of 22 set by Garry Kasparov. The world year page says the deciding game turned on a blunder by Ding.",
+      "date": "2024-12-12",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    },
+    "deaths.carter": {
+      "section": "deaths",
+      "label": "Jimmy Carter",
+      "value": "Died December 29, aged 100, at his home in Plains, Georgia",
+      "detail": "Former US president. He had turned 100 on October 1, which the US year page records as the first American president to reach a hundred.",
+      "date": "2024-12-29",
+      "source": "https://en.wikipedia.org/wiki/2024_in_the_United_States"
+    },
+    "deaths.james_earl_jones": {
+      "section": "deaths",
+      "label": "James Earl Jones",
+      "value": "Died September 9, aged 93",
+      "detail": "American actor. The film page names Star Wars and Field of Dreams.",
+      "date": "2024-09-09",
+      "source": "https://en.wikipedia.org/wiki/2024_in_film"
+    },
+    "deaths.smith": {
+      "section": "deaths",
+      "label": "Maggie Smith",
+      "value": "Died September 27, aged 89",
+      "detail": "British actress. The film page names The Prime of Miss Jean Brodie and the Harry Potter films.",
+      "date": "2024-09-27",
+      "source": "https://en.wikipedia.org/wiki/2024_in_film"
+    },
+    "deaths.sutherland": {
+      "section": "deaths",
+      "label": "Donald Sutherland",
+      "value": "Died June 20, aged 88",
+      "detail": "Canadian actor. The film page names M*A*S*H and The Hunger Games.",
+      "date": "2024-06-20",
+      "source": "https://en.wikipedia.org/wiki/2024_in_film"
+    },
+    "deaths.quincy_jones": {
+      "section": "deaths",
+      "label": "Quincy Jones",
+      "value": "Died November 3, aged 91",
+      "detail": "American record producer, songwriter, arranger and jazz trumpeter. The Academy had announced in June that he would receive an honorary Oscar for his film music, and it was presented posthumously at the 15th Governors Awards on November 17, with his daughter giving the speech.",
+      "date": "2024-11-03",
+      "source": "https://en.wikipedia.org/wiki/2024_in_music"
+    },
+    "deaths.navalny": {
+      "section": "deaths",
+      "label": "Alexei Navalny",
+      "value": "Died February 16, aged 47",
+      "detail": "Russian opposition leader. The world year page says he died under mysterious circumstances and states no cause, so none is given here.",
+      "date": "2024-02-16",
+      "source": "https://en.wikipedia.org/wiki/2024"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the ten cached wikitext pages under .sources/2024 plus three dedicated pulls and two Bureau of Labor Statistics series, all named below. Box office basis. bo.mjs reports GROSS and WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, under a heading reading Highest-grossing films of 2024 citing Box Office Mojo and The Numbers, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Wicked and Mufasa: The Lion King both opened late in the year, so their totals are lifetime worldwide figures that carried on accruing after the year ended rather than sums earned inside it. Cache gaps and dedicated pulls. The manifest records two pages that did not resolve: Deaths_in_2024, a redirect to a list of lists, and Top-rated_United_States_television_programs_of_2024-25, which returned 404. Three dedicated articles were pulled as raw wikitext because the cache falls short on facts the year plainly needs. (1) 2024 United States presidential election, because no cached page carries a vote count and a presidential election year without one is a hole; the electoral votes, the popular votes, the percentages, the turnout and the states carried all come from that article, which cites the Federal Election Commission for the vote totals and the University of Florida election lab for turnout. (2) Top-rated United States television programs by season, because the ratings page for the season is a 404 and no cached page holds a Nielsen table; its column is headed Rating with no unit stated, which tv.top_shows says outright. (3) 76th Primetime Emmy Awards, because the television page records the ceremony, the network, the venue and the hosts but names no winners at all. Each of the three says in its own detail that the cache did not carry the fact. Unemployment and inflation. No cached page carries either, and the year is one in which both were argued over, so prices.unemployment and prices.inflation come from BLS series LNS14000000 and CUUR0000SA0 retrieved through the BLS public API. The twelve-month CPI changes are computed here from the published index levels, 308.417 against 299.170 for January and 315.605 against 306.746 for December, which prices.inflation states in its own detail rather than presenting them as figures the BLS printed in that form. Date checks. November 5 was a Tuesday and the Tuesday after the first Monday in November, so the US year page agrees with the constitutional constraint and no dedicated article was needed to settle the date. The inauguration falls in the following January and is left out entirely. February 11 was a Sunday for Super Bowl LVIII, September 15 a Sunday for the Emmys and March 2 a Sunday for the 97th Academy Awards, all consistent. No cached page disagreed with another on a date. The election is written from the counts and the dates the sources give, with the three descriptions attached to the winner (second president elected to non-consecutive terms, first convicted felon elected, oldest man elected) attributed in the detail to the US year page rather than asserted here. film.ticket_price is absent. The scaffold filled prices.gas and prices.min_wage and nothing else, because the movie ticket price series in src/data/series ends at 2022, which SPEC.md records as an open item. No figure is estimated and no older figure is carried forward. The life expectancy series ends at this year and the population and CPI series at the following one; the scaffold reports life_expectancy_us=79, population_us=340003797, population_world=8161972574 and cpi_us=313.7 as anchoring inputs rather than as facts, and none of them is written into a fact here. Nothing in this file reaches into the following year. Left out for that reason: the 97th Academy Awards ceremony date and its nomination announcement, which film.best_picture writes as the following March per the corpus convention, along with the Southern California wildfires that delayed the nominations; the 82nd Golden Globes, the 30th Critics' Choice Awards, the 78th BAFTAs and the guild awards; the 28th D.I.C.E. Awards, the 25th Game Developers Choice Awards and the 21st British Academy Games Awards; the TikTok ban taking effect; Trump's sentencing; and the second half of the Nielsen season, which tv.top_shows describes as running into the following spring without naming it. The 96th Academy Awards of March 10 are left out on the same ground other years use, that they honoured the previous year of film and would put a second Best Picture on the page. The FIFA announcement of December 11 naming Morocco, Portugal and Spain as joint World Cup hosts is left out under the host-city convention, since the tournament is named for a later year and the fact adds little without it. Names carrying a four-digit number. checkname.mjs was run on UEFA Euro 2024, Copa America, Call of Duty: Black Ops 6, EA Sports College Football 25, EA Sports FC 25, Boeing 737 MAX 9, Alaska Airlines Flight 1282, PlayStation 5 Pro, Meta Quest 3S, comet C/2023 A3, the vote totals, the box office figures, the CPI index levels, Caitlin Clark's 3,685 points, and every backward reference in the file (1928, 1941, 1947, 1954, 1962, 1984, 2004, 2008 and the 1850 to 1900 baseline). Every one reported safe. Euro 2024 is safe because the number equals the page year rather than exceeding it, so sports.champions writes the tournament plainly. The film page's note that Deadpool & Wolverine held the most-viewed trailer record until a 2026 release was dropped, because the successor's year is later than this page year. src/data/name_years.json was not touched and no entry was needed. Diacritics are written in ASCII per the corpus convention, so Emilia Perez, Zoe Saldana, Karla Sofia Gascon, Pedro Almodovar, Shogun, Malmo, Victoria Monet, Beyonce and Luca Hamori lose theirs. Two facts cite a page other than the obvious one, and say so. music.grammys cites the music page rather than the US year page, because the US page names only Record and Album of the Year while the music page's awards table carries all four, and its detail attributes the venue to the US page. prices.stocks holds both the Dow's first close above 40,000 and Nvidia passing Microsoft, because the US year page states the connection itself, describing a bull market driven by demand for Nvidia's chips that helped push the indices to record highs. Music format. music.listening_format claims only what the Billboard year-end page says about how the Hot 100 was compiled and who charted, because no cached page gives a vinyl, streaming or subscription figure for the year or names a playback service. General knowledge rather than a claim from the sources: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Dropped for lack of a source in the cache. No cached page carries a word-of-the-year list, a meme, an internet slang term or a website ranking, so culture.slang, culture.memes and tech.web_sites are all open and all empty. No cached page gives a global games market figure, a Netflix subscriber count, an Olympic medal table or a smartphone release. world.temperature_record states no anomaly figure for the year because the science page carries it only as a Copernicus chart caption and states none in its text. Dropped for room. Politics and world: the Baltimore bridge collapse, the Alaska Airlines door plug, the Boeing guilty plea, the Hajj deaths, the Papua New Guinea landslide, Hurricane Beryl, the Spanish floods and the Notre-Dame reopening are all in the texture instead of facts; the Ecuadorian state of emergency, the Haitian jailbreak and transitional council, the Noto Peninsula earthquake, the Bangladeshi and Taiwanese and Indonesian and Mexican and Indian and Iranian and Sri Lankan and Georgian and Moldovan and Uruguayan and Ghanaian elections, the deaths of Sebastian Pinera and Hage Geingob and Ebrahim Raisi, the shooting of Robert Fico, Sheikh Hasina's flight from Bangladesh, the Kursk incursion, COP29 at Baku, the mpox emergency, the Solingen attack, the Mazan rapes verdict, the Magdeburg car attack, the Azerbaijan Airlines and Jeju Air crashes, Julian Assange's release, the Baltimore and Butler aftermaths, the American port strike, Hurricanes Helene and Milton, the Apalachee High School shooting, the killing of Brian Thompson and the arrest of Luigi Mangione, the McDonald's E. coli outbreak, the drones over New Jersey and the whole Trump cabinet announcement run are out entirely. Television and music: the 75th Primetime Emmy Awards of January 15, which honoured the previous television year after being pushed back by the labour disputes, the 51st Daytime Emmys, the 77th Tony Awards, the MTV Video Music Awards, the Billboard Music Awards, the BRIT Awards to Raye, the Juno and Mercury and Polaris and Pulitzer music prizes, and the Met Gala. Film: the Toronto People's Choice Award to The Life of Chuck, and the deaths of Louis Gossett Jr., Dabney Coleman, Anouk Aimee, Shelley Duvall, Gena Rowlands, Alain Delon, Kris Kristofferson, Teri Garr and Tony Todd, all of which the film page carries. This file runs 52 facts across 10 sections: politics 6, world 7, film 5, tv 5, music 5, tech 5, prices 5, culture 3, sports 5, deaths 6. No radio fact, because the radio window closed after 1959."
+}

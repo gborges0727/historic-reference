@@ -1,0 +1,525 @@
+{
+  "year": 2023,
+  "tier": "modern",
+  "headline": "February earthquakes killed over 59,000 in Turkey and Syria, Hollywood shut down, Hamas attacked Israel October 7",
+  "texture": [
+    "Warner Bros. put out Barbie and Universal put out Oppenheimer on the same July 21, and audiences booked the two together as a double feature they called Barbenheimer. The same summer produced enough expensive misses to get them a name, flopbuster, hung on Ant-Man and the Wasp: Quantumania, Shazam! Fury of the Gods, Dungeons & Dragons: Honor Among Thieves, Transformers: Rise of the Beasts, The Flash and Indiana Jones and the Dial of Destiny.",
+    "Defense officials said on February 2 that they were tracking a suspected Chinese surveillance balloon over the western United States, and a missile brought it down off South Carolina two days later. Three more high altitude objects came down inside a week, over Alaska on February 9, over Yukon on February 11 and over Lake Huron on February 12. A Norfolk Southern train carrying hazardous chemicals had derailed at East Palestine, Ohio, on February 3. The Federal Aviation Administration had issued a nationwide ground stop on January 11 when its NOTAM system failed, the first since 9/11.",
+    "Germany closed its final nuclear power plants on April 15, ending fifty years of nuclear power in the country, and the Vogtle plant in Georgia began operating its unit 3 reactor on July 31, the first new American reactor in seven years. Whoosh opened in Indonesia on October 17, the first high speed rail in Southeast Asia and in the Southern Hemisphere. The Sycamore Gap tree beside Hadrian's Wall in Northumberland was illegally felled on September 28, and a sixteen-year-old boy was arrested on suspicion of criminal damage.",
+    "Trade union membership in the United States dropped from 10.3 percent to 10.1 percent by January 19, an all-time low. The United Auto Workers walked out on Ford, General Motors and Stellantis from September 15 and settled with the last of the three on October 30. Detroit casino workers called the first strike in their history on October 17. Nvidia became the first chipmaker valued above a trillion dollars on May 30, and Apple closed above three trillion on June 30, the only public company to have done it."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.speaker_removal",
+    "world.gaza",
+    "world.turkey_syria_earthquake",
+    "film.gross#0",
+    "tech.ai",
+    "sports.world_series",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Joe Biden (D)",
+      "detail": "Kamala Harris was vice president, John Roberts chief justice and Chuck Schumer Senate majority leader. Biden gave his second State of the Union address on February 7 and announced his campaign for reelection on April 25.",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "118th Congress, seated January 3, with Kevin McCarthy elected the 55th Speaker of the House on January 7 after four days and fifteen ballots",
+      "detail": "Nancy Pelosi held the chair until January 3. The US year page calls McCarthy's 270-day speakership the political story of the year, with a slim majority that let a far-right rebellion carry weight in the chamber.",
+      "date": "2023-01-07",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "pol.speaker_removal": {
+      "section": "politics",
+      "label": "Kevin McCarthy removed as Speaker",
+      "value": "The House voted 216 to 210 to vacate the chair, the first removal of a speaker by a vote of the House",
+      "detail": "Eight Republicans led by Matt Gaetz joined all present Democrats. The chair stood vacant from October 3 to October 25, with Patrick McHenry acting as speaker pro tempore. Republicans nominated Tom Emmer on October 24 and he withdrew within hours, and Mike Johnson of Louisiana won the office the next day.",
+      "date": "2023-10-03",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "pol.trump_indictments": {
+      "section": "politics",
+      "label": "Donald Trump indicted",
+      "value": "He was indicted on March 30 over hush money payments to Stormy Daniels, the first former president charged with a crime, and pleaded not guilty to 34 charges on April 4",
+      "detail": "He said on Truth Social on June 8 that Jack Smith's special counsel had charged him over classified documents found in the FBI search of Mar-a-Lago, and pleaded not guilty the following Tuesday. His mug shot was taken at Fulton County Jail in Atlanta on August 24, the first of any former president. Attorney Sidney Powell pleaded guilty in the Georgia racketeering prosecution on October 19, Kenneth Chesebro the next day and Jenna Ellis on October 24.",
+      "date": "2023-03-30",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "pol.debt_ceiling": {
+      "section": "politics",
+      "label": "Fiscal Responsibility Act",
+      "value": "Biden signed the debt-ceiling deal into law to keep the United States out of default",
+      "detail": "House Republicans and the White House had reached the agreement in principle on May 27.",
+      "date": "2023-06-03",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court rulings",
+      "value": [
+        "Students for Fair Admissions v. Harvard, June 29, 6 to 2, affirmative action in university admissions violates the Equal Protection Clause of the 14th Amendment",
+        "Biden v. Nebraska, June 30, 6 to 3, the HEROES Act does not give the president the power to forgive student debt",
+        "Allen v. Milligan, June 8, 5 to 4, Alabama must redraw its congressional map, which violates section 2 of the Voting Rights Act of 1965 by racially discriminating against African-Americans in the state",
+        "June 30, 6 to 3, the First Amendment stops states from compelling a website designer to build sites for same-sex weddings"
+      ],
+      "detail": "ProPublica reported on April 6 that Justice Clarence Thomas had accepted gifts and travel from a Republican donor without declaring them.",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "pol.santos": {
+      "section": "politics",
+      "label": "George Santos expelled from the House",
+      "value": "The House voted 311 to 114 to expel him on fraud and corruption allegations, the first congressional expulsion since James Traficant in 2002",
+      "detail": "He had been indicted by federal prosecutors on May 9 and said on November 16 that he would not seek reelection after the House Ethics Committee reported.",
+      "date": "2023-12-01",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "world.gaza": {
+      "section": "world",
+      "label": "Gaza war",
+      "value": "Hamas launched an incursion into southern Israel from the Gaza Strip on October 7, killing more than 1,100 Israelis and taking about 240 hostages",
+      "detail": "Israel's Security Cabinet formally declared war on October 8, the first such declaration since the Yom Kippur War in 1973. The reported death toll in Gaza passed 10,000 on November 6 and 20,000 on December 22, almost one percent of its population. Israel and Hamas agreed a four-day ceasefire on November 22, the first pause in the fighting since October 7, with Israeli hostages released in exchange for Palestinian prisoners. The US year page adds a deal brokered by the United States, Egypt and Qatar on November 21 that freed 50 hostages, among them American citizens. South Africa brought a genocide case against Israel to the International Court of Justice on December 29.",
+      "date": "2023-10-07",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "world.ukraine": {
+      "section": "world",
+      "label": "Russo-Ukrainian war",
+      "value": "The International Criminal Court issued an arrest warrant for Vladimir Putin on March 17, and the Wagner Group under Yevgeny Prigozhin began an armed rebellion against the Russian government on June 23",
+      "detail": "The Nova Kakhovka dam in Russian-controlled Kherson was destroyed on June 6, flooding the lower Dnieper. Prigozhin, the group's founder Dmitry Utkin and eight others died in a plane crash on August 23, two months after the mutiny. Russia launched the largest wave of drones and missiles of the war against Ukrainian cities on December 29.",
+      "date": "2023-06-23",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "world.turkey_syria_earthquake": {
+      "section": "world",
+      "label": "Turkey and Syria earthquakes",
+      "value": "A magnitude 7.8 earthquake struck southern and central Turkey and northern and western Syria, followed by a 7.7 aftershock the same day, leaving more than 59,000 dead and 121,000 injured",
+      "detail": "The world year page ranks it the fifth-deadliest earthquake of the 21st century and puts the toll at up to 62,000 in its own summary of the year, against more than 59,000 in the dated entry. Neither figure is resolved here.",
+      "date": "2023-02-06",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "world.coronation": {
+      "section": "world",
+      "label": "Coronation of Charles III",
+      "value": "Charles III and Camilla were crowned King and Queen of the United Kingdom and the other Commonwealth realms at Westminster Abbey in London",
+      "detail": "Queen Margrethe II of Denmark announced her abdication on December 31, after 52 years on the throne.",
+      "date": "2023-05-06",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "world.covid_end": {
+      "section": "world",
+      "label": "COVID-19 emergency declarations end",
+      "value": "The World Health Organization ended its declaration of COVID-19 as a global health emergency on May 5, while still calling it a pandemic, and Biden formally ended the United States declaration on May 11",
+      "detail": "The WHO ended its mpox emergency declaration on May 11 as well.",
+      "date": "2023-05-05",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "world.population": {
+      "section": "world",
+      "label": "India passes China in population",
+      "value": "India became the most populous country in the world",
+      "detail": "The world year page carries the change in one line and gives no figure for either country.",
+      "date": "2023-04-24",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "world.climate": {
+      "section": "world",
+      "label": "Climate records and COP28",
+      "value": "The world's oceans reached a record surface temperature of 20.96 degrees Celsius on August 1, and the global average temperature passed 2 degrees above the pre-industrial average for the first time on November 17",
+      "detail": "July was the hottest month on record for globally averaged surface air temperatures, by 0.3 degrees. The COP28 summit in Dubai reached a consensus on December 12 for countries to transition away from fossil fuels, the first such agreement in the conference's 30-year history, covering energy systems but not plastics, transport or agriculture.",
+      "date": "2023-08-01",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Barbie, $1,448,232,531, Warner Bros.",
+        "The Super Mario Bros. Movie, $1,360,847,665, Universal",
+        "Oppenheimer, $976,779,216, Universal",
+        "Guardians of the Galaxy Vol. 3, $845,555,777, Disney",
+        "Fast X, $714,875,015, Universal",
+        "Spider-Man: Across the Spider-Verse, $690,824,738, Sony",
+        "Full River Red, $670,491,959, China Film Group Corporation"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says under a heading reading highest-grossing films of the year. Wonka was eighth on $634,681,815, The Wandering Earth 2 ninth on $615,023,132 and Mission: Impossible Dead Reckoning Part One tenth on $571,125,435. The table gives no release dates and no cut-off, so a title that opened late in the year carries a lifetime total rather than what it took inside the year.",
+      "source": "https://en.wikipedia.org/wiki/2023_in_film"
+    },
+    "film.barbie_records": {
+      "section": "film",
+      "label": "Records set by Barbie",
+      "value": [
+        "The 53rd film to gross a billion dollars worldwide",
+        "The highest-grossing comedy film, passing Hi, Mom",
+        "The highest-grossing film with a solo female director, also passing Hi, Mom",
+        "The largest domestic opening weekend for a film that is not a sequel, remake or superhero property, at $162 million",
+        "The fastest Warner Bros. film to a billion dollars, in 17 days, against the 19 held by Harry Potter and the Deathly Hallows Part 2"
+      ],
+      "detail": "Its second domestic weekend of $92 million, a 43 percent drop, was the largest second weekend for a Warner Bros. film and the seventh-largest for any film. It also became the highest-grossing Warner Bros. release worldwide.",
+      "source": "https://en.wikipedia.org/wiki/2023_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Oppenheimer, produced by Emma Thomas, Charles Roven and Christopher Nolan",
+      "detail": "Awarded the following March at the 96th Academy Awards, hosted by Jimmy Kimmel. Oppenheimer was the highest-grossing Best Picture winner since The Lord of the Rings: The Return of the King, and the first winner to take both male acting awards since Ben-Hur. Christopher Nolan took Best Director and Ludwig Goransson Best Original Score for it, and Billie Eilish and Finneas O'Connell Best Original Song for What Was I Made For? from Barbie. The telecast on ABC averaged 19.49 million viewers, up 4 percent on the previous ceremony, with 9.9 percent of households watching.",
+      "source": "https://en.wikipedia.org/wiki/96th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Cillian Murphy, Oppenheimer",
+        "Best Actress, Emma Stone, Poor Things",
+        "Best Supporting Actor, Robert Downey Jr., Oppenheimer",
+        "Best Supporting Actress, Da'Vine Joy Randolph, The Holdovers"
+      ],
+      "detail": "Justine Triet and Arthur Harari won Best Original Screenplay for Anatomy of a Fall and Cord Jefferson Best Adapted Screenplay for American Fiction, from Percival Everett's novel Erasure. The Golden Globes had split the lead awards differently, giving Best Actress in a Drama to Lily Gladstone for Killers of the Flower Moon and Best Actor in a Musical or Comedy to Paul Giamatti for The Holdovers.",
+      "source": "https://en.wikipedia.org/wiki/96th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best International Feature Film",
+      "value": [
+        "The Zone of Interest, United Kingdom, in German, Polish and Yiddish, directed by Jonathan Glazer, the winner",
+        "Io capitano, Italy, in Wolof and French, directed by Matteo Garrone",
+        "Perfect Days, Japan, in Japanese, directed by Wim Wenders",
+        "Society of the Snow, Spain, in Spanish, directed by J. A. Bayona",
+        "The Teachers' Lounge, Germany"
+      ],
+      "detail": "The film page gives the festival prizes: the Palme d'Or at the 76th Cannes Film Festival to Justine Triet's Anatomy of a Fall, the Golden Lion at the 80th Venice International Film Festival to Yorgos Lanthimos's Poor Things, the Golden Bear at the 73rd Berlin International Film Festival to Nicolas Philibert's On the Adamant, and the People's Choice Award at the 48th Toronto International Film Festival to Cord Jefferson's American Fiction.",
+      "source": "https://en.wikipedia.org/wiki/96th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a cinema, and for some in July twice in the same day, after Barbie and Oppenheimer were released together on July 21 and moviegoers were encouraged to take the pair as a double feature",
+      "detail": "The joint release date and the Barbenheimer phenomenon come from the US year page. By the time Oscar nominations were announced, nine of the ten Best Picture nominees had taken a combined $1.09 billion at the American and Canadian box offices, Barbie $636 million of it and Oppenheimer $326 million. The tenth, Maestro, carried no figure at all, because its distributor Netflix will not release them. No cached page for the year gives a subscription count for any home service.",
+      "source": "https://en.wikipedia.org/wiki/96th_Academy_Awards"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2023",
+      "value": [
+        "Sunday Night Football, NBC, 19.84",
+        "Monday Night Football, ABC, 11.99",
+        "Tracker, CBS, 10.80",
+        "NCIS, CBS, 9.66",
+        "Young Sheldon, CBS, 9.10"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring, a season shortened and reshuffled by the writers' and actors' strikes. FBI was sixth on 8.96, Chicago Fire seventh on 8.79, Blue Bloods eighth on 8.45, 60 Minutes ninth on 8.27 and Ghosts tenth on 8.21. The source heads its column Rating and states no unit. The cache holds no ratings page for this season, so the figures come from the by-season summary article instead.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season"
+    },
+    "tv.strikes": {
+      "section": "tv",
+      "label": "Writers' and actors' strikes",
+      "value": "The Writers Guild of America struck the television and film studios from May 2, its first stoppage since 2007, and SAG-AFTRA followed on July 14, the first actors' walkout since 1980",
+      "detail": "It was the first time writers and actors had been out together since 1960. The WGA strike ended at 12:01 in the morning on September 27, three days after a tentative agreement, and SAG-AFTRA ended its strike at 12:01 on November 9. The television page dates the actors' walkout to July 15 where the US and world year pages both give July 14.",
+      "date": "2023-05-02",
+      "source": "https://en.wikipedia.org/wiki/2023_in_American_television"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "75th Primetime Emmy Awards postponed",
+      "value": "The Academy of Television Arts and Sciences and Fox announced that the ceremony would move off its planned date of September 18 to the following January",
+      "detail": "The strikes were the reason. The television page calls it the first postponement of a Primetime Emmy ceremony since 2001, when the September 11 attacks and the start of the war in Afghanistan pushed back the 53rd. The 50th Daytime Emmy Awards, rescheduled from June 16 for the same reason, went ahead on December 15 as the first major industry award event after the disputes were settled.",
+      "date": "2023-08-10",
+      "source": "https://en.wikipedia.org/wiki/2023_in_American_television"
+    },
+    "tv.streaming": {
+      "section": "tv",
+      "label": "HBO Max became Max",
+      "value": "Warner Bros. Discovery relaunched the service under the shorter name, folding in much of the Discovery+ library alongside HBO and the other Warner brands",
+      "detail": "The company had announced the relaunch on April 12. The Wall Street Journal reported on February 8 that Discovery+ would keep running as a standalone service after all, a change from the plan to shut it. Warner Bros. Discovery said on August 24 that it would put live news into Max.",
+      "date": "2023-05-23",
+      "source": "https://en.wikipedia.org/wiki/2023_in_American_television"
+    },
+    "tv.game_shows": {
+      "section": "tv",
+      "label": "Game show hosts change",
+      "value": "Ryan Seacrest was named to succeed Pat Sajak on Wheel of Fortune, about two weeks after Sajak announced his retirement",
+      "detail": "The television page dates Sajak's own announcement to June 12 and records Mayim Bialik saying on December 15 that she had been fired from Jeopardy!, where she had shared hosting with Ken Jennings until he became sole host in May, after she stepped away in support of the striking writers.",
+      "date": "2023-06-27",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Last Night, Morgan Wallen",
+      "detail": "Flowers by Miley Cyrus came second, Kill Bill by SZA third and Anti-Hero by Taylor Swift fourth. SZA and Taylor Swift each placed four songs on the list, Drake five and Ice Spice four, two of them remixes of other artists' singles. Three songs from Barbie the Album made the list, Dance the Night by Dua Lipa highest at 35.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2023"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard built the Hot 100 from physical and digital single sales, radio airplay and streaming, compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on November 21 from data running November 19, 2022 to October 21, which is 49 weeks rather than a full year, so the tracking period would match the one used for the Billboard Music Awards. No cached page for the year names a subscription service, gives a vinyl or streaming sales figure, or says anything else about what anyone played the music on.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2023"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "65th Annual Grammy Awards",
+      "value": "About Damn Time by Lizzo took Record of the Year, Harry's House by Harry Styles Album of the Year, Just Like That by Bonnie Raitt Song of the Year and Samara Joy Best New Artist",
+      "detail": "Held at the Crypto.com Arena in Los Angeles, back in the city after three years away because of the pandemic and scheduling conflicts. Beyonce won her 32nd Grammy on the night, more than any other artist. The awards honoured the previous year's recordings.",
+      "date": "2023-02-05",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "Kate Bush",
+        "Sheryl Crow",
+        "Missy Elliott",
+        "George Michael",
+        "Willie Nelson",
+        "Rage Against the Machine",
+        "The Spinners"
+      ],
+      "detail": "DJ Kool Herc and Link Wray went in under musical influences, Don Cornelius took the Ahmet Ertegun Award for non-performers, and Chaka Khan, Bernie Taupin and Al Kooper the musical excellence award. The music page gives no ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/2023_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Loreen won for Sweden with Tattoo, at the contest held in Liverpool from May 9 to 13",
+      "detail": "The winner comes from the music page's table of awards and the dates and the host city from the world year page. Neither says why the United Kingdom was hosting.",
+      "date": "2023-05-13",
+      "source": "https://en.wikipedia.org/wiki/2023_in_music"
+    },
+    "music.eras_tour": {
+      "section": "music",
+      "label": "The Eras Tour passes a billion dollars",
+      "value": "Taylor Swift's tour became the first to gross more than a billion dollars, making it the highest-grossing concert tour and Swift the first artist to reach the mark",
+      "detail": "She had finished the first American leg at SoFi Stadium in Los Angeles on August 9. The US year page says the tour had a wide effect on the American economy and on the culture.",
+      "date": "2023-12-08",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "tech.ai": {
+      "section": "tech",
+      "label": "Large language models",
+      "value": "ChatGPT came into widespread use, OpenAI launched GPT-4 on March 14, able to respond to images and process up to 25,000 words, and Google DeepMind released Gemini on December 6",
+      "detail": "The first AI Safety Summit was held in the United Kingdom on November 1 with 28 countries taking part. The US year page records OpenAI's board firing Sam Altman on November 17 for reportedly lying to it and reinstating him five days later after Microsoft, an investor, said it would hire him, and puts the rise of artificial intelligence and large language models at the root of the Hollywood double strike.",
+      "date": "2023-03-14",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "India's Chandrayaan-3 landed near the south pole of the Moon on August 23, the first spacecraft to do so, carrying the lander Vikram and the rover Pragyan",
+        "SpaceX's Starship flew for the first time on April 20 from Texas, the largest and most powerful rocket ever built, and exploded four minutes after launch",
+        "The European Space Agency launched the Jupiter Icy Moons Explorer on April 14",
+        "The Indian Space Research Organisation launched Aditya-L1 on September 2"
+      ],
+      "detail": "India was the fourth nation to land a spacecraft on the Moon. The US year page adds the launch of NASA's Psyche mission to the metallic asteroid 16 Psyche on October 13, and NASA's announcement on December 13 that Voyager 1 had stopped sending information back because of a technical fault.",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "tech.devices": {
+      "section": "tech",
+      "label": "Apple Vision Pro unveiled",
+      "value": "Apple showed a mixed-reality headset, its first new product category since the Apple Watch in 2015, priced at $3,499",
+      "detail": "The US year page notes the price as considerably higher than other virtual and augmented reality headsets. Sony released the PlayStation VR2 on February 22 and Meta the Quest 3 in October.",
+      "date": "2023-06-05",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "Meta launches Threads",
+      "value": "Meta Platforms put out a direct competitor to Twitter",
+      "detail": "European Union regulators fined Meta $414 million on January 4 for breaking the General Data Protection Regulation on Facebook and Instagram, and the attorneys general of 41 states and the District of Columbia sued the company on October 24. Montana became the first state to ban TikTok on personal devices on April 14.",
+      "date": "2023-07-05",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Baldur's Gate 3, Larian Studios, August 3, scoring 96 on Metacritic",
+        "The Legend of Zelda: Tears of the Kingdom, Nintendo EPD, May 12, on the Nintendo Switch, 96",
+        "Metroid Prime Remastered, Retro Studios, February 8, on the Nintendo Switch, 94",
+        "Resident Evil 4, Capcom, March 24, 93",
+        "Street Fighter 6, Capcom, June 2, 92",
+        "Super Mario Bros. Wonder, Nintendo EPD, October 20, on the Nintendo Switch, 92"
+      ],
+      "detail": "Twenty-five games had scored 90 or better on Metacritic by October, the most in any year since 2004, which the games page attributes to titles delayed or begun after the pandemic lockdowns and to developers settling into the ninth console generation. Baldur's Gate 3 was the first game to take Game of the Year at all five major ceremonies. Best sellers were Hogwarts Legacy in the United States, The Legend of Zelda: Tears of the Kingdom in Japan and EA Sports FC 24 in Europe. Microsoft closed its $68.7 billion acquisition of Activision Blizzard on October 13 after British regulators approved it, having been sued by the Federal Trade Commission on June 12 to block it.",
+      "source": "https://en.wikipedia.org/wiki/2023_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.66 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "3.5 percent in January, 3.8 percent in December",
+      "detail": "Seasonally adjusted, all civilian workers aged 16 and over. The low for the year was 3.4 percent in April and the high 3.9 percent in October.",
+      "source": "https://data.bls.gov/timeseries/LNS14000000"
+    },
+    "prices.inflation": {
+      "section": "prices",
+      "label": "US consumer price inflation",
+      "value": "6.4 percent over the twelve months to January, 3.4 percent over the twelve months to December",
+      "detail": "Consumer Price Index for All Urban Consumers, US city average, all items, not seasonally adjusted. The twelve-month changes are computed from the index levels the Bureau of Labor Statistics publishes for that series. The lowest reading of the year was 3.0 percent over the twelve months to June.",
+      "source": "https://data.bls.gov/timeseries/CUUR0000SA0"
+    },
+    "prices.interest_rate": {
+      "section": "prices",
+      "label": "Federal Reserve interest rate",
+      "value": "Raised four times, from 4.5 percent to 4.75 percent on February 1, to 5 percent on March 22, to 5.25 percent on May 3, and by a further quarter point on July 26",
+      "detail": "The US year page says the July rise took rates to their highest level since 2001 and gives no figure for it. It also says the inflation surge that began two years earlier moderated during the year while the Fed kept raising through the first half.",
+      "date": "2023-07-26",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "prices.bank_failures": {
+      "section": "prices",
+      "label": "US bank failures",
+      "value": "Silicon Valley Bank failed on March 10 with $212 billion in assets, the largest bank failure since the 2008 financial crisis, Signature Bank collapsed on March 12 with $110 billion, and the FDIC seized First Republic Bank on May 1 and auctioned it to JPMorgan Chase for $10.7 billion",
+      "detail": "Silvergate Bank, which dealt mostly in cryptocurrency, had announced its liquidation on March 8, making Signature the third failure in five days. The US year page calls Signature the fourth-largest bank failure in American history and says First Republic replaced Silicon Valley Bank as the second largest. UBS agreed on March 19, in a deal brokered by the Swiss government, to buy Credit Suisse for 3 billion Swiss francs in an all-stock deal.",
+      "date": "2023-03-10",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A year that opened with a suspected spy balloon drifting across the country and closed with a war in Gaza on every screen, while a chatbot became the thing everyone at work had an opinion about and the studios sat idle for most of the summer."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Jon Fosse",
+        "Peace, Narges Mohammadi",
+        "Physics, Pierre Agostini, Ferenc Krausz and Anne L'Huillier",
+        "Chemistry, Moungi Bawendi, Louis E. Brus and Alexey Ekimov",
+        "Physiology or Medicine, Katalin Kariko and Drew Weissman",
+        "Economics, Claudia Goldin"
+      ],
+      "detail": "The medicine prize was for the base modifications to nucleoside messenger RNA that made effective mRNA vaccines against COVID-19 possible, the chemistry prize for the discovery and synthesis of quantum dots, and the physics prize for methods that generate attosecond pulses of light for studying electron dynamics. Goldin won for empirical research into women's income and employment. The year page gives no dates.",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "culture.public_domain": {
+      "section": "culture",
+      "label": "Public Domain Day",
+      "value": "Books, films and other works published in 1927 entered the public domain in the United States",
+      "date": "2023-01-01",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "culture.books": {
+      "section": "culture",
+      "label": "Best-selling book in the United States",
+      "value": "It Ends with Us, published in 2016",
+      "detail": "Of the books published during the year itself, Spare sold the most in America.",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LVII",
+      "value": "Kansas City Chiefs 38, Philadelphia Eagles 35",
+      "detail": "The National Football League held the first of its Pro Bowl Games a week earlier at Allegiant Stadium in Paradise, Nevada, with the NFC winning 35 to 33. Tom Brady announced his retirement on February 1.",
+      "date": "2023-02-12",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Texas Rangers beat the Arizona Diamondbacks in five games, a first title for the club",
+      "detail": "Japan won the World Baseball Classic, held from March 8 to 21.",
+      "date": "2023-11-01",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Denver Nuggets over the Miami Heat in five games on June 12, a first title, with Nikola Jokic named most valuable player",
+        "Stanley Cup, Vegas Golden Knights over the Florida Panthers on June 13, a first cup, with Jonathan Marchessault taking the Conn Smythe Trophy",
+        "FIFA Women's World Cup, Spain beat England 1 to 0 in the final, at a tournament held in Australia and New Zealand from July 20 to August 20",
+        "Rugby World Cup, South Africa beat New Zealand at the Stade de France on October 28, a record fourth title, at a tournament held in France from September 8",
+        "Cricket World Cup, Australia beat India in the final on November 19, at a tournament held in India from October 5"
+      ],
+      "detail": "The NBA and hockey results come from the US year page and the three tournaments from the world year page. Mexico beat Panama 1 to 0 in the CONCACAF Gold Cup final at SoFi Stadium on July 16.",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    "sports.lebron_record": {
+      "section": "sports",
+      "label": "LeBron James breaks the NBA scoring record",
+      "value": "He passed Kareem Abdul-Jabbar's career total, reaching 38,388 points",
+      "detail": "He did it on the evening of Biden's State of the Union address. The US year page names Abdul-Jabbar as the previous holder and gives no date for when that record was set.",
+      "date": "2023-02-07",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "sports.contracts": {
+      "section": "sports",
+      "label": "Two players change leagues",
+      "value": "Lionel Messi announced on June 9 that he would join Inter Miami of Major League Soccer, and Shohei Ohtani announced on December 9 that he had signed a ten-year, $700 million deal with the Los Angeles Dodgers",
+      "detail": "Messi turned down offers to stay at Barcelona and to join the Saudi Professional League, and scored on his debut for the club on July 21. Ohtani had spent his first six seasons with the Los Angeles Angels.",
+      "date": "2023-12-09",
+      "source": "https://en.wikipedia.org/wiki/2023_in_the_United_States"
+    },
+    "deaths.turner": {
+      "section": "deaths",
+      "label": "Tina Turner",
+      "value": "Died May 24, aged 83",
+      "detail": "American-born Swiss rock and rhythm and blues singer, of Ike and Tina Turner. The film page names Tommy and Mad Max Beyond Thunderdome.",
+      "date": "2023-05-24",
+      "source": "https://en.wikipedia.org/wiki/2023_in_music"
+    },
+    "deaths.oconnor": {
+      "section": "deaths",
+      "label": "Sinead O'Connor",
+      "value": "Died July 26, aged 56",
+      "detail": "Irish alternative rock singer-songwriter. The music page gives the date and the age and no cause of death, so none is stated here.",
+      "date": "2023-07-26",
+      "source": "https://en.wikipedia.org/wiki/2023_in_music"
+    },
+    "deaths.belafonte": {
+      "section": "deaths",
+      "label": "Harry Belafonte",
+      "value": "Died April 25, aged 96",
+      "detail": "American calypso and pop singer and actor. The film page names Odds Against Tomorrow and Carmen Jones.",
+      "date": "2023-04-25",
+      "source": "https://en.wikipedia.org/wiki/2023_in_music"
+    },
+    "deaths.perry": {
+      "section": "deaths",
+      "label": "Matthew Perry",
+      "value": "Died October 28, aged 54",
+      "detail": "American actor. The film page names Fools Rush In and The Whole Nine Yards.",
+      "date": "2023-10-28",
+      "source": "https://en.wikipedia.org/wiki/2023_in_film"
+    },
+    "deaths.kissinger": {
+      "section": "deaths",
+      "label": "Henry Kissinger",
+      "value": "Died November 29, aged 100",
+      "detail": "American diplomat and politician. The television page is the only cached page that carries his death, and lists him guest starring in episodes of Dynasty and Brother's Keeper.",
+      "date": "2023-11-29",
+      "source": "https://en.wikipedia.org/wiki/2023_in_American_television"
+    },
+    "deaths.lear": {
+      "section": "deaths",
+      "label": "Norman Lear",
+      "value": "Died December 5, aged 101",
+      "detail": "American television director, producer and screenwriter.",
+      "date": "2023-12-05",
+      "source": "https://en.wikipedia.org/wiki/2023_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the ten cached wikitext pages under .sources/2023 plus three dedicated pulls named below. Box office basis. bo.mjs reports GROSS and WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, under a heading reading Highest-grossing films of 2023, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Wonka opened in mid-December, so its $634,681,815 is a lifetime worldwide total that carried on accruing after the year ended rather than a figure earned inside it. Cache gaps and dedicated pulls. The manifest records two pages that did not resolve: Deaths_in_2023, which is a redirect to a list of lists, and Top-rated_United_States_television_programs_of_2023-24, which returned 404. Three pulls were made where the cache fell short. (1) Top-rated United States television programs by season, because no cached page carries a Nielsen table at all; its block for the season beginning in the autumn heads its column Rating and states no unit, which tv.top_shows says outright rather than calling the figures a household rating or a viewer count. (2) and (3) the Bureau of Labor Statistics series LNS14000000 and CUUR0000SA0, because no cached page carries an unemployment rate or an inflation figure and this is a year where both matter. The twelve-month CPI changes in prices.inflation are computed from the published index levels, which that fact's own detail states rather than presenting them as a figure the BLS printed in that form. No ticket price. film.ticket_price is absent because the movie ticket series in src/data/series ends at 2022, which SPEC.md records as an open item: NATO became Cinema United and stopped publishing the annual average, and the adult-only figures the trade press has quoted since measure something else. The 2022 figure is not carried forward, because a stale price presented as this year's price is exactly the error a reader checks. Source disagreements labelled rather than resolved. The world year page puts the Turkey and Syria earthquake toll at up to 62,000 in its summary of the year and at more than 59,000 in its dated February 6 entry; world.turkey_syria_earthquake states both and picks neither, and the headline uses the dated entry's figure. The television page dates the SAG-AFTRA walkout to July 15 where the US and world year pages both give July 14; tv.strikes uses July 14 and names the disagreement. Date checks. No US federal election or presidential inauguration falls this year. February 12 was a Sunday for Super Bowl LVII, October 3 a Tuesday for the vote to vacate the chair, and January 3 a Tuesday for the seating of the 118th Congress, all consistent with the pages that carry them. October 7 was a Saturday. No cached page disagreed with another on a date except the strike start above, so no dedicated article was pulled for date checking. Nothing in this file reaches into the following year. Left out for that reason: the 96th Academy Awards ceremony date and its nominations announcement, the 81st Golden Globes, the 29th Critics' Choice Awards, the 77th BAFTAs, the 75th Primetime Emmy ceremony itself, the 27th D.I.C.E. Awards, the 24th Game Developers Choice Awards, the 20th British Academy Games Awards, the whole 2024 Republican primary field and every campaign announcement and suspension on the US year page, the Colorado and Maine decisions removing Trump from the primary ballot, the Sam Bankman-Fried sentencing, Pat Sajak's retirement date, and the Copa America qualification of the US men's team. tv.emmys writes the new ceremony date as the following January rather than naming it, and film.best_picture says the following March, both the corpus convention. The 95th Academy Awards of March 12 are left out on the same ground other years use, because they honoured the previous year of film and would put a second Best Picture on the page. Names carrying a four-digit number. src/data/name_years.json was not touched and no entry was needed. checkname.mjs was run on Baldur's Gate 3, EA Sports FC 24, Call of Duty: Modern Warfare III, Chandrayaan-3, GPT-4, Aditya-L1, The Wandering Earth 2, Guardians of the Galaxy Vol. 3, Street Fighter 6, the Barbie and Oppenheimer gross figures, 38,388 points, 121,000 injured, 17,000 acres, more than 1,100 Israelis, the 216 to 210 and 311 to 114 votes, and $1.09 billion, and reported every one safe. Diacritics are written in ASCII per the corpus convention, so Sinead O'Connor, Beyonce, Nikola Jokic, Ludwig Goransson and Katalin Kariko lose theirs. General knowledge rather than a claim from the sources: the whole of culture.mood, which carries no source and no digit, and the framing in film.how_people_watched that a cinema audience of this period saw a new film in a theatre before anywhere else. Both come out if challenged. Music format. music.listening_format claims only what the Billboard year-end page says about how the Hot 100 was compiled and over what window, because no cached page names Spotify, Apple Music or any other subscription service, gives a vinyl or streaming figure, or says anything else about playback. Dropped for lack of a source. No cached page carries a Merriam-Webster or dictionary word of the year, a meme, an internet slang term, a website ranking, a stock index close, a Twitter or X rebranding, a games industry revenue figure, or any home video or disc figure, so culture.slang, culture.memes, tech.web_sites and prices.stocks are all open and all empty. The deaths of Silvio Berlusconi, Sandra Day O'Connor, Charlie Munger and Rosalynn Carter are absent or unusable: the first three appear in no cached page and Rosalynn Carter appears only inside another entry about her tribute service, so none was written from memory. Dropped for room. Politics and world: the East Palestine derailment, the Chinese balloon and the three later shoot-downs, the FAA ground stop, the union membership low, the United Auto Workers strike, the Detroit casino strike, the Nvidia and Apple market values and the UBS purchase of Credit Suisse are all in the texture rather than facts; the Sudanese civil war from April 15, the Niger coup of July 26, the Nagorno-Karabakh offensive and the exodus that followed, the Titan submersible implosion of June 18, the Hawaii wildfires of August 8, Hurricane Otis, Storm Daniel and the Derna floods, the Morocco earthquake, the Odisha train collision, the Lewiston shooting, the Covenant School shooting, the Monterey Park shooting, the Tennessee House expulsions, the Fox News settlement with Dominion Voting Systems, the Alaska Willow project, the Finnish accession to NATO, the Argentine, Dutch, Polish, Slovak, Turkish, Spanish, New Zealand and Guatemalan elections, the Croatian adoption of the euro and the High Seas Treaty are out entirely. Television and music: the 76th Tony Awards, the MTV Video Music Awards, the Billboard Music Awards, the BRIT Awards, the Juno Awards, the MAMA Awards, the Mercury Prize to Ezra Collective, the Pulitzer Prize for Music to Omar, and the Beatles releasing Now and Then on November 2. Deaths dropped for room, all of them in the cache: Burt Bacharach on February 8, Raquel Welch on February 15, Jerry Springer on April 27, Gordon Lightfoot on May 1, Glenda Jackson on June 15, Alan Arkin on June 29, Jane Birkin on July 16, Tony Bennett on July 21, Robbie Robertson on August 9, Bob Barker on August 26, Jimmy Buffett on September 1, Michael Gambon on September 27, Suzanne Somers on October 15, Shane MacGowan on November 30, Frances Sternhagen on November 27 and Ryan O'Neal in December. This file runs 55 facts across 10 sections: politics 7, world 7, film 6, tv 5, music 6, tech 5, prices 6, culture 4, sports 5, deaths 6. No radio fact, because the radio window closed after 1959."
+}

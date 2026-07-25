@@ -1,0 +1,515 @@
+{
+  "year": 2025,
+  "tier": "modern",
+  "headline": "Trump took the oath on January 20, Pope Francis died in April, the last Gaza hostages came home in October",
+  "texture": [
+    "Strong winds and a long drought drove the most destructive wildfires Greater Los Angeles has recorded, burning from January 7 for days and taking most of Sunset Boulevard with them. AccuWeather put the preliminary physical and economic loss at between $250 and $275 billion on January 13, attributing the size of the figure to property values in and near Santa Monica. Los Angeles County sued Southern California Edison on March 5, alleging its power system started the Eaton Fire, which killed 17 people and damaged more than 9,400 buildings. On January 29 an Army Black Hawk and a regional jet collided over the Potomac on approach to Reagan National.",
+    "Hands Off protests filled cities on April 5 against Trump and Elon Musk. The Army's 250th anniversary parade fell on June 14, Trump's birthday, and No Kings protests were held the same day and again on October 18, in thousands of locations. Zohran Mamdani took the Democratic primary for mayor of New York on June 24 after Andrew Cuomo conceded, and won the office on November 4 at 34, the first Muslim and first South Asian to hold it. Abigail Spanberger became the first woman elected governor of Virginia the same night.",
+    "A power failure shut Heathrow completely on March 21, grounding thousands of flights. Spain and Portugal lost electricity for hours on April 28, with Andorra dark for a few seconds. Colossal Biosciences showed woolly mice with eight modified genes on March 4 and three genetically modified grey wolves on April 7. The ALICE experiment at CERN detected lead turning into gold on May 8, and physicists in Italy reported turning light into a supersolid on March 5. Astronomers using the Canada-France-Hawaii Telescope confirmed 128 new moons of Saturn on March 11, bringing its total to 274.",
+    "Sanae Takaichi took office on October 21 as Japan's first female prime minister. Dame Sarah Mullally was named the first female Archbishop of Canterbury on October 3, the day Henri, Grand Duke of Luxembourg, abdicated in favour of his son Guillaume. Timor-Leste joined ASEAN on October 26, the bloc's first enlargement since Cambodia in 1999. Syria voted for a parliament on October 5, its first election since the Assad government fell, with Ahmed al-Sharaa appointed president on January 29. Israel recognised Somaliland on December 26, the first country to do so."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.tariffs",
+    "world.gaza",
+    "world.pope",
+    "film.gross#0",
+    "tech.ai#0",
+    "sports.super_bowl",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Joe Biden (D) until January 20, then Donald Trump (R)",
+      "detail": "Trump was sworn in as the 47th president for a second, non-consecutive term, with JD Vance as the 50th vice president. He had announced on January 17 that the ceremony would move indoors at the Capitol. That day he issued roughly 1,500 pardons and six commutations to people charged over the January 6 Capitol attack, signed orders withdrawing the United States from the Paris Agreement and from the World Health Organization, delayed enforcement of the TikTok ban by 75 days, and directed federal agencies to call the northern Gulf of Mexico the Gulf of America and Denali Mount McKinley. The Senate confirmed Marco Rubio as Secretary of State the same day, the first Latino American in the post. John Roberts remained chief justice.",
+      "date": "2025-01-20",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "119th Congress, seated January 3, with Mike Johnson re-elected Speaker",
+      "detail": "Kamala Harris officiated the swearing-in of senators in her last weeks as vice president. John Thune replaced Chuck Schumer as Senate majority leader the same day. Congress met in joint session on January 6 to count the electoral votes, the final step in certifying the presidential election.",
+      "date": "2025-01-03",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "pol.doge": {
+      "section": "politics",
+      "label": "Department of Government Efficiency",
+      "value": "Trump created it by executive order on January 20 and put Elon Musk in charge of cutting federal spending",
+      "detail": "Government employee unions, watchdog groups and public interest organizations sued within minutes of the announcement. DOGE representatives were given full access to the federal treasury on January 31. The Internal Revenue Service announced on February 20 that it would cut over 6,000 jobs as part of downsizing led by DOGE, and Veterans Affairs over 80,000 on March 5 under the same plans. The Social Security Administration announced over 7,000 cuts on February 28 to align with an executive order, and the Pentagon and Department of Defense 4,500 probationary workers on February 21. Musk announced on May 28 that he was leaving the administration, and he and Trump began a public feud on June 5.",
+      "date": "2025-01-20",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "pol.tariffs": {
+      "section": "politics",
+      "label": "Tariffs",
+      "value": "Trump announced sweeping trade tariffs on April 2, including a 10 percent baseline on all imports",
+      "detail": "A 25 percent tariff on Canadian and Mexican goods and a 10 percent tariff on Chinese goods had been signed on February 1, with the Chinese one taking effect on February 4 and the North American ones on March 4. Aluminium and steel imports were tariffed at 25 percent from March 12 and cars from March 26. On April 9 Trump raised the rate on China to 125 percent and paused the new tariffs on every other country for 90 days. The Senate passed a non-binding resolution rebuking the Canadian tariffs 51 to 48 on April 2, with Rand Paul, Susan Collins, Lisa Murkowski and Mitch McConnell voting for it. Costco joined other companies suing for refunds on December 2 in case the Supreme Court found the tariffs illegal.",
+      "date": "2025-04-02",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "pol.big_bill": {
+      "section": "politics",
+      "label": "One Big Beautiful Bill Act",
+      "value": "The Senate passed it 51 to 50 on July 1 with JD Vance casting the tie-breaking vote, the House on July 3, and Trump signed it on July 4",
+      "detail": "The US Chemical Safety and Hazard Investigation Board was eliminated on July 8 for want of funding under the act.",
+      "date": "2025-07-04",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "pol.shutdown": {
+      "section": "politics",
+      "label": "Federal government shutdown",
+      "value": "A shutdown began on October 1 after senators failed to agree a funding bill, and ended after 43 days, the longest in US history",
+      "detail": "It passed the record set by the 2018 shutdown on November 4, after a fourteenth failed Senate vote. Almost 42 million people on the Supplemental Nutrition Assistance Program faced losing access to benefits from November 1, and the Department of Agriculture said on November 5 that November benefits would be paid at up to 65 percent. The Senate agreed a deal 60 to 40 on November 10 and the spending bill was signed on November 12. The Federal Aviation Administration lifted the last restrictions on commercial flights on November 17.",
+      "date": "2025-10-01",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "pol.kirk": {
+      "section": "politics",
+      "label": "Charlie Kirk assassinated",
+      "value": "The right-wing activist and ally of President Trump was shot dead at a campus event in Utah",
+      "detail": "The FBI released images of a person of interest the next day and said a high-powered rifle had been found in woodland along with a footwear impression and a forearm imprint. A 22-year-old suspect, Tyler Robinson, was arrested on September 12 after confessing to his father, and made his first in-person court appearance on December 11.",
+      "date": "2025-09-10",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "world.gaza": {
+      "section": "world",
+      "label": "Gaza war",
+      "value": "A ceasefire took effect on January 19, collapsed on March 18, and a peace deal in October ended with Hamas releasing the last 20 living hostages on October 13",
+      "detail": "Israel and Hamas approved the January agreement on January 15, mediated by Egypt, Qatar and the United States, to exchange hostages and prisoners and let aid in. Israeli bombardment on March 18 killed at least 591 people and ended it. Twenty-eight countries called on July 21 for an immediate end to the war. Famine was confirmed in Gaza City on August 22 when the UN-backed monitoring body raised its classification to Phase 5, with more than 500,000 people facing starvation. A UN Human Rights Council commission of inquiry found on September 16 that Israel had committed genocide. The UK, Canada and Australia recognised Palestine on September 21 and France the next day. In exchange for the last hostages Israel released 250 Palestinian prisoners and more than 1,700 detainees.",
+      "date": "2025-10-13",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.pope": {
+      "section": "world",
+      "label": "Pope Francis died and Leo XIV was elected",
+      "value": "Francis died on April 21 aged 88, and 133 cardinal electors chose Robert Francis Prevost on the fourth ballot on May 8",
+      "detail": "Francis had led the Catholic Church since 2013. His funeral on April 26 drew delegations from 164 countries, 82 of them led by a head of state or government, and 250,000 members of the public. Prevost took the name Leo XIV and is the first pope from North America, the first with Peruvian or United States citizenship, and the first from the Order of Saint Augustine.",
+      "date": "2025-05-08",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.iran_israel": {
+      "section": "world",
+      "label": "Iran and Israel",
+      "value": "Israel struck Iran's nuclear facilities on June 13, killing commanders including Hossein Salami, and Iran retaliated",
+      "detail": "United States B-2 bombers hit three Iranian nuclear sites at Fordow, Natanz and Isfahan on June 22. Iran fired missiles at American bases in Qatar and Iraq the next day. Trump accused both countries of breaking the ceasefire announced on the night of June 23. The world year page calls the fighting the Twelve-Day War.",
+      "date": "2025-06-13",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.ukraine": {
+      "section": "world",
+      "label": "Russia and Ukraine",
+      "value": "Trump and JD Vance argued with Volodymyr Zelenskyy at the White House on February 28, and the administration paused military aid on March 3 and intelligence sharing on March 5",
+      "detail": "Ukraine halted the transit of many Russian gas supplies on January 1 when a five-year deal expired, and became a state party to the International Criminal Court. Operation Spiderweb on June 1 attacked more than 40 Russian Air Force aircraft with drones. Russian drones breached Polish airspace on September 9, the first attack on NATO territory, and Poland invoked Article 4. Trump met Vladimir Putin in Anchorage on August 15. The Ukraine and United States minerals agreement was signed on April 30, and EU leaders approved a 90 billion euro loan for Ukraine on December 19, repayable only once Russia pays reparations.",
+      "date": "2025-02-28",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.myanmar_earthquake": {
+      "section": "world",
+      "label": "Myanmar earthquake",
+      "value": "A magnitude 7.7 earthquake killed 5,413 people and injured 11,402",
+      "detail": "A skyscraper under construction in Bangkok collapsed in the same quake. An earthquake in eastern Afghanistan killed over 2,200 people and injured 3,500 on August 31, and a magnitude 8.8 quake off Russia's Kamchatka Peninsula on July 30 set off tsunami warnings across the Pacific.",
+      "date": "2025-03-28",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.gen_z_protests": {
+      "section": "world",
+      "label": "Gen Z protests",
+      "value": "Protests led largely by young people brought down governments in Nepal and Madagascar",
+      "detail": "Mass demonstrations in Nepal from September 8 left at least 22 dead and hundreds injured, and Prime Minister K. P. Sharma Oli resigned the next day; former chief justice Sushila Karki took over as interim prime minister on September 12. In Madagascar on October 12, after weeks of protest, President Andry Rajoelina was ousted and the military officer Michael Randrianirina became president. Protests also ran through the year in Indonesia, Turkey, Mongolia, Serbia and the Philippines.",
+      "date": "2025-09-08",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.melissa": {
+      "section": "world",
+      "label": "Hurricane Melissa",
+      "value": "It made landfall in Jamaica as a Category 5 storm with sustained winds of 160 knots, the strongest hurricane to strike the country on record",
+      "detail": "Cyclone Senyar killed at least 1,390 people in Thailand, Malaysia and Indonesia from November 26, Cyclone Ditwah at least 647 in Sri Lanka from November 28, and Typhoon Kalmaegi more than 288 in the Philippines, Vietnam and Thailand on November 4.",
+      "date": "2025-10-28",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Ne Zha 2, $2,215,690,000, Beijing Enlight",
+        "Zootopia 2, $1,870,309,291, Disney",
+        "Avatar: Fire and Ash, $1,490,386,712, 20th Century",
+        "Lilo & Stitch, $1,038,027,526, Disney",
+        "A Minecraft Movie, $961,287,780, Warner Bros.",
+        "Jurassic World Rebirth, $872,428,220, Universal"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says. The Ne Zha 2 total is not one published figure: the table builds it from a Chinese box office of $2,155,690,000 plus $60,000,000 taken elsewhere, and a note in the page's source says the Box Office Mojo figure is wrong and other sources were used, while the page's opening paragraph rounds the same total to approximately $2.2 billion. It was the first film to take a billion and then two billion dollars in a single market and the second non-English-language film to end a year as the biggest in the world. Demon Slayer: Kimetsu no Yaiba Infinity Castle was seventh on $793,491,854 and is marked in the table as still playing in cinemas.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_film"
+    },
+    "film.anime_records": {
+      "section": "film",
+      "label": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "value": "It became the highest-grossing Japanese film and the highest-grossing anime film ever made",
+      "detail": "The film page gives about $780 million worldwide in its records section and $793,491,854 in its table of the year's biggest films. It had the largest opening weekend in Japanese history at 5.52 billion yen over three days and passed 10 billion yen in eight days. Its $70 million opening in the United States was the biggest for an international release, for an R-rated animated film and for a September animated release, and it went on to pass Crouching Tiger, Hidden Dragon as the highest-grossing international film in the country. It also became the highest-grossing hand-drawn animated film on initial release, past The Lion King, which had taken $763 million and held that record for 31 years.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "One Battle After Another, produced by Adam Somner, Sara Murphy and Paul Thomas Anderson",
+      "detail": "Awarded the following March at the 98th Academy Awards, held at the Dolby Theatre with Conan O'Brien hosting for a second consecutive year. The film won six awards, more than any other, among them the first Best Casting award the Academy has given. Somner won posthumously. Sinners led the field with sixteen nominations, the most in Academy history, and One Battle After Another came second with thirteen. The telecast ran three hours and forty minutes and drew 17.86 million viewers in the United States.",
+      "source": "https://en.wikipedia.org/wiki/98th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Michael B. Jordan, Sinners",
+        "Best Actress, Jessie Buckley, Hamnet",
+        "Best Supporting Actor, Sean Penn, One Battle After Another",
+        "Best Supporting Actress, Amy Madigan, Weapons"
+      ],
+      "detail": "Jordan was the second actor to win for a dual role, after Lee Marvin in Cat Ballou. The forty years between Amy Madigan's first nomination, for Twice in a Lifetime, and this one set the record for the longest gap between acting nominations for an actress. Paul Thomas Anderson took Best Director and Best Adapted Screenplay for One Battle After Another and Ryan Coogler Best Original Screenplay for Sinners. Autumn Durald Arkapaw won Best Cinematography for Sinners, the first woman, the first Black winner and the first Filipino winner in the category. The Singers and Two People Exchanging Saliva tied for Best Live Action Short Film, the first tie at the ceremony since the 85th.",
+      "source": "https://en.wikipedia.org/wiki/98th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best International Feature Film",
+      "value": [
+        "Sentimental Value, Norway, in Norwegian, Swedish and English, directed by Joachim Trier, the winner",
+        "It Was Just an Accident, France, in Persian and Azerbaijani, directed by Jafar Panahi",
+        "The Secret Agent, Brazil, in Portuguese and German, directed by Kleber Mendonca Filho",
+        "Sirat, Spain, in Spanish, French and Arabic, directed by Oliver Laxe",
+        "The Voice of Hind Rajab, Tunisia, in Arabic, directed by Kaouther Ben Hania"
+      ],
+      "detail": "The Academy changed the category's eligibility rules so that a submitting country may count creative control held by people with refugee or asylum status in that country. The film page gives the festival prizes: the Palme d'Or at the 78th Cannes Film Festival to It Was Just an Accident, the Golden Lion at the 82nd Venice International Film Festival to Jim Jarmusch's Father Mother Sister Brother, the Golden Bear at the 75th Berlin International Film Festival to Dag Johan Haugerud's Dreams (Sex Love), and the People's Choice Award at the 50th Toronto International Film Festival to Chloe Zhao's Hamnet.",
+      "source": "https://en.wikipedia.org/wiki/98th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a cinema first, except for two of the ten Best Picture nominees, which came from Netflix and carried no box office figure at all, because the company will not publish them",
+      "detail": "The Oscars page says grosses for Frankenstein and Train Dreams were unavailable for that reason. The other eight had taken nearly $750 million between them at the American and Canadian box office by the time nominations were announced, Sinners $280 million of it, F1 $189.6 million, Marty Supreme $80.6 million, One Battle After Another $71.6 million, Bugonia $17.7 million, Hamnet $15.3 million, Sentimental Value $4.3 million and The Secret Agent $2.6 million. The Best Animated Feature winner, KPop Demon Hunters, was also a Netflix release.",
+      "source": "https://en.wikipedia.org/wiki/98th_Academy_Awards"
+    },
+    "tv.most_watched": {
+      "section": "tv",
+      "label": "Most-watched broadcast",
+      "value": "Super Bowl LIX on Fox, Fox Deportes and Tubi, an estimated 126 million viewers across the three",
+      "detail": "A record, past the 123.4 million who watched the game a year earlier, and it held up despite a lopsided 40 to 22 result. Kendrick Lamar's halftime show became the most-watched halftime show, past Michael Jackson's in 1993. The 99th Macy's Thanksgiving Day Parade on NBC and Peacock took a record 34.3 million viewers, with 25.4 million of them watching the live morning broadcast, its biggest combined audience on record and 8 percent above the previous year's parade.",
+      "date": "2025-02-09",
+      "source": "https://en.wikipedia.org/wiki/2025_in_American_television"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "77th Primetime Emmy Awards",
+      "value": "The Studio won Outstanding Comedy Series and 13 awards in all, The Pitt Outstanding Drama Series with five, and Adolescence the limited series award with six",
+      "detail": "Broadcast on CBS from the Peacock Theater in Los Angeles with Nate Bargatze hosting. The Late Show with Stephen Colbert won Outstanding Talk Series two months after CBS announced its cancellation, which it did on July 17, ending the franchise David Letterman had started.",
+      "date": "2025-09-14",
+      "source": "https://en.wikipedia.org/wiki/2025_in_American_television"
+    },
+    "tv.kimmel": {
+      "section": "tv",
+      "label": "Jimmy Kimmel Live! suspended",
+      "value": "ABC pulled the show indefinitely after Nexstar and Sinclair said they would pre-empt it over Kimmel's September 15 monologue about the reaction to Charlie Kirk's killing",
+      "detail": "The suspension came hours after FCC chairman Brendan Carr raised possible action against ABC, including revoking station licences, in an interview with Benny Johnson. Nexstar denied its decision was connected to Carr's remarks or to its bid for FCC approval to buy Tegna. Celebrity Family Feud reruns filled the slot for the rest of that week. The show returned on September 23, and Sinclair and Nexstar carried it again from September 26.",
+      "date": "2025-09-17",
+      "source": "https://en.wikipedia.org/wiki/2025_in_American_television"
+    },
+    "tv.streaming": {
+      "section": "tv",
+      "label": "Streaming services launched",
+      "value": [
+        "ESPN, August 21, everything on the cable channels plus ESPN Select and WWE premium live events",
+        "Fox One, August 21, all of Fox Corporation's cable channels except Fox Soccer Plus, at $19.99 a month"
+      ],
+      "detail": "Both let existing pay television subscribers in at no extra cost with TV Everywhere credentials. Disney had confirmed the ESPN date on August 6. NBCUniversal announced on October 2 that it would relaunch NBC Sports Network on YouTube TV as part of a carriage deal, four years after shutting the previous version down in December 2021.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_American_television"
+    },
+    "tv.consolidation": {
+      "section": "tv",
+      "label": "Netflix agreed to buy Warner Bros. Discovery",
+      "value": "Netflix outbid Comcast and Paramount Skydance for the company on December 5",
+      "detail": "The two cached pages give different terms: the US year page says $72 billion for the film and streaming businesses, and the video games page says $82.6 billion for Warner Bros. Discovery including Warner Bros. Games. Earlier in the year Paramount Global agreed on July 2 to pay Donald Trump $16 million to settle his lawsuit over the editing of a 60 Minutes interview, while the FCC was reviewing the transfer of 27 CBS station licences in the Skydance merger; the FCC approved that merger on July 24.",
+      "date": "2025-12-05",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Die with a Smile, Lady Gaga and Bruno Mars",
+      "detail": "Mars became the fourth act to top two year-end Hot 100 lists, after the Beatles, George Michael and Elton John; his first was Uptown Funk in 2015. His duet with Rose, APT., was ninth. Luther by Kendrick Lamar and SZA came second and A Bar Song (Tipsy) by Shaboozey third. Morgan Wallen placed ten songs on the list, nine of them from I'm the Problem, Kendrick Lamar six and Sabrina Carpenter five.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2025"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard built the Hot 100 from physical and digital single sales, radio airplay and streaming together, compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on December 9 from data running from October 26, 2024 to October 18. Seven of the hundred songs came from the KPop Demon Hunters soundtrack, a film released by a streaming service, four of them co-written by Ejae, who also sang for the film's lead character. No cached page for the year names a subscription music service or gives a sales figure for any format.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2025"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "67th Grammy Awards",
+      "value": "Record of the Year and Song of the Year to Not Like Us by Kendrick Lamar, Album of the Year to Cowboy Carter by Beyonce, and Best New Artist to Chappell Roan",
+      "detail": "The US year page adds that the ceremony was held at the Crypto.com Arena in Los Angeles, that it honoured music released from September 2023 to August 2024, and that Lamar's song, a diss track aimed at Drake, won five awards on the night.",
+      "date": "2025-02-02",
+      "source": "https://en.wikipedia.org/wiki/2025_in_music"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "Bad Company",
+        "Chubby Checker",
+        "Joe Cocker",
+        "Cyndi Lauper",
+        "Outkast",
+        "Soundgarden",
+        "The White Stripes"
+      ],
+      "detail": "Salt-N-Pepa and Warren Zevon went in as musical influences, Lenny Waronker took the Ahmet Ertegun Award for non-performers, and Thom Bell, Nicky Hopkins and Carol Kaye were honoured for musical excellence. The music page gives no ceremony date.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Austria won with Wasted Love by JJ, at the contest held in Basel from May 13 to 17",
+      "detail": "The Junior contest was held in Tbilisi on December 13 and won by the French entrant Lou Deleuze with Ce monde. Intervision, a rival contest, was held in Moscow on September 20 and won by the Vietnamese entrant Duc Phuc.",
+      "date": "2025-05-17",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "tech.ai": {
+      "section": "tech",
+      "label": "Artificial intelligence",
+      "value": [
+        "DeepSeek's chatbot, a Chinese competitor to ChatGPT, sent technology shares outside China down sharply on January 27, and Nvidia lost almost $600 billion of its value, the biggest one-company drop in US stock market history",
+        "Oracle, MGX, SoftBank and OpenAI announced the Stargate Project on January 21, a joint venture in AI infrastructure with a projected $500 billion investment",
+        "OpenAI announced GPT-4.5 on February 27 and released GPT-5 on August 7",
+        "Google released Gemini 3 on November 18"
+      ],
+      "detail": "GPT-4.5 was reported on March 31 to have passed the Turing test. Trump signed an executive order on April 8 directing the federal government to use coal to power AI data centres. A study published on December 17 estimated the carbon footprint of AI systems at about that of New York City, with a water footprint in the range of the world's annual consumption of bottled water.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_science"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "Blue Origin launched New Glenn for the first time on January 16 and landed its booster for the first time on November 13",
+        "Firefly Aerospace landed Blue Ghost Mission 1 at Mare Crisium on March 2, the first fully successful lunar landing by a private company",
+        "Fram2 launched on April 1, the first crewed spaceflight to enter a polar retrograde orbit",
+        "3I/ATLAS was discovered on July 1, the third confirmed interstellar object to enter the Solar System"
+      ],
+      "detail": "The European Space Agency's Gaia spacecraft finished work on January 15 after eleven years, three trillion observations and two billion stars. The Vera C. Rubin Observatory released its first-light images on June 23, among them roughly 2,000 newly found asteroids. Kosmos 482, a Soviet Venus probe that never escaped low Earth orbit, fell back to Earth on May 9 after more than 53 years. NASA announced its 6,000th confirmed exoplanet on September 17 and launched the IMAP probe toward Lagrange point 1 on September 24.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Hades II, Supergiant Games, September 25, on Windows and both Nintendo Switch consoles, scoring 95",
+        "Clair Obscur: Expedition 33, Sandfall Interactive and Kepler Interactive, April 24, 92",
+        "Blue Prince, Dogubomb and Raw Fury, April 10, 92",
+        "Split Fiction, Hazelight Studios and Electronic Arts, March 6, 91",
+        "Donkey Kong Bananza, Nintendo EPD, July 17, 91",
+        "Hollow Knight: Silksong, Team Cherry, September 4, 90"
+      ],
+      "detail": "Scores and dates from the games page's table of releases rated 90 or higher on Metacritic. Nintendo released the Switch 2 on June 5. Clair Obscur: Expedition 33 took Game of the Year at the 43rd Golden Joystick Awards on November 20 and at The Game Awards on December 11. Electronic Arts announced on September 29 that it would be taken private by Saudi Arabia's Public Investment Fund, Silver Lake and Affinity Partners for $55 billion. Microsoft laid off about 4 percent of its workforce on July 2 and closed The Initiative. SAG-AFTRA members ratified an interactive media contract on July 9, ending a year-long strike over voice acting, and the first industry-wide games union, the United Videogame Workers, was announced on March 19.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_video_games"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "TikTok went dark and came back",
+      "value": "The app took itself offline in the United States on January 18, hours before the law banning it took effect, and ByteDance shut TikTok, CapCut, Lemon8 and Marvel Snap the next day",
+      "detail": "The Supreme Court had upheld the Protecting Americans from Foreign Adversary Controlled Applications Act on January 17. Trump signed an order on January 20 delaying enforcement for 75 days, JD Vance and Michael Waltz were put in charge of a possible sale on February 7, and the administration reached an agreement with Beijing on September 16 letting the app keep operating. Mark Zuckerberg had announced on January 7 that Meta would drop fact-checkers on Facebook, Instagram and Threads.",
+      "date": "2025-01-18",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "tech.windows": {
+      "section": "tech",
+      "label": "Windows 10 support ended",
+      "value": "Microsoft stopped supporting the operating system it had shipped in 2015",
+      "date": "2025-10-14",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "tech.climate": {
+      "section": "tech",
+      "label": "Climate records",
+      "value": "The European Copernicus Climate Change Service reported that the previous year had been the hottest on record and the first calendar year past 1.5 degrees Celsius of warming",
+      "detail": "The Mauna Loa Observatory reported on January 16 that carbon dioxide had risen 3.58 parts per million over the previous year, past the record of 3.36 set the year before that, to a global concentration of 427 ppm, more than 50 percent above the pre-industrial level. A record low global sea ice extent was reported on February 15. Hektoria Glacier in Antarctica was reported on November 3 to have lost nearly half of itself in two months, the fastest glacier retreat in modern history. The COP30 summit met in Belem, Brazil, from November 10 to 21.",
+      "date": "2025-01-10",
+      "source": "https://en.wikipedia.org/wiki/2025_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.26 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "4.0 percent in January, 4.4 percent in December",
+      "detail": "Seasonally adjusted, all civilian workers aged 16 and over. It reached 4.5 percent in November, the year's highest. The Bureau of Labor Statistics series carries no figure at all for October.",
+      "source": "https://data.bls.gov/timeseries/LNS14000000"
+    },
+    "prices.inflation": {
+      "section": "prices",
+      "label": "US consumer price inflation",
+      "value": "3.0 percent over the twelve months to January, 2.7 percent over the twelve months to December",
+      "detail": "Consumer Price Index for All Urban Consumers, US city average, all items, not seasonally adjusted. The twelve-month changes are computed from the index levels the Bureau of Labor Statistics publishes for that series: 317.671 in January against 308.417 a year earlier, and 324.054 in December against 315.605.",
+      "source": "https://data.bls.gov/timeseries/CUUR0000SA0"
+    },
+    "prices.stocks": {
+      "section": "prices",
+      "label": "US stock market",
+      "value": "The S&P 500 closed at a record 6173.07 on June 27, its highest since February",
+      "detail": "Shares had fallen hard on the tariffs. On April 3 the Dow Jones Industrial Average lost 3.2 percent, the S&P 500 over 4 percent and the Nasdaq 5.2 percent, and the S&P finished that week down 9.1 percent, its worst since March 2020. On April 9, after most of the new tariffs were paused for 90 days, the Nasdaq Composite closed up 12.16 percent, its biggest one-day percentage gain since January 3, 2001, the S&P 500 rose 9.52 percent and the Dow posted its largest daily net gain on record.",
+      "date": "2025-06-27",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "prices.penny": {
+      "section": "prices",
+      "label": "The penny",
+      "value": "The Philadelphia Mint stopped making pennies for circulation, though the coin stays in circulation and legal tender",
+      "date": "2025-11-12",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "An argument about tariffs at the checkout and executive orders on the evening news, a spring in which the pope died and an American was chosen to replace him, an autumn of federal agents in city streets and a fight over who is allowed to make jokes on late-night television."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Laszlo Krasznahorkai",
+        "Peace, Maria Corina Machado",
+        "Physics, John Clarke, Michel Devoret and John M. Martinis",
+        "Chemistry, Susumu Kitagawa, Richard Robson and Omar M. Yaghi",
+        "Physiology or Medicine, Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi",
+        "Economics, Joel Mokyr, Peter Howitt and Philippe Aghion"
+      ],
+      "detail": "The peace prize cited Machado's work for democratic rights in Venezuela and for a peaceful transition from dictatorship. The chemistry prize was for metal-organic frameworks, the physics prize for macroscopic quantum tunnelling in an electric circuit, and the medicine prize for peripheral immune tolerance. The announcements ran from October 6 to October 13.",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "culture.public_domain": {
+      "section": "culture",
+      "label": "Public Domain Day",
+      "value": "Works published in 1929 entered the public domain in the United States, among them Popeye, Tintin and The Broadway Melody",
+      "detail": "The film page adds that The Broadway Melody was Metro-Goldwyn-Mayer's first musical and the first sound film to win Best Picture.",
+      "date": "2025-01-01",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "culture.louvre": {
+      "section": "culture",
+      "label": "Louvre robbery",
+      "value": "Thieves took pieces of the French Crown Jewels from the Galerie d'Apollon in Paris",
+      "date": "2025-10-19",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LIX",
+      "value": "Philadelphia Eagles 40, Kansas City Chiefs 22, at the Caesars Superdome in New Orleans",
+      "detail": "A rematch of Super Bowl LVII. Both teams had won their conference championship games on January 26.",
+      "date": "2025-02-09",
+      "source": "https://en.wikipedia.org/wiki/2025_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Los Angeles Dodgers beat the Toronto Blue Jays, a ninth title for the club",
+      "detail": "The first team to win consecutive World Series since the New York Yankees in 2000. The sports page dates the series from October 24 to November 1. The Athletics began a temporary relocation to West Sacramento on March 31, and the All-Star Game was played at Truist Park in Cumberland, Georgia, on July 15.",
+      "date": "2025-11-01",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Oklahoma City Thunder over the Indiana Pacers in seven games on June 22, a second title and a first won at home, with Shai Gilgeous-Alexander named most valuable player",
+        "Stanley Cup, Florida Panthers over the Edmonton Oilers on June 17, a second in a row",
+        "UEFA Champions League, Paris Saint-Germain won the final on May 31",
+        "FIFA Club World Cup, Chelsea won the first tournament in its expanded format, held across the United States from June 14 to July 13",
+        "UEFA Women's Euro, England won a tournament held in Switzerland from July 2 to 27"
+      ],
+      "detail": "Inter Miami beat the Vancouver Whitecaps 3 to 1 in the MLS Cup on December 6, with two assists from Lionel Messi, who was named most valuable player of the match. Mexico beat the United States in the CONCACAF Gold Cup final on July 6.",
+      "source": "https://en.wikipedia.org/wiki/2025_in_sports"
+    },
+    "sports.college_championships": {
+      "section": "sports",
+      "label": "College championships",
+      "value": "Ohio State beat Notre Dame 34 to 23 for the College Football Playoff national title on January 20, and the Florida Gators beat the Houston Cougars 65 to 63 at the Alamodome on April 7 for the NCAA men's basketball title",
+      "detail": "Florida had trailed by twelve points and had not won the basketball title since 2007.",
+      "date": "2025-04-07",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "sports.ovechkin": {
+      "section": "sports",
+      "label": "Alexander Ovechkin passed Wayne Gretzky",
+      "value": "The Washington Capitals forward scored his 895th career goal against the New York Islanders at UBS Arena, taking the NHL all-time record",
+      "detail": "Jonathan Quick had become the first American-born goaltender to reach 400 wins on February 2.",
+      "date": "2025-04-06",
+      "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
+    },
+    "deaths.lynch": {
+      "section": "deaths",
+      "label": "David Lynch",
+      "value": "Died January 15, aged 78",
+      "detail": "American director, screenwriter and producer. The film page names Blue Velvet and Mulholland Drive.",
+      "date": "2025-01-15",
+      "source": "https://en.wikipedia.org/wiki/2025_in_film"
+    },
+    "deaths.hackman": {
+      "section": "deaths",
+      "label": "Gene Hackman",
+      "value": "Found dead February 26, aged 95",
+      "detail": "American actor. The film page names The French Connection and gives February 26 as the day he was found rather than the day he died.",
+      "date": "2025-02-26",
+      "source": "https://en.wikipedia.org/wiki/2025_in_film"
+    },
+    "deaths.wilson": {
+      "section": "deaths",
+      "label": "Brian Wilson",
+      "value": "Died June 11, aged 82",
+      "detail": "American pop rock singer-songwriter, bassist and keyboardist, of The Beach Boys. Sly Stone had died two days earlier, aged 82.",
+      "date": "2025-06-11",
+      "source": "https://en.wikipedia.org/wiki/2025_in_music"
+    },
+    "deaths.osbourne": {
+      "section": "deaths",
+      "label": "Ozzy Osbourne",
+      "value": "Died July 22, aged 76",
+      "detail": "English heavy metal singer-songwriter, of Black Sabbath.",
+      "date": "2025-07-22",
+      "source": "https://en.wikipedia.org/wiki/2025_in_music"
+    },
+    "deaths.redford": {
+      "section": "deaths",
+      "label": "Robert Redford",
+      "value": "Died September 16, aged 89",
+      "detail": "American actor, director and producer. The film page names Butch Cassidy and the Sundance Kid and Ordinary People.",
+      "date": "2025-09-16",
+      "source": "https://en.wikipedia.org/wiki/2025_in_film"
+    },
+    "deaths.keaton": {
+      "section": "deaths",
+      "label": "Diane Keaton",
+      "value": "Died October 11, aged 79",
+      "detail": "American actress. The film page names The Godfather and Annie Hall.",
+      "date": "2025-10-11",
+      "source": "https://en.wikipedia.org/wiki/2025_in_film"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the ten cached wikitext pages under .sources/2025 plus the Bureau of Labor Statistics series named below. This is the last year in the corpus and the pages for it are younger than the rest, so several of the usual sources are thinner or absent and the gaps are recorded here rather than filled. Box office basis. bo.mjs reports GROSS and WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, under a caption reading Highest-grossing films of 2025 citing Box Office Mojo and The Numbers, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Provisional and contested figures, labelled rather than resolved. Ne Zha 2's $2,215,690,000 is not a published total: the film page's table computes it from a Chinese box office of $2,155,690,000 plus $60,000,000 taken elsewhere, carries an editorial note saying the Box Office Mojo figure is provably incorrect and that alternative sources were used, and rounds the same total to approximately $2.2 billion in the page's opening paragraph; film.gross says all of this rather than presenting one number as settled. Demon Slayer: Kimetsu no Yaiba Infinity Castle is about $780 million in the film page's records section and $793,491,854 in its table, and film.anime_records gives both; the table also marks the film as still playing in cinemas, so its total was not final when the page was compiled. The AccuWeather estimate of $250 to $275 billion for the January wildfires is called preliminary by the source and is written that way in the texture. The two cached year pages disagree on the wildfire toll, five deaths and thousands of structures on the US page against at least 29 deaths and over 13,000 structures on the world page, and neither figure is used: the texture gives only the Eaton Fire count of 17 dead and more than 9,400 buildings, which the US page states in one place. The Netflix purchase of Warner Bros. Discovery is $72 billion for the film and streaming businesses on the US year page and $82.6 billion for the whole company including Warner Bros. Games on the video games page, and tv.consolidation names both. Cache gaps and outside sources. The manifest records two pages that did not resolve: Deaths_in_2025, a redirect to a list of lists, and Top-rated_United_States_television_programs_of_2025-26, a 404. Unlike 2019 and 2021, the fallback does not work either: Top-rated United States television programs by season was pulled and its last block is the season that began in autumn 2024, so no Nielsen ranking exists anywhere for the season starting autumn 2025 and this file carries no tv.top_shows at all. tv.most_watched stands in its place with the Super Bowl audience, which the television page does carry. No cached page gives an unemployment rate or an inflation figure, so prices.unemployment and prices.inflation come from Bureau of Labor Statistics series LNS14000000 and CUUR0000SA0, pulled from the BLS public API. The twelve-month CPI changes are computed from the published index levels and prices.inflation prints those levels rather than presenting the percentages as figures the BLS published in that form. The LNS14000000 series has no October value; the fact says so and draws no conclusion about why. film.ticket_price is absent because the movie ticket series in src/data/series ends at 2022, which SPEC.md records as an open item; no estimate was made. Date checks. January 20 is the constitutional inauguration date and the US year page agrees, so no dedicated article was needed. November 4 was the Tuesday after the first Monday in November and is the date the US year page gives for the off-year elections. February 9 was a Sunday for Super Bowl LIX. No cached page disagreed with another on a date. Nothing in this file reaches past the page year. The 98th Academy Awards ceremony falls in the following March and is written that way rather than dated, per the corpus convention, as is the fact that its Best Picture honours this year of film. Left out for the same reason: the 83rd Golden Globes, the 31st Critics' Choice Awards, the 79th BAFTAs, the guild awards, the Oscar nominations announcement, the final episode of The Late Show, the completion of the Netflix and Warner Bros. Discovery deal, the Supreme Court's tariff ruling, and the D.I.C.E., Game Developers Choice and British Academy Games awards at which Clair Obscur: Expedition 33 completed a sweep of all five Game of the Year prizes; tech.games names only the two ceremonies held inside the year. The 97th Academy Awards of March 2 are left out on the ground other years use, that they honoured the previous year of film and would put a second Best Picture on the page. The Grand Theft Auto VI delays of May 2 and November 6, the FIFA World Cup draw of December 5 and the United States being given hosting rights to a future FIFA Women's World Cup on April 3 are all out because each names a later year; the last of these could have been written under the host-city convention and was dropped for room instead. Names carrying a four-digit number. checkname.mjs was run on Ne Zha 2, Zootopia 2, Avatar: Fire and Ash, Lilo & Stitch, A Minecraft Movie, Jurassic World Rebirth, F1, Demon Slayer: Infinity Castle, Clair Obscur: Expedition 33, Nintendo Switch 2, GPT-5, Gemini 3, 3I/ATLAS, Kosmos 482, 2024 YR4, New Glenn, Boeing 787, Super Bowl LIX, 119th Congress, the S&P 500 close of 6173.07 and every box office figure in film.gross, and reported every one safe. src/data/name_years.json was not touched and no entry was needed, which is expected on the last page in the corpus, where no real name can carry a later year. Diacritics are written in ASCII per the corpus convention, so Beyonce, Laszlo Krasznahorkai, Maria Corina Machado, Kleber Mendonca Filho, Chloe Zhao, Sirat, Rose, Belem and Michael Randrianirina lose theirs. General knowledge rather than a claim from the sources: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which carries no source and no digit. Both come out if challenged. Politics is written from the two year pages with no framing added in either direction: the counts, the dates and the descriptions are the pages' own. Dropped for lack of a source. No cached page carries a Merriam-Webster or dictionary word list, a meme, a website ranking, a streaming subscriber count, a vinyl or physical sales figure, or a smartphone release, so culture.slang, culture.memes and tech.web_sites are open and empty and music.listening_format claims only what the Billboard page says about how the chart was compiled. Dropped for room. Politics and world: the Potomac collision toll, the New Orleans truck attack of January 1, the Laken Riley Act, the USAID shutdown, the Kilmar Abrego Garcia deportation, the June deployment of the National Guard to Los Angeles and the August deployment to Washington, the Minnesota legislator shootings of June 14, the Epstein files releases of December 19 and 23, the Brown University shooting, the Canadian, German, Australian, Polish, South Korean, Dutch, Argentine, Chilean, Irish, Czech, Bolivian and Honduran elections, the impeachment and removal of Yoon Suk Yeol, the India and Pakistan conflict of May, the Cambodia and Thailand fighting of July, the Air India Flight 171 crash of June 12, the Jet Set nightclub roof collapse of April 8, the Hong Kong Wang Fuk Court fire of November 26, the El Fashir massacre of October 26 and the Armenia and Azerbaijan peace deal of August 8. Culture and media: the 78th Tony Awards, the MTV Video Music Awards, the Brit Awards, the Mercury Prize, the Polar Music Prize, the Pulitzer Prize for Music to Susie Ibarra's Sky Islands, and Time naming A'ja Wilson Athlete of the Year. Deaths: there is no cached deaths page, so all six come from the film or music pages, and Val Kilmer on April 1, Michelle Trachtenberg on February 26, Terence Stamp on August 17, Claudia Cardinale on September 23, Udo Kier on November 23, Rob Reiner on December 14, Roberta Flack on February 24, Sly Stone on June 9, Mick Ralphs on June 20, D'Angelo on October 14, Ace Frehley on October 16 and Jimmy Cliff on November 24 were all dropped for room. Pope Francis is carried in world.pope rather than as a death fact. This file runs 57 facts across 10 sections: politics 7, world 7, film 6, tv 5, music 5, tech 6, prices 6, culture 4, sports 5, deaths 6. No radio fact, because the radio window closed after 1959."
+}

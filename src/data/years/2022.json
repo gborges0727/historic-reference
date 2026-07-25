@@ -1,0 +1,499 @@
+{
+  "year": 2022,
+  "tier": "modern",
+  "headline": "Russia invaded Ukraine on February 24, the Supreme Court overturned Roe on June 24, Elizabeth II died on September 8",
+  "texture": [
+    "Apple passed a $3 trillion market value on January 3, the first publicly traded company to do it, and Microsoft agreed on January 18 to buy Activision Blizzard for $68.7 billion. Meta Platforms lost 26.4 percent of its share price on February 3, with Facebook shedding $230 billion of value in a day. Amazon warehouse workers at JFK8 on Staten Island voted 2,654 to 2,131 on April 1 to form the Amazon Labor Union. The last public payphone came out of a New York City street on May 23 and went to a museum.",
+    "FIFA and UEFA suspended Russian clubs and national teams on February 28, and World Athletics barred Russia and Belarus from its events on March 1. Finland and Sweden applied to join NATO on May 18. Russia and Ukraine signed the Black Sea Grain Initiative on July 22, brokered by Turkey and the United Nations to get grain exports moving and bring food prices down. Explosions off Bornholm left both Nord Stream pipelines inoperable on September 26, and Russia suspended its part in the grain deal on October 29.",
+    "Hunga Tonga-Hunga Ha'apai, a submarine volcano in Tonga, erupted on January 15 and set off tsunami warnings as far away as Chile and Canada. Researchers in the Antarctic located Shackleton's Endurance on March 5, more than a century after the ship went down. Shinzo Abe was shot dead on July 8 while giving a public speech in Nara. A crowd crush during Halloween festivities in Seoul killed at least 158 people on October 29, and a suspension bridge collapse in Gujarat left at least 135 dead the next day.",
+    "A gunman killed ten people at a Tops Friendly Markets supermarket in Buffalo on May 14, and ten days later nineteen children and two adults were shot dead at Robb Elementary School in Uvalde. Hurricane Ian came ashore near Fort Myers on September 28 as a Category 4 storm, cutting Sanibel and Pine Islands off from the Florida mainland. Mauna Loa began erupting on November 28, its first activity in 38 years. Southwest Airlines cancelled over 60 percent of its flights from December 24 after a winter storm."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.ukraine_invasion",
+    "pol.dobbs",
+    "deaths.elizabeth_ii",
+    "film.gross#0",
+    "tech.ai",
+    "sports.world_cup",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Joe Biden (D)",
+      "detail": "Kamala Harris was vice president, John Roberts chief justice, Nancy Pelosi speaker of the House and Chuck Schumer Senate majority leader, under the 117th Congress. Biden gave his first State of the Union address on March 1. Donald Trump announced on November 15 that he would run for president again, and Hakeem Jeffries was elected leader of the House Democrats on November 30.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "Republicans gained nine seats to take control of the House of Representatives and lost one seat in the Senate",
+      "detail": "Held on November 8, the Tuesday after the first Monday in November, which is the constitutional date and matches the day the US year page gives. All 435 voting House seats, 35 Senate seats, 39 state and territorial governorships and numerous state and local offices were decided. Georgia's Senate race went to a runoff a month later between the incumbent Raphael Warnock and Herschel Walker, which Warnock won.",
+      "date": "2022-11-08",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "pol.dobbs": {
+      "section": "politics",
+      "label": "Dobbs v. Jackson Women's Health Organization",
+      "value": "The Supreme Court ruled that the Constitution confers no right to abortion, overruling Roe v. Wade of 1973 and Planned Parenthood v. Casey of 1992",
+      "detail": "Politico published a leaked draft of Samuel Alito's majority opinion on May 2, and thousands protested across the country on May 14. Protests followed the ruling itself in nearly every major American city. Kansas voters rejected a state constitutional amendment removing abortion protections on August 2.",
+      "date": "2022-06-24",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "pol.jackson": {
+      "section": "politics",
+      "label": "Ketanji Brown Jackson",
+      "value": "Confirmed to the Supreme Court by 53 to 47, the first Black woman to hold the office",
+      "detail": "Biden nominated her on February 25 to the seat left by Stephen Breyer's retirement, from the District of Columbia Circuit Court of Appeals. She was sworn in on June 30.",
+      "date": "2022-04-07",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "pol.legislation": {
+      "section": "politics",
+      "label": "Acts of Congress signed into law",
+      "value": [
+        "Bipartisan Safer Communities Act, the first major gun reform legislation in decades, passed by the Senate on June 23 and the House on June 24",
+        "CHIPS and Science Act, $280 billion, of which $52 billion for semiconductor plants, passed by the Senate 64 to 33 on July 27 and signed August 9",
+        "Inflation Reduction Act, passed by the Senate 51 to 50 on August 7 on Kamala Harris's tie-breaking vote and signed on August 16",
+        "Respect for Marriage Act, federal protection for same-sex and interracial marriage, signed December 13",
+        "Electoral Count Reform and Presidential Transition Improvement Act, signed December 29"
+      ],
+      "detail": "The House had passed the Respect for Marriage Act on July 19 and voted on September 21 to amend the Electoral Count Act in response to the January 6 attack.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "pol.jan6_committee": {
+      "section": "politics",
+      "label": "January 6 Committee",
+      "value": "The committee referred criminal charges against Donald Trump to the Department of Justice on December 19 and released its full report on December 22",
+      "detail": "Merrick Garland had appointed Jack Smith as special counsel on November 18 to take over the investigations into the former president. Oath Keepers leader Stewart Rhodes was convicted of seditious conspiracy by a federal jury on November 29.",
+      "date": "2022-12-22",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "world.ukraine_invasion": {
+      "section": "world",
+      "label": "Russia invades Ukraine",
+      "value": "Missiles struck Kyiv at dawn on February 24 and Russian forces crossed the border, three days after Vladimir Putin signed a decree declaring the Luhansk and Donetsk People's Republics independent of Ukraine",
+      "detail": "Ukraine severed diplomatic relations with Russia the same day and applied for European Union membership on February 28. The EU, the United States and their allies committed on February 26 to removing Russian banks from the SWIFT payment system, European countries closed their airspace to Russian aircraft on February 27, and Switzerland, Monaco and Singapore joined the sanctions. Putin ordered Russia's nuclear forces onto a special alert on February 27. The International Criminal Court opened a war crimes investigation on March 2, and the United Nations reported more than a million refugees had left Ukraine by the same day. The United States and the United Kingdom banned Russian oil on March 8.",
+      "date": "2022-02-24",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "world.ukraine_front": {
+      "section": "world",
+      "label": "The war through the year",
+      "value": [
+        "Russia took Kherson, its first large city, on March 2",
+        "An airstrike on the Mariupol theatre on March 16 killed an estimated 600 civilians sheltering inside",
+        "The cruiser Moskva sank on April 14, the largest warship sunk in action since the Second World War; Ukraine said it hit the ship with Neptune anti-ship missiles and Russia said it went down in stormy weather after an onboard fire",
+        "The siege of Mariupol ended in a Russian victory on May 16",
+        "Ukrainian forces retook territory in a counteroffensive reported on September 21",
+        "Putin signed treaties on September 30 absorbing Donetsk, Luhansk, Kherson and Zaporizhzhia into Russia after referendums the year page describes as widely dismissed",
+        "Ukrainian forces recaptured Kherson on November 11"
+      ],
+      "detail": "An explosion damaged the Crimean Bridge on October 8. The UN General Assembly voted on March 2 to deplore the invasion and on April 7 suspended Russia from the Human Rights Council by 93 to 24 with 58 abstentions.",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "world.uk_prime_ministers": {
+      "section": "world",
+      "label": "Three British prime ministers",
+      "value": "Boris Johnson announced on July 7 that he would resign, Liz Truss was appointed on September 6 and announced her own resignation on October 20, and Rishi Sunak took office on October 25",
+      "detail": "Johnson went after a run of resignations from his government over his appointment of Chris Pincher as deputy chief whip. The world year page gives Truss 45 days in office in its October 20 entry and a 50-day tenure in its October 25 entry, and does not reconcile the two. Sunak was the first person of colour to hold the office.",
+      "date": "2022-10-25",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "world.covid": {
+      "section": "world",
+      "label": "COVID-19",
+      "value": "Recorded deaths worldwide passed 6 million on March 7 and confirmed cases passed 500 million on April 13",
+      "detail": "Doses administered worldwide passed 10 billion on January 28 and confirmed cases passed 300 million on January 7. The US year page puts American daily infections above a million for the first time on January 3, at 1.08 million reported cases, the cumulative American death toll past 900,000 on February 4 and past 1 million on May 16. China ended most of its zero-COVID restrictions on December 7 after substantial protests.",
+      "date": "2022-03-07",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "world.population": {
+      "section": "world",
+      "label": "World population reaches 8 billion",
+      "value": "The United Nations put the figure at approximately 8 billion, reached eleven years after the previous billion",
+      "detail": "China was the most populous country through the year, followed by India, and Africa was the fastest growing continent.",
+      "date": "2022-11-15",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "world.iran_protests": {
+      "section": "world",
+      "label": "Protests in Iran",
+      "value": "Protests broke out across the country after the death of Mahsa Amini in the custody of the morality police",
+      "detail": "The world year page dates the start to September 16 and names Keshavarz Boulevard in Tehran among the sites.",
+      "date": "2022-09-16",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide gross",
+      "value": [
+        "Avatar: The Way of Water, $2,320,250,281, 20th Century",
+        "Top Gun: Maverick, $1,495,696,292, Paramount",
+        "Jurassic World Dominion, $1,001,978,080, Universal",
+        "Doctor Strange in the Multiverse of Madness, $960,775,804, Disney",
+        "Minions: The Rise of Gru, $940,628,210, Universal",
+        "Black Panther: Wakanda Forever, $859,208,836, Disney",
+        "The Batman, $772,245,583, Warner Bros.",
+        "Thor: Love and Thunder, $760,928,081, Disney"
+      ],
+      "detail": "Worldwide gross rather than domestic, which is what the film page's table header says. Avatar: The Way of Water reached cinemas in mid-December, so its figure is a lifetime total that kept accruing after the year ended; the film page calls it the 51st film to pass a billion dollars worldwide, the sixth to pass two billion and the highest-grossing film of the pandemic era. Jurassic World Dominion was the 50th film to pass a billion and carried its franchise past six billion. The Marvel Cinematic Universe became the first franchise to pass $26 billion, $27 billion and $28 billion, on Doctor Strange, Thor and Black Panther in turn. Top Gun: Maverick became Paramount's highest-grossing release worldwide, ahead of Transformers: Dark of the Moon, and its highest in the United States and Canada, ahead of Titanic.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Everything Everywhere All at Once, produced by Daniel Kwan, Daniel Scheinert and Jonathan Wang",
+      "detail": "Awarded the following March at the 95th Academy Awards, hosted by Jimmy Kimmel at the Dolby Theatre. The film led the field with eleven nominations and took seven awards, the most of the night; All Quiet on the Western Front had nine nominations and four wins. All 23 categories were presented live after an internal survey found members disliked the previous ceremony's decision to hand out eight below-the-line awards off air. The telecast on ABC averaged 18.75 million viewers, up 13 percent, the first back-to-back rise in Oscar viewership since the 86th ceremony in 2014.",
+      "source": "https://en.wikipedia.org/wiki/95th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Brendan Fraser, The Whale",
+        "Best Actress, Michelle Yeoh, Everything Everywhere All at Once",
+        "Best Supporting Actor, Ke Huy Quan, Everything Everywhere All at Once",
+        "Best Supporting Actress, Jamie Lee Curtis, Everything Everywhere All at Once"
+      ],
+      "detail": "Daniel Kwan and Daniel Scheinert took Best Director and Best Original Screenplay, Sarah Polley Best Adapted Screenplay for Women Talking, Volker Bertelmann Best Original Score for All Quiet on the Western Front and Ruth E. Carter Best Costume Design for Black Panther: Wakanda Forever. Guillermo del Toro's Pinocchio won Best Animated Feature Film.",
+      "source": "https://en.wikipedia.org/wiki/95th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best International Feature Film",
+      "value": [
+        "All Quiet on the Western Front, Germany, directed by Edward Berger, the winner",
+        "Argentina, 1985, Argentina, directed by Santiago Mitre",
+        "Close, Belgium, directed by Lukas Dhont",
+        "EO, Poland",
+        "The Quiet Girl, Ireland, directed by Colm Bairead"
+      ],
+      "detail": "The film page gives the festival prizes: the Palme d'Or at the 75th Cannes Film Festival to Ruben Ostlund's Triangle of Sadness, the Golden Lion at the 79th Venice International Film Festival to Laura Poitras's All the Beauty and the Bloodshed, the Golden Bear at the 72nd Berlin International Film Festival to Carla Simon's Alcarras, and the Toronto People's Choice Award to Steven Spielberg's The Fabelmans, his first premiere at that festival.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a cinema. Nine of the ten Best Picture nominees had taken a combined $1.57 billion at the American and Canadian box office by the time nominations were announced, and the two highest-grossing films of the year were both among them, which had not happened since the 55th ceremony in 1983",
+      "detail": "Top Gun: Maverick was the highest-grossing nominee on $718.7 million domestic and Avatar: The Way of Water second on $598.4 million, followed by Elvis on $151 million, Everything Everywhere All at Once on $70 million, The Fabelmans on $15 million, The Banshees of Inisherin on $9 million, Tar on $5.6 million, Triangle of Sadness on $4.2 million and Women Talking on $1.1 million. The tenth, All Quiet on the Western Front, carried no figure at all, because its distributor Netflix will not release them.",
+      "source": "https://en.wikipedia.org/wiki/95th_Academy_Awards"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2022",
+      "value": [
+        "Sunday Night Football, NBC, 18.13",
+        "NCIS, CBS, 9.83",
+        "FBI, CBS, 9.52",
+        "Young Sheldon, CBS, 9.28",
+        "Chicago Fire, NBC, 9.25"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. The source heads its column Rating. Blue Bloods was sixth on 9.24, Ghosts seventh on 9.08, 60 Minutes eighth on 8.80, Chicago Med ninth on 8.48 and The Equalizer tenth on 8.28. The cache holds no ratings page for this season, because the article for it does not exist, so the figures come from the by-season summary article instead.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season"
+    },
+    "tv.emmys": {
+      "section": "tv",
+      "label": "74th Primetime Emmy Awards",
+      "value": "Succession won Outstanding Drama Series, Ted Lasso Outstanding Comedy Series and The White Lotus the limited or anthology series award",
+      "detail": "Broadcast on NBC with Kenan Thompson hosting. Lee Jung-jae won Outstanding Lead Actor in a Drama Series and Hwang Dong-hyuk Outstanding Directing for a Drama Series for Squid Game, the first non-English series to earn Primetime Emmy nominations. Sheryl Lee Ralph won Outstanding Supporting Actress in a Comedy Series for Abbott Elementary, the second Black woman to take that category after Jackee Harry in 1987.",
+      "date": "2022-09-12",
+      "source": "https://en.wikipedia.org/wiki/2022_in_American_television"
+    },
+    "tv.streaming": {
+      "section": "tv",
+      "label": "Streaming services",
+      "value": [
+        "CNN+ launched on March 29 and closed on April 28, having reached 100,000 subscribers and 10,000 daily viewers in its first week",
+        "YouTube launched Primetime Channels on November 1, reselling 34 streaming services",
+        "Netflix launched an ad-supported tier in the United States and seven other countries on November 3, four to five minutes of commercials an hour"
+      ],
+      "detail": "Warner Bros. Discovery announced the CNN+ shutdown on April 21, three weeks after the merger closed, and the television page calls it likely the shortest-lived American streaming service to that point. Days of Our Lives aired its last NBC episode on September 9 after 57 years and moved to Peacock on September 12, which made NBC the first of the big three networks to stop carrying serials or any other entertainment programming in daytime, having run weekday daytime programming since 1949.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_American_television"
+    },
+    "tv.warner_discovery": {
+      "section": "tv",
+      "label": "Warner Bros. Discovery",
+      "value": "AT&T sold WarnerMedia to Discovery, which reorganised the two into a single company under David Zaslav",
+      "detail": "WarnerMedia held Warner Bros., HBO, HBO Max, CNN and TBS. Discovery's Kathleen Finch took oversight of most of the combined cable networks. RT America, the Washington arm of the Russian state broadcaster, had shut down on March 3 after DirecTV, U-verse and Roku dropped it.",
+      "date": "2022-04-08",
+      "source": "https://en.wikipedia.org/wiki/2022_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Heat Waves, Glass Animals",
+      "detail": "It spent five weeks at number one on the weekly chart and 91 weeks on the chart in total, the longest run in the Hot 100's 64-year history, and had already placed 16th on the previous year's list. As It Was by Harry Styles came second and Stay by The Kid Laroi and Justin Bieber third. Fourteen songs carried over from the previous year's list, which the chart page says has happened on only five year-end lists.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2022"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The Hot 100 counted streaming alongside radio airplay and physical and digital single sales, all of it compiled by Nielsen SoundScan",
+      "detail": "The year-end list was published on December 1 from data running from November 20, 2021 to November 12. Three Justin Bieber songs appear on it. No cached page for the year gives a sales figure for any physical format or a subscriber count for any music service.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2022"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "64th Annual Grammy Awards",
+      "value": "Record of the Year and Song of the Year to Leave the Door Open by Silk Sonic, Album of the Year to We Are by Jon Batiste and Best New Artist to Olivia Rodrigo",
+      "detail": "Broadcast on CBS from the MGM Grand Garden Arena in Las Vegas with Trevor Noah hosting. The ceremony had been set for January 31 and was moved after safety concerns over the Omicron variant. Silk Sonic took four awards. The awards honoured the previous year's recordings.",
+      "date": "2022-04-03",
+      "source": "https://en.wikipedia.org/wiki/2022_in_American_television"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductees",
+      "value": [
+        "Pat Benatar",
+        "Duran Duran",
+        "Eminem",
+        "Eurythmics",
+        "Dolly Parton",
+        "Lionel Richie",
+        "Carly Simon"
+      ],
+      "detail": "Harry Belafonte and Elizabeth Cotten went in as early influences, Jimmy Jam and Terry Lewis and Judas Priest took the Award for Musical Excellence, and Allan Grubman, Jimmy Iovine and Sylvia Robinson the Ahmet Ertegun Award. The music page gives no ceremony date. Little Simz won the Mercury Prize for Sometimes I Might Be Introvert and Raven Chacon the Pulitzer Prize for Music for Voiceless Mass.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Ukraine won with Stefania by the folk-rap group Kalush Orchestra, at the contest held in Turin from May 10 to 14",
+      "detail": "Italy hosted after winning the previous contest in Rotterdam.",
+      "date": "2022-05-14",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "Spaceflight and astronomy",
+      "value": [
+        "NASA published the James Webb Space Telescope's first deep field on July 11 and the rest of its first images on July 12",
+        "The Event Horizon Telescope collaboration released its first image of Sagittarius A star, the black hole at the centre of the galaxy, on May 12",
+        "NASA's DART spacecraft struck the asteroid Dimorphos on September 26 in the first test of asteroid deflection, confirmed successful on October 11",
+        "Artemis 1 launched on November 16, the first uncrewed flight of the Space Launch System, which the science page calls the largest rocket in history, sending an Orion capsule around the Moon"
+      ],
+      "detail": "The Large Hadron Collider resumed full operations on April 22 after three years down. The Webb telescope produced the first clear evidence of carbon dioxide in the atmosphere of an exoplanet in August.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_science"
+    },
+    "tech.ai": {
+      "section": "tech",
+      "label": "OpenAI releases ChatGPT",
+      "value": "A chatbot able to answer questions and write essays, released to the public",
+      "detail": "The world year page carries the release in one line and gives no user numbers.",
+      "date": "2022-11-30",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "tech.fusion": {
+      "section": "tech",
+      "label": "Fusion ignition",
+      "value": "The National Ignition Facility achieved ignition, the first fusion reaction to produce more energy than the lasers put into it",
+      "detail": "The world year page dates the shot to December 5 and the Department of Energy announced it on December 13. The Joint European Torus had reported the biggest fusion energy result since 1997 on February 9.",
+      "date": "2022-12-05",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "tech.social": {
+      "section": "tech",
+      "label": "Elon Musk buys Twitter",
+      "value": "He agreed on April 25 to acquire the company for $44 billion, tried to terminate the agreement on July 8, was sued by Twitter in the Delaware Court of Chancery on July 12, and completed the purchase in October",
+      "detail": "The world year page dates the completion to October 28 and the US year page to October 27, and the two are not reconciled. Kanye West announced on October 17 that he was buying Parler after being suspended from Twitter and Instagram.",
+      "date": "2022-04-25",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "tech.activision": {
+      "section": "tech",
+      "label": "Microsoft buys Activision Blizzard",
+      "value": "A purchase of $68.7 billion, which the US year page calls the largest acquisition of a technology company to that point",
+      "detail": "Broadcom announced a $61 billion cash and stock deal for VMware on May 26.",
+      "date": "2022-01-18",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Elden Ring, FromSoftware and Bandai Namco, February 25, on the PlayStation 5 and Xbox Series X and S, scoring 96",
+        "Portal Companion Collection, Valve and Nvidia Lightspeed Studios, June 28, on the Nintendo Switch, 95",
+        "Persona 5 Royal, Atlus and Sega, October 21, on Windows, 95",
+        "The Witcher 3: Wild Hunt Complete Edition, CD Projekt Red, December 14, on the PlayStation 5, 94",
+        "Best-selling premium games: Call of Duty: Modern Warfare II in the United States, Pokemon Scarlet and Violet in Japan, FIFA 23 in Europe"
+      ],
+      "detail": "Scores and dates from the games page's table of releases rated 90 or higher on Metacritic, which gives the date of the platform scored rather than a title's first appearance anywhere. GamesIndustry.biz put global games revenue at $184.4 billion, down about 4 percent, half of it mobile, 28 percent console, 21 percent computer and 1 percent browser. Elden Ring won Game of the Year at the 40th Golden Joystick Awards on November 22 and at The Game Awards on December 8. Valve released the Steam Deck on February 25.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$4.09 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.inflation": {
+      "section": "prices",
+      "label": "US consumer price inflation",
+      "value": "9.1 percent over the twelve months to June, reported on July 13",
+      "detail": "The August report put the twelve-month figure at 8.5 percent. The US year page calls the June number a record and its own cited report calls it the largest rise since 1981, so the two do not agree on what kind of high it was. The page attributes the surge partly to Russia's invasion of Ukraine, alongside a stock market decline and a sharp rise in petrol prices.",
+      "date": "2022-07-13",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "3.5 percent in July, then 3.7 percent in August",
+      "detail": "The July jobs report also recorded 528,000 new jobs, far beyond forecasts, and the August report 315,000 with the rate rising as people re-entered the workforce.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "prices.interest_rates": {
+      "section": "prices",
+      "label": "Federal Reserve interest rates",
+      "value": "Six increases through the year, ending with the federal funds rate at 4.4 percent",
+      "detail": "Half a point on May 4, from a range of 0.25 to 0.5 percent up to 0.75 to 1 percent, the biggest rise since May 2000. Then three-quarters of a point on June 15, the largest single rise since 1994, and again on July 27, September 21 and November 2, the last taking the range to 3.75 to 4 percent and its highest level since 2008. The December 14 rise was half a point. Mortgage loans reached a nationwide average of 6 percent on September 14, the first time since 2008.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A land war in Europe watched in real time from phones, a Supreme Court ruling that took away a right most Americans had lived their whole lives with, and the death of a monarch who had been on the throne longer than almost anyone could remember."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Annie Ernaux",
+        "Peace, Ales Bialiatski, Memorial and the Center for Civil Liberties",
+        "Physics, Alain Aspect, John Clauser and Anton Zeilinger",
+        "Chemistry, Carolyn Bertozzi, Morten Meldal and Barry Sharpless",
+        "Medicine, Svante Paabo",
+        "Economics, Ben Bernanke, Douglas Diamond and Philip Dybvig"
+      ],
+      "detail": "The peace prize went to a Belarusian, a Russian organisation and a Ukrainian organisation together, for documenting war crimes, human rights abuses and the abuse of power in their own countries. The physics prize was for experiments with entangled photons that violated Bell inequalities, the medicine prize for the genomes of extinct hominins, and the economics prize for research on banks and financial crises.",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "culture.public_domain": {
+      "section": "culture",
+      "label": "Public Domain Day",
+      "value": "Every sound recording fixed before 1923 entered the public domain in the United States, along with books and films published in 1926",
+      "detail": "The recordings came in under the Music Modernization Act of 2018.",
+      "date": "2022-01-01",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "culture.powerball": {
+      "section": "culture",
+      "label": "Record Powerball jackpot",
+      "value": "A single ticket sold in Altadena, California took the largest lottery prize on record",
+      "detail": "The US year page's sentence says $2.02 billion and the report it cites is headlined $2.04 billion, and the page does not reconcile the two.",
+      "date": "2022-11-07",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl LVI",
+      "value": "Los Angeles Rams 23, Cincinnati Bengals 20",
+      "detail": "Played at SoFi Stadium in California, a second title for the Rams. The Pro Bowl at Allegiant Stadium a week earlier went to the American Football Conference 41 to 35.",
+      "date": "2022-02-13",
+      "source": "https://en.wikipedia.org/wiki/2022_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Houston Astros beat the Philadelphia Phillies in six games to win the 118th World Series",
+      "detail": "The sports page dates the postseason from October 7 to November 5. The season had started late, on April 7: the owners' lockout ended on March 10 after 99 days with a new collective agreement, and all 162 games were still played.",
+      "date": "2022-11-05",
+      "source": "https://en.wikipedia.org/wiki/2022_in_the_United_States"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Argentina beat the defending champions France on penalties in the final on December 18, at a tournament held in Qatar from November 20",
+      "detail": "The tournament was played in November and December rather than the summer. The United States men's team qualified on March 30 and beat Iran 1 to 0 on November 29 to reach the knockout round.",
+      "date": "2022-12-18",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held in Beijing from February 4 to 20, making it the first city to host both the Summer and the Winter Games",
+      "detail": "The Winter Paralympics followed in Beijing from March 4 to 13, also a first for a city that had hosted the Summer Paralympics. The Special Olympics World Winter Games, due in Kazan in January, were cancelled.",
+      "date": "2022-02-04",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Golden State Warriors over the Boston Celtics four games to two, the playoffs ending June 16",
+        "Stanley Cup, Colorado Avalanche over the Tampa Bay Lightning four games to two on June 26, a third title",
+        "UEFA Champions League, Real Madrid beat Liverpool 1 to 0 in the final in Paris on May 28",
+        "UEFA Europa League, Eintracht Frankfurt beat Rangers on penalties in Seville on May 18"
+      ],
+      "detail": "Real Madrid then beat Eintracht Frankfurt 2 to 0 for the UEFA Super Cup on August 10. The Birmingham Stallions beat the Philadelphia Stars 33 to 30 on July 3 in the first championship game of the revived United States Football League.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_sports"
+    },
+    "sports.formula_one": {
+      "section": "sports",
+      "label": "Formula One",
+      "value": "Max Verstappen won the World Drivers' Championship and Red Bull Racing the World Constructors' Championship",
+      "detail": "Charles Leclerc won the opening race in Bahrain on March 20 for Ferrari and Verstappen the next in Saudi Arabia on March 27.",
+      "source": "https://en.wikipedia.org/wiki/2022_in_sports"
+    },
+    "deaths.elizabeth_ii": {
+      "section": "deaths",
+      "label": "Elizabeth II",
+      "value": "Died September 8 at Balmoral Castle in Scotland, aged 96",
+      "detail": "Queen of the United Kingdom and fourteen other Commonwealth realms. Her son succeeded her as Charles III on the day she died. Her state funeral was held at Westminster Abbey on September 19 and her coffin taken in procession to Windsor Castle for burial beside her husband, her parents and her sister. Biden ordered American flags to half staff for ten days.",
+      "date": "2022-09-08",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "deaths.gorbachev": {
+      "section": "deaths",
+      "label": "Mikhail Gorbachev",
+      "value": "Died August 30, aged 91",
+      "detail": "The last leader of the Soviet Union.",
+      "date": "2022-08-30",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    "deaths.poitier": {
+      "section": "deaths",
+      "label": "Sidney Poitier",
+      "value": "Died January 6, aged 94",
+      "detail": "American actor and director. The film page names In the Heat of the Night and Lilies of the Field, and the report it cites calls him the first Black man to win the Best Actor Oscar.",
+      "date": "2022-01-06",
+      "source": "https://en.wikipedia.org/wiki/2022_in_film"
+    },
+    "deaths.pele": {
+      "section": "deaths",
+      "label": "Pele",
+      "value": "Died December 29 at the Albert Einstein Israelite Hospital in Sao Paulo, aged 82",
+      "detail": "Brazilian forward, the only player to win three World Cups, in 1958, 1962 and 1970. Born October 23, 1940. He scored 643 goals in 659 games for Santos and 77 in 92 for Brazil, and later played for the New York Cosmos. None of the ten cached pages carries his death, so this fact cites his own article.",
+      "date": "2022-12-29",
+      "source": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+    },
+    "deaths.newton_john": {
+      "section": "deaths",
+      "label": "Olivia Newton-John",
+      "value": "Died August 8, aged 73",
+      "detail": "Australian singer and actress. The film page names Grease and Xanadu.",
+      "date": "2022-08-08",
+      "source": "https://en.wikipedia.org/wiki/2022_in_film"
+    },
+    "deaths.benedict": {
+      "section": "deaths",
+      "label": "Pope Benedict XVI",
+      "value": "Died December 31, aged 95",
+      "detail": "The former pope. His funeral was held in St Peter's Square, led by Pope Francis and Cardinal Giovanni Battista Re. The world year page gives no birth date and no cause.",
+      "date": "2022-12-31",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the ten cached wikitext pages under .sources/2022 plus two dedicated pulls named below. Box office basis. bo.mjs reports GROSS and WORLDWIDE from a header reading Rank, Title, Distributor, Worldwide gross, under a heading reading Highest-grossing films of 2022, so figures_basis is gross and film.gross names worldwide in both its label and its detail. Avatar: The Way of Water opened in mid-December, so its $2,320,250,281 is a lifetime worldwide total that carried on accruing after the year ended rather than a figure earned inside it. Cache gaps and dedicated pulls. The manifest records two pages that did not resolve: Deaths_in_2022, which is a redirect to a list of lists, and Top-rated_United_States_television_programs_of_2022-23, which returned 404. tv.top_shows therefore cites Top-rated United States television programs by season, whose block for the season beginning in the autumn carries the same table with the column headed Rating, and says so in its own detail. No cached page mentions the death of Pele, which a reader would notice on a World Cup year page, so deaths.pele cites his own article and says so in its detail; the date, hospital, city, age, birth date, the three World Cups and the goal counts all come from that article. The world year page has no Deaths section at all, only a link to the deaths list, so every death fact here comes from the year page's own events, the film page's deaths table or the dedicated pull. Source disagreements labelled rather than resolved. The completion of Elon Musk's Twitter purchase is October 28 on the world year page and October 27 on the US year page; tech.social names both and picks neither, and its date field carries the April 25 agreement instead. Liz Truss is given 45 days in office in the world year page's October 20 entry and a 50-day tenure in its October 25 entry; world.uk_prime_ministers names the discrepancy. The Powerball jackpot is $2.02 billion in the US year page's sentence and $2.04 billion in the headline of the report it cites; prices.powerball says so and states no figure of its own. The US year page calls the June inflation figure a record while the CNBC report it cites calls it the largest rise since 1981; prices.inflation names both. The sinking of the Moskva on April 14 is claimed by Ukraine as a Neptune missile strike and by Russia as a fire in stormy weather, and world.ukraine_front carries both claims without choosing. The Seoul crowd crush is at least 158 dead and 197 injured in the world year page's text and 149 dead in the headline of the KBS report it cites; the texture uses the page's own figure. Date checks. November 8 is the Tuesday after the first Monday in November, so the US year page's midterm date satisfies the constitutional constraint and no dedicated article was needed. February 13 was a Sunday for Super Bowl LVI, September 12 a Monday for the 74th Primetime Emmys and December 18 a Sunday for the World Cup final, all consistent. The 95th Academy Awards fall in the following March, so film.best_picture uses the corpus wording rather than a date, and the 94th ceremony of March 27, which honoured the previous year of film, is left out on the ground other years use. Names carrying a four-digit number. checkname.mjs was run on Inflation Reduction Act of 2022, 2022 FIFA World Cup, 2022 Winter Olympics, Argentina 1985, 1883, Persona 5 Royal, A500 Mini, Call of Duty: Modern Warfare II, FIFA 23, Titanic 1997 and Transformers: Dark of the Moon 2011. Every one is safe: 2022 is the page year and the rest are earlier. Nothing was dropped for the anachronism rule and src/data/name_years.json was not touched. Nothing in this file reaches into the following year, so the 80th Golden Globes, the 13th Critics' Choice Television Awards, the 29th Screen Actors Guild Awards, the 26th D.I.C.E. Awards, the 19th British Academy Games Awards, the Georgia Senate runoff result of December 6 and the end of the 2022 NFL season are all out. The Georgia runoff is named in pol.midterms without its date or a second year token, because the US year page states the outcome in its own overview paragraph. Diacritics are written in ASCII per the corpus convention, so Pele, Sao Paulo, Ruben Ostlund, Carla Simon, Alcarras, Colm Bairead, Svante Paabo, Jackee Harry, Tar and Pokemon lose theirs. General knowledge rather than a claim from the cached pages: the whole of culture.mood, which carries no source and no digit. It comes out if challenged. Dropped for lack of a source. No cached page carries a vinyl or streaming sales figure, a Merriam-Webster word of the year, a meme, an internet slang term or a website ranking, so culture.slang, culture.memes and tech.web_sites are all open and all empty, and music.listening_format claims only what the Billboard page says about how the Hot 100 was compiled. The music page is a list of links with no prose about formats or sales at all. No cached page gives an annual average unemployment rate or an annual average inflation rate, so prices.unemployment and prices.inflation carry the monthly figures the US year page reports and say which month each one is. No cached page gives a 2022 theatrical box office total for any territory, so film.how_people_watched carries the Academy's figures for the Best Picture nominees instead, which is the same solution the 2019 page uses. Dropped for room. World and politics: the FBI search of Mar-a-Lago on August 8, the Kazakhstan emergency and CSTO deployment of January, the Tonga tsunami's effects, the coups in Burkina Faso, the killing of Shireen Abu Akleh, the attack on Salman Rushdie, the monkeypox emergencies of July and August, the Pakistan floods, the Nancy Pelosi visit to Taiwan and the Chinese exercises that followed, the Tigray truce, COP27, COP15, the Brazilian and Kenyan and Italian and Israeli and Swedish elections, the removal of Pedro Castillo, the FTX bankruptcy of November 11 and the charges against Sam Bankman-Fried, the Buffalo and Uvalde and Highland Park and Colorado Springs and Chesapeake shootings as facts rather than texture, the Alex Jones verdicts, the Elizabeth Holmes and Steve Bannon and Trump Organization convictions, the Brittney Griner detention and exchange, and the student loan cancellation announcement. Television and music: the 79th Golden Globes of January 9, the MTV Video Music Awards of August 28, the American Music Awards, the Brit Awards, the Juno Awards, the MAMA Awards and the Japan Record Awards. Sport: the Commonwealth Games, the World Games, the Women's Euro, Aaron Judge's 62nd home run of October 4, the Saint Peter's and Kansas runs in the NCAA tournament, and the Indianapolis 500. Deaths carried by the cached pages but left out: Angela Lansbury, Peter Bogdanovich, Meat Loaf, Ray Liotta, James Caan, Jean-Luc Godard, Loretta Lynn, Christine McVie, Coolio, Vin Scully, Bill Russell and Barbara Walters. This file runs 53 facts across 10 sections: politics 6, world 6, film 5, tv 4, music 5, tech 6, prices 5, culture 4, sports 6, deaths 6. No radio fact, because the radio window closed after 1959."
+}

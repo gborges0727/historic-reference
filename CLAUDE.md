@@ -8,7 +8,7 @@ Read `SPEC.md` before starting. It holds the schema, the validation rules, and t
 
 If a check fires on content that is actually correct, fix the check and explain why in the same commit. Silently loosening a threshold defeats the point of having one.
 
-While the 106 years are still being filled, `npm run validate:partial` skips the corpus coverage check and nothing else. Use it locally. CI runs the strict command, so an incomplete corpus cannot deploy. Once every year exists, the partial scripts come out of `package.json`.
+All 106 years exist, so the partial scripts are gone from `package.json` and `npm run validate` is the only command. `scripts/validate-data.mjs` still accepts `--partial`, which skips the corpus coverage check and nothing else; nothing in the repo passes it, and it is there only in case a year file is ever removed deliberately during a rework.
 
 ## Accuracy
 
