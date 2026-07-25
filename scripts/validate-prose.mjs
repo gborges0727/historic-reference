@@ -135,6 +135,17 @@ for (const file of files) {
   const { headline = '', texture, facts = {} } = file.data;
 
   // 2. Distinctive-token density.
+  //
+  // This check is corpus-relative: a token counts as distinctive while it appears in
+  // at most DISTINCTIVE_MAX_FILES year files, so filling in more years makes tokens
+  // commoner and can fail a paragraph that passed when it was written. 1929 broke
+  // that way once the corpus reached fifty-four years. That is the check doing its
+  // job, since a name in five files really is less distinctive than one in two, but
+  // it means a passing run is not a permanent verdict.
+  //
+  // So a paragraph sitting exactly on the threshold gets a warning. It is one more
+  // year mentioning the same name away from failing, and knowing that now is cheaper
+  // than finding out in a batch three months from now.
   texture.forEach((paragraph, i) => {
     const distinctive = distinctiveTokens(paragraph);
     if (distinctive.length < DISTINCTIVE_PER_PARAGRAPH) {
@@ -143,6 +154,12 @@ for (const file of files) {
         'density',
         `texture[${i}] has ${distinctive.length} distinctive token(s), needs ${DISTINCTIVE_PER_PARAGRAPH}` +
           (distinctive.length ? ` (found ${distinctive.join(', ')})` : ''),
+      );
+    } else if (distinctive.length === DISTINCTIVE_PER_PARAGRAPH) {
+      report.warn(
+        scope,
+        'density',
+        `texture[${i}] is at the threshold with ${distinctive.length} (${distinctive.join(', ')}), so one more year using either token fails it`,
       );
     }
   });
