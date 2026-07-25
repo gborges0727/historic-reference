@@ -151,6 +151,13 @@ for (const file of files) {
       // "of YYYY" shape the convention actually uses.
       const isRevueTitle =
         field.startsWith('film.') && found === year.year + 1 && titled.has(found);
+      // Annual sports games are titled for the season ahead, so Madden NFL 2002 and NBA
+      // Live 2002 both ship in 2001. This is the same convention as the revue films and
+      // recurs every year from the late 1990s on, which is why it gets a rule instead of
+      // an allowlist entry per franchise per year. Kept as tight as the revue one: only
+      // the games section, only the very next year, so a games fact claiming something
+      // happened two years out still fails.
+      const isSeasonTitle = field.startsWith('tech.games') && found === year.year + 1;
       // Other proper names carry a four-digit number that no shape rule can spot, and
       // it is not always a title and not always in the film section: "2001: A Space
       // Odyssey" in a 1968 rentals list, the arcade cabinet "Robotron: 2084" in 1982,
@@ -162,7 +169,7 @@ for (const file of files) {
       const isKnownName = nameAllowlist.some(
         (name) => name.includes(String(found)) && text.includes(name),
       );
-      if (isRevueTitle || isKnownName) continue;
+      if (isRevueTitle || isSeasonTitle || isKnownName) continue;
       report.error(
         scope,
         'anachronism',

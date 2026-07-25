@@ -1,0 +1,547 @@
+{
+  "year": 1999,
+  "tier": "modern",
+  "headline": "NATO bombed Yugoslavia from March, thirteen were killed at Columbine in April, and Napster launched in June",
+  "texture": [
+    "An avalanche destroyed the village of Galtur in Austria on February 23 and killed 31. A fire in the Mont Blanc Tunnel killed 39 people on March 24. The F5 tornado that crossed the southern Oklahoma City suburbs on May 3 produced the highest winds ever recorded on Earth, 301 miles per hour with a margin of 20. An earthquake at Athens on September 7 left 143 dead and 50,000 homeless, and the Jiji earthquake in central Taiwan on September 21 killed 2,400. A super cyclonic storm hit Orissa on October 29 and killed about 10,000.",
+    "Colin Prescot and Andy Elson stayed aloft in a balloon for 233 hours and 55 minutes in February, and Bertrand Piccard and Brian Jones finished a non-stop circumnavigation by balloon on March 21. Tori Murden reached Guadeloupe from the Canary Islands on December 3 after 81 days alone at the oars. Hicham El Guerrouj ran a mile in Rome on July 7 in 3:43.13. Rajiv Nayyar batted 1,015 minutes for Himachal Pradesh against Jammu and Kashmir, scoring 271. Pluto moved farther from the Sun than Neptune on February 11.",
+    "Wayne Gretzky played his last NHL game on April 18 at Madison Square Garden, where the Rangers lost 2 to 1 in overtime to Pittsburgh. The Toronto Maple Leafs lost 6 to 2 to Chicago on February 13 in the last game at Maple Leaf Gardens, and the Detroit Tigers hosted Kansas City on September 27 in the last game at Tiger Stadium. David Cone pitched a perfect game against Montreal on Yogi Berra Day, July 18. Fernando Tatis hit two grand slams in one inning on April 23, which nobody had done before.",
+    "The last Checker taxi in New York was retired on July 26 and auctioned for about $135,000. Nunavut was created out of the eastern Northwest Territories on April 1. Leonardo's The Last Supper went back on display in Milan on May 28 after 22 years of restoration. The King of Bhutan let television transmissions begin on June 2, timed to his Silver Jubilee. First film appearances included Amy Adams in Drop Dead Gorgeous, Hugh Jackman in Paperback Hero, Melissa McCarthy in Go and Simon Pegg in Tube Tales."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.impeachment",
+    "pol.columbine",
+    "world.kosovo",
+    "film.gross#0",
+    "music.listening_format",
+    "culture.y2k",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Al Gore was Vice President and William Rehnquist Chief Justice. Newt Gingrich was Speaker of the House until January 3 and Dennis Hastert from January 6, and Trent Lott was Senate majority leader. The 105th Congress sat until January 3 and the 106th from that day. Lawrence Summers was sworn in as Secretary of the Treasury on July 2, succeeding Robert Rubin. Clinton issued a posthumous pardon for Lieutenant Henry Ossian Flipper on February 19.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "pol.impeachment": {
+      "section": "politics",
+      "label": "Clinton acquitted at his impeachment trial",
+      "value": "The Senate acquitted him. On the perjury charge 45 senators voted to convict and 55 for acquittal, and the obstruction of justice charge split 50 to 50, both short of the 67 votes conviction needed",
+      "detail": "The trial opened on January 7, after the House impeached him on December 19 the previous year. All 45 senators voting to convict on perjury were Republicans, ten Republicans joined all 45 Democrats for acquittal on that count, and five Republicans crossed over on obstruction. Clinton was cited for contempt of court on April 12 for what the citation called intentionally false statements in a sexual harassment civil lawsuit. The US year page runs the Lewinsky scandal in its ongoing list as closing this year.",
+      "date": "1999-02-12",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "pol.columbine": {
+      "section": "politics",
+      "label": "Columbine High School massacre",
+      "value": "Two Littleton teenagers opened fire on their teachers and classmates, killing twelve students and one teacher, and then themselves",
+      "detail": "The US year page calls it the deadliest shooting at a high school in United States history at the time and says it started argument about school bullying, gun control and violence in the media. The year page gives the toll as 14 including 13 students, its own footnote attributing the extra student to a victim who died of her injuries many years afterwards, and puts the wounded at 23. The music page puts the wounded at 24, names Lance Kirklin among them, records Aerosmith visiting him in a Colorado hospital on April 30, and says the blame fell hardest on Marilyn Manson despite evidence that neither shooter was a fan, and also on Rammstein and KMFDM, whom they were.",
+      "date": "1999-04-20",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "pol.economy": {
+      "section": "politics",
+      "label": "Unemployment at its lowest in nearly thirty years",
+      "value": "The rate dropped to 4 percent in December, the lowest level since January 1970",
+      "detail": "The Dow Jones Industrial Average closed above 10,000 for the first time on March 29, at 10,006.78, and above 11,000 on May 3, at 11,014.70. The ExxonMobil merger completed on November 30 and formed what the US year page calls the largest corporation in the world at that time. Infosys became the first Indian company listed on the NASDAQ exchange on March 11. The same page's ongoing list runs the dot-com bubble across the whole year.",
+      "date": "1999-12",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "pol.seattle_wto": {
+      "section": "politics",
+      "label": "Seattle WTO protests",
+      "value": "Protests against the World Trade Organization ministerial meeting caught police unprepared and forced the cancellation of the opening ceremonies",
+      "detail": "The J18 anti-globalization protests had been organised in dozens of cities around the world on June 18, and the year page says some of them led to riots. The World Trade Organization had ruled for the United States against the European Union on April 7 in the long-running dispute over bananas.",
+      "date": "1999-11-30",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "world.euro": {
+      "section": "world",
+      "label": "The euro is established",
+      "value": "The currency came into being on the first day of the year and the European Central Bank assumed full powers",
+      "detail": "The Santer Commission of the European Union resigned on March 15 over allegations of corruption. Europol, the Union's criminal intelligence agency, became fully operational on July 1. Carlo Azeglio Ciampi was elected President of Italy on May 13.",
+      "date": "1999-01-01",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "world.nato_enlargement": {
+      "section": "world",
+      "label": "Hungary, Poland and the Czech Republic join NATO",
+      "value": "The three former Warsaw Pact members entered the alliance",
+      "detail": "The year page carries the accession in one line and gives no ratification detail. Cambodia joined the Association of Southeast Asian Nations on April 30, bringing that group to ten members, and Kiribati, Nauru and Tonga joined the United Nations on September 14.",
+      "date": "1999-03-12",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "world.kosovo": {
+      "section": "world",
+      "label": "NATO bombs Yugoslavia",
+      "value": "Air strikes began against the Federal Republic of Yugoslavia, which the year page calls the first time NATO had attacked a sovereign state",
+      "detail": "Yugoslav forces shot down a United States F-117 Nighthawk on March 27 and closed Kosovo's main border crossings on April 7 to stop Kosovo Albanians leaving. NATO warplanes bombed ethnic Albanian refugee convoys for two hours over a twelve-mile stretch of road between Djakovica and Decani on April 14 after mistaking them for military trucks, killing at least 73 refugees, and a B-2 bombed the Chinese embassy in Belgrade on May 7, killing three embassy workers and wounding 20. The tribunal at The Hague indicted Slobodan Milosevic and four others on May 27. Yugoslavia and NATO signed a peace treaty on June 9, airstrikes were suspended on June 10 once Milosevic agreed to withdraw, and KFOR entered Kosovo on June 12. Fourteen Kosovar Serb villagers were killed by ethnic Albanian gunmen at Staro Gracko on July 23, and tens of thousands rallied in Belgrade on August 19 to demand Milosevic resign.",
+      "date": "1999-03-24",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "world.kargil": {
+      "section": "world",
+      "label": "Kargil War",
+      "value": "The Indian Air Force attacked Pakistan Army troops and mujahideen who had crossed into Kashmir, and India recaptured Kargil on July 11 and declared the two-month conflict over",
+      "detail": "An intruding Pakistan Navy aircraft was shot down over India on August 10 in what the year page calls the Atlantique incident, a month after the fighting ended. Nawaz Sharif tried to dismiss General Pervez Musharraf on October 12 while Musharraf was out of the country, and the generals led a coup that put Musharraf in charge of the government. Indian Airlines Flight 814 was hijacked on December 24 by five members of Harkat-ul-Mujahideen.",
+      "date": "1999-05-26",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "world.turkey_earthquakes": {
+      "section": "world",
+      "label": "Two earthquakes in northwestern Turkey",
+      "value": "The Izmit earthquake on August 17 measured 7.6 with a maximum Mercalli intensity of IX and left between 17,118 and 17,127 dead and between 43,953 and 50,000 injured, and the Duzce earthquake on November 12 measured 7.2 and killed at least 845",
+      "detail": "The science page gives the Izmit ranges and carries no Duzce entry at all, so the November figures come from the year page, which also rounds Izmit to more than 17,000 dead and around 50,000 injured and puts the Duzce injured at almost 5,000. Kurdish protestors had taken over embassies across Europe on February 16 and held hostages after Turkey arrested the rebel leader Abdullah Ocalan, who was charged with treason in Ankara on February 23.",
+      "date": "1999-08-17",
+      "source": "https://en.wikipedia.org/wiki/1999_in_science"
+    },
+    "world.east_timor": {
+      "section": "world",
+      "label": "East Timor votes for independence",
+      "value": "A referendum chose independence from Indonesia, which had invaded and occupied the territory since 1975",
+      "detail": "The Indonesian president B. J. Habibie announced on September 12, under international pressure, that he would allow an international peacekeeping force in. Nigeria ended military rule on May 29 and established the Fourth Nigerian Republic under Olusegun Obasanjo, and Thabo Mbeki was inaugurated as the second president of South Africa on June 16.",
+      "date": "1999-08-30",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "world.yeltsin_resigns": {
+      "section": "world",
+      "label": "Boris Yeltsin resigns",
+      "value": "He stepped down as President of Russia on the last day of the year, leaving Prime Minister Vladimir Putin as acting president until an election could be held",
+      "detail": "Hundreds of Chechen guerrillas had invaded Dagestan on August 7, starting a short war there, and the first of a series of Russian apartment bombings followed on September 8, with more on September 13 and 16 and a failed attempt on September 22. Portugal transferred the administration of Macau to China on December 20 after 442 years, and the United States turned over the Panama Canal to Panama on December 31 under the Torrijos and Carter treaties.",
+      "date": "1999-12-31",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Star Wars: Episode I, The Phantom Menace, $924,305,084, 20th Century Fox",
+        "The Sixth Sense, $672,806,292, Hollywood",
+        "Toy Story 2, $511,358,276, Walt Disney Pictures",
+        "The Matrix, $465,974,198, Warner Bros.",
+        "Tarzan, $448,191,819, Walt Disney Pictures"
+      ],
+      "detail": "Worldwide gross rather than domestic. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it says the top ten films released this year by worldwide gross are as follows, so header and text agree and there is no rentals gloss. The Mummy was sixth at $418,138,535 and Notting Hill seventh at $363,889,678, both for Universal, The World Is Not Enough eighth at $361,832,400 for MGM and UIP, American Beauty ninth at $356,296,601 for DreamWorks and Austin Powers: The Spy Who Shagged Me tenth at $312,383,487 for New Line. The film page adds that The Phantom Menace passed a billion dollars in a re-release many years later, which is not counted in the figure above.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "American Beauty, produced by Bruce Cohen and Dan Jinks",
+      "detail": "Awarded the following spring at the 72nd Academy Awards, hosted by Billy Crystal at the Shrine Auditorium in Los Angeles, his seventh time as host, the first having been the 62nd ceremony and the most recent before this one the 70th. American Beauty led the field with eight nominations and won five awards, including Best Director for Sam Mendes, whom the ceremony page calls the sixth person to win that award for a directorial debut. The Cider House Rules and The Insider tied for second with seven nominations each, The Sixth Sense had six and The Talented Mr. Ripley five. The other Best Picture nominees were The Cider House Rules, The Green Mile, The Insider and The Sixth Sense. Richard and Lili Fini Zanuck produced the telecast, which the page says was the first time a woman was given producing duties at the Oscars, and Louis J. Horvitz directed it. Burt Bacharach, Don Was and Rob Shrock wrote a techno-pop soundtrack that stood in for a live orchestra through most of the show. The telecast ran four hours and nine minutes on ABC, drew an average of 46.52 million viewers and 29.64 percent of households over a 48.32 share, and presented awards in 23 categories.",
+      "source": "https://en.wikipedia.org/wiki/72nd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Kevin Spacey, American Beauty",
+        "Best Actress, Hilary Swank, Boys Don't Cry",
+        "Best Supporting Actor, Michael Caine, The Cider House Rules",
+        "Best Supporting Actress, Angelina Jolie, Girl, Interrupted"
+      ],
+      "detail": "The ceremony page says Jolie and her father Jon Voight, who won Best Actor for Coming Home, became the second father and daughter to win acting Oscars, that Meryl Streep's twelfth nomination tied Katharine Hepburn for the most acting nominations, and that Richard Farnsworth at 79 became the oldest male acting nominee. Alan Ball won original screenplay for American Beauty and John Irving adapted screenplay for The Cider House Rules, from his own novel. John Corigliano took Best Original Score for The Red Violin and Phil Collins Best Original Song for You'll Be in My Heart from Tarzan. The Matrix won four awards, including Best Sound. Andrzej Wajda received an Honorary Award for five decades of film direction and Warren Beatty the Irving G. Thalberg Memorial Award. The film page's awards table gives the Golden Globe for drama to American Beauty and for comedy or musical to Toy Story 2, and the BAFTA for Best Film to American Beauty and Best Director to Pedro Almodovar for All About My Mother.",
+      "source": "https://en.wikipedia.org/wiki/72nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "All About My Mother, Spain, in Spanish, directed by Pedro Almodovar, the winner",
+        "East/West, France, in French, directed by Regis Wargnier",
+        "Himalaya: Caravan, Nepal, in Nepalese, directed by Eric Valli",
+        "Solomon & Gaenor, the United Kingdom, in Welsh, directed by Paul Morrison",
+        "Under the Sun, Sweden, in Swedish, directed by Colin Nutley"
+      ],
+      "detail": "The ceremony page states each film's country, language and director in this category. All About My Mother also took the Golden Globe and the BAFTA for a foreign film and the BAFTA for Best Director. One Day in September, by Arthur Cohn and Kevin Macdonald, won Best Documentary Feature, and Alexander Petrov's The Old Man and the Sea won the animated short award. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/72nd_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "The Matrix, March 31",
+        "Tarzan, June 18, Walt Disney Pictures' 37th feature and the last of the Disney Renaissance",
+        "Toy Story 2, November 24, the third feature from Disney and Pixar",
+        "Fantasia 2000, December 16, Walt Disney Pictures' 38th feature and a sequel to 1940's Fantasia, which premiered at Carnegie Hall"
+      ],
+      "detail": "The US year page carries all four of these dates and is the only cached page that dates a release at all. The film page's own list of the year's films is a set of links to country and genre lists with no dates on it, so no date is given here for Star Wars: Episode I, The Sixth Sense, The Blair Witch Project, Fight Club, Eyes Wide Shut, Magnolia, Being John Malkovich or The Green Mile, all of which the film page names among the year's major releases. The film page says Columbia Pictures and Metro-Goldwyn-Mayer both marked their 75th anniversaries this year. The Disney Renaissance had begun ten years earlier with The Little Mermaid.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, at an average ticket price of $5.06. The Sixth Sense took $278.4 million in domestic receipts, more than any other Best Picture nominee, and the five nominees together took $521 million, an average of $104 million a film.",
+      "detail": "None of the cached pages mentions a videocassette, a disc, a rental chain or a television premiere, so this fact claims nothing about home viewing. The domestic figures come from the ceremony page's box office section, measured when the nominations were announced, and the ticket price from the theatre owners' association survey cited on the average ticket price fact. Of the fifty highest-grossing films of the year, eleven collected thirty-seven nominations between them, and only The Sixth Sense, The Green Mile, The Talented Mr. Ripley and American Beauty among those eleven were nominated for directing, acting, screenwriting or Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/72nd_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$5.06",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Providence, NBC, January 8",
+        "Batman Beyond, Kids' WB, January 10",
+        "The Sopranos, HBO, January 10",
+        "The Daily Show with Jon Stewart, Comedy Central, January 11",
+        "60 Minutes II, CBS, January 13",
+        "Dilbert, UPN, January 25",
+        "Family Guy, Fox, January 31",
+        "Futurama, Fox, March 28",
+        "SpongeBob SquarePants, Nickelodeon, May 1",
+        "WWF SmackDown, UPN, August 26",
+        "Judging Amy, CBS, September 19",
+        "Law & Order: Special Victims Unit, NBC, September 20",
+        "Once and Again, ABC, September 21",
+        "The West Wing, NBC, September 22",
+        "Third Watch, NBC, September 23",
+        "Freaks and Geeks, NBC, September 25",
+        "Angel, The WB, October 5",
+        "Roswell, The WB, October 6"
+      ],
+      "detail": "The television page's debut table gives each date and network. The year page says The Sopranos began what many commentators call a second golden age of television. Family Guy went out immediately after Super Bowl XXXIII, and a pilot of WWF SmackDown had aired on UPN as a one-off special on April 29 before the series proper began from Kemper Arena. Jon Stewart replaced Craig Kilborn on The Daily Show, and Kilborn moved to CBS to take over The Late Late Show. Nickelodeon showed the SpongeBob pilot straight after the Kids' Choice Awards and told viewers the series would start in July. Colombia's RCN Television began the telenovela Yo soy Betty, la fea on October 25.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_American_television"
+    },
+    "tv.millionaire": {
+      "section": "tv",
+      "label": "Who Wants to Be a Millionaire",
+      "value": "ABC ran the first episode on August 16 with Regis Philbin as host, and on November 19 John Carpenter became the first player to win $1,000,000",
+      "detail": "The television page calls Millionaire the television season's highest-rated series and one of ABC's most successful shows, and says Carpenter was the first contestant in the history of American game shows to win a million dollars. The cached pages carry no Nielsen table for the season, so no rating is stated here.",
+      "date": "1999-08-16",
+      "source": "https://en.wikipedia.org/wiki/1999_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that ended",
+      "value": "Home Improvement finished on ABC on May 25, watched by 35.5 percent of the households sampled and 21.6 percent of viewers, after Patricia Richardson turned down $25 million and Tim Allen $50 million for a ninth season",
+      "detail": "The television page calls it the fifth highest-rated series finale of the 1990s. Mystery Science Theater 3000 ended on The Sci-Fi Channel on August 8 with the 1968 film Danger: Diabolik. Gene Siskel hosted his last episode of Siskel & Ebert on January 23, announced a leave of absence on February 3 and died on February 20. Tom Snyder's last Late Late Show went out on March 26. Jay Leno's Tonight Show was broadcast in high definition on April 26, which the page calls the first late-night program in that format, and NBC ran a three-hour prime-time special on September 26 for Saturday Night Live's 25th anniversary.",
+      "date": "1999-05-25",
+      "source": "https://en.wikipedia.org/wiki/1999_in_American_television"
+    },
+    "tv.owen_hart": {
+      "section": "tv",
+      "label": "Owen Hart killed during a live pay-per-view",
+      "value": "The wrestler fell from the rafters of Kemper Arena in Kansas City during a stunt at the World Wrestling Federation event Over the Edge",
+      "detail": "The two cached pages disagree on the height: the television page says 70 feet, or 21 metres, and the US year page says 90 feet, so no figure is stated above. Bret Hart paid tribute to his brother on WCW Monday Nitro the following night while the WWF held a tribute show called Raw Is Owen. On September 27 a Raw Is War segment with The Rock and Mankind drew an 8.4 rating, which the television page calls the highest cable rating in the promotion's history.",
+      "date": "1999-05-23",
+      "source": "https://en.wikipedia.org/wiki/1999_in_American_television"
+    },
+    "tv.new_channels": {
+      "section": "tv",
+      "label": "Channels that launched",
+      "value": [
+        "Noggin, February 2, a joint venture of Nickelodeon and the Children's Television Workshop",
+        "Nickelodeon Games and Sports for Kids, March 1",
+        "Starz Cinema and Starz Family, May 1",
+        "HBO Comedy and HBO Zone, May 6",
+        "PBS Kids, September 6, a 24-hour channel excluding Sesame Street, whose pay television rights Noggin held",
+        "News 8 Austin, September 13",
+        "Boyz Channel and Girlz Channel, October 31, both spun off from the Fox Family Channel"
+      ],
+      "detail": "Viacom announced on September 7 that it would acquire CBS and CBS Corporation, twenty-eight years after CBS spun Viacom off. The Prevue Channel became The TV Guide Channel on February 1, the same day the Disney Channel renamed its preschool block Playhouse Disney. Cartoon Network rebranded its Friday night block of original series as Cartoon Cartoon Fridays on June 11. UPN replaced UPN Kids with Disney's One Too on September 6, and WGN's superstation feed dropped The WB and Kids' WB on September 20 at the network's request after four years. The two cached pages disagree on the DIY Network: the US year page dates its launch to January 1 and the television page's own launch table to September 30, so it is not in the list above.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Believe, Cher",
+        "No Scrubs, TLC",
+        "Angel of Mine, Monica",
+        "Heartbreak Hotel, Whitney Houston featuring Faith Evans and Kelly Price",
+        "...Baby One More Time, Britney Spears"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 25. Believe was number one on the Hot 100 for four weeks and made Cher, at 52, the oldest female artist to top the chart; the music page says 33 years separated her first and last number ones and the chart page puts the gap since Dark Lady at nearly 25 years. Whitney Houston placed four songs, the most of any artist that year, all from an album released the year before. Kiss Me by Sixpence None the Richer was sixth, Genie in a Bottle by Christina Aguilera seventh, Every Morning by Sugar Ray eighth, Nobody's Supposed to Be Here by Deborah Cox ninth, Livin' la Vida Loca by Ricky Martin tenth and Where My Girls At? by 702 eleventh. NSYNC and Jay-Z each placed three. Mariah Carey's Heartbreaker reached number one on October 9, her fourteenth, and a further week there took her past The Beatles for the most weeks at the top.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1999"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On compact disc, whose wholesale price Sony Music Distribution raised by 8 US cents on March 1, and from June 1 by downloading from Napster, the peer-to-peer file sharing network created that day",
+      "detail": "The Recording Industry Association of America sued Napster on December 7 for copyright infringement. David Bowie's Hours became the first complete album by a major artist legally available to download over the internet on September 21, two weeks ahead of the physical release. Jeffrey Levy, a University of Oregon student who had downloaded MP3s without permission, was on November 23 the first person convicted of copyright infringement under the NET Act of 1997, and was given two years of probation and a limit on internet access. The same association introduced a Diamond certification on March 16 for albums or singles selling ten million units. A&M Records was shut down on January 21 and folded into Interscope Geffen A&M.",
+      "date": "1999-06-01",
+      "source": "https://en.wikipedia.org/wiki/1999_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums in the United States",
+      "value": [
+        "Millennium, Backstreet Boys",
+        "...Baby One More Time, Britney Spears",
+        "Come on Over, Shania Twain",
+        "*NSYNC, 'N Sync",
+        "Ricky Martin, Ricky Martin"
+      ],
+      "detail": "The music page's ranking, cited to the year-end Billboard 200. Christina Aguilera's debut was sixth, Santana's Supernatural seventh, TLC's FanMail eighth, Kid Rock's Devil Without a Cause ninth and Eminem's The Slim Shady LP tenth. Millennium sold over 1.13 million copies in its first week, past Garth Brooks's old record of 1.08 million, and was the first album to sell more than 500,000 copies in at least two separate weeks. Spears's album spent six weeks at number one and 103 weeks on the Billboard 200. Aguilera's sold over 14 million copies.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "...Baby One More Time, Britney Spears, January 12",
+        "The Slim Shady LP, Eminem, February 23",
+        "Millennium, Backstreet Boys, May 18",
+        "Enema of the State, Blink-182, June 1",
+        "Significant Other, Limp Bizkit, June 22",
+        "Tonight the Stars Revolt!, Powerman 5000, July 20",
+        "Christina Aguilera, Christina Aguilera, August 24",
+        "Risk, Megadeth, August 31",
+        "Hours, David Bowie, September 21",
+        "Human Clay, Creed, September 28",
+        "Issues, Korn, November 16"
+      ],
+      "detail": "The music page dates each of these. The Slim Shady LP entered the Billboard 200 at number two, sold over 200,000 copies in its first week and stayed on that chart for 100 weeks. Enema of the State entered at number nine, Significant Other at number one with 643,874 copies in its first week, and Issues at number one with 575,000. Korn played Issues in full at the Apollo Theater on November 15, which the page says made them the first rock band to perform there. Santana and Rob Thomas released Smooth on June 29 and it held number one for twelve weeks.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_music"
+    },
+    "music.awards": {
+      "section": "music",
+      "label": "Prizes and inductions",
+      "value": [
+        "Eurovision Song Contest, the 44th, won for Sweden by Charlotte Nilsson with Take Me to Your Heaven, at the International Convention Center in Jerusalem on May 29",
+        "Mercury Music Prize, Ok, Talvin Singh",
+        "Rock and Roll Hall of Fame, Billy Joel, Curtis Mayfield, Paul McCartney, Del Shannon, Dusty Springfield, Bruce Springsteen and The Staple Singers",
+        "Glenn Gould Prize, Yo-Yo Ma as laureate with Wu Man as protege",
+        "Gospel Music Hall of Fame, whose inductees included The Fairfield Four and Second Chapter of Acts"
+      ],
+      "detail": "The music page gives no date for the Hall of Fame ceremony or for the Mercury Prize. The Irish Music Hall of Fame opened on September 1 and inducted Van Morrison first. Billy Joel took the American Music Awards Special Award of Merit on January 11 for what the citation called inspired songwriting skills and exciting showmanship, and announced at Meadowlands on April 20 that he was giving up public pop concerts for classical music. Stevie Wonder was honoured as MusiCares Person of the Year in Los Angeles on February 22. The music page's Grammy and Country Music Association entries are bare links with no winners on them, so no winner from either is named here.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_music"
+    },
+    "music.woodstock": {
+      "section": "music",
+      "label": "Woodstock '99",
+      "value": "The festival ran from July 22 to 25 at the former Griffiss Air Force Base in Rome, New York, with the Red Hot Chili Peppers, Korn, Kid Rock, Limp Bizkit, Rage Against the Machine, DMX, James Brown and Jamiroquai, and the year page says it was marred by difficult environmental conditions, poor sanitation, overpriced food and water, looting, violence, rapes, riots and several deaths",
+      "detail": "The first Coachella Valley Music and Arts Festival was held in California on October 9 with Beck, The Chemical Brothers, Tool, Morrissey and Rage Against the Machine, and the anti-poverty initiative NetAid launched the same day with simultaneous concerts in London, New Jersey and Geneva. The Scottish Parliament was opened on July 1 with a rock concert below Edinburgh Castle headlined by Garbage. On New Year's Eve, Phish played to 75,000 people at the Big Cypress Indian Reservation in Florida, which Rolling Stone called the biggest concert of the night, Metallica played the Pontiac Silverdome for 54,000 with Kid Rock and Ted Nugent, and Barbra Streisand, The Eagles and Billy Joel played Las Vegas, Los Angeles and New York.",
+      "date": "1999-07-22",
+      "source": "https://en.wikipedia.org/wiki/1999_in_music"
+    },
+    "tech.blackberry": {
+      "section": "tech",
+      "label": "First BlackBerry released",
+      "value": "It used the same hardware as the Inter@ctive pager 950 and ran on the Mobitex network",
+      "detail": "The science page's telecommunications section carries this as its only entry for the year and gives no price, no sales figure and no maker.",
+      "date": "1999-01-19",
+      "source": "https://en.wikipedia.org/wiki/1999_in_science"
+    },
+    "tech.internet_computing": {
+      "section": "tech",
+      "label": "Computer science this year",
+      "value": [
+        "The Melissa worm attacked the internet on March 26",
+        "RFC 2616 defined HTTP/1.1 in June, the version of the protocol in common use",
+        "The term Web 2.0 was coined by Darcy DiNucci in an article for Print",
+        "IBM demonstrated the first working three-qubit NMR computer at its Almaden Research Center and ran the first execution of Grover's algorithm",
+        "The first emojis were introduced in Japan, on a date the science page marks as probable"
+      ],
+      "detail": "All five come from the science page's computer science section. The emoji entry carries an editors' note asking for a citation, which is why the date is left as the page gives it. Neither of the year pages counts internet users or hosts, so no number is stated here. Gary Glitter was jailed for four months on November 12 for downloading child pornography from the internet.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_science"
+    },
+    "tech.microsoft": {
+      "section": "tech",
+      "label": "Microsoft",
+      "value": "Windows 98 Second Edition was released on May 5 and the first version of MSN Messenger on July 22",
+      "detail": "Bill Gates's personal fortune passed $100 billion on April 8 on the rising value of the company's stock. On February 15, in what the US year page calls Windows Refund Day, people protested at the company's refusal to refund Linux users for the unused Windows licences that came with their computers.",
+      "date": "1999-05-05",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "PocketStation, released in Japan on January 23",
+        "WonderSwan, released in Japan on March 4",
+        "Neo Geo Pocket Color, released in Japan on March 16",
+        "Dreamcast, Sega's last home console, released in North America on September 9, in Europe on October 14 and in Australasia on November 30",
+        "Super Smash Bros., Nintendo, January 21, on the Nintendo 64",
+        "Silent Hill, January 31, on the PlayStation",
+        "Final Fantasy VIII, February 11, on the PlayStation",
+        "EverQuest, March 16, on Windows",
+        "Pokemon Snap, March 21, on the Nintendo 64"
+      ],
+      "detail": "Soulcalibur, Namco's Dreamcast fighting game, took game of the year from Electronic Gaming Monthly, GameSpot, Hyper, GamePower and GameSpy, and The Legend of Zelda: Ocarina of Time took the BAFTA Interactive Entertainment award. The games page puts the PlayStation first in console sales at 21,820,000 worldwide and the Game Boy and Game Boy Color second at 17,450,000. Pokemon Red, Blue and Yellow together were the best-selling home games in the United States at about 8.9 million copies, with Donkey Kong 64 second at 1,900,000 and Pokemon Pinball third at 1,800,000. The Game Developers Conference moved to San Jose for the week of March 15 and hosted the first Independent Games Festival, and the fifth Electronic Entertainment Expo ran from May 13 to 15. Nintendo had begun work by May 12 on a console codenamed Project Dolphin. SegaWorld London closed on September 7, three years after it opened.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_video_games"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "Two Mars probes lost",
+      "value": "NASA permanently lost contact with the Mars Climate Orbiter on September 23 during orbital insertion, and lost radio contact with the Mars Polar Lander on December 3 moments before it entered the Martian atmosphere",
+      "detail": "The Polar Lander had been launched on January 3. Stardust went up on February 7 to collect samples from a comet's coma, the Chandra X-ray Observatory on July 23, and the Terra platform on December 18 carrying five Earth observation instruments including ASTER, CERES, MISR, MODIS and MOPITT. NASA deliberately crashed Lunar Prospector into the Moon on July 31, ending its search for frozen water there. Space Shuttle Discovery launched on STS-96 on May 27 and completed the first docking with the International Space Station on May 29. Liberty Bell 7, flown by Gus Grissom in 1961, was raised from the Atlantic on July 20, and China launched the first Shenzhou spacecraft on November 20.",
+      "date": "1999-09-23",
+      "source": "https://en.wikipedia.org/wiki/1999_in_science"
+    },
+    "tech.science": {
+      "section": "tech",
+      "label": "Discoveries and retractions",
+      "value": [
+        "Elements 118 and 116 were claimed to have been made for the first time, and the claim was retracted when the results could not be replicated",
+        "The hormone ghrelin was discovered and named, on December 9",
+        "The Dunning and Kruger effect was first described, by David Dunning and Justin Kruger",
+        "Thiomargarita namibiensis was found off the coast of Namibia, the largest bacterium known, 0.3 millimetres across",
+        "Thomas Callister Hales proved the honeycomb theorem",
+        "The first fossil of the hominin Kenyanthropus was found at Lake Turkana in Kenya"
+      ],
+      "detail": "The Subaru 8.3 metre and Gemini North 8.1 metre reflecting telescopes opened at the Mauna Kea Observatory, the Cetus Dwarf galaxy was found, and the Beethoven Burst of December 16 was one of the most powerful gamma-ray bursts detected. Russell Foster and his team at Imperial College London published their discovery of intrinsically photosensitive retinal ganglion cells in the mammalian eye on April 16, and Huda Zoghbi showed in October that Rett syndrome is caused by mutations in the gene MECP2. Bulgaria joined CERN on June 18.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.17 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1997.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president tried by the Senate and acquitted, a school shooting in Colorado that turned into an argument about music and films and guns, and a steady low worry about whether the computers would survive the date change. The music people wanted had become free to take, and nobody had settled what that meant."
+    },
+    "culture.y2k": {
+      "section": "culture",
+      "label": "Y2K",
+      "value": "Concern grew over the date rollover, which the year page puts among the nine images in its own montage of the year",
+      "detail": "None of the cached pages carries a remediation cost, a government programme or a count of systems fixed, so this fact states none. The concern is the only claim about the rollover that any of the eleven pages makes, and it sits in the year page's image footer rather than in a dated entry, so no date is given here.",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "culture.slang": {
+      "section": "culture",
+      "label": "New English words",
+      "value": [
+        "blog",
+        "carbon footprint",
+        "dashcam",
+        "epigenomics",
+        "metabolomics",
+        "texting",
+        "vape"
+      ],
+      "detail": "The year page's list, cited to the Merriam-Webster Time Traveler entry titled Words from 1999. The page gives no definition, no first appearance in print and no source for any individual word.",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "culture.memes": {
+      "section": "culture",
+      "label": "Pokemania",
+      "value": "The year page's montage caption says Pokemania sparked a global craze for Pokemon",
+      "detail": "Kids' WB acquired the television rights on February 13, a year after the series had started in first-run syndication, and the television page says the show made the block a household name. Pokemon Red, Blue and Yellow together were the best-selling home video games in the United States for the year at about 8.9 million copies, Pokemon Pinball was third at 1,800,000, and Pokemon Snap came out for the Nintendo 64 on March 21.",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Gunter Grass",
+        "Peace, Medecins Sans Frontieres",
+        "Physics, Gerard 't Hooft and Martinus J. G. Veltman",
+        "Chemistry, Ahmed Zewail",
+        "Medicine, Gunter Blobel",
+        "Economics, Robert Mundell"
+      ],
+      "detail": "The year page gives no dates for any of them and the science page lists the same three science winners. The Turing Award went to Fred Brooks and the Wollaston Medal for geology to John Frederick Dewey. The year page says 1999 was designated the International Year of Older Persons.",
+      "source": "https://en.wikipedia.org/wiki/1999"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees swept the Atlanta Braves four games to none for their 25th championship, with the pitcher Mariano Rivera named series most valuable player",
+      "detail": "The television page dates the deciding fourth game to October 27 and says it was NBC's 39th and last World Series. Ivan Rodriguez of the Texas Rangers was American League most valuable player and Chipper Jones of the Braves National League most valuable player, and Carlos Beltran of the Kansas City Royals and Scott Williamson of the Cincinnati Reds took the rookie awards. Miami beat Florida State in the College World Series.",
+      "date": "1999-10-27",
+      "source": "https://en.wikipedia.org/wiki/1999_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXIII",
+      "value": "The Denver Broncos beat the Atlanta Falcons 34 to 19 at Pro Player Stadium in front of 74,803, with the quarterback John Elway named most valuable player",
+      "detail": "The television page says it was Denver's second in a row, and that Fox broadcast it with Pat Summerall and John Madden calling the game. Tennessee had beaten Florida State 23 to 16 in the Fiesta Bowl for the first Bowl Championship Series national title of the previous college season. Kurt Warner of the St. Louis Rams was named league most valuable player, his coach Dick Vermeil coach of the year and Edgerrin James of the Indianapolis Colts rookie of the year. Cleveland took the quarterback Tim Couch with the first pick of the draft on April 17.",
+      "date": "1999-01-31",
+      "source": "https://en.wikipedia.org/wiki/1999_in_sports"
+    },
+    "sports.womens_world_cup": {
+      "section": "sports",
+      "label": "FIFA Women's World Cup",
+      "value": "The United States beat China 5 to 4 on penalties in the final, decided by Brandi Chastain's kick",
+      "detail": "The sports page names the United States women's national soccer team Associated Press Female Athlete of the Year, and Tiger Woods Male Athlete of the Year. The year page and the US year page both carry Chastain's penalty and neither gives an attendance or a venue.",
+      "date": "1999-07-10",
+      "source": "https://en.wikipedia.org/wiki/1999_in_sports"
+    },
+    "sports.rugby_world_cup": {
+      "section": "sports",
+      "label": "Rugby World Cup",
+      "value": "Australia beat France 35 to 12 in the final in Wales, the first nation to win the Webb Ellis Cup twice",
+      "detail": "The year page dates the tournament from October 1 to November 6 and calls it the first World Cup of the professional era. Scotland won the 105th Five Nations Championship, the last under that format. Australia retained the Bledisloe Cup by drawing the two-match series with New Zealand, and New Zealand won the Tri Nations. In rugby league, Melbourne Storm beat St George Illawarra 20 to 18 in the grand final on September 26, St Helens beat Bradford 8 to 6 in the Super League grand final on October 9, and Australia beat New Zealand 22 to 20 in the Tri-Nations final on November 1.",
+      "date": "1999-11-06",
+      "source": "https://en.wikipedia.org/wiki/1999_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Dallas Stars over the Buffalo Sabres, four games to two, the first winner from the Southern United States, with the Conn Smythe Trophy to Joe Nieuwendyk",
+        "NBA Finals, San Antonio Spurs over the New York Knicks, four games to one, the first former ABA team to win an NBA title against the first eighth seed to reach the Finals",
+        "NCAA basketball, Connecticut 77, Duke 74",
+        "Champions League, Manchester United 2, Bayern Munich 1, at the Camp Nou on May 26, completing a treble with the English league and the FA Cup",
+        "Cricket World Cup, Australia beat Pakistan by eight wickets at Lord's on June 20",
+        "WNBA Finals, Houston Comets over the New York Liberty, two games to one, their third in a row",
+        "Grey Cup, Hamilton Tiger-Cats 32, Calgary Stampeders 21"
+      ],
+      "detail": "Jaromir Jagr of the Pittsburgh Penguins took both the Art Ross and Hart trophies, Karl Malone of the Utah Jazz was named NBA most valuable player and Vince Carter of the Toronto Raptors rookie of the year. Tiger Woods won the PGA Championship and led the money list at $6,616,585, Jose Maria Olazabal the Masters, Payne Stewart the US Open and Paul Lawrie the Open Championship after Jean van de Velde threw away a three-shot lead on the final hole, and the United States won the Ryder Cup 14 and a half to 13 and a half. Andre Agassi won the French and US Opens, Pete Sampras Wimbledon, Yevgeny Kafelnikov the Australian Open, and among the women Martina Hingis the Australian Open, Steffi Graf the French, Lindsay Davenport Wimbledon and Serena Williams the US Open, with Kim Clijsters making her tour debut. Lance Armstrong won the Tour de France and Ivan Gotti the Giro d'Italia. Stephen Hendry beat Mark Williams 18 to 11 at the World Snooker Championship. Felix Trinidad beat Oscar De La Hoya on a split decision on September 18 to unify the welterweight titles. Parma beat Marseille 3 to 0 in the UEFA Cup and Palmeiras beat Deportivo Cali on penalties in the Copa Libertadores. Meath beat Cork in the All-Ireland football final and Cork beat Kilkenny in the hurling.",
+      "source": "https://en.wikipedia.org/wiki/1999_in_sports"
+    },
+    "deaths.kubrick": {
+      "section": "deaths",
+      "label": "Stanley Kubrick",
+      "value": "Died March 7. Born 1928",
+      "detail": "Film director and producer. The film page names Eyes Wide Shut among the year's major releases and gives no date for it.",
+      "date": "1999-03-07",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "deaths.dimaggio": {
+      "section": "deaths",
+      "label": "Joe DiMaggio",
+      "value": "Died March 8. Born 1914",
+      "detail": "Baseball player and advertising spokesman.",
+      "date": "1999-03-08",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "deaths.kennedy": {
+      "section": "deaths",
+      "label": "John F. Kennedy Jr.",
+      "value": "Died July 16. Born 1960",
+      "detail": "Journalist and lawyer, in a plane he was piloting off Martha's Vineyard. His wife Carolyn Bessette Kennedy and her sister Lauren Bessette died with him.",
+      "date": "1999-07-16",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "deaths.chamberlain": {
+      "section": "deaths",
+      "label": "Wilt Chamberlain",
+      "value": "Died October 12. Born 1936",
+      "detail": "Basketball player.",
+      "date": "1999-10-12",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    },
+    "deaths.payton": {
+      "section": "deaths",
+      "label": "Walter Payton",
+      "value": "Died November 1. Born 1954",
+      "detail": "Chicago Bears running back. The sports page gives his age as 45.",
+      "date": "1999-11-01",
+      "source": "https://en.wikipedia.org/wiki/1999_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1999. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it says the top ten films released in 1999 by worldwide gross are as follows, so header and text agree and there is no rentals gloss to write. film.gross says worldwide in its detail and its label so the figures are not read as North American. The film page's lead says The Phantom Menace passed a billion dollars in a re-release, and gives a year for that re-release which is later than this page's, so film.gross records the fact of the re-release without the year. Names carrying a four-digit number that the anachronism check reads as a later year, left out of every value and detail and reported for the allowlist rather than written: Fantasia 2000, which is why film.releases describes Walt Disney Pictures' 38th feature by its number, its 1940 parent film and its Carnegie Hall premiere instead of naming it; 2000 Today and ABC 2000 Today, the global New Year's Eve broadcast that Peter Jennings anchored with Dick Clark on the Times Square countdown, which is therefore absent from tv.endings and from the texture; Total Recall 2070, which debuted on Showtime on January 5 and is left out of tv.premieres; MLB 2000, a PlayStation release of February 28 left out of tech.games; and the 2000 Guineas Stakes, won by Island Sands, which is why sports.champions carries no English Triple Crown flat races. None of the cached pages mentions Windows 2000 at all, so nothing had to be dropped on that account, and src/data/name_years.json was not edited. Four-digit numbers that were checked and are safe without an allowlist entry: Mystery Science Theater 3000 and SimCity 3000, both above the 1000 to 2099 range the check matches; RFC 2616 and Air China Flight 9018, the same; American Airlines Flight 1420, which is inside the range but lower than the page year; Rajiv Nayyar's 1,015 minutes and the Dow closes of 10,006.78 and 11,014.70, all broken by commas or periods; Woodstock '99, Windows 98 and The King of Fighters '98, all two digits. Date and source checks. Nothing this year carries a checkable constitutional constraint of the kind the brief describes, so no dedicated article was pulled and every source in this file comes from the cache. The 72nd Academy Awards honouring this year of film fall in the following spring, so film.best_picture, film.acting_awards, film.world_cinema and film.how_people_watched name the winners, the host, the venue, the producers, the director, the telecast figures and the nominee box office without a ceremony date, and no fact carries a token later than 1999. The 71st Academy Awards of March 21, hosted by Whoopi Goldberg at the Dorothy Chandler Pavilion, where Shakespeare in Love won seven awards from 13 nominations including Best Picture and Steven Spielberg won Best Director for Saving Private Ryan before 45.5 million viewers, are out of the file for the same reason 1995 leaves out the 67th: they honoured the previous year of film and would put a second Best Picture on the page. The 41st Grammy Awards of February 24, where Lauryn Hill became the first woman to win five Grammys in one night, are left out on the same ground, and the music page's Grammy entry is a bare link with no winners on it anyway. The Golden Globe, Critics' Choice, guild and BAFTA dates on the film page's awards table all fall in the following year, so film.acting_awards and film.world_cinema name those winners without dating the ceremonies. Source disagreements labelled rather than resolved, each in the fact's own detail. The two cached pages give Owen Hart's fall as 70 feet on the television page and 90 feet on the US year page, so tv.owen_hart states no height. They date the DIY Network launch to January 1 and September 30 respectively, so it is absent from tv.new_channels. The Columbine toll is 12 students and one teacher on the US year page, 14 including 13 students on the year page with a footnote attributing the extra death to a victim who died of her injuries many years later, and the wounded are 23 on the year page against 24 on the music page. The Colombia earthquake of January 25 is 6.2 Mw with at least 1,900 dead on the year page and 6.0 on the Richter scale with at least 1,000 dead on the science page, which is why it appears in no fact and the texture names neither figure. The Oklahoma tornado of May 3 killed 36 with five more indirectly on the year page and 38 on the US year page, so the texture carries only the wind speed, which both pages agree on. The Izmit earthquake is 17,118 to 17,127 dead on the science page and more than 17,000 on the year page, and world.turkey_earthquakes cites the science page and says so. Sections and windows. tv.top_shows is absent because the Nielsen page for the season is a 404 in the manifest and no cached page carries a ratings table, so there is no source for a top-programs list and none was written from memory; the television page's claim that Who Wants to Be a Millionaire was the season's highest-rated series is in tv.millionaire as the page words it, with no number attached. Because no Nielsen ranking is stated, no fact in this file needed the season-label convention, and no fact string carries a second year token. No radio fact, because the radio window closed after 1959. Napster sits in music.listening_format rather than in tech, because that fact answers how music reached listeners and Napster is the year's answer to it; the same page's other download items, the Bowie album, the NET Act conviction and the Diamond certification, sit in its detail for the same reason. tech.internet_computing uses a tech.internet_ id so the 1993 gate fires rather than the ungated tech default. culture.memes is used for Pokemania, which the 1996 window allows. culture.mood carries no digits and no source, which is what the schema and the source-coverage check between them require. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.turkey_earthquakes cites the science page for the Izmit ranges and takes the Ocalan arrest and the embassy occupations from the year page; film.releases cites the US year page, which is the only page dating a release, and takes the studio anniversaries from the film page; film.how_people_watched cites the ceremony page for the domestic figures and takes the $5.06 from the exhibitors' survey already cited on film.ticket_price; tv.premieres cites the television page and takes the golden-age line about The Sopranos and the Yo soy Betty, la fea debut from the year page; music.hot100_year_end cites the chart page and takes Cher's age, her 33-year span and the Heartbreaker chart record from the music page; sports.world_series cites the sports page for the sweep and the most valuable player and takes the October 27 date and the NBC line from the television page; sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player and takes the Fox broadcast team and the second-consecutive-title line from the television page; tech.microsoft cites the US year page for both releases and both other items; culture.memes cites the year page's montage caption and takes the Kids' WB rights from the television page and the sales figures from the games page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question; that the Year 2000 problem the year page names is the thing commonly called Y2K, which is how culture.y2k labels it; and the whole of culture.mood. All three come out if challenged. Dropped for lack of a source that says enough, or for room. No cached page dates the release of Star Wars: Episode I, The Sixth Sense, The Blair Witch Project, Fight Club, Eyes Wide Shut, Magnolia, Being John Malkovich, American Beauty or The Green Mile, so film.releases dates only the four the US year page dates and names the rest without dates. The film page's list of 62 first film appearances is in the texture in part, with Amy Adams, Hugh Jackman, Melissa McCarthy and Simon Pegg named and James Franco, Ashton Kutcher, Zooey Deschanel, Idris Elba, Audrey Tautou, Seann William Scott, Gabrielle Union, Rachel Dratch, Zach Galifianakis, Michael B. Jordan, Brie Larson and Kal Penn dropped for room. Also dropped: the Senate's rejection of the Comprehensive Nuclear-Test-Ban Treaty on October 13; George W. Bush's announcement on June 12 that he would seek the Republican nomination, and Donald Trump's campaign announcement on Larry King Live on October 7, both left out because the election they point at falls in a later year; the killing of Amadou Diallo on February 4 and of Gidone Busch on August 30, both by New York City police officers; the conviction of John William King on February 23 for the murder of James Byrd Jr. and of Jack Kevorkian on March 26 for second-degree murder; the LaGrand executions of February 24 and March 3 and Germany's action in the International Court of Justice over them; the exoneration of Ron Williamson and Dennis Fritz on April 15 after eleven years; the Nunavut, Checker taxi, Last Supper and Bhutan television items, all in the texture instead of facts; the Aggie Bonfire collapse of November 18, the Atlanta day trading shootings of July 29, the Wedgwood Baptist Church shooting of September 15, the Xerox murders of November 2, the Los Angeles Jewish Community Center shooting of August 10 and the Benjamin Nathaniel Smith killings from July 2, all left out because there was no room for a seventh politics fact and none of them belongs in another fact's detail; the Mother's Day bus crash of May 9, American Airlines Flight 1420 of June 1, the Big Blue crane collapse of July 14, the Ontario Highway 401 crash of September 3, the Ladbroke Grove rail crash of October 5, EgyptAir Flight 990 of October 31, the Incheon bar fire of October 30, the Sealand Youth Training Center fire of June 30, the Saxetenbach canyoning deaths of July 27 and Cyclones Lothar and Martin of December 26 and 27, all crowded out of the disaster texture by the six it does carry; the Vargas tragedy in Venezuela, which the year page carries only in its montage caption with no date and no toll; the total solar eclipse of August 11 and Robbie Knievel's Grand Canyon jump of May 20; the Australian republic referendum of November 6 and Helen Clark becoming New Zealand's second female prime minister on November 27; the Armenian parliament shooting of October 27 that killed Prime Minister Vazgen Sargsyan; the assassination of Ibrahim Bare Mainassara on April 9, Abdullah II inheriting the throne of Jordan on February 7 and Mohammed VI of Morocco on July 23; the Falun Gong ban of July 20; the Greek stock market crash from September 20; the Joint Declaration on the Doctrine of Justification of October 31; the Roth IRA entry on the US year page dated March 17, which credits its introduction to Senator William V. Roth Jr. in this year and is left out rather than repeated; Wayne Gretzky's last game and the closures of Maple Leaf Gardens and Tiger Stadium, David Cone's perfect game, Fernando Tatis's two grand slams and Nomar Garciaparra's, all in the texture instead of a seventh sports fact; Michael Johnson's 400 metres world record of 43.18; the Pan American Games at Winnipeg and the other multi-sport events; and Major League Lacrosse's founding. Month-only dates: pol.economy carries 1999-12 because the US year page dates the 4 percent unemployment figure to December with no day. Names and titles are written in ASCII per the corpus convention, so Galtur, Izmit, Duzce, Ocalan, Milosevic, Djakovica, Decani, Staro Gracko, Almodovar, Regis Wargnier, Eric Valli, Jose Maria Olazabal, Fernando Tatis, Ivan Rodriguez, Carlos Beltran, Felix Trinidad, Gunter Grass, Gunter Blobel, Medecins Sans Frontieres, Gerard 't Hooft, Pokemon and protege all lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year; deaths.payton adds the age the sports page gives. Deaths that would have earned a place with more room: Payne Stewart in an air accident on October 25, Gene Siskel on February 20, Joseph Heller on December 12, Curtis Mayfield on December 26 in the year he was inducted into the Rock and Roll Hall of Fame, Mario Puzo on July 2, Yehudi Menuhin on March 12, George C. Scott on September 22, DeForest Kelley on June 11, Shel Silverstein on May 10, Madeline Kahn on December 3, Mel Torme on June 5, Glenn T. Seaborg on February 25, Gertrude B. Elion on February 21, Pete Conrad on July 8, Harry Blackmun on March 4, James Farmer on July 9, Daisy Bates on November 4, Paul Bowles on November 18, Hank Snow on December 20, Clayton Moore on December 28, Big L on February 15, Rick Danko on December 10, Grover Washington Jr. on December 17, Mark Sandman on stage in Italy on July 3, Adrian Borland on April 26, Roger Troutman on April 25, Catfish Hunter on September 9, Pee Wee Reese on August 14, Early Wynn on April 4, Gene Sarazen on May 13, Cal Ripken Sr. on March 25, Marion Motley on June 27, Dana Plato on May 8, Victor Mature on August 4, Allen Funt on September 5, Gene Rayburn on November 29, Fred Trump on June 25, Paul Mellon on February 1, Forrest Mars Sr. on July 1, Sarah Knauss at 119 on December 30 and Elliot Richardson on December 31. This file runs 53 facts across 10 sections: politics 5, world 7, film 7, tv 5, music 6, tech 6, prices 2, culture 5, sports 5, deaths 5. World runs to 7 because the year carries the euro, the first NATO enlargement into the former Warsaw Pact, NATO's first attack on a sovereign state, the Kargil War, two Turkish earthquakes, the East Timor referendum and Yeltsin's resignation, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. The two Turkish earthquakes share one fact because they struck the same fault region three months apart, which is a relation rather than a shared date. Review pass: names this file left out over the anachronism check are now usable. src/data/name_years.json gained Fantasia 2000, 2000 Today, Total Recall 2070 and 2000 Guineas Stakes, and Fantasia 2000 is named in film.releases instead of being described around. The other three are still absent, recoverable in a later pass. MLB 2000 needed no entry: annual sports games titled for the coming season now pass generatively in any tech.games fact at year plus one."
+}

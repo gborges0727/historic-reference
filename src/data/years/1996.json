@@ -1,0 +1,538 @@
+{
+  "year": 1996,
+  "tier": "modern",
+  "headline": "Clinton beat Dole in November, Dolly the sheep was born in July, and a bomb went off at the Atlanta Olympics",
+  "texture": [
+    "A storm caught several climbing teams high on Mount Everest on May 10 and left eight people dead, and at least four more climbers died on the mountain before the month ended. The Ozone Disco Club fire in Quezon City killed 163 people on March 18. The MV Bukoba went down in Lake Victoria on May 21 with nearly a thousand aboard. A propane explosion at the Humberto Vidal shoe store in San Juan killed 33 on November 21, and 283 migrants drowned when F174 sank near Capo Passero on December 25.",
+    "A blizzard hit the eastern states on January 7 and killed 60. Anti-government Freemen held out against federal officers near Jordan, Montana for 81 days from March 25 and gave themselves up on June 13. The Dow gained 40.62 on October 14 to close at 6,010.00, its first close above six thousand. Unemployment fell to 5.1 percent in August, the lowest rate since March 1989. The Sands Hotel in Las Vegas was imploded on November 26 to clear ground for the Venetian, and the Hacienda resort followed on December 31 ahead of the Mandalay Bay.",
+    "The maiden flight of Ariane 5 self-destructed 37 seconds after leaving the Guiana Space Centre on June 4, taking the European Space Agency's Cluster with it, and the cause was a bug in the computer control software. An amateur astronomer in southern Japan found Comet Hyakutake on January 30, and Comet Hale-Bopp came into naked-eye view in May. Copernicium was made at Darmstadt on February 9 by fusing a lead-208 nucleus with a zinc-70 nucleus. Columbia flew the longest Space Shuttle mission yet on STS-80 from November 19.",
+    "The original Kiss lineup appeared in full makeup at the Grammy ceremony in Los Angeles on February 28, introduced by Tupac Shakur, for the first time since 1979. Jarvis Cocker climbed onto the stage during Michael Jackson's performance of Earth Song at the BRIT Awards on February 19 and lifted his shirt. La Fenice in Venice burned down on January 29, the same night Garth Brooks refused an American Music Award and said that music is made up of a lot of people. David Brookes was fined 45 pounds at Hampstead Magistrates' Court on October 31 for piping on Hampstead Heath."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.taliban_kabul",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.games#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Al Gore was Vice President and William Rehnquist Chief Justice. Newt Gingrich was Speaker of the House and the 104th Congress sat through the year. Bob Dole was Senate majority leader until June 12 and Trent Lott from that day. Clinton gave the State of the Union address on January 23. Hillary Clinton testified before a grand jury in the Whitewater investigation on January 26.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Clinton was re-elected, beating the Republican challenger Bob Dole and the Reform Party candidate Ross Perot",
+      "detail": "The US year page says the election had the lowest voter turnout since 1924. Jim Lehrer moderated the first debate between Clinton and Dole on October 6, Al Gore and Jack Kemp debated at the Mahaffey Theater on October 9, and the last presidential debate was held at the University of San Diego on October 16. Dole had been nominated with Jack Kemp on August 15 and Clinton and Gore were renominated at the Democratic convention in Chicago on August 29.",
+      "date": "1996-11-05",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "pol.legislation": {
+      "section": "politics",
+      "label": "Laws Clinton signed",
+      "value": [
+        "Line Item Veto Act, April 9, granting the president line-item veto power",
+        "Antiterrorism and Effective Death Penalty Act, April 24",
+        "War Crimes Act, August 21",
+        "Personal Responsibility and Work Opportunity Reconciliation Act, August 22, which the US year page calls a landmark",
+        "Electronic Freedom of Information Act Amendments, October 2"
+      ],
+      "detail": "The US year page dates all five to the day. It adds that the Supreme Court would later strike the Line Item Veto Act down in Clinton v. City of New York, which is not dated here because that ruling falls outside this year.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "pol.communications_decency": {
+      "section": "politics",
+      "label": "Courts block the internet indecency law",
+      "value": "A panel of federal judges in Philadelphia blocked the Communications Decency Act's ban on indecency online, saying it would infringe the free speech rights of adults, and on July 29 a federal court struck down the child protection portion as too broad",
+      "detail": "The US year page carries both rulings, the June 12 injunction and the July 29 decision, and names no judge in either.",
+      "date": "1996-06-12",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "pol.unabomber": {
+      "section": "politics",
+      "label": "Unabomber arrested",
+      "value": "Theodore Kaczynski was taken at his cabin in Montana",
+      "detail": "The US year page files the arrest under the suspected Unabomber and gives neither a charge nor a count of the bombings.",
+      "date": "1996-04-03",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "pol.olympic_park_bombing": {
+      "section": "politics",
+      "label": "Centennial Olympic Park bombing",
+      "value": "A bomb went off in the park in Atlanta during the Summer Olympics, killing 2 people and injuring 111",
+      "detail": "Both cached year pages carry the bombing with the same toll and neither names a suspect.",
+      "date": "1996-07-27",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "world.dunblane": {
+      "section": "world",
+      "label": "Dunblane massacre",
+      "value": "Thomas Hamilton, an unemployed former shopkeeper, walked into Dunblane Primary School in Scotland and shot sixteen infant school pupils and one teacher dead before killing himself",
+      "detail": "The year page carries the killing in one line and gives no reaction, no inquiry and no change in the law.",
+      "date": "1996-03-13",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "world.port_arthur": {
+      "section": "world",
+      "label": "Port Arthur massacre",
+      "value": "Martin Bryant killed 35 people at the Port Arthur tourist site in Tasmania",
+      "detail": "The Australian government answered on May 10 with a nationwide ban on private possession of automatic and semi-automatic rifles, which the year page ties directly to the shooting. Bryant was sentenced on November 19 to 35 consecutive life sentences plus 1,035 years.",
+      "date": "1996-04-28",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "world.taliban_kabul": {
+      "section": "world",
+      "label": "Taliban take Kabul",
+      "value": "The Taliban captured the Afghan capital, drove out President Burhanuddin Rabbani and executed the former leader Mohammad Najibullah",
+      "detail": "They retook Bagram Air Base on December 27, which the year page says solidified their buffer zone north of the city.",
+      "date": "1996-09-27",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "world.air_disasters": {
+      "section": "world",
+      "label": "Aircraft losses the year page records",
+      "value": [
+        "January 8, a Zairean cargo plane came down in a crowded market in Kinshasa, killing about 348 people on the ground and injuring 500",
+        "February 6, Birgenair Flight 301 crashed on a charter flight from the Caribbean to Germany",
+        "July 17, TWA Flight 800 exploded off the coast of Long Island, killing all 230 on board",
+        "November 12, a Saudi Arabian Airlines Boeing 747 collided with a Kazakhstan Airlines Il-76 near New Delhi, killing 349",
+        "November 23, Ethiopian Airlines Flight 961 was hijacked and crashed into the Indian Ocean off the coast of Comoros after running out of fuel, killing 125"
+      ],
+      "detail": "The Charkhi Dadri collision of November 12 is the largest loss of the five. The year page's own picture caption calls it the world's deadliest mid-air collision, and the caption is commented out of the live article, so that description is not stated as fact here.",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "world.khobar_towers": {
+      "section": "world",
+      "label": "Khobar Towers bombing",
+      "value": "A bomb at the housing complex in Saudi Arabia killed 19 US servicemen and one Saudi",
+      "detail": "Two months later, on August 23, Osama bin Laden wrote a declaration against American forces in the country. The two cached year pages give it two different titles, the year page The Declaration of Jihad on the Americans Occupying the Country of the Two Sacred Places and the US year page The Declaration of War on the Americans Occupying the same, so neither title is stated as the text's name here. The US year page gives the same date and the same toll for the bombing.",
+      "date": "1996-06-25",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "world.yeltsin": {
+      "section": "world",
+      "label": "Yeltsin re-elected in Russia",
+      "value": "Boris Yeltsin won a second round of voting on July 3 and was sworn in at the Kremlin on August 9",
+      "detail": "Fighting between Russian soldiers and Chechen rebels ran from January 9 to 20, Chechen fighters attacked the Russian government headquarters in Grozny on March 6 and killed 70 Russian soldiers, Yeltsin met rebel leaders on May 27, and a peace convoy carrying separatist leaders and international diplomats was targeted on June 11. The International Monetary Fund approved a $10.2 billion loan to Russia on March 26.",
+      "date": "1996-07-03",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "world.test_ban_treaty": {
+      "section": "world",
+      "label": "Comprehensive Nuclear-Test-Ban Treaty signed",
+      "value": "The treaty was signed, and the year page adds that it comes into force 180 days after ratification by the 44 Annex 2 countries",
+      "detail": "The year page's parenthesis actually reads that the treaty will be ratified 180 days after ratification, which is circular, so this fact states the condition rather than quoting it. Clinton signed for the United States on September 24. France had carried out its last nuclear weapons test on January 21. The Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization was established on November 19.",
+      "date": "1996-09-10",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Independence Day, $817,400,891, 20th Century Fox",
+        "Twister, $499,230,797, Warner Bros. and Universal",
+        "Mission: Impossible, $457,696,359, Paramount",
+        "The Rock, $335,062,621, Touchstone",
+        "The Hunchback of Notre Dame, $325,338,851, Walt Disney Pictures"
+      ],
+      "detail": "Worldwide gross rather than North American. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it says the top ten films released this year by worldwide gross are as follows, so header and text agree. 101 Dalmatians was sixth at $320,689,294 for Walt Disney Pictures, Ransom seventh at $309,492,681 for Touchstone, The Nutty Professor eighth at $273,961,019 for Universal, Jerry Maguire ninth at $273,552,592 for Sony and TriStar, and Space Jam tenth at $250,180,384 for Warner Bros.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The English Patient, produced by Saul Zaentz",
+      "detail": "Awarded the following spring at the 69th Academy Awards, held at the Shrine Auditorium in Los Angeles with Billy Crystal hosting for the fifth time, Gil Cates producing and Louis J. Horvitz directing. The English Patient took twelve nominations and won nine awards, which the ceremony page says was the first nine-Oscar haul since The Last Emperor. Fargo and Shine were second with seven nominations each. The other Best Picture nominees were Fargo, Jerry Maguire, Secrets & Lies and Shine. Zaentz became the third person to produce three Best Picture winners and the seventh to take an Oscar and the Irving G. Thalberg Memorial Award in the same year. The ABC telecast ran three hours and 35 minutes, averaged 40.08 million viewers over its length and 27.49 percent of households over a 46.31 share, with 73.83 million watching all or part, and the page calls it the least watched ceremony in a decade.",
+      "source": "https://en.wikipedia.org/wiki/69th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Geoffrey Rush, Shine, as David Helfgott",
+        "Best Actress, Frances McDormand, Fargo, as Marge Gunderson",
+        "Best Supporting Actor, Cuba Gooding Jr., Jerry Maguire, as Rod Tidwell",
+        "Best Supporting Actress, Juliette Binoche, The English Patient, as Hana"
+      ],
+      "detail": "The ceremony page says McDormand was the first person to win for a role in a film directed by their spouse. Anthony Minghella won Best Directing for The English Patient, Ethan and Joel Coen the original screenplay for Fargo, and Billy Bob Thornton the adapted screenplay for Sling Blade from his own short film. Gabriel Yared won the dramatic score for The English Patient and Rachel Portman the musical or comedy score for Emma, which the page says made her the first woman to win for composing a musical score. Andrew Lloyd Webber and Tim Rice took Best Original Song for You Must Love Me from Evita. Michael Kidd received an Honorary Award for his services to dance on the screen. The film page's awards table gives the Golden Globe for drama to The English Patient and for comedy or musical to Evita, and the BAFTA award for Best Film to The English Patient and Best Director to Joel Coen.",
+      "source": "https://en.wikipedia.org/wiki/69th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Kolya, the Czech Republic, in Czech, directed by Jan Sverak, the winner",
+        "A Chef in Love, Georgia, in French, Georgian and Russian, directed by Nana Jorjadze",
+        "The Other Side of Sunday, Norway, in Norwegian, directed by Berit Nesheim",
+        "Prisoner of the Mountains, Russia, in Russian, directed by Sergei Bodrov",
+        "Ridicule, France, in French, directed by Patrice Leconte"
+      ],
+      "detail": "The ceremony page states each film's country, language and director in this category. Secrets & Lies, directed by Mike Leigh, was nominated for Best Picture instead, and Brenda Blethyn took the Golden Globe for drama and the BAFTA for her performance in it. The film page's awards table gives Ridicule the Critics' Choice and BAFTA awards in the foreign language category where the Academy gave Kolya. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/69th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases the pages date",
+      "value": [
+        "Twister, May 10, which the US year page calls the highest-grossing film in the history of Warner Bros.",
+        "The Hunchback of Notre Dame, June 21, Walt Disney Pictures' 34th feature",
+        "The Nutty Professor, June 28, Universal's remake of a 1963 film of the same name",
+        "Harriet the Spy, July 10, the first feature film Nickelodeon released",
+        "Space Jam, November 15, directed by Joe Pytka",
+        "Scream, December 20, which the film page says started slowly and passed $100 million in domestic sales"
+      ],
+      "detail": "The Hunchback of Notre Dame had premiered on June 19 at the Superdome in New Orleans, with free admission and an audience of 65,000, which the film page calls one of the largest premieres for a motion picture. Production on Titanic began in mid-July. The first Critics' Choice Awards ceremony was held on January 22. Rumble in the Bronx was released in North America and became Jackie Chan's first major box office hit there, earning over twenty times its budget in the United States alone. Dirk Bogarde had a severe stroke on September 20 at 75. The film page gives no release date for Independence Day, Fargo, Mission: Impossible or The English Patient, so none is written here.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, at an average ticket price of $4.42. The film page says the theatrical year reached a $5.8 billion domestic gross and that a record twelve films earned over $100 million by the end of December, with Independence Day above $300 million.",
+      "detail": "The same page says the average cost of producing and marketing a film rose to $60 million, up 20 percent on the year before, that the record salaries paid to Sylvester Stallone, Tom Cruise, Arnold Schwarzenegger, Mel Gibson, Jim Carrey, Harrison Ford, Michael Douglas, Sharon Stone, Julia Roberts and Demi Moore came under industry scrutiny after a run of expensive failures, and that studios cut their slates by fifty percent in response. None of the cached pages says anything about tape rental, laser disc or a television premiere, so this fact claims nothing about home viewing.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.42",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1996",
+      "value": [
+        "ER, NBC, 21.2 rating",
+        "Seinfeld, NBC, 20.5",
+        "Suddenly Susan, NBC, 17.0",
+        "Friends, NBC, 16.8",
+        "The Naked Truth, NBC, 16.8"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NBC held the top six places, with Fired Up sixth on 16.5. Monday Night Football was seventh on 16.0 for ABC, The Single Guy eighth on 14.1 for NBC, Home Improvement ninth on 14.0 for ABC, Touched by an Angel tenth on 13.6 and 60 Minutes eleventh on 13.3, both for CBS. Friends and The Naked Truth tied for fourth. The X-Files tied with Cosby for 21st on 11.2.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1996%E2%80%9397"
+    },
+    "tv.fox_news": {
+      "section": "tv",
+      "label": "Fox News Channel launches",
+      "value": "The channel went out on US cable systems, with Fox News Now, Hannity & Colmes, The O'Reilly Factor and Your World with Neil Cavuto all premiering the same day",
+      "detail": "The television page's launch table lists the year's other new channels: BET on Jazz on January 15, the Sundance Channel on February 1, America's Health Network and Starz! 2 in March, Ovation on April 21, Nick at Nite's TV Land on April 29, Animal Planet on June 1, M2 on August 1, Fox Sports Arizona on September 7, four Discovery digital channels on October 7, the Research Channel in November, ESPNews on November 1, HBO Family and CN8 on December 1 and CNN/SI on December 12. DISH Network began as a service of EchoStar on March 4.",
+      "date": "1996-10-07",
+      "source": "https://en.wikipedia.org/wiki/1996_in_American_television"
+    },
+    "tv.consolidation": {
+      "section": "tv",
+      "label": "Owners bought each other",
+      "value": [
+        "February 9, Disney finalized its $19 billion acquisition of Capital Cities/ABC",
+        "July 17, News Corporation announced it would buy New World in an all-stock transaction worth $2.48 billion",
+        "October 10, Turner Broadcasting System merged into Time Warner",
+        "December 8, Paramount Television and Viacom bought a 50 percent stake in UPN from Chris-Craft and United Television for about $160 million"
+      ],
+      "detail": "The television page carries three of the four. The Disney purchase of Capital Cities/ABC is the exception: the year page dates the completion to February 9 and gives the price, and the television page does not carry it at all. The music page's undated notes say the Telecommunications Act of 1996 deregulated the number of radio and television stations any one broadcaster could own. Individual stations changed hands and networks all year: Paxson Communications completed a $40 million purchase of WAKC-TV in Akron on February 28 and dropped it from ABC on December 31 after 53 years, WBRC-TV in Birmingham became a Fox-owned station on September 8 after 47 years with ABC, and affiliates swapped networks in Bakersfield, Cincinnati and Charleston.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "3rd Rock from the Sun, NBC, January 9",
+        "Moesha, UPN, January 23",
+        "VH1 Storytellers, VH1, February 20",
+        "Blue's Clues, Nickelodeon, September 8",
+        "Everybody Loves Raymond, CBS, September 13",
+        "Spin City, ABC, September 17",
+        "Sabrina the Teenage Witch, ABC, September 27",
+        "Arthur, PBS, October 7",
+        "Pop-Up Video, VH1, October 27"
+      ],
+      "detail": "The television page's debut table gives each date and network. Nickelodeon added a half-hour of programming on weekday evenings from October 7, branded More Nickelodeon, carrying new episodes of The Secret World of Alex Mack alongside the new series Hey Arnold!, KaBlam! and The Wubbulous World of Dr. Seuss, and told viewers to collect game pieces from Blockbuster Video stores and Nintendo Power for a chance to win a Nintendo 64. Fred Rogers guest starred on Dr. Quinn, Medicine Woman on February 17, the only time he played a fictional character on television. Bob Hope's last television special aired on NBC on November 23. The final episode of the original Teenage Mutant Ninja Turtles ran on CBS on November 2.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_American_television"
+    },
+    "tv.sports_broadcasting": {
+      "section": "tv",
+      "label": "Sport on television",
+      "value": "Fox introduced the FoxTrax glowing puck during its telecast of the 46th National Hockey League All-Star Game on January 20, began broadcasting Major League Baseball on June 1 and carried its first World Series from October 20 to 26",
+      "detail": "The first Major League Soccer game went out live on ESPN on April 6, with San Jose beating D.C. United on a goal by Eric Wynalda at Spartan Stadium. Zenith showed the first HDTV-compatible front projection television in the United States on June 3, and WRAL-TV in Raleigh was awarded the first experimental high-definition licence in the country on June 19. The television page dates to March 1 the claim that more than a billion households worldwide owned a television set. The O. J. Simpson civil trial opened on September 17.",
+      "date": "1996-01-20",
+      "source": "https://en.wikipedia.org/wiki/1996_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Macarena, the Bayside Boys Mix, Los del Rio",
+        "One Sweet Day, Mariah Carey and Boyz II Men",
+        "Because You Loved Me, Celine Dion",
+        "Nobody Knows, The Tony Rich Project",
+        "Always Be My Baby, Mariah Carey"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 28. Two versions of Macarena reached the year-end chart, and the Bayside Boys Mix spent 14 weeks at number one on the Hot 100. The music page says the sixteen consecutive weeks One Sweet Day spent at number one, the longest run in the chart's history, ended on March 16 when Because You Loved Me took the top. Mariah Carey placed three songs from Daydream, all three singles from LL Cool J's Mr. Smith made the year-end chart, and Hootie & the Blowfish put Time at 50, Old Man & Me at 74 and Only Wanna Be with You at 99.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1996"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "As a file, for the first time from a major label. David Bowie's Telling Lies was released by Virgin Records as a digital single on September 11, and Bowie launched it by hosting an online chat in which he and two other people pretending to be him took questions.",
+      "detail": "The music page carries no sales figure for compact discs, tapes or records this year. What it does carry about how music reached people is the Telecommunications Act of 1996, which it says deregulated the number of radio and television stations any one broadcaster could own, and two channel launches: MTV2 on August 1, whose first video was Beck's Where It's At, and MTV India on October 28. Wal-Mart announced on September 10 that it would not carry Sheryl Crow's self-titled album over a lyric naming the chain.",
+      "date": "1996-09-11",
+      "source": "https://en.wikipedia.org/wiki/1996_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "All Eyez on Me, 2Pac, February 13",
+        "Roots, Sepultura, February 20",
+        "Evil Empire, Rage Against the Machine, April 16",
+        "Reasonable Doubt, Jay-Z, June 25",
+        "One in a Million, Aaliyah, August 27",
+        "Aenima, Tool, September 17",
+        "Pinkerton, Weezer, September 24",
+        "Life Is Peachy, Korn, October 15",
+        "Spice, Spice Girls, November 4 in the United Kingdom",
+        "Infinite, Eminem, November 12"
+      ],
+      "detail": "The music page calls All Eyez on Me the first rap double album and says it went platinum quickly and reached number one on the Billboard 200. Reasonable Doubt and Infinite were debuts. Life Is Peachy entered the Billboard 200 at number three. Pinkerton sold poorly and was panned. The Spice Girls had released Wannabe as their first single on July 8 in the United Kingdom, and the page says it reached number one in 31 countries and became the biggest-selling debut single by an all-female group. The page's album tables also list The Score by the Fugees, Odelay by Beck, Load by Metallica, Tidal by Fiona Apple, New Adventures in Hi-Fi by R.E.M., Endtroducing..... by DJ Shadow and Antichrist Superstar by Marilyn Manson without giving each a day.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_music"
+    },
+    "music.knebworth": {
+      "section": "music",
+      "label": "Oasis at Knebworth",
+      "value": "The band played what the music page calls the largest free-standing gigs in British history, on two nights at Knebworth House in Stevenage, with 2.7 million people applying for tickets and 175,000 attending each night",
+      "detail": "John Squire, who had announced his departure from The Stone Roses on April 1, came on to play guitar on Champagne Supernova. Oasis had played the second of two gigs at Maine Road in Manchester on April 28.",
+      "date": "1996-08-10",
+      "source": "https://en.wikipedia.org/wiki/1996_in_music"
+    },
+    "music.bands": {
+      "section": "music",
+      "label": "Bands that reformed, split or played a last show",
+      "value": [
+        "Take That announced they were disbanding, February 13",
+        "The Beatles released Real Love, a finished version of a John Lennon demo, March 4",
+        "Phil Collins announced he was leaving Genesis, March 28",
+        "The Sex Pistols opened a reunion tour in Lahti on June 21 and closed it in Santiago on December 7",
+        "Kiss opened the Alive/Worldwide reunion tour at Tiger Stadium in Detroit on June 28, the first tour by the original lineup since 1979",
+        "The Ramones played their final show at The Palace in Hollywood, August 6",
+        "Slash announced by fax that he was leaving Guns N' Roses, and Ian Brown and Mani dissolved The Stone Roses, both on October 29",
+        "Crowded House played a farewell concert on the steps of the Sydney Opera House to almost 200,000 people, November 24"
+      ],
+      "detail": "Alice in Chains played their last concert with Layne Staley in Kansas City on July 3. Sammy Hagar left Van Halen on June 26, David Lee Roth made a surprise appearance with the band at the MTV Video Music Awards on September 4, and on October 4 Eddie and Alex Van Halen announced that Gary Cherone would sing instead of Roth. Max Cavalera left Sepultura on December 16. The Monkees toured for their thirtieth anniversary.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Eimear Quinn won for Ireland with The Voice, at the Oslo Spektrum, which the music page calls Ireland's record seventh win",
+      "detail": "The 25th OTI Festival, at the Teatro Nacional of the Casa de la Cultura Ecuatoriana in Quito on December 14, was won by Manos, written by Chema Puron and Eduardo Leiva and performed by Anabel Russ for Spain. The Mercury Music Prize went to Different Class by Pulp. The Rock and Roll Hall of Fame inducted David Bowie, Gladys Knight and the Pips, Jefferson Airplane, Little Willie John, Pink Floyd, The Shirelles and The Velvet Underground. Julia Fischer won the Eurovision Young Musicians final in Lisbon on June 12.",
+      "date": "1996-05-18",
+      "source": "https://en.wikipedia.org/wiki/1996_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Nintendo 64, released in Japan on June 23 and in North America on September 29, which the games page calls the first true 64-bit home console",
+        "Super Mario 64, Nintendo, June 23, on the same day as the console",
+        "Game Boy Pocket, Nintendo, July 20 in Japan, 30 percent smaller than the Game Boy",
+        "Tamagotchi, Bandai's virtual pet handheld, November 23 in Japan",
+        "Pokemon Red and Green, Game Freak and Nintendo, February 27, on the Game Boy",
+        "Resident Evil, Capcom, March 22, on the PlayStation",
+        "Quake, id Software, June 22",
+        "Crash Bandicoot, Naughty Dog and Sony, September 9",
+        "Tomb Raider, Core Design and Eidos, November 14"
+      ],
+      "detail": "The games page puts the PlayStation first in console sales at 6,600,000 or more worldwide, the Game Boy and the Saturn joint second at 4,000,000 or more each, and the Nintendo 64 fourth at 2,758,999 or more. It calls the year a major shakeup in a crowded market and lists the Virtual Boy, Atari Jaguar, 3DO, Sega CD, 32X and CD-i as all discontinued. Super Mario 64 took game of the year from the Chicago Tribune, Digitiser, Electronic Gaming Monthly, Game Informer, the Golden Joystick Awards and the Spotlight Awards. The second Electronic Entertainment Expo ran in Los Angeles from May 16 to 18. GameSpot launched on May 1. Valve was founded on August 24, IGN on September 29 and Red Storm Entertainment on November 13 by Tom Clancy and Virtus Corp. CUC International bought Sierra On-Line, Blizzard Entertainment and Davidson & Associates on July 24 for about $3 billion in a stock swap. Battle.net was released on December 31.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_video_games"
+    },
+    "tech.web_search": {
+      "section": "tech",
+      "label": "Two page-ranking search engines start",
+      "value": "The Google search engine began in January as BackRub, a research project using PageRank run by Larry Page and Sergey Brin, doctoral students at Stanford, and Robin Li originated the page-ranking engine RankDex during the year",
+      "detail": "The science page dates BackRub to the month and gives RankDex no month at all, and its citation for RankDex is a patent filed in a later year, so no day appears here. Neither the science page nor either year page ranks or counts websites for the year, so this fact makes no claim about how many there were.",
+      "date": "1996-01",
+      "source": "https://en.wikipedia.org/wiki/1996_in_science"
+    },
+    "tech.internet_archive": {
+      "section": "tech",
+      "label": "Internet Archive founded",
+      "value": "The archive was set up, and Brewster Kahle with Bruce Gilliat wrote the Wayback Machine software to crawl and store World Wide Web pages",
+      "detail": "The year page dates the founding to May 10 and the science page dates the Wayback Machine software to the year without a day. Jennifer Ringley began broadcasting from her dorm room at Dickinson College in Carlisle, Pennsylvania on April 3, which the science page calls an early practice of lifecasting. The Shetland Times and The Shetland News went to court in October over copyright infringement and deep linking between their websites, which the same page calls a landmark case. IRCnet was founded during the year.",
+      "date": "1996-05-10",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "tech.deep_blue": {
+      "section": "tech",
+      "label": "Deep Blue beats Kasparov once",
+      "value": "The IBM machine defeated Garry Kasparov for the first time on February 10, and Kasparov beat it in a second match in Philadelphia on February 17",
+      "detail": "The science page carries the first win and the US year page carries the second match, and the two do not contradict each other. Neither gives a game score for the match as a whole.",
+      "date": "1996-02-10",
+      "source": "https://en.wikipedia.org/wiki/1996_in_science"
+    },
+    "tech.dolly": {
+      "section": "tech",
+      "label": "Dolly the sheep born",
+      "value": "The first mammal cloned from an adult cell was born at the Roslin Institute in Midlothian, Scotland",
+      "detail": "Both the year page and the science page carry the birth on the same day. The science page also records the first full sequencing of a eukaryotic genome, the yeast Saccharomyces cerevisiae, and the first fossil of Sinosauropteryx prima found in China in August, the first theropod showing evidence of feathers.",
+      "date": "1996-07-05",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "tech.devices": {
+      "section": "tech",
+      "label": "Hardware and standards",
+      "value": [
+        "The first USB specification was issued in January",
+        "The Advanced Photo System film format was introduced",
+        "Zenith showed the first HDTV-compatible front projection television in the United States, and broadcasters, television and computer makers set industry standards for digital HDTV",
+        "The General Motors EV1, December 6, which the US year page calls the first production electric car of the modern era"
+      ],
+      "detail": "The science page dates the Advanced Photo System to the year without a day and the USB entry to January. The last fourth-generation Chevrolet Corvette left the assembly line on June 20. Apple bought NeXT on December 20, the company Steve Jobs founded after leaving Apple. The Keck II telescope was dedicated in Hawaii on May 8, the second 9.8 metre reflector at the observatory on Mauna Kea.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.23 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$4.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. The rate rose during the year from the $4.25 that had stood since 1991.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The president was re-elected without much argument and the stock market kept climbing, while the news that stopped people came from places nobody could reach: a primary school in Scotland, a tourist site in Tasmania, a park in Atlanta full of people who had come to watch running. The things to want were a sheep in Scotland with no father, a console that put Mario in three dimensions, and a dance you could learn off a video.",
+      "detail": ""
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Wislawa Szymborska",
+        "Peace, Carlos Filipe Ximenes Belo and Jose Ramos-Horta",
+        "Physics, David M. Lee, Douglas D. Osheroff and Robert C. Richardson",
+        "Chemistry, Robert Curl, Harold Kroto and Richard Smalley",
+        "Medicine, Peter C. Doherty and Rolf M. Zinkernagel",
+        "Economics, James Mirrlees and William Vickrey"
+      ],
+      "detail": "The year page gives no dates for any of them, and the science page lists the same science winners. The Turing Award went to Amir Pnueli, the Kyoto Prize in Arts and Philosophy to Willard Van Orman Quine, the Wollaston Medal to Nicholas John Shackleton and the Glenn Gould Prize to Toru Takemitsu, with Tan Dun as his protege.",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "culture.wales_divorce": {
+      "section": "culture",
+      "label": "The Prince and Princess of Wales divorce",
+      "value": "The marriage was formally ended at the High Court of Justice in London, and the Princess was restyled Diana, Princess of Wales",
+      "detail": "The Queen had issued letters patent on the styles of divorced former wives of British princes a week earlier, on August 21. Mother Teresa received honorary United States citizenship on November 16.",
+      "date": "1996-08-28",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    "culture.rent": {
+      "section": "culture",
+      "label": "Rent opens on Broadway",
+      "value": "The musical opened at the Nederlander Theatre on April 29, after a first public performance at the New York Theatre Workshop on January 26, the day after its creator Jonathan Larson died",
+      "detail": "The US year page dates the Broadway opening and the music page dates the workshop performance and Larson's death. Neither gives a run length or a box office figure.",
+      "date": "1996-04-29",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Atlanta Braves in six games, the Yankees' 23rd title and their first in 18 years",
+      "detail": "The television page dates the series from October 20 to 26 and says it was the first World Series Fox broadcast. The US year page dates the clinching win to October 26. Nobody reached the 75 percent of votes needed for election to the Baseball Hall of Fame on January 8, which the sports page says had not happened in 25 years, and Phil Niekro came closest with 68 percent.",
+      "date": "1996-10-26",
+      "source": "https://en.wikipedia.org/wiki/1996_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXX",
+      "value": "The Dallas Cowboys beat the Pittsburgh Steelers 27 to 17 at Sun Devil Stadium in front of 76,347, with the cornerback Larry Brown named most valuable player",
+      "detail": "The US year page says the win made Dallas the first National Football League franchise to take three Super Bowls in a span of four seasons. Nebraska had beaten Florida 62 to 24 in the Fiesta Bowl for the previous college season's national championship. The Cleveland Browns were deactivated and moved to Baltimore as the Ravens. The Scottish Claymores won World Bowl 96 over the Frankfurt Galaxy 32 to 27. The Big 12 Conference opened with Kansas State beating Texas Tech 21 to 14 in Manhattan, Kansas on August 31.",
+      "date": "1996-01-28",
+      "source": "https://en.wikipedia.org/wiki/1996_in_sports"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics in Atlanta",
+      "value": "The Games opened on July 19 and closed on August 4, with the United States taking the most medals at 101 and the most gold at 44",
+      "detail": "Michael Johnson won the 200 metres final on August 1 in a world record time, and the sports page named him Associated Press Male Athlete of the Year and the swimmer Amy Van Dyken Female Athlete of the Year. Andre Agassi won the men's singles tennis and Lindsay Davenport the women's, with Todd Woodbridge and Mark Woodforde taking the men's doubles and Gigi Fernandez and Mary Joe Fernandez the women's. The Netherlands won the men's field hockey and volleyball and Australia the women's field hockey.",
+      "date": "1996-07-19",
+      "source": "https://en.wikipedia.org/wiki/1996_in_sports"
+    },
+    "sports.nba_finals": {
+      "section": "sports",
+      "label": "NBA Finals",
+      "value": "The Chicago Bulls beat the Seattle SuperSonics four games to two, after a regular season of 72 wins and 10 losses",
+      "detail": "The US year page dates the title to June 16 and the regular-season record to April 16, and credits Michael Jordan with leading the team. Kentucky beat Syracuse 76 to 67 in the NCAA men's championship on April 1. The draft was held at the Continental Airlines Arena in East Rutherford and the sports page calls it one of the greatest in the league's history, naming Kobe Bryant, Ray Allen, Allen Iverson and Steve Nash among the class.",
+      "date": "1996-06-16",
+      "source": "https://en.wikipedia.org/wiki/1996_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Colorado Avalanche over the Florida Panthers, four games to none, the franchise's first, in its first season after leaving Quebec City",
+        "Cricket World Cup, Sri Lanka beat Australia by seven wickets in the final on March 17",
+        "UEFA Euro 1996, Germany, in a tournament England hosted from June 8 to 30",
+        "Tour de France, Bjarne Riis of Denmark, with Pavel Tonkov taking the Giro d'Italia",
+        "Grey Cup, Toronto Argonauts 43, Edmonton Eskimos 37",
+        "World Cup of Hockey, the United States over Canada, which the US year page dates to September 14",
+        "AFL premiership, North Melbourne over the Sydney Swans in the hundredth season"
+      ],
+      "detail": "Mario Lemieux of the Pittsburgh Penguins took both the Art Ross Trophy as the leading regular-season scorer and the Hart Memorial Trophy as most valuable player. England won the 102nd Five Nations Championship, and SANZAR started the Super 12, won by the Auckland Blues, and the Tri Nations, won by New Zealand. Nick Faldo won the Masters, Steve Jones the US Open, Tom Lehman the British Open and Mark Brooks the PGA Championship, with Lehman leading the money list at $1,780,159. Karrie Webb led the LPGA Tour with $1,002,000 and became the first woman to earn more than a million dollars in a golf season. Tiger Woods won a third consecutive US Amateur, turned professional in September and was named PGA Tour Rookie of the Year. Steffi Graf won the French Open, Wimbledon and the US Open, Monica Seles the Australian Open, and the men's titles went to Boris Becker, Yevgeny Kafelnikov, Richard Krajicek and Pete Sampras. Stephen Hendry beat Peter Ebdon 18 to 12 at the World Snooker Championship. Oscar De La Hoya beat Julio Cesar Chavez on June 7 for the WBC junior welterweight title. The inaugural Dubai World Cup, promoted as the world's richest horse race, was won by Cigar.",
+      "source": "https://en.wikipedia.org/wiki/1996_in_sports"
+    },
+    "deaths.kelly": {
+      "section": "deaths",
+      "label": "Gene Kelly",
+      "value": "Died February 2. Born 1912",
+      "detail": "Actor, dancer and director, at 83. The film page's death table names Singin' in the Rain and An American in Paris.",
+      "date": "1996-02-02",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "deaths.burns": {
+      "section": "deaths",
+      "label": "George Burns",
+      "value": "Died March 9. Born 1896",
+      "detail": "Comedian and actor, at 100. The film page's death table names Oh, God! and The Sunshine Boys.",
+      "date": "1996-03-09",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "deaths.fitzgerald": {
+      "section": "deaths",
+      "label": "Ella Fitzgerald",
+      "value": "Died June 15, at 79",
+      "detail": "Jazz singer. The music page's death list gives an age rather than a birth year, and the US year page does not carry her, so no birth year is written here.",
+      "date": "1996-06-15",
+      "source": "https://en.wikipedia.org/wiki/1996_in_music"
+    },
+    "deaths.shakur": {
+      "section": "deaths",
+      "label": "Tupac Shakur",
+      "value": "Died September 13. Born 1971",
+      "detail": "Rapper, poet and actor, at 25. He was shot several times in a drive-by on September 7 while being driven from the MGM Grand in Las Vegas after the Mike Tyson and Bruce Seldon boxing match, and died six days later.",
+      "date": "1996-09-13",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    },
+    "deaths.sagan": {
+      "section": "deaths",
+      "label": "Carl Sagan",
+      "value": "Died December 20. Born 1934",
+      "detail": "Astronomer. The US year page calls him a cosmologist and the science page an astronomer.",
+      "date": "1996-12-20",
+      "source": "https://en.wikipedia.org/wiki/1996_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1996. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it says the top ten films released in 1996 by worldwide gross are as follows, so header and text agree. film.gross names worldwide in both label and detail so the figures are not read as North American. Date checks. This is a US presidential election year, so the November 5 date was checked against the constitutional rule rather than copied: November 1 fell on a Friday, the first Monday was November 4, and the Tuesday after it was November 5, which is what both the year page and the US year page give. No dedicated article was pulled, because there was no disagreement to resolve. The 69th Academy Awards honouring this year of film fall in the following spring, so film.best_picture, film.acting_awards and film.world_cinema name the winners, the host, the producer, the director, the venue and the telecast figures without a ceremony date, and no fact carries a token later than 1996. The 68th Academy Awards of March 25, hosted by Whoopi Goldberg at the Dorothy Chandler Pavilion, are out of the file for the same reason the 1995 file leaves out the 67th: they honoured the previous year of film and would put a second Best Picture on the page. The 38th Grammy Awards of February 28 in Los Angeles, hosted by Ellen DeGeneres, which gave Album of the Year to Alanis Morissette's Jagged Little Pill and Record and Song of the Year to Seal's Kiss from a Rose and Best New Artist to Hootie & the Blowfish, are left out of the facts on the same ground, since they honoured the previous year's recordings. The Kiss reunion at that ceremony is in the texture, because the appearance itself happened this year. The Golden Globe, Critics' Choice and BAFTA ceremony dates on the film page's awards table all fall in the following year, so film.acting_awards and film.world_cinema name those winners without dating the ceremonies. Section windows that open this year. tech.web_sites opens in 1996, and no cached page ranks or counts websites, gives a host count or gives a user count, so no fact does either. tech.web_search reaches that window by the tech.web_ prefix and carries what the science page does say about the web this year, the origin of BackRub and RankDex, and says in its own detail that it makes no claim about how many sites there were. culture.memes also opens in 1996 and is not used, because the cached pages carry no meme. The one claim that comes close, that the Bayside Boys remix of Macarena became an international phenomenon, sits inside an HTML comment on the year page in a picture caption whose own text says the event is not listed in the article, so it is not treated as a sourced claim; the chart facts about Macarena that the Hot 100 page does support are in music.hot100_year_end instead. The same commented-out caption is the only place the year page calls the Charkhi Dadri collision the world's deadliest mid-air collision, which world.air_disasters says rather than states. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.khobar_towers cites the year page and takes the confirmation of date and toll from the US year page, and the two pages give the bin Laden declaration of August 23 two different titles, Jihad on one and War on the other, which the fact names as a disagreement rather than resolving; tv.consolidation cites the television page, which carries three of its four items, and takes the completion of the Disney purchase of Capital Cities/ABC from the year page, which is the only cached page with it; film.releases cites the film page and takes the Twister and Space Jam dates, the Disney 34th feature line and the Nutty Professor remake line from the US year page; film.how_people_watched cites the film page's Context section for the $5.8 billion domestic gross, the twelve $100 million films and the $60 million average cost; tv.consolidation cites the television page and takes the Telecommunications Act line from the music page's undated notes; tv.sports_broadcasting cites the television page and takes the digital HDTV standards line from the science page; music.listening_format cites the music page for the Bowie digital single, the Telecommunications Act, MTV2, MTV India and the Wal-Mart refusal; tech.deep_blue cites the science page for the February 10 win and takes the February 17 match from the US year page; tech.dolly cites the year page for the birth and takes the yeast genome and the Sinosauropteryx fossil from the science page; tech.internet_archive cites the year page for the founding date and takes the Wayback Machine software, the lifecasting entry, the Shetland case and IRCnet from the science page; tech.devices cites the science page and takes the EV1, the Corvette line, the NeXT purchase and the Keck II dedication from the US year page; sports.world_series cites the sports page for the result and takes the series dates and the Fox broadcast from the television page and the clinching date from the US year page; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player and takes the three-in-four-seasons line from the US year page; sports.nba_finals cites the sports page for the result and the draft and takes the June 16 and April 16 dates from the US year page; sports.olympics cites the sports page for the medal counts and takes the opening and closing dates and the Michael Johnson world record from the US year page; deaths.kelly and deaths.burns cite the US year page for the date and birth year and take the age and the two named films from the film page's death table; deaths.shakur cites the US year page for the date and birth year and takes the shooting, the venue and the six days from the music page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. Nothing in this file needed an entry in src/data/name_years.json, and that file was not touched. Candidates were checked: Nintendo 64, Super Mario 64, Mario Kart 64, Pilotwings 64 and Donkey Kong Land 2 are one or two digits; Madden NFL 97, NBA Live 97, The King of Fighters '96 and Meridian 59 are two digits; Allan Hills 84001 is five digits and does not match the check's range; the Dow close of 6,010.00 and Bryant's 1,035 years are broken by commas, and the Dow's first close above six thousand is written in words for the same reason. One title was dropped over the rule rather than for want of a source: the PlayStation racing game Wipeout XL, released as Wipeout 2097 outside North America on September 30, whose alternate title is a four-digit number later than this year and is not on the allowlist. It can go into src/data/name_years.json if wanted. Later-year material dropped for the anachronism rule rather than for want of a source, and left out of every value and detail: the completion of the News Corporation purchase of New World; the Supreme Court ruling that struck down the Line Item Veto Act, which pol.legislation names without dating; the year the Comprehensive Nuclear-Test-Ban Treaty would come into force, which world.test_ban_treaty gives as a condition rather than a date and which also flags that the year page's own parenthesis is circular, and Clinton's September 24 signature for the United States, which sits in that fact's detail rather than in pol.legislation because a treaty signature is not a law; the film page's note that Independence Day was later passed as Will Smith's highest-grossing film and its inflation-adjusted restatement; the ceremony page's seven Emmy nominations for the Oscar telecast; the science page's note that the Comprehensive Nuclear-Test-Ban Treaty was still unratified; the release year of Titanic, whose production start film.releases dates to mid-July without naming a release; the Doctor Who television film's next appearance of the Eighth Doctor; the note that the Wheel of Fortune record stood until a later winner; and the reactivation of the Cleveland Browns. Month-only or undated facts: tech.web_search carries a month for BackRub because the science page gives only January, and gives RankDex no date because the page gives none. tech.devices, film.gross, film.world_cinema, pol.legislation, tv.consolidation, culture.nobel_prizes, sports.champions, music.recordings, music.bands, tv.top_shows, tv.premieres, music.hot100_year_end, film.acting_awards, film.best_picture, film.how_people_watched and the three series figures carry no date, because they are list facts or annual figures rather than events. Dropped for lack of a source that says enough, or for room: the Everest disaster of May 10, the Ozone Disco Club fire, the MV Bukoba sinking, the Humberto Vidal explosion and the F174 sinking, all in the texture instead of a disasters list fact; the January blizzard, the Montana Freemen standoff, the Dow's first close above six thousand, the August unemployment rate and the two Las Vegas implosions, all in the texture instead; the Ariane 5 failure, Comet Hyakutake, Comet Hale-Bopp, the creation of copernicium and the STS-80 mission, all in the texture instead of a space fact, with the Mars Global Surveyor launch of November 7 and the Allan Hills 84001 announcement of August 6 dropped for room; the Kiss appearance at the Grammy ceremony, the Jarvis Cocker protest at the BRIT Awards, the La Fenice fire, the Garth Brooks refusal and the Hampstead Heath bagpiper, all in the texture instead; the XI International AIDS Conference in Vancouver from July 7 to 12 and the combination therapy it reported, the identification of new variant Creutzfeldt-Jakob disease in the United Kingdom, the approval of Donepezil and the patenting of Sildenafil, all dropped for room in a tech section already at six; the Sokal affair of May; the election of Kofi Annan as the next Secretary-General on December 13; the Qana massacre of April 18; the Israeli election of May 30 that Benjamin Netanyahu won narrowly; the Third Taiwan Strait Crisis from March 8 and Taiwan's first direct presidential election on March 23; the Docklands bombing in London on February 9 and the Manchester bombing of June 15; the Cuban shootdown of two Brothers to the Rescue aircraft on February 24; the Marcopper mining disaster of March 24; the Burundian coup of July 25; the Guatemalan peace agreement of December 29; the JonBenet Ramsey killing, dated by the US year page only as a probable December 25; the Romer v. Evans ruling of May 20; the Lyle and Erik Menendez conviction of March 19; the Amtrak collision in Maryland on February 16; the Jessica Dubroff crash of April 11; Binti Jua the gorilla on August 16; the E. coli outbreak in Japan from July 16; Goran Kropp's oxygen-free Everest summit of May 23 after cycling from Sweden; and the Wheel of Fortune record of February 8 and 9. Names and titles are written in ASCII per the corpus convention, so Los del Rio, Wislawa Szymborska, Jose Ramos-Horta, Jan Sverak, Aenima, Pokemon, Gigi Fernandez, Julio Cesar Chavez, Milos Forman, Toru Takemitsu, Chema Puron and JonBenet lose their diacritics. Deaths carry a birth year rather than an age where the US year page gives one, and deaths.fitzgerald carries an age because the music page is the only cached page listing her and it gives only an age. Deaths that would have earned a place with more room: Timothy Leary on May 31, Spiro Agnew on September 17, Bill Monroe on September 9, Marguerite Duras on March 3, Claudette Colbert on July 30, Greer Garson on April 6, Erma Bombeck on April 22, Alger Hiss on November 15, Pete Rozelle on December 6, Seymour Cray on October 5, Paul Erdos on September 20, Abdus Salam on November 21, Thomas Kuhn on June 17, David Packard and Edmund Muskie both on March 26, Frank Whittle on August 9, Joseph Brodsky and the Superman writer Jerry Siegel both on January 28, Minnie Pearl on March 4, Audrey Meadows on February 3, Martin Balsam on February 13, Haing S. Ngor on February 25, Dorothy Lamour on September 22, Tiny Tim on November 30, the Bond producer Albert R. Broccoli on June 27, Toru Takemitsu on February 20, Jamie Uys on January 29, Bradley Nowell of Sublime on May 25, Eva Cassidy on November 2, Paul Rand on November 26, Vance Packard on December 12, McGeorge Bundy on September 16 and Jack Nance on December 30. This file runs 53 facts across 10 sections: politics 6, world 7, film 7, tv 5, music 6, tech 6, prices 2, culture 4, sports 5, deaths 5. It runs one over the brief's upper aim of 52 because world holds seven: the Dunblane and Port Arthur shootings, the fall of Kabul, five aircraft losses, the Khobar Towers bombing, the Russian election and the test ban treaty, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. The five aircraft losses share one list fact because they are the same kind of event rather than because they share a date. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that: the Telecommunications Act appears in tv.consolidation and music.listening_format because it is a claim about who owned the stations and how music reached listeners, which is what those two facts are for. The Nielsen ranking covers a season that began in the autumn of 1996 and ran into the following spring, which tv.top_shows states without naming a second year. The games page dates the launch of GameFAQs to May 1, while the 1995 file has it going up on November 5 the year before on the authority of that year's games page. The two pages disagree, so tech.games names GameSpot's launch date and leaves GameFAQs out rather than picking a side."
+}

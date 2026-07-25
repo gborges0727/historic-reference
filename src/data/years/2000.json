@@ -1,0 +1,542 @@
+{
+  "year": 2000,
+  "tier": "modern",
+  "headline": "Few Y2K problems occurred, the Nasdaq peaked on March 10, and the presidential election was not settled until December",
+  "texture": [
+    "A funicular fire in an Alpine tunnel at Kaprun killed 155 skiers and snowboarders on November 11. A fire at a Luoyang shopping centre killed 309 on Christmas Day. The Greek ferry Express Samina went down off Paros on September 26 and 80 of more than 500 passengers drowned. A fireworks factory blew up in Enschede on May 13, killing 23. Alaska Airlines Flight 261 came down in the Pacific on January 31 with 88 aboard, one day after Kenya Airways Flight 431 fell into the Atlantic off Abidjan with 169.",
+    "The census counted 281,421,906 residents on April 1. Vermont passed HB847 on April 25, legalizing civil unions for same-sex couples. Alabama voters struck the ban on interracial marriage from their state constitution on election day, with 40.51 percent voting to keep it. Hillary Clinton won a Senate seat in New York, the first First Lady to hold public office. Missouri elected Mel Carnahan to the Senate three weeks after he died in a plane crash, and the governor appointed his widow Jean. Montgomery Ward announced on December 28 that it was closing after 128 years.",
+    "Clinton announced on May 1 that GPS accuracy would no longer be degraded for civilians, and the Selective Availability limiter came off the following day. Steve Jobs put the Mac OS X Public Beta on sale for $29.95 on September 13, and Microsoft shipped Windows Me the next day. Stephen King published Riding the Bullet in electronic form only on March 14. Iceberg B-15 broke off the Ross Ice Shelf in March covering 11,000 square kilometres. Soyuz TM-31 went up on October 31 with the first crew to live aboard the International Space Station.",
+    "Rage Against the Machine played in front of Wall Street on January 26 and the crowd forced trading to close early. Nine people were crushed to death during Pearl Jam's set at the Roskilde Festival on June 30. Twenty-eight states sued the major record labels on August 8 over compact disc prices they said had been held artificially high since 1995. EMI and Warner Music withdrew a $20 billion merger application from the European Commission on October 5. Madonna married Guy Ritchie at Skibo Castle in Dornoch on December 22."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "pol.bush_v_gore",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.internet_bubble",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Al Gore was Vice President and William Rehnquist Chief Justice. Dennis Hastert (R) was Speaker of the House and Trent Lott (R) Senate majority leader, in the 106th Congress. Alan Greenspan was nominated on January 4 for a fourth term as Federal Reserve chairman. Clinton became the first sitting president to visit Vietnam, on November 16, and signed the Rome Statute of the International Criminal Court on December 31.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "George W. Bush (R) and Dick Cheney beat Al Gore (D) and Joe Lieberman by 271 electoral votes to 266, while Gore led the popular vote 50,999,897 to 50,456,002",
+      "detail": "Held on the Tuesday after the first Monday in November, which both cached year pages and the election's own article give as November 7. No winner could be declared on the night and the outcome stayed unknown for over a month because of disputed votes in Florida. The election article says 267 electors pledged to Gore were chosen but a District of Columbia elector cast a blank ballot for president and vice president, that turnout was 54.2 percent, and that this was the first election since 1888 in which the winning candidate lost the popular vote. Bush and Gore had emerged from the primaries and caucuses on March 7. The Republican convention in Philadelphia nominated Bush and Cheney from July 31 to August 3 and the Democratic convention in Los Angeles nominated Gore and Lieberman from August 14 to 17.",
+      "date": "2000-11-07",
+      "source": "https://en.wikipedia.org/wiki/2000_United_States_presidential_election"
+    },
+    "pol.bush_v_gore": {
+      "section": "politics",
+      "label": "Bush v. Gore",
+      "value": "The United States Supreme Court ordered the Florida recount stopped by five votes to four, leaving the certified results standing and giving the state and the presidency to Bush",
+      "detail": "Argued December 11 and decided December 12 according to the case's own article, which the cached year pages match. Florida law had triggered an automatic recount on November 8. The Florida Supreme Court stopped the secretary of state Katherine Harris from certifying results on November 17, and on December 8 ordered a statewide manual recount of over 61,000 undervotes that the tabulation machines had missed, which the United States Supreme Court stayed the next day. The per curiam opinion held that the counties' varying standards for discerning voter intent violated the Equal Protection Clause. Gore conceded the following day and suspended the activities of his recount committee.",
+      "date": "2000-12-12",
+      "source": "https://en.wikipedia.org/wiki/Bush_v._Gore"
+    },
+    "pol.elian_gonzalez": {
+      "section": "politics",
+      "label": "Elian Gonzalez sent back to Cuba",
+      "value": "Federal agents seized the six-year-old from his relatives' home in Miami in a predawn raid and flew him to his Cuban father in Washington, and he left for Cuba with his father on June 28",
+      "detail": "The attorney general Janet Reno had ruled on January 12 that the child, who had been rescued by the Coast Guard, must be returned to his father. The US year page calls it one of the most publicized custody battles in United States history.",
+      "date": "2000-04-22",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "pol.microsoft_antitrust": {
+      "section": "politics",
+      "label": "Microsoft ordered broken up",
+      "value": "A court ruled on April 3 that the company had violated United States antitrust law by keeping an oppressive thumb on its competitors, and on June 7 ordered the corporation broken up over its monopoly in computer software",
+      "detail": "The US year page carries both rulings, quotes the oppressive thumb phrase from the April finding, and names no judge for either.",
+      "date": "2000-06-07",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "world.putin": {
+      "section": "world",
+      "label": "Putin elected President of Russia",
+      "value": "Vladimir Putin won the presidential election",
+      "detail": "The year page cites a report on the election by the Commission on Security and Cooperation in Europe and gives no vote share.",
+      "date": "2000-03-26",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "world.chechnya": {
+      "section": "world",
+      "label": "Russian forces take Grozny",
+      "value": "The Battle of Grozny ended as Russian forces completed the capture of the Chechen capital",
+      "detail": "The day before, Russian forces summarily executed between 56 and 60 civilians in the Novye Aldi suburb of Grozny, which the year page cites to a Physicians for Human Rights report on war crimes in Chechnya. The page's image caption traces the Second Chechen War to the invasion of Dagestan by Chechen fighters and Russian incursions into Chechnya after apartment bombings in Russian cities, without dating either.",
+      "date": "2000-02-06",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "world.second_intifada": {
+      "section": "world",
+      "label": "Second Intifada begins",
+      "value": "The Israeli opposition leader Ariel Sharon visited the Temple Mount in East Jerusalem, sparking an uprising",
+      "detail": "The year page's image caption describes a civilian uprising in Jerusalem and Palestine proper and says Israeli security responded with extreme violence, killing over 100 Palestinian protesters within the first few weeks. A summit at Camp David between Clinton, the Israeli prime minister Ehud Barak and the Palestinian Authority chairman Yasser Arafat had run from July 11 to 25 and ended without an agreement.",
+      "date": "2000-09-28",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "world.kursk": {
+      "section": "world",
+      "label": "Kursk submarine disaster",
+      "value": "The Russian submarine sank in the Barents Sea during one of the largest Russian naval exercises since the dissolution of the Soviet Union in 1991, killing all 118 men on board",
+      "detail": "The year page's image caption identifies the boat as the Oscar II-class nuclear submarine K-141 and gives the same toll.",
+      "date": "2000-08-12",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "world.concorde": {
+      "section": "world",
+      "label": "Air France Flight 4590",
+      "value": "A Concorde crashed into a hotel in Gonesse just after takeoff from Paris, killing all 109 aboard and four more people",
+      "detail": "The year page's dated entry puts the other four deaths in the hotel and its image caption puts them on the ground, so no location is given for them here. The caption adds that a fire on the back of the aircraft preceded the crash.",
+      "date": "2000-07-25",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "world.milosevic": {
+      "section": "world",
+      "label": "Milosevic resigns",
+      "value": "Mass demonstrations in Belgrade forced out the Yugoslav president Slobodan Milosevic",
+      "detail": "The United States recognized the Federal Republic of Yugoslavia on November 12. In the Serbian parliamentary election of December 23 an alliance of reformist parties won a landslide over the nationalists, opening the way to a government under Zoran Djindjic.",
+      "date": "2000-10-05",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "world.uss_cole": {
+      "section": "world",
+      "label": "USS Cole bombing",
+      "value": "Two Al-Qaeda suicide bombers placed a small boat laden with explosives alongside the United States Navy destroyer in Aden, Yemen, killing 17 crew members and wounding at least 39",
+      "detail": "Both cached year pages carry the attack in near-identical wording and neither names the bombers or gives the ship's repair cost.",
+      "date": "2000-10-12",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Mission: Impossible 2, $546,388,108, Paramount",
+        "Gladiator, $465,516,248, DreamWorks and Universal",
+        "Cast Away, $429,632,142, 20th Century Fox and DreamWorks",
+        "What Women Want, $374,111,707, Paramount",
+        "Dinosaur, $349,822,765, Walt Disney Pictures"
+      ],
+      "detail": "Worldwide gross rather than domestic. The sentence above the table says these are the top ten films released this year by worldwide gross, the column header reads Rank, Title, Distributor, Worldwide gross, and the figures are cited to Box Office Mojo and The Numbers. How the Grinch Stole Christmas was sixth at $346,524,444 for Universal, Meet the Parents seventh at $330,444,045 for Universal and DreamWorks, The Perfect Storm eighth at $328,711,434 for Warner Bros., X-Men ninth at $296,339,528 for 20th Century Fox and What Lies Beneath tenth at $291,420,351 for DreamWorks and 20th Century Fox. The film page's box office records section says Chicken Run became the highest-grossing stop motion animated film and that the Grinch's $55.1 million opening weekend was the highest debut for a Christmas-themed film and the highest opening weekend for both a Jim Carrey film and a Ron Howard film, passing Batman Forever and Ransom at once.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Gladiator, produced by Douglas Wick, David Franzoni and Branko Lustig",
+      "detail": "Awarded the following spring at the 73rd Academy Awards, hosted by Steve Martin at the Shrine Auditorium in Los Angeles after Billy Crystal declined a second consecutive year, citing his role in America's Sweethearts and his work on a television film. Gladiator led the field with 12 nominations and won five awards, Crouching Tiger, Hidden Dragon took four from 10 nominations and Traffic four from five. The other Best Picture nominees were Chocolat, Crouching Tiger, Hidden Dragon, Erin Brockovich and Traffic. Steven Soderbergh won Best Director for Traffic and was nominated in the same category for Erin Brockovich. Gladiator was the highest earner among the nominees at $186.6 million in domestic receipts, ahead of Erin Brockovich at $125.5 million, Traffic at $71.2 million, Crouching Tiger, Hidden Dragon at $60.7 million and Chocolat at $27 million, for a combined $471 million. The telecast on ABC averaged 42.9 million viewers, seven percent down on the previous ceremony, with 26.2 percent of households watching over a 40 share.",
+      "source": "https://en.wikipedia.org/wiki/73rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Russell Crowe, Gladiator",
+        "Best Actress, Julia Roberts, Erin Brockovich",
+        "Best Supporting Actor, Benicio del Toro, Traffic",
+        "Best Supporting Actress, Marcia Gay Harden, Pollock"
+      ],
+      "detail": "Cameron Crowe won original screenplay for Almost Famous and Stephen Gaghan adapted screenplay for Traffic, which the ceremony page notes was based on the British television series Traffik. Bob Dylan won Best Original Song for Things Have Changed from Wonder Boys and Tan Dun Best Original Score for Crouching Tiger, Hidden Dragon. Honorary Awards went to the cinematographer Jack Cardiff and the screenwriter Ernest Lehman. Arthur C. Clarke presented the adapted screenplay award from his home in Sri Lanka, and three astronauts aboard the International Space Station introduced the host by satellite. The film page's awards table gives the Golden Globe for drama to Gladiator and for comedy or musical to Almost Famous, Best Film at the BAFTA awards to Gladiator, and the Directors Guild award to Ang Lee.",
+      "source": "https://en.wikipedia.org/wiki/73rd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Crouching Tiger, Hidden Dragon, Taiwan, in Mandarin, directed by Ang Lee, the winner",
+        "Amores Perros, Mexico, in Spanish, directed by Alejandro Gonzalez Inarritu",
+        "Divided We Fall, the Czech Republic, in Czech, directed by Jan Hrebejk",
+        "Everybody's Famous!, Belgium, in Dutch and English, directed by Dominique Deruddere",
+        "The Taste of Others, France, in French, directed by Agnes Jaoui"
+      ],
+      "detail": "The ceremony page states each film's country, language and director in this category, and says Crouching Tiger, Hidden Dragon was the third film nominated at the same ceremony for both Best Picture and Best Foreign Language Film. The film page gives the Palme d'Or at the 53rd Cannes Film Festival to Lars von Trier's Dancer in the Dark from Denmark, the Golden Lion at the 57th Venice International Film Festival to Jafar Panahi's The Circle from Iran, and the Golden Bear at the 50th Berlin International Film Festival to Paul Thomas Anderson's Magnolia from the United States.",
+      "source": "https://en.wikipedia.org/wiki/73rd_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Dinosaur, May 19, Walt Disney Pictures' 39th feature film",
+        "X-Men, July 14, directed by Bryan Singer, the first of the series",
+        "Rugrats in Paris: The Movie, November 17, from Nickelodeon",
+        "How the Grinch Stole Christmas, November 17, the live action film with Jim Carrey",
+        "The Emperor's New Groove, December 15, Walt Disney Pictures' 40th feature film"
+      ],
+      "detail": "The US year page dates all five and says The Emperor's New Groove arrived after years of production problems to a box office take it calls disappointing next to the Disney Renaissance releases. Chicken Run appears only in the film page's box office records list, with no release date, so none is given for it here. The film page carries no release calendar of its own for the year.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. The film page ranks the year by worldwide gross rather than by North American gross, and carries nothing at all about home viewing.",
+      "detail": "None of the eleven cached pages mentions video tape, DVD, pay television or a rental figure for the year, so this fact claims nothing about how a film reached a living room. The average US ticket price sits in its own fact, taken from the NATO member survey rather than from any cached page.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$5.39",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2000",
+      "value": [
+        "Survivor, CBS, 17.4 rating",
+        "ER, NBC, 15.0",
+        "Who Wants to Be a Millionaire, Wednesday, ABC, 13.7",
+        "Who Wants to Be a Millionaire, Tuesday, ABC, 13.0",
+        "Friends, NBC, 12.6"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Monday Night Football on ABC and Everybody Loves Raymond on CBS tied with Friends on 12.6. Who Wants to Be a Millionaire placed five weekly editions in the top twenty, the Sunday show eighth on 12.4, the Thursday show eleventh on 11.6 and the Friday show nineteenth on 10.5. Law & Order was ninth on 12.3, The Practice tenth on 11.7, and CSI: Crime Scene Investigation and The West Wing tied with the Thursday Millionaire on 11.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2000%E2%80%9301"
+    },
+    "tv.reality_programmes": {
+      "section": "tv",
+      "label": "Reality programmes on the broadcast networks",
+      "value": [
+        "Survivor: Borneo, CBS, premiered May 31, adapted from Sweden's Expedition Robinson, and the corporate trainer Richard Hatch was declared the inaugural Sole Survivor on August 23 for a $1,000,000 prize",
+        "Big Brother, CBS, premiered July 5, adapted from the Dutch series, and Eddie McGee won $500,000 on September 29",
+        "Who Wants to Marry a Multi-Millionaire, Fox, February 15, on which Rick Rockwell married the stranger Darva Conger in front of 22 million viewers"
+      ],
+      "detail": "Fox cancelled a rerun scheduled for the following week and broadcast no further instalments once it emerged that Rockwell, sometimes a comedian, had a restraining order against a former girlfriend and was not a multi-millionaire, and the couple ended their relationship soon after the taping. Sonja Christopher was the first contestant eliminated from Survivor and Kelly Wiglesworth the runner-up. The television page says the American Big Brother season was the only one to eliminate contestants by televoting and that it was received badly.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs and channels that debuted",
+      "value": [
+        "Malcolm in the Middle, Fox, January 9",
+        "SoapNet, cable and satellite, January 20",
+        "Oxygen, cable and satellite, February 2",
+        "Boomerang, cable, April 1",
+        "Dora the Explorer, Nickelodeon, August 14",
+        "Caillou and Clifford the Big Red Dog, PBS Kids, September 4",
+        "106 & Park, BET, September 11",
+        "MTV Cribs, MTV, September 12",
+        "Jackass, MTV, October 1",
+        "Dark Angel, Fox, October 3",
+        "Gilmore Girls, The WB, October 5",
+        "CSI: Crime Scene Investigation, CBS, October 6",
+        "Ed, NBC, October 8",
+        "Trading Spaces, TLC, October 13",
+        "Curb Your Enthusiasm, HBO, October 15",
+        "Boston Public, Fox, October 23"
+      ],
+      "detail": "The television page's debut table gives each programme's date and network and its launch table each channel's date. The PBS Kids Bookworm Bunch block debuted on September 30, programmed for PBS by the Canadian company Nelvana, which had made the CBS Kidshow block until CBS dropped it on September 16.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_American_television"
+    },
+    "tv.viacom_cbs": {
+      "section": "tv",
+      "label": "Viacom finishes its merger with CBS",
+      "value": "The $37 billion merger closed during the year, and Viacom bought Chris-Craft Broadcasting's 50 percent share of UPN for $5 million on March 20, making the Chris-Craft stations in New York and Los Angeles the network's flagships in practice",
+      "detail": "Chris-Craft had sued Viacom in the New York Supreme Court on February 8 to block the CBS merger, arguing that a 1997 pact barred either partner from holding any interest, financial or otherwise, in a competing network for four years. The court ruled against its bid for a permanent injunction the following month. On September 16 the CBS Kidshow block was replaced by Nick Jr. on CBS, programmed by the new corporate sister Nickelodeon. The television page gives no closing date for the merger itself.",
+      "date": "2000-03-20",
+      "source": "https://en.wikipedia.org/wiki/2000_in_American_television"
+    },
+    "tv.dawsons_creek": {
+      "section": "tv",
+      "label": "First male gay kiss on American primetime television",
+      "value": "The WB broadcast it in the Dawson's Creek third-season finale, True Love",
+      "detail": "The television page calls it a milestone in the timeline of gay representation in popular culture, citing a retrospective article, and records no other network programme doing the same this year.",
+      "date": "2000-05-24",
+      "source": "https://en.wikipedia.org/wiki/2000_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Breathe, Faith Hill",
+        "Smooth, Santana featuring Rob Thomas",
+        "Maria Maria, Santana featuring The Product G&B",
+        "I Wanna Know, Joe",
+        "Everything You Want, Vertical Horizon"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 30. The chart page says Breathe was the first country recording to rank first since Johnny Horton's The Battle of New Orleans in 1959, and that Patsy Cline's I Fall to Pieces and Glen Campbell's Rhinestone Cowboy had each come closest before, ranking second in their own years. Hill also placed The Way You Love Me at 41. Both Santana entries came from the Supernatural album. Destiny's Child put Say My Name sixth, Jumpin', Jumpin' thirteenth and Independent Women Part I ninety-seventh, and Christina Aguilera placed three songs, at 19, 38 and 42.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2000"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On compact disc, and over a free peer-to-peer service that spent the year in court. Metallica sued Napster on April 12 along with three universities, a US district judge ordered Napster to halt the trading of copyrighted music among its users on July 26, and a stay granted two days later kept the site running.",
+      "detail": "Napster and BMG Music announced a partnership on October 31 to turn the site into a subscription service offering legal downloads. Yale and Indiana were dropped from Metallica's suit once they blocked access to Napster on campus computers. A coalition of 28 states sued the major labels on August 8 over compact disc prices they said had been fixed artificially high. The science page dates the origin of the podcast to September, when the MP3 player maker i2Go launched the first system for selecting, downloading and storing serial episodic audio on personal computers and portable devices.",
+      "date": "2000-07-26",
+      "source": "https://en.wikipedia.org/wiki/2000_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums in the United States",
+      "value": [
+        "No Strings Attached, NSYNC, 9.9 million",
+        "The Marshall Mathers LP, Eminem, 7.9 million",
+        "Oops!... I Did It Again, Britney Spears, 7.8 million",
+        "Human Clay, Creed, 6.6 million",
+        "Supernatural, Santana, 5.9 million"
+      ],
+      "detail": "SoundScan figures, which the music page cites to Billboard and to a trade listing and summarises as No Strings Attached selling nearly 10 million copies. The Beatles' 1 and Nelly's Country Grammar tied for sixth at 5.1 million each, Black & Blue by the Backstreet Boys was eighth at 4.2 million and The Writing's on the Wall by Destiny's Child tenth at 3.8 million. The Billboard article the page cites for the list is titled Album Sales Increase by Only 4% in 2000.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "The Sickness, Disturbed, March 7",
+        "Infest, Papa Roach, April 25",
+        "The Marshall Mathers LP, Eminem, May 23",
+        "Kid A, Radiohead, October 2",
+        "Warning, Green Day, October 3",
+        "Hybrid Theory, Linkin Park, October 24",
+        "Black & Blue, Backstreet Boys, November 21"
+      ],
+      "detail": "The music page says The Marshall Mathers LP sold over 1.76 million copies in its first week, the fastest first week for a hip-hop album to that point, and that Kid A drew polarized responses from fans and critics for turning away from the densely layered rock of its predecessor toward electronica-tinged post-rock. It calls Warning a commercial disappointment next to Green Day's earlier records despite positive reviews. Animal Collective released their debut on August 1 under the names Avey Tare and Panda Bear, and Pearl Jam put out twenty-five live albums on September 26, one from each show of their European tour.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "42nd Grammy Awards",
+      "value": "Santana won eight awards in one night, tying Michael Jackson's total from 1984, among them Album of the Year for Supernatural and both Record of the Year and Song of the Year for Smooth",
+      "detail": "Christina Aguilera won Best New Artist. The ceremony honoured the previous year's recordings, so its winners are not the year's own releases. Smooth, sung by Rob Thomas of Matchbox Twenty, and Maria Maria from the same album took second and third place on the year-end Hot 100.",
+      "date": "2000-02-23",
+      "source": "https://en.wikipedia.org/wiki/2000_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "The Olsen Brothers won the 45th contest for Denmark with Fly on the Wings of Love, at the Globe Arena in Stockholm",
+      "detail": "The 28th OTI Festival, at the convention centre in Acapulco on May 20, was won by Hierba mala, written by Angie Chirio, Olga Maria Chirino and Emilio Estefan and performed by Hermanas Chirino for the United States. Badly Drawn Boy's The Hour of Bewilderbeast won the Mercury Music Prize. The first Latin Grammy Awards were held on September 13.",
+      "date": "2000-05-13",
+      "source": "https://en.wikipedia.org/wiki/2000_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "PlayStation 2, Sony's console, released in Japan on March 4, in North America on October 26, in Europe on November 24 and in Australia on November 30",
+        "PS One, a small revision of the original PlayStation, released in Japan on July 7 and in North America on September 19",
+        "WonderSwan Color, Bandai's handheld, released in Japan on December 9",
+        "Resident Evil Code: Veronica, Capcom, February 3, on the Dreamcast",
+        "The Sims, February 4",
+        "The Legend of Zelda: Majora's Mask, Nintendo, April 27",
+        "Perfect Dark, Nintendo, May 22",
+        "Deus Ex, Ion Storm and Eidos, June 23",
+        "Diablo II, Blizzard, June 28",
+        "Final Fantasy IX, Square, July 7",
+        "Tony Hawk's Pro Skater 2, Activision, September 20"
+      ],
+      "detail": "Pokemon Gold and Silver led home game sales in the United States at over 4,000,000 copies, and the games page says Pokemon titles led home game sales worldwide for a third year running. The highest-grossing arcade game in Japan was Virtua Striker 2. Chrono Cross took Game of the Year from GameSpot and IGN, Deus Ex from the BAFTA Interactive Awards, and The Sims from Computer Gaming World. Microsoft acquired Bungie on June 19, Electronic Arts acquired DreamWorks Interactive in February, and Looking Glass Studios shut down on May 24. The sixth Electronic Entertainment Expo ran from May 11 to 13. Nintendo sold its 100 millionth Game Boy or Game Boy Color in April. Reuters reported on April 14 that Japan's Trade Ministry would place export controls on the PlayStation 2 because it was sophisticated enough for military applications.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_video_games"
+    },
+    "tech.internet_bubble": {
+      "section": "tech",
+      "label": "The dot-com bubble peaks",
+      "value": "The Dow Jones Industrial Average closed at 11,722.98 on January 14 at the peak of the bubble, and the Nasdaq Composite reached an all-time high of 5,048 on March 10",
+      "detail": "The year page says that two weeks after the Nasdaq high the Nasdaq-100, the S&P 500 and the Wilshire 5000 reached their own peaks, ending a bull market run that had lasted over 17 years. It cites the Dow close to a filing with the Securities and Exchange Commission and the Nasdaq high to a retrospective trade article. Both cached year pages carry the two figures, and the US year page lists the dot-com bubble among its ongoing items.",
+      "date": "2000-03-10",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "tech.internet_aol": {
+      "section": "tech",
+      "label": "America Online agrees to buy Time Warner",
+      "value": "$162 billion, which both cached year pages call the largest corporate merger ever",
+      "detail": "Neither page gives a closing date or names an executive. The US year page cites a CNN report from the day of the announcement and the year page a New York Times piece written ten years afterwards about how the merger went wrong.",
+      "date": "2000-01-10",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "tech.internet_virus": {
+      "section": "tech",
+      "label": "ILOVEYOU virus",
+      "value": "It originated in the Philippines and spread quickly throughout the world",
+      "detail": "The year page and the science page each carry it in one line, and neither gives a count of infected machines or an estimate of the damage.",
+      "date": "2000-05-05",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "tech.y2k": {
+      "section": "tech",
+      "label": "The year 2000 problem",
+      "value": "A time formatting and storage bug took effect at midnight and was successfully mitigated in many cases",
+      "detail": "The year page says many companies had already converted to new software or upgraded existing software by the end of the previous year, that some obtained Y2K certification, and that relatively few problems occurred as a result of massive effort. The science page files the whole thing as of little global significance, citing the records of the Center for Y2K and Society. The US year page lists the Y2K scare among its ongoing items, running from 1998.",
+      "date": "2000-01-01",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "tech.genome": {
+      "section": "tech",
+      "label": "First draft of the human genome",
+      "value": "Clinton announced it at the White House with Francis Collins and Craig Venter, jointly with the British prime minister in London",
+      "detail": "The science page names Tony Blair as the British prime minister and dates the announcement to the same day, and both pages cite a White House press release dated the day before. The science page also records the publication of the full genome sequence of the flowering plant Arabidopsis thaliana in Nature on December 14.",
+      "date": "2000-06-26",
+      "source": "https://en.wikipedia.org/wiki/2000_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.51 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "3.8 percent in April, the lowest since December 1969",
+      "detail": "The US year page adds that in the same month the labour force participation rate hit a historical peak of 67.4 percent and the employment-population ratio an all-time high of 64.8 percent.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "prices.interest_rate": {
+      "section": "prices",
+      "label": "Federal Reserve benchmark rate",
+      "value": "Raised by half a percentage point to 6.5 percent on May 16, the first increase of more than a quarter point since February 1995",
+      "detail": "The US year page cites a CNN Money report from the day of the decision and records no further change for the rest of the year.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A calendar rolled over and the machines kept working. Then an election ended with no winner and the country waited more than a month for a court to name one, while the companies that had made the stock market look easy began to run out of money."
+    },
+    "culture.millennium": {
+      "section": "culture",
+      "label": "Millennium celebrations and a century leap year",
+      "value": "Celebrations were held around the world on January 1 for the start of the 3rd millennium, and February 29 fell in a century year for the first time since 1600",
+      "detail": "The year page says popular culture holds this to be the first year of the 21st century and the 3rd millennium because of a tendency to group years by decimal value, while the Gregorian calendar puts both in the following year, since its first millennium ran from 1 to 1000 and its second from 1001 to 2000. A century year with a February 29 is only the second occasion of its kind since the Gregorian calendar was introduced in 1582. UNESCO designated the year the International Year for the Culture of Peace, and it was also the World Mathematical Year. The year page's final entry has the 20th century and the 2nd millennium concluding on December 31.",
+      "date": "2000-01-01",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "culture.comic_strips": {
+      "section": "culture",
+      "label": "Two long-running comic strips end",
+      "value": "The final original Peanuts was printed in newspapers on February 13, the day after Charles M. Schulz died, and Bringing Up Father ended an 87-year run on May 28",
+      "detail": "The year page calls Peanuts the most popular comic strip in history and says it ran for 50 years, and dates Schulz's death to the night before the last strip appeared. The US year page carries both endings.",
+      "date": "2000-02-13",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Gao Xingjian",
+        "Peace, Kim Dae-jung",
+        "Physics, Zhores Alferov, Herbert Kroemer and Jack Kilby",
+        "Chemistry, Alan J. Heeger, Alan MacDiarmid and Hideki Shirakawa",
+        "Medicine, Arvid Carlsson, Paul Greengard and Eric Kandel",
+        "Economics, James Heckman and Daniel McFadden"
+      ],
+      "detail": "The year page gives no dates for any of them. The science page lists the same physics, chemistry and medicine winners and carries neither Literature, Peace nor Economics. The Turing Award went to Andrew Yao and the Wollaston Medal for Geology to William Sefton Fyfe.",
+      "source": "https://en.wikipedia.org/wiki/2000"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Sydney from September 15 to October 1",
+      "detail": "The two cached pages disagree on the American medal count: the sports page says the United States won the most medals with 97 and the most gold with 40, while the US year page gives 37 gold, 24 silver and 32 bronze. NBC's broadcast of the opening ceremony drew 27 and a half million viewers. Midnight Oil played Beds are Burning at the closing ceremony in outfits displaying the word Sorry, a reference to the Australian prime minister John Howard's refusal to apologise to the Stolen Generation. Marion Jones of track and field was Associated Press Female Athlete of the Year.",
+      "date": "2000-09-15",
+      "source": "https://en.wikipedia.org/wiki/2000_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the New York Mets four games to one, with Derek Jeter named series most valuable player",
+      "detail": "The US year page dates the clinching Game 5 to October 26 and calls it the first Subway Series between the two clubs, the Yankees' 26th title and their fourth under the manager Joe Torre. The television page adds that it was a third consecutive title and the first three-peat since the Oakland Athletics from 1972 to 1974, and that Fox carried the game. The two pages give different scores for Game 5, 4 to 1 on the US year page and 4 to 2 on the television page, so no game score is stated here. Major League Baseball dissolved the National and American Leagues as separate legal entities during the year and consolidated their functions in the commissioner's office. NBC declined to renew its baseball agreement on September 26 after 50 seasons, from 1947 to 1989 and again from 1994, and Game 6 of the American League Championship Series on October 17 was its last baseball telecast.",
+      "date": "2000-10-26",
+      "source": "https://en.wikipedia.org/wiki/2000_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXIV",
+      "value": "The St. Louis Rams beat the Tennessee Titans 23 to 16 at the Georgia Dome in front of 72,625, with the quarterback Kurt Warner named most valuable player",
+      "detail": "The US year page says it was the franchise's first NFL championship since 1951. Marshall Faulk of the Rams took the regular-season most valuable player award. Florida State had beaten Virginia Tech 49 to 29 in the Sugar Bowl for the previous college season's national championship.",
+      "date": "2000-01-30",
+      "source": "https://en.wikipedia.org/wiki/2000_in_sports"
+    },
+    "sports.tiger_woods": {
+      "section": "sports",
+      "label": "Tiger Woods wins three majors",
+      "value": "He took the US Open by 15 shots, then the British Open and the PGA Championship, the first golfer since Ben Hogan in 1953 to win three majors in a calendar year",
+      "detail": "The sports page calls the 15-shot margin a record for all majors and his US Open score of 12 under par a record for that tournament, says the British Open made him the fifth golfer to complete the modern career grand slam and set the all-majors record at 19 under, and says he tied the PGA Championship record at 18 under with Bob May and beat him in a playoff. He led the PGA Tour money list with $9,188,321, took Player of the Year, set or tied 27 tour records over the year and was Associated Press Male Athlete of the Year. Vijay Singh won the Masters.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_sports"
+    },
+    "sports.euro_2000": {
+      "section": "sports",
+      "label": "UEFA European Championship",
+      "value": "France beat Italy 2 to 1 after extra time in the final, decided by a golden goal from Trezeguet",
+      "detail": "Belgium and the Netherlands hosted the tournament jointly from June 10 to July 2. The year page says the win made France the first team to hold the World Cup and the European Championship consecutively, and the sports page calls it France's second European title.",
+      "date": "2000-07-02",
+      "source": "https://en.wikipedia.org/wiki/2000_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New Jersey Devils over the Dallas Stars, four games to two",
+        "NBA Finals, Los Angeles Lakers over the Indiana Pacers, four games to two, their first title in twelve years",
+        "NCAA basketball, Michigan State 89, Florida 76",
+        "WNBA Finals, Houston Comets over the New York Liberty, two games to none, a fourth title in a row",
+        "UEFA Champions League, Real Madrid 3, Valencia 0, at the Stade de France, an eighth European Cup",
+        "UEFA Cup, Galatasaray beat Arsenal 4 to 1 on penalties after a goalless final, the first European title for a Turkish club",
+        "Grey Cup, B.C. Lions 28, Montreal Alouettes 26",
+        "America's Cup, Team New Zealand over the Italian challenger Luna Rossa, five races to none",
+        "Rugby League World Cup, Australia 40, New Zealand 12, at Old Trafford on November 25",
+        "Six Nations Championship, England, in the first year Italy took part",
+        "World Snooker Championship, Mark Williams 18, Matthew Stevens 16",
+        "AFL premiership, Essendon over Melbourne"
+      ],
+      "detail": "Pete Sampras won Wimbledon and Marat Safin the US Open, Andre Agassi the Australian Open and Gustavo Kuerten the French Open. Venus Williams won Wimbledon and the US Open, Lindsay Davenport the Australian Open and Mary Pierce the French Open. Spain beat Australia 3 to 1 in the Davis Cup. Lance Armstrong won the Tour de France, which the sports page marks rescinded, and Stefano Garzelli the Giro d'Italia. Corinthians beat Vasco da Gama 4 to 3 on penalties in the inaugural FIFA Club World Championship. Evander Holyfield beat John Ruiz on points on August 12 to become the first boxer to hold the world heavyweight title four times. Bangladesh became the tenth Test cricket nation on June 26. Essendon became the first club to win its first nineteen games, beating Collingwood's perfect home-and-away season of eighteen from 1929, and Shane Woewodin of Melbourne took the Brownlow Medal.",
+      "source": "https://en.wikipedia.org/wiki/2000_in_sports"
+    },
+    "deaths.schulz": {
+      "section": "deaths",
+      "label": "Charles M. Schulz",
+      "value": "Died February 12. Born 1922",
+      "detail": "Comic strip artist, who drew Peanuts for 50 years.",
+      "date": "2000-02-12",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "deaths.lamarr": {
+      "section": "deaths",
+      "label": "Hedy Lamarr",
+      "value": "Died January 19. Born 1914",
+      "detail": "Austro-Hungarian born American actress. The film page gives her age as 85 and names Samson and Delilah and White Cargo.",
+      "date": "2000-01-19",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "deaths.matthau": {
+      "section": "deaths",
+      "label": "Walter Matthau",
+      "value": "Died July 1. Born 1920",
+      "detail": "Actor.",
+      "date": "2000-07-01",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "deaths.puente": {
+      "section": "deaths",
+      "label": "Tito Puente",
+      "value": "Died May 31. Born 1923",
+      "detail": "Musician, bandleader and record producer.",
+      "date": "2000-05-31",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    },
+    "deaths.landry": {
+      "section": "deaths",
+      "label": "Tom Landry",
+      "value": "Died February 12. Born 1924",
+      "detail": "American football coach.",
+      "date": "2000-02-12",
+      "source": "https://en.wikipedia.org/wiki/2000_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2000 plus two dedicated articles pulled for the date check. figures_basis is gross, checked rather than assumed: bo.mjs prints no table for this year because the film page's box office section has no basis word in its column header row that the helper recognises, so the header was read directly. It reads Rank, Title, Distributor, Worldwide gross, and the sentence above it says the top ten films released in 2000 by worldwide gross are as follows, citing Box Office Mojo and The Numbers. Header and text agree, there is no rentals gloss, and film.gross says worldwide in both its label and its detail so the figures are not read as North American. Date checks, which is why this file cites two pages outside the cache. The presidential election falls on the Tuesday after the first Monday in November, and November 7 satisfies that constraint because the first Monday was November 6. Both cached year pages give November 7 and so does the election's own article, pulled as raw wikitext, so there is no disagreement to name; the article is cited anyway because pol.election takes its electoral and popular vote totals, the blank District of Columbia ballot, the turnout figure and the 1888 comparison from it and no cached page carries any of them. Bush v. Gore was pulled the same way: the case's own article gives argument on December 11 and decision on December 12, which matches the US year page, and it supplies the five to four split, the over 61,000 undervotes and the Equal Protection holding that the cached pages do not. Nothing in this file reaches into the following year for the inauguration, and pol.bush_v_gore stops at Gore's concession the day after the ruling. Source disagreements labelled rather than resolved. The sports page says the United States won 97 medals and 40 gold at Sydney while the US year page gives 37 gold, 24 silver and 32 bronze, and sports.olympics states both. The US year page puts the World Series Game 5 score at 4 to 1 and the television page at 4 to 2, so sports.world_series gives the series result four games to one and no game score. The year page's dated Concorde entry puts four deaths in the hotel and its own image caption puts four on the ground, and world.concorde says so rather than picking. Section windows. tech.web_sites and culture.memes are both open this year and both are empty, because no cached page ranks or counts websites and none mentions a meme, a catchphrase or a piece of internet slang; an invented example would have been the exact failure the accuracy rule exists to stop. The internet facts use tech.internet_bubble, tech.internet_aol and tech.internet_virus, which the prefix table binds to the tech.internet window open from 1993. tech.y2k and tech.genome sit under the plain tech section default because no gated family fits either. music.listening_format uses that exact id and reaches music.format through the families map. No radio fact, because the radio window closed after 1959, and nothing radio-shaped was moved into another section to get round it. The Nielsen ranking covers a season that began in the autumn of 2000 and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: music.listening_format cites the music page for the Napster litigation, the BMG partnership and the price-fixing suit and takes the i2Go podcast system from the science page; tech.y2k cites the year page and takes the little-global-significance line from the science page and the ongoing-item span from the US year page; tech.genome cites the science page, which is the only page naming Tony Blair, and the year page carries the same date with Collins and Venter; sports.world_series cites the sports page for the result and the most valuable player and takes the Subway Series line, the Torre count and the October 26 date from the US year page and the three-peat, the Fox broadcast and the NBC contract from the television page; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player and takes the 1951 line from the US year page; sports.euro_2000 cites the sports page for the golden goal and takes the joint hosting and the consecutive-titles line from the year page; sports.olympics cites the sports page and takes the American medal breakdown it disagrees with, and the NBC opening-ceremony figure, from the US year page and the television page; film.releases cites the US year page because the film page carries no release calendar at all for this year; deaths.lamarr cites the US year page for the date and birth year and takes the age and the two film titles from the film page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before anywhere else, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched and nothing here needed an entry, but three items were dropped over the check rather than for want of a source, and the reason is here rather than in any value or detail. Dr. Dre's album 2001 was ninth on the SoundScan list at 3.9 million and is left unnamed in music.best_selling_album, because the allowlist's own rules say a work titled with a bare four-digit number cannot be listed. Madden NFL 2001, NBA Live 2001 and NHL 2001 are out of tech.games for the same reason; NBA 2K1 and NFL 2K1 would have passed but were cut for room. The 73rd Academy Awards ceremony was themed around 2001: A Space Odyssey, which is on the allowlist, but the theme only makes sense alongside the ceremony's date in the following year, so film.best_picture leaves it out and film.acting_awards keeps only the Arthur C. Clarke and space station details. Safe without an entry and checked: Windows 2000 and the year 2000 problem carry the page's own year, Air France Flight 4590 and the Nokia 3310 are above the range the check matches, the Wilshire 5000 starts with a five, and Nasdaq-100, NBA 2K1, Mission: Impossible 2 and Diablo II are too short. Later-year material dropped for the anachronism rule rather than for want of a source, and left out of every value and detail: the inauguration and everything after it; the US year page's note that the January 2000 al-Qaeda summit in Kuala Lumpur included two of the hijackers named in the 9/11 Commission Report, which is the single most tempting line on that page and reaches a year forward; the end date of the four-year Chris-Craft pact, which tv.viacom_cbs gives as four years instead; the dot-com bubble's closing year in the US year page's ongoing list; the music page's opening claim that this was the peak of United States compact disc sales with declines every year since, which is a statement about later years and is why music.listening_format says only that people listened on compact disc; the games page's line that the PlayStation 2 remains the best-selling console ever with over 160 million units; the television page's remark that NBC would not televise baseball again for 22 years, which sports.world_series reduces to naming the last telecast; Kid A's later critical standing and the diamond certification of Hybrid Theory; the Pakistani announcement that the Balochistan mummy was a forgery; the next century leap year; and the reunions of Smashing Pumpkins, Genesis and the other bands the music page lists as disbanded. Month-only or undated facts: sports.tiger_woods and film.how_people_watched carry no date because their content spans the year, and the list facts carry the date of one entry or none. Iceberg B-15 is dated to March only, which is all the science page gives, and it is in the texture rather than a fact for that reason. Dropped for lack of a source that says enough, or for room. Politics and world: the Camp David summit, which world.second_intifada carries in its detail because the uprising began ten weeks after it collapsed; Vicente Fox winning the Mexican presidency on July 2, the first winner from outside the PRI since 1929; Alberto Fujimori faxing his resignation from a Tokyo hotel room on November 20 and being removed by Congress on the 22nd; the Kaprun and Luoyang fires, the Express Samina sinking, the Enschede explosion and the Alaska Airlines and Kenya Airways crashes, all in the texture instead of a disasters fact; the Mozambique flood of February 9 that killed 800, the Uganda mass suicide of 778 on March 17, the Nigerian pipeline explosion of July 10 that killed about 250, the Air Philippines crash of April 19, the Singapore Airlines collision of October 31 and the Christmas Eve church bombings in Indonesia, none of which fitted; the Hatfield rail crash of October 17; the United Kingdom fuel protests of September 7 to 14; the Millennium Summit of September 6 to 8 and the United Nations Millennium Declaration of September 8; the Oresund Bridge opening on July 1; Chernobyl's last reactor shutting down on December 15; the creation of Jharkhand on November 15; India's population reaching a billion on May 11; the dollarization of Ecuador on March 13; the Martin County coal slurry spill of October 11; the Supreme Court ruling of March 21 that the government could not regulate tobacco as an addictive drug; the 2000 census figure, the Vermont civil unions law, Alabama Amendment 2, Hillary Clinton's Senate win, the Carnahan succession and the Montgomery Ward closure, all in the texture instead of politics facts. Television and film: David Letterman's quintuple bypass on January 15 and his return on February 21; Kathie Lee Gifford's last Live! appearance on July 28; the Daytime and Primetime Emmy broadcasts of May 19 and September 10; the 72nd Academy Awards of March 26, hosted by Billy Crystal at the Shrine Auditorium, where American Beauty won five awards and the telecast drew over 46.5 million viewers, left out on the same ground as the 67th in the 1995 file because they honoured the previous year of film and would put a second Best Picture on the page. Music: the Roskilde crush, the Rage Against the Machine performance outside the New York Stock Exchange, the compact disc price-fixing suit, the abandoned EMI and Warner merger and the Madonna wedding, all in the texture; Prince playing 1999 at midnight in New York and changing his name back on May 16; the Experience Music Project opening in Seattle from June 23 to 25; Aaliyah's Try Again becoming the first airplay-only single to reach number one on June 17; Eminem's divorce filing and the shooting of 50 Cent on May 24. Technology and science: the GPS Selective Availability removal, the Mac OS X Public Beta, Windows Me, Riding the Bullet, Iceberg B-15 and Soyuz TM-31, all in the texture; Windows 2000 on February 17; the first permanent artificial heart implant at the John Radcliffe Hospital on June 20; the negative-index composite material of May 1; the Bastille Day solar storm of July 14; the raising of the H. L. Hunley on August 8; the first Orrorin fossil in the Tugen Hills; Harold Shipman's conviction on January 31. Sport: the Sugar Bowl and the Brownlow Medal, folded into other facts; the March 9 opening of Docklands Stadium; John Campbell reaching $100 million in earnings at one track on March 18; the first World Synchronized Skating Championships in Minneapolis; the four swimming world records the sports page dates individually; the UFC's sale being announced and the New Jersey board becoming the first state regulator of mixed martial arts at UFC 28 on November 17. Deaths that would have earned a place with more room: Jason Robards on December 26, Steve Allen on October 30, Gwendolyn Brooks on December 3, Loretta Young on August 12, Carl Barks on August 25, Douglas Fairbanks Jr. on May 7, Jim Varney on February 10, Screamin' Jay Hawkins on February 12, Big Pun on February 7, Edward Gorey on April 15, Nancy Marchand on June 18, Richard Farnsworth on October 6, Julie London and Gwen Verdon on October 18, Victor Borge on December 23, Willard Van Orman Quine on December 25, John Lindsay on December 19, Billy Barty on December 23, Phil Katz on April 14, Lee Petty on April 5, Larry Linville on April 10, Steve Reeves on May 1, Tito Puente's fellow May 31 deaths John Coolidge and Johnnie Taylor, Hosea Williams and DJ Screw on November 16, Mark Oliphant on July 14, Gherman Titov on September 20 and W. D. Hamilton on March 7. Names and titles are written in ASCII per the corpus convention, so Milosevic, Djindjic, Alejandro Gonzalez Inarritu, Jan Hrebejk, Agnes Jaoui, Sisqo, Trezeguet, Pokemon and Olga Maria Chirino lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death lists give only the year, and the film page's ages are quoted only where a death fact already cites it. There is no cached deaths page for this year: the manifest records Deaths_in_2000 as a redirect to a list-of-lists, so every death here comes from the US year page. This file runs 55 facts across 10 sections: politics 5, world 7, film 7, tv 5, music 6, tech 6, prices 4, culture 4, sports 6, deaths 5. World runs to 7 because the year carries Putin's election, the fall of Grozny, the start of the Second Intifada, the Kursk, the Concorde crash, the fall of Milosevic and the attack on the USS Cole, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. tv.reality_programmes puts Survivor, Big Brother and the Fox multi-millionaire special in one fact as three list entries rather than parking two of them in a third's detail, because all three are the same thing arriving on three networks in one year."
+}

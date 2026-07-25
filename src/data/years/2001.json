@@ -1,0 +1,522 @@
+{
+  "year": 2001,
+  "tier": "modern",
+  "headline": "Wikipedia launched in January, hijacked airliners destroyed the World Trade Center in September, the iPod in October",
+  "texture": [
+    "The Taliban began destroying the Buddhas of Bamiyan on March 2, having declared them idols and having heard the appeals to spare them. The British foot-and-mouth outbreak began on February 19, and millions of farm animals were slaughtered to keep it from spreading. Greece entered the eurozone on the first day of the year as its twelfth member. Australia beat Tonga 22 to nil on April 9 and American Samoa 31 to nil on April 11, two World Cup qualifiers so lopsided that FIFA changed its qualification process afterwards.",
+    "Fox aired the finale of Murder in Small Town X on September 8, in which the New York firefighter Angel Juarbe Jr. won; he was killed three days later. Clear Channel sent its stations a list of 165 songs it called lyrically questionable, including Imagine and everything by Rage Against the Machine. Sting cut a webcast from Italy down to one song. Enya's Only Time ran under CNN's coverage. Anthrax put out a press release offering to rename itself Basket Full of Puppies.",
+    "Enron filed for Chapter 11 on December 2, five days after Dynegy walked away from an $8.4 billion buyout, and it was the largest bankruptcy in United States history to that point. Swissair sought bankruptcy protection on October 2 and Sabena went under on November 7, leaving Switzerland and Belgium each without a national airline. The last Trans World Airlines flight landed at St. Louis on December 1. Dean Kamen unveiled the Segway on Good Morning America on December 3, and the reveal that it balanced itself disappointed people who had waited months to find out.",
+    "Timothy McVeigh was executed at Terre Haute on June 11. Robert Tools received the first self-contained artificial heart on July 2 and went 151 days without a living one. A gunman shot 32 people at Zug in Switzerland on September 27, killing 14 members of parliament and then himself. Murcia recorded the largest outbreak of Legionnaires' disease ever counted, at 449 confirmed cases. The Leaning Tower of Pisa reopened on December 15 after twelve years of work, and a passenger on a Paris flight tried to light explosives in his shoes on December 22."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.september_11",
+    "world.afghanistan",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.wikipedia",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R), sworn in as the 43rd president at the West Front of the Capitol",
+      "detail": "Chief Justice William Rehnquist administered the presidential oath at 12:01 p.m., having sworn in Dick Cheney as vice president first, and an estimated 300,000 people attended. The dedicated article calls it the 54th inauguration and the first of the 21st century, and records the weather at the nearest airport at noon as 36 degrees Fahrenheit, cloudy, with a 12 mile per hour wind. Bush gave his first address to the 107th Congress on February 27.",
+      "date": "2001-01-20",
+      "source": "https://en.wikipedia.org/wiki/First_inauguration_of_George_W._Bush"
+    },
+    "pol.september_11": {
+      "section": "politics",
+      "label": "September 11 attacks",
+      "value": "Nineteen al-Qaeda hijackers flew four airliners into the World Trade Center and the Pentagon and into a Pennsylvania field, killing 2,977 people besides themselves",
+      "detail": "Mohamed Atta flew American Airlines Flight 11 into the North Tower in Lower Manhattan at 8:46 a.m. and Marwan al-Shehhi flew United Airlines Flight 175 into the South Tower at 9:03 a.m. Both towers came down within an hour and forty-two minutes, destroying the five remaining buildings of the complex. Hani Hanjour flew American Airlines Flight 77 into the Pentagon in Arlington County, Virginia at 9:37 a.m., causing a partial collapse. Passengers on United Airlines Flight 93 revolted and the hijackers crashed it near Shanksville, Pennsylvania at 10:03 a.m. The Federal Aviation Administration ordered every aircraft in American airspace to return to its origin or divert to Canada. The dedicated article puts the dead at 343 firefighters and 72 law enforcement officers, more than any other incident in American history for either, and property and infrastructure damage at a minimum of $10 billion. The year page gives the same toll of 2,977 not counting the hijackers. Around 400,000 people in New York City were exposed to asbestos, metals and other carcinogens in the dust.",
+      "date": "2001-09-11",
+      "source": "https://en.wikipedia.org/wiki/September_11_attacks"
+    },
+    "pol.patriot_act": {
+      "section": "politics",
+      "label": "USA PATRIOT Act",
+      "value": "Bush signed the act, which the year page says granted the United States government significant surveillance powers and calls controversial",
+      "detail": "Bush had announced the Office of Homeland Security on October 8. On November 13 he signed an executive order allowing military tribunals against foreigners suspected of connections to terrorist acts against the United States, which the US year page calls the first such act since the Second World War.",
+      "date": "2001-10-26",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "pol.anthrax": {
+      "section": "politics",
+      "label": "Anthrax letters",
+      "value": "Letters containing anthrax spores were mailed to news organisations and members of Congress, killing five people and infecting seventeen more",
+      "detail": "The year page dates the start of the attacks to September 18 and says further contaminated letters were posted from Princeton, New Jersey on October 9. It says the attacks spurred precautions against bioterrorism.",
+      "date": "2001-09-18",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "pol.jeffords": {
+      "section": "politics",
+      "label": "Senate changes hands",
+      "value": "Senator Jim Jeffords left the Republican Party, moving control of the Senate to the Democrats",
+      "date": "2001-06-05",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "pol.tax_cuts": {
+      "section": "politics",
+      "label": "First of the Bush tax cuts",
+      "value": "Bush signed the Economic Growth and Tax Relief Reconciliation Act into law",
+      "detail": "The US year page calls it the first of a series of acts that became known as the Bush tax cuts.",
+      "date": "2001-06-07",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "pol.recession": {
+      "section": "politics",
+      "label": "Recession",
+      "value": "The United States entered the early 2000s recession in March with unemployment at 4.4 percent, and the recession ended in December with unemployment at 5.7 percent",
+      "detail": "The US year page calls 5.7 percent the highest rate since January 1996. The year page says the downturn ran across developed and developing nations, with only middle income nations avoiding it, and that the computer industry declined sharply. It says electronic commerce declined too, with eBay the exception.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "world.afghanistan": {
+      "section": "world",
+      "label": "United States invades Afghanistan",
+      "value": "A coalition led by the United States invaded after the Taliban failed to extradite Osama bin Laden inside 24 hours, beginning Operation Enduring Freedom",
+      "detail": "Bush declared a war on terror in an address to a joint session of Congress on September 20, and NATO invoked Article 5 of the North Atlantic Treaty for the first time in its history. A suicide bomber had killed the Northern Alliance commander Ahmad Shah Massoud on September 9. Northern Alliance forces took Mazar-i-Sharif on November 10, Herat on November 12 and Kabul on November 14. The Taliban surrendered Kandahar, its last stronghold, on December 6, and American forces took the Tora Bora cave complex on December 17, by which time al-Qaeda's leadership had gone into hiding. Burhanuddin Rabbani handed power to an interim administration under Hamid Karzai on December 22. American aircraft bombed a Red Cross facility in Afghanistan on October 16 after misidentifying it.",
+      "date": "2001-10-07",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "world.earthquakes": {
+      "section": "world",
+      "label": "Four earthquakes with heavy casualties",
+      "value": [
+        "El Salvador, January 13, magnitude 7.6, at least 944 dead and thousands left homeless by landslides",
+        "Gujarat, India, January 26, magnitude 7.7, between 13,805 and 20,023 dead and nearly 340,000 buildings destroyed",
+        "El Salvador, February 13, magnitude 6.6, at least 315 dead",
+        "Southern Peru, June 23, magnitude 8.4, at least 77 dead"
+      ],
+      "detail": "The year page groups these four as the earthquakes that caused significant casualties and calls the Peruvian one the strongest anywhere since 1965. A 7.8 quake struck China near Kokoxili on November 14 with no casualties, in sparsely populated mountains. The Biblioteca Gallardo in El Salvador was destroyed. Mount Etna erupted from July 17 into the following month.",
+      "date": "2001-01-26",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "world.milosevic": {
+      "section": "world",
+      "label": "Slobodan Milosevic arrested",
+      "value": "The former Yugoslav president surrendered to police special forces and became the first head of state to face trial for crimes against humanity before an international body",
+      "detail": "The year page cites his role in the Srebrenica massacre and other crimes committed during the Bosnian War. The International Criminal Tribunal for the former Yugoslavia convicted the Bosnian Serb general Radislav Krstic of genocide on August 2, its first genocide conviction, and on February 22 it ruled that wartime sexual violence was a war crime. Belgium prosecuted crimes of the Rwandan genocide under a 1993 law giving its courts jurisdiction over Geneva Conventions violations committed anywhere.",
+      "date": "2001-04-01",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "world.nepal": {
+      "section": "world",
+      "label": "Nepalese royal massacre",
+      "value": "Crown Prince Dipendra shot his father the king, his mother and other members of the royal family, then shot himself",
+      "detail": "The year page says Dipendra became king on his father's death, fell into a coma and died days later, and that his uncle Gyanendra ascended the throne on June 4.",
+      "date": "2001-06-01",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "world.argentina": {
+      "section": "world",
+      "label": "Argentine president resigns amid riots",
+      "value": "Fernando de la Rua left office as the Argentine great depression peaked in rioting, and the interim government fell soon after",
+      "detail": "The year page disagrees with itself on the date. Its events list and its photograph caption put the resignation on December 21 and its Domestic politics section puts it on December 20, so no single day is stated here. The page says the Argentine recession dragged down economies across Latin America, and that Turkey had a currency crisis the same year.",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "world.china_wto": {
+      "section": "world",
+      "label": "China joins the World Trade Organization",
+      "value": "China acceded on December 11 and was granted permanent normal trade status with the United States on December 27",
+      "detail": "Lithuania joined the same organisation on May 31 and Moldova on July 26. The organisation opened the Doha Development Round in November to negotiate lower trade barriers.",
+      "date": "2001-12-11",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "world.same_sex_marriage": {
+      "section": "world",
+      "label": "Netherlands legalises same-sex marriage",
+      "value": "The Act on the Opening up of Marriage took effect, making the Netherlands the first modern country to do it",
+      "date": "2001-04-01",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Harry Potter and the Philosopher's Stone, $974,755,371, Warner Bros.",
+        "The Lord of the Rings: The Fellowship of the Ring, $883,726,270, New Line",
+        "Monsters, Inc., $528,773,250, Walt Disney Pictures",
+        "Shrek, $487,853,320, DreamWorks",
+        "Ocean's Eleven, $450,717,150, Warner Bros."
+      ],
+      "detail": "Worldwide gross rather than domestic. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it says these are the top ten films released this year by worldwide gross, so header and text agree. Pearl Harbor was sixth at $449,220,945 for Touchstone, The Mummy Returns seventh at $435,040,395 and Jurassic Park III eighth at $368,780,809, both Universal, Planet of the Apes ninth at $362,211,740 for 20th Century Fox and Hannibal tenth at $351,692,268 for MGM and Universal. The year page says the highest-grossing film not in English was Studio Ghibli's Spirited Away, fifteenth for the year.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "A Beautiful Mind, produced by Brian Grazer and Ron Howard",
+      "detail": "Awarded the following spring at the 74th Academy Awards, held at the Kodak Theatre in Hollywood and hosted by Whoopi Goldberg for the fourth time. This ceremony introduced the Academy Award for Best Animated Feature, which Shrek won over Jimmy Neutron: Boy Genius and Monsters, Inc.; the rules required a film at least 70 minutes long and at least 75 percent animated. The Lord of the Rings: The Fellowship of the Ring led with thirteen nominations, the seventh film ever to reach that many, and A Beautiful Mind and Moulin Rouge! tied on eight. A Beautiful Mind won four awards including Best Director for Howard and adapted screenplay for Akiva Goldsman, and the ceremony page says the win made DreamWorks the second studio to release three consecutive Best Picture winners after American Beauty and Gladiator. Laura Ziskin produced the telecast, the first woman to do it alone, and the Academy refused calls to postpone the show after the September 11 attacks. The ABC broadcast ran four hours and twenty-three minutes, a record, and averaged 41.82 million viewers with 25.54 percent of households, the lowest household rating in Oscars history. Sidney Poitier and Robert Redford received Honorary Awards.",
+      "source": "https://en.wikipedia.org/wiki/74th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Denzel Washington, Training Day",
+        "Best Actress, Halle Berry, Monster's Ball",
+        "Best Supporting Actor, Jim Broadbent, Iris",
+        "Best Supporting Actress, Jennifer Connelly, A Beautiful Mind"
+      ],
+      "detail": "The ceremony page says this was the first time the acting categories produced two African-American winners, that Washington was the second non-white winner of Best Actor after Sidney Poitier for Lilies of the Field in 1963, and that Berry was the first African-American to win Best Actress. Judi Dench and Kate Winslet were both nominated for playing Iris Murdoch in Iris, the second pair of actresses nominated for the same character in the same film after Winslet and Gloria Stuart as Rose in Titanic in 1997. Julian Fellowes won original screenplay for Gosford Park. Howard Shore won original score for The Lord of the Rings: The Fellowship of the Ring and Randy Newman original song for If I Didn't Have You from Monsters, Inc. Black Hawk Down took sound and Pearl Harbor sound editing.",
+      "source": "https://en.wikipedia.org/wiki/74th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "No Man's Land, Bosnia and Herzegovina, in Bosnian, directed by Danis Tanovic, the winner",
+        "Amelie, France, in French, directed by Jean-Pierre Jeunet",
+        "Elling, Norway, in Norwegian, directed by Petter Naess",
+        "Lagaan, India, in Hindi, directed by Ashutosh Gowariker",
+        "Son of the Bride, Argentina, in Spanish, directed by Juan Jose Campanella"
+      ],
+      "detail": "The ceremony page gives each film's country, language and director. Amelie also took five nominations overall. The film page's festival list gives the Palme d'Or at the 54th Cannes Film Festival to Nanni Moretti's The Son's Room from Italy, the Golden Lion at the 58th Venice International Film Festival to Mira Nair's Monsoon Wedding from India, and the Golden Bear at the 51st Berlin International Film Festival to Patrice Chereau's Intimacy from France. Murder on a Sunday Morning, by Jean-Xavier de Lestrade and Denis Poncet, won Best Documentary Feature.",
+      "source": "https://en.wikipedia.org/wiki/74th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Shrek, May 18",
+        "Atlantis: The Lost Empire, June 15, Walt Disney Pictures' 41st feature",
+        "The Fast and the Furious, June 22",
+        "Monsters, Inc., November 2",
+        "Harry Potter and the Sorcerer's Stone, November 16, directed by Chris Columbus",
+        "The Lord of the Rings: The Fellowship of the Ring, December 19, directed by Peter Jackson"
+      ],
+      "detail": "The film page says Monsters, Inc. opened with the best ticket sales any animated film had recorded and the sixth best of any film to that point, and that the two fantasy openings pulled the genre into the mainstream, made young adult novels popular and turned the blockbuster toward franchises and fandom. It says The Fast and the Furious launched one of the highest-grossing franchises in film history. The film page and the box office table use the British title Harry Potter and the Philosopher's Stone; the US year page uses the American title, which is what the release date here comes from. Tom Cruise and Nicole Kidman divorced on August 8.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The film page ranks the year by worldwide gross rather than domestic, and names Monsoon Wedding, Amelie and Spirited Away among the significant releases not in English.",
+      "detail": "None of the eleven cached pages says anything about DVD, videotape rental or a television premiere, so this fact claims nothing about home viewing and no figure for it is given.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$5.65",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2001",
+      "value": [
+        "Friends, NBC, 15.0 rating",
+        "CSI: Crime Scene Investigation, CBS, 14.5",
+        "ER, NBC, 14.2",
+        "Everybody Loves Raymond, CBS, 12.8",
+        "Law & Order, NBC, 12.6"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Survivor was sixth on 11.8 for CBS, Monday Night Football seventh on 11.5 for ABC and The West Wing eighth on 11.4 for NBC, with Will & Grace and Leap of Faith tied ninth on 11.0, also NBC. Becker was eleventh on 10.7 for CBS.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2001%E2%80%9302"
+    },
+    "tv.september_11_coverage": {
+      "section": "tv",
+      "label": "Networks cover the attacks for four days",
+      "value": "Most American over-the-air broadcasters and cable networks dropped regular programming for four days, and the three big networks resumed normal daytime schedules on September 15",
+      "detail": "The television page names Fox, UPN, PBS and The WB as the broadcasters that kept programming on. Its citation quotes The New York Times reporting that CBS, NBC and ABC had been on air continuously and without commercial interruption for 72 hours by the morning of September 15, more consecutive hours than any previous event, and that no network had covered the Kennedy assassination for more than 70. Viewers watched the towers fall live. The broadcast towers of WABC-TV, WNBC and WCBS-TV were destroyed in the collapse, though WCBS kept a full-power backup transmitter on the Empire State Building and the other two signals stayed available on cable and satellite. Continuously scrolling headlines along the bottom of the screen, seen occasionally since 1952, became commonplace after Fox News Channel used one to carry developments. UPN was first back with a live SmackDown on September 13, and Big Brother 2 named its winner on September 20 after a delay.",
+      "date": "2001-09-11",
+      "source": "https://en.wikipedia.org/wiki/2001_in_American_television"
+    },
+    "tv.telethon": {
+      "section": "tv",
+      "label": "America: A Tribute to Heroes",
+      "value": "A two-hour telethon for the families of those killed ran on ABC, CBS, Fox and NBC, and the US year page says more than 35 network and cable channels carried it",
+      "detail": "The music page says it aired uninterrupted with performances by Bruce Springsteen, Tom Petty, Celine Dion, Neil Young, Stevie Wonder, Alicia Keys, Dave Matthews, Faith Hill and Mariah Carey.",
+      "date": "2001-09-21",
+      "source": "https://en.wikipedia.org/wiki/2001_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Lizzie McGuire, Disney Channel, January 12",
+        "Six Feet Under, HBO, June 3",
+        "Adult Swim, Cartoon Network, September 2",
+        "The Amazing Race, CBS, September 5",
+        "Band of Brothers, HBO, September 9",
+        "Alias, ABC, September 30",
+        "Scrubs, NBC, October 2",
+        "Degrassi: The Next Generation, Nickelodeon, October 14",
+        "Smallville, The WB, October 16",
+        "Pardon the Interruption, ESPN, October 22",
+        "24, Fox, November 6",
+        "The Bernie Mac Show, Fox, November 14"
+      ],
+      "detail": "The television page's debut table gives each date and channel. Its events table adds that Ed Toutant won $1,860,000 on Who Wants to Be a Millionaire on September 7, having been ruled wrong on a $16,000 question in a January episode and invited back once the question was found to be faulty.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_American_television"
+    },
+    "tv.wwf_buys_wcw": {
+      "section": "tv",
+      "label": "The Monday Night War ends",
+      "value": "The World Wrestling Federation bought World Championship Wrestling from AOL Time Warner for $2.5 million",
+      "detail": "WCW's last pay-per-view, Greed, came from the Jacksonville Memorial Coliseum on March 18. Extreme Championship Wrestling filed for bankruptcy on April 15. Vince McMahon also founded the XFL, which folded inside the year after the Los Angeles Xtreme won its only championship.",
+      "date": "2001-03-23",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Hanging by a Moment, Lifehouse",
+        "Fallin', Alicia Keys",
+        "All for You, Janet",
+        "Drops of Jupiter (Tell Me), Train",
+        "I'm Real (Murder Remix), Jennifer Lopez featuring Ja Rule"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 29. Destiny's Child and Nelly each placed three songs, and Destiny's Child ranked highest of theirs at number ten with Independent Women Part I, which had held number one for eleven weeks. Jennifer Lopez placed two more, Love Don't Cost a Thing at 26 and Play at 72.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2001"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On compact disc, with 3.2 billion units of recorded music sold worldwide for US$33.7 billion. Apple released the iTunes media library on January 9 and the first iPod on October 23, and the music page says portable music grew in popularity after both.",
+      "detail": "The same page says DVD-Audio and Super Audio CD rose to prominence with roughly 600 titles between them. Napster shut down its whole network on July 2 to comply with a court injunction against trading copyrighted files. XM Satellite Radio launched on September 25. Charley Pride's A Tribute to Jim Reeves became the first compact disc issued with copy protection on May 15, and BMG became the first major label to try it on November 5 with Natalie Imbruglia's White Lilies Island, then agreed within two weeks to reissue the disc unprotected after buyers found it would not play in a computer.",
+      "date": "2001-10-23",
+      "source": "https://en.wikipedia.org/wiki/2001_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums in the United States",
+      "value": [
+        "Hybrid Theory, Linkin Park, about 4,810,000 copies",
+        "Hot Shot, Shaggy, about 4,520,000",
+        "Celebrity, NSYNC, about 4,420,000",
+        "A Day Without Rain, Enya, about 4,410,000",
+        "Break the Cycle, Staind, about 4,240,000"
+      ],
+      "detail": "SoundScan figures as the music page gives them, rounded in the source itself. Songs in A Minor by Alicia Keys was sixth on about 4,100,000, Survivor by Destiny's Child seventh on about 3,720,000 and Weathered by Creed eighth on about 3,580,000. Billboard's own top five for the year were Hybrid Theory, the Beatles compilation 1, Michael Jackson's Invincible, U2's All That You Can't Leave Behind and Aaliyah's Aaliyah. The year page says the best-selling albums worldwide were Hybrid Theory, Dido's No Angel and Destiny's Child's Survivor, and that the best-selling album not in English was Andrea Bocelli's Cieli di Toscana, 23rd globally.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Discovery, Daft Punk, March 12",
+        "All for You, Janet Jackson, April 24",
+        "Amnesiac, Radiohead, June 5",
+        "Aaliyah, Aaliyah, July 17",
+        "The Blueprint, Jay-Z, September 11",
+        "Love and Theft, Bob Dylan, September 11",
+        "Invincible, Michael Jackson, October 30",
+        "Britney, Britney Spears, October 31"
+      ],
+      "detail": "The Blueprint came out a week early to get ahead of bootleggers, and The Glow Pt. 2 by The Microphones and Mariah Carey's Glitter soundtrack landed the same day. All for You was Janet Jackson's fifth album in a row to open at number one, selling over 600,000 copies, and its title single became the first song added to every station in three mainstream radio formats in its first week. Britney made Spears the first female artist whose first three albums all entered the American chart at number one. Invincible debuted at number one but sold poorly during a public fight with Sony Music over Jackson's back catalogue.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_music"
+    },
+    "tech.wikipedia": {
+      "section": "tech",
+      "label": "Wikipedia launches",
+      "value": "The encyclopedia anyone could edit went up on the internet",
+      "detail": "All three of the year page, the US year page and the science page date the launch to January 15 and none of them gives an article count, a founder or a licence. Creative Commons was founded the same day, which the year page cites to a domain registration record.",
+      "date": "2001-01-15",
+      "source": "https://en.wikipedia.org/wiki/2001_in_science"
+    },
+    "tech.operating_systems": {
+      "section": "tech",
+      "label": "Two operating systems released",
+      "value": [
+        "Mac OS X version 10.0, Apple, March 24",
+        "Windows XP, Microsoft, released to retail October 25"
+      ],
+      "detail": "The science page dates the Windows XP release to August 24 and says it went on retail sale on October 25, which is the date both year pages give; the earlier date is the release to manufacturing rather than to buyers. Apple discontinued the Power Mac G4 Cube during the year. Several worms spread, among them Code Red, Nimda and Sircam. The most powerful supercomputer of the year was built by IBM for the Lawrence Livermore National Laboratory.",
+      "date": "2001-10-25",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Game Boy Advance, Nintendo, Japan March 21, North America June 11, Europe and Australasia June 22",
+        "GameCube, Nintendo, Japan September 14, North America November 18",
+        "Xbox, Microsoft's first console, North America November 15",
+        "Grand Theft Auto III, Rockstar Games, October 22, on the PlayStation 2",
+        "Halo: Combat Evolved, November 15, on the Xbox",
+        "Final Fantasy X, Squaresoft, on the PlayStation 2",
+        "Gran Turismo 3: A-Spec, Polyphony Digital, on the PlayStation 2"
+      ],
+      "detail": "The games page calls the PlayStation 2 the dominant console of the year and says Sega left the hardware market after the Dreamcast failed. Pokemon Gold, Silver and Crystal was the best-selling game worldwide for the fourth year running, at 3,127,659 copies in the United States for $91,038,324 and 826,125 in Japan. Grand Theft Auto III sold 1,965,832 copies in the United States. GameRankings named Metal Gear Solid 2: Sons of Liberty its game of the year as the highest-rated title of the year at 97 percent across more than 50 publications, Electronic Playground and GameRevolution named Grand Theft Auto III, and the British Academy Games Awards named Gran Turismo 3. Nintendo also put out the Pokemon Mini on November 16.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_video_games"
+    },
+    "tech.internet_aol": {
+      "section": "tech",
+      "label": "AOL and Time Warner merger cleared",
+      "value": "The Federal Trade Commission approved the merger of America Online and Time Warner",
+      "detail": "The year page says AOL was at the height of its popularity and calls the purchase the largest merger in history at the time, without giving a figure. It dates the announcement to January 10 without naming a year, so no announcement date is stated here.",
+      "date": "2001-01-11",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "Spaceflight",
+      "value": [
+        "NEAR Shoemaker touched down in the saddle region of the asteroid 433 Eros on February 12, the first spacecraft to land on an asteroid",
+        "Mir was deorbited on March 23 with debris falling in the Pacific",
+        "Soyuz TM-32 lifted off from Baikonur on April 28 carrying Dennis Tito, the first space tourist, who came back on May 6 aboard Soyuz TM-31",
+        "Genesis launched from Cape Canaveral on August 8",
+        "Galileo passed within 180 kilometres of Jupiter's moon Io on October 15",
+        "2001 Mars Odyssey reached Mars on October 24, having launched on a Delta II on April 7",
+        "Hubble detected sodium in the atmosphere of HD 209458 b on November 27, the first exoplanet atmosphere measured"
+      ],
+      "detail": "The science page carries the asteroid landing, the Genesis launch, the Io flyby and the exoplanet atmosphere. The year page carries the Mir deorbit, the Mars Odyssey launch and arrival, and says the year had the fewest successful orbital spaceflights since 1963 with eight crewed missions. The US year page carries the Tito flight and its return. Deep Space 1 flew within 2,200 kilometres of Comet Borrelly on September 22.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_science"
+    },
+    "tech.genome": {
+      "section": "tech",
+      "label": "Human genome published",
+      "value": "The publicly funded Human Genome Project under Francis Collins and the private Celera effort under Craig Venter published their decodings of the human genome simultaneously, in Nature and Science respectively",
+      "detail": "The science page dates the papers to February without a day. Venter and Mark Adams also completed the genetic map of the laboratory mouse during the year. A cloned gaur named Noah, the first animal of an endangered species produced by cloning, was born at Trans Ova Genetics in Sioux Center, Iowa on January 8 and died within 48 hours of dysentery. The year page says American scientists cloned a human embryo on October 13.",
+      "date": "2001-02",
+      "source": "https://en.wikipedia.org/wiki/2001_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.46 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A new president sworn in after an election nobody agreed had been settled, then an autumn when the networks stopped selling advertising and ran the same footage of two towers for days. The new things to own were a white music player and an encyclopedia anyone could edit."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, V. S. Naipaul",
+        "Peace, the United Nations and Kofi Annan",
+        "Physics, Eric Allin Cornell, Wolfgang Ketterle and Carl Wieman",
+        "Chemistry, William Standish Knowles, Ryoji Noyori and Karl Barry Sharpless",
+        "Medicine, Leland H. Hartwell, Tim Hunt and Paul Nurse",
+        "Economics, George Akerlof, Michael Spence and Joseph Stiglitz"
+      ],
+      "detail": "The year page gives no dates for any of them. The Turing Award went to Ole-Johan Dahl and Kristen Nygaard, and the Wollaston Medal for geology to Harry Blackmore Whittington.",
+      "source": "https://en.wikipedia.org/wiki/2001"
+    },
+    "culture.monolith": {
+      "section": "culture",
+      "label": "A monolith appears in Seattle",
+      "value": "An anonymous artist left a black monolith 270 centimetres tall in Magnuson Park, referring to the one in the film 2001: A Space Odyssey",
+      "date": "2001-01-01",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "culture.producers": {
+      "section": "culture",
+      "label": "The Producers opens on Broadway",
+      "value": "Mel Brooks and Thomas Meehan's musical opened at the St. James Theatre with Nathan Lane and Matthew Broderick",
+      "detail": "The US year page calls it a multiple Tony Award winner and gives no award count or ceremony date.",
+      "date": "2001-04-19",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Arizona Diamondbacks beat the New York Yankees four games to three, with Randy Johnson and Curt Schilling of Arizona named series co-most valuable players",
+      "detail": "The sports page says the franchise was four seasons old, which made it the youngest ever to win. The US year page says game four on November 1 was the first World Series game played in November, and that Derek Jeter's walk-off home run in the tenth inning earned him the nickname Mr. November. The Seattle Mariners tied the 1906 Chicago Cubs record of 116 regular season wins. Ichiro Suzuki of Seattle was American League most valuable player and rookie of the year, Albert Pujols of St. Louis National League rookie of the year, Randy Johnson National League Cy Young winner and Roger Clemens the American League one. The Yakult Swallows beat the Osaka Kintetsu Buffaloes four games to one in the Japan Series.",
+      "date": "2001-11-04",
+      "source": "https://en.wikipedia.org/wiki/2001_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXV",
+      "value": "The Baltimore Ravens beat the New York Giants 34 to 7 at Raymond James Stadium in front of 71,921, with the linebacker Ray Lewis named most valuable player",
+      "detail": "Oklahoma had beaten Florida State 13 to 2 in the Orange Bowl for the previous college season's national championship. INVESCO Field at Mile High opened on September 10 with Denver beating the Giants 31 to 20, and Memorial Stadium in Baltimore was demolished. Tom Brady, a sixth-round draft pick, made his first professional start for New England on September 30 after Drew Bledsoe was hurt.",
+      "date": "2001-01-28",
+      "source": "https://en.wikipedia.org/wiki/2001_in_sports"
+    },
+    "sports.bonds": {
+      "section": "sports",
+      "label": "Barry Bonds hits 73 home runs",
+      "value": "The San Francisco Giants outfielder set the record for home runs in a season",
+      "detail": "The US year page dates his 71st and 72nd, which broke the previous record, to October 5. He was National League most valuable player and Associated Press Male Athlete of the Year.",
+      "date": "2001-10-05",
+      "source": "https://en.wikipedia.org/wiki/2001_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Colorado Avalanche over the New Jersey Devils, four games to three, Ray Bourque's only Cup",
+        "NBA Finals, Los Angeles Lakers over the Philadelphia 76ers, four games to one",
+        "NCAA men's basketball, Duke 82, Arizona 72",
+        "WNBA Finals, Los Angeles Sparks over the Charlotte Sting, two games to none, the franchise's first",
+        "UEFA Champions League, Bayern Munich over Valencia 5 to 4 on penalties after a 1 to 1 draw, the club's fourth European Cup",
+        "UEFA Cup, Liverpool over Alaves 5 to 4 after extra time, decided by an own goal that counted as the golden goal",
+        "Masters Tournament, Tiger Woods, which made him the first golfer to hold all four major titles at once"
+      ],
+      "detail": "Joe Sakic of Colorado took the Hart Memorial Trophy and Jaromir Jagr of Pittsburgh the Art Ross Trophy. Michael Jordan returned to the National Basketball Association with the Washington Wizards on October 30 after three and a half years away, and the Wizards lost 93 to 91 to the New York Knicks. Retief Goosen won the US Open, David Duval the British Open and David Toms the PGA Championship, with Woods leading the money list at $5,687,777, and the Ryder Cup was postponed. France beat Japan in the Confederations Cup. The year page says many sporting events in the United States were postponed in the last months of the year after the September 11 attacks, and that others in Britain and Ireland were called off over foot-and-mouth disease.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_sports"
+    },
+    "sports.tennis": {
+      "section": "sports",
+      "label": "Tennis majors",
+      "value": [
+        "Australian Open, Andre Agassi and Jennifer Capriati",
+        "French Open, Gustavo Kuerten and Jennifer Capriati",
+        "Wimbledon, Goran Ivanisevic and Venus Williams",
+        "US Open, Lleyton Hewitt and Venus Williams"
+      ],
+      "detail": "France beat Australia 3 to 2 in the Davis Cup. Capriati was Associated Press Female Athlete of the Year.",
+      "source": "https://en.wikipedia.org/wiki/2001_in_sports"
+    },
+    "deaths.harrison": {
+      "section": "deaths",
+      "label": "George Harrison",
+      "value": "Died November 29. Born 1943",
+      "detail": "Lead guitarist of the Beatles, of lung cancer at 58.",
+      "date": "2001-11-29",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "deaths.aaliyah": {
+      "section": "deaths",
+      "label": "Aaliyah",
+      "value": "Died August 25. Born 1979",
+      "detail": "Singer and actress, killed when an overloaded Cessna 402 crashed just after takeoff from Marsh Harbour in the Bahamas. The year page puts the dead at eight including her and members of her entourage, while the accident record it cites is headed as nine killed. Her third album had come out on July 17.",
+      "date": "2001-08-25",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "deaths.earnhardt": {
+      "section": "deaths",
+      "label": "Dale Earnhardt",
+      "value": "Died February 18. Born 1951",
+      "detail": "Stock car driver, killed in a last-lap crash in the 43rd Daytona 500.",
+      "date": "2001-02-18",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "deaths.lemmon": {
+      "section": "deaths",
+      "label": "Jack Lemmon",
+      "value": "Died June 27. Born 1925",
+      "detail": "Actor.",
+      "date": "2001-06-27",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    },
+    "deaths.adams": {
+      "section": "deaths",
+      "label": "Douglas Adams",
+      "value": "Died May 11. Born 1952",
+      "detail": "English author and humorist.",
+      "date": "2001-05-11",
+      "source": "https://en.wikipedia.org/wiki/2001_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/2001 plus two dedicated articles pulled for the date check. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it says the top ten films released in 2001 by worldwide gross are as follows, so header and text agree and there is no rentals gloss to write. film.gross names worldwide in its detail so the figures are not read as North American. Date checks. Two events this year carry a checkable constraint, and the brief's rule was applied to both. The inauguration must fall on January 20, and it does: the dedicated article gives Saturday, January 20, 2001 at the West Front of the Capitol, the 54th inauguration, with Rehnquist administering the oath at 12:01 p.m. and an estimated 300,000 attending, and the US year page agrees on the day. There is no disagreement to report, so pol.us_president cites the dedicated article because the year pages carry none of that detail. The September 11 attacks are dated to September 11 by the year page, the US year page, the television page and the music page, and the dedicated article agrees, giving the impact times as 8:46, 9:03, 9:37 and 10:03 a.m. Eastern. Again no disagreement, and pol.september_11 cites the dedicated article because it carries the flight numbers, the hijacker names, the collapse interval, the firefighter and law enforcement tolls and the damage figure that no cached page holds. The two articles pulled were https://en.wikipedia.org/wiki/First_inauguration_of_George_W._Bush and https://en.wikipedia.org/wiki/September_11_attacks. The 74th Academy Awards honouring this year of film fall in the following spring, so film.best_picture, film.acting_awards and film.world_cinema name the winners, the host, the producer, the venue and the telecast figures without a ceremony date. The 73rd Academy Awards of March 25, hosted by Steve Martin at the Shrine Auditorium, are out of the file for the same reason 1995 leaves out the 67th: they honoured the previous year of film and would put a second Best Picture on the page. The 43rd Grammy Awards of February 21 in Los Angeles, hosted by Jon Stewart, which gave Album of the Year to Steely Dan's Two Against Nature, Record and Song of the Year to U2's Beautiful Day and Best New Artist to Shelby Lynne, are left out on the same ground, since they honoured the previous year's recordings. The Golden Globe, Critics' Choice and BAFTA ceremony dates on the film page's awards table all fall in the following year, so no fact dates them and none of their winners is claimed as this year's. Source disagreements labelled rather than resolved. The year page contradicts itself on the resignation of Fernando de la Rua: its events list and its photograph caption say December 21 and its Domestic politics section says December 20, so world.argentina carries no date field and says so. The science page dates the Windows XP release to August 24 while both year pages give October 25, and tech.operating_systems states the October date as the retail release and names the earlier one as the release to manufacturing, which is what the science page's own wording supports. The year page's death entry for Aaliyah puts the crash toll at eight including her, while the accident-archive page it cites is headed as nine killed, and deaths.aaliyah names both rather than choosing. The television page's own prose does not carry the 72-hour figure for continuous coverage; that sits inside a New York Times quotation in one of its citations, which tv.september_11_coverage says outright rather than presenting as the page's own claim. The year page's Economy section says the AOL purchase of Time Warner was announced on January 10 without naming a year, and the actual announcement belongs to an earlier year, so tech.internet_aol takes the dated Federal Trade Commission approval of January 11 from the US year page instead and records the ambiguity rather than printing a date this page cannot stand behind. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: pol.september_11 cites the dedicated article and takes the dust-exposure figure for New York City from the year page; pol.patriot_act cites the US year page for the October 26 signing date and the November 13 executive order and takes the surveillance-powers characterisation from the year page, which is the page that makes it; world.afghanistan cites the year page throughout; tv.telethon cites the television page for the telethon and takes the channel count from the US year page and the performer list from the music page; music.listening_format cites the music page for all of it, since that page carries the sales figure, the iTunes and iPod dates, the format titles, the Napster shutdown, the XM launch and both copy-protection items; tech.wikipedia cites the science page and notes that both year pages give the same day; tech.operating_systems cites the year page and takes the release-to-manufacturing date from the science page; tech.space cites the science page and takes the Mir deorbit, the Mars Odyssey dates and the orbital-spaceflight count from the year page and the Dennis Tito flight from the US year page; sports.world_series cites the sports page for the result and the co-most-valuable-players and takes the November game, the Jeter nickname and the series length from the US year page; sports.bonds cites the sports page for the record and takes the October 5 date from the US year page; film.releases cites the film page and takes the American release title and date for the first Harry Potter picture and the Atlantis feature number from the US year page; music.best_selling_album cites the music page for the SoundScan and Billboard rankings and takes the worldwide sellers from the year page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, including the reading that the previous election was still disputed when Bush took office, which none of the cached pages says in those words. Both come out if challenged. Names carrying a four-digit number. 2001: A Space Odyssey appears in culture.monolith and is already in src/data/name_years.json, so that file was not touched. Three items were dropped over the anachronism rule rather than for want of a source, and the reason appears nowhere in a value or detail: Madden NFL 2002, which the games page ranks second among American best-sellers at 2,220,112 copies and $110,000,000; the award of the Summer Olympics to Beijing on July 13, which the year page can only state by naming a later year; and the Ryder Cup's new date, which sports.champions therefore records only as a postponement. NBA Live 2002 and NBA 2K2 are out for the same reason. Titles that needed no exemption and are safely in: the television series 24 and Six Feet Under, Grand Theft Auto III, Metal Gear Solid 2, Final Fantasy X, Gran Turismo 3 and The Glow Pt. 2, all one or two digits, and 2001 Mars Odyssey, which names this page's own year. Section windows. culture.memes opens in 1996 and no cached page carries a meme, a catchphrase or anything internet-borne of that kind for this year, so no such fact exists here rather than one being written from memory. tech.social does not open until 2003, so nothing in the file uses a tech.social id. There is no radio fact, because the radio window closed after 1959, and no radio material was moved elsewhere to get round it: the XM Satellite Radio launch is inside music.listening_format because it is a claim about how music reached listeners, which is what that fact is for. tech.wikipedia sits under the plain tech section id, matching the tech.gmail convention of the neighbouring modern years; the internet facts that need a gate use tech.internet_aol, which the families map binds to the tech.internet window open from 1993. The Nielsen ranking covers a season that began in the autumn of 2001 and ran into the following spring, which tv.top_shows states without naming a second year. Month-only dates: tech.genome carries 2001-02 because the science page dates the two genome papers to February without a day. pol.recession, world.argentina and the list facts carry no date at all. Dropped for lack of a source that says enough, or for room, and put in texture instead: the destruction of the Buddhas of Bamiyan on March 2, the British foot-and-mouth outbreak, Greece joining the eurozone on January 1, Australia's 22 to nil and 31 to nil qualifying wins, the September 8 finale of Murder in Small Town X and the death of its winner Angel Juarbe Jr. three days later, the Clear Channel memorandum of September 14 listing 165 songs as lyrically questionable, Sting's shortened webcast, Enya's Only Time under CNN's coverage, Anthrax's press release of October 10, the Enron bankruptcy of December 2 and the collapsed Dynegy buyout, the Swissair and Sabena failures, the last Trans World Airlines flight of December 1, the unveiling of the Segway on December 3, the execution of Timothy McVeigh on June 11, the first self-contained artificial heart implanted in Robert Tools on July 2 and his 151 days without a living one, the Zug massacre of September 27, the Legionnaires' disease outbreak in Murcia, the reopening of the Leaning Tower of Pisa on December 15 and Richard Reid's attempt to light explosives in his shoes on December 22. Dropped entirely: the 46th Eurovision Song Contest at Parken Stadium in Copenhagen on May 12, won by Tanel Padar and Dave Benton with Everybody for Estonia, the first win for a Baltic state and for a former Soviet republic, left out only for room; the Hainan Island incident of April 1; the 27th G8 summit at Genoa and its 200,000 protesters; the Macedonian insurgency and the Ohrid Agreement of August 13; the Second Intifada and the India-Pakistan standoff; the assassination of Laurent-Desire Kabila on January 16; the Second EDSA Revolution and the resignation of Joseph Estrada; the removal of Abdurrahman Wahid and the inauguration of Megawati Sukarnoputri on July 23; Tropical Storm Allison's 36 inches of rain over Houston in June; the Nisqually earthquake of February 28; the arrest of Robert Hanssen on February 18; the arrest of Gary Ridgway on November 30; 3G service starting in Japan on October 1; the Budapest Convention on Cybercrime of November 23; the American withdrawal from the Kyoto Protocol on March 28 and from the Anti-Ballistic Missile Treaty announced on December 13; the collapse of the Hintze Ribeiro bridge in Portugal on March 4; the Angola train attack of August 10; the Toumai skull fragments found in Chad; and the first 7-qubit NMR quantum computer demonstrated at IBM Almaden. Names and titles are written in ASCII per the corpus convention, so Slobodan Milosevic, Amelie, Danis Tanovic, Petter Naess, Juan Jose Campanella, Patrice Chereau, Fernando de la Rua, Deportivo Alaves, Goran Ivanisevic, Jaromir Jagr, Ryoji Noyori, Angel Juarbe Jr. and Laurent-Desire Kabila lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year, and the Harrison and Aaliyah details take the cause and the crash from the same page and the music page. Deaths that would have earned a place with more room: Anthony Quinn on June 3, Perry Como on May 12, Joey Ramone on April 15, Ken Kesey on November 10, Katharine Graham on July 17, Isaac Stern on September 22, John Lee Hooker and Carroll O'Connor on June 21, Chet Atkins on June 30, William Hanna on March 22, John Phillips on March 18, Imogene Coca on June 2, Hank Ketcham on June 1, Willie Stargell on April 9, Eddie Mathews on February 18, Lou Boudreau on August 10, Mary Kay Ash on November 22, Claude Shannon on February 24, Herbert A. Simon on February 9, Fred Hoyle on August 20, Christiaan Barnard on September 2, Bill Hewlett on January 12, Mike Mansfield on October 5, Robert Ludlum on March 12, Poul Anderson on July 31, Gregory Corso on January 17, Dale Evans on February 7, Stanley Kramer on February 19, Troy Donahue on September 2, Dorothy McGuire on September 13, Eileen Heckart on December 30 and Rufus Thomas on December 13. This file runs 52 facts across 10 sections: politics 7, world 7, film 7, tv 5, music 4, tech 6, prices 2, culture 4, sports 5, deaths 5. World runs to 7 because the year carries the invasion of Afghanistan, four deadly earthquakes, the first head of state to face an international war crimes court, the killing of the Nepalese royal family, the collapse of the Argentine government, China's accession to the World Trade Organization and the first modern legalisation of same-sex marriage, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. The four earthquakes share one list fact because the year page groups them as one class of event and gives them one paragraph, not because they share a date."
+}

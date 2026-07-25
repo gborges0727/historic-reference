@@ -1,0 +1,519 @@
+{
+  "year": 1998,
+  "tier": "modern",
+  "headline": "Google was founded in September, the Good Friday Agreement was signed in April, and the House impeached Clinton",
+  "texture": [
+    "Hurricane Mitch came ashore in Central America on October 29 and killed an estimated 11,000 people. Peripheral levees in Jiayu County collapsed one after another from August 1 to 5, and on August 7 the Yangtze broke through its main bank, with a death toll above 12,000. A submarine earthquake near Aitape in Papua New Guinea on July 17 set off a landslide and a tsunami that left between 2,183 and 2,700 dead. An Intercity-Express derailed at Eschede on June 3, and Swissair Flight 111 went into the sea near Peggy's Cove on September 2.",
+    "On April 6 the Dow closed at 9,033.23, its first close above 9,000, and unemployment fell to 4.3 percent that month, the lowest since February 1970. Citicorp and Travelers announced on April 7 that they would combine into Citigroup. Creditors of Long-Term Capital Management, a hedge fund in Greenwich, Connecticut, spent four days at the end of September agreeing terms to recapitalize it. Exxon announced a $73.7 billion purchase of Mobil on December 1, and Daimler-Benz completed its merger with Chrysler on November 12.",
+    "The Galaxy IV communications satellite failed on May 19 and left 80 to 90 percent of American pagers without service. Smoking had been banned in every California bar and restaurant on January 1. The Nashville Banner printed its last issue in February, after 122 years. Karla Faye Tucker was executed in Texas on February 3, the first woman put to death in the United States since 1984 and the first in Texas since the Civil War. Teletubbies began its American run on PBS Kids on April 6.",
+    "The Akashi Kaikyo Bridge between Shikoku and Honshu opened to traffic on April 5. The Spanish magistrate Baltasar Garzon indicted Augusto Pinochet on October 10, and British police put him under house arrest six days later while he was being treated in the United Kingdom. At a conference in Rome on July 17, 120 countries voted to create a permanent International Criminal Court. Keiko the orca, captured in 1979, was released off the coast of Iceland on September 9. Hugo Chavez was elected President of Venezuela on December 6."
+  ],
+  "lead": [
+    "pol.impeachment",
+    "world.good_friday",
+    "world.embassy_bombings",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.web_search",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Al Gore was Vice President, William H. Rehnquist Chief Justice, Newt Gingrich Speaker of the House and Trent Lott Senate majority leader, and the 105th Congress sat. Clinton made the first visit to South Africa by a United States president in March.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "pol.lewinsky": {
+      "section": "politics",
+      "label": "The Lewinsky scandal",
+      "value": "The Drudge Report broke the story of the president's alleged affair with a former White House intern on January 17, Clinton denied on American television on January 26 that he had had sexual relations with Monica Lewinsky, and on August 17 he admitted in taped testimony to an improper physical relationship",
+      "detail": "Paula Jones accused Clinton of sexual harassment on the same day the story broke. Hillary Clinton went on The Today Show on January 27 and called the attacks on her husband part of a vast right-wing conspiracy. A federal judge ruled on May 22 that Secret Service agents could be made to testify. Lewinsky received transactional immunity on July 28 in exchange for her testimony. Clinton told a televised address on the night of August 17 that he had misled people. Henry Hyde, chairman of the House Judiciary Committee, sent him a list of 81 questions on November 5.",
+      "date": "1998-01-17",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "pol.impeachment": {
+      "section": "politics",
+      "label": "Clinton impeached by the House of Representatives",
+      "value": "The House adopted two articles, perjury before a grand jury by 228 votes to 206 and obstruction of justice by 221 to 212, and rejected two others, perjury in the Paula Jones case by 205 to 229 and abuse of power by 148 to 285",
+      "detail": "Clinton was the second president to be impeached, after Andrew Johnson in 1868. The House Judiciary Committee agreed on December 11 to send four articles to the floor, voting 21 to 17 on grand jury perjury and on obstruction and 20 to 18 on the Jones perjury count, where the Republican Lindsey Graham joined the Democrats to give Clinton the legal benefit of the doubt, and on December 12 it sent a fourth article on abuse of power by 21 to 17. Proceedings were held up by the bombing of Iraq. Bob Livingston, chosen by the Republican Conference to replace Gingrich as Speaker, announced from the floor that he was giving up the speakership and leaving Congress after his own infidelity came to light, and in the same speech urged Clinton to resign.",
+      "date": "1998-12-19",
+      "source": "https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton"
+    },
+    "pol.microsoft_antitrust": {
+      "section": "politics",
+      "label": "Justice Department sues Microsoft",
+      "value": "The Department of Justice and 20 states filed an antitrust suit alleging that the Windows operating system unfairly took market share from Netscape's Navigator",
+      "detail": "America Online announced on November 24 that it would buy Netscape Communications in a stock-for-stock transaction worth $4.2 billion.",
+      "date": "1998-05-18",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "pol.ventura": {
+      "section": "politics",
+      "label": "Jesse Ventura elected Governor of Minnesota",
+      "value": "The former professional wrestler won the governorship",
+      "detail": "The US year page carries the result in a single line and gives no vote share, party or opponent. November 3 was the Tuesday after the first Monday in November, the day a federal election has to fall on, so the date checks out against its own constraint.",
+      "date": "1998-11-03",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "world.good_friday": {
+      "section": "world",
+      "label": "Good Friday Agreement",
+      "value": "The Belfast Agreement was signed by the Irish and British governments and most Northern Ireland political parties, with the Democratic Unionist Party the notable exception, an hour after the talks deadline had passed",
+      "detail": "The Real Irish Republican Army bombed Omagh on August 15 in reaction to the agreement, killing 29 people and injuring 220, and called a ceasefire shortly afterwards. Ireland formally relinquished its territorial claim over Northern Ireland on December 1 and recognised British sovereignty there.",
+      "date": "1998-04-10",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.embassy_bombings": {
+      "section": "world",
+      "label": "United States embassies bombed in Nairobi and Dar es Salaam",
+      "value": "The two bombings killed 224 people and injured over 4,500, and were linked to Osama bin Laden",
+      "detail": "The United States military fired cruise missiles in response on August 20. A court in Taliban-controlled Afghanistan declared bin Laden a man without sin on November 20.",
+      "date": "1998-08-07",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.nuclear_tests": {
+      "section": "world",
+      "label": "India and Pakistan test nuclear weapons",
+      "value": "India conducted three underground tests at Pokhran on May 11 under the name Operation Shakti, one of them a thermonuclear device, and two more on May 13, and Pakistan answered with five simultaneous underground tests in the Chagai Hills on May 28 and a final plutonium implosion test in the Kharan Desert on May 30",
+      "detail": "The science page counts five Indian devices across the two days and says the Chagai tests made Pakistan the first nuclear weapon state in the Muslim world and the seventh in the world. The United States and Japan imposed sanctions on India after the second round of Indian tests.",
+      "date": "1998-05-11",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.russia_default": {
+      "section": "world",
+      "label": "Russia devalues the ruble and defaults",
+      "value": "The government devalued the ruble, defaulted on domestic debt and declared a moratorium on repayment of foreign debt",
+      "detail": "Boris Yeltsin had dismissed Prime Minister Viktor Chernomyrdin on March 23 in what the year page describes as an effort to make economic reform more energetic. Yeltsin announced on October 20 that he would not seek reelection.",
+      "date": "1998-08-17",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.indonesia": {
+      "section": "world",
+      "label": "Suharto resigns",
+      "value": "He stepped down after 31 years as President of Indonesia, ending the New Order period, and his hand-picked Vice President B. J. Habibie became the country's third president",
+      "detail": "Riots against Chinese Indonesians had broken out on May 13 and 14 and killed around 1,000 people. The resignation followed his seventh consecutive reelection by the Indonesian Parliament.",
+      "date": "1998-05-21",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.kosovo": {
+      "section": "world",
+      "label": "The Kosovo War begins",
+      "value": "A massacre at Likoshane in FR Yugoslavia started the war",
+      "detail": "The European Union announced an arms embargo against Serbia and Montenegro on March 21. The Yugoslav Army ambushed Kosovo Liberation Army fighters carrying weapons from Albania on April 23, killing 19, and a column of 140 of them on December 14, killing 36. United Nations peacekeepers returned Eastern Slavonia to Croatian control on January 15, and the year page says 80,000 displaced people were involved.",
+      "date": "1998-02-28",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.congo_war": {
+      "section": "world",
+      "label": "Second Congo War begins",
+      "value": "The war started in August, and the year page calls it the bloodiest since the Second World War",
+      "detail": "The year page's death toll and end date both fall outside this year, so neither is stated here.",
+      "date": "1998-08-04",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "world.euro": {
+      "section": "world",
+      "label": "European Central Bank established",
+      "value": "The bank replaced the European Monetary Institute",
+      "detail": "The first euro coins had been struck at Pessac in France on May 11, and because the specifications for the coins were not final they had to be melted down and minted again. Europol was established on October 1 when the Europol Convention took effect. In the Eurozone the currency rates of December 31 were fixed permanently.",
+      "date": "1998-06-01",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Armageddon, $553,709,788, Touchstone",
+        "Saving Private Ryan, $482,352,390, DreamWorks and Paramount",
+        "Godzilla, $379,014,294, Sony and TriStar",
+        "There's Something About Mary, $369,884,651, 20th Century Fox",
+        "A Bug's Life, $363,398,565, Walt Disney Pictures"
+      ],
+      "detail": "Worldwide gross rather than North American. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it says these are the top ten films released this year by worldwide gross, so header and text agree. Deep Impact was sixth at $349,464,664, Mulan seventh at $304,320,254, Dr. Dolittle eighth at $294,456,605, Shakespeare in Love ninth at $289,317,794 and Lethal Weapon 4 tenth at $285,444,603. The film page's records section puts Saving Private Ryan at $485 million worldwide, a rounder figure than its own table gives, and calls it the highest-grossing film about the Second World War. Titanic became the first film to take over $1 billion at the worldwide box office on March 1. Blade grossed $131.2 million to become the top-grossing film based on a Marvel Comics character, and Star Trek: Insurrection made Star Trek the seventh film franchise to reach $1 billion.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Shakespeare in Love, produced by David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman",
+      "detail": "Awarded the following spring at the 71st Academy Awards, hosted for the third time by Whoopi Goldberg at the Dorothy Chandler Pavilion in Los Angeles and produced by Gil Cates. Shakespeare in Love led the field with 13 nominations and won seven awards, and Saving Private Ryan came second with 11 nominations and won five, including Best Director for Steven Spielberg. The other Best Picture nominees were Elizabeth, Life Is Beautiful, Saving Private Ryan and The Thin Red Line. The telecast ran four hours and two minutes on ABC and drew 45.51 million viewers and 28.63 percent of households. Technical Achievement awards were presented separately at the Regent Beverly Wilshire Hotel on February 27 by the host Anne Heche.",
+      "source": "https://en.wikipedia.org/wiki/71st_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Roberto Benigni, Life Is Beautiful",
+        "Best Actress, Gwyneth Paltrow, Shakespeare in Love",
+        "Best Supporting Actor, James Coburn, Affliction",
+        "Best Supporting Actress, Judi Dench, Shakespeare in Love"
+      ],
+      "detail": "Life Is Beautiful also took Best Foreign Language Film for Italy, and the ceremony page calls it the second film nominated for both that award and Best Picture in the same year, after Z. Benigni was the second person to direct himself to an acting Oscar, after Laurence Olivier for Hamlet, and the third performer to win for a role not in English. Cate Blanchett, nominated for Elizabeth, and Dench, who won for playing the same queen in a different film, were the first pair of actresses nominated in one year for the same character. Fernanda Montenegro of Central Station was the first Latina nominated for Best Actress. Marc Norman and Tom Stoppard won original screenplay and Bill Condon adapted screenplay for Gods and Monsters. The other nominees for Best Foreign Language Film were Central Station from Brazil in Portuguese, Children of Heaven from Iran in Persian, The Grandfather from Spain in Spanish and Tango from Argentina in Spanish.",
+      "source": "https://en.wikipedia.org/wiki/71st_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "Mulan, June 19, Walt Disney Pictures' 36th feature film",
+        "Saving Private Ryan, July 24, directed by Steven Spielberg",
+        "Blade, August 21",
+        "Antz, premiered September 19 at the 23rd Toronto International Film Festival, DreamWorks' first animated feature",
+        "Pleasantville, October 23, Gary Ross's directorial debut",
+        "The Rugrats Movie, November 20",
+        "A Bug's Life, November 25, Pixar's second feature film",
+        "The Prince of Egypt, December 18, DreamWorks' second film",
+        "The Thin Red Line, December 25, Terrence Malick's return after a 20-year break"
+      ],
+      "detail": "The film page credits Saving Private Ryan's desaturated colour, hand-held cameras and tight angles for its influence on war and action films. Its entry on the year's two duelling asteroid films gives the dates May 8 and July 1 and the titles Armageddon and Deep Impact in an order the two lists do not share, so neither film is dated here. The Rugrats Movie took $100,494,675 in North America and another $40,400,000 abroad, and Nickelodeon pulled every Rugrats episode from its schedule for a week to promote it. Blade's success, the page says, helped bring on later adaptations of Marvel Comics characters.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, at an average ticket price of $4.69. None of the cached pages says anything about tape, disc or a television premiere, so this fact claims nothing about watching at home.",
+      "detail": "Saving Private Ryan was the top-grossing film in North America while Armageddon was the biggest worldwide, so the two measurements name different winners for the same year. The film page ranks only by the worldwide figure.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.69",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1998",
+      "value": [
+        "ER, NBC, 17.8 rating",
+        "Friends, NBC, 15.7",
+        "Frasier, NBC, 15.6",
+        "Monday Night Football, ABC, 14.9",
+        "Veronica's Closet and Jesse, NBC, 13.7 each"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NBC held the top three places and tied for fifth. 60 Minutes was seventh on 13.2, Touched by an Angel eighth on 13.1 and the CBS Sunday Movie ninth on 12.0, all for CBS, and Home Improvement tenth on 11.0 for ABC. Everybody Loves Raymond came eleventh on 10.6, and Ally McBeal was the highest Fox entry at 23rd on 9.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1998%E2%80%9399"
+    },
+    "tv.seinfeld_finale": {
+      "section": "tv",
+      "label": "The Seinfeld finale",
+      "value": "76.3 million people watched the last episode on NBC",
+      "detail": "The US year page gives the audience as 76 million and the television page as 76.3 million. The Puerto Rican Day episode had gone out on May 7, in which Kramer burns and then stomps on a Puerto Rican flag; NBC apologised, barred it from the network and left it out of the syndication package at first. Frasier moved into the Thursday nine o'clock slot Seinfeld had held on September 17.",
+      "date": "1998-05-14",
+      "source": "https://en.wikipedia.org/wiki/1998_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Dawson's Creek, The WB, January 20",
+        "Fox & Friends, Fox News Channel, February 1",
+        "Two Guys, a Girl and a Pizza Place, ABC, March 10",
+        "Sex and the City, HBO, June 6",
+        "Whose Line Is It Anyway?, ABC, August 5",
+        "That '70s Show, Fox, August 23",
+        "Pokemon, first-run syndication, September 7",
+        "The King of Queens, CBS, September 21",
+        "Will & Grace, NBC, September 21",
+        "Sports Night, ABC, September 22",
+        "Felicity, The WB, September 29",
+        "Charmed, The WB, October 7",
+        "The Powerpuff Girls, Cartoon Network, November 18"
+      ],
+      "detail": "The television page's premiere table gives each date and network. Pokemon's syndicated sneak peek on September 7 was Battle aboard the St. Anne, and the series began properly the next day with Pokemon, I Choose You. Sailor Moon started on Cartoon Network's Toonami block on June 1. The Powerpuff Girls was Hanna-Barbera's last series. Sesame Street opened its 30th season on November 16 with a revised set, a human character named Alan and the Elmo's World segment. The Price Is Right broadcast its 5,000th episode on April 9, and CBS renamed Studio 33 at Television City the Bob Barker Studios for the occasion.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_American_television"
+    },
+    "tv.network_launches": {
+      "section": "tv",
+      "label": "Channels that launched",
+      "value": [
+        "Showtime Extreme, March 10",
+        "BBC America, March 29",
+        "Toon Disney, April 18",
+        "ZDTV, May 11",
+        "Lifetime Movie Network, June 29",
+        "Discovery Health Channel, July 1",
+        "PAX TV, August 31"
+      ],
+      "detail": "BBC Worldwide and Discovery Communications launched BBC America as part of a $565 million alliance to build channels and co-productions. Toon Disney opened on the Disney Channel's fifteenth anniversary with The Sorcerer's Apprentice segment from Fantasia. ZDTV came from Ziff Davis and carried programmes about technology. Paxson Communications launched PAX TV as a family-oriented broadcast network over stations that had been branded the Infomall Television Network. The Family Channel became Fox Family Channel on August 15. United Video Satellite Group bought TV Guide from News Corporation on June 11 for $800 million and 60 million shares worth another $1.2 billion. ABC cancelled Wide World of Sports after 37 years, which Jim McKay announced on January 3.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Too Close, Next",
+        "The Boy Is Mine, Brandy and Monica",
+        "You're Still the One, Shania Twain",
+        "Truly Madly Deeply, Savage Garden",
+        "How Do I Live, LeAnn Rimes"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 26. Master P placed three songs, tying with Next, Busta Rhymes and Usher for the second-most on the list, and both Make 'Em Say Uhh! and his feature on Montell Jordan's Let's Ride reached the top forty. Janet's Together Again was sixth after two weeks at the top of the weekly chart, and her I Get Lonely, featuring Blackstreet, was 43rd. Elton John's double A-side of Candle in the Wind 1997 and Something About the Way You Look Tonight came eighth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1998"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On a pocket player with no moving parts, for the first time. The South Korean-made MPMan, which the music page calls the first mass-produced digital audio player, was launched at the CeBIT trade fair in Hanover on March 10.",
+      "detail": "The Recording Industry Association of America went to court on October 8 to block Diamond Multimedia's Rio PMP300, arguing that an MP3 player was a piracy device, and the application was denied on October 26, which the music page says cleared the way for the PMP300 to become the first commercially successful MP3 player. Billboard changed its Hot 100 rules on December 5 to let airplay-only singles and album cuts count on the chart. Total Request Live began on MTV on September 14, and VH1 Smooth launched on August 1 with a cover of Makin' Whoopee by Branford Marsalis. Interscope Records paid a Portland station $5,000 in January to play a Limp Bizkit single fifty times, which the page says the press called payola.",
+      "date": "1998-03-10",
+      "source": "https://en.wikipedia.org/wiki/1998_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Ray of Light, Madonna, March 3",
+        "Mezzanine, Massive Attack, March 20",
+        "Version 2.0, Garbage, May 12",
+        "Hello Nasty, Beastie Boys, June 6 in Europe",
+        "Follow the Leader, Korn, August 18",
+        "The Miseducation of Lauryn Hill, August 25",
+        "Mechanical Animals, Marilyn Manson, September 15",
+        "Aquemini, OutKast, September 29",
+        "Vol. 2... Hard Knock Life, Jay-Z, September 29",
+        "Americana, The Offspring, November 17"
+      ],
+      "detail": "The music page's events section dates Ray of Light to March 3 while its own album table gives March 4, so the two disagree by a day, and its album table is the source for every other date here. Follow the Leader entered the Billboard 200 at number one with 268,000 copies in its first week. Cher's Believe came out in the United Kingdom on September 26 and in the United States in October, and its title single held number one in the UK for seven consecutive weeks to become the country's bestselling single of the year. Britney Spears's first single, ...Baby One More Time, was released on September 28. Air released Moon Safari in January, and System of a Down's debut came out on June 30.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_music"
+    },
+    "music.chart_records": {
+      "section": "music",
+      "label": "Two records set on the Billboard charts",
+      "value": "The Boy Is Mine, by Brandy and Monica, held number one on the Hot 100 for 13 weeks, and Iris, by the Goo Goo Dolls, spent 18 weeks at number one on the Hot 100 Airplay chart, which the music page calls a new record",
+      "detail": "The page files both among the things that happened during the year rather than on a date, so neither carries one here.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Dana International won the 43rd contest for Israel with Diva, at Birmingham in the United Kingdom",
+      "detail": "The music page calls her Israel's transgender performer. The 27th OTI Festival, at the National Theatre of Costa Rica in San Jose on November 14, was won by Fin de siglo, este es el tiempo de inflamarse, deprimirse o transformarse, written and performed by Florcita Motuda for Chile. Elton John was knighted at Buckingham Palace on February 24 and introduced by mistake as Sir John Elton.",
+      "date": "1998-05-09",
+      "source": "https://en.wikipedia.org/wiki/1998_in_music"
+    },
+    "tech.web_search": {
+      "section": "tech",
+      "label": "Google founded",
+      "value": "Larry Page and Sergey Brin, both PhD candidates at Stanford University, incorporated Google, Inc. in Menlo Park, California to promote their web search engine",
+      "detail": "All three cached pages that carry the founding give the same date, and none of them gives a staff count, a funding figure or a size for the index.",
+      "date": "1998-09-04",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "tech.windows_98": {
+      "section": "tech",
+      "label": "Windows 98",
+      "value": "Microsoft released the operating system to manufacturing on May 15 and put the First Edition on sale on June 25",
+      "detail": "Neither cached year page gives a price or a sales figure. The Department of Justice sued Microsoft over the Windows operating system three days after the release to manufacturing.",
+      "date": "1998-06-25",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "tech.devices": {
+      "section": "tech",
+      "label": "Devices that went on sale",
+      "value": [
+        "The iMac, from Apple, August 15",
+        "The Furby, from Tiger Electronics, which the science page calls the first domestic robot"
+      ],
+      "detail": "The science page files both under computer science, gives no date for the Furby and no price for either. The same page records the first working two-qubit nuclear magnetic resonance computer, demonstrated at the University of California, Berkeley, and the first experiments with an RFID implant, carried out by Kevin Warwick in the United Kingdom on August 24. The CIH virus was found in Taiwan on June 2.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Game Boy Color, released in Japan on October 21, North America on November 18 and Europe on November 23",
+        "Dreamcast, Sega's console, released in Japan on November 27",
+        "Resident Evil 2, January 21, on the PlayStation",
+        "StarCraft, March 31, on Windows",
+        "Banjo-Kazooie, June 29, on the Nintendo 64",
+        "Metal Gear Solid, September 3, on the PlayStation",
+        "Grim Fandango, October 28, on Windows",
+        "Half-Life, November 19, on Windows",
+        "The Legend of Zelda: Ocarina of Time, November 21, on the Nintendo 64",
+        "Baldur's Gate, December 21, on Windows"
+      ],
+      "detail": "The two cached pages disagree about the Dreamcast twice. The science page dates the Japanese release to November 7 and calls it the first sixth generation home console, while the games page's hardware table gives November 27 and its own text calls the launch the start of the fifth generation, even though its sales table files the machine under the sixth. The games page puts the PlayStation first in console sales for the year at 22,500,000 worldwide, the Game Boy and Game Boy Color second at 12,990,000 and the Nintendo 64 third at 7,860,000, with the Dreamcast selling 900,000 in Japan alone. Pokemon Red, Green, Blue and Yellow together were the best-selling games, at 3,288,391 copies in Japan and 4,000,000 in the United States. Ocarina of Time took game of the year from CESA, Edge, Electronic Gaming Monthly, Game Informer, GamePro, GameSpot and the first Interactive Achievement Awards, and Half-Life took Computer Gaming World's award. Sega announced the end of the Sega Saturn in North America on March 14 and the last Saturn game came out there on December 11. Take-Two Interactive formed the Rockstar Games label in December, and Electronic Arts bought Westwood Studios.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_video_games"
+    },
+    "tech.dmca": {
+      "section": "tech",
+      "label": "Two copyright laws pass Congress",
+      "value": "Congress passed the Sonny Bono Copyright Term Extension Act on October 7, giving copyright holders 20 more years over work they control, and the Digital Millennium Copyright Act on October 12",
+      "detail": "The US year page says the term extension effectively froze the American public domain at works created before 1923. The music page dates the signing of the term extension to October 27 and describes it as 20 more years of exclusive rights for the entertainment industry.",
+      "date": "1998-10-12",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "tech.space": {
+      "section": "tech",
+      "label": "John Glenn goes back into orbit",
+      "value": "The Space Shuttle Discovery launched on October 29 with Glenn aboard at 77, the oldest person to go into space to that point, and he came back on November 7",
+      "detail": "Glenn had become the first American to orbit the Earth on February 20, 1962. Zarya, the first module of the International Space Station, was launched from the Baikonur Cosmodrome on November 20, and the Space Shuttle Endeavour carried up the first American-built component, the Unity module, on December 4, docking with Zarya two days later. The Lunar Prospector went into orbit around the Moon on January 6 and later found evidence of frozen water at the surface, and NASA announced on March 5 that the Clementine probe had found enough water in polar craters to support a colony and a rocket-fuelling station. Data from the Galileo probe on March 2 indicated a liquid ocean under the ice of Europa. Voyager 1 passed Pioneer 10 on November 17 to become the most distant man-made object from the Sun.",
+      "date": "1998-10-29",
+      "source": "https://en.wikipedia.org/wiki/1998_in_science"
+    },
+    "tech.science": {
+      "section": "tech",
+      "label": "Findings published this year",
+      "value": [
+        "The expansion of the universe is speeding up, from the Supernova Cosmology Project under Saul Perlmutter and the High-Z Supernova Search Team under Adam Riess and Brian Schmidt",
+        "Neutrinos have mass, proved experimentally on June 5",
+        "The nematode Caenorhabditis elegans became the first multicellular organism with a whole genome sequence published, on December 11",
+        "XML was published as a recommendation of the W3C on February 10",
+        "The first medically successful hand transplant was carried out by a team of surgeons in France on September 23"
+      ],
+      "detail": "The High-Z team published its evidence on March 13 and the science page spreads the two projects' publications across January to September. The same page records the sequencing of the genome of Treponema pallidum, the bacterium that causes syphilis, reported in Science on July 17, RNA interference first elucidated in C. elegans on February 19, the first robotically assisted coronary artery bypass, performed by Friedrich-Wilhelm Mohr at the Leipzig Heart Centre in May, and the fitting of the Edinburgh Modular Arm System, the first bionic arm, in August. Andrew Wakefield's case series on twelve children, later partly retracted, appeared in The Lancet on February 28. Nineteen European nations agreed on January 12 to forbid human cloning.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.06 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president's private life became sworn testimony and then a public document, and the country spent the rest of the year arguing over whether it counted as a crime. Two films about a rock heading for Earth opened the same summer. The things worth queueing for were a translucent computer and a toy that talked back."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Jose Saramago",
+        "Peace, John Hume and David Trimble",
+        "Physics, Robert B. Laughlin, Horst L. Stormer and Daniel Chee Tsui",
+        "Chemistry, Walter Kohn and John Pople",
+        "Medicine, Robert F. Furchgott, Louis J. Ignarro and Ferid Murad",
+        "Economics, Amartya Sen"
+      ],
+      "detail": "The year page gives no dates for any of them. The Fields Medal went to Richard Ewen Borcherds, William Timothy Gowers, Maxim Kontsevich and Curtis T. McMullen, the Turing Award to Jim Gray and the Wollaston Medal for geology to Karl Karekin Turekian.",
+      "source": "https://en.wikipedia.org/wiki/1998"
+    },
+    "culture.hate_crimes": {
+      "section": "culture",
+      "label": "The murders of James Byrd Jr. and Matthew Shepard",
+      "value": "Three white supremacists murdered Byrd in Jasper, Texas on June 7, and Shepard was found tied to a fence near Laramie, Wyoming on October 6 and died six days later",
+      "detail": "The US year page carries both, gives Shepard's birth year as 1976 and describes him as a college student who knew his killer. It states no motive in the Shepard case, and that the two deaths became one argument about bias-motivated violence is general knowledge rather than a claim the page makes.",
+      "date": "1998-10-06",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "culture.viagra": {
+      "section": "culture",
+      "label": "Viagra approved",
+      "value": "The Food and Drug Administration approved it for erectile dysfunction, the first pill approved for the condition in the United States",
+      "detail": "Both the US year page and the science page carry the approval, and neither gives a price or a count of prescriptions.",
+      "date": "1998-03-27",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXII",
+      "value": "The Denver Broncos beat the Green Bay Packers 31 to 24 at San Diego Stadium in front of 68,912, with the running back Terrell Davis named most valuable player",
+      "detail": "The US year page says the win made Denver the first AFC team in 14 years to take the Super Bowl. The television page calls the game NBC's last National Football League broadcast under the old contracts: CBS had bought the rights to the AFC on January 12 in an eight-year deal worth $4 billion while Fox and ABC renewed for the NFC and Monday Night Football, and ABC and ESPN agreed on January 13 to pay $1.15 billion a season to keep Monday Night Football. CBS's first NFL game in more than four years was a preseason match in Vancouver on August 15, and it resumed regular season coverage on September 6. Michigan had beaten Washington State 21 to 16 in the Rose Bowl for the previous college season's national championship.",
+      "date": "1998-01-25",
+      "source": "https://en.wikipedia.org/wiki/1998_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "The New York Yankees swept the San Diego Padres in four games, with Scott Brosius named series most valuable player",
+      "detail": "The US year page dates the clinching game to October 21 and says the Yankees finished with 114 regular season wins and 11 postseason victories, the most by any team in 123 years of major league baseball, and the television page adds that Fox carried it and calls it the club's 24th championship. The National League took in the Arizona Diamondbacks and the American League the Tampa Bay Devil Rays this season, and the Milwaukee Brewers moved from the American League to the National.",
+      "date": "1998-10-21",
+      "source": "https://en.wikipedia.org/wiki/1998_in_sports"
+    },
+    "sports.home_run_chase": {
+      "section": "sports",
+      "label": "The single-season home run record falls twice",
+      "value": "Mark McGwire finished with 70 home runs and Sammy Sosa with 66, both past the record Roger Maris had set in 1961",
+      "detail": "McGwire's 62nd came at Busch Stadium on September 8, off the Chicago Cubs pitcher Steve Trachsel in the fourth inning, with a national audience watching on Fox. Cal Ripken Jr. ended his run of consecutive games played at 2,632, in Baltimore against the Yankees, the first time he had been out of the lineup since 1982. The 20-year-old rookie Kerry Wood struck out 20 Houston Astros to tie the major league single-game record. The Associated Press named McGwire male athlete of the year and Se Ri Pak, who won both the LPGA Championship and the US Women's Open, female athlete of the year.",
+      "date": "1998-09-08",
+      "source": "https://en.wikipedia.org/wiki/1998_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Nagano in Japan from February 7 to 22, where Germany won the most medals with 29 and the most golds with 12",
+      "detail": "National Hockey League professionals took part for the first time and the Czech Republic beat Russia 1 to 0 for the men's gold. Women played ice hockey at the Games for the first time and the United States beat Canada 3 to 1. Curling made its Olympic debut, with Switzerland beating Canada 9 to 3 in the men's final and Canada beating Denmark 7 to 5 in the women's. Hermann Maier of Austria and Katja Seizinger of Germany took the overall Alpine skiing World Cup titles for the season.",
+      "date": "1998-02-07",
+      "source": "https://en.wikipedia.org/wiki/1998_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "France beat Brazil 3 to 0 in the final at home, winning the tournament for the first time",
+      "detail": "The year page dates the tournament from June 10 to July 12. Real Madrid beat Juventus 1 to 0 in the Champions League final, Internazionale beat Lazio 3 to 0 in the UEFA Cup final, and Vasco da Gama beat Barcelona Sporting Club 4 to 1 on aggregate in the Copa Libertadores. D.C. United beat Vasco da Gama 2 to 1 on aggregate on December 5 to take the Interamerican Cup.",
+      "date": "1998-07-12",
+      "source": "https://en.wikipedia.org/wiki/1998_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Chicago Bulls over the Utah Jazz, four games to two, their sixth title in eight years",
+        "Stanley Cup, Detroit Red Wings over the Washington Capitals, four games to none",
+        "NCAA basketball, Kentucky 78, Utah 69",
+        "WNBA Finals, Houston Comets over the Phoenix Mercury, two games to one",
+        "Grey Cup, Calgary Stampeders 26, Hamilton Tiger-Cats 24",
+        "Five Nations Championship, France with a Grand Slam",
+        "World Snooker Championship, John Higgins 18, Ken Doherty 12"
+      ],
+      "detail": "The US year page dates the sixth Bulls title to June 14, gives the deciding game as 87 to 86 and calls it Michael Jordan's last as a Bull, clinched with a fadeaway jumper in the closing seconds. The NBA then locked its players out on July 1 and the next season was held up for six and a half months before opening on a 50-game schedule. Marco Pantani won both the Giro d'Italia and the Tour de France. Mark O'Meara took the Masters and the British Open, Lee Janzen the US Open and Vijay Singh the PGA Championship, with David Duval leading the money list at $2,591,031. Pete Sampras won Wimbledon and Patrick Rafter the US Open, and the women's majors went to Martina Hingis, Arantxa Sanchez Vicario, Jana Novotna and Lindsay Davenport. Adelaide won the 102nd AFL premiership by 35 points over North Melbourne, and South Africa took the Tri Nations for the first time with a clean sweep, equalling New Zealand's record of 17 consecutive test wins.",
+      "source": "https://en.wikipedia.org/wiki/1998_in_sports"
+    },
+    "deaths.sinatra": {
+      "section": "deaths",
+      "label": "Frank Sinatra",
+      "value": "Died May 14. Born 1915",
+      "detail": "Singer and actor.",
+      "date": "1998-05-14",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "deaths.bono": {
+      "section": "deaths",
+      "label": "Sonny Bono",
+      "value": "Died January 5. Born 1935",
+      "detail": "Singer, actor and politician. The copyright term extension act Congress passed in October carries his name.",
+      "date": "1998-01-05",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "deaths.hartman": {
+      "section": "deaths",
+      "label": "Phil Hartman",
+      "value": "Died May 28. Born 1948",
+      "detail": "Actor and comedian, shot by his wife, who then killed herself. He was in the NBC sitcom NewsRadio and the Fox animated series The Simpsons and was the announcer for Cartoon Network.",
+      "date": "1998-05-28",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "deaths.shepard": {
+      "section": "deaths",
+      "label": "Alan Shepard",
+      "value": "Died July 21. Born 1923",
+      "detail": "Astronaut.",
+      "date": "1998-07-21",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    },
+    "deaths.griffith_joyner": {
+      "section": "deaths",
+      "label": "Florence Griffith Joyner",
+      "value": "Died September 21. Born 1959",
+      "detail": "Runner.",
+      "date": "1998-09-21",
+      "source": "https://en.wikipedia.org/wiki/1998_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1998 plus one dedicated article pulled as raw wikitext. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it says the top ten films released in 1998 by worldwide gross are as follows, so header and text agree and there is no rentals gloss to write. film.gross names the territory in both label and detail so the figures are not read as North American, which matters this year because the film page itself says Saving Private Ryan was the top-grossing domestic film while Armageddon was the biggest worldwide, so the two measurements pick different winners. film.how_people_watched states that split. Date check. The brief's date-check rule was applied to the impeachment vote. Both cached year pages date it to December 19, and the dedicated article Impeachment of Bill Clinton, pulled as raw wikitext and cited on pol.impeachment, gives the same date and adds the four roll calls, so there was no disagreement to name and no correction to make. The vote counts, the committee votes of December 11 and 12, the Lindsey Graham crossover and the Livingston resignation all come from that article rather than from a year page. The other checkable constraint this year is the election date: November 3 is the Tuesday after the first Monday in November, so pol.ventura needed no correction either, and the fact says so. Source disagreements labelled rather than resolved. The two cached pages disagree about the Dreamcast twice, on the Japanese release date, November 7 on the science page against November 27 in the games page's hardware table, and on which console generation it opened, and tech.games names both rather than choosing. The music page dates Ray of Light to March 3 in its events section and to March 4 in its own album table, and music.recordings says so. The US year page gives the Seinfeld finale audience as 76 million and the television page as 76.3 million, and tv.seinfeld_finale carries both. The film page's entry on the year's two asteroid films lists the dates May 8 and July 1 and the titles Armageddon and Deep Impact in an order the two lists do not share, so film.releases dates neither film and says why. The year page puts the Akashi Kaikyo Bridge at about $3.6 billion and calls it the largest suspension bridge in the world while the science page puts it at about $3.8 billion and calls it the longest-span, so the texture records only that it opened to traffic on April 5 and states no cost or superlative. Section windows. tech.internet is open from 1993 and tech.web_sites from 1996, so the Google founding sits under tech.web_search, which the prefix table routes to the web window; no window entry was added and no id was invented to dodge a gate. culture.memes is open from 1996 and carries nothing this year, because none of the eleven cached pages describes anything circulating as a joke or a phrase, and inventing one from general knowledge about the late 1990s web would have been exactly the failure the accuracy rule forbids. No radio fact, because the radio window closed after 1959, and nothing was moved into another section to get round that: the MPMan and the Rio PMP300 are in music.listening_format because they are claims about how music reached listeners, which is what that fact is for, and the music page is the page that carries them. The Nielsen ranking covers a season that began in the autumn of 1998 and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: pol.us_president cites the US year page for the incumbents and takes the South Africa visit from the year page; world.nuclear_tests cites the year page for the May 11 Pokhran tests and the Pakistani tests and takes the May 13 Indian tests and the American and Japanese sanctions from the US year page and the five-device count and the seventh-in-the-world line from the science page; film.releases cites the film page and takes the dates for Mulan, The Rugrats Movie, A Bug's Life and The Prince of Egypt from the US year page and the Rugrats Movie grosses from the television page; tech.windows_98 cites the US year page for the June 25 retail release and takes the May 15 release to manufacturing from the year page; tech.dmca cites the US year page for both acts and takes the October 27 signing of the term extension from the music page; sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player, takes the fourteen-year line from the US year page and takes the whole broadcast rights sequence from the television page, which is the page that ties the CBS deal to this game; sports.world_series cites the sports page for the sweep and the most valuable player and takes the clinching date, the 114 wins and the Fox coverage from the US year page and the television page; sports.home_run_chase cites the sports page for the totals and takes the Busch Stadium detail from the US year page; sports.champions cites the sports page and takes the Bulls score, the Jordan line and the June 14 date from the US year page; tech.space cites the science page and takes nothing from elsewhere. General knowledge rather than a claim from the cached pages: the whole of culture.mood, which is the one fact the schema allows to carry no source and which carries no digit for that reason, and the framing in culture.hate_crimes that these two killings fed the argument over hate crime law, which the fact labels as general knowledge in its own detail. Both come out if challenged. Names carrying a four-digit number. src/data/name_years.json was not touched. One candidate failed all four of the brief's tests and is therefore left out of every value and detail: Psychic Force 2012, the arcade game that took the Gamest award, whose title holds a number greater than 1998 on a word boundary and is not on the allowlist. Report it and it can be added. Everything else checked out safely: Windows 98 and Version 2.0 are not four digits, Lethal Weapon 4 and Vol. 2 are single digits, That '70s Show is two, Galaxy IV is a numeral, Ripken's 2,632 consecutive games and every dollar figure are broken by commas into groups of three, and Candle in the Wind 1997 reaches backwards rather than forwards. Later-year material dropped for the anachronism rule rather than for want of a source, and kept out of every value, detail and texture line: the date of the 71st Academy Awards, which film.best_picture and film.acting_awards handle by saying the following spring, along with the nomination announcement, the Golden Globe, Critics Choice and BAFTA ceremony dates on the film page's awards table; the Marc Hodler report of November 24 on bribery in the Salt Lake City Winter Olympics bid, dropped whole because the report is about a Games in a later year and there is no way to state it without the token; the end date and death toll of the Second Congo War, which world.congo_war says outright; the year in which the Pessac euro coins were melted down and struck again; the renaming of the Prevue Channel to the TV Guide Channel; the Sopranos line the television page attaches to the 50th Primetime Emmy Awards; the films that later passed Saving Private Ryan and Blade in their categories; and Lollapalooza's return after its cancelled year. Month-only or undated facts: none is month-only. The undated facts are the list facts, the two annual series figures, the ticket price, music.chart_records, whose two records the music page files without a date, and tech.devices, whose Furby entry the science page gives no date for at all. Dropped for lack of a source that says enough, or for room, and left in the texture instead: Hurricane Mitch, the Yangtze floods, the Papua New Guinea tsunami, the Eschede derailment and Swissair Flight 111, all in the first texture paragraph rather than a disasters list fact; the Dow above 9,000, the fall in unemployment, the Citigroup and Daimler-Chrysler mergers, the Exxon purchase of Mobil and the Long-Term Capital Management recapitalisation, in the second; the Galaxy IV pager failure, the California smoking ban, the last issue of the Nashville Banner, the Karla Faye Tucker execution and the American debut of Teletubbies, in the third; the Akashi Kaikyo Bridge, the Pinochet indictment and house arrest, the Rome Statute vote, the release of Keiko and the election of Hugo Chavez, in the fourth. Dropped entirely: the 50th Primetime Emmy Awards of September 13, where Frasier took Outstanding Comedy Series for a fifth consecutive year and The Practice took Outstanding Drama Series, for room after the television section was capped at four facts; the 40th Grammy Awards of February 25 in New York, hosted by Kelsey Grammer, where Bob Dylan's Time Out of Mind won Album of the Year, on the same ground that 1995 leaves out the 37th, since they honoured the previous year's recordings; the 70th Academy Awards of March 23, hosted by Billy Crystal at the Shrine Auditorium, where Titanic won 11 awards, for the same reason, though film.gross does carry Titanic's box office record because that was set this year; the American Film Institute's list of the hundred best American films, broadcast June 16 with Citizen Kane first; the opening of Disney's Animal Kingdom on April 22 and of the Bellagio on October 15 on the former grounds of the Dunes; the Jonesboro school shooting of March 24 and the Thurston High School shooting of May 21; the Iraq disarmament crisis, including the Annan deal of February 20, the Iraq Liberation Act of September 29 and the American and British airstrikes of December 16 to 19; the $1.03 billion NASDAQ price-fixing settlement of November 9; the Nature study of November 5 on Thomas Jefferson and Eston Hemings; the Capitol shooting of July 24; the arrest of Eric Robert Rudolph's case and the Birmingham abortion clinic bombing of January 29; Benoit Lecomte's 72-day Atlantic swim, which the year page says was never recognised because the route could not be established; the death of Ibrahim Hanna in Qamishli, the last native speaker of Mlahso; and the North American ice storm of January 4 to 10. Names and titles are written in ASCII per the corpus convention, so Jose Saramago, Horst L. Stormer, Baltasar Garzon, Hugo Chavez, Arantxa Sanchez Vicario, Jana Novotna, Marco Pantani's Giro, Akashi Kaikyo, Honshu, Mazar-i-Sharif, Pokemon and San Jose lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year, and the year page carries no death list at all, which is why every death fact cites the US page. Deaths that would have earned a place with more room: Gene Autry on October 2, Roy Rogers on July 6, Tammy Wynette on April 6, Linda McCartney on April 17, Barry Goldwater on May 29, George Wallace on September 13, Carl Wilson on February 6, Carl Perkins on January 19, Bob Kane on November 3, Jon Postel on October 16, Stokely Carmichael on November 15, Benjamin Spock on March 15, Jerome Robbins on July 29, Bella Abzug on March 31, Lloyd Bridges on March 10, Harry Caray on February 18, Archie Moore on December 9, Flip Wilson on November 25, Maureen O'Sullivan on June 23, Shari Lewis on August 2, Lewis F. Powell Jr. on August 25, Frederick Reines on August 26, William Gaddis on December 16, Eldridge Cleaver on May 1, James Earl Ray on April 23 and Roddy McDowall on October 3. This file runs 52 facts across 10 sections: politics 5, world 8, film 6, tv 4, music 5, tech 7, prices 2, culture 4, sports 6, deaths 5. World runs to 8 because the year carries the Good Friday Agreement, the embassy bombings in Nairobi and Dar es Salaam, the Indian and Pakistani nuclear tests, the Russian default, the fall of Suharto, the start of the Kosovo War, the start of the Second Congo War and the founding of the European Central Bank, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. Omagh sits inside world.good_friday because the year page says the bombing was carried out in reaction to the agreement, which is a relation rather than a shared date."
+}

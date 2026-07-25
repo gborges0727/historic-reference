@@ -1,0 +1,509 @@
+{
+  "year": 1997,
+  "tier": "modern",
+  "headline": "Hong Kong went back to China on July 1, Diana died in a Paris tunnel on August 31, and Deep Blue beat Kasparov",
+  "texture": [
+    "Guerrillas killed all but one of the 53 inhabitants of Thalit in Algeria on April 3, 93 villagers at Haouch Khemisti on April 22, and 423 people from four villages in the wilaya of Relizane on December 30. Six Islamic militants killed 62 people outside the Temple of Hatshepsut at Luxor on November 17. A fire in a pilgrim camp on the Plain of Mena outside Mecca killed 343 on April 14, and a fire at the Royal Jomtien Resort in Pattaya killed 90 on July 11, the worst hotel fire in Thailand.",
+    "The Dow's first close above 7,000 came on February 13, at 7,022.44, and its first above 8,000 on July 16, at 8,038.88, after doubling in 30 months. On October 27 it fell 554.26 points, a bigger points loss than Black Monday, and officials in New York stopped trading under a circuit breaker rule that had never been used. The next day it gained a record 337.17 points, and a billion shares changed hands in one session. Unemployment fell below 5 percent in May, the lowest since December 1973, and 4.6 percent in November.",
+    "David Bowie turned 50 on January 8 and played Madison Square Garden the next night with Frank Black, the Foo Fighters, Sonic Youth, Lou Reed and Robert Smith. Garth Brooks drew an estimated 800,000 to a million people to a free show in Central Park on August 7. Phish ran 500 minutes of music over two days at Loring Air Force Base in Limestone, Maine, in front of 65,000 to 70,000. Spiritualized performed for 150 people on the deck of the CN Tower in Toronto on November 26.",
+    "Andy Green drove ThrustSSC through the flying mile course in the Black Rock Desert on October 15 at an average of 1,227.985 kilometres an hour, the first supersonic land speed record. The New York Times put a colour photograph on its front page for the first time the next day. The F. W. Woolworth Company closed after 117 years in business on July 17. Kazakhstan moved its capital from Almaty to Astana on December 10, and Hong Kong began killing all 1.25 million chickens in its territory on December 29 to stop a strain of H5N1."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.hong_kong",
+    "deaths.diana",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.deep_blue",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Clinton and Vice President Al Gore began their second term on January 20, and Clinton gave the State of the Union address on February 4. William Rehnquist was Chief Justice, Newt Gingrich Speaker of the House and Trent Lott Senate majority leader. The 104th Congress sat until January 3 and the 105th from that day.",
+      "date": "1997-01-20",
+      "source": "https://en.wikipedia.org/wiki/1997_in_the_United_States"
+    },
+    "pol.albright": {
+      "section": "politics",
+      "label": "Madeleine Albright becomes Secretary of State",
+      "value": "The Senate confirmed her as the first woman to hold the office",
+      "date": "1997-01-23",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "pol.mcveigh": {
+      "section": "politics",
+      "label": "Timothy McVeigh convicted and sentenced to death",
+      "value": "A federal jury in Denver convicted him on 15 counts of murder and conspiracy on June 2 for his part in the Oklahoma City bombing, and sentenced him to death on June 13",
+      "detail": "Both cached year pages carry the two dates and neither names the jurors, the judge or an appeal.",
+      "date": "1997-06-13",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "pol.cloning_ban": {
+      "section": "politics",
+      "label": "Federal funding barred for human cloning research",
+      "value": "Clinton banned it by memorandum, ten days after the announcement of Dolly",
+      "detail": "The year page cites the memorandum on the prohibition on federal funding for cloning of human beings. It says nothing about privately funded work.",
+      "date": "1997-03-04",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "pol.tuskegee_apology": {
+      "section": "politics",
+      "label": "Apology for the Tuskegee syphilis study",
+      "value": "Clinton issued a formal apology to the surviving victims of the Tuskegee Study of Untreated Syphilis in the Negro Male and to their families",
+      "detail": "Carried by both cached year pages in a single line, with no ceremony, no venue and no number of survivors, so none is stated here.",
+      "date": "1997-05-16",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "world.hong_kong": {
+      "section": "world",
+      "label": "Hong Kong handed to China",
+      "value": "The United Kingdom transferred sovereignty over its colony to the People's Republic of China",
+      "detail": "Tan Dun's Symphony 1997: Heaven, Earth, Mankind, for orchestra, bianzhong bells, children's chorus and solo cello, was premiered as part of the official ceremony. The year page gives no attendance, no text of the agreement and no name for the departing governor.",
+      "date": "1997-07-01",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "world.asian_financial_crisis": {
+      "section": "world",
+      "label": "Asian financial crisis begins",
+      "value": "The Bank of Thailand floated the baht, which the year page says triggered the crisis",
+      "detail": "The US year page dates a worldwide stock market fall to October 27 and attributes it to a scare about the global economy. No cached page gives a currency figure, a bailout total or a country-by-country account of the crisis.",
+      "date": "1997-07-02",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "world.blair": {
+      "section": "world",
+      "label": "Tony Blair becomes Prime Minister",
+      "value": "Labour won the United Kingdom general election and returned to government for the first time in 18 years",
+      "detail": "Scotland voted on September 11 for a devolved Parliament and Wales voted on September 18 for a National Assembly. The House of Commons voted for a total ban on handguns on June 11, and the Independent International Commission on Decommissioning was set up in Northern Ireland on August 26.",
+      "date": "1997-05-01",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "world.mobutu": {
+      "section": "world",
+      "label": "Mobutu exiled and the First Congo War ends",
+      "value": "Mobutu Sese Seko was exiled from Zaire on May 16 and troops under Laurent Kabila marched into Kinshasa the next day",
+      "detail": "Etienne Tshisekedi had been appointed prime minister on March 21 and ejected Mobutu's supporters from his cabinet. The year page names no death toll for the war and no new name for the country.",
+      "date": "1997-05-16",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "world.landmine_treaty": {
+      "section": "world",
+      "label": "Anti-personnel landmine treaty signed in Ottawa",
+      "value": "Representatives of 121 countries signed a treaty prohibiting the manufacture and deployment of anti-personnel land mines",
+      "detail": "The year page says the United States, the People's Republic of China, Russia, South Korea and 32 other nations did not ratify it. The Nobel Peace Prize the same year went to the International Campaign to Ban Landmines and to Jody Williams.",
+      "date": "1997-12-03",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "world.kyoto_protocol": {
+      "section": "world",
+      "label": "Kyoto Protocol adopted",
+      "value": "A United Nations committee adopted it at the climate conference in Kyoto",
+      "detail": "The year page carries the adoption in one line and gives no emissions target, no signatory count and no date of entry into force.",
+      "date": "1997-12-11",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Titanic, $1,843,201,268, Paramount and 20th Century Fox",
+        "The Lost World: Jurassic Park, $618,638,999, Universal",
+        "Men in Black, $589,390,539, Sony and Columbia",
+        "Tomorrow Never Dies, $333,011,068, MGM and UIP",
+        "Air Force One, $315,156,409, Sony, Columbia and Buena Vista"
+      ],
+      "detail": "Worldwide gross rather than domestic. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it calls the entries the top ten films released this year by worldwide gross, so header and text agree. A footnote on the Titanic row says the figure excludes the gross from subsequent re-releases, and a capitalised editors' comment inside the same cell asks that the total lifetime gross not be substituted, so the number is the initial theatrical run and nothing wider. As Good as It Gets was sixth at $314,178,011 for Sony and TriStar, Liar Liar seventh at $302,710,615 for Universal, My Best Friend's Wedding eighth at $299,288,605 for Sony and TriStar, The Fifth Element ninth at $263,920,180 for Sony, Columbia and Gaumont, and The Full Monty tenth at $257,938,649 for Fox Searchlight. The page's box office records section adds that Sony Pictures was the year's highest-grossing distributor in the United States and Canada with $1.3 billion in domestic gross, its first time on top of the domestic box office after three years in which Disney led it.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Titanic, produced by James Cameron and Jon Landau",
+      "detail": "Awarded the following spring at the 70th Academy Awards, hosted by Billy Crystal for the sixth time at the Shrine Auditorium in Los Angeles, produced by Gil Cates and directed by Louis J. Horvitz. Titanic led the field with 14 nominations and won 11 awards, which the ceremony page says tied Ben-Hur for the most Academy Awards in Oscar history, and it was the first film to win Best Picture without a screenwriting nomination since The Sound of Music. Cameron became the first person to win as producer, director and editor in one night. Good Will Hunting and L.A. Confidential had nine nominations each and As Good as It Gets seven. The telecast ran three hours and 47 minutes on ABC and drew 57.25 million viewers and 35.32 percent of households over a 55.77 share, the most watched Oscar ceremony since viewership figures began with the 46th ceremony.",
+      "source": "https://en.wikipedia.org/wiki/70th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jack Nicholson, As Good as It Gets",
+        "Best Actress, Helen Hunt, As Good as It Gets",
+        "Best Supporting Actor, Robin Williams, Good Will Hunting",
+        "Best Supporting Actress, Kim Basinger, L.A. Confidential"
+      ],
+      "detail": "The ceremony page says Nicholson's was an eleventh acting nomination, the most for any man, and that he became the fourth performer to win at least three acting Oscars. Nicholson and Hunt winning together made As Good as It Gets the seventh film to take both lead acting awards. Kate Winslet and Gloria Stuart were both nominated for playing Rose in Titanic, the first pair of performers nominated for the same character in the same film, and Stuart at 87 was the oldest acting nominee to that point. Matt Damon and Ben Affleck won original screenplay for Good Will Hunting and Brian Helgeland and Curtis Hanson adapted screenplay for L.A. Confidential. James Horner took original dramatic score for Titanic and shared original song for My Heart Will Go On, and Anne Dudley won original musical or comedy score. The film page's awards table gives the Golden Globe for drama to Titanic and for comedy or musical to As Good as It Gets, the Critics' Choice award for best film to L.A. Confidential, and the BAFTA award for best film to The Full Monty and best director to Baz Luhrmann.",
+      "source": "https://en.wikipedia.org/wiki/70th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Festival prizes and the foreign language Oscar",
+      "value": [
+        "Palme d'Or shared, Taste of Cherry, directed by Abbas Kiarostami, Iran and France, and The Eel, directed by Shohei Imamura, Japan",
+        "Golden Lion, Hana-bi, directed by Takeshi Kitano, Japan",
+        "Golden Bear, The People vs. Larry Flynt, directed by Milos Forman, Canada and the United States",
+        "Best Foreign Language Film, Character, the Netherlands, in Dutch, directed by Mike van Diem"
+      ],
+      "detail": "The film page gives the two Cannes winners as a shared award and dates none of the three festivals. The other nominees in the Academy's foreign language category were Beyond Silence from Germany in German, directed by Caroline Link, Four Days in September from Brazil in Portuguese, directed by Bruno Barreto, Secrets of the Heart from Spain in Spanish, directed by Montxo Armendariz, and The Thief from Russia in Russian, directed by Pavel Chukhray.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_film"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases",
+      "value": [
+        "The Star Wars Special Editions, theatrical reissues of the original trilogy for its 20th anniversary",
+        "Liar Liar, March 21, released nationwide",
+        "The Lost World: Jurassic Park, which took a record $90,161,880 over Memorial Day weekend",
+        "Hercules, June 27, Walt Disney Pictures' 35th feature",
+        "Men in Black, July 2",
+        "Titanic, December 19, directed by James Cameron"
+      ],
+      "detail": "The US year page dates Liar Liar, Hercules, Men in Black and Titanic and says Hercules drew positive reviews and underperformed at the box office against Disney's recent features. The Star Wars reissues and the Memorial Day record come from the film page, which also says the Jurassic Park films became the sixth franchise to gross $1 billion with the release of The Lost World and gives no date for the reissues. Titanic opened twelve days before the end of the year, which is why its place at the top of the box office table rests on a run that had barely started.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_the_United_States"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and from late March on a disc. The year page says the DVD format was launched in the United States during the 69th Academy Awards ceremony on March 24, and Netflix was founded on August 29 as a DVD-by-mail rental business.",
+      "detail": "None of the cached pages gives a player price, a disc price, a count of titles issued on the format or a tape rental figure, so this fact claims nothing about how many people owned one. Nor does any page carry a television premiere audience for a feature film, though the television page does date the network debut of Schindler's List to February 23. No date field, because the fact carries two dated events rather than one.",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.59",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1997",
+      "value": [
+        "Seinfeld, NBC, 21.7 rating",
+        "ER, NBC, 20.4",
+        "Veronica's Closet, NBC, 16.6",
+        "Friends, NBC, 16.1",
+        "Monday Night Football, ABC, 15.0"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NBC held the top four places with two shows in their first year. Touched by an Angel was sixth on 14.2 for CBS, 60 Minutes seventh on 13.8, Union Square eighth on 13.6 for NBC and the CBS Sunday Movie ninth on 13.1. Home Improvement and Frasier tied for tenth on 12.0.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1997%E2%80%9398"
+    },
+    "tv.ratings_system": {
+      "section": "tv",
+      "label": "TV Parental Guidelines take effect",
+      "value": "A content rating system modelled on the one used for motion pictures came into force on the first day of the year",
+      "detail": "Schindler's List made its network debut on NBC on February 23, broadcast virtually unedited, and the television page calls it the first telecast to receive a TV-M rating under the new guidelines. The Emergency Alert System replaced the Emergency Broadcast System the same day the guidelines began, and the page dates the replacement a second time to November 29 without resolving the two entries.",
+      "date": "1997-01-01",
+      "source": "https://en.wikipedia.org/wiki/1997_in_American_television"
+    },
+    "tv.ellen": {
+      "section": "tv",
+      "label": "The Puppy Episode",
+      "value": "ABC broadcast the Ellen episode in which the lead character comes out, which the television page calls the first revelation of a main character as homosexual",
+      "detail": "The page gives no audience figure for the episode and no account of the advertiser reaction.",
+      "date": "1997-04-30",
+      "source": "https://en.wikipedia.org/wiki/1997_in_American_television"
+    },
+    "tv.diana_funeral": {
+      "section": "tv",
+      "label": "Diana's funeral on American television",
+      "value": "The big three networks, Fox, and the cable channels CNN, E!, Fox News and MSNBC all carried the funeral, and more than 33 million viewers at home watched",
+      "detail": "ABC's revamp of its Saturday morning schedule into Disney's One Saturday Morning was delayed a week to September 13 because of the funeral coverage.",
+      "date": "1997-09-06",
+      "source": "https://en.wikipedia.org/wiki/1997_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "King of the Hill, Fox, January 12",
+        "Daria, MTV, March 3",
+        "Just Shoot Me!, NBC, March 4",
+        "The Practice, ABC, March 4",
+        "Buffy the Vampire Slayer, The WB, March 10",
+        "Oz, HBO, July 12",
+        "Stargate SG-1, Showtime, July 27",
+        "Win Ben Stein's Money, Comedy Central, July 28",
+        "South Park, Comedy Central, August 13",
+        "Behind the Music, VH1, August 17",
+        "Ally McBeal, Fox, September 8",
+        "Dharma & Greg, ABC, September 24",
+        "Veronica's Closet, NBC, September 25",
+        "Bear in the Big Blue House, Disney Channel, October 20"
+      ],
+      "detail": "The television page's debut table gives each date and network. Its events table adds that Toonami began on Cartoon Network on March 17 and the Cartoon Cartoons brand followed in mid-July with Johnny Bravo, Cow and Chicken and I Am Weasel, that The Simpsons passed The Flintstones as the longest-running primetime animated series by episode count on February 9, that ER made its fourth season premiere a live episode on September 25, and that Under Wraps on October 25 was the first Disney Channel Original Movie.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Candle in the Wind 1997 and Something About the Way You Look Tonight, Elton John",
+        "You Were Meant for Me and Foolish Games, Jewel",
+        "I'll Be Missing You, Puff Daddy and Faith Evans featuring 112",
+        "Un-Break My Heart, Toni Braxton",
+        "Can't Nobody Hold Me Down, Puff Daddy featuring Mase"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 27. The first two entries are double-sided singles counted as one place each. The chart page says the Elton John single sat at the top of the Hot 100 for 14 weeks, that Jewel's number two never reached the top of the weekly chart at all, and that Puff Daddy had the most songs on the list with five, two of them in the top ten and three as a featured artist. Fourteen songs on this list had also appeared on the previous year's, the highest of them Un-Break My Heart, which had entered the earlier list at number 81 on six weeks of its run. I Believe I Can Fly by R. Kelly was sixth, Don't Let Go (Love) by En Vogue seventh, Return of the Mack by Mark Morrison eighth, How Do I Live by LeAnn Rimes ninth and Wannabe by the Spice Girls tenth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1997"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On discs people could now write themselves. Memorex, Maxell and TDK all introduced blank recordable compact discs during the year.",
+      "detail": "The other format entry on the music page is a record label refusing an album and the band putting it out instead: Big Audio Dynamite's Entering a New Ride was rejected by their label and released independently for free on the band's website, which the page calls one of the first well known musical downloads. Neither entry carries a date, a price or a sales figure, and no cached page gives a total for records, tapes or compact discs sold this year, so none is stated here.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Homework, Daft Punk, January 20",
+        "The Colour and the Shape, Foo Fighters, May 20",
+        "OK Computer, Radiohead, May 21",
+        "Butterfly, Mariah Carey, September 16",
+        "Homogenic, Bjork, September 22",
+        "Urban Hymns, The Verve, September 29",
+        "Spiceworld, Spice Girls, November 3",
+        "Come On Over, Shania Twain, November 4"
+      ],
+      "detail": "The music page says Butterfly moved Carey's sound towards hip hop and rhythm and blues after her divorce, and that Homogenic took Bjork towards a darker sound. Most of the royalties and the songwriting credit for The Verve's Bitter Sweet Symphony went to the Rolling Stones in a legal dispute, and the Rolling Stones released Bridges to Babylon the same day as Urban Hymns. Missy Elliott released The Rain (Supa Dupa Fly) on June 29, the Backstreet Boys their American debut album on August 12, NSYNC their first album on May 26, Creed My Own Prison on April 14 and Will Smith Big Willie Style on November 25.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_music"
+    },
+    "music.hall_of_fame": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame induction",
+      "value": "The ceremony was held in Cleveland at the site of the hall itself for the first time, having only ever been held in New York City before",
+      "detail": "The inductees were the (Young) Rascals, the Bee Gees, Buffalo Springfield, Crosby, Stills and Nash, the Jackson 5, Joni Mitchell and Parliament-Funkadelic. Wynton Marsalis became the first jazz musician to win the Pulitzer Prize for Music on April 7, and the Mercury Music Prize went to Roni Size and Reprazent for New Forms.",
+      "date": "1997-05-06",
+      "source": "https://en.wikipedia.org/wiki/1997_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Katrina and the Waves won the 42nd contest for the United Kingdom with Love Shine a Light, at the Point Theatre in Dublin",
+      "detail": "The 26th OTI Festival, at the Plaza Mayor in Lima on October 25, was won by Se diga lo que se diga, written by Francisco Curiel and Josemanuel Fernandez and performed by Iridian for Mexico.",
+      "date": "1997-05-03",
+      "source": "https://en.wikipedia.org/wiki/1997_in_music"
+    },
+    "music.spice_girls": {
+      "section": "music",
+      "label": "The Spice Girls take the American charts",
+      "value": "Spice reached number one in the United States on May 15, which the music page says made them the first British act to top the chart with a debut album",
+      "detail": "Wannabe had knocked Toni Braxton off the top of the American singles chart on February 13, the first US number one by a female British group with a debut single. Mama and Who Do You Think You Are gave them four consecutive British number ones on March 9, which the page calls a first for the UK top forty, with the profits going to Comic Relief. They took Best Video and Best Single at the BRIT Awards on February 24, launched Channel 5 in Britain on March 30, announced a film at Cannes on May 3, dropped their manager Simon Fuller on November 6, and released Spiceworld on November 3, putting two albums on the American chart at once for the first time by a British band since the Beatles. Spiceworld: The Movie opened on December 26 and took 6.8 million pounds in its first week.",
+      "date": "1997-05-15",
+      "source": "https://en.wikipedia.org/wiki/1997_in_music"
+    },
+    "tech.deep_blue": {
+      "section": "tech",
+      "label": "Deep Blue beats Garry Kasparov",
+      "value": "IBM's machine won the last game of the rematch, the first time a computer had beaten a chess grandmaster in a match",
+      "detail": "The science page says Deep Blue had beaten Kasparov in individual games before without ever winning a match against him.",
+      "date": "1997-05-11",
+      "source": "https://en.wikipedia.org/wiki/1997_in_science"
+    },
+    "tech.dolly": {
+      "section": "tech",
+      "label": "Dolly the cloned sheep announced",
+      "value": "Scientists at Roslin in Scotland announced that an adult sheep had been successfully cloned, and that she had been born the previous July",
+      "detail": "The science page cites a BBC report published the day of the announcement. Human artificial chromosomes were announced on April 25, and on July 10 scientists in London reported DNA analysis of a Neanderthal skeleton supporting the out of Africa theory, placing an African Eve between 100,000 and 200,000 years ago.",
+      "date": "1997-02-22",
+      "source": "https://en.wikipedia.org/wiki/1997_in_science"
+    },
+    "tech.web_search": {
+      "section": "tech",
+      "label": "google.com registered",
+      "value": "The domain name for the web search engine was registered",
+      "detail": "Both the science page and the US year page carry the registration and neither names a company, an office or a user count. The US year page adds that on June 7 a user known as _eci published C source code for an exploit of Windows 95 and Windows NT, that it spread widely across the internet, and that Microsoft was forced to issue a security patch.",
+      "date": "1997-09-15",
+      "source": "https://en.wikipedia.org/wiki/1997_in_science"
+    },
+    "tech.mars_pathfinder": {
+      "section": "tech",
+      "label": "Mars Pathfinder lands",
+      "value": "NASA's probe touched down on the surface of Mars",
+      "detail": "Cassini-Huygens launched on October 15 on a ten-year flight to Saturn, the Ariane 5 made its first successful test flight on October 30, and astronauts from the Space Shuttle Discovery began repair work on the Hubble Space Telescope on February 13. An uncrewed Progress M-34 collided with the Mir space station on June 25, and a Delta II carrying a military GPS payload exploded shortly after liftoff from Cape Canaveral on January 17.",
+      "date": "1997-07-04",
+      "source": "https://en.wikipedia.org/wiki/1997_in_science"
+    },
+    "tech.jobs_apple": {
+      "section": "tech",
+      "label": "Steve Jobs returns to Apple",
+      "value": "The science page dates his return to February 7, as a consultant after Apple bought his startup NeXT, and the US year page dates it to August 1, at Macworld in Boston",
+      "detail": "The two cached pages describe the same return differently and neither mentions the other date, so both are given rather than one chosen. The US year page adds that Microsoft bought a $150 million share of Apple on August 6 and calls the company financially troubled.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Diablo, Blizzard, January 3, on Windows and DOS",
+        "Final Fantasy VII, January 31, on the PlayStation",
+        "Mario Kart 64, Nintendo, February 10",
+        "Castlevania: Symphony of the Night, March 20, on the PlayStation",
+        "Star Fox 64, Nintendo, June 30",
+        "GoldenEye 007, August 25, on the Nintendo 64",
+        "Ultima Online, September 24, on Windows and DOS",
+        "Nintendo 64, released in Europe and Australia on March 1"
+      ],
+      "detail": "The games page puts the PlayStation first in console sales at 17,200,000 or more worldwide, the Game Boy second at 10,370,000 and the Nintendo 64 third at 9,420,000. Final Fantasy VII took game of the year from the CESA Awards, the Japan Media Arts Festival, Electronic Gaming Monthly, Game Informer, GamePro, Hyper and the Origins Awards, GoldenEye 007 from the Interactive Achievement Awards, Nintendo Power, Electronic Playground, VideoGame Advisor and from Electronic Gaming Monthly and GamePro as well, Super Mario 64 from Digitiser and the Golden Joystick Awards, and Total Annihilation from GameSpot. The games page credits Final Fantasy VII to Squaresoft for the Japanese awards and to Sony for the rest, so no publisher is named for it above. Mario Kart 64 was the year's best-selling home game in the United States at over a million copies, followed by Star Fox 64 and Super Mario 64. The DualShock controller went on sale in Japan on November 20 and the Game Gear was discontinued on April 30. The third E3 was held in Atlanta from June 19 to 21, Gunpei Yokoi died on October 4, and Wizards of the Coast bought TSR. The games page says a Pokemon episode broadcast in Japan on December 16 gave 685 children seizures, where the year page puts the figure at over 700, so neither number is stated as settled.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.23 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A princess died in a Paris road tunnel in August and the mourning ran for a week. A computer beat the world chess champion, a sheep turned out to be a copy of another sheep, and a British colony went back to China. Currencies fell across Asia through the second half of the year while American share prices set records and then dropped in one afternoon."
+    },
+    "culture.harry_potter": {
+      "section": "culture",
+      "label": "Harry Potter and the Philosopher's Stone published",
+      "value": "J. K. Rowling's first novel came out in London from Bloomsbury Publishing, in an edition of 500 copies",
+      "detail": "The year page gives the print run and the publisher and says nothing about sales or reviews.",
+      "date": "1997-06-26",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "culture.heavens_gate": {
+      "section": "culture",
+      "label": "Heaven's Gate mass suicide",
+      "value": "Thirty-nine members of the cult killed themselves at their compound near San Diego",
+      "detail": "The year page dates the deaths from March 24 to 26 and the US year page dates them to March 26 alone, so no single day is given here. Neither page names the group's leader or gives a reason for the deaths.",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Dario Fo",
+        "Peace, the International Campaign to Ban Landmines and Jody Williams",
+        "Physics, Steven Chu, Claude Cohen-Tannoudji and William D. Phillips",
+        "Chemistry, Paul D. Boyer, John E. Walker and Jens C. Skou",
+        "Medicine, Stanley B. Prusiner",
+        "Economics, Robert C. Merton and Myron Scholes"
+      ],
+      "detail": "The year page gives no dates for any of them and the science page lists the same three scientific winners. The Turing Award went to Douglas Engelbart and the Wollaston Medal for geology to Douglas James Shearman.",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Florida Marlins beat the Cleveland Indians four games to three, with the pitcher Livan Hernandez named series most valuable player",
+      "detail": "The television page dates the deciding seventh game to October 26 on NBC, says the win made Florida the first wild card team to take the world championship, and calls it the first World Series NBC had broadcast in full since 1988. The two major leagues had been kept apart until the World Series for 126 years, and the sports page dates the start of interleague play to June 12.",
+      "date": "1997-10-26",
+      "source": "https://en.wikipedia.org/wiki/1997_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXXI",
+      "value": "The Green Bay Packers beat the New England Patriots 35 to 21 at the Superdome in front of 72,301, with the returner Desmond Howard named most valuable player",
+      "detail": "The television page says this was the first Super Bowl Fox had broadcast, which made it the last of the big four networks to carry one, and that the game gave Fox its highest ratings to that point. Florida had beaten Florida State 52 to 20 in the Sugar Bowl for the previous college season's national championship.",
+      "date": "1997-01-26",
+      "source": "https://en.wikipedia.org/wiki/1997_in_sports"
+    },
+    "sports.tiger_woods": {
+      "section": "sports",
+      "label": "Tiger Woods wins the Masters",
+      "value": "He won by 12 shots, the first Masters winner of African-American descent, with the lowest score to par at 18 under and the lowest 72-hole total at 272",
+      "detail": "The sports page says he reached number one in the world ranking on June 15 in his 42nd week as a professional, the fastest ascent to the top, and that he led the PGA Tour money list with $2,066,833 and took Player of the Year. Ernie Els won the US Open, Justin Leonard the British Open and Davis Love III the PGA Championship, and Europe won the Ryder Cup by 14 and a half to 13 and a half. The Associated Press named Woods Male Athlete of the Year.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_sports"
+    },
+    "sports.wnba": {
+      "section": "sports",
+      "label": "The WNBA plays its first season",
+      "value": "The league's first game was played at the Great Western Forum in Los Angeles on June 21, and the Houston Comets beat the New York Liberty in a one-game final",
+      "detail": "The sports page carries the final and calls it the inaugural WNBA season, and the year page dates and locates the first game. Neither gives an attendance for either.",
+      "date": "1997-06-21",
+      "source": "https://en.wikipedia.org/wiki/1997_in_sports"
+    },
+    "sports.tyson": {
+      "section": "sports",
+      "label": "Mike Tyson bites Evander Holyfield",
+      "value": "He bit off a piece of Holyfield's ear in the third round of their WBA heavyweight title fight in Las Vegas and was disqualified by the referee Mills Lane",
+      "detail": "His licence was suspended for at least a year on July 9 and he was fined $3 million. Oscar De La Hoya had kept his WBC super lightweight title on January 18 with a unanimous decision over Miguel Angel Gonzalez in the same city.",
+      "date": "1997-06-28",
+      "source": "https://en.wikipedia.org/wiki/1997_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Detroit Red Wings over the Philadelphia Flyers, four games to none, their first in 42 years",
+        "NBA Finals, Chicago Bulls over the Utah Jazz, four games to two",
+        "NCAA basketball, Arizona 84, Kentucky 79 in overtime, Arizona's first title",
+        "Champions League, Borussia Dortmund 3, Juventus 1",
+        "Five Nations Championship, France, with the Grand Slam",
+        "World Snooker Championship, Ken Doherty over Stephen Hendry, 18 to 12",
+        "The Ashes, Australia over England, three tests to two",
+        "AFL Grand Final, Adelaide over St Kilda, the Crows' first premiership"
+      ],
+      "detail": "Martina Hingis won the Australian Open, Wimbledon and the US Open and was named Associated Press Female Athlete of the Year, Iva Majoli won the French Open, Pete Sampras the Australian Open and Wimbledon, Gustavo Kuerten the French Open and Patrick Rafter the US Open, and Sweden beat the United States 5 to 0 in the Davis Cup. Mario Lemieux took the Art Ross Trophy as the NHL's leading scorer over the regular season and Dominik Hasek of the Buffalo Sabres the Hart Memorial Trophy. Jan Ullrich won the Tour de France and Ivan Gotti the Giro d'Italia. Russia won the men's world handball championship and Denmark the women's. Canada won both the men's and the women's ice hockey world championships. Port Adelaide joined the AFL this season. The US year page is the page that calls the Stanley Cup Detroit's first in 42 years, and it dates the clinching game to June 7.",
+      "source": "https://en.wikipedia.org/wiki/1997_in_sports"
+    },
+    "deaths.diana": {
+      "section": "deaths",
+      "label": "Diana, Princess of Wales",
+      "value": "Died August 31, pronounced dead at 4:00 am",
+      "detail": "She was taken to hospital after a car accident shortly after midnight in the Pont de l'Alma road tunnel in Paris. Her funeral took place at Westminster Abbey on September 6 and the year page says over two billion people worldwide watched it. Elton John performed Candle in the Wind at the service and John Tavener's Song for Athene was performed at the same ceremony, with Lynne Dawson singing the soprano solo. The year page gives no birth year and names no driver, passenger or inquiry.",
+      "date": "1997-08-31",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    "deaths.stewart": {
+      "section": "deaths",
+      "label": "James Stewart",
+      "value": "Died July 2. Born 1908",
+      "detail": "Actor and soldier.",
+      "date": "1997-07-02",
+      "source": "https://en.wikipedia.org/wiki/1997_in_the_United_States"
+    },
+    "deaths.mitchum": {
+      "section": "deaths",
+      "label": "Robert Mitchum",
+      "value": "Died July 1. Born 1917",
+      "detail": "Actor. He died the day before James Stewart.",
+      "date": "1997-07-01",
+      "source": "https://en.wikipedia.org/wiki/1997_in_the_United_States"
+    },
+    "deaths.notorious_big": {
+      "section": "deaths",
+      "label": "The Notorious B.I.G.",
+      "value": "Died March 9. Born 1972",
+      "detail": "Rapper, shot in the passenger seat of a car after a party following the Soul Train Music Awards in Los Angeles. The US year page gives his age as 24 and calls it a drive-by shooting. The music page says his single Hypnotize went to number one for three weeks from May 3, and that Mo Money Mo Problems reached number one on August 30, making him the first artist with two posthumous number one singles.",
+      "date": "1997-03-09",
+      "source": "https://en.wikipedia.org/wiki/1997_in_the_United_States"
+    },
+    "deaths.cousteau": {
+      "section": "deaths",
+      "label": "Jacques Cousteau",
+      "value": "Died June 25. Born 1910",
+      "detail": "French oceanographer.",
+      "date": "1997-06-25",
+      "source": "https://en.wikipedia.org/wiki/1997_in_science"
+    },
+    "deaths.denver": {
+      "section": "deaths",
+      "label": "John Denver",
+      "value": "Died October 12. Born 1943",
+      "detail": "Singer and songwriter.",
+      "date": "1997-10-12",
+      "source": "https://en.wikipedia.org/wiki/1997_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1997. Box office. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross (USD), and the sentence directly above it says the top ten films released in 1997 by worldwide gross are as follows, so header and text agree and there is no rentals gloss to write. film.gross says worldwide in its label and repeats it in the detail so the figures are not read as North American, and the Sony line in the same detail names the United States and Canada because that is the territory the page states for it. The Titanic figure is the conflict the brief warns about and it is labelled rather than resolved: the cell carries a footnote saying the number excludes the gross from subsequent re-releases and a capitalised editors' comment asking that the total lifetime box office gross not be substituted, both of which film.gross states, and the film page's own box office records section dates the billion-dollar milestone and the loss of the all-time record to later years, which are left out because those years are later than this page's. The film opened on December 19, so almost none of the $1,843,201,268 was earned inside the year the table files it under, and film.releases says so in its detail rather than leaving a reader to work it out. Ceremony dates. The 70th Academy Awards honouring this year of film fall in the following spring, so film.best_picture and film.acting_awards name the winners, the host, the producer, the director, the venue and the telecast figures without a ceremony date, and no fact carries a token later than 1997. The 69th Academy Awards of March 24, hosted by Billy Crystal at the Shrine Auditorium, are in the file only as the occasion on which the year page says the DVD format launched in the United States, and their Best Picture is left out for the same reason 1995 leaves out the 67th: it honoured the previous year of film and would put a second Best Picture on the page. The 39th Grammy Awards of February 26 in New York, hosted by Ellen DeGeneres, which gave Album of the Year to Celine Dion's Falling into You and Record and Song of the Year to Eric Clapton's Change the World, four awards to Babyface and Best New Artist to LeAnn Rimes, are left out on the same ground. The Golden Globe, Critics' Choice and BAFTA ceremony dates on the film page's awards table all fall in the following year, so film.acting_awards names those winners without dating the ceremonies. Date checks. The one fact with a checkable internal constraint is the presidential term, and January 20 is the constitutional inauguration date, which is what both cached year pages give. No dedicated article had to be pulled: every source in this file comes from the cache. Source disagreements labelled rather than resolved. The year page dates the Heaven's Gate deaths from March 24 to 26 and the US year page to March 26 alone, so culture.heavens_gate carries no date field and says why. The science page dates Steve Jobs's return to Apple to February 7 as a consultant after the NeXT purchase and the US year page dates it to August 1 at Macworld in Boston, so tech.jobs_apple gives both and carries no date field. The games page says the Pokemon broadcast of December 16 gave 685 children seizures and the year page says over 700, so tech.games names both figures and settles neither. The television page dates the replacement of the Emergency Broadcast System by the Emergency Alert System twice, to January 1 and to November 29, and tv.ratings_system says so. Section windows. tech.web_sites has been open since 1996 but no cached page ranks or counts websites this year, so no fact uses it. The Google domain registration sits under tech.web_search, which the prefix table binds to the tech.internet window open from 1993, and the WinNuke exploit is in the same fact's detail rather than a fact of its own because there was no room for a seventh tech fact. culture.memes has been open since 1996 and stays empty: none of the eleven cached pages describes anything circulating as a joke or a catchphrase, and inventing one from general knowledge is exactly what the accuracy rule forbids. No radio fact, because the radio window closed after 1959, and nothing radio-shaped was moved into another section to get round that. The Nielsen ranking covers a season that began in the autumn of 1997 and ran into the following spring, which tv.top_shows states without naming a second year. music.spice_girls sits under the plain music section id rather than a gated chart id, following the 1995 file's music.tupac, which cites a Billboard 200 position the same way; the music.charts gate opens in 1940 and would pass either way. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.hong_kong cites the year page for the handover and takes the Tan Dun premiere from the music page; world.asian_financial_crisis cites the year page for the float of the baht and takes the October 27 worldwide market fall from the US year page; film.gross cites the film page throughout; sports.world_series cites the sports page for the result, the most valuable player and the start of interleague play and takes the seventh game date, the NBC coverage and the wild card line from the television page; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player and takes the Fox broadcast lines from the television page; sports.wnba cites the sports page for the final and takes the date and venue of the league's first game from the year page; sports.champions cites the sports page for every championship and takes the 42-year gap and the June 7 clinching date for the Stanley Cup from the US year page; deaths.notorious_big cites the US year page for the date, the birth year and the age and takes the two posthumous number ones from the music page; deaths.diana cites the year page for the death, the tunnel and the funeral audience and takes the music performed at the service from the music page; film.releases cites the US year page, which dates Liar Liar, Hercules, Men in Black and Titanic, and takes the Star Wars reissues and the Memorial Day record from the film page; tech.web_search cites the science page for the domain registration and takes the WinNuke entry from the US year page; music.hall_of_fame cites the music page for all of it. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. Nothing in this file needed an entry in src/data/name_years.json and that file was not touched. Candle in the Wind 1997 and Symphony 1997 both carry the page's own year, which the check allows because only a later year fails. Madden NFL 98 and The King of Fighters '97 are two digits and are out of the file anyway, Windows 98 Beta 3 of December 15 is two digits and was left out for room, and Mario Kart 64, Star Fox 64, Super Mario 64, GoldenEye 007 and Nintendo 64 are all one to three digits. The money and ratings figures are broken by commas and decimal points, so 1,843,201,268, 7,022.44, 8,038.88, 1,227.985 and 2,066,833 contain no bare four-digit run. Later-year material dropped for the anachronism rule rather than for want of a source, and left out of every value and detail: the film page's dating of Titanic passing a billion dollars and losing the all-time record; the year page's note that the NATO invitation of July 8 was for accession two years later, which is one reason the invitation is out of the file rather than paraphrased; the US year page's remark that unemployment stayed below 5 percent for four more years, so the texture gives only the May and November figures; the film page's claim that The Fifth Element held the record for the top-grossing French film until a later release; the television page's note on how long Matt Lauer stayed at the Today show after replacing Bryant Gumbel, whose last broadcast was January 3; and the 70th Academy Awards page's Emmy nominations, which were awarded the following year. Month-only or undated facts: culture.heavens_gate and tech.jobs_apple carry no date because their two sources disagree, film.how_people_watched carries none because it holds two dated events rather than one, film.gross, film.acting_awards, film.world_cinema, film.releases, film.ticket_price, tv.top_shows, music.hot100_year_end, music.listening_format, music.recordings, culture.nobel_prizes, sports.tiger_woods, sports.champions, tech.games and the two prices facts are list or annual facts with no single day, and every other fact carries a full date. Dropped for lack of a source, or for room: the death of Deng Xiaoping on February 19 and the death of Mother Teresa on September 5, neither of which appears anywhere in the eleven cached pages, so writing either would have meant writing a date from memory; Mohammad Khatami winning the Iranian presidential election on May 23 and becoming the first Iranian reformist president, dropped for room after world reached six facts; the NATO invitation to the Czech Republic, Hungary and Poland on July 8; the Promise Keepers gathering of a million men in Washington on October 4 and the Loomis Fargo robbery of $17.3 million in Charlotte the same day; the school shootings at Pearl High School on October 1 and Heath High School on December 1; the North Hollywood shootout of February 28; the Santa Monica verdict of February 5 finding O. J. Simpson liable for the deaths of Nicole Brown and Ronald Goldman; Strom Thurmond becoming the longest-serving senator in history on May 25 after 41 years and 10 months; the Kazakh capital move, the ThrustSSC record, the first colour photograph on the front page of The New York Times, the closure of F. W. Woolworth and the Hong Kong chicken cull, all in the texture instead of facts; the Algerian massacres, the Luxor attack, the Mena fire and the Royal Jomtien Resort fire, all in the texture instead of a disasters list fact; the Dow milestones, the October 27 mini-crash and the unemployment figures, in the texture instead of a markets fact; the Bowie birthday concert, the Garth Brooks show in Central Park, the Phish festival at Loring Air Force Base, the Spiritualized set on the CN Tower, the first Lilith Fair tour of July 5 and the first Ozzfest of May 24, in the texture or dropped; the collision of two Israeli troop-transport helicopters on February 4 that killed all 73 aboard; the Qayen earthquake of May 10 in eastern Iran, which the science page puts at 7.3 with at least 1,567 killed; the Montreal Screwjob at Survivor Series on November 9; the WorldCom and MCI merger announcement of November 10; the assassination of the loyalist paramilitary leader Billy Wright inside Long Kesh prison on December 27, cut from the world.blair detail because it is not an act of the new government; the Confederation Bridge opening on May 31; the return of Che Guevara's remains to Cuba on July 13 and their reburial on October 17; the murder of Gianni Versace on July 15 and the death of his killer Andrew Cunanan on July 23; the death of Jeanne Calment on August 4 at 122, the oldest person in confirmed history; and the septuplets born to Bobbi McCaughey in Des Moines on November 19. Names and titles are written in ASCII per the corpus convention, so Bjork, Slobodan Milosevic, Etienne Tshisekedi, Montxo Armendariz, Milos Forman, Dominik Hasek, Miguel Angel Gonzalez, Pokemon, bianzhong and Josemanuel Fernandez lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year, and deaths.diana carries neither because the year page gives neither. Deaths that would have earned a place with more room: Allen Ginsberg on April 5, Jeff Buckley on May 29, Gianni Versace on July 15, William S. Burroughs on August 2, Fela Anikulapo-Kuti on August 4, Burgess Meredith on September 9, Red Skelton on September 17, Roy Lichtenstein on September 29, James A. Michener on October 16, Samuel Fuller on October 30, Michael Hutchence on November 22, Chris Farley on December 18, Denver Pyle on December 25, Townes Van Zandt on January 1, Clyde Tombaugh on January 17, Colonel Tom Parker on January 21, Betty Shabazz on June 23, Brian Keith on June 24, Israel Kamakawiwoole on June 26, Charles Kuralt on July 4, William J. Brennan Jr. on July 24, Ben Hogan on July 25, Eugene Shoemaker on July 18, Viktor Frankl on September 2 and Anton Szandor LaVey on October 29. This file runs 53 facts across 10 sections: politics 5, world 6, film 7, tv 5, music 6, tech 6, prices 2, culture 4, sports 6, deaths 6. Film runs to seven because the box office table, the Best Picture winner, the acting awards, the festival prizes, the release list, the ticket price and the how-people-watched line are all separate claims, and deaths runs to six because Diana's death is the year's largest single story and folding any of the five others into her detail would park an unrelated person there. Liz Heaston becoming the first woman to play and score in a college football game on October 18 was cut from the sports.champions detail because it is not a championship and had no fact of its own."
+}
