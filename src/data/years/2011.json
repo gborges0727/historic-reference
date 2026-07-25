@@ -1,0 +1,321 @@
+{
+  "year": 2011,
+  "tier": "modern",
+  "headline": "Bin Laden was killed, three Arab governments fell, and Siri shipped nine days after Steve Jobs died",
+  "texture": [
+    "Netflix had twelve million DVD subscribers when it split the price of discs and streaming in July, charging $7.99 for each. In September it said the disc half would become a separate company called Qwikster, and in October it cancelled that plan after 800,000 subscribers quit. Spotify opened in the United States that same July with six months of free listening. Portal 2 shipped in April, Skyrim on November 11, and Minecraft left beta a week after that.",
+    "Apple announced the iPhone 4S on October 4 and sold four million of them in three days. Siri came with it, and talking to a phone in public was new enough to turn heads. Facebook counted 800 million users on September 22. Google+ opened on June 28, reached 25 million people inside a month, and finished the year near 90 million. Instagram had been out for a year and still ran on the iPhone only.",
+    "Unemployment sat at 9.1 percent in January and 8.5 percent in December, and nobody called the recession over. Congress passed the Budget Control Act on the August 2 deadline, and Standard and Poor's cut the US credit rating from AAA to AA+ three days later. Occupy Wall Street took Zuccotti Park on September 17, and police cleared it on November 15. Ben Ali left Tunisia in January, Mubarak resigned in February, and Gaddafi was killed at Sirte in October."
+  ],
+  "lead": [
+    "pol.us_president",
+    "event.bin_laden",
+    "event.tohoku",
+    "film.gross#0",
+    "tech.iphone_4s",
+    "deaths.jobs",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Barack Obama (D)",
+      "detail": "Third year of his first term, with Joe Biden as vice president.",
+      "source": "https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "112th Congress, Republican House and Democratic Senate",
+      "detail": "John Boehner was Speaker with 242 Republican seats. Harry Reid led a Senate of 51 Democrats and 2 independents caucusing with them. The first split Congress since 2001.",
+      "source": "https://en.wikipedia.org/wiki/112th_United_States_Congress"
+    },
+    "pol.debt_ceiling": {
+      "section": "politics",
+      "label": "Debt ceiling standoff",
+      "value": "Budget Control Act signed on the deadline, then the first downgrade of the US credit rating",
+      "detail": "Signed August 2, the day default was projected. Standard and Poor's cut the rating from AAA to AA+ on August 5.",
+      "date": "2011-08-02",
+      "source": "https://en.wikipedia.org/wiki/Budget_Control_Act_of_2011"
+    },
+    "world.uk_pm": {
+      "section": "world",
+      "label": "UK Prime Minister",
+      "value": "David Cameron (Conservative)",
+      "detail": "Leading a coalition with the Liberal Democrats, Nick Clegg as deputy.",
+      "source": "https://en.wikipedia.org/wiki/David_Cameron"
+    },
+    "event.bin_laden": {
+      "section": "world",
+      "label": "Osama bin Laden killed",
+      "value": "US special forces raid at Abbottabad, Pakistan",
+      "detail": "May 2 local time. Obama announced it on the evening of May 1 in Washington.",
+      "date": "2011-05-02",
+      "source": "https://en.wikipedia.org/wiki/2011"
+    },
+    "event.tohoku": {
+      "section": "world",
+      "label": "Tohoku earthquake and tsunami",
+      "value": "Magnitude 9.1 off northeastern Japan, followed by meltdowns at Fukushima Daiichi",
+      "detail": "19,759 people killed and 2,553 missing.",
+      "date": "2011-03-11",
+      "source": "https://en.wikipedia.org/wiki/2011"
+    },
+    "event.arab_spring": {
+      "section": "world",
+      "label": "Arab Spring",
+      "value": "Ben Ali fled Tunisia on January 14 and Mubarak resigned in Egypt on February 11",
+      "date": "2011-01-14",
+      "source": "https://en.wikipedia.org/wiki/2011"
+    },
+    "event.gaddafi": {
+      "section": "world",
+      "label": "Gaddafi killed",
+      "value": "Captured and killed by National Transitional Council fighters at Sirte, Libya",
+      "detail": "He had ruled Libya since 1969.",
+      "date": "2011-10-20",
+      "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+    },
+    "event.occupy": {
+      "section": "world",
+      "label": "Occupy Wall Street",
+      "value": "Encampment in Zuccotti Park in the New York financial district",
+      "detail": "Began September 17. Police in riot gear cleared the park on November 15 and arrested about 200 people.",
+      "date": "2011-09-17",
+      "source": "https://en.wikipedia.org/wiki/Occupy_Wall_Street"
+    },
+    "event.iraq_withdrawal": {
+      "section": "world",
+      "label": "US withdrawal from Iraq",
+      "value": "The last 500 US troops crossed into Kuwait, ending the war",
+      "detail": "A ceremony in Baghdad on December 15 marked the end of the mission. The final convoy left on December 18.",
+      "date": "2011-12-18",
+      "source": "https://en.wikipedia.org/wiki/Withdrawal_of_U.S._troops_from_Iraq_(2007%E2%80%932011)"
+    },
+    "event.royal_wedding": {
+      "section": "world",
+      "label": "Royal wedding",
+      "value": "Prince William married Catherine Middleton at Westminster Abbey",
+      "date": "2011-04-29",
+      "source": "https://en.wikipedia.org/wiki/2011"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Harry Potter and the Deathly Hallows Part 2",
+        "Transformers: Dark of the Moon",
+        "Pirates of the Caribbean: On Stranger Tides",
+        "The Twilight Saga: Breaking Dawn Part 1",
+        "Mission: Impossible Ghost Protocol"
+      ],
+      "detail": "Worldwide gross, from $1.34 billion for Deathly Hallows Part 2 down to $695 million for Ghost Protocol. The US domestic order differs.",
+      "source": "https://en.wikipedia.org/wiki/2011_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Artist",
+      "detail": "A silent, black and white French production, awarded at the ceremony the following February. Michel Hazanavicius took Best Director and Jean Dujardin Best Actor. Meryl Streep won Best Actress for The Iron Lady.",
+      "source": "https://en.wikipedia.org/wiki/84th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "A Separation (Iran), winner",
+        "Bullhead (Belgium)",
+        "Footnote (Israel)",
+        "In Darkness (Poland)",
+        "Monsieur Lazhar (Canada)"
+      ],
+      "source": "https://en.wikipedia.org/wiki/84th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$7.93",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "Theatre, then disc, then streaming. Netflix charged $7.99 a month for each half after July and had twelve million subscribers on the disc side.",
+      "source": "https://en.wikipedia.org/wiki/Qwikster"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, 2010 to 2011 season",
+      "value": [
+        "American Idol, Wednesday, 14.5 rating",
+        "Dancing with the Stars, 13.8",
+        "American Idol, Thursday, 13.4",
+        "Sunday Night Football, 12.7",
+        "NCIS, 11.8"
+      ],
+      "detail": "Nielsen reports by season rather than calendar year, so this is the season that ended in May.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2010%E2%80%9311"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Game of Thrones premiered",
+      "value": "April 17 on HBO, averaging 2.52 million US viewers across the first season",
+      "date": "2011-04-17",
+      "source": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+    },
+    "tv.new_network_series": {
+      "section": "tv",
+      "label": "New network series",
+      "value": [
+        "New Girl",
+        "Once Upon a Time",
+        "Person of Interest",
+        "2 Broke Girls",
+        "Grimm"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2011%E2%80%9312_United_States_network_television_schedule"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 number one",
+      "value": "Rolling in the Deep, Adele",
+      "detail": "Party Rock Anthem by LMFAO came second and Firework by Katy Perry third.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2011"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling album",
+      "value": "21, Adele",
+      "detail": "18 million copies sold worldwide during the year. It reached North America on February 22.",
+      "source": "https://en.wikipedia.org/wiki/21_(Adele_album)"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Spotify reached the United States in July with a six month ad-supported free tier. It had two million paying subscribers worldwide by September.",
+      "source": "https://en.wikipedia.org/wiki/Spotify"
+    },
+    "tech.iphone_4s": {
+      "section": "tech",
+      "label": "iPhone 4S",
+      "value": "Announced October 4, on sale October 14, four million sold in three days",
+      "detail": "Siri was exclusive to it. The s stood for Siri.",
+      "date": "2011-10-14",
+      "source": "https://en.wikipedia.org/wiki/IPhone_4S"
+    },
+    "tech.netflix_qwikster": {
+      "section": "tech",
+      "label": "Qwikster",
+      "value": "Netflix announced a separate DVD company in September and cancelled it in October",
+      "detail": "July had already split the price, $7.99 for streaming and $7.99 for discs. 800,000 of twelve million subscribers quit.",
+      "date": "2011-09",
+      "source": "https://en.wikipedia.org/wiki/Qwikster"
+    },
+    "tech.facebook": {
+      "section": "tech",
+      "label": "Facebook",
+      "value": "800 million users, announced September 22",
+      "date": "2011-09-22",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Facebook"
+    },
+    "tech.google_plus": {
+      "section": "tech",
+      "label": "Google+",
+      "value": "Launched June 28, 10 million users in two weeks and about 90 million by the end of the year",
+      "date": "2011-06-28",
+      "source": "https://en.wikipedia.org/wiki/Google%2B"
+    },
+    "tech.instagram": {
+      "section": "tech",
+      "label": "Instagram",
+      "value": "A year old and still iPhone only",
+      "detail": "Released October 2010 on iOS. A funding round in February valued it near $20 million.",
+      "source": "https://en.wikipedia.org/wiki/Instagram"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Games",
+      "value": [
+        "Portal 2, April 19",
+        "The Elder Scrolls V: Skyrim, November 11",
+        "Minecraft, full release November 18"
+      ],
+      "source": "https://en.wikipedia.org/wiki/2011_in_video_games"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$3.53 per gallon",
+      "detail": "Unleaded regular, US city average including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$7.25 per hour",
+      "detail": "Unchanged since July 2009.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "9.1 percent in January, 8.5 percent in December",
+      "detail": "At or above 9.0 percent for the first nine months of the year.",
+      "source": "https://data.bls.gov/timeseries/LNS14000000"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Third year of a recovery nobody could feel, with the debt fight in August and the Zuccotti Park encampment in September pulling opposite ways out of the same frustration."
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XLV",
+      "value": "Green Bay Packers 31, Pittsburgh Steelers 25",
+      "detail": "About 111 million US viewers, the most-watched US television program of any kind to that point.",
+      "date": "2011-02-06",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_XLV"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Texas Rangers, four games to three",
+      "detail": "Played October 19 to 28. Texas was one strike from the title twice in game six before David Freese homered in the eleventh.",
+      "source": "https://en.wikipedia.org/wiki/2011_World_Series"
+    },
+    "deaths.jobs": {
+      "section": "deaths",
+      "label": "Steve Jobs",
+      "value": "Died October 5, aged 56",
+      "detail": "Tim Cook succeeded him as chief executive of Apple.",
+      "date": "2011-10-05",
+      "source": "https://en.wikipedia.org/wiki/Steve_Jobs"
+    },
+    "deaths.winehouse": {
+      "section": "deaths",
+      "label": "Amy Winehouse",
+      "value": "Died July 23, aged 27, of alcohol poisoning",
+      "date": "2011-07-23",
+      "source": "https://en.wikipedia.org/wiki/Amy_Winehouse"
+    },
+    "deaths.taylor": {
+      "section": "deaths",
+      "label": "Elizabeth Taylor",
+      "value": "Died March 23, aged 79",
+      "detail": "Two Academy Awards, and one of the first public figures to campaign on HIV and AIDS.",
+      "date": "2011-03-23",
+      "source": "https://en.wikipedia.org/wiki/Elizabeth_Taylor"
+    },
+    "deaths.kim_jong_il": {
+      "section": "deaths",
+      "label": "Kim Jong-il",
+      "value": "Died December 17, reported as a heart attack on a train",
+      "detail": "Succeeded by his youngest son, Kim Jong Un.",
+      "date": "2011-12-17",
+      "source": "https://en.wikipedia.org/wiki/Kim_Jong-il"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026. Dropped from the earlier draft: the top-websites fact, because Alexa rankings for 2011 survive only in archived snapshots nobody has assembled; the claim that Spotify was invite-only in the US, which its own article contradicts; and the claim that Jobs died six weeks after the iPhone 4S shipped, which is backwards, he died nine days before it went on sale. Box office is worldwide because that is what the source ranks. Nielsen figures are for the season ending May 2011, labelled as such."
+}
