@@ -1,0 +1,183 @@
+{
+  "year": 1936,
+  "tier": "early",
+  "headline": "Spain went to war in July, Berlin hosted the Olympics in August, and a British king resigned in December",
+  "texture": [
+    "The Spanish Army of Africa launched a coup against the Republic on July 17 and the country split. The first Francoist concentration camps opened two days later. Robert Capa took The Falling Soldier on September 5. German troops had walked back into the Rhineland in March, in breach of Versailles, and no government did anything about it.",
+    "Berlin opened the Summer Olympics on August 1 with the first live television coverage of a games, and Jesse Owens won the hundred metres two days later in front of a government that had explanations ready. Garmisch-Partenkirchen had held the winter games in February. Roosevelt was reelected on November 3 by the widest margin in a century.",
+    "Edward VIII signed the instrument of abdication on December 10 and Parliament passed the act the next day, after eleven months as king. The BBC launched a regular high-definition television service in November to a few hundred sets in London. The Crystal Palace burned down on November 30. Rudyard Kipling died in January, Maxim Gorky in June, and Federico Garcia Lorca was shot by Nationalist forces in August."
+  ],
+  "lead": [
+    "world.spanish_civil_war",
+    "world.berlin_olympics",
+    "world.abdication",
+    "world.rhineland",
+    "film.gross#0",
+    "tech.bbc_television",
+    "pol.roosevelt_reelected"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "pol.roosevelt_reelected": {
+      "section": "politics",
+      "label": "Roosevelt reelected",
+      "value": "Won a second term by a very wide margin",
+      "date": "1936-11-03",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "pol.hoover_dam_complete": {
+      "section": "politics",
+      "label": "Hoover Dam completed",
+      "value": "Construction finished on the Colorado River",
+      "date": "1936-03-01",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "world.spanish_civil_war": {
+      "section": "world",
+      "label": "Spanish Civil War begins",
+      "value": "The Army of Africa launched a coup against the Second Republic",
+      "detail": "The first of hundreds of Francoist concentration camps opened on July 19.",
+      "date": "1936-07-17",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "world.rhineland": {
+      "section": "world",
+      "label": "Rhineland remilitarised",
+      "value": "German troops reoccupied it in breach of the Treaty of Versailles, with no response from the guarantor powers",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "world.berlin_olympics": {
+      "section": "world",
+      "label": "Berlin Olympics",
+      "value": "Opened on August 1 with the first live television coverage of a games",
+      "detail": "Jesse Owens won the 100 metres on August 3.",
+      "date": "1936-08-01",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "world.abdication": {
+      "section": "world",
+      "label": "Edward VIII abdicates",
+      "value": "Signed the instrument of abdication on December 10, with Parliament passing the declaration act the following day",
+      "date": "1936-12-10",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "world.capa_photograph": {
+      "section": "world",
+      "label": "The Falling Soldier",
+      "value": "Robert Capa took the photograph in Spain",
+      "date": "1936-09-05",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "world.crystal_palace": {
+      "section": "world",
+      "label": "Crystal Palace burns",
+      "value": "The glass building from the Great Exhibition was destroyed by fire in London",
+      "date": "1936-11-30",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Great Ziegfeld, $3,089,000, MGM",
+        "San Francisco, $2,868,000, MGM",
+        "The Plainsman, $2,278,533, Paramount",
+        "After the Thin Man, $1,992,000, MGM",
+        "Modern Times, $1,800,000, United Artists"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1936_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Great Ziegfeld",
+      "detail": "Also the year's highest-grossing film.",
+      "source": "https://en.wikipedia.org/wiki/9th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Chaplin's Modern Times was fifth for the year and still largely silent, nine years after sound arrived.",
+      "source": "https://en.wikipedia.org/wiki/1936_in_film"
+    },
+    "tech.bbc_television": {
+      "section": "tech",
+      "label": "BBC television service",
+      "value": "Launched a regular high-definition service, reaching a few hundred receivers around London",
+      "date": "1936-11",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A year when the news came from Spain, Berlin and Buckingham Palace, and the argument about whether any of it was Britain's business was settled by a king marrying an American instead."
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Opened at Garmisch-Partenkirchen in Germany on February 6",
+      "date": "1936-02-06",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the New York Giants, four games to two",
+      "source": "https://en.wikipedia.org/wiki/1936_in_sports"
+    },
+    "deaths.kipling": {
+      "section": "deaths",
+      "label": "Rudyard Kipling",
+      "value": "Died January 18. Born 1865",
+      "detail": "British writer and Nobel laureate.",
+      "date": "1936-01-18",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "deaths.gorky": {
+      "section": "deaths",
+      "label": "Maxim Gorky",
+      "value": "Died June 18. Born 1868",
+      "detail": "Russian writer.",
+      "date": "1936-06-18",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "deaths.lorca": {
+      "section": "deaths",
+      "label": "Federico Garcia Lorca",
+      "value": "Assassinated. Born 1898",
+      "detail": "Spanish poet and playwright, killed by Nationalist forces in the first weeks of the civil war.",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "deaths.pirandello": {
+      "section": "deaths",
+      "label": "Luigi Pirandello",
+      "value": "Died December. Born 1867",
+      "detail": "Italian dramatist and Nobel laureate.",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "deaths.curtis": {
+      "section": "deaths",
+      "label": "Charles Curtis",
+      "value": "Died February 8. Born 1860",
+      "detail": "31st vice president of the United States.",
+      "date": "1936-02-08",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    },
+    "deaths.gilbert": {
+      "section": "deaths",
+      "label": "John Gilbert",
+      "value": "Died January 9. Born 1897",
+      "detail": "American actor, a silent star whose career did not survive sound.",
+      "date": "1936-01-09",
+      "source": "https://en.wikipedia.org/wiki/1936"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. Lorca and Pirandello carry no date because the source lists them as undated sub-entries. The Rhineland fact carries no date for the same reason, the source mentioning it only in the year summary. Edward VIII's eleven months as king, Roosevelt's margin being the widest in a century, and John Gilbert's career ending with sound are general knowledge rather than claims from the year pages."
+}

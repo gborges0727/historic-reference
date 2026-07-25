@@ -275,7 +275,7 @@ The build fails on any error below. Wire `npm run validate` into `npm run build`
 1. **Schema.** Zod parse of every year file. Filename matches `year`.
 2. **Source coverage.** Every fact requiring a source per the rules above has a non-empty `https://` URL. No exceptions, no placeholder URLs.
 3. **Lead integrity.** Every lead id resolves to an existing fact. Array indexes are in range. Lead length 4 to 8. No duplicates.
-4. **Anachronism.** No 4-digit year later than the page year appears anywhere in `facts` or `texture`. A 1931 page referencing 1975 is a hallucination or a retrospective framing, and both are wrong here. The anchoring module is computed outside the data files and is exempt.
+4. **Anachronism.** No 4-digit year later than the page year appears anywhere in `facts` or `texture`. One narrow exemption: a fact in the `film` section may contain the very next year in the shape `of YYYY`, because revue films were conventionally titled for the coming year and a 1935 page correctly lists *Broadway Melody of 1936*. A year inside a title is a proper noun, not a claim about time. Nothing further out than year plus one qualifies, no other section qualifies, and no other shape qualifies, so a fact claiming something *happened* in a later year still fails. A 1931 page referencing 1975 is a hallucination or a retrospective framing, and both are wrong here. The anchoring module is computed outside the data files and is exempt.
 5. **Section availability.** No fact in a section that is unavailable for that year's tier.
 6. **Tier.** Stored `tier` matches the computed tier.
 7. **Coverage.** All 106 files exist, none empty.

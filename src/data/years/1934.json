@@ -1,0 +1,163 @@
+{
+  "year": 1934,
+  "tier": "early",
+  "headline": "Hitler purged his own party in June and became head of state in August, and Hollywood started enforcing its code",
+  "texture": [
+    "The Nazis turned on the Sturmabteilung between June 30 and July 2 and killed its leadership along with other inconvenient people. Hindenburg died a month later and Hitler combined the presidency with the chancellorship on August 2, which left nothing above him. The sixth Nuremberg rally ran in September. In China, the Communists set out on the Long March on October 16 and were still walking at the end of the year.",
+    "The Hays Code began to be enforced strictly on July 1, four years after the studios had written it, and what a film could show narrowed overnight. Kid Millions led the box office and It Happened One Night came fourth, then took Best Picture, Best Director, Best Actor and Best Actress, which nothing had done before.",
+    "Bonnie Parker and Clyde Barrow were shot dead by police in Bienville Parish on May 23. John Dillinger had robbed a bank in Mason City in March. Italian and Ethiopian troops exchanged fire in December after a boundary commission found an Italian fort where it should not have been, which is how the next war started."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.night_of_long_knives",
+    "world.hitler_head_of_state",
+    "film.hays_enforcement",
+    "film.best_picture",
+    "film.gross#0",
+    "world.long_march"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "detail": "Second year of the New Deal.",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "pol.bonnie_and_clyde": {
+      "section": "politics",
+      "label": "Bonnie and Clyde killed",
+      "value": "Ambushed and shot dead by police in Bienville Parish, Louisiana",
+      "date": "1934-05-23",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "pol.dillinger": {
+      "section": "politics",
+      "label": "Dillinger robs Mason City",
+      "value": "John Dillinger and his gang took the First National Bank in Mason City, Iowa",
+      "date": "1934-03-13",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "world.night_of_long_knives": {
+      "section": "world",
+      "label": "Night of the Long Knives",
+      "value": "The Nazis purged the Sturmabteilung leadership and others between June 30 and July 2",
+      "date": "1934-06-30",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "world.hitler_head_of_state": {
+      "section": "world",
+      "label": "Hitler becomes head of state",
+      "value": "Took the title of Fuhrer, combining the presidency with the chancellorship after Hindenburg's death",
+      "date": "1934-08-02",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "world.nuremberg_rally": {
+      "section": "world",
+      "label": "Sixth Nuremberg rally",
+      "value": "Staged by the Nazi Party from September 5 to 10",
+      "date": "1934-09-05",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "world.long_march": {
+      "section": "world",
+      "label": "The Long March begins",
+      "value": "Chinese Communist forces set out on a retreat that lasted more than a year",
+      "date": "1934-10-16",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "world.abyssinia_crisis": {
+      "section": "world",
+      "label": "Abyssinia Crisis",
+      "value": "Ethiopian and Italian troops exchanged gunfire in December, after a boundary commission found an Italian fort in the Ogaden on November 23",
+      "date": "1934-12-05",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Kid Millions, $2,000,000, United Artists",
+        "Cleopatra, $1,929,161, Paramount",
+        "Forsaking All Others, $1,399,000, MGM",
+        "It Happened One Night, $1,366,000, Columbia",
+        "Chained, $1,301,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1934_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "It Happened One Night",
+      "detail": "It took the top five awards, picture, director, actor, actress and screenplay, which no film had done before.",
+      "source": "https://en.wikipedia.org/wiki/7th_Academy_Awards"
+    },
+    "film.hays_enforcement": {
+      "section": "film",
+      "label": "The Hays Code gets teeth",
+      "value": "Strict enforcement began, four years after the studios adopted the code",
+      "date": "1934-07-01",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, on a double bill, watching films made under rules that had just been given real force.",
+      "source": "https://en.wikipedia.org/wiki/1934_in_film"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Relief programmes running at home while a German government killed its own street militia and no foreign office treated it as disqualifying."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Detroit Tigers, four games to three",
+      "source": "https://en.wikipedia.org/wiki/1934_in_sports"
+    },
+    "deaths.wassermann": {
+      "section": "deaths",
+      "label": "Jakob Wassermann",
+      "value": "Died January 1. Born 1873",
+      "detail": "German writer.",
+      "date": "1934-01-01",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "deaths.bely": {
+      "section": "deaths",
+      "label": "Andrei Bely",
+      "value": "Died January 8. Born 1880",
+      "detail": "Russian writer.",
+      "date": "1934-01-08",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "deaths.bahr": {
+      "section": "deaths",
+      "label": "Hermann Bahr",
+      "value": "Died January 15. Born 1863",
+      "detail": "Austrian writer and playwright.",
+      "date": "1934-01-15",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "deaths.zimmern": {
+      "section": "deaths",
+      "label": "Helen Zimmern",
+      "value": "Died January 11. Born 1846",
+      "detail": "German-born British writer and translator.",
+      "date": "1934-01-11",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    },
+    "deaths.qazvini": {
+      "section": "deaths",
+      "label": "Aref Qazvini",
+      "value": "Died January 21. Born 1882",
+      "detail": "Iranian poet, lyricist and musician.",
+      "date": "1934-01-21",
+      "source": "https://en.wikipedia.org/wiki/1934"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. It Happened One Night taking the top five awards is stated as five categories, which is the standard account, though the source line names only the film. The remark that the Ogaden fort is how the next war started is a judgement, not a sourced claim, and comes out if challenged."
+}

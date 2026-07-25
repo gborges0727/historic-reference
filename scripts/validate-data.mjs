@@ -60,6 +60,13 @@ function sourceProblem(source) {
   return null;
 }
 
+/** Years appearing in the "of YYYY" shape, which is how revue films were titled. */
+function titleYears(text) {
+  const found = new Set();
+  for (const m of text.matchAll(/\bof (\d{4})\b/g)) found.add(Number(m[1]));
+  return found;
+}
+
 function requiresSource(fact) {
   if (SECTIONS_REQUIRING_SOURCE.has(fact.section)) return true;
   if (/\d/.test(factPayload(fact))) return true;
@@ -130,15 +137,23 @@ for (const file of files) {
     ...Object.entries(year.facts).flatMap(([id, fact]) => factStrings(id, fact)),
   ];
   for (const { field, text } of scanned) {
+    const titled = titleYears(text);
     for (const match of text.matchAll(YEAR_TOKEN)) {
       const found = Number(match[1]);
-      if (found > year.year) {
-        report.error(
-          scope,
-          'anachronism',
-          `${field} contains ${found}, later than ${year.year}`,
-        );
-      }
+      if (found <= year.year) continue;
+      // Revue films were conventionally titled for the coming year, so a 1935 page
+      // legitimately lists "Broadway Melody of 1936". The year inside a title is a
+      // proper noun rather than a claim about when something happened. Narrow on
+      // purpose: only the film section, only the very next year, and only in the
+      // "of YYYY" shape the convention actually uses.
+      const isTitleYear =
+        field.startsWith('film.') && found === year.year + 1 && titled.has(found);
+      if (isTitleYear) continue;
+      report.error(
+        scope,
+        'anachronism',
+        `${field} contains ${found}, later than ${year.year}`,
+      );
     }
   }
 

@@ -1,0 +1,176 @@
+{
+  "year": 1935,
+  "tier": "early",
+  "headline": "A dust storm took the sky out of Kansas in April, Germany stripped Jews of citizenship in September",
+  "texture": [
+    "Black Sunday hit the southern plains on April 14 and the dust rolled east far enough to darken Chicago. Roosevelt signed the Social Security Act on August 14, which set up pensions and unemployment insurance where neither had existed. The Nuremberg Laws came into force on September 15 and removed citizenship from German Jews. Italy invaded Ethiopia on October 2.",
+    "Parker Brothers started selling Monopoly on February 6, a game about buying property in a year when almost nobody could. Alcoholics Anonymous was founded in Akron on June 10. Germany began the world's first regular television service on March 22, to an audience of almost nobody, and Roosevelt dedicated the Hoover Dam in September.",
+    "Mutiny on the Bounty led the box office and won Best Picture, and MGM had four of the five biggest films. Top Hat came second, which meant Fred Astaire and Ginger Rogers dancing through a Depression that was in its sixth year. T. E. Lawrence died on May 19 after a motorcycle crash, and the Chinese Communists ended the Long March in Shaanxi in October."
+  ],
+  "lead": [
+    "pol.social_security",
+    "world.black_sunday",
+    "world.nuremberg_laws",
+    "world.ethiopia_invasion",
+    "film.gross#0",
+    "film.best_picture",
+    "culture.monopoly"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "pol.social_security": {
+      "section": "politics",
+      "label": "Social Security Act",
+      "value": "Roosevelt signed it, creating federal old-age pensions and unemployment insurance",
+      "date": "1935-08-14",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "pol.hoover_dam": {
+      "section": "politics",
+      "label": "Hoover Dam dedicated",
+      "value": "Roosevelt dedicated it in September",
+      "date": "1935-09",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "world.black_sunday": {
+      "section": "world",
+      "label": "Black Sunday dust storm",
+      "value": "The great dust storm of the Dust Bowl hit the southern plains",
+      "date": "1935-04-14",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "world.nuremberg_laws": {
+      "section": "world",
+      "label": "Nuremberg Laws",
+      "value": "Came into force in Germany, removing citizenship from Jews",
+      "date": "1935-09-15",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "world.ethiopia_invasion": {
+      "section": "world",
+      "label": "Italy invades Ethiopia",
+      "value": "The Second Italo-Ethiopian War began under General Emilio De Bono",
+      "date": "1935-10-02",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "world.long_march_ends": {
+      "section": "world",
+      "label": "The Long March ends",
+      "value": "The Chinese Communist Party settled in Shaanxi",
+      "date": "1935-10-22",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "world.siam_abdication": {
+      "section": "world",
+      "label": "King of Siam abdicates",
+      "value": "Prajadhipok gave up the throne and was succeeded by his nephew",
+      "date": "1935-03-02",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Mutiny on the Bounty, $2,250,000, MGM",
+        "Top Hat, $1,782,000, RKO",
+        "China Seas, $1,710,000, MGM",
+        "Broadway Melody of 1936, $1,655,000, MGM",
+        "David Copperfield, $1,621,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. MGM had four of the five.",
+      "source": "https://en.wikipedia.org/wiki/1935_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Mutiny on the Bounty",
+      "detail": "Also the year's highest-grossing film.",
+      "source": "https://en.wikipedia.org/wiki/8th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, under the enforced production code, on a bill that usually included a newsreel and a short.",
+      "source": "https://en.wikipedia.org/wiki/1935_in_film"
+    },
+    "tech.television_service": {
+      "section": "tech",
+      "label": "First regular television service",
+      "value": "Germany began broadcasting a regular programme schedule",
+      "date": "1935-03-22",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "culture.monopoly": {
+      "section": "culture",
+      "label": "Monopoly goes on sale",
+      "value": "Parker Brothers began selling the board game in the United States",
+      "date": "1935-02-06",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "culture.alcoholics_anonymous": {
+      "section": "culture",
+      "label": "Alcoholics Anonymous founded",
+      "value": "Started in Akron, Ohio",
+      "date": "1935-06-10",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Sixth year of the slump, with a pension system arriving at home, dust burying farms in the middle of the country, and two invasions being prepared abroad."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Detroit Tigers beat the Chicago Cubs, four games to two",
+      "source": "https://en.wikipedia.org/wiki/1935_in_sports"
+    },
+    "deaths.lawrence": {
+      "section": "deaths",
+      "label": "T. E. Lawrence",
+      "value": "Died May 19",
+      "detail": "English soldier, diplomat and writer, known as Lawrence of Arabia.",
+      "date": "1935-05-19",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "deaths.liebermann": {
+      "section": "deaths",
+      "label": "Max Liebermann",
+      "value": "Died February 8. Born 1847",
+      "detail": "German painter.",
+      "date": "1935-02-08",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "deaths.ippolitov_ivanov": {
+      "section": "deaths",
+      "label": "Mikhail Ippolitov-Ivanov",
+      "value": "Died January 28. Born 1859",
+      "detail": "Russian composer.",
+      "date": "1935-01-28",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "deaths.gonzaga": {
+      "section": "deaths",
+      "label": "Chiquinha Gonzaga",
+      "value": "Died February 28. Born 1847",
+      "detail": "Brazilian composer.",
+      "date": "1935-02-28",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    },
+    "deaths.moisiu": {
+      "section": "deaths",
+      "label": "Aleksander Moisiu",
+      "value": "Died March 22. Born 1879",
+      "detail": "Albanian actor.",
+      "date": "1935-03-22",
+      "source": "https://en.wikipedia.org/wiki/1935"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the three price series all start later. The dust reaching Chicago, and Lawrence dying after a motorcycle crash, are general knowledge of those events rather than statements from the year pages, and come out if challenged. The Hoover Dam dedication carries a month because the source gives no day."
+}
