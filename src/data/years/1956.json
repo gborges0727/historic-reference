@@ -1,0 +1,499 @@
+{
+  "year": 1956,
+  "tier": "broadcast",
+  "headline": "Nasser nationalized the Suez Canal, Soviet troops crushed Hungary's revolution, and Elvis Presley had four number ones",
+  "texture": [
+    "Carl Perkins put Blue Suede Shoes out on Sun Records on January 1, then crashed near Wilmington, Delaware on March 22 on his way to The Ed Sullivan Show and spent months in hospital. Colonel Tom Parker formally became Elvis Presley's manager on March 26, and Paramount signed Presley to three pictures on April 6, a week after his screen test. Presley scandalized the audience on The Milton Berle Show on June 5 with his hips. Segregationists following Asa Earl Carter rushed the stage at a Nat King Cole concert in Birmingham, Alabama on April 10 and were restrained.",
+    "A TWA Constellation and a United DC-7 collided over the Grand Canyon on June 30 and all 128 people aboard died, the deadliest civil aviation accident to that point. The Andrea Doria went down south of Nantucket on July 25 after the Stockholm hit her in fog, killing 51. Seven trucks carrying 1,053 boxes of dynamite blew up in Cali on August 7, in a city of 120,000 people, with death estimates running from 1,300 to 10,000. A fire in the Bois du Cazier pit at Marcinelle killed 262 miners the next day, most of them Italians working in Belgium.",
+    "Ringling Bros. and Barnum and Bailey shut its Big Tent show in Pittsburgh on July 16 and said every circus after it would play arenas. General Electric and Telechron put out model 7H241, the Snooz Alarm, on June 8. George Metesky left a pipe bomb at the Paramount Theater in Brooklyn on December 2 and hurt six people. Eisenhower signed a joint resolution of Congress on July 30 making In God we trust the national motto. Norma Jean Mortenson changed her name to Marilyn Monroe on February 23, and Hunter S. Thompson was arrested at 19 as an accessory to robbery.",
+    "Guy Burgess and Donald Maclean turned up in the Soviet Union on February 11 after five years missing. Lionel Crabb, diving for MI6, went into Portsmouth Harbour on April 19 to inspect a visiting Soviet cruiser and never came out. An American Lockheed U-2 made its first flight over the Soviet Union on July 4. Khrushchev told Western ambassadors at the Polish embassy in Moscow on November 18 that he would bury them. Fidel Castro and Che Guevara left Tuxpan with 82 men aboard the Granma on November 25. Minamata disease was identified in Japan on May 1."
+  ],
+  "lead": [
+    "pol.us_election",
+    "world.suez",
+    "world.hungary",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#0",
+    "prices.min_wage"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R)",
+      "detail": "Richard Nixon was Vice President and Earl Warren was Chief Justice. The 84th Congress sat, with Sam Rayburn as Speaker of the House and Lyndon B. Johnson as Senate majority leader.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "pol.us_election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Eisenhower beat the Democratic challenger Adlai E. Stevenson, in a rematch of their contest four years earlier",
+      "detail": "Eisenhower's doctors said on February 14 that he was healthy enough to seek another term, and he announced on February 29 that he would run.",
+      "date": "1956-11-06",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "pol.southern_manifesto": {
+      "section": "politics",
+      "label": "Southern Manifesto",
+      "value": "96 members of Congress signed it, protesting the Supreme Court ruling in Brown v. Board of Education that desegregated public education",
+      "date": "1956-03-12",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "pol.bus_boycott": {
+      "section": "politics",
+      "label": "Montgomery bus boycott ends",
+      "value": "The Supreme Court declared Alabama's laws requiring segregated buses illegal in Browder v. Gayle, which ended the boycott",
+      "detail": "A federal district court in Alabama had heard the civil suit on June 4 and ruled the state's bus segregation laws unconstitutional.",
+      "date": "1956-11-13",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "pol.highway_act": {
+      "section": "politics",
+      "label": "Federal Aid Highway Act",
+      "value": "Eisenhower signed the act, creating the Interstate Highway System",
+      "detail": "The first stretch built with money from the act, eight miles of highway west of Topeka, Kansas, opened on November 14.",
+      "date": "1956-06-29",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "pol.miller_huac": {
+      "section": "politics",
+      "label": "Arthur Miller before HUAC",
+      "value": "The playwright appeared before the House Un-American Activities Committee in Washington",
+      "detail": "He married Marilyn Monroe in White Plains, New York eight days later.",
+      "date": "1956-06-21",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "world.suez": {
+      "section": "world",
+      "label": "Suez Canal nationalized",
+      "value": "Gamal Abdel Nasser took the canal into Egyptian hands, and international condemnation followed",
+      "detail": "Nasser had become Egypt's second president on June 23. The Protocol of Sevres, a secret agreement letting Israel invade the Sinai Peninsula with British and French support, was signed on October 24. Israel invaded on October 29, the United Kingdom and France began bombing Egypt on October 31, and the UN General Assembly called for withdrawal on November 7. Petrol rationing began in Britain on November 23, and British and French troops left the canal region on December 23.",
+      "date": "1956-07-26",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "world.hungary": {
+      "section": "world",
+      "label": "Hungarian Revolution",
+      "value": "A revolt against the pro-Soviet government broke out as a student demonstration in Budapest, and Hungary moved to leave the Warsaw Pact",
+      "detail": "Soviet Red Army troops invaded on October 26, more came on November 4 to crush the revolt, and the last insurgents gave way on November 11. Thousands were killed and nearly a quarter of a million people left the country.",
+      "date": "1956-10-23",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "world.khrushchev_speech": {
+      "section": "world",
+      "label": "Khrushchev attacks Stalin",
+      "value": "In a speech titled On the Cult of Personality and Its Consequences, delivered at a secret session closing the 20th Congress of the Communist Party of the Soviet Union",
+      "detail": "The congress ran from February 14 to 25. The speech was not made public in the Soviet Union at the time, and its text was first printed in the West by The New York Times on June 5. Vyacheslav Molotov resigned as Soviet foreign minister on June 1.",
+      "date": "1956-02-25",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "world.poznan": {
+      "section": "world",
+      "label": "Poznan protests",
+      "value": "Labour riots in Poznan, Poland were put down with heavy loss of life, and 53 people were killed when troops fired on a crowd protesting high prices",
+      "detail": "Mass demonstrations in the Georgian Soviet Socialist Republic, a reaction to de-Stalinization, had been suppressed by the Soviet Armed Forces on March 9. West Germany banned the Communist Party of Germany on August 17.",
+      "date": "1956-06-28",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "world.independence": {
+      "section": "world",
+      "label": "Morocco and Tunisia leave France",
+      "value": "Morocco declared its independence on March 2, and Tunisia gained independence on March 20",
+      "detail": "The Anglo-Egyptian Condominium in Sudan ended on January 1 after 57 years. Spain gave up its protectorate in Morocco on April 7, and the international city of Tangier was reintegrated into Morocco on October 29. Pakistan became the first Islamic republic on March 23. Morocco, Sudan and Tunisia joined the United Nations on November 12.",
+      "date": "1956-03-02",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "world.calder_hall": {
+      "section": "world",
+      "label": "Calder Hall opens",
+      "value": "The world's first industrial-scale commercial nuclear power plant began operating in the United Kingdom",
+      "date": "1956-10-17",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "world.somoza": {
+      "section": "world",
+      "label": "Somoza assassinated",
+      "value": "Anastasio Somoza Garcia, dictator of Nicaragua, was assassinated",
+      "detail": "The year page contradicts itself: its events list dates the assassination September 21, and its deaths list dates his death September 29. Only the earlier date is carried here.",
+      "date": "1956-09-21",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Ten Commandments, $34,200,000, Paramount",
+        "Around the World in 80 Days, $22,000,000, United Artists",
+        "Giant, $12,000,000, Warner Bros.",
+        "Seven Wonders of the World, $9,300,000, Cinerama Releasing",
+        "The King and I, $8,500,000, 20th Century Fox"
+      ],
+      "detail": "The table header states domestic rentals, the distributor's share rather than the ticket window total, so these sit well below what a gross figure would say. The Ten Commandments cost $13 million, the most expensive film made to that point, and was Cecil B. DeMille's last. Trapeze, sixth at $7,300,000, was United Artists' biggest earner until Around the World in 80 Days passed it.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Around the World in 80 Days, produced by Mike Todd",
+      "detail": "Awarded the following spring at the 29th Academy Awards. Every Best Picture nominee was in colour and every one was a large-scale epic: The King and I, Giant, The Ten Commandments, Friendly Persuasion and the winner. Giant drew the most nominations with ten, and George Stevens won Best Director for it. Around the World in 80 Days and The King and I took five awards each. John Ford's The Searchers drew no nominations at all.",
+      "source": "https://en.wikipedia.org/wiki/29th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Yul Brynner, The King and I",
+        "Best Actress, Ingrid Bergman, Anastasia",
+        "Best Supporting Actor, Anthony Quinn, Lust for Life",
+        "Best Supporting Actress, Dorothy Malone, Written on the Wind"
+      ],
+      "detail": "Best Picture, Best Director and all four acting awards went to six different films. James Dean was nominated for Giant, his second posthumous acting nomination and the only second one any actor has had. Bergman was performing a play in Paris and Cary Grant collected for her.",
+      "source": "https://en.wikipedia.org/wiki/29th_Academy_Awards"
+    },
+    "film.other_awards": {
+      "section": "film",
+      "label": "Foreign language film becomes a category",
+      "value": "Best Foreign Language Film was contested rather than handed out as a special award, and Italy won the first competitive one for Federico Fellini's La Strada",
+      "detail": "The Best Original Story winner, The Brave One, was credited to Robert Rich, a pseudonym for Dalton Trumbo, who was blacklisted and could not be named. Best Original Screenplay went to The Red Balloon, written by Albert Lamorisse.",
+      "source": "https://en.wikipedia.org/wiki/29th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, in whichever widescreen process that theatre had been fitted for. Oklahoma! went out nationally in CinemaScope on November 1 because not every house could run Todd-AO, and the film had been shot twice to make both versions possible.",
+      "detail": "Carousel, released February 16, was the first film shot in CinemaScope 55, and ended up shown only in 35 mm.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Aparajito, directed by Satyajit Ray, India",
+        "The Burmese Harp, directed by Kon Ichikawa, Japan",
+        "A Man Escaped, directed by Robert Bresson, France",
+        "Street of Shame, directed by Kenji Mizoguchi, Japan",
+        "And God Created Woman, directed by Roger Vadim, France"
+      ],
+      "detail": "And God Created Woman opened in France on November 28 and made Brigitte Bardot an international star.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_film"
+    },
+    "film.grace_kelly": {
+      "section": "film",
+      "label": "Grace Kelly stops acting",
+      "value": "She married Rainier III, Prince of Monaco, and gave up film work. Her last feature, High Society, came out in July",
+      "detail": "The year page dates the civil ceremony April 18 with a religious ceremony the next day, and calls it a 16-minute service. The US year page dates the marriage April 19.",
+      "date": "1956-04-18",
+      "source": "https://en.wikipedia.org/wiki/1956_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, the season starting in autumn",
+      "value": [
+        "I Love Lucy, CBS, 43.7 rating",
+        "The Ed Sullivan Show, CBS, 38.4",
+        "General Electric Theater, CBS, 36.9",
+        "The $64,000 Question, CBS, 36.4",
+        "December Bride, CBS, 35.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. The top eight programs were all on CBS, with Alfred Hitchcock Presents sixth and I've Got a Secret tied with Gunsmoke at seventh.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1956%E2%80%9357"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "As the World Turns, CBS, April 2",
+        "The Edge of Night, CBS, April 2",
+        "The Steve Allen Show, NBC, June 24",
+        "Twenty-One, NBC, September 12",
+        "Playhouse 90, CBS, October 4",
+        "The Huntley-Brinkley Report, NBC, October 29",
+        "To Tell the Truth, CBS, December 18"
+      ],
+      "detail": "Our Miss Brooks ended on CBS on May 11 and The Honeymooners was cancelled on September 22. NBC's Camel News Caravan ended on October 26, and Chet Huntley and David Brinkley took over the evening newscast three days later.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_American_television"
+    },
+    "tv.videotape": {
+      "section": "tv",
+      "label": "Videotape demonstrated",
+      "value": "Ampex showed a videotape recorder at the NARTB convention in Chicago, the 2-inch Quadruplex format, and ABC, NBC and CBS ordered machines",
+      "detail": "CBS used its Ampex recorder on October 29 to tape the Douglas Edwards evening news and feed it to West Coast stations three hours later, the first use of videotape in network programming. Jonathan Winters used tape and superimposing in November to play two characters in one skit, the first entertainment use.",
+      "date": "1956-04-14",
+      "source": "https://en.wikipedia.org/wiki/1956_in_American_television"
+    },
+    "tv.color": {
+      "section": "tv",
+      "label": "NBC's peacock",
+      "value": "NBC introduced the peacock logo to mark the network's first colour broadcasts",
+      "detail": "Its Chicago owned-and-operated station WNBQ-TV had become the first station to broadcast locally in colour, in April. Portable black-and-white sets were marketed for the first time during the year, on a date the source does not give.",
+      "date": "1956-05-22",
+      "source": "https://en.wikipedia.org/wiki/1956_in_American_television"
+    },
+    "tv.dumont_ends": {
+      "section": "tv",
+      "label": "DuMont Television Network closes",
+      "value": "It ended network operations with a live broadcast of a boxing match from St. Nicholas Arena",
+      "detail": "The Paramount Television Network shut down as well, after about eight years. National Telefilm Associates launched the ad hoc NTA Film Network in October, two months after DuMont's end, as another attempt at a fourth network.",
+      "date": "1956-08-06",
+      "source": "https://en.wikipedia.org/wiki/1956_in_American_television"
+    },
+    "tv.wizard_of_oz": {
+      "section": "tv",
+      "label": "The Wizard of Oz on television",
+      "value": "CBS broadcast the MGM film for the first time, and an estimated 45 million people watched",
+      "detail": "It was the first major Hollywood film running over 90 minutes shown uncut in a single evening, and it ran as the last installment of Ford Star Jubilee.",
+      "date": "1956-11-03",
+      "source": "https://en.wikipedia.org/wiki/1956_in_American_television"
+    },
+    "radio.rock_show": {
+      "section": "radio",
+      "label": "First national rock and roll show",
+      "value": "Rock 'n Roll Dance Party, hosted by Alan Freed, premiered on the CBS Radio Network as the first regularly scheduled nationally broadcast rock and roll programme",
+      "detail": "The line carries a citation needed tag on the source page.",
+      "date": "1956-03-24",
+      "source": "https://en.wikipedia.org/wiki/1956_in_music"
+    },
+    "radio.guiding_light": {
+      "section": "radio",
+      "label": "The Guiding Light leaves radio",
+      "value": "It ended a 19-year run on CBS radio, having spent the previous four years on both radio and television, and continued on television",
+      "detail": "The Brighter Day ended on CBS radio the day before, America's Town Meeting of the Air ended on ABC on July 1, and Aunt Jenny's Real Life Stories ended on CBS on November 16.",
+      "date": "1956-06-30",
+      "source": "https://en.wikipedia.org/wiki/1956_in_radio"
+    },
+    "radio.sig_alert": {
+      "section": "radio",
+      "label": "First Sig Alert",
+      "value": "California broadcast its first emergency Sig Alert, after the Redondo Junction train wreck",
+      "detail": "The wreck, in Los Angeles, killed thirty people according to the US year page.",
+      "date": "1956-01-22",
+      "source": "https://en.wikipedia.org/wiki/1956_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Records that reached number one",
+      "value": [
+        "Don't Be Cruel and Hound Dog, Elvis Presley, 11 weeks from August 18",
+        "Singing the Blues, Guy Mitchell, 9 weeks from December 8",
+        "Heartbreak Hotel, Elvis Presley, 8 weeks from April 21",
+        "The Wayward Wind, Gogi Grant, 6 weeks from June 16",
+        "Memories Are Made of This, Dean Martin, 5 weeks from January 14",
+        "Love Me Tender, Elvis Presley, 5 weeks from November 3"
+      ],
+      "detail": "From Billboard's charts, ordered by weeks at the top. Eleven records reached number one over the year. Four were Presley's, and they held the top for 25 weeks between them once his single week with I Want You, I Need You, I Love You is added.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_music"
+    },
+    "music.crossover": {
+      "section": "music",
+      "label": "Five records in both top tens",
+      "value": "For the first time in Billboard's history five singles sat in both the pop and the rhythm and blues top ten: Presley's Heartbreak Hotel, Carl Perkins's Blue Suede Shoes, Little Richard's Long Tall Sally, the Platters' The Magic Touch and Frankie Lymon and the Teenagers' Why Do Fools Fall in Love",
+      "detail": "The Presley and Perkins singles were also first and second on the country and western top ten. Blue Suede Shoes had entered the rhythm and blues chart on March 10, the first time a country artist made it there.",
+      "date": "1956-05-02",
+      "source": "https://en.wikipedia.org/wiki/1956_in_music"
+    },
+    "music.million_dollar_quartet": {
+      "section": "music",
+      "label": "Million Dollar Quartet",
+      "value": "Elvis Presley, Jerry Lee Lewis, Carl Perkins and Johnny Cash recorded together at Sun Studio in Memphis, the only time the four were in a room",
+      "detail": "The sessions were released later under that name.",
+      "date": "1956-12-04",
+      "source": "https://en.wikipedia.org/wiki/1956_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On discs, and now in a car. Chrysler put a sixteen and two thirds rpm record player in its Imperial, playing seven-inch ultramicrogroove discs, built by Peter Carl Goldmark, who had developed the thirty-three and a third rpm long-playing record",
+      "detail": "The first UK Albums Chart was published in Record Mirror on July 22, and Frank Sinatra's Songs for Swingin' Lovers! held the top of it for the first two weeks.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_music"
+    },
+    "tech.hard_disk": {
+      "section": "tech",
+      "label": "Hard disk drive",
+      "value": "An IBM team led by Reynold B. Johnson invented it",
+      "date": "1956-09-13",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "tech.transatlantic_cable": {
+      "section": "tech",
+      "label": "Transatlantic telephone cable opens",
+      "value": "The submarine transatlantic telephone cable opened",
+      "date": "1956-09-25",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "tech.dartmouth_ai": {
+      "section": "tech",
+      "label": "First artificial intelligence meeting",
+      "value": "John McCarthy of Dartmouth, Marvin Minsky of MIT, Claude Shannon of Bell Labs and Nathaniel Rochester of IBM held the first coordinated research meeting on the subject, at Dartmouth College in Hanover, New Hampshire",
+      "date": "1956-07-13",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "tech.x2_mach3": {
+      "section": "tech",
+      "label": "Mach 3",
+      "value": "The Bell X-2 became the first crewed aircraft to reach it",
+      "detail": "The Fairey Delta 2 had raised the world air speed record on March 10 to 1,132 mph, Mach 1.73, about 300 mph over the previous mark, and became the first aircraft to exceed 1,000 mph in level flight.",
+      "date": "1956-09-27",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "prices.dow_500": {
+      "section": "prices",
+      "label": "The Dow closes above 500",
+      "value": "The Dow Jones Industrial Average passed 500 for the first time, rising 2.40 points, or 0.48 percent, to 500.24",
+      "date": "1956-03-12",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.30 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.00 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A canal nationalized in July and bombed in October, Soviet tanks putting down a rising in Budapest, and records crossing from the rhythm and blues charts onto the pop charts."
+    },
+    "culture.howl": {
+      "section": "culture",
+      "label": "Howl and Other Poems published",
+      "value": "City Lights Bookstore in San Francisco published Allen Ginsberg's collection",
+      "detail": "The Ladder became the first nationally distributed lesbian magazine in the United States in October. Books published by the psychoanalyst Wilhelm Reich were burned under a court injunction on June 26 and again on August 23.",
+      "date": "1956-11-01",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "culture.my_fair_lady": {
+      "section": "culture",
+      "label": "My Fair Lady opens",
+      "value": "The musical opened on Broadway in New York City",
+      "date": "1956-03-15",
+      "source": "https://en.wikipedia.org/wiki/1956_in_the_United_States"
+    },
+    "culture.fischer": {
+      "section": "culture",
+      "label": "The Game of the Century",
+      "value": "Bobby Fischer, aged 13, beat the grandmaster Donald Byrne at the Rosenwald Memorial Tournament in New York City",
+      "date": "1956-10-17",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "The Games began in Melbourne, with the equestrian events held in Stockholm because of Australian quarantine laws",
+      "detail": "The equestrian competition had opened in Sweden on June 10, five months before the rest. The Soviet Union won the most medals, 98, and the most gold medals, 37. Betty Cuthbert of Australia and Bobby Morrow of the United States each took three sprint golds. India took the field hockey gold and Pakistan the silver.",
+      "date": "1956-11-22",
+      "source": "https://en.wikipedia.org/wiki/1956_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "The Games opened at Cortina d'Ampezzo in Italy",
+      "detail": "Toni Sailer of Austria won the downhill, the slalom and the giant slalom. Tenley Albright and Hayes Alan Jenkins of the United States took the figure skating singles titles. The Soviet Union won the most medals, 16, and the most gold medals, 7.",
+      "date": "1956-01-26",
+      "source": "https://en.wikipedia.org/wiki/1956_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Brooklyn Dodgers four games to three",
+      "detail": "Don Larsen pitched the only perfect game in World Series history in Game 5 on October 8, with Yogi Berra catching and Dale Mitchell the final out, and was named series MVP.",
+      "date": "1956-10-08",
+      "source": "https://en.wikipedia.org/wiki/1956_in_sports"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "New York Giants beat the Chicago Bears 47 to 7 at Yankee Stadium",
+      "detail": "The Oklahoma Sooners took the college football national championship and skipped a bowl game under the no-repeat rule.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_sports"
+    },
+    "sports.heavyweight": {
+      "section": "sports",
+      "label": "Heavyweight title",
+      "value": "Floyd Patterson knocked out Archie Moore in the fifth round in Chicago to take the vacant world title",
+      "detail": "Rocky Marciano had retired on April 27 with a record of 49 wins and no defeats, the only undefeated heavyweight champion.",
+      "date": "1956-11-30",
+      "source": "https://en.wikipedia.org/wiki/1956_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Montreal Canadiens beat the Detroit Red Wings four games to one",
+      "detail": "Jean Beliveau of the Canadiens took the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player.",
+      "source": "https://en.wikipedia.org/wiki/1956_in_sports"
+    },
+    "sports.laker": {
+      "section": "sports",
+      "label": "Nineteen wickets in a Test",
+      "value": "Jim Laker took 19 wickets at Old Trafford in the fourth Test between England and Australia, past a first-class best of 17",
+      "date": "1956-07-31",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "sports.european_cup": {
+      "section": "sports",
+      "label": "First European Cup final",
+      "value": "Real Madrid beat Stade Reims 4 to 3 at the Parc des Princes in Paris",
+      "detail": "Manchester United won the English First Division title, and Manchester City beat Birmingham City 3 to 1 in the FA Cup final.",
+      "date": "1956-06-13",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "deaths.mencken": {
+      "section": "deaths",
+      "label": "H. L. Mencken",
+      "value": "Died January 29. Born 1880",
+      "detail": "American writer.",
+      "date": "1956-01-29",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "deaths.milne": {
+      "section": "deaths",
+      "label": "A. A. Milne",
+      "value": "Died January 31. Born 1882",
+      "detail": "English author, of Winnie the Pooh.",
+      "date": "1956-01-31",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "deaths.joliot_curie": {
+      "section": "deaths",
+      "label": "Irene Joliot-Curie",
+      "value": "Died March 17. Born 1897",
+      "detail": "French physicist and a Nobel laureate in chemistry.",
+      "date": "1956-03-17",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "deaths.pollock": {
+      "section": "deaths",
+      "label": "Jackson Pollock",
+      "value": "Died August 11. Born 1912",
+      "detail": "American painter, killed in a car accident.",
+      "date": "1956-08-11",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "deaths.brecht": {
+      "section": "deaths",
+      "label": "Bertolt Brecht",
+      "value": "Died August 14. Born 1898",
+      "detail": "German playwright.",
+      "date": "1956-08-14",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    },
+    "deaths.lugosi": {
+      "section": "deaths",
+      "label": "Bela Lugosi",
+      "value": "Died August 16. Born 1882",
+      "detail": "Hungarian-born American film actor, who played Dracula.",
+      "date": "1956-08-16",
+      "source": "https://en.wikipedia.org/wiki/1956"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1956. figures_basis is rentals: bo.mjs reports the box office table header as \"Rank !! Title !! Distributor !! Domestic rentals\", and the film.gross detail says what that means. No film.ticket_price fact, because src/data/series/movie_ticket_us.json holds null for this year. Source disagreements are labelled rather than resolved. The year page's events list dates the Somoza assassination September 21 and its own deaths list dates his death September 29, so world.somoza carries the September 21 date and names the contradiction. Grace Kelly's marriage is April 18 on the year page and the film page, with a religious ceremony the next day, and April 19 on the US year page; film.grace_kelly carries April 18 and names the disagreement. Kenji Mizoguchi's death is August 23 on the film page and August 24 on the year page, which is one reason he is not among the deaths facts. The Poznan riots are described on the year page as Soviet troops firing on a crowd; world.poznan says troops rather than Soviet troops, because that attribution is disputed elsewhere and the cached page is the only source here. radio.rock_show carries a citation needed tag on the source page and is kept anyway, flagged here, because it is the only cached statement of a first national rock and roll programme. Dropped for lack of a usable source: Elvis Presley holding nine chart positions at once on December 19, because the music page calls the chart the Hot 100, a name that did not exist this year; the count of US households owning a television set, which no cached page gives; and the Winter Olympics medal table beyond the totals the sports page states. The Nielsen ranking is a season that starts in the autumn of this year and runs into the following spring, so tv.top_shows says so instead of naming both years. film.best_picture and the acting awards were handed out at the 29th Academy Awards on March 27 of the following year, which the fact strings cannot name, so they say the following spring. The 25-week total in music.chart_toppers is the sum of the four Presley runs in the music page's own number one table, 11 plus 8 plus 5 plus 1, and the detail says how it is arrived at rather than presenting it as a sourced figure. Deaths carry a birth year rather than an age because the source gives only the year, matching the 1948 and 1950 files. Names are written in ASCII per the corpus convention, so Protocol of Sevres, Poznan, Irene Joliot-Curie and Jean Beliveau lose their accents. Two facts borrow one clause from a second cached page and cite the page their main claim came from: the thirty deaths in the Redondo Junction wreck on radio.sig_alert, and Carousel ending up shown only in 35 mm on film.how_people_watched, both from https://en.wikipedia.org/wiki/1956_in_the_United_States. Texture material taken from the cached pages but not given its own fact: Carl Perkins's crash near Wilmington and Blue Suede Shoes on Sun Records; Colonel Tom Parker and the Paramount deal; the Milton Berle Show performance; the Nat King Cole concert in Birmingham; the Grand Canyon collision, the Andrea Doria, the Cali dynamite explosion and the Bois du Cazier mine fire; Ringling Bros. closing its Big Tent show; the Snooz Alarm; George Metesky's pipe bomb; the In God we trust motto resolution; Marilyn Monroe's name change; Hunter S. Thompson's arrest; Burgess and Maclean resurfacing; Lionel Crabb vanishing in Portsmouth Harbour; the U-2 overflight; \"We will bury you\"; the Granma leaving Tuxpan; and Minamata disease. Nothing in the prose or the facts comes from general knowledge. Review pass pulled three same-day but unrelated events out of other facts' detail fields, where they had been packed in to keep the count down: the Dow closing above 500 became prices.dow_500, the transatlantic telephone cable became tech.transatlantic_cable, and the RAF retiring its last Avro Lancaster came out of world.calder_hall entirely. A detail line elaborates its own fact. Sharing a date with something is not a relation."
+}

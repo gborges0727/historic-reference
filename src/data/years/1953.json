@@ -1,0 +1,426 @@
+{
+  "year": 1953,
+  "tier": "broadcast",
+  "headline": "Stalin died in March, Hillary and Tenzing reached the summit of Everest, and the Korean armistice was signed in July",
+  "texture": [
+    "Georgia approved the first literature censorship board in the United States on February 19. Sidney Gottlieb, who ran the CIA Technical Services Staff, approved the use of LSD in an MKULTRA subproject on June 9. The Short Creek raid on a polygynous Mormon sect in Arizona was carried out on July 26. Six-year-old Bobby Greenlease was kidnapped in Kansas City on September 28 and murdered in Lenexa, Kansas, though his father had paid the largest ransom in American history to that point. Eisenhower gave the Chance for Peace speech to the National Association of Newspaper Editors on April 16.",
+    "An F5 tornado hit downtown Waco, Texas on May 11 and killed 114 people. A single storm system spawned 46 tornadoes across ten states from Colorado to Massachusetts over three days in June, killing 246, and one of them killed 94 in Worcester. The Ionian earthquake of magnitude 7.2 destroyed Cephalonia and most of the other Ionian Islands on August 12. A fire at the Littlefield Nursing Home in Largo, Florida killed 33 people on March 29, among them the singer-songwriter Arthur Fields.",
+    "Lucille Ball and Desi Arnaz signed an eight million dollar contract on February 18 to keep making I Love Lucy, and The Amos 'n' Andy Show ended its CBS run on April 2. KUHT signed on in Houston on May 25, the first non-commercial educational television station. Kathleen Ferrier was carried out of Covent Garden on a stretcher on February 6, taken ill on the second night of her run in Gluck's Orfeo ed Euridice. Eddie Fisher became the Coca-Cola Kid on Coke Time at a salary of one million dollars a year.",
+    "The first Chevrolet Corvette was assembled in Flint, Michigan on June 30, the same day a roll-on, roll-off ferry crossed the English Channel from Dover to Boulogne for the first time. Burger King opened its first restaurant in Jacksonville, Florida on July 28, Harold Butler and a partner opened Danny's Donuts in Lakewood, California, and Swanson introduced the TV dinner. Sugar rationing ended in the United Kingdom on September 26. The UNIVAC 1103 was the first commercial computer to use random-access memory."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.stalin_dies",
+    "world.korea_armistice",
+    "world.coronation",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R), sworn in on January 20 as the 34th president",
+      "detail": "Harry S. Truman held the office until January 20. Richard Nixon was sworn in as the 36th vice president the same day. The 83rd Congress had sat since January 3, with Joseph William Martin Jr. as Speaker and Robert A. Taft as Senate majority leader until Taft died on July 31, when William F. Knowland took the post. The Department of Health, Education, and Welfare began operations on April 11, the first new Cabinet-level department since the Department of Labor.",
+      "date": "1953-01-20",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "pol.rosenbergs": {
+      "section": "politics",
+      "label": "Julius and Ethel Rosenberg executed",
+      "value": "Put to death at Sing Sing Prison in New York for conspiracy to commit espionage",
+      "detail": "Eisenhower had refused a clemency appeal on February 11.",
+      "date": "1953-06-19",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "pol.warren": {
+      "section": "politics",
+      "label": "Earl Warren appointed Chief Justice",
+      "value": "Eisenhower named him to the Supreme Court after Fred M. Vinson died on September 8, and his term began on October 5",
+      "detail": "The Supreme Court had held in Rumely v. United States on September 9 that indirect lobbying by distributing books meant to influence opinion is a public good and not subject to regulation by Congress.",
+      "date": "1953-10-05",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "pol.atoms_for_peace": {
+      "section": "politics",
+      "label": "Atoms for Peace address",
+      "value": "Eisenhower delivered the address to the United Nations General Assembly in New York City",
+      "detail": "Truman had announced on January 7 that the United States had developed a hydrogen bomb. Eisenhower formally approved NSC 162/2 on October 30, which stated that the American nuclear arsenal must be maintained and expanded to counter the communist threat.",
+      "date": "1953-12-08",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "pol.baton_rouge": {
+      "section": "politics",
+      "label": "Baton Rouge bus boycott begins",
+      "value": "A bus boycott began in Baton Rouge, on the same day the Rosenbergs were executed",
+      "detail": "The source gives the boycott one line, locates it in the Southern United States and says nothing further, so nothing further is stated here.",
+      "date": "1953-06-19",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "world.stalin_dies": {
+      "section": "world",
+      "label": "Stalin dies",
+      "value": "Died on March 5, four days after a stroke that came at the end of an all-night dinner with Lavrentiy Beria, Georgy Malenkov, Nikolai Bulganin and Nikita Khrushchev",
+      "detail": "The stroke paralysed the right side of his body and left him unconscious. Malenkov succeeded him as Premier and First Secretary on March 6, and Khrushchev became head of the Central Committee on September 7. Pravda announced on July 10 that Beria had been dismissed, and the Soviet Union announced his execution on December 23.",
+      "date": "1953-03-05",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.korea_armistice": {
+      "section": "world",
+      "label": "The Korean War ends",
+      "value": "The United Nations Command, China and North Korea signed an armistice agreement at Panmunjom, leaving the north communist and the south capitalist",
+      "detail": "Operation Big Switch began repatriating prisoners of war on August 5. The year page dates the Mutual Defense Treaty between the United States and the Republic of Korea to October 1, when it was concluded in Washington, and the US year page dates it to October 10, when it was signed.",
+      "date": "1953-07-27",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.coronation": {
+      "section": "world",
+      "label": "Coronation of Elizabeth II",
+      "value": "Crowned Queen of the United Kingdom and the other Commonwealth realms at Westminster Abbey",
+      "date": "1953-06-02",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.everest": {
+      "section": "world",
+      "label": "First ascent of Mount Everest",
+      "value": "Edmund Hillary of New Zealand and Tenzing Norgay of Nepal reached the summit on the British expedition",
+      "detail": "The first ascent of Nanga Parbat in the Pakistan Himalayas, the ninth highest mountain in the world, followed on July 3.",
+      "date": "1953-05-29",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.north_sea_flood": {
+      "section": "world",
+      "label": "North Sea flood",
+      "value": "Killed 1,836 people in the southwestern Netherlands, especially Zeeland, 307 in the United Kingdom, and several hundred at sea, including 133 on the ferry Princess Victoria in the Irish Sea",
+      "detail": "The surge ran from the night of January 31 through February 1.",
+      "date": "1953-01-31",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.east_german_uprising": {
+      "section": "world",
+      "label": "Workers' Uprising in East Germany",
+      "value": "The Soviet Union ordered a division of troops into East Berlin to put down a rebellion",
+      "detail": "Walter Ulbricht had announced on January 24 that agriculture would be collectivized. Currency reform set off riots in Plzen in Czechoslovakia on June 1, and Matyas Rakosi was replaced as Hungarian prime minister by Imre Nagy on June 13.",
+      "date": "1953-06-17",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.iran_coup": {
+      "section": "world",
+      "label": "Iranian coup",
+      "value": "Iranian military officers overthrew the elected prime minister Mohammad Mosaddegh and strengthened the rule of the Shah, Mohammad Reza Pahlavi, with support from the CIA and the United Kingdom",
+      "detail": "The CIA ran it as Operation Ajax. The year page dates the coup August 15 to 19 and the US year page dates it August 19. A visit to Iran by Vice President Richard Nixon on December 7 set off several days of rioting in reaction, and police shot three students dead in Tehran.",
+      "date": "1953-08-19",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.soviet_h_bomb": {
+      "section": "world",
+      "label": "Soviet hydrogen bomb",
+      "value": "Georgy Malenkov announced on August 8 that the Soviet Union had a hydrogen bomb, and Joe 4, its first thermonuclear weapon, was detonated on August 12",
+      "date": "1953-08-12",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "world.mau_mau": {
+      "section": "world",
+      "label": "Mau Mau Uprising in Kenya",
+      "value": "Rebels killed the Ruck family on January 24, and up to 150 Kikuyu were killed in the Lari Massacre on March 25 and 26",
+      "detail": "Jomo Kenyatta was sentenced to seven years in prison on April 8 for the alleged organization of the uprising in the British Kenya Colony.",
+      "date": "1953-03-25",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Robe, $17,500,000, 20th Century Fox",
+        "From Here to Eternity, $12,200,000, Columbia",
+        "Shane, $8,000,000, Paramount",
+        "How to Marry a Millionaire, $7,300,000, 20th Century Fox",
+        "Peter Pan, $6,000,000, RKO and Walt Disney"
+      ],
+      "detail": "The table header states domestic rentals, which is the distributor's share and not the ticket window total. House of Wax sits sixth at $5,500,000 and Gentlemen Prefer Blondes seventh at $5,100,000.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "From Here to Eternity",
+      "detail": "Awarded the following spring at the 26th Academy Awards, held on March 25 at the RKO Pantages Theatre in Hollywood and the NBC Center Theatre in New York. Fred Zinnemann's film won eight awards from thirteen nominations, matching the record Gone with the Wind had set, and was the third film to take five acting nominations. Every major winner that night was a black-and-white film. Walt Disney won four awards, for animated short film, documentary feature, documentary short subject and two-reel live action short subject.",
+      "source": "https://en.wikipedia.org/wiki/26th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, William Holden, Stalag 17",
+        "Best Actress, Audrey Hepburn, Roman Holiday",
+        "Best Supporting Actor, Frank Sinatra, From Here to Eternity",
+        "Best Supporting Actress, Donna Reed, From Here to Eternity"
+      ],
+      "detail": "Holden's acceptance speech was two words, cut short when NBC went to a commercial. He then paid for advertisements in the Hollywood trade papers to thank the people he had meant to name, and said either Burt Lancaster or Montgomery Clift should have won instead of him. Best Motion Picture Story went to Roman Holiday. The Academy page credits Dalton Trumbo, who was on the Hollywood blacklist, and says the award reached him posthumously.",
+      "source": "https://en.wikipedia.org/wiki/26th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and from September 16 on a wider screen. The Robe was the first film shot in CinemaScope and the first widescreen anamorphic release, and it took a record $36,000 in one theatre on its opening day and a record $264,428 in that theatre in its first week.",
+      "detail": "Kiss Me Kate was released in both 2-D and 3-D. Warner Bros. incorporated a new company on January 16 under a consent judgment requiring it to divest its theatre chain.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Tokyo Story, directed by Yasujiro Ozu, Japan",
+        "Ugetsu Monogatari, directed by Kenji Mizoguchi, Japan",
+        "The Wages of Fear, directed by Henri-Georges Clouzot, France",
+        "Monsieur Hulot's Holiday, directed by and starring Jacques Tati, France",
+        "I Vitelloni, directed by Federico Fellini, France and Italy"
+      ],
+      "detail": "The Wages of Fear won both the Golden Bear and the Palme d'Or. Tati's film reached French cinemas on February 25 and introduced the character of Monsieur Hulot.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, the Nielsen season that began in the autumn",
+      "value": [
+        "I Love Lucy, CBS, 58.8 rating",
+        "Dragnet, NBC, 53.2",
+        "Arthur Godfrey's Talent Scouts, CBS, 43.6",
+        "You Bet Your Life, NBC, 43.6",
+        "The Milton Berle Show, NBC, 40.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Arthur Godfrey's Talent Scouts and You Bet Your Life were tied for third, and Godfrey had a second program in sixth place with Arthur Godfrey and His Friends at 38.9.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1953%E2%80%9354"
+    },
+    "tv.lucy_birth": {
+      "section": "tv",
+      "label": "The I Love Lucy birth episode",
+      "value": "71.1 percent of all television sets in the United States were tuned to the episode in which Lucy gives birth to Little Ricky, more than watched the presidential inauguration the next day",
+      "detail": "The US year page puts the figure at 68 percent rather than 71.1 percent.",
+      "date": "1953-01-19",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "tv.color": {
+      "section": "tv",
+      "label": "FCC approves color television",
+      "value": "Approved colour broadcasting using the NTSC standard",
+      "detail": "CBS had conceded the standards fight to RCA on March 25.",
+      "date": "1953-12-17",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Romper Room, first-run syndication, February 10",
+        "Medallion Theatre, CBS, July 11",
+        "Make Room For Daddy, ABC, September 29",
+        "Life with Elizabeth, first-run syndication, October 7",
+        "Where's Raymond?, ABC, October 8"
+      ],
+      "detail": "The Amos 'n' Andy Show ended its CBS run on April 2. TV Guide was published for the first time on April 3, in 10 editions and with a circulation of 1,562,000.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_American_television"
+    },
+    "tv.oscars_telecast": {
+      "section": "tv",
+      "label": "Academy Awards carried on television",
+      "value": "The 25th ceremony, emceed by Conrad Nagel, was televised for the first time, from the RKO Pantages Theatre in Hollywood and the NBC International Theatre in New York",
+      "detail": "The ceremony had been broadcast on radio every year for over two decades. Bob Hope hosted the Hollywood end and Fredric March the New York end.",
+      "date": "1953-03-19",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "radio.truman_farewell": {
+      "section": "radio",
+      "label": "Truman's farewell address",
+      "value": "Truman became the first US president to broadcast a farewell address on both radio and television",
+      "date": "1953-01-15",
+      "source": "https://en.wikipedia.org/wiki/1953_in_radio"
+    },
+    "radio.la_rosa": {
+      "section": "radio",
+      "label": "Arthur Godfrey fires Julius La Rosa on air",
+      "value": "Godfrey dismissed the singer live during the radio-only segment of his CBS morning show",
+      "detail": "Your Hit Parade had ended its network radio run on NBC on January 16, and the German international broadcaster Deutsche Welle began regular transmissions on May 3.",
+      "date": "1953-10-19",
+      "source": "https://en.wikipedia.org/wiki/1953_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Records that reached number one",
+      "value": [
+        "The Song from Moulin Rouge, Percy Faith and his Orchestra, 10 weeks from May 16",
+        "Vaya con Dios, Les Paul and Mary Ford, 9 weeks from August 8",
+        "The Doggie in the Window, Patti Page, 8 weeks from March 21",
+        "Rags to Riches, Tony Bennett, 6 weeks from November 21",
+        "Till I Waltz Again With You, Teresa Brewer, 5 weeks from February 14"
+      ],
+      "detail": "From Billboard's charts, ordered by weeks at the top. Nine records held number one during the year, and Vaya con Dios came back for two more weeks from November 7. Stan Freberg's St. George and the Dragonet held four weeks from October 10. Frankie Laine set the UK record for weeks at number one in a single year, 27 across Answer Me, Hey Joe! and I Believe, with I Believe holding 18 of them.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_music"
+    },
+    "music.elvis_first_recording": {
+      "section": "music",
+      "label": "Elvis Presley's first recordings",
+      "value": "Presley made his first recordings",
+      "detail": "The music page titles them his Sun recordings.",
+      "date": "1953-07-18",
+      "source": "https://en.wikipedia.org/wiki/1953_in_music"
+    },
+    "music.rock_and_roll": {
+      "section": "music",
+      "label": "First rock and roll single on the national charts",
+      "value": "Crazy Man, Crazy, recorded by Bill Haley and His Comets, became the first rock and roll single to make Billboard's national American charts",
+      "detail": "The music page gives no date. The Platters formed in Los Angeles the same year, and Frank Sinatra began recording at Capitol.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_music"
+    },
+    "tech.dna": {
+      "section": "tech",
+      "label": "Structure of DNA",
+      "value": "James Watson and Francis Crick of the University of Cambridge announced their discovery of the structure of the DNA molecule on February 28, and published Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid in Nature on April 25",
+      "date": "1953-02-28",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "tech.salk": {
+      "section": "tech",
+      "label": "Polio vaccine announced",
+      "value": "Jonas Salk announced his polio vaccine",
+      "date": "1953-03-26",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "tech.mach2": {
+      "section": "tech",
+      "label": "First flight past Mach 2",
+      "value": "Scott Crossfield flew the Douglas D-558-2 Skyrocket past Mach 2, the first manned aircraft to reach it",
+      "detail": "Jackie Cochran became the first woman to exceed Mach 1 on May 18, flying a North American F-86 Sabre at 652.337 mph over Rogers Dry Lake. Authorities at the Natural History Museum in London announced on the same day as the Skyrocket flight that the Piltdown Man skull was a hoax.",
+      "date": "1953-11-20",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.29 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A new president sworn in during January, the Soviet leader dead by March, an armistice in Korea in July, and one comedy episode watched in more homes than the inauguration."
+    },
+    "culture.playboy": {
+      "section": "culture",
+      "label": "Playboy launched",
+      "value": "Hugh Hefner published the first issue, which sold 54,175 copies at 50 cents each",
+      "date": "1953-12",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "culture.books": {
+      "section": "culture",
+      "label": "Books and plays",
+      "value": [
+        "Fahrenheit 451, Ray Bradbury, published October 19",
+        "Sexual Behavior in the Human Female, the second Kinsey Report, issued August 18",
+        "The Crucible, Arthur Miller, opened on Broadway January 22",
+        "The Caine Mutiny Court-Martial, opened at the Plymouth Theatre in New York October 12"
+      ],
+      "detail": "Miller wrote The Crucible as an allegory of McCarthyism.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "culture.jorgensen": {
+      "section": "culture",
+      "label": "Christine Jorgensen returns to New York",
+      "value": "Came back to the United States after sex reassignment surgery in Denmark",
+      "date": "1953-02-13",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Brooklyn Dodgers four games to two, their 16th title",
+      "detail": "The Boston Braves of the National League moved to Milwaukee, the first Major League Baseball franchise to relocate in 50 years.",
+      "date": "1953-10-05",
+      "source": "https://en.wikipedia.org/wiki/1953_in_the_United_States"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Detroit Lions beat the Cleveland Browns 17 to 16 at Briggs Stadium",
+      "source": "https://en.wikipedia.org/wiki/1953_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Montreal Canadiens beat the Boston Bruins four games to one",
+      "detail": "Gordie Howe of the Detroit Red Wings took the Art Ross Trophy as leading scorer and the Hart Memorial Trophy as most valuable player. The Minneapolis Lakers beat the New York Knicks four games to one in the NBA Finals.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_sports"
+    },
+    "sports.england_hungary": {
+      "section": "sports",
+      "label": "England lose to Hungary at Wembley",
+      "value": "Hungary won 6 to 3, England's first home defeat by a team from continental Europe",
+      "detail": "Blackpool had beaten Bolton Wanderers 4 to 3 in the FA Cup final, known as the Matthews Final, although Stan Mortensen scored the winning hat-trick.",
+      "date": "1953-11-25",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "sports.ap_athletes": {
+      "section": "sports",
+      "label": "Associated Press Athletes of the Year",
+      "value": [
+        "Ben Hogan, golf",
+        "Maureen Connolly, tennis"
+      ],
+      "detail": "Hogan won the Masters, the US Open and the British Open. Connolly became the first woman to win the Grand Slam in tennis, taking the Australian, French, Wimbledon and American singles titles, and beat Doris Hart in three of the four finals.",
+      "source": "https://en.wikipedia.org/wiki/1953_in_sports"
+    },
+    "deaths.stalin": {
+      "section": "deaths",
+      "label": "Joseph Stalin",
+      "value": "Died March 5. Born 1878",
+      "detail": "Soviet leader.",
+      "date": "1953-03-05",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "deaths.williams": {
+      "section": "deaths",
+      "label": "Hank Williams",
+      "value": "Died January 1. Born 1923",
+      "detail": "American singer-songwriter and musician.",
+      "date": "1953-01-01",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "deaths.prokofiev": {
+      "section": "deaths",
+      "label": "Sergei Prokofiev",
+      "value": "Died March 5. Born 1891",
+      "detail": "Soviet and Russian composer, who died the same day as Stalin.",
+      "date": "1953-03-05",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "deaths.thomas": {
+      "section": "deaths",
+      "label": "Dylan Thomas",
+      "value": "Died November 9. Born 1914",
+      "detail": "Welsh poet and radio broadcaster.",
+      "date": "1953-11-09",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    },
+    "deaths.oneill": {
+      "section": "deaths",
+      "label": "Eugene O'Neill",
+      "value": "Died November 27. Born 1888",
+      "detail": "American writer and Nobel laureate in literature.",
+      "date": "1953-11-27",
+      "source": "https://en.wikipedia.org/wiki/1953"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1953. figures_basis is rentals: the box office table's column header reads Domestic rentals. Source disagreements are labelled rather than resolved. The I Love Lucy birth audience is 71.1 percent of American television sets on the year page (https://en.wikipedia.org/wiki/1953) and 68 percent on the US year page (https://en.wikipedia.org/wiki/1953_in_the_United_States); both are named on tv.lucy_birth. The Flint tornado death toll is 116 on the year page and 115 on the US year page, so the texture gives the uncontested outbreak total of 246 across ten states and the Worcester toll of 94 instead of a Flint figure. The Korean mutual defence treaty is dated October 1 as concluded on the year page and October 10 as signed on the US year page, and both are in the fact detail. The Iranian coup runs August 15 to 19 on the year page and August 19 on the US year page. Date checks: the inauguration falls on January 20, which both US page lines give; the 26th Academy Awards page dates its own ceremony to March 25 of the following year, which is what film.best_picture says without naming that year. The Oscars page lists Best Motion Picture Story for Roman Holiday as won by Dalton Trumbo and adds \"awarded posthumously as Trumbo was on the Hollywood blacklist\". That reads as if the ceremony itself were posthumous, which it was not, and the natural reading is that the credit was corrected to him after his death. The cached pages carry nothing about a later re-crediting, so the fact reports what the Academy page says and attributes it to that page rather than resolving it. Dropped for lack of a source in the cached pages: House of Wax as a 3-D release, which the film page lists only in the rentals table with no format, so film.how_people_watched carries Kiss Me Kate, the one title the page does mark as 2-D and 3-D; any figure for how many American households owned a television set; a date for Crazy Man, Crazy, which the music page lists without one; any detail of the Baton Rouge bus boycott beyond the one line the US year page carries, which is why pol.baton_rouge stays thin. music.elvis_first_recording says only that Presley made his first recordings, because the music page's line gives no studio or city and takes the studio from its link title, which the fact reports as a page attribution rather than as a stated fact. Deaths carry a birth year rather than an age because the source gives only the year, matching the 1948 and 1950 files. The Nielsen ranking is a season starting in the autumn of this year and running into the following spring, so tv.top_shows says so instead of naming both years. Texture material taken from the cached pages but not given its own fact: the Georgia literature censorship board; Sidney Gottlieb approving LSD in an MKULTRA subproject; the Short Creek raid; the Bobby Greenlease kidnapping and murder; the Chance for Peace speech; the Waco F5 tornado; the Ionian earthquake; the Littlefield Nursing Home fire and Arthur Fields; the eight million dollar I Love Lucy contract of February 18; The Amos 'n' Andy Show ending; KUHT signing on in Houston; Kathleen Ferrier leaving Covent Garden on a stretcher; Eddie Fisher on Coke Time; the first Corvette; the first roll-on, roll-off Channel ferry; Burger King in Jacksonville; Danny's Donuts; the Swanson TV dinner; the end of British sugar rationing; the UNIVAC 1103. Two phrasings are not lifted from a source line and come out if challenged: the gloss in film.gross that rentals are the distributor's share rather than the ticket window total, which the neighbouring year files also carry, and the arithmetic in tv.oscars_telecast that the ceremony had been on radio for over two decades, which comes from the radio page saying the radio broadcast had run annually since 1930, a year token the fact cannot print. Names are written in ASCII per the corpus convention, so Plzen, Matyas Rakosi, Yasujiro Ozu and Henri-Georges Clouzot appear without diacritics."
+}

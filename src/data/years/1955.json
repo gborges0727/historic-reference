@@ -1,0 +1,450 @@
+{
+  "year": 1955,
+  "tier": "broadcast",
+  "headline": "Rosa Parks was arrested in Montgomery, Disneyland opened at Anaheim, and eight countries signed the Warsaw Pact",
+  "texture": [
+    "Claudette Colvin boarded a Highland Gardens bus after school on March 2 and sat in a middle row near the emergency exit. A white woman was left standing, the driver Robert W. Cleere ordered the row to the back, and Ruth Hamilton, who was pregnant, sat down beside Colvin and refused too. Officers Thomas J. Ward and Paul Headley dragged Colvin backwards off the bus in handcuffs while one of them kicked her. Campaigners dropped her case because she was unmarried and pregnant. Racial segregation on trains and buses in US interstate commerce was forbidden on November 5.",
+    "The Presidium of the Supreme Soviet announced on January 25 that the state of war between the USSR and Germany was over. A Kuomintang bomb brought down the airliner Kashmir Princess on April 11, killing 16 people and missing its target, Zhou Enlai. El Al Flight 402 was shot down over Bulgaria on July 27 with 58 aboard. The battleship Novorossiysk blew up at its moorings in Sevastopol Bay on October 29 and 608 men died. Ruth Ellis was hanged in London on July 13, the last woman executed in the United Kingdom.",
+    "Bill Randle of WERE in Cleveland put on a concert at Brooklyn High School in Ohio on October 20, with Pat Boone and Bill Haley & His Comets on the bill and Elvis Presley opening, Presley's first appearance north of the Mason-Dixon line and his first filmed performance, for a documentary called The Pied Piper of Cleveland. Five days before that a local duo, Buddy and Bob, had opened for him in Lubbock. A Londoner was fined on August 31 for creating an abominable noise by playing Shake, Rattle and Roll at top volume.",
+    "Britain annexed the uninhabited Atlantic island of Rockall on September 18 and named Cardiff the capital of Wales on December 20. Barry Humphries put Edna Everage on a Melbourne stage on December 19. Hurricane Diane came ashore in the northeast on August 19, killing more than 200 people and doing over a billion dollars of damage, and Hurricane Janet killed more than 1,020 across the Lesser Antilles and Mexico. Agricultural tractors outnumbered horses on American farms for the first time, and Tappan introduced the first domestic microwave oven."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.rosa_parks",
+    "world.warsaw_pact",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#1",
+    "culture.disneyland",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R)",
+      "detail": "Richard Nixon was Vice President and Earl Warren was Chief Justice. The 84th Congress replaced the 83rd on January 3, Sam Rayburn took the Speaker's chair from Joseph William Martin Jr., and Lyndon B. Johnson replaced William F. Knowland as Senate majority leader.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_the_United_States"
+    },
+    "pol.colvin": {
+      "section": "politics",
+      "label": "Claudette Colvin arrested in Montgomery",
+      "value": "The 15-year-old refused to give up her bus seat to a white woman and was carried off the bus backwards, kicked and handcuffed on the way to the police station",
+      "detail": "She became a plaintiff in Browder v. Gayle, which ruled bus segregation unconstitutional. The two cached year pages disagree on the date, the year page giving March 2 and the US page March 9, so this cites her own article, which gives March 2 and records Montgomery's city council later fixing an annual Claudette Colvin Day on that date.",
+      "date": "1955-03-02",
+      "source": "https://en.wikipedia.org/wiki/Claudette_Colvin"
+    },
+    "pol.rosa_parks": {
+      "section": "politics",
+      "label": "Rosa Parks arrested",
+      "value": "Refused bus driver James F. Blake's order to give up her seat to a white passenger in Montgomery, Alabama, and was arrested, which led to the Montgomery bus boycott",
+      "detail": "The Montgomery Improvement Association was formed on December 5 by Martin Luther King Jr. and other Black ministers to coordinate the boycott.",
+      "date": "1955-12-01",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "pol.emmett_till": {
+      "section": "politics",
+      "label": "Emmett Till lynched",
+      "value": "The 14-year-old was lynched and shot in the head at Money, Mississippi, for allegedly whistling at a white woman",
+      "detail": "Roy Bryant and J. W. Milam, the two white men who killed him, were acquitted by an all-white jury.",
+      "date": "1955-08-28",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "pol.eisenhower_heart_attack": {
+      "section": "politics",
+      "label": "Eisenhower's coronary thrombosis",
+      "value": "Suffered it while on vacation in Denver, and Nixon took on administrative duties and presided over Cabinet and National Security Council meetings while he recovered",
+      "date": "1955-09-24",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "pol.afl_cio": {
+      "section": "politics",
+      "label": "AFL and CIO merge",
+      "value": "The American Federation of Labor and the Congress of Industrial Organizations merged to become the AFL-CIO",
+      "date": "1955-12-05",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.warsaw_pact": {
+      "section": "world",
+      "label": "Warsaw Pact signed",
+      "value": "Eight Communist Bloc countries, including the Soviet Union, signed a mutual defence treaty at Warsaw",
+      "detail": "West Germany became a sovereign country on May 5 and joined NATO on May 9. The Southeast Asia Treaty Organization had been established at Bangkok on February 19, and Iraq and Turkey signed the Baghdad Pact on February 24. The four powers met at the Geneva Summit from July 18 to 23.",
+      "date": "1955-05-14",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.austria": {
+      "section": "world",
+      "label": "Austrian State Treaty",
+      "value": "The four occupying powers and Austria concluded the treaty restoring Austrian sovereignty and setting the country up as neutral",
+      "detail": "The last Soviet Army units left on August 25, Austria declared permanent neutrality on October 26, and it became independent on December 31. It was one of sixteen countries admitted to the United Nations together on December 14, after a moratorium on new members that had begun during the Korean War.",
+      "date": "1955-05-15",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.churchill": {
+      "section": "world",
+      "label": "Churchill resigns",
+      "value": "Left the office of Prime Minister of the United Kingdom at the age of 80 because of ill health, and Anthony Eden took it the next day",
+      "date": "1955-04-05",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.bandung": {
+      "section": "world",
+      "label": "Asian-African Conference",
+      "value": "Asian and African states met at Bandung in Indonesia, in sittings that ran to April 24",
+      "date": "1955-04-18",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.taiwan_strait": {
+      "section": "world",
+      "label": "Congress votes force over Taiwan",
+      "value": "Authorized Eisenhower to use force to protect Taiwan from the People's Republic of China",
+      "detail": "The People's Liberation Army had seized the Yijiangshan Islands from the Republic of China between January 18 and 20. The Seventh Fleet helped the Republic of China evacuate its army and residents from the Tachen Islands to Taiwan on February 10.",
+      "date": "1955-01-28",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.peron": {
+      "section": "world",
+      "label": "Peron ousted",
+      "value": "Juan Peron was ousted as President of Argentina in a military coup, over three days ending September 21",
+      "detail": "The coup to unseat him was launched at midnight on September 16.",
+      "date": "1955-09-19",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "world.vietnam": {
+      "section": "world",
+      "label": "Official start of the Vietnam War",
+      "value": "The start date given to the war between the Democratic Republic of Vietnam and the Republic of Vietnam, with the north allied to the Viet Cong",
+      "detail": "Ngo Dinh Diem had proclaimed Vietnam a republic with himself as president on October 26, following a referendum on October 23, and formed the Army of the Republic of Vietnam. Free movement of residents between north and south had ended on May 18.",
+      "date": "1955-11-01",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Cinerama Holiday, $10,000,000, Cinerama Releasing",
+        "Mister Roberts, $8,500,000, Warner Bros.",
+        "Battle Cry, $8,100,000, Warner Bros.",
+        "Oklahoma!, $7,100,000, RKO",
+        "Guys and Dolls, $6,801,000, MGM"
+      ],
+      "detail": "Rentals, the distributor's share rather than the ticket window total. The column header reads domestic rentals while the sentence introducing the table calls the entries the top-grossing hits. The top earners elsewhere were Private Ivan in the Soviet Union at $2,520,000 and Shree 420 in India at $1,190,000, both converted from local currency by the source.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Marty",
+      "detail": "Awarded the following spring at the 28th Academy Awards. At 90 minutes it was the shortest film to take the award, and the second Best Picture winner that had also won the Palme d'Or at Cannes. It won four of the eight awards it was nominated for, and Delbert Mann took Best Directing.",
+      "source": "https://en.wikipedia.org/wiki/28th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Ernest Borgnine, Marty",
+        "Best Actress, Anna Magnani, The Rose Tattoo",
+        "Best Supporting Actor, Jack Lemmon, Mister Roberts",
+        "Best Supporting Actress, Jo Van Fleet, East of Eden"
+      ],
+      "detail": "All four winners were first-time nominees, which had not happened before. Magnani was the only winner of the night who did not collect her Oscar. James Dean had a posthumous Best Actor nomination for East of Eden, and Sal Mineo and Natalie Wood were both nominated for Rebel Without a Cause.",
+      "source": "https://en.wikipedia.org/wiki/28th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Pather Panchali, directed by Satyajit Ray, India",
+        "Ordet, directed by Carl Theodor Dreyer, Denmark",
+        "Les Diaboliques, directed by Henri-Georges Clouzot, France",
+        "Rififi, directed by Jules Dassin, France",
+        "Die Ratten, West Germany, which took the Golden Bear"
+      ],
+      "detail": "Samurai I: Musashi Miyamoto took the Academy Award for foreign language film, the last time that award was handed out as an honorary rather than a competitive one.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, on a screen whose shape depended on the process. Oklahoma! was released on October 11 as the first feature photographed in the Todd-AO 70 mm process, and Lady and the Tramp was the first animated feature filmed in CinemaScope.",
+      "detail": "Blackboard Jungle carried Rock Around the Clock over its opening credits, the first use of a rock and roll song in a major film, and teenagers jumped out of their seats to dance to it. The film page dates the New York preview March 18 and the year page dates the American premiere March 20.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, the Nielsen season starting this autumn",
+      "value": [
+        "The $64,000 Question, CBS, 47.5 rating",
+        "I Love Lucy, CBS, 46.1",
+        "The Ed Sullivan Show, CBS, 39.5",
+        "Disneyland, ABC, 37.4",
+        "The Jack Benny Show, CBS, 37.2"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. CBS held eight of the top eleven places, NBC two and ABC one.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1955%E2%80%9356"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Lawrence Welk Show, ABC, July 2",
+        "Gunsmoke, CBS, September 10",
+        "Cheyenne, ABC, September 20",
+        "The Honeymooners, CBS, October 1",
+        "Alfred Hitchcock Presents, CBS, October 2",
+        "Captain Kangaroo and The Mickey Mouse Club, both October 3, on CBS and ABC"
+      ],
+      "detail": "Elvis Presley made his first television appearance on March 5 on Louisiana Hayride, carried locally by KSLA in Shreveport. Jim Henson's puppet show Sam and Friends first aired on May 9 on WRC-TV in Washington. The DuMont Television Network cut back to eight series on April 1 to keep itself running.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_American_television"
+    },
+    "tv.quiz_show": {
+      "section": "tv",
+      "label": "The $64,000 Question premieres",
+      "value": "The quiz show craze started with it, and it went on to top the Nielsen ranking for the season that began in the autumn",
+      "detail": "Hal March hosted, which the US year page states. The American television page credits the show with prompting a run of imitations.",
+      "date": "1955-06-07",
+      "source": "https://en.wikipedia.org/wiki/1955_in_American_television"
+    },
+    "tv.color_world_series": {
+      "section": "tv",
+      "label": "World Series in colour",
+      "value": "Baseball was broadcast in colour for the first time in the United States, and WITN-TV in Washington, North Carolina signed on the air with that first game as its own first telecast",
+      "date": "1955-09-28",
+      "source": "https://en.wikipedia.org/wiki/1955_in_American_television"
+    },
+    "radio.grace_archer": {
+      "section": "radio",
+      "label": "Grace Archer killed off",
+      "value": "The BBC serial The Archers killed the character Grace Archer, a spoiler for the launch of ITV in the United Kingdom the same day",
+      "detail": "Commercial television began in the United Kingdom that day when the Independent Television Authority's first franchises started broadcasting in London, ending the BBC monopoly. The country's first VHF and FM transmitters had opened at Wrotham in Kent on May 2.",
+      "date": "1955-09-22",
+      "source": "https://en.wikipedia.org/wiki/1955_in_radio"
+    },
+    "radio.jack_benny": {
+      "section": "radio",
+      "label": "The Jack Benny Program leaves radio",
+      "value": "Aired its last radio episode and moved to television alone",
+      "detail": "Hallmark Hall of Fame ended its network radio run on CBS on March 27 and Lux Radio Theater ended on CBS on June 7. NBC Radio was still commissioning, with X Minus One debuting on April 24 and Monitor on June 12.",
+      "date": "1955-05-22",
+      "source": "https://en.wikipedia.org/wiki/1955_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Records that reached number one",
+      "value": [
+        "Cherry Pink and Apple Blossom White, Perez Prado, 10 weeks from April 30",
+        "Rock Around the Clock, Bill Haley & His Comets, 8 weeks from July 9",
+        "Sixteen Tons, Tennessee Ernie Ford, 7 weeks from November 26",
+        "Sincerely, The McGuire Sisters, 6 weeks from February 12",
+        "The Ballad of Davy Crockett, Bill Hayes, 5 weeks from March 26"
+      ],
+      "detail": "From Billboard's charts, ordered by weeks at the top. Rock Around the Clock was the first rock and roll single to reach number one on the American charts. Through October, Mitch Miller's The Yellow Rose of Texas and The Four Aces' Love Is a Many-Splendored Thing traded the top spot a week at a time. Bill Hayes set off a coonskin cap craze.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "45 rpm discs began to outsell standard 78s for the first time since their introduction",
+      "detail": "RCA Victor opened the year with a price cut it called Operation TNT, dropping LPs from $5.95 to $3.98, EPs from $4.95 to $2.98, 45 rpm EPs from $1.58 to $1.49 and 45 rpm singles from $1.16 to $0.89, and other labels followed. American labels put out 1,615 albums and 4,542 pop singles.",
+      "date": "1955-02-26",
+      "source": "https://en.wikipedia.org/wiki/1955_in_music"
+    },
+    "music.elvis": {
+      "section": "music",
+      "label": "Elvis Presley signed to RCA",
+      "value": "Colonel Tom Parker put him under contract to RCA Records",
+      "detail": "Parker had become his de facto manager on March 15. The first riot at one of his concerts came at Jacksonville, Florida on May 13, and a Billboard disc jockey poll on November 12 named him the most promising new country and western singer.",
+      "date": "1955-11-22",
+      "source": "https://en.wikipedia.org/wiki/1955_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Records made this year",
+      "value": [
+        "Chuck Berry cut his first single, Maybellene, for Chess Records in Chicago on May 21",
+        "Glenn Gould finished his recording of Bach's Goldberg Variations on June 16",
+        "Little Richard recorded Tutti Frutti in New Orleans on September 3, with the lyrics cleaned up",
+        "Sun Records released Johnny Cash's Folsom Prison Blues on December 15"
+      ],
+      "detail": "Imperial released Fats Domino's Ain't That a Shame on April 14, which reached number one on the rhythm and blues chart, and Pat Boone's cover of it became a Billboard number one for juke box play. WINS in New York adopted a policy on August 19 of not playing white cover versions of Black rhythm and blues songs.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_music"
+    },
+    "music.marian_anderson": {
+      "section": "music",
+      "label": "Marian Anderson at the Metropolitan Opera",
+      "value": "Became the first African American singer to perform at the Metropolitan Opera in New York City",
+      "date": "1955-01-07",
+      "source": "https://en.wikipedia.org/wiki/1955_in_music"
+    },
+    "tech.nautilus": {
+      "section": "tech",
+      "label": "USS Nautilus puts to sea",
+      "value": "The first nuclear-powered submarine went to sea for the first time, out of Groton, Connecticut",
+      "detail": "The Pentagon announced a plan on January 22 to develop intercontinental ballistic missiles armed with nuclear weapons. The prototype Lockheed U-2 first flew in Nevada on August 1, and a Soviet Navy Zulu-class submarine became the first to launch a ballistic missile on September 16.",
+      "date": "1955-01-17",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "tech.atomic_power": {
+      "section": "tech",
+      "label": "First atomic power sold commercially",
+      "value": "Electricity from the National Reactor Testing Station was sold commercially, partially powering Arco, Idaho",
+      "detail": "Schenectady, New York took power the next day from a prototype nuclear submarine reactor at the Knolls Atomic Power Laboratory.",
+      "date": "1955-07-17",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "tech.polio_vaccine": {
+      "section": "tech",
+      "label": "Salk polio vaccine approved",
+      "value": "The Food and Drug Administration gave Jonas Salk's vaccine full approval after large-scale trials in the United States",
+      "date": "1955-04-12",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "tech.chromosomes": {
+      "section": "tech",
+      "label": "Human chromosome count",
+      "value": "Joe Hin Tjio found the correct number of human chromosomes, forty-six",
+      "date": "1955-12-22",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.29 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.gm_profit": {
+      "section": "prices",
+      "label": "General Motors clears a billion",
+      "value": "Became the first American corporation to make a profit of more than a billion dollars in one year",
+      "date": "1955-12-31",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A teenager dragged off a Montgomery bus in March and Rosa Parks arrested on another in December, a theme park opening at Anaheim in July, and rock and roll at the top of the American charts."
+    },
+    "culture.disneyland": {
+      "section": "culture",
+      "label": "Disneyland opens",
+      "value": "The theme park opened at Anaheim, California, and ABC broadcast the opening",
+      "detail": "The Disneyland Hotel opened to the public on October 5.",
+      "date": "1955-07-17",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "culture.mcdonalds": {
+      "section": "culture",
+      "label": "First franchised McDonald's",
+      "value": "Ray Kroc opened it at Des Plaines, Illinois",
+      "date": "1955-04-15",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "culture.lolita": {
+      "section": "culture",
+      "label": "Lolita published",
+      "value": "Olympia Press published Vladimir Nabokov's novel in Paris",
+      "detail": "The first edition of the Guinness Book of Records was published in London on August 27, and C. Northcote Parkinson first set out Parkinson's law in The Economist on November 19.",
+      "date": "1955-09-15",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "culture.howl": {
+      "section": "culture",
+      "label": "Howl read at the Six Gallery",
+      "value": "Allen Ginsberg read the poem at the Six Gallery in San Francisco while Jack Kerouac and other Beat writers chanted and shouted along",
+      "detail": "The lesbian group that became the Daughters of Bilitis held its first meeting in October.",
+      "date": "1955-10-07",
+      "source": "https://en.wikipedia.org/wiki/1955_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Brooklyn Dodgers beat the New York Yankees four games to three, and the pitcher Johnny Podres was Series MVP",
+      "detail": "The White Sox put up a franchise record 29 runs at Kansas City on April 23 and won 29 to 6.",
+      "date": "1955-10-04",
+      "source": "https://en.wikipedia.org/wiki/1955_in_sports"
+    },
+    "sports.athletics_move": {
+      "section": "sports",
+      "label": "The Athletics leave Philadelphia",
+      "value": "The Philadelphia Athletics moved to Kansas City, Missouri and became the Kansas City Athletics",
+      "source": "https://en.wikipedia.org/wiki/1955_in_sports"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Cleveland Browns beat the Los Angeles Rams 38 to 14 at the Los Angeles Memorial Coliseum",
+      "source": "https://en.wikipedia.org/wiki/1955_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Detroit Red Wings beat the Montreal Canadiens four games to three",
+      "detail": "The Syracuse Nationals beat the Fort Wayne Pistons four games to three in the NBA Finals, and San Francisco beat La Salle 76 to 73 for the NCAA men's basketball title.",
+      "source": "https://en.wikipedia.org/wiki/1955_in_sports"
+    },
+    "sports.marciano": {
+      "section": "sports",
+      "label": "Heavyweight title",
+      "value": "Rocky Marciano knocked out the light-heavyweight champion Archie Moore in the ninth round in New York City and kept his world heavyweight belt",
+      "date": "1955-09-21",
+      "source": "https://en.wikipedia.org/wiki/1955_in_sports"
+    },
+    "sports.le_mans": {
+      "section": "sports",
+      "label": "Le Mans disaster",
+      "value": "Two cars collided at the 24 Hours of Le Mans, killing 83 people and injuring at least 100",
+      "date": "1955-06-11",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "deaths.einstein": {
+      "section": "deaths",
+      "label": "Albert Einstein",
+      "value": "Died April 18. Born 1879",
+      "detail": "German-born physicist and Nobel laureate in physics.",
+      "date": "1955-04-18",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "deaths.dean": {
+      "section": "deaths",
+      "label": "James Dean",
+      "value": "Died September 30. Born 1931",
+      "detail": "American actor, killed at 24 when his car collided with another near Cholame, California, four weeks before Rebel Without a Cause opened.",
+      "date": "1955-09-30",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "deaths.fleming": {
+      "section": "deaths",
+      "label": "Alexander Fleming",
+      "value": "Died March 11. Born 1881",
+      "detail": "Scottish scientist and Nobel laureate in physiology or medicine.",
+      "date": "1955-03-11",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "deaths.parker": {
+      "section": "deaths",
+      "label": "Charlie Parker",
+      "value": "Died March 12. Born 1920",
+      "detail": "American jazz saxophonist, who died in New York City.",
+      "date": "1955-03-12",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    },
+    "deaths.mann": {
+      "section": "deaths",
+      "label": "Thomas Mann",
+      "value": "Died August 12. Born 1875",
+      "detail": "German novelist and Nobel laureate in literature.",
+      "date": "1955-08-12",
+      "source": "https://en.wikipedia.org/wiki/1955"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1955. figures_basis is rentals: the box office table's column header reads Domestic rentals, while the sentence introducing it calls the entries the top-grossing hits. That disagreement is recorded in the film.gross detail, as is the fact that the two non-US figures are the source's own conversions from rupees and roubles. The Nielsen ranking is a season that starts in the autumn of 1955 and runs into the following spring, so tv.top_shows names the season by its start rather than writing a second year token. The 28th Academy Awards were held the following spring, on March 21 by the ceremony's own page, so film.best_picture and film.acting_awards give no date. One source disagreement is resolved rather than labelled: the year page dates Claudette Colvin's arrest March 2 and the US year page dates it March 9, so pol.colvin cites https://en.wikipedia.org/wiki/Claudette_Colvin, which gives March 2 in its lead and in its account of the arrest, and records Montgomery's city council setting an annual Claudette Colvin Day on March 2. The texture detail on that arrest, the driver Robert W. Cleere, the passenger Ruth Hamilton, the officers Thomas J. Ward and Paul Headley, and the case being dropped because Colvin was unmarried and pregnant, all come from the same article. A second disagreement is labelled and not resolved: the film page dates the Blackboard Jungle preview in New York March 18 and the year page dates the American premiere March 20, and film.how_people_watched carries both. Nothing in the facts or the prose is written from general knowledge. A participant count for the Bandung conference was drafted and then cut, because the year page gives only the dates and the place, so world.bandung names neither a number of states nor an outcome. Dropped for lack of a source in the cached pages: any US television household figure, any Formula One champion, and the 27th Academy Awards ceremony of March 30, which the US page covers but which honours the previous year of film. Material read off the cached pages and left out of the fact list for space: the Freedom Charter adopted at Kliptown on June 26, the Istanbul pogrom of September 6, the Japanese party merger of November 15 that began the 1955 System, the Tappan Zee Bridge opening on December 14, and the Six Gallery reading's place in the counterculture. The tractor count and the Tappan microwave oven in the fourth texture paragraph sit in the US year page's undated section, so neither carries a date anywhere in this file. Deaths carry a birth year rather than an age because the year page gives only the year. Review pass promoted the Athletics' move to Kansas City out of sports.world_series into its own fact, since a franchise relocation is not an elaboration of a World Series result."
+}

@@ -1,0 +1,483 @@
+{
+  "year": 1954,
+  "tier": "broadcast",
+  "headline": "The Supreme Court struck down school segregation, Dien Bien Phu fell, and Elvis Presley cut his first single",
+  "texture": [
+    "Edward R. Murrow and Fred W. Friendly gave 30 minutes of See It Now to a report on Senator Joseph McCarthy on March 9, and ABC carried the Army hearings live and in their entirety from April. The words under God were added to the Pledge of Allegiance on June 14, and Congress outlawed the Communist Party on August 24. Rogers Pass in Montana had recorded 70 degrees below zero Fahrenheit on January 20, the coldest reading taken in the contiguous states. George Balanchine staged his Nutcracker in New York on February 2.",
+    "French forces at Dien Bien Phu had been under Vo Nguyen Giap's artillery since March 13, and a C-47 carrying the nurse Genevieve de Galard was wrecked on the airstrip there on March 29. Food rationing in Britain ended on July 4, fourteen years after it began. The Soviet Politburo ordered the Crimean Oblast transferred from the Russian SFSR to the Ukrainian SSR on February 19. Vladimir Petrov defected in Australia on April 3, and a royal commission into the affair opened its inquiry on May 17.",
+    "Joey Giardello knocked out Willie Tory at Madison Square Garden on March 19 in the first prize fight televised in color. The Dow Jones Industrial Average closed at 382.74 on November 23, its first close above the peak it reached before the Wall Street crash. Ellis Island closed for good as the main immigration port of entry in New York Harbor on November 12. Gerry Thomas introduced the TV dinner, the first Burger King opened in Miami on December 4, and the Hyatt House opened on airport ground at Los Angeles on December 1.",
+    "Alan Freed promoted a Rock 'n' Roll Jubilee at the St. Nicholas Arena on January 14, the first documented use of the shortened name. Benjamin Britten's chamber opera of The Turn of the Screw had its premiere at the Teatro La Fenice in Venice on September 14, and Schoenberg's Moses und Aron was performed for the first time in Hamburg on March 12. Milan High School, enrollment 161, beat Muncie Central 32 to 30 for the Indiana state title on March 13. Andrzej Panufnik defected from Poland to England."
+  ],
+  "lead": [
+    "pol.brown_v_board",
+    "pol.army_mccarthy",
+    "world.dien_bien_phu",
+    "film.gross#0",
+    "film.best_picture",
+    "tv.top_shows#0",
+    "music.elvis_first_single",
+    "sports.bannister"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R)",
+      "detail": "Richard Nixon was Vice President, Earl Warren was Chief Justice, Joseph William Martin Jr. was Speaker of the House, William F. Knowland was Senate majority leader, and the 83rd Congress sat.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_the_United_States"
+    },
+    "pol.brown_v_board": {
+      "section": "politics",
+      "label": "Brown v. Board of Education",
+      "value": "The Supreme Court ruled unanimously that segregated schools were unconstitutional",
+      "detail": "Sarah Mae Flemming was expelled from a bus in South Carolina on June 22 for sitting in a white-only section. The Boy Scouts of America desegregated on the basis of race, which the source records without a date.",
+      "date": "1954-05-17",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "pol.army_mccarthy": {
+      "section": "politics",
+      "label": "Army-McCarthy hearings",
+      "value": "McCarthy opened hearings into whether the United States Army was soft on Communism",
+      "detail": "Joseph N. Welch, special counsel for the Army, turned on McCarthy on June 9 and asked whether he had, at long last, no decency. The US year page dates the convening of the hearings to March 16 and the year page dates McCarthy's opening of them to April 22.",
+      "date": "1954-04-22",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "pol.mccarthy_censure": {
+      "section": "politics",
+      "label": "Senate censures McCarthy",
+      "value": "Voted 67 to 22 against him for conduct that tends to bring the Senate into dishonor and disrepute",
+      "detail": "The year page calls the vote a censure and the US year page calls it a condemnation. Congress had passed the Communist Control Act on August 24, outlawing the Communist Party.",
+      "date": "1954-12-02",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "pol.castle_bravo": {
+      "section": "politics",
+      "label": "Castle Bravo hydrogen bomb test",
+      "value": "US officials announced a test at Bikini Atoll that produced 15 megatons instead of the 5 predicted",
+      "detail": "The Japanese fishing vessel Daigo Fukuryu Maru was caught inside the fallout zone some 80 miles from the explosion and several of her crew suffered radiation sickness. The Castle Romeo test followed at Bikini Atoll on March 27. Four Puerto Rican nationalists opened fire in the House of Representatives chamber and wounded five the same day the test was announced.",
+      "date": "1954-03-01",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.dien_bien_phu": {
+      "section": "world",
+      "label": "Battle of Dien Bien Phu ends",
+      "value": "The French were defeated by the Viet Minh, whose artillery bombardment under Vo Nguyen Giap had opened the battle on March 13",
+      "detail": "The Viet Minh captured the main airstrip on March 23, partially isolating the remaining French units. Eisenhower gave his domino theory speech on April 7. On May 11 John Foster Dulles called Indochina important but not essential to the security of Southeast Asia, ending the prospect of American intervention on the French side.",
+      "date": "1954-05-07",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.geneva_accords": {
+      "section": "world",
+      "label": "Geneva Conference splits Vietnam",
+      "value": "The conference put French forces south and Vietnamese forces north of a ceasefire line",
+      "detail": "The conference on Korea and Indochina had opened in Geneva on April 26. The First Indochina War ended on August 1, the Viet Minh took control of the north on October 11, and Laos gained full independence from France on December 24. The year page's summary puts the dividing line at the 17th parallel.",
+      "date": "1954-07-21",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.guatemala_coup": {
+      "section": "world",
+      "label": "CIA coup in Guatemala",
+      "value": "A CIA-engineered military coup began on June 17, and President Jacobo Arbenz stepped down on June 27",
+      "detail": "The source says the coup triggered a civil war that continued for more than 35 years.",
+      "date": "1954-06-17",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.algeria_revolt": {
+      "section": "world",
+      "label": "Algerian War of Independence begins",
+      "value": "The National Liberation Front began a revolt against French rule, and attacked French colonial buildings the next day",
+      "detail": "The Chlef earthquake had destroyed Orleansville in northern Algeria on September 9, leaving between 1,243 and 1,409 dead and 5,000 injured.",
+      "date": "1954-10-31",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.nasser": {
+      "section": "world",
+      "label": "Nasser takes power in Egypt",
+      "value": "Lt. Col. Gamal Abdel Nasser became premier on February 25, and replaced Muhammad Naguib as president on November 14",
+      "detail": "Mahmoud Abdul Latif of the Muslim Brotherhood tried to kill Nasser on October 26.",
+      "date": "1954-02-25",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.vargas": {
+      "section": "world",
+      "label": "Brazil's president kills himself",
+      "value": "Getulio Vargas took his own life after being accused of involvement in a conspiracy to murder his chief political opponent, Carlos Lacerda",
+      "date": "1954-08-24",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "world.hurricane_hazel": {
+      "section": "world",
+      "label": "Hurricane Hazel",
+      "value": "Crossed Haiti on October 11 and killed 1,000, then made US landfall on October 15, the only recorded Category 4 hurricane to strike as far north as North Carolina",
+      "detail": "The Japanese ferry Toya Maru sank in the Tsugaru Strait during a typhoon on September 26 and more than 1,100 people were killed. Landslides after heavy rain at Salerno killed about 300 on October 25.",
+      "date": "1954-10-15",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "White Christmas, $12,000,000, Paramount",
+        "The Caine Mutiny, $8,700,000, Columbia",
+        "20,000 Leagues Under the Sea, $8,000,000, Buena Vista",
+        "The Glenn Miller Story, $7,600,000, Universal",
+        "The Country Girl, $6,500,000, Paramount"
+      ],
+      "detail": "Rentals are the distributor's share rather than the ticket window total, so these figures sit well below what a gross would say. The table's sixth place pairs The High and the Mighty with A Star Is Born at $6,100,000 for Warner Bros.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "On the Waterfront",
+      "detail": "Awarded the following spring at the 27th Academy Awards. Elia Kazan's film had twelve nominations and won eight, matching the win totals of Gone with the Wind and From Here to Eternity, each of which had thirteen nominations. It was the third film to take five acting nominations and the first to take three in Best Supporting Actor.",
+      "source": "https://en.wikipedia.org/wiki/27th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Marlon Brando, On the Waterfront",
+        "Best Actress, Grace Kelly, The Country Girl",
+        "Best Supporting Actor, Edmond O'Brien, The Barefoot Contessa",
+        "Best Supporting Actress, Eva Marie Saint, On the Waterfront"
+      ],
+      "detail": "Bing Crosby was the favoured nominee for Best Actor and Brando won instead, in a category that put him against Humphrey Bogart again. Judy Garland was heavily favoured for Best Actress and could not attend, having recently given birth; cameramen were in her home to carry an acceptance speech and left when Kelly was announced. Dorothy Dandridge became the first African American actress nominated for Best Actress.",
+      "source": "https://en.wikipedia.org/wiki/27th_Academy_Awards"
+    },
+    "film.oscar_telecast": {
+      "section": "film",
+      "label": "Academy Awards telecast",
+      "value": "The ceremony ran from the RKO Pantages Theatre in Hollywood and the NBC Center Theatre in New York, and the second national telecast drew an estimated 43 million viewers",
+      "detail": "Donald O'Connor hosted in Hollywood and Fredric March in New York. Shirley Booth presented Best Actor from Philadelphia through a live cut-in, having been given the winner's name over the telephone. The ceremony honoured the previous year of films, and From Here to Eternity won eight awards from thirteen nominations.",
+      "date": "1954-03-25",
+      "source": "https://en.wikipedia.org/wiki/26th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Outside Hollywood",
+      "value": [
+        "Seven Samurai, directed by Akira Kurosawa, Japan",
+        "Godzilla, directed by Ishiro Honda, Japan",
+        "La strada, directed by Federico Fellini, Italy",
+        "Sansho the Bailiff, directed by Kenji Mizoguchi, Japan"
+      ],
+      "detail": "Godzilla premiered in Tokyo on November 3, and the year page dates the Japanese release of Seven Samurai to April 26. Gate of Hell took the honorary award for the best foreign language film first released in the United States. The films drawing the most admissions abroad were Royal Affairs in Versailles in France with 6,986,788 and Ulysses in Italy with 13,170,322.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. A Star Is Born premiered on September 29 in Technicolor and anamorphic widescreen, the first musical, the first Technicolor film and the first widescreen film George Cukor had directed",
+      "detail": "Exhibitors voted John Wayne the top money-making star in Quigley Publishing's annual poll, the first actor to regain the position after losing it. Dean Martin and Jerry Lewis came second and Marilyn Monroe fifth.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$0.49",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, the season beginning in autumn",
+      "value": [
+        "I Love Lucy, CBS, 49.3 rating",
+        "The Jackie Gleason Show, CBS, 42.4",
+        "Dragnet, NBC, 42.1",
+        "You Bet Your Life, NBC, 41.0",
+        "The Toast of the Town, CBS, 39.6"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. Disneyland was sixth at 39.1, the highest placed program on ABC.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1954%E2%80%9355"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Lassie, CBS, September 12",
+        "Caesar's Hour, NBC, September 27",
+        "The Tonight Show, NBC, September 27",
+        "Father Knows Best, CBS, October 3",
+        "Walt Disney's Disneyland, ABC, October 27",
+        "Face the Nation, CBS, November 7"
+      ],
+      "detail": "The year page says The Tonight Show first aired live and calls it the first late night talk show. Your Show of Shows ended its run on June 5, and The Imogene Coca Show began on October 2.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_American_television"
+    },
+    "tv.color_sets": {
+      "section": "tv",
+      "label": "Color sets reach the market",
+      "value": "RCA's 15-inch CT-100 went on sale, the first mass-produced color television, with 4,400 of them made",
+      "detail": "The Westinghouse H840CK15 had been offered for sale on February 28 as the second consumer all-electronic color set, and was discontinued about six months after its introduction. The Rose Parade was carried in NTSC color on January 1 across 21 stations from a new mobile color studio truck, with RCA placing sets in hotel lobbies and other public areas because none were yet for sale.",
+      "date": "1954-04",
+      "source": "https://en.wikipedia.org/wiki/1954_in_American_television"
+    },
+    "tv.educational_network": {
+      "section": "tv",
+      "label": "National Educational Television launches",
+      "value": "The first non-commercial educational broadcast television network in the United States began",
+      "detail": "The US year page says it launched on cable television. Television reached Puerto Rico on March 28 with WKAQ-TV in San Juan. The Miss America pageant was televised for the first time on September 11, and about 27 million viewers watched Lee Ann Meriwether win.",
+      "date": "1954-05-16",
+      "source": "https://en.wikipedia.org/wiki/1954_in_American_television"
+    },
+    "radio.toscanini": {
+      "section": "radio",
+      "label": "Toscanini's last concert",
+      "value": "Arturo Toscanini lost concentration during an all-Wagner concert with the NBC Symphony Orchestra broadcast live from Carnegie Hall, and the network briefly substituted a recording of Brahms' Symphony No. 1",
+      "detail": "His retirement was announced at the end of the concert, he never conducted in public again, and the orchestra was disbanded.",
+      "date": "1954-04-04",
+      "source": "https://en.wikipedia.org/wiki/1954_in_radio"
+    },
+    "radio.under_milk_wood": {
+      "section": "radio",
+      "label": "Under Milk Wood first broadcast",
+      "value": "The BBC Third Programme broadcast Dylan Thomas's radio play two months after his death, with Richard Burton as First Voice",
+      "detail": "Hancock's Half Hour, an early situation comedy, was first broadcast on BBC radio on November 2.",
+      "date": "1954-01-25",
+      "source": "https://en.wikipedia.org/wiki/1954_in_radio"
+    },
+    "radio.lone_ranger": {
+      "section": "radio",
+      "label": "The Lone Ranger leaves radio",
+      "value": "The last new episode aired, after 2,956 episodes over 21 years",
+      "detail": "The episode count is the US year page's. The radio page adds that The Adventures of Ozzie and Harriet ended its network run on ABC on June 18 and that Escape ended on CBS on September 25.",
+      "date": "1954-09-03",
+      "source": "https://en.wikipedia.org/wiki/1954_in_the_United_States"
+    },
+    "radio.negro_network": {
+      "section": "radio",
+      "label": "National Negro Network established",
+      "value": "The US-based network was formed with 46 member radio stations",
+      "detail": "The US year page gives 40 charter member stations where the year page gives 46.",
+      "date": "1954-01-20",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Records that reached number one",
+      "value": [
+        "Little Things Mean a Lot, Kitty Kallen, 9 weeks",
+        "Oh! My Pa-Pa, Eddie Fisher, 8 weeks",
+        "Wanted, Perry Como, 8 weeks",
+        "Sh-Boom, The Crew-Cuts, 7 weeks",
+        "Mr. Sandman, The Chordettes, 7 weeks from December 4",
+        "Hey There, Rosemary Clooney, 6 weeks"
+      ],
+      "detail": "From Billboard's charts, ordered by weeks at the top. Ten records held number one during the year. Doris Day's Secret Love and Jo Stafford's Make Love to Me alternated at the top for six weeks from February 27, taking four turns between them.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_music"
+    },
+    "music.elvis_first_single": {
+      "section": "music",
+      "label": "Elvis Presley's first single",
+      "value": "Sun Records released That's All Right with Blue Moon of Kentucky, naming the performers as Elvis Presley, Scotty and Bill",
+      "detail": "He cut both sides at Sun Studios in Memphis on July 5 in his first commercial recording session. He made his first radio broadcast on October 16, on the Louisiana Hayride from Shreveport.",
+      "date": "1954-07-19",
+      "source": "https://en.wikipedia.org/wiki/1954_in_music"
+    },
+    "music.rock_around_the_clock": {
+      "section": "music",
+      "label": "Rock Around the Clock recorded",
+      "value": "Bill Haley and His Comets cut it in New York in their first session for American Decca, and it was released on May 20 as the B-side of Thirteen Women (and Only One Man in Town)",
+      "detail": "It reached number 23 on May 29 and held the position for one week. Haley's cover of Big Joe Turner's Shake, Rattle and Roll came in the autumn.",
+      "date": "1954-04-12",
+      "source": "https://en.wikipedia.org/wiki/1954_in_music"
+    },
+    "music.stratocaster": {
+      "section": "music",
+      "label": "Fender Stratocaster",
+      "value": "The electric guitar was first produced in California",
+      "detail": "Les Paul paid Ampex to build the first eight-track tape recorder, which the source carries without a date and marks as needing a citation.",
+      "date": "1954-04",
+      "source": "https://en.wikipedia.org/wiki/1954_in_music"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Record companies began delivering 7-inch 45 rpm singles to radio stations instead of 78s",
+      "detail": "Johnny Guitar Watson recorded Space Guitar on February 1, pioneering reverb and feedback on the guitar.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_music"
+    },
+    "tech.transistor_radio": {
+      "section": "tech",
+      "label": "First commercial transistor radio",
+      "value": "Texas Instruments announced its development, and the Regency TR-1 went on sale the following month",
+      "source": "https://en.wikipedia.org/wiki/1954_in_radio",
+      "date": "1954-10-18"
+    },
+    "tech.machine_translation": {
+      "section": "tech",
+      "label": "Georgetown-IBM experiment",
+      "value": "The first public demonstration of a machine translation system was held at IBM's head office in New York",
+      "date": "1954-01-07",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "tech.nautilus": {
+      "section": "tech",
+      "label": "First nuclear-powered submarine",
+      "value": "USS Nautilus was launched at Groton, Connecticut by Mamie Eisenhower, and was commissioned into the US Navy on September 30",
+      "detail": "The Boeing 367-80, the prototype of the 707 jetliner, was rolled out on May 14 after about two years of development and made its maiden flight on July 15.",
+      "date": "1954-01-21",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "tech.atomic_power": {
+      "section": "tech",
+      "label": "First atomic power station",
+      "value": "The world's first atomic power station opened at Obninsk, near Moscow",
+      "date": "1954-06-27",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "tech.kidney_transplant": {
+      "section": "tech",
+      "label": "First successful kidney transplant",
+      "value": "J. Hartwell Harrison and Joseph Murray performed it in Boston",
+      "date": "1954-12-23",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.29 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Television carrying a Senate hearing all day, the Supreme Court taking apart school segregation, and a first single coming out of a Memphis studio."
+    },
+    "culture.lord_of_the_flies": {
+      "section": "culture",
+      "label": "Lord of the Flies published",
+      "value": "William Golding's novel was published in London",
+      "detail": "The Fellowship of the Ring, the first of the three volumes of J.R.R. Tolkien's The Lord of the Rings, was published in London on July 29. Vaino Linna's war novel The Unknown Soldier was published on December 3.",
+      "date": "1954-09-17",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "culture.moomins": {
+      "section": "culture",
+      "label": "First Moomins comic strip",
+      "value": "It was published in the London newspaper The Evening News",
+      "detail": "Hi and Lois, by Mort Walker and Dik Browne, was launched in the United States on October 18. The first issue of Sports Illustrated was published on August 16.",
+      "date": "1954-09-20",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "culture.meteorite": {
+      "section": "culture",
+      "label": "A meteorite hits a woman",
+      "value": "A four-kilogram piece of the Hodges Meteorite crashed through the roof of a house in Sylacauga, Alabama and badly bruised a napping woman, the first documented case of an object from outer space hitting a person",
+      "date": "1954-11-30",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "culture.boring_day": {
+      "section": "culture",
+      "label": "April 11",
+      "value": "No significant newsworthy events, births or deaths are known to have happened on this day",
+      "detail": "True Knowledge, an answer engine developed by William Tunstall-Pedoe, named it the most boring day of the twentieth century, and that is how the year page carries the claim.",
+      "date": "1954-04-11",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Giants swept the Cleveland Indians four games to none, their fifth title",
+      "detail": "Willie Mays ran down a Vic Wertz drive in Game 1 at the Polo Grounds on September 29, the play remembered as The Catch. The sports page records the St. Louis Browns moving to Baltimore to become the new Orioles.",
+      "date": "1954-10-02",
+      "source": "https://en.wikipedia.org/wiki/1954_in_the_United_States"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "World Cup",
+      "value": "West Germany beat Hungary 3 to 2 in the final in Switzerland, the match remembered as the Miracle of Bern",
+      "detail": "UEFA was formed in Basel on June 15, and the Asian Football Confederation in Manila on May 8.",
+      "date": "1954-07-04",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "sports.bannister": {
+      "section": "sports",
+      "label": "First sub-four-minute mile",
+      "value": "Roger Bannister ran it at Oxford",
+      "detail": "Diane Leather became the first woman to run a mile in under five minutes, at Birmingham on May 29.",
+      "date": "1954-05-06",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Cleveland Browns beat the Detroit Lions 56 to 10 at Cleveland Stadium",
+      "source": "https://en.wikipedia.org/wiki/1954_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Detroit Red Wings beat the Montreal Canadiens four games to three",
+      "detail": "Gordie Howe of the Red Wings took the Art Ross Trophy as the leading scorer of the regular season, and Al Rollins of the Chicago Black Hawks took the Hart Memorial Trophy as most valuable player.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_sports"
+    },
+    "sports.nba_finals": {
+      "section": "sports",
+      "label": "NBA Finals",
+      "value": "Minneapolis Lakers beat the Syracuse Nationals four games to three",
+      "detail": "La Salle won the NCAA final 92 to 76 over Bradley.",
+      "source": "https://en.wikipedia.org/wiki/1954_in_sports"
+    },
+    "sports.marciano": {
+      "section": "sports",
+      "label": "Heavyweight title",
+      "value": "Rocky Marciano kept the title twice against Ezzard Charles, on a unanimous decision on June 17 and an eighth-round knockout in New York on September 17",
+      "detail": "Ed Sanders, an American heavyweight aged 24, died on December 12 soon after a fight with Willie James in which he lost consciousness.",
+      "date": "1954-06-17",
+      "source": "https://en.wikipedia.org/wiki/1954_in_sports"
+    },
+    "deaths.turing": {
+      "section": "deaths",
+      "label": "Alan Turing",
+      "value": "Died June 7. Born 1912",
+      "detail": "British mathematician, cryptanalyst and pioneer computer scientist. The year page records the death as suicide by cyanide poisoning at the age of 41.",
+      "date": "1954-06-07",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "deaths.kahlo": {
+      "section": "deaths",
+      "label": "Frida Kahlo",
+      "value": "Died July 13. Born 1907",
+      "detail": "Mexican painter.",
+      "date": "1954-07-13",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "deaths.colette": {
+      "section": "deaths",
+      "label": "Colette",
+      "value": "Died August 3. Born 1873",
+      "detail": "French novelist.",
+      "date": "1954-08-03",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "deaths.matisse": {
+      "section": "deaths",
+      "label": "Henri Matisse",
+      "value": "Died November 3. Born 1869",
+      "detail": "French painter.",
+      "date": "1954-11-03",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    },
+    "deaths.fermi": {
+      "section": "deaths",
+      "label": "Enrico Fermi",
+      "value": "Died November 28. Born 1901",
+      "detail": "Italian physicist and Nobel laureate.",
+      "date": "1954-11-28",
+      "source": "https://en.wikipedia.org/wiki/1954"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1954. figures_basis is rentals: the box office table's column header reads Domestic rentals, and the sentence above it makes no competing claim. Deaths carry a birth year rather than an age because the source gives only the year, matching the 1948 and 1950 files. Names are written in ASCII per the corpus convention, so Getulio Vargas, Genevieve de Galard, Jacobo Arbenz, Vo Nguyen Giap, Toya Maru and Vaino Linna appear without diacritics. The Nielsen ranking is a season that starts in the autumn of 1954 and runs into the spring of 1955, so tv.top_shows names neither year in the fact. film.best_picture and film.acting_awards are the awards for this year of films, handed out the following spring at the 27th Academy Awards, while film.oscar_telecast is the ceremony held during 1954 for the previous year of films. That ceremony date was checked against its own numbered page, https://en.wikipedia.org/wiki/26th_Academy_Awards, which gives March 25, 1954 and agrees with both cached year pages; the 43 million viewer estimate, the two theatres, the two hosts and the Shirley Booth cut-in come from that page and are cited to it. Source disagreements are labelled rather than resolved. The Army hearings: https://en.wikipedia.org/wiki/1954_in_the_United_States dates the convening to March 16 while https://en.wikipedia.org/wiki/1954 dates McCarthy's opening of them to April 22, and both are named in the fact. ABC carrying those hearings live and in their entirety is on https://en.wikipedia.org/wiki/1954_in_American_television, which is not the source on pol.army_mccarthy, so it appears in texture instead of in that fact. Four other facts carry a detail from a page other than their own source and say so in the detail text itself: the episode count on radio.lone_ranger is the US year page's while the two other radio endings are the radio page's, the Baltimore move on sports.world_series is the sports page's, the April 26 release date for Seven Samurai on film.world_cinema is the year page's, and the late night talk show line on tv.premieres is the year page's. The December 2 Senate vote is a censure on the year page and a condemnation on the US year page. The National Negro Network has 46 member stations on the year page and 40 charter members on the US year page. National Educational Television launches as a broadcast network on https://en.wikipedia.org/wiki/1954_in_American_television and on cable on the US year page. Dropped for lack of a source: the November congressional elections, which neither cached US page mentions at all, so no result is stated here even though the date they fell on is fixed by law; any figure for how many US households owned a television set; the Salk polio vaccine announcement, which appears only in the year page's image caption, so pol and tech carry nothing about it and the dated event in the sources is the first mass vaccination of children at Pittsburgh on February 23; and the claim that Bill Haley's Shake, Rattle and Roll was the first internationally popular rock and roll recording, which the music page tags as needing a citation. The Les Paul eight-track commission is also tagged as needing a citation and is kept with that flagged in the fact's detail. Texture material taken from the cached pages but not given its own fact: the See It Now report on McCarthy and ABC's full coverage of the hearings; the words under God added to the Pledge of Allegiance; the Communist Control Act; the Rogers Pass cold record; Balanchine's Nutcracker; the wrecked C-47 at Dien Bien Phu; the end of British food rationing; the transfer of Crimea; the Petrov defection and royal commission; the Giardello prize fight, the first televised in color; the Dow Jones close of 382.74; Ellis Island; the TV dinner, Burger King and the Hyatt House; Alan Freed's Rock 'n' Roll Jubilee; the Britten and Schoenberg premieres; Milan High School; Panufnik's defection. General knowledge rather than a claim from the source pages: that a film was watched in a theatre, which is the value of film.how_people_watched, and that Billboard is the chart the music page's number ones come from, which the page states in its section text."
+}

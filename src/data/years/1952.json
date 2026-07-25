@@ -1,0 +1,463 @@
+{
+  "year": 1952,
+  "tier": "broadcast",
+  "headline": "George VI died in February, the Free Officers deposed Farouk in July, and Eisenhower beat Stevenson in November",
+  "texture": [
+    "George VI's coffin went through London to Paddington Station on February 15, then by royal train to Windsor for burial in St George's Chapel. The Winter Games had opened at Oslo the day before that procession, and Dick Button put a triple loop into his free skate there, the first triple jump landed in competition. In Michoacan the Paricutin volcano stopped erupting on February 25, after burying San Juan Parangaricutiro under a gigaton of lava.",
+    "The United States barred Charlie Chaplin from re-entering on September 19, while he was at sea on his way to Britain, and Limelight opened in London on October 16 with Chaplin there. The carrier Wasp collided with the destroyer Hobson during Atlantic exercises on April 26 and 175 men died. A magnitude 7.3 earthquake struck the southern Central Valley of California on July 21 and killed 12, and the worst aftershock, on August 22, damaged several hundred buildings in Bakersfield.",
+    "KTLA in Los Angeles carried the first televised atomic detonation on May 22, billed as Operation Tumbler-Snapper, and fed it to the three networks over a 140 mile microwave link. KPTV signed on in Portland on channel 27 on September 20, the world's first commercial UHF station. CBS Television City opened on Beverly Boulevard in Hollywood on November 16, and CBS put the Macy's Thanksgiving Day Parade on the air for the first time on November 27. Hockey Night in Canada made its television debut on the CBC on November 1.",
+    "The New York Daily News put Christine Jorgensen on its front page on December 1, reporting her surgery in Copenhagen. Armi Kuusela of Finland won the first Miss Universe pageant on June 28, and Albert Schweitzer was given the Nobel Peace Prize on December 10. Alain Bombard left the Canary Islands on October 19 to reach Barbados without provisions, and got there on December 23. Slavery in Qatar was abolished, and the Nordic Council agreed to unrestricted transport of people, goods and services across the Nordic countries."
+  ],
+  "lead": [
+    "pol.us_election",
+    "world.george_vi",
+    "world.egypt_revolution",
+    "pol.h_bomb",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Harry S. Truman (D)",
+      "detail": "Alben W. Barkley was Vice President, Fred M. Vinson was Chief Justice, Sam Rayburn was Speaker of the House, Ernest McFarland led the Senate majority, and the 82nd Congress sat. Truman announced on March 29 that he would not seek reelection. Puerto Rico became a self-governing commonwealth of the United States on July 25.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "pol.us_election": {
+      "section": "politics",
+      "label": "US presidential election",
+      "value": "Dwight D. Eisenhower beat Adlai Stevenson, the Democratic Governor of Illinois",
+      "detail": "The UNIVAC computer predicted the result correctly. Richard Nixon, the Republican candidate for vice president, had given his Checkers speech on September 23. As President-elect, Eisenhower travelled to Korea on November 29 to see what could be done to end the war there.",
+      "date": "1952-11-04",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "pol.nsa_founded": {
+      "section": "politics",
+      "label": "National Security Agency founded",
+      "value": "Founded on the day of the presidential election",
+      "date": "1952-11-04",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "pol.steel_seizure": {
+      "section": "politics",
+      "label": "Steel Seizure Case decided",
+      "value": "The Supreme Court held in Youngstown Sheet & Tube Co. v. Sawyer that the President had no inherent authority to seize private property without power granted by Congress",
+      "detail": "Truman had announced the seizure of the steel mills on April 8 in a television and radio broadcast, ahead of a threatened strike by the United Steel Workers of America. The case was argued May 12 and 13. Hugo Black wrote for the majority, five justices added separate concurrences, and Chief Justice Fred Vinson dissented. The cached US year page dates the decision itself to April 8, which is the day Truman announced the seizure, so the case's own page is cited here for June 2.",
+      "date": "1952-06-02",
+      "source": "https://en.wikipedia.org/wiki/Youngstown_Sheet_%26_Tube_Co._v._Sawyer"
+    },
+    "pol.h_bomb": {
+      "section": "politics",
+      "label": "First hydrogen bomb detonated",
+      "value": "The United States fired the device codenamed Mike at Enewetak Atoll in the Marshall Islands, with a yield of 10.4 megatons",
+      "detail": "Part of Operation Ivy. A nuclear test had been held in the Nevada desert on April 23.",
+      "date": "1952-11-01",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "world.george_vi": {
+      "section": "world",
+      "label": "Elizabeth II accedes",
+      "value": "George VI died at 56, and his daughter took the regnal name Elizabeth II as monarch of the United Kingdom and of Canada, Australia, New Zealand, South Africa, Pakistan and Ceylon",
+      "detail": "She was visiting Kenya when the news of her father's death reached her.",
+      "date": "1952-02-06",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.egypt_revolution": {
+      "section": "world",
+      "label": "Egyptian Revolution",
+      "value": "General Mohammed Naguib led the Free Officers in the overthrow of King Farouk, with Gamal Abdel Nasser the real power behind the coup",
+      "detail": "Farouk abdicated on July 26, nominally in favour of his infant son Fuad II. Rioters had burned Cairo's central business district on January 26, going after British and upper-class Egyptian businesses, and Farouk had himself announced on May 6 as a descendant of the prophet Muhammad.",
+      "date": "1952-07-23",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.japan_treaty": {
+      "section": "world",
+      "label": "Treaty of San Francisco takes effect",
+      "value": "The war between Japan and the Allies formally ended, along with the occupation of the four main Japanese islands by the Supreme Commander for the Allied Powers",
+      "detail": "The US Senate had ratified the treaty on March 20. The Treaty of Taipei between Japan and the Republic of China took effect on August 5, officially ending the Second Sino-Japanese War. Japan joined the International Monetary Fund on August 13, and the Soviet Union vetoed its application to the United Nations on September 18.",
+      "date": "1952-04-28",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.ecsc": {
+      "section": "world",
+      "label": "European Coal and Steel Community",
+      "value": "Established, with a European Parliamentary Assembly that opened on September 10",
+      "date": "1952-07-23",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.nato_greece_turkey": {
+      "section": "world",
+      "label": "Greece and Turkey join NATO",
+      "value": "Both countries joined the North Atlantic Treaty Organization",
+      "date": "1952-02-18",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.reparations": {
+      "section": "world",
+      "label": "West Germany to pay reparations to Israel",
+      "value": "Negotiations in Luxembourg ended with Germany agreeing to pay 3 billion Deutsche Marks",
+      "detail": "Israel had demanded reparations worth $3 billion from West Germany at a tribunal in The Hague on April 4.",
+      "date": "1952-08-27",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.bengali_language": {
+      "section": "world",
+      "label": "Police fire on students in Dhaka",
+      "value": "Police in Dhaka, East Pakistan, opened fire on a procession of students, killing 4 and starting a country-wide protest that led to Bengali being recognised as one of the national languages of Pakistan",
+      "detail": "UNESCO later declared the day International Mother Language Day.",
+      "date": "1952-02-21",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.mau_mau": {
+      "section": "world",
+      "label": "Martial law declared in Kenya",
+      "value": "Declared in the face of the Mau Mau uprising",
+      "detail": "Jomo Kenyatta was arrested on November 18 over an alleged connection to the uprising. During the uprising the poisonous latex of the African milk bush was used to kill cattle.",
+      "date": "1952-10-20",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "world.great_smog": {
+      "section": "world",
+      "label": "Great Smog of London",
+      "value": "Coal smoke sat over London from December 5 to December 9, and government medical reports in the weeks afterwards estimated up to 4,000 deaths and 100,000 more people made ill",
+      "detail": "Unusually cold weather, an anticyclone and windless conditions collected the pollutants, and the smog dispersed when the weather changed. Later research puts the total between 10,000 and 12,000 deaths.",
+      "date": "1952-12-05",
+      "source": "https://en.wikipedia.org/wiki/Great_Smog_of_London"
+    },
+    "world.harrow_crash": {
+      "section": "world",
+      "label": "Harrow and Wealdstone rail crash",
+      "value": "Three trains collided near London, killing 112 people and injuring 340, the worst British rail disaster in nearly four decades",
+      "date": "1952-10-08",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "The Greatest Show on Earth, $12,800,000, Paramount",
+        "This Is Cinerama, $12,500,000, Cinerama Releasing",
+        "The Snows of Kilimanjaro, $6,500,000, 20th Century Fox",
+        "Hans Christian Andersen, $6,000,000, RKO",
+        "Ivanhoe, $5,810,000, MGM"
+      ],
+      "detail": "Rentals are the distributor's share rather than the ticket window total, so these figures sit well below what a gross would say. The table's column header reads Domestic rentals while the sentence above it calls the figures box office gross. The Greatest Show on Earth was also the top-selling film of the year in the United Kingdom, at 13,000,000 admissions.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Greatest Show on Earth",
+      "detail": "Awarded the following spring at the 25th Academy Awards, the first Oscars ceremony to be televised and the first held in Hollywood and New York at once. NBC carried it over 64 television stations and 174 radio stations, and Bob Hope wore a blue dress shirt with his dinner jacket because a white one would have been too bright for the cameras. Cecil B. DeMille's film won two awards, and The Bad and the Beautiful won five without a Best Picture nomination.",
+      "source": "https://en.wikipedia.org/wiki/25th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Gary Cooper, High Noon",
+        "Best Actress, Shirley Booth, Come Back, Little Sheba",
+        "Best Supporting Actor, Anthony Quinn, Viva Zapata!",
+        "Best Supporting Actress, Gloria Grahame, The Bad and the Beautiful"
+      ],
+      "detail": "Best Picture, Best Director and all four acting awards went to six different films, the first time that had happened since the supporting categories were introduced. John Ford's win for The Quiet Man was his fourth for directing. Booth was 54, the first woman in her fifties to win Best Actress. High Noon, Moulin Rouge and The Quiet Man each had seven nominations, two more than the Best Picture winner.",
+      "source": "https://en.wikipedia.org/wiki/25th_Academy_Awards"
+    },
+    "film.cinerama": {
+      "section": "film",
+      "label": "Cinerama debuts",
+      "value": "Fred Waller's multiple-projection widescreen system made its debut in New York with the film This Is Cinerama",
+      "detail": "Bwana Devil, the first American feature-length colour 3-D film, was released on November 27.",
+      "date": "1952-09-30",
+      "source": "https://en.wikipedia.org/wiki/1952_in_film"
+    },
+    "film.censorship": {
+      "section": "film",
+      "label": "Supreme Court on film censorship",
+      "value": "Joseph Burstyn, Inc. v. Wilson held that New York's power to deny or revoke the licence of a film deemed sacrilegious was a restraint on freedom of speech and a violation of the First Amendment",
+      "date": "1952-05-26",
+      "source": "https://en.wikipedia.org/wiki/1952_in_film"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Outside Hollywood",
+      "value": [
+        "Ikiru, directed by Akira Kurosawa, Japan",
+        "Umberto D., directed by Vittorio De Sica, Italy",
+        "Forbidden Games, directed by Rene Clement, France",
+        "Aan, directed by Mehboob Khan, India"
+      ],
+      "detail": "Forbidden Games took the Academy's honorary award for the best foreign language film first released in the United States during the year. Little World of Don Camillo, directed by Julien Duvivier, sold the most tickets in both France and Italy, 12,791,168 admissions in one and 13,215,653 in the other.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. The Greatest Show on Earth premiered at Radio City Music Hall on January 10, and Singin' in the Rain premiered in the same house on March 27.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, the season beginning in autumn",
+      "value": [
+        "I Love Lucy, CBS, 67.3 rating",
+        "Arthur Godfrey's Talent Scouts, CBS, 54.7",
+        "Arthur Godfrey and His Friends, CBS, 47.1",
+        "Dragnet, NBC, 46.8",
+        "Texaco Star Theater, NBC, 46.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that began in the autumn and ran into the following spring. CBS held the top three places and NBC the next seven.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1952%E2%80%9353"
+    },
+    "tv.audience_record": {
+      "section": "tv",
+      "label": "Largest television audience",
+      "value": "The I Love Lucy episode The Marriage License was the first television show seen in around 10,000,000 homes, according to the American Research Bureau",
+      "date": "1952-04-07",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Today, NBC, January 14",
+        "Life Is Worth Living, DuMont, February 12",
+        "I've Got a Secret, CBS, June 19",
+        "Adventures of Superman, first-run syndication, September 19",
+        "The Jackie Gleason Show, CBS, September 20",
+        "The Adventures of Ozzie and Harriet, ABC, October 3"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1952_in_American_television"
+    },
+    "tv.political_ads": {
+      "section": "tv",
+      "label": "First political advertisements on television",
+      "value": "The Democratic Party bought a thirty-minute segment for Adlai Stevenson, who got unfavourable mail for interfering with a broadcast of I Love Lucy, and Eisenhower bought twenty-second commercial segments",
+      "detail": "The FCC reserved some channels for non-commercial educational broadcasting.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_American_television"
+    },
+    "radio.courier": {
+      "section": "radio",
+      "label": "First seagoing radio station",
+      "value": "Truman dedicated the Courier, a ship fitted out to broadcast",
+      "detail": "December Bride debuted on CBS on June 8, and The Green Hornet ended its run on ABC on December 5.",
+      "date": "1952-03-04",
+      "source": "https://en.wikipedia.org/wiki/1952_in_radio"
+    },
+    "radio.godot": {
+      "section": "radio",
+      "label": "Waiting for Godot on the radio first",
+      "value": "An abridged version was performed in the studio of the Club d'Essai de la Radio and broadcast on French radio, a year before Samuel Beckett's play reached a stage",
+      "date": "1952-02-17",
+      "source": "https://en.wikipedia.org/wiki/1952_in_radio"
+    },
+    "radio.moondog": {
+      "section": "radio",
+      "label": "Moondog Coronation Ball",
+      "value": "Alan Freed and WJW put on a concert at the Cleveland Arena that officials shut down after one act, Paul Williams and the Hucklebuckers",
+      "detail": "So many tickets were counterfeited that 25,000 people crowded a 12,500 seat arena, and close to 7,000 more rushed the gates. Cleveland Police Captain William Zimmerman stopped the show. The Dominoes, Varetta Dillard and Tiny Grimes were scheduled and did not play.",
+      "date": "1952-03-21",
+      "source": "https://en.wikipedia.org/wiki/1952_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Records that reached number one",
+      "value": [
+        "Wheel of Fortune, Kay Starr, 9 weeks from March 15",
+        "Auf Wiederseh'n, Sweetheart, Vera Lynn, 9 weeks from July 12",
+        "Blue Tango, Leroy Anderson, 5 weeks from May 17",
+        "You Belong to Me, Jo Stafford, 5 weeks from September 13",
+        "I Went to Your Wedding, Patti Page, 5 weeks from October 18"
+      ],
+      "detail": "From Billboard's charts, ordered by weeks at the top. Ten records reached number one during the year. Percy Faith's Delicado and Johnny Standley's It's in the Book each held the top for one week.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_music"
+    },
+    "music.uk_chart": {
+      "section": "music",
+      "label": "First UK Singles Chart",
+      "value": "The New Musical Express published the first UK singles chart, with Al Martino's Here in My Heart at number one",
+      "detail": "The paper had launched as a weekly on March 7.",
+      "date": "1952-11-14",
+      "source": "https://en.wikipedia.org/wiki/1952_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Top R&B and country records",
+      "value": [
+        "Hound Dog, Big Mama Thornton",
+        "Juke, Little Walter",
+        "Lawdy Miss Clawdy, Lloyd Price",
+        "Jambalaya (On the Bayou), Hank Williams",
+        "5-10-15 Hours, Ruth Brown"
+      ],
+      "detail": "Sun Records recorded its first release in Memphis on March 1. The Anthology of American Folk Music was issued as a various-artists collection.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_music"
+    },
+    "music.country": {
+      "section": "music",
+      "label": "First woman with a number one country hit",
+      "value": "Kitty Wells reached number one on the American country charts with It Wasn't God Who Made Honky Tonk Angels",
+      "date": "1952-08-23",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "tech.open_heart": {
+      "section": "tech",
+      "label": "First open-heart surgery",
+      "value": "C. Walton Lillehei and F. John Lewis performed it at the University of Minnesota",
+      "detail": "A mechanical heart was used in a human patient for the first time on February 6. The first successful surgical separation of conjoined twins was carried out at Mount Sinai Hospital in Cleveland on December 14.",
+      "date": "1952-09-02",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "tech.b52": {
+      "section": "tech",
+      "label": "B-52 Stratofortress first flight",
+      "value": "The bomber flew for the first time",
+      "date": "1952-04-15",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "tech.von_braun": {
+      "section": "tech",
+      "label": "Man Will Conquer Space Soon!",
+      "value": "Wernher von Braun published the first article in the series, taking in crewed flights to Mars and the Moon",
+      "date": "1952-03-22",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.27 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.75 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president who said in March that he would not run again, a war in Korea that the president-elect flew out to look at in November, and a television set that could hold ten million households on a Monday night."
+    },
+    "culture.anne_frank": {
+      "section": "culture",
+      "label": "The Diary of a Young Girl in English",
+      "value": "Anne Frank's diary was published in English translation",
+      "detail": "The Revised Standard Version of the Bible was published in the United States on September 30.",
+      "date": "1952-06-15",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "culture.cage": {
+      "section": "culture",
+      "label": "John Cage premiere",
+      "value": "David Tudor gave the first performance of 4'33\", during which the performer does not play, in Woodstock, New York",
+      "date": "1952-08-29",
+      "source": "https://en.wikipedia.org/wiki/1952_in_music"
+    },
+    "culture.polio": {
+      "section": "culture",
+      "label": "Polio in the United States",
+      "value": "Nearly 58,000 cases were reported, 3,145 people died and 21,269 were left with mild to disabling paralysis",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Brooklyn Dodgers four games to three, their 15th title",
+      "detail": "The Baseball Hall of Fame elected Harry Heilmann with 203 votes and Paul Waner with 195 on January 31. Emmett Ashford was authorised on February 20 as a substitute umpire in the Southwestern International League, the first African American umpire in organized baseball.",
+      "date": "1952-10-07",
+      "source": "https://en.wikipedia.org/wiki/1952_in_the_United_States"
+    },
+    "sports.summer_olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Helsinki, from July 19 to August 3. The United States won the most medals, 76, and the most golds, 40, and Emil Zatopek won the marathon",
+      "detail": "India took the Olympic men's field hockey gold, ahead of the Netherlands and Great Britain.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Oslo, from February 14 to 25. Norway won the most medals, 16, and the most golds, 7",
+      "detail": "Andrea Mead Lawrence of the United States won both the women's slalom and the women's giant slalom, and Stein Eriksen of Norway took the men's giant slalom.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_sports"
+    },
+    "sports.nfl_championship": {
+      "section": "sports",
+      "label": "NFL Championship",
+      "value": "Detroit Lions beat the Cleveland Browns 17 to 7 at Cleveland Stadium",
+      "detail": "Michigan State won the college football national championship and played no bowl game.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_sports"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Detroit Red Wings beat the Montreal Canadiens four games to none",
+      "detail": "Gordie Howe took the Art Ross Trophy as the NHL's leading scorer in the regular season and the Hart Memorial Trophy as its most valuable player.",
+      "source": "https://en.wikipedia.org/wiki/1952_in_sports"
+    },
+    "sports.heavyweight": {
+      "section": "sports",
+      "label": "Heavyweight title",
+      "value": "Rocky Marciano knocked out Jersey Joe Walcott in the 13th round at Philadelphia to take the World Heavyweight Championship",
+      "detail": "Joey Maxim had knocked out Sugar Ray Robinson at Yankee Stadium on June 25 to keep his world light heavyweight title, the only knockout Robinson ever suffered.",
+      "date": "1952-09-23",
+      "source": "https://en.wikipedia.org/wiki/1952_in_sports"
+    },
+    "deaths.peron": {
+      "section": "deaths",
+      "label": "Eva Peron",
+      "value": "Died July 26, aged 33. Born 1919",
+      "detail": "Argentine political leader, First Lady and partner in power to President Juan Peron. She died of cancer in Buenos Aires, and the government's declaration of national mourning brought business, entertainment and work to a standstill.",
+      "date": "1952-07-26",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "deaths.george_vi": {
+      "section": "deaths",
+      "label": "George VI",
+      "value": "Died February 6, aged 56. Born 1895",
+      "detail": "King of the United Kingdom and the British Dominions, and the last Emperor of India.",
+      "date": "1952-02-06",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "deaths.weizmann": {
+      "section": "deaths",
+      "label": "Chaim Weizmann",
+      "value": "Died November 9. Born 1874",
+      "detail": "Biochemist, Zionist leader and the first President of Israel.",
+      "date": "1952-11-09",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "deaths.mcdaniel": {
+      "section": "deaths",
+      "label": "Hattie McDaniel",
+      "value": "Died October 26. Born 1893",
+      "detail": "American actress.",
+      "date": "1952-10-26",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "deaths.hamsun": {
+      "section": "deaths",
+      "label": "Knut Hamsun",
+      "value": "Died February 19. Born 1859",
+      "detail": "Norwegian author and Nobel laureate in literature.",
+      "date": "1952-02-19",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    },
+    "deaths.henderson": {
+      "section": "deaths",
+      "label": "Fletcher Henderson",
+      "value": "Died December 29. Born 1897",
+      "detail": "American musician.",
+      "date": "1952-12-29",
+      "source": "https://en.wikipedia.org/wiki/1952"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Review pass promoted four events out of other facts' detail fields, where they had been packed to hold the fact count down: the National Security Agency's founding became pol.nsa_founded, Greece and Turkey joining NATO became world.nato_greece_turkey, the Harrow and Wealdstone rail crash became world.harrow_crash, and the radio broadcast of Waiting for Godot became radio.godot. The Harrow clause had been sitting in world.great_smog, which cites the Great Smog article, while the crash is on the cached year page, so it had the wrong URL against it. Dropped in the same pass: the Nautilus keel-laying and the creation of the US Army Special Forces from tech.b52, and the Supramar hydrofoil from tech.von_braun, none of which relate to the fact they were attached to. A detail line elaborates its own fact; sharing a date with something is not a relation. Research pass July 2026, from the cached wikitext under .sources/1952. figures_basis is rentals: bo.mjs reports the table's column header as Rank, Title, Distributor(s), Domestic rentals, while the sentence introducing the table calls the figures box office gross. The disagreement is recorded in the film.gross detail, the same way the 1948 file records it.\n\nTwo facts cite a dedicated article rather than a cached year page, because the year page's date is wrong or absent. pol.steel_seizure: the cached US year page files Youngstown Sheet & Tube Co. v. Sawyer under April 8 (https://en.wikipedia.org/wiki/1952_in_the_United_States), but April 8 is the day Truman announced the seizure. The case's own page gives argument on May 12 and 13 and decision on June 2, so it is cited and the disagreement is named in the fact's detail. world.great_smog: the cached year page carries the Great Smog only in its summary caption, with no date and no casualty figure, so the event's own page is cited for December 5 to 9, the contemporary government estimate of up to 4,000 dead and 100,000 ill, and the later 10,000 to 12,000 range. Both numbers are given rather than one picked.\n\nDate checks that passed. The presidential election is dated November 4, which was the Tuesday after the first Monday of November that year, so the year page is right. The 25th Academy Awards page gives its own ceremony date as March 19 of the following spring, which is consistent with the ceremony numbering, and film.best_picture says the following spring rather than naming that year, because no other year token may appear in a fact string.\n\nSource conflicts left labelled rather than resolved. The 25th Academy Awards page contradicts itself on who paid for the first televised ceremony: its opening says the Academy paid NBC $100,000, and its Broadcast section says the RCA Victor division of RCA paid the Academy $100,000 as a sponsorship fee, with one cited magazine giving $250,000. No dollar figure is therefore stated in film.best_picture, only the 64 television stations, the 174 radio stations and Bob Hope's blue shirt, which both accounts agree on. Christine Jorgensen appears twice with different framings: the year page dates a surgery in Copenhagen to November 20 and the US year page dates a New York Daily News front page to December 1; the texture reports only the newspaper front page and its date, which both pages support.\n\nCross-year context that cannot go in a fact string. The Nielsen ranking in tv.top_shows is a season that starts in the autumn of 1952 and runs into the spring of 1953, so the label says the season beginning in autumn and the detail explains the span, following the 1950 file. Best Picture and the acting Oscars were handed out at a ceremony in March 1953. The Korean War was in its third calendar year and Eisenhower's November trip to Korea came before his inauguration in 1953. The film.acting_awards detail says since the supporting categories were introduced rather than naming 1936, for the same reason.\n\nCarried in a fact's detail rather than given an entry of its own, to keep the count near the corpus standard: Greece and Turkey joining NATO on February 18, under world.ecsc; the Revised Standard Version of September 30, under culture.anne_frank; the Waiting for Godot radio broadcast of February 17 and two network radio changes, under radio.courier; the Nautilus keel and the founding of Army Special Forces, under tech.b52; the conjoined-twin separation of December 14 and the first mechanical heart of February 6, under tech.open_heart; Bwana Devil of November 27, under film.cinerama; the Hall of Fame ballot and Emmett Ashford, under sports.world_series; the Harrow and Wealdstone crash of October 8, under world.great_smog.\n\nDropped for lack of a usable source line. No average US movie ticket price exists for this year in src/data/series/movie_ticket_us.json, so film.ticket_price is absent. Ikiru is listed on the film page as a Golden Bear winner, which is not what that award's own history says for this year of release, so film.world_cinema names the film and the country only and claims no prize for it. Two Cents Worth of Hope is on the film page with a country and no director, so it is not listed. The Anthology of American Folk Music appears in the album list with no date and no label, so music.recordings says only that it was issued.\n\nGeneral knowledge rather than a claim from the cached pages, which comes out if challenged: that a cinema programme in this period meant a single theatrical run city by city, which is the basis for the film.how_people_watched framing; and that the Michoacan and Paricutin spellings, along with Peron, Zatopek and Rene Clement, are the ASCII forms of accented names on the source pages, following the corpus convention. Everything else in the texture is on a cached page: the funeral procession to Paddington and Windsor, Dick Button's triple loop, the Paricutin eruption ending, Chaplin barred and Limelight opening in London, the Wasp and Hobson collision, the Kern County earthquake and its Bakersfield aftershock, KTLA's televised atomic detonation, KPTV as the first commercial UHF station, CBS Television City, the first Macy's parade telecast, Hockey Night in Canada on the CBC, the Jorgensen front page, Armi Kuusela, Albert Schweitzer's Nobel, Alain Bombard's crossing, the abolition of slavery in Qatar and the Nordic Council agreement."
+}
