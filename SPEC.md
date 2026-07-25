@@ -392,6 +392,7 @@ Do not generate 106 years before the template is proven.
 
 ## Open items
 
+- **`movie_ticket_us` stops at 2022.** Every other series reaches 2024 or 2025, so 2023, 2024 and 2025 will render with no `film.ticket_price` fact while their neighbours have one. The archived NATO table the series cites ends there. Before those three years are written, either find a citable average for them, from Cinema United or an industry tracker that publishes a method, or accept the gap and say so in each year's `notes`. Do not carry the 2022 figure forward: a stale price presented as the year's price is the kind of error a reader checks.
 - Repo and site name, which sets the Pages base path. Deferred, placeholder in config.
 - Film title search. Deferred to v2. If it happens, the path is a static title-to-year index built from TMDB's daily ID export, filtered to the most popular 40 to 50 thousand titles, split by first character so the browser fetches roughly 100KB, matched client-side. A scheduled Action refreshes it monthly.
 - A "years that shaped it" toggle showing the window a film was written and shot in, roughly three years before release. Cheap to add once year pages exist.
