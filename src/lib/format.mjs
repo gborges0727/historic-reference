@@ -58,10 +58,15 @@ export function formatYearsOld(n) {
   return `${n.toFixed(1)} years`;
 }
 
-/** Joins clauses into one sentence: a, b and c. No serial comma, no em dash. */
+/**
+ * Joins clauses into one sentence: a, b and c. No serial comma, no em dash.
+ * The clauses are written to read mid-sentence, so the first letter is raised here
+ * rather than in every clause template.
+ */
 export function joinClauses(clauses) {
   const list = clauses.filter(Boolean);
   if (list.length === 0) return '';
-  if (list.length === 1) return `${list[0]}.`;
-  return `${list.slice(0, -1).join(', ')} and ${list[list.length - 1]}.`;
+  const joined =
+    list.length === 1 ? `${list[0]}.` : `${list.slice(0, -1).join(', ')} and ${list[list.length - 1]}.`;
+  return joined.charAt(0).toUpperCase() + joined.slice(1);
 }

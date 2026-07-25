@@ -146,16 +146,16 @@
     },
     "tv.top_shows": {
       "section": "tv",
-      "label": "Most-watched programs, 2010 to 2011 season",
+      "label": "Most-watched programs, season starting autumn 2011",
       "value": [
-        "American Idol, Wednesday, 14.5 rating",
-        "Dancing with the Stars, 13.8",
-        "American Idol, Thursday, 13.4",
-        "Sunday Night Football, 12.7",
-        "NCIS, 11.8"
+        "Sunday Night Football, NBC, 12.4 rating",
+        "NCIS, CBS, 12.3",
+        "Dancing with the Stars, ABC, 12.0",
+        "American Idol, Wednesday, FOX, 11.8",
+        "American Idol, Thursday, FOX, 11.0"
       ],
-      "detail": "Nielsen reports by season rather than calendar year, so this is the season that ended in May.",
-      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2010%E2%80%9311"
+      "detail": "Nielsen reports by season rather than calendar year, so this is the season that started in autumn.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2011%E2%80%9312"
     },
     "tv.premieres": {
       "section": "tv",

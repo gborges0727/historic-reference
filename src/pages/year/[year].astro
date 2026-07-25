@@ -38,8 +38,12 @@ const lead = data.lead
   })
   .filter(Boolean);
 
-const leadIds = lead.map((item: any) => item.id);
-const groups = groupFacts(data.facts, { exclude: leadIds });
+// A lead pointer with an index, film.gross#0, borrows one value out of a list fact.
+// The fact still belongs in its section, or the other four films never render and a
+// section whose only fact was promoted disappears from the page. Only a pointer at a
+// whole fact removes it from the grouped list below.
+const promotedWhole = lead.filter((item: any) => item.index === null).map((item: any) => item.id);
+const groups = groupFacts(data.facts, { exclude: promotedWhole });
 
 const BASIS_NOTE: Record<string, string> = {
   rentals:

@@ -258,7 +258,13 @@ Set `figures_basis` per year:
 
 When the basis cannot be established from a source, use `unavailable`. A ranked list with no numbers is accurate. A rentals figure labeled as gross is the kind of error readers catch and screenshot.
 
-Same principle for music: record the chart name per era rather than presenting a continuous series across methodology changes.
+Same principle for music: record the chart name per era rather than presenting a continuous series across methodology changes. A 1931 page reports what records sold and says outright that no Billboard chart existed. A 1958 page reports a year-end top fifty and notes that the Hot 100 only started that August.
+
+### Television seasons
+
+Nielsen seasons run from autumn to spring, so no season matches a calendar year. Every year page uses **the season that started in that year**, labelled "season starting autumn *year*". A reader asking what was on television in 1958 means the autumn 1958 schedule, and the alternative convention puts a season on the page that mostly aired the year before.
+
+The label never names the second year, because check 4 fails on a future year anywhere in the facts and the exemption would be a hole exactly where a wrong year is hardest to spot. The detail line carries the explanation instead.
 
 ## Validation
 

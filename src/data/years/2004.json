@@ -1,0 +1,265 @@
+{
+  "year": 2004,
+  "tier": "modern",
+  "headline": "Gmail arrived on April Fools' Day, TheFacebook opened to students, and the year ended with the tsunami",
+  "texture": [
+    "Google put out Gmail on April 1 and people assumed the gigabyte of storage was a joke. TheFacebook launched from a Harvard dorm room and stayed inside universities. Broadband passed dial-up as the way most Americans online got there, and half the country still heard a modem when it connected. Shrek 2 took $929 million worldwide, the year's biggest. The Passion of the Christ came fifth with $611 million, playing partly in Aramaic.",
+    "Al-Qaeda bombed four commuter trains in Madrid on March 11, killing at least 192 people. Photographs from Abu Ghraib came out in April and showed American soldiers torturing Iraqi prisoners. Chechen fighters took over a school in Beslan on September 1 with 1,128 hostages, most of them children. Bush was reelected on November 2. Ukraine's Orange Revolution started on November 22 over an election nobody believed.",
+    "The European Union took in ten new members on May 1, most of them east of the old line. The Athens Olympics ran from August 13 to 29. The Boston Red Sox won the World Series and ended eighty-six years without one. On December 26 an earthquake off Sumatra measured between 9.1 and 9.3 and the tsunami it sent out killed people on coastlines thousands of miles apart."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.tsunami",
+    "world.madrid",
+    "film.gross#0",
+    "tech.gmail",
+    "tech.facebook",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George W. Bush (R)",
+      "detail": "Reelected on November 2, defeating John Kerry.",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "pol.abu_ghraib": {
+      "section": "politics",
+      "label": "Abu Ghraib photographs",
+      "value": "Published images showed American soldiers torturing Iraqi prisoners",
+      "detail": "The pictures came out in April and drove doubt about the conduct of the war.",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.madrid": {
+      "section": "world",
+      "label": "Madrid train bombings",
+      "value": "Al-Qaeda bombed Cercanias commuter trains, killing at least 192 people",
+      "date": "2004-03-11",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.beslan": {
+      "section": "world",
+      "label": "Beslan school siege",
+      "value": "Chechen rebels took 1,128 hostages, most of them children",
+      "date": "2004-09-01",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.eu_enlargement": {
+      "section": "world",
+      "label": "EU takes ten new members",
+      "value": "Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia joined",
+      "date": "2004-05-01",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.orange_revolution": {
+      "section": "world",
+      "label": "Orange Revolution",
+      "value": "Protests began in Ukraine over a disputed presidential election",
+      "date": "2004-11-22",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.tsunami": {
+      "section": "world",
+      "label": "Indian Ocean earthquake and tsunami",
+      "value": "A magnitude 9.1 to 9.3 earthquake off northern Sumatra sent a tsunami across the Indian Ocean",
+      "detail": "One of the deadliest natural disasters in recorded history, striking coastlines thousands of miles from the epicentre.",
+      "date": "2004-12-26",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.afghan_election": {
+      "section": "world",
+      "label": "Afghanistan's first presidential election",
+      "value": "Hamid Karzai won with 55 percent of the vote",
+      "date": "2004-10-09",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "world.haiti": {
+      "section": "world",
+      "label": "Aristide overthrown",
+      "value": "The Haitian president was removed in a coup",
+      "date": "2004-02-29",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Shrek 2, $929,098,316, DreamWorks",
+        "Harry Potter and the Prisoner of Azkaban, $808,481,128, Warner Bros.",
+        "Spider-Man 2, $783,766,341, Sony",
+        "The Incredibles, $631,442,092, Disney",
+        "The Passion of the Christ, $611,486,736, Icon and Newmarket"
+      ],
+      "detail": "Worldwide gross. The Passion of the Christ played partly in Aramaic and Latin with subtitles.",
+      "source": "https://en.wikipedia.org/wiki/2004_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Million Dollar Baby",
+      "detail": "Awarded at the 77th Academy Awards the following spring.",
+      "source": "https://en.wikipedia.org/wiki/77th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$6.21",
+      "detail": "From the NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, then on DVD a few months later. Netflix mailed discs and there was no legal way to watch a new film over the internet.",
+      "source": "https://en.wikipedia.org/wiki/2004_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 2004",
+      "value": [
+        "CSI: Crime Scene Investigation, CBS, 16.5 rating",
+        "American Idol, Tuesday, FOX, 15.7",
+        "American Idol, Wednesday, FOX, 15.3",
+        "Desperate Housewives, ABC, 14.5",
+        "CSI: Miami, CBS, 12.4"
+      ],
+      "detail": "Nielsen reports by season, so this is the season that started in autumn.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2004%E2%80%9305"
+    },
+    "tv.super_bowl_halftime": {
+      "section": "tv",
+      "label": "Super Bowl halftime",
+      "value": "Janet Jackson's costume failure during the Super Bowl XXXVIII show, which led to years of broadcast indecency fines",
+      "date": "2004-02-01",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Year-end top singles",
+      "value": [
+        "Yeah!, Usher featuring Lil Jon and Ludacris",
+        "Burn, Usher",
+        "If I Ain't Got You, Alicia Keys",
+        "This Love, Maroon 5",
+        "The Way You Move, OutKast featuring Sleepy Brown"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2004"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On CDs, and on iPods filled from CDs or from the iTunes Store, which had opened the year before.",
+      "source": "https://en.wikipedia.org/wiki/2004_in_music"
+    },
+    "tech.gmail": {
+      "section": "tech",
+      "label": "Gmail",
+      "value": "Google launched it on April 1, offering a gigabyte of storage when rivals offered a few megabytes",
+      "date": "2004-04-01",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "tech.facebook": {
+      "section": "tech",
+      "label": "TheFacebook",
+      "value": "Launched by Mark Zuckerberg, open only to university students",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "tech.mars_rovers": {
+      "section": "tech",
+      "label": "Mars rovers land",
+      "value": "Spirit landed in January and Opportunity followed on January 25",
+      "date": "2004-01-25",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "tech.internet_users": {
+      "section": "tech",
+      "label": "Broadband passes dial-up",
+      "value": "Half of American home internet users had a high-speed connection by December, up from 42 percent in May",
+      "detail": "Measured across all American adults rather than internet users, broadband did not pass dial-up until the following spring.",
+      "source": "https://www.pewresearch.org/internet/2005/09/21/findings/"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.88 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$5.15 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1997.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A second war going badly, an election fought over it, and a set of photographs that changed what people would defend."
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Athens from August 13 to 29",
+      "date": "2004-08-13",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Boston Red Sox beat the St. Louis Cardinals, ending eighty-six years without a title",
+      "source": "https://en.wikipedia.org/wiki/2004"
+    },
+    "deaths.reagan": {
+      "section": "deaths",
+      "label": "Ronald Reagan",
+      "value": "Died June 5, aged 93",
+      "detail": "40th president of the United States.",
+      "date": "2004-06-05",
+      "source": "https://en.wikipedia.org/wiki/2004_in_the_United_States"
+    },
+    "deaths.brando": {
+      "section": "deaths",
+      "label": "Marlon Brando",
+      "value": "Died July 1. Born 1924",
+      "detail": "Actor.",
+      "date": "2004-07-01",
+      "source": "https://en.wikipedia.org/wiki/2004_in_the_United_States"
+    },
+    "deaths.ray_charles": {
+      "section": "deaths",
+      "label": "Ray Charles",
+      "value": "Died June 10. Born 1930",
+      "detail": "Singer and musician.",
+      "date": "2004-06-10",
+      "source": "https://en.wikipedia.org/wiki/2004_in_the_United_States"
+    },
+    "deaths.reeve": {
+      "section": "deaths",
+      "label": "Christopher Reeve",
+      "value": "Died October 10. Born 1952",
+      "detail": "Actor and director.",
+      "date": "2004-10-10",
+      "source": "https://en.wikipedia.org/wiki/2004_in_the_United_States"
+    },
+    "deaths.child": {
+      "section": "deaths",
+      "label": "Julia Child",
+      "value": "Died August 13. Born 1912",
+      "detail": "Chef, author and television host.",
+      "date": "2004-08-13",
+      "source": "https://en.wikipedia.org/wiki/2004_in_the_United_States"
+    },
+    "deaths.dangerfield": {
+      "section": "deaths",
+      "label": "Rodney Dangerfield",
+      "value": "Died October 5. Born 1921",
+      "detail": "Comedian and actor.",
+      "date": "2004-10-05",
+      "source": "https://en.wikipedia.org/wiki/2004_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026. Box office is worldwide gross, which is what the source ranks. The broadband fact reuses the Pew report cited in tech_firsts, and states its denominator, because half of home internet users is a different claim from half of households. Facebook carries no date field: the year article gives no launch date and a date invented to fill the field would be exactly the kind of error this project is trying not to make."
+}

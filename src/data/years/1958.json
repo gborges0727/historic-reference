@@ -1,0 +1,284 @@
+{
+  "year": 1958,
+  "tier": "broadcast",
+  "headline": "Billboard started the Hot 100, Congress built NASA in a hurry, and westerns held nine of the top TV slots",
+  "texture": [
+    "Billboard launched the Hot 100 on August 4 with Ricky Nelson's Poor Little Fool at number one, so the year-end chart was still a top fifty compiled the old way. The song that led it was Nel blu dipinto di blu, sung in Italian by Domenico Modugno and known in America as Volare. Elvis Presley was third with Don't, and had been in the Army since March. The Champs, Perez Prado and the Everly Brothers filled the rest of the top ten.",
+    "Sputnik 1 fell out of orbit and burned up on January 4, three months after going up. Explorer 1 went up on January 31 and stayed. Congress created NASA on July 29 and it took over from the NACA on October 1. Jack Kilby built the first integrated circuit at Texas Instruments on September 12. BankAmericard arrived on September 18, the first credit card offered to people who had not asked for one.",
+    "Unemployment in Detroit hit 20 percent in April. Seven Manchester United players were among twenty-one people killed when their plane failed to take off at Munich on February 6. De Gaulle came out of retirement on June 1 after French settlers seized government offices in Algiers. Five thousand US Marines landed at Beirut on July 15, nine days after the king of Iraq was executed in Baghdad. The plastic hula hoop went on sale in July."
+  ],
+  "lead": [
+    "pol.us_president",
+    "tech.nasa",
+    "tech.integrated_circuit",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.chart_toppers#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Dwight D. Eisenhower (R)",
+      "detail": "Sixth year in office.",
+      "source": "https://en.wikipedia.org/wiki/1958_in_the_United_States"
+    },
+    "pol.alaska": {
+      "section": "politics",
+      "label": "Alaska Statehood Act",
+      "value": "Eisenhower signed it, setting up the 49th state",
+      "date": "1958-07-07",
+      "source": "https://en.wikipedia.org/wiki/1958_in_the_United_States"
+    },
+    "pol.recession": {
+      "section": "politics",
+      "label": "Recession",
+      "value": "Unemployment in Detroit reached 20 percent in April, the worst point of the downturn",
+      "date": "1958-04",
+      "source": "https://en.wikipedia.org/wiki/1958_in_the_United_States"
+    },
+    "world.eec": {
+      "section": "world",
+      "label": "European Economic Community",
+      "value": "Came into being, six countries inside one customs union",
+      "date": "1958-01-01",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.uar": {
+      "section": "world",
+      "label": "United Arab Republic",
+      "value": "Egypt and Syria merged into one state",
+      "detail": "Iraq and Jordan answered with the Arab Federation on February 14.",
+      "date": "1958-02-01",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.munich": {
+      "section": "world",
+      "label": "Munich air disaster",
+      "value": "Seven Manchester United players were among twenty-one killed",
+      "date": "1958-02-06",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.khrushchev": {
+      "section": "world",
+      "label": "Khrushchev takes the premiership",
+      "value": "Became Premier of the Soviet Union while keeping the party leadership",
+      "date": "1958-03-27",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.de_gaulle": {
+      "section": "world",
+      "label": "De Gaulle returns",
+      "value": "Brought out of retirement to lead France after settlers seized government offices in Algiers on May 13",
+      "detail": "A constitutional referendum on September 28 approved the Fifth Republic with 79 percent voting yes.",
+      "date": "1958-06-01",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.iraq_coup": {
+      "section": "world",
+      "label": "July 14 Revolution in Iraq",
+      "value": "King Faisal II and members of his family were executed",
+      "detail": "Prime Minister Nuri al-Said was killed the next day. US Marines landed in Beirut on July 15.",
+      "date": "1958-07-14",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.notting_hill": {
+      "section": "world",
+      "label": "Notting Hill riots",
+      "value": "Nights of racial violence in west London from August 30 to September 1",
+      "date": "1958-08-30",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "world.taiwan_strait": {
+      "section": "world",
+      "label": "Second Taiwan Strait Crisis",
+      "value": "Began with artillery bombardment of the offshore islands",
+      "date": "1958-08-23",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "South Pacific, $16,300,000, 20th Century Fox",
+        "Auntie Mame, $9,100,000, Warner Bros.",
+        "Cat on a Hot Tin Roof, $7,660,000, MGM",
+        "No Time for Sergeants, $7,500,000, Warner Bros.",
+        "Gigi, $6,500,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total. A rentals figure is about half what a gross figure would say, and sources for this period disagree by roughly that much.",
+      "source": "https://en.wikipedia.org/wiki/1958_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Gigi",
+      "detail": "Awarded the following spring at the 31st Academy Awards. It was the last film for nearly thirty years to win Best Picture without a single acting nomination.",
+      "source": "https://en.wikipedia.org/wiki/31st_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$0.68",
+      "detail": "Derived from the CPI-W index rather than from a survey of theatres.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Television was in most homes by now, but a film released this year would not appear on it for years, if at all.",
+      "source": "https://en.wikipedia.org/wiki/1958_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1958",
+      "value": [
+        "Gunsmoke, CBS, 39.6 rating",
+        "Wagon Train, NBC, 36.1",
+        "Have Gun Will Travel, CBS, 34.3",
+        "The Rifleman, ABC, 33.1",
+        "The Danny Thomas Show, CBS, 32.8"
+      ],
+      "detail": "Nielsen reports by season, so this is the season that started in autumn. Six of the top ten were westerns.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1958%E2%80%9359"
+    },
+    "radio.state": {
+      "section": "radio",
+      "label": "Radio",
+      "value": "Still running, and no longer the main event. Network variety and drama had moved to television, leaving music, news and local programming.",
+      "source": "https://en.wikipedia.org/wiki/1958_in_radio"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Year-end top singles",
+      "value": [
+        "Nel blu dipinto di blu (Volare), Domenico Modugno",
+        "All I Have to Do Is Dream, The Everly Brothers",
+        "Don't, Elvis Presley",
+        "Witch Doctor, Ross Bagdasarian",
+        "Patricia, Perez Prado"
+      ],
+      "detail": "A top fifty rather than a Hot 100. Billboard only started the Hot 100 in August, so the year-end list was compiled from the charts that came before it.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_year-end_top_50_singles_of_1958"
+    },
+    "music.hot100_launch": {
+      "section": "music",
+      "label": "The Hot 100 begins",
+      "value": "Billboard launched it with Ricky Nelson's Poor Little Fool at number one",
+      "date": "1958-08-04",
+      "source": "https://en.wikipedia.org/wiki/1958_in_music"
+    },
+    "tech.nasa": {
+      "section": "tech",
+      "label": "NASA created",
+      "value": "Congress established it on July 29 and it took over from the NACA on October 1",
+      "detail": "Explorer 1, the first US satellite, had gone up on January 31. Sputnik 1 fell out of orbit and burned up on January 4.",
+      "date": "1958-07-29",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "tech.integrated_circuit": {
+      "section": "tech",
+      "label": "The integrated circuit",
+      "value": "Jack Kilby built the first one at Texas Instruments",
+      "date": "1958-09-12",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "tech.bankamericard": {
+      "section": "tech",
+      "label": "BankAmericard",
+      "value": "The first credit card offered widely to the public, launched in California",
+      "date": "1958-09-18",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "tech.hula_hoop": {
+      "section": "tech",
+      "label": "Hula hoop",
+      "value": "The plastic version went on sale in July",
+      "date": "1958-07",
+      "source": "https://en.wikipedia.org/wiki/1958_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.30 per gallon",
+      "detail": "Leaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$1.00 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A sharp recession inside a prosperous decade, with the space race a year old and every television in the country tuned to men on horses."
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "World Cup",
+      "value": "Brazil beat Sweden five to two in the final at Stockholm",
+      "date": "1958-06-29",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "sports.stanley_cup": {
+      "section": "sports",
+      "label": "Stanley Cup",
+      "value": "Montreal Canadiens won again",
+      "date": "1958-04-20",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "sports.chess": {
+      "section": "sports",
+      "label": "US Chess Championship",
+      "value": "Bobby Fischer won it at fourteen",
+      "date": "1958-01-08",
+      "source": "https://en.wikipedia.org/wiki/1958_in_the_United_States"
+    },
+    "deaths.handy": {
+      "section": "deaths",
+      "label": "W. C. Handy",
+      "value": "Died March 28. Born 1873",
+      "detail": "Blues composer.",
+      "date": "1958-03-28",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "deaths.todd": {
+      "section": "deaths",
+      "label": "Mike Todd",
+      "value": "Died March 22 in an aviation accident. Born 1907",
+      "detail": "Film producer and director, married to Elizabeth Taylor.",
+      "date": "1958-03-22",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "deaths.vaughan_williams": {
+      "section": "deaths",
+      "label": "Ralph Vaughan Williams",
+      "value": "Died August 26. Born 1872",
+      "detail": "English composer.",
+      "date": "1958-08-26",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "deaths.lawrence": {
+      "section": "deaths",
+      "label": "Ernest Lawrence",
+      "value": "Died August 27. Born 1901",
+      "detail": "Physicist and Nobel laureate, who built the first cyclotron.",
+      "date": "1958-08-27",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    },
+    "deaths.donat": {
+      "section": "deaths",
+      "label": "Robert Donat",
+      "value": "Died June 9. Born 1905",
+      "detail": "English actor.",
+      "date": "1958-06-09",
+      "source": "https://en.wikipedia.org/wiki/1958"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Box office is rentals, which is what the source table says. Deaths carry a birth year rather than an age because the source gives only the year, and computing an age without a birth date invents precision. The music fact is a top fifty, not a Hot 100, because the Hot 100 did not exist until August 4 of this year. Mike Todd's marriage to Elizabeth Taylor is the one detail here taken from general knowledge of the source subject rather than the year pages, and it is dropped if it cannot be confirmed."
+}

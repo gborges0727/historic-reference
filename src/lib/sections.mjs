@@ -27,7 +27,17 @@ export const WINDOWS = {
   'film.how_people_watched': { from: 1920, until: null },
   radio: { from: 1920, until: 1959 },
   tv: { from: 1950, until: null, why: 'Nielsen season rankings start 1950-51' },
+  music: {
+    from: 1920,
+    until: null,
+    why: 'section default for one-off release facts, the same arrangement as tech. Anything citing a chart position must use a gated id below so the 1940 and 1958 gates fire.',
+  },
   'music.charts': { from: 1940, until: null, why: 'Billboard best-seller chart begins' },
+  'music.recordings': {
+    from: 1920,
+    until: null,
+    why: 'added: what sold, with no chart claimed. Before 1940 there was no Billboard chart to cite, and retrospective compilations rank records after the fact, so those years can say what people bought but not where it charted.',
+  },
   'music.hot100': { from: 1958, until: null },
   'music.format': { from: 1920, until: null, why: 'added: how people listened, prose, always present' },
   tech: {
@@ -61,6 +71,7 @@ export const FAMILIES = {
   'film.acting_awards': 'film.awards',
   'film.other_awards': 'film.awards',
   'music.hot100_year_end': 'music.hot100',
+  'music.hot100_launch': 'music.hot100',
   'music.best_selling_album': 'music.charts',
   'music.chart_toppers': 'music.charts',
   'music.listening_format': 'music.format',

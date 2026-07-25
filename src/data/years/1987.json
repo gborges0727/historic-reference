@@ -1,0 +1,278 @@
+{
+  "year": 1987,
+  "tier": "broadcast",
+  "headline": "The Dow fell 508 points in a day, Reagan told Gorbachev to tear down the wall, and a supernova was visible",
+  "texture": [
+    "The Dow closed above 2,500 for the first time on July 17 and then lost 508 points on Monday, October 19. Nobody had a phone in their pocket to watch it happen. Apple shipped HyperCard on August 11, a way to link cards of text and pictures on one machine, six years before anyone outside a laboratory saw the web. The Simpsons turned up on April 19 as shorts inside The Tracey Ullman Show. The first Starbucks outside the United States opened in Vancouver on March 1.",
+    "Reagan stood at the Brandenburg Gate on June 12 and asked Gorbachev to tear down the wall, then signed the Intermediate-Range Nuclear Forces Treaty with him in Washington in December. The Tower Commission had rebuked him over Iran and Contra on February 26. Klaus Barbie went on trial in Lyon on May 11 for war crimes and got life on July 4. Martial law in Taiwan ended on July 15 after thirty-eight years.",
+    "SN 1987A appeared on February 23, the first supernova bright enough to see without a telescope since 1604. The FDA approved AZT on March 20, the first drug against AIDS. The FCC threw out the Fairness Doctrine on August 4. World population passed five billion in July by the UN's reckoning. Cosby was the most watched thing on television for the third year running, and Michael Jackson released Bad on August 31."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.black_monday",
+    "world.inf_treaty",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "tech.hypercard",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Seventh year in office. The Tower Commission rebuked him on February 26 over arms sales to Iran and money to the Contras, and he addressed the country about it on March 4.",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "pol.fairness_doctrine": {
+      "section": "politics",
+      "label": "Fairness Doctrine rescinded",
+      "value": "The FCC dropped the rule requiring broadcasters to present opposing views on controversial questions",
+      "date": "1987-08-04",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.black_monday": {
+      "section": "world",
+      "label": "Black Monday",
+      "value": "The Dow Jones Industrial Average fell 508 points, the largest one-day percentage drop on record",
+      "detail": "It had closed above 2,500 for the first time three months earlier, on July 17.",
+      "date": "1987-10-19",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.inf_treaty": {
+      "section": "world",
+      "label": "Intermediate-Range Nuclear Forces Treaty",
+      "value": "Signed in Washington by Reagan and Gorbachev",
+      "detail": "Six months after Reagan asked Gorbachev to tear down the Berlin Wall, speaking at the Brandenburg Gate on June 12.",
+      "date": "1987-12-08",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "UK general election",
+      "value": "Margaret Thatcher's Conservatives were returned for a third term",
+      "date": "1987-06-11",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.barbie_trial": {
+      "section": "world",
+      "label": "Klaus Barbie convicted",
+      "value": "The former Gestapo chief in Lyon went on trial on May 11 and was sentenced to life on July 4",
+      "date": "1987-07-04",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.taiwan": {
+      "section": "world",
+      "label": "Martial law ends in Taiwan",
+      "value": "Lifted after thirty-eight years",
+      "date": "1987-07-15",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.zeebrugge": {
+      "section": "world",
+      "label": "Zeebrugge ferry disaster",
+      "value": "The cross-channel ferry Herald of Free Enterprise capsized off the Belgian coast",
+      "date": "1987-03-06",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.population_five_billion": {
+      "section": "world",
+      "label": "Five billion people",
+      "value": "World population was estimated to have passed five billion, according to the United Nations",
+      "date": "1987-07-11",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.supernova": {
+      "section": "world",
+      "label": "SN 1987A",
+      "value": "The first supernova visible to the naked eye since 1604 was observed",
+      "date": "1987-02-23",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "world.azt": {
+      "section": "world",
+      "label": "AZT approved",
+      "value": "The US Food and Drug Administration approved it for use against AIDS",
+      "date": "1987-03-20",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films",
+      "value": [
+        "Three Men and a Baby, $167,780,960, Buena Vista",
+        "Fatal Attraction, $156,645,693, Paramount",
+        "Beverly Hills Cop II, $153,665,036, Paramount",
+        "Good Morning, Vietnam, $123,922,370, Buena Vista",
+        "Moonstruck, $80,640,528, MGM"
+      ],
+      "detail": "Box-office gross rather than rentals, which is how the trade reported it by this point. Films released late in the year kept earning after December.",
+      "source": "https://en.wikipedia.org/wiki/1987_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Last Emperor",
+      "detail": "Bernardo Bertolucci's film took nine awards at the 60th Academy Awards the following spring, every category it was nominated in.",
+      "source": "https://en.wikipedia.org/wiki/60th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$3.91",
+      "detail": "Derived from the CPI-W index rather than from a survey of theatres.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first, then on a rented tape about a year later. The video recorder had been in homes for twelve years and the rental shop was the second window.",
+      "source": "https://en.wikipedia.org/wiki/1987_in_film"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1987",
+      "value": [
+        "The Cosby Show, NBC, 27.8 rating",
+        "A Different World, NBC, 25.0",
+        "Cheers, NBC, 23.4",
+        "The Golden Girls, NBC, 21.8",
+        "Growing Pains, ABC, 21.3"
+      ],
+      "detail": "Nielsen reports by season, so this is the season that started in autumn. NBC held the top four.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1987%E2%80%9388"
+    },
+    "tv.simpsons": {
+      "section": "tv",
+      "label": "The Simpsons appear",
+      "value": "As animated shorts inside The Tracey Ullman Show",
+      "date": "1987-04-19",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Year-end top singles",
+      "value": [
+        "Walk Like an Egyptian, The Bangles",
+        "Alone, Heart",
+        "Shake You Down, Gregory Abbott",
+        "I Wanna Dance with Somebody (Who Loves Me), Whitney Houston",
+        "Nothing's Gonna Stop Us Now, Starship"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1987"
+    },
+    "music.notable_album": {
+      "section": "music",
+      "label": "Michael Jackson releases Bad",
+      "value": "His first album since Thriller",
+      "date": "1987-08-31",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "tech.hypercard": {
+      "section": "tech",
+      "label": "HyperCard",
+      "value": "Apple introduced it, linking cards of text and images on a single machine",
+      "date": "1987-08-11",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "tech.starbucks": {
+      "section": "tech",
+      "label": "Starbucks leaves the country",
+      "value": "The first outlet outside the United States opened in Vancouver",
+      "date": "1987-03-01",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.95 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1981.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A boom with a bad week in it. The market crash arrived without changing much for anyone who did not own shares, and the cold war was ending in a treaty signing that most people did not expect to hold."
+    },
+    "sports.wrestlemania": {
+      "section": "sports",
+      "label": "WrestleMania III",
+      "value": "Held at the Pontiac Silverdome",
+      "date": "1987-03-29",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "sports.rugby_world_cup": {
+      "section": "sports",
+      "label": "First Rugby World Cup",
+      "value": "New Zealand beat France in the final on June 20",
+      "detail": "The tournament, hosted by New Zealand and Australia, began on May 22.",
+      "date": "1987-06-20",
+      "source": "https://en.wikipedia.org/wiki/1987"
+    },
+    "deaths.astaire": {
+      "section": "deaths",
+      "label": "Fred Astaire",
+      "value": "Died June 22. Born 1899",
+      "detail": "Dancer, singer and actor.",
+      "date": "1987-06-22",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    },
+    "deaths.warhol": {
+      "section": "deaths",
+      "label": "Andy Warhol",
+      "value": "Died February 22. Born 1928",
+      "detail": "Leading figure of pop art.",
+      "date": "1987-02-22",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    },
+    "deaths.hayworth": {
+      "section": "deaths",
+      "label": "Rita Hayworth",
+      "value": "Died May 14. Born 1918",
+      "detail": "Actress.",
+      "date": "1987-05-14",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    },
+    "deaths.baldwin": {
+      "section": "deaths",
+      "label": "James Baldwin",
+      "value": "Died December 1. Born 1924",
+      "detail": "Author and civil rights activist.",
+      "date": "1987-12-01",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    },
+    "deaths.gleason": {
+      "section": "deaths",
+      "label": "Jackie Gleason",
+      "value": "Died June 24. Born 1916",
+      "detail": "Actor, comedian and writer.",
+      "date": "1987-06-24",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    },
+    "deaths.liberace": {
+      "section": "deaths",
+      "label": "Liberace",
+      "value": "Died February 4. Born 1919",
+      "detail": "Pianist, singer and actor.",
+      "date": "1987-02-04",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    },
+    "deaths.fosse": {
+      "section": "deaths",
+      "label": "Bob Fosse",
+      "value": "Died September 23. Born 1927",
+      "detail": "Choreographer, dancer and director.",
+      "date": "1987-09-23",
+      "source": "https://en.wikipedia.org/wiki/1987_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026. Box office is gross for this year, which is what the source table reports, unlike 1931 and 1958 where the same table gives rentals. No television section gap here, but there is no radio section: the radio window closes in 1959. Deaths carry a birth year rather than an age because the source gives only the year."
+}

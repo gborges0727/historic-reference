@@ -32,6 +32,9 @@ function candidates(year) {
     { key: 'film', title: `${year}_in_film`, holds: 'box office, releases, festival prizes' },
     { key: 'music', title: `${year}_in_music`, holds: 'charts, albums, formats' },
     { key: 'sports', title: `${year}_in_sports`, holds: 'championships' },
+    // From the 1980s on, the year article stops listing deaths and points at this
+    // instead, so the deaths section comes back empty without it.
+    { key: 'deaths', title: `Deaths_in_${year}`, holds: 'deaths, dated' },
   ];
 
   if (year >= 1929) {

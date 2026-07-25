@@ -1,0 +1,261 @@
+{
+  "year": 1931,
+  "tier": "early",
+  "headline": "Banks failed across Europe, Japan took Manchuria, and Chaplin opened a silent picture four years into sound",
+  "texture": [
+    "City Lights opened in Los Angeles on January 30, silent apart from a synchronized score, four years after The Jazz Singer. It took $2,000,000 in domestic rentals, more than any other release that year. Rentals are the distributor share rather than the ticket window total, so the figure is roughly half of what a modern gross would report. Universal put out Dracula on February 14 and Frankenstein in New York on November 21. Cimarron won Outstanding Production at the Biltmore Hotel on November 10.",
+    "Creditanstalt, the largest bank in Austria, went under on May 11 and took the Central European banking system with it. Britain left the gold standard on September 19. Record sales had been $75 million in 1929 and came to $5.5 million this year, so companies stopped signing new acts and recorded the ones who already sold. Food riots broke out in Minneapolis in February. Al Capone was sentenced to eleven years on October 17, for tax evasion rather than for anything else he had done.",
+    "Japanese officers staged an explosion near Mukden on September 18, blamed it on Chinese dissidents, and took Manchuria. Spain became a republic on April 14 and approved its constitution on December 9. The Empire State Building was finished on May 1 and the George Washington Bridge was dedicated on October 24. The Star-Spangled Banner became the national anthem on March 3, and Nevada legalized gambling two weeks after that. Clara, Lu, and Em went out on NBC Blue on January 27, the first daytime serial on radio."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.creditanstalt",
+    "world.manchuria",
+    "film.gross#0",
+    "film.best_picture",
+    "music.format",
+    "deaths.edison"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Herbert Hoover (R)",
+      "detail": "Third year of his term, with Charles Curtis as vice president and Charles Evans Hughes as chief justice.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "pol.us_congress": {
+      "section": "politics",
+      "label": "US Congress",
+      "value": "71st Congress until March 4, then the 72nd",
+      "detail": "Nicholas Longworth (R) was Speaker until March 4. John Nance Garner (D) took the chair when the new Congress finally sat on December 7. James Eli Watson (R) led the Senate.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "pol.anthem": {
+      "section": "politics",
+      "label": "The Star-Spangled Banner adopted",
+      "value": "Became the US national anthem by act of Congress",
+      "date": "1931-03-03",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "pol.capone": {
+      "section": "politics",
+      "label": "Al Capone sentenced",
+      "value": "Eleven years in prison for tax evasion",
+      "date": "1931-10-17",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "pol.scottsboro": {
+      "section": "politics",
+      "label": "Scottsboro Boys arrested",
+      "value": "Arrested in Alabama and charged with a sexual offence",
+      "date": "1931-03-25",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "pol.prohibition": {
+      "section": "politics",
+      "label": "Prohibition",
+      "value": "Still in force, in its twelfth year since 1920",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "world.uk_pm": {
+      "section": "world",
+      "label": "UK Prime Minister",
+      "value": "Ramsay MacDonald",
+      "detail": "His Labour government resigned on August 24 and he stayed on to lead a National Government, which won the general election on October 27.",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.creditanstalt": {
+      "section": "world",
+      "label": "Creditanstalt collapse",
+      "value": "Austria's largest bank went bankrupt, starting the Central European banking collapse",
+      "date": "1931-05-11",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.gold_standard": {
+      "section": "world",
+      "label": "Britain leaves the gold standard",
+      "value": "The United Kingdom abandoned convertibility",
+      "date": "1931-09-19",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.manchuria": {
+      "section": "world",
+      "label": "Mukden Incident",
+      "value": "Japanese officers staged an explosion, blamed Chinese dissidents, and occupied Manchuria",
+      "detail": "Held at gunpoint, the Chinese commander of Kirin province announced the province's annexation two days later.",
+      "date": "1931-09-18",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.spain": {
+      "section": "world",
+      "label": "Second Spanish Republic",
+      "value": "Proclaimed in Madrid after April municipal elections were treated as a referendum on the monarchy",
+      "detail": "The Cortes approved a constitution on December 9 and elected Niceto Alcala-Zamora president the next day.",
+      "date": "1931-04-14",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.china_flood": {
+      "section": "world",
+      "label": "China floods",
+      "value": "The Yangtze and Huai rivers flooded a densely populated region from June to November",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.statute_westminster": {
+      "section": "world",
+      "label": "Statute of Westminster",
+      "value": "Parliament gave the self-governing dominions legislative equality with Britain",
+      "date": "1931-12-11",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "world.empire_state": {
+      "section": "world",
+      "label": "Empire State Building completed",
+      "value": "Construction finished in New York",
+      "detail": "The George Washington Bridge over the Hudson was dedicated on October 24.",
+      "date": "1931-05-01",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "City Lights, $2,000,000, United Artists",
+        "Trader Horn, $1,642,000, MGM",
+        "Palmy Days, $1,601,000, United Artists",
+        "The Man Who Came Back, $1,400,000, Fox",
+        "Merely Mary Ann, $1,300,000, Fox"
+      ],
+      "detail": "Rentals, meaning the distributor share rather than the ticket window total. Sources for this period disagree by roughly a factor of two, and a rentals figure is about half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Outstanding Production",
+      "value": "Cimarron, RKO",
+      "detail": "The 4th Academy Awards were held at the Biltmore Hotel in Los Angeles on November 10, for films released between August 1930 and July 1931. Norman Taurog won Best Director for Skippy, Lionel Barrymore Best Actor and Marie Dressler Best Actress. Cimarron was the first Western to win.",
+      "date": "1931-11-10",
+      "source": "https://en.wikipedia.org/wiki/4th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable international releases",
+      "value": [
+        "M, Fritz Lang (Germany)",
+        "Kameradschaft, G. W. Pabst (Germany)",
+        "Madchen in Uniform, Leontine Sagan (Germany)",
+        "La Chienne, Jean Renoir (France)",
+        "A Nous la Liberte, Rene Clair (France)"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1931_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and nowhere else. City Lights premiered on January 30 as a silent picture with a synchronized score, four years after sound arrived.",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "radio.debuts": {
+      "section": "radio",
+      "label": "New on the air",
+      "value": [
+        "Clara, Lu, and Em, January 27 on NBC Blue, the first daytime serial",
+        "The Fred Waring Show, January 4 on NBC",
+        "The Witch's Tale, May 21 on WOR",
+        "Metropolitan Opera Saturday matinees, December 25 on NBC Blue"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1931_in_radio"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Records people bought",
+      "value": [
+        "Good-night Sweetheart, Wayne King and His Orchestra",
+        "Mood Indigo, Duke Ellington and His Cotton Club Orchestra",
+        "Sweet and Lovely, Gus Arnheim's Cocoanut Grove Orchestra"
+      ],
+      "detail": "There was no Billboard chart in 1931. This ordering comes from Joel Whitburn's Pop Memories, compiled from sales reported decades later, so treat the ranking as approximate.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_music"
+    },
+    "music.format": {
+      "section": "music",
+      "label": "The record business",
+      "value": "Sales fell from $75 million in 1929 to $18 million in 1930 and $5.5 million this year",
+      "detail": "A top-selling record took $500,000 or more in 1929, under $100,000 in 1930, and about $60,000 this year. Labels stopped taking chances on new acts and recorded the ones who already sold.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_music"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The second full year after the crash, with banks going down in Europe, food riots in American cities, and no bottom in sight to anyone standing in it."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the Philadelphia Athletics, four games to three",
+      "detail": "Played October 1 to 10. Frankie Frisch and Lefty Grove took the league MVP awards.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_sports"
+    },
+    "sports.nfl": {
+      "section": "sports",
+      "label": "NFL champions",
+      "value": "Green Bay Packers, 12 wins and 2 losses",
+      "detail": "There was no championship game yet. The title went on the regular season record.",
+      "source": "https://en.wikipedia.org/wiki/1931_in_sports"
+    },
+    "sports.heavyweight": {
+      "section": "sports",
+      "label": "World heavyweight champion",
+      "value": "Max Schmeling",
+      "source": "https://en.wikipedia.org/wiki/1931_in_sports"
+    },
+    "sports.negro_league": {
+      "section": "sports",
+      "label": "Negro National League disbands",
+      "value": "The St. Louis Stars won the final championship before the league folded",
+      "source": "https://en.wikipedia.org/wiki/1931_in_sports"
+    },
+    "deaths.edison": {
+      "section": "deaths",
+      "label": "Thomas Edison",
+      "value": "Died October 18, aged 84",
+      "detail": "He had filed his last patent application in January.",
+      "date": "1931-10-18",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "deaths.pavlova": {
+      "section": "deaths",
+      "label": "Anna Pavlova",
+      "value": "Died January 23, aged 49",
+      "detail": "Ballerina.",
+      "date": "1931-01-23",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "deaths.rockne": {
+      "section": "deaths",
+      "label": "Knute Rockne",
+      "value": "Died March 31 in a plane crash, aged 43",
+      "detail": "Football coach.",
+      "date": "1931-03-31",
+      "source": "https://en.wikipedia.org/wiki/1931_in_the_United_States"
+    },
+    "deaths.gibran": {
+      "section": "deaths",
+      "label": "Khalil Gibran",
+      "value": "Died April 10, aged 48",
+      "detail": "Lebanese poet and painter.",
+      "date": "1931-04-10",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    },
+    "deaths.michelson": {
+      "section": "deaths",
+      "label": "Albert A. Michelson",
+      "value": "Died May 9, aged 78",
+      "detail": "Physicist and Nobel laureate, born in Germany.",
+      "date": "1931-05-09",
+      "source": "https://en.wikipedia.org/wiki/1931"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. The prices, television and technology sections are empty on purpose. Gas, minimum wage and ticket price series all start later than 1931, and no free primary source gives a 1931 unemployment rate, so nothing numeric is claimed rather than reaching for a secondary estimate. Records are reported without a chart position because there was no Billboard chart until 1940. Box office is rentals, which is what the source says, and the amounts are labelled as the distributor share."
+}
