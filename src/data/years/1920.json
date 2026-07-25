@@ -1,0 +1,202 @@
+{
+  "year": 1920,
+  "tier": "early",
+  "headline": "Prohibition started in January, women voted in November, and two stations both claim to be first on the air",
+  "texture": [
+    "Prohibition began on January 17 and the Eighteenth Amendment closed every legal bar in the country. The Nineteenth Amendment was ratified on August 26, so the presidential election on November 2 was the first in which women could vote everywhere. They elected Warren Harding, who beat James Cox while Woodrow Wilson sat out the last year of his term. The League of Women Voters had been founded in Chicago in February.",
+    "Radio broadcasting started twice this year, depending on who is counting. 8MK in Detroit, later WWJ, went on the air on August 20. KDKA in Pittsburgh started on November 2 and read out the election returns, which is the version most often repeated. Neither claim is settled, and the argument is partly about what counts as a broadcast rather than about what happened.",
+    "Way Down East took $2,000,000 in rentals, more than any other release, and Passion reached third with a German production sold in America under an English name. The Treaty of Versailles took effect on January 10 and the US Senate refused to ratify it on March 19. A bomb in a horse wagon killed dozens on Wall Street on September 16. The American Professional Football Association was founded on September 17 and became the National Football League."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.prohibition",
+    "pol.suffrage",
+    "world.versailles",
+    "film.gross#0",
+    "radio.first_stations",
+    "sports.nfl_founded"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Woodrow Wilson (D)",
+      "detail": "Final year of his second term, with Thomas Marshall as vice president. The 66th Congress sat, with Henry Cabot Lodge leading the Senate from March 4.",
+      "source": "https://en.wikipedia.org/wiki/1920_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Warren G. Harding, Republican senator from Ohio, defeated James Cox",
+      "detail": "The first US presidential election in which women could vote in every state.",
+      "date": "1920-11-02",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "pol.prohibition": {
+      "section": "politics",
+      "label": "Prohibition begins",
+      "value": "The Eighteenth Amendment took effect and legal alcohol sales ended",
+      "date": "1920-01-17",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "pol.suffrage": {
+      "section": "politics",
+      "label": "Nineteenth Amendment ratified",
+      "value": "Guaranteed women the vote",
+      "detail": "The League of Women Voters had been founded in Chicago on February 14.",
+      "date": "1920-08-26",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "pol.wall_street_bombing": {
+      "section": "politics",
+      "label": "Wall Street bombing",
+      "value": "A bomb in a horse-drawn wagon exploded in the financial district",
+      "date": "1920-09-16",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "world.versailles": {
+      "section": "world",
+      "label": "Treaty of Versailles takes effect",
+      "value": "Formally ended the war, and the League of Nations Covenant entered into force the same day",
+      "detail": "The League held its first council meeting on January 16 and its first assembly in Geneva on November 15. The US Senate refused to ratify the treaty on March 19.",
+      "date": "1920-01-10",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "world.sevres": {
+      "section": "world",
+      "label": "Treaty of Sevres",
+      "value": "Ottoman representatives signed the partition of the empire",
+      "date": "1920-08-10",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "world.warsaw": {
+      "section": "world",
+      "label": "Battle of Warsaw",
+      "value": "The Red Army was defeated in the Polish-Soviet War between August 13 and 25",
+      "date": "1920-08-13",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "world.gandhi": {
+      "section": "world",
+      "label": "Non-Cooperation Movement",
+      "value": "Gandhi launched it in India, aiming at self-rule",
+      "date": "1920-09-05",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "world.trianon": {
+      "section": "world",
+      "label": "Treaty of Trianon",
+      "value": "Set Hungary's postwar borders and ended its state of war with the Allies",
+      "date": "1920-06-04",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "world.cenotaph": {
+      "section": "world",
+      "label": "Armistice Day in London",
+      "value": "The Cenotaph was unveiled and the Unknown Warrior buried in Westminster Abbey",
+      "date": "1920-11-11",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Way Down East, $2,000,000, United Artists",
+        "Why Change Your Wife?, $1,046,286, Paramount",
+        "Passion (Madame Dubarry), $1,000,000, UFA and First National",
+        "Something to Think About, $915,848, Paramount",
+        "The Mark of Zorro, $500,000, United Artists"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Passion was a German production released in America under an English title.",
+      "source": "https://en.wikipedia.org/wiki/1920_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, silent, with a piano or an orchestra in the room. Sound was seven years off and there was no second window of any kind.",
+      "source": "https://en.wikipedia.org/wiki/1920_in_film"
+    },
+    "radio.first_stations": {
+      "section": "radio",
+      "label": "Broadcasting begins",
+      "value": "8MK in Detroit went on the air on August 20 and KDKA in Pittsburgh on November 2",
+      "detail": "KDKA read the election returns and is the station usually named first. 8MK, later WWJ, is described as the first commercial station in the United States. There is no consensus, partly because the definition of a broadcast is itself disputed.",
+      "date": "1920-08-20",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "tech.qantas": {
+      "section": "tech",
+      "label": "Qantas founded",
+      "value": "Queensland and Northern Territory Aerial Services was registered in Australia",
+      "date": "1920-11-16",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The first full year after the war and the influenza, with the bars shut, the vote widened, and the Senate refusing the treaty the president had staked everything on."
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cleveland Indians beat the Brooklyn Dodgers, five games to two",
+      "detail": "Played October 5 to 12, in the last year the series was best of nine.",
+      "source": "https://en.wikipedia.org/wiki/1920_in_sports"
+    },
+    "sports.nfl_founded": {
+      "section": "sports",
+      "label": "NFL founded",
+      "value": "Established as the American Professional Football Association",
+      "detail": "The Akron Pros took the first title with eight wins, no losses and three ties.",
+      "date": "1920-09-17",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Summer Olympics",
+      "value": "Held in Antwerp, with the main events from August 14 to September 12",
+      "date": "1920-08-14",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "sports.babe_ruth": {
+      "section": "sports",
+      "label": "Babe Ruth sold to the Yankees",
+      "value": "Boston transferred him to New York for $125,000 and a loan",
+      "source": "https://en.wikipedia.org/wiki/1920_in_sports"
+    },
+    "deaths.barton": {
+      "section": "deaths",
+      "label": "Edmund Barton",
+      "value": "Died January 7. Born 1849",
+      "detail": "First prime minister of Australia.",
+      "date": "1920-01-07",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "deaths.klinger": {
+      "section": "deaths",
+      "label": "Max Klinger",
+      "value": "Died July 5. Born 1857",
+      "detail": "German painter and sculptor.",
+      "date": "1920-07-05",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "deaths.zorn": {
+      "section": "deaths",
+      "label": "Anders Zorn",
+      "value": "Died August 22. Born 1860",
+      "detail": "Swedish painter.",
+      "date": "1920-08-22",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    },
+    "deaths.schreiner": {
+      "section": "deaths",
+      "label": "Olive Schreiner",
+      "value": "Died December 11. Born 1855",
+      "detail": "South African writer.",
+      "date": "1920-12-11",
+      "source": "https://en.wikipedia.org/wiki/1920"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. No prices section: the gas, minimum wage and ticket series all start later, and no free primary source gives 1920 figures. No music section yet, since the audio story this year is radio starting. The two competing first-station claims are both stated rather than resolved, which matches the caveat recorded in tech_firsts.sources.json. Deaths carry a birth year rather than an age because the source gives only the year."
+}

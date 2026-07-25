@@ -44,6 +44,11 @@ const PLACEHOLDER_MARKERS = [
 
 const YEAR_TOKEN = /\b(1[0-9]{3}|20[0-9]{2})\b/g;
 
+/** The substance floor. Every pilot year clears these comfortably. */
+const MIN_FACTS = 14;
+const MIN_SECTIONS = 6;
+const ALWAYS_REQUIRED_SECTIONS = ['politics', 'world', 'film'];
+
 function sourceProblem(source) {
   if (source === '') return 'missing';
   if (!source.startsWith('https://')) return 'must be an https:// URL';
@@ -157,6 +162,29 @@ for (const file of files) {
         'availability',
         `${id} has no availability window. Add one to sections.mjs.`,
       );
+    }
+  }
+
+  // Substance. A year can satisfy every rule above and still be a thin page: two
+  // paragraphs, four lead pointers, six facts. This is the floor that makes thin a
+  // build failure rather than something a reader notices on page forty.
+  {
+    const sectionsUsed = new Set(Object.values(year.facts).map((f) => f.section));
+    const factCount = Object.keys(year.facts).length;
+    if (factCount < MIN_FACTS) {
+      report.error(scope, 'substance', `${factCount} facts, needs at least ${MIN_FACTS}`);
+    }
+    if (sectionsUsed.size < MIN_SECTIONS) {
+      report.error(
+        scope,
+        'substance',
+        `facts in ${sectionsUsed.size} sections, needs at least ${MIN_SECTIONS}`,
+      );
+    }
+    for (const required of ALWAYS_REQUIRED_SECTIONS) {
+      if (!sectionsUsed.has(required)) {
+        report.error(scope, 'substance', `no ${required} fact, and that section is open in every year`);
+      }
     }
   }
 
