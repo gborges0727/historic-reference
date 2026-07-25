@@ -233,6 +233,26 @@ for (const file of files) {
       report.error(scope, 'basis', 'figures_basis is unavailable but film.gross carries dollar amounts');
     }
   }
+
+  // So does the territory, which figures_basis cannot express. Some film pages rank by
+  // North American gross and others by worldwide gross, and the two differ by more than
+  // the rentals-to-gross gap does. 1988 and 1989 are worldwide while 1987 either side of
+  // them is North American, so a reader comparing the biggest film of two adjacent years
+  // is comparing different measurements unless the fact says which. Every written year
+  // already names its territory except the 1987 pilot, which is why this is a check and
+  // not a wish: it costs one fix now and stops the next thirty-four years from omitting it.
+  const grossFact = year.facts['film.gross'];
+  if (grossFact && year.figures_basis !== 'unavailable') {
+    const stated = `${grossFact.label} ${grossFact.detail ?? ''}`.toLowerCase();
+    const namesTerritory = /worldwide|domestic|north america|united states and canada/.test(stated);
+    if (!namesTerritory) {
+      report.error(
+        scope,
+        'basis',
+        'film.gross names no territory: say North America, domestic, or worldwide in the label or detail',
+      );
+    }
+  }
 }
 
 // The technology-age line runs on all 106 pages off one file, so every entry in it

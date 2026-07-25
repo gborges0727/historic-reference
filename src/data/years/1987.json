@@ -98,7 +98,7 @@
     },
     "film.gross": {
       "section": "film",
-      "label": "Highest-grossing films",
+      "label": "Highest-grossing films, North America",
       "value": [
         "Three Men and a Baby, $167,780,960, Buena Vista",
         "Fatal Attraction, $156,645,693, Paramount",
@@ -106,7 +106,7 @@
         "Good Morning, Vietnam, $123,922,370, Buena Vista",
         "Moonstruck, $80,640,528, MGM"
       ],
-      "detail": "Box-office gross rather than rentals, which is how the trade reported it by this point. Films released late in the year kept earning after December.",
+      "detail": "Box-office gross rather than rentals, which is how the trade reported it by this point, and the North American total rather than the worldwide one, which the film page's own heading and lead sentence both specify. Films released late in the year kept earning after December.",
       "source": "https://en.wikipedia.org/wiki/1987_in_film"
     },
     "film.best_picture": {
