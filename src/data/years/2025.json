@@ -107,14 +107,6 @@
       "date": "2025-02-28",
       "source": "https://en.wikipedia.org/wiki/2025"
     },
-    "world.myanmar_earthquake": {
-      "section": "world",
-      "label": "Myanmar earthquake",
-      "value": "A magnitude 7.7 earthquake killed 5,413 people and injured 11,402",
-      "detail": "A skyscraper under construction in Bangkok collapsed in the same quake. An earthquake in eastern Afghanistan killed over 2,200 people and injured 3,500 on August 31, and a magnitude 8.8 quake off Russia's Kamchatka Peninsula on July 30 set off tsunami warnings across the Pacific.",
-      "date": "2025-03-28",
-      "source": "https://en.wikipedia.org/wiki/2025"
-    },
     "world.gen_z_protests": {
       "section": "world",
       "label": "Gen Z protests",
@@ -123,10 +115,18 @@
       "date": "2025-09-08",
       "source": "https://en.wikipedia.org/wiki/2025"
     },
-    "world.melissa": {
+    "world.earthquakes": {
       "section": "world",
-      "label": "Hurricane Melissa",
-      "value": "It made landfall in Jamaica as a Category 5 storm with sustained winds of 160 knots, the strongest hurricane to strike the country on record",
+      "label": "Earthquakes",
+      "value": "A magnitude 7.7 earthquake in Myanmar killed 5,413 people and injured 11,402 on March 28",
+      "detail": "A skyscraper under construction in Bangkok collapsed in the same quake. An earthquake in eastern Afghanistan killed over 2,200 people and injured 3,500 on August 31, and a magnitude 8.8 quake off Russia's Kamchatka Peninsula on July 30 set off tsunami warnings across the Pacific.",
+      "date": "2025-03-28",
+      "source": "https://en.wikipedia.org/wiki/2025"
+    },
+    "world.storms": {
+      "section": "world",
+      "label": "Storms",
+      "value": "Hurricane Melissa hit Jamaica on October 28 as a Category 5 storm with sustained winds of 160 knots, the strongest hurricane to strike the country on record",
       "detail": "Cyclone Senyar killed at least 1,390 people in Thailand, Malaysia and Indonesia from November 26, Cyclone Ditwah at least 647 in Sri Lanka from November 28, and Typhoon Kalmaegi more than 288 in the Philippines, Vietnam and Thailand on November 4.",
       "date": "2025-10-28",
       "source": "https://en.wikipedia.org/wiki/2025"
@@ -227,8 +227,8 @@
     },
     "tv.consolidation": {
       "section": "tv",
-      "label": "Netflix agreed to buy Warner Bros. Discovery",
-      "value": "Netflix outbid Comcast and Paramount Skydance for the company on December 5",
+      "label": "Media consolidation",
+      "value": "Netflix outbid Comcast and Paramount Skydance on December 5 for Warner Bros. Discovery",
       "detail": "The two cached pages give different terms: the US year page says $72 billion for the film and streaming businesses, and the video games page says $82.6 billion for Warner Bros. Discovery including Warner Bros. Games. Earlier in the year Paramount Global agreed on July 2 to pay Donald Trump $16 million to settle his lawsuit over the editing of a 60 Minutes interview, while the FCC was reviewing the transfer of 27 CBS station licences in the Skydance merger; the FCC approved that merger on July 24.",
       "date": "2025-12-05",
       "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
@@ -294,12 +294,12 @@
       "section": "tech",
       "label": "Spaceflight",
       "value": [
-        "Blue Origin launched New Glenn for the first time on January 16 and landed its booster for the first time on November 13",
         "Firefly Aerospace landed Blue Ghost Mission 1 at Mare Crisium on March 2, the first fully successful lunar landing by a private company",
         "Fram2 launched on April 1, the first crewed spaceflight to enter a polar retrograde orbit",
-        "3I/ATLAS was discovered on July 1, the third confirmed interstellar object to enter the Solar System"
+        "3I/ATLAS was discovered on July 1, the third confirmed interstellar object to enter the Solar System",
+        "NASA launched the ESCAPADE mission to Mars on November 13, on a Blue Origin New Glenn rocket"
       ],
-      "detail": "The European Space Agency's Gaia spacecraft finished work on January 15 after eleven years, three trillion observations and two billion stars. The Vera C. Rubin Observatory released its first-light images on June 23, among them roughly 2,000 newly found asteroids. Kosmos 482, a Soviet Venus probe that never escaped low Earth orbit, fell back to Earth on May 9 after more than 53 years. NASA announced its 6,000th confirmed exoplanet on September 17 and launched the IMAP probe toward Lagrange point 1 on September 24.",
+      "detail": "The European Space Agency's Gaia spacecraft finished work on January 15 after eleven years, three trillion observations and two billion stars. The Vera C. Rubin Observatory released its first-light images on June 23, among them roughly 2,000 newly found asteroids. Kosmos 482, a Soviet Venus probe that never escaped low Earth orbit, fell back to Earth on May 9 after more than 53 years. NASA announced its 6,000th confirmed exoplanet on September 17 and launched the IMAP probe toward Lagrange point 1 on September 24. The world year page adds that New Glenn made its first flight on January 16 and that its booster landed for the first time on the November flight.",
       "source": "https://en.wikipedia.org/wiki/2025_in_science"
     },
     "tech.games": {
@@ -318,8 +318,8 @@
     },
     "tech.social": {
       "section": "tech",
-      "label": "TikTok went dark and came back",
-      "value": "The app took itself offline in the United States on January 18, hours before the law banning it took effect, and ByteDance shut TikTok, CapCut, Lemon8 and Marvel Snap the next day",
+      "label": "Social platforms",
+      "value": "TikTok took itself offline in the United States on January 18, hours before the law banning it took effect, and ByteDance shut CapCut, Lemon8 and Marvel Snap the next day too",
       "detail": "The Supreme Court had upheld the Protecting Americans from Foreign Adversary Controlled Applications Act on January 17. Trump signed an order on January 20 delaying enforcement for 75 days, JD Vance and Michael Waltz were put in charge of a possible sale on February 7, and the administration reached an agreement with Beijing on September 16 letting the app keep operating. Mark Zuckerberg had announced on January 7 that Meta would drop fact-checkers on Facebook, Instagram and Threads.",
       "date": "2025-01-18",
       "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
@@ -335,7 +335,7 @@
       "section": "tech",
       "label": "Climate records",
       "value": "The European Copernicus Climate Change Service reported that the previous year had been the hottest on record and the first calendar year past 1.5 degrees Celsius of warming",
-      "detail": "The Mauna Loa Observatory reported on January 16 that carbon dioxide had risen 3.58 parts per million over the previous year, past the record of 3.36 set the year before that, to a global concentration of 427 ppm, more than 50 percent above the pre-industrial level. A record low global sea ice extent was reported on February 15. Hektoria Glacier in Antarctica was reported on November 3 to have lost nearly half of itself in two months, the fastest glacier retreat in modern history. The COP30 summit met in Belem, Brazil, from November 10 to 21.",
+      "detail": "The Mauna Loa Observatory reported on January 16 that carbon dioxide had risen 3.58 parts per million over the previous year, past the record of 3.36 set the year before that, to a global concentration of 427 ppm, more than 50 percent above the pre-industrial level. A record low global sea ice extent was reported on February 15. Hektoria Glacier in Antarctica was reported on November 3 to have lost nearly half of itself in two months, the fastest glacier retreat in modern history. The world year page adds that the COP30 summit met in Belem, Brazil, from November 10 to 21, focused on the Amazon rainforest.",
       "date": "2025-01-10",
       "source": "https://en.wikipedia.org/wiki/2025_in_science"
     },
@@ -370,7 +370,7 @@
     "prices.stocks": {
       "section": "prices",
       "label": "US stock market",
-      "value": "The S&P 500 closed at a record 6173.07 on June 27, its highest since February",
+      "value": "The S&P 500 closed at 6173.07 on June 27, which the US year page calls a record high and also the highest since February",
       "detail": "Shares had fallen hard on the tariffs. On April 3 the Dow Jones Industrial Average lost 3.2 percent, the S&P 500 over 4 percent and the Nasdaq 5.2 percent, and the S&P finished that week down 9.1 percent, its worst since March 2020. On April 9, after most of the new tariffs were paused for 90 days, the Nasdaq Composite closed up 12.16 percent, its biggest one-day percentage gain since January 3, 2001, the S&P 500 rose 9.52 percent and the Dow posted its largest daily net gain on record.",
       "date": "2025-06-27",
       "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
@@ -419,8 +419,8 @@
     "sports.super_bowl": {
       "section": "sports",
       "label": "Super Bowl LIX",
-      "value": "Philadelphia Eagles 40, Kansas City Chiefs 22, at the Caesars Superdome in New Orleans",
-      "detail": "A rematch of Super Bowl LVII. Both teams had won their conference championship games on January 26.",
+      "value": "Philadelphia Eagles 40, Kansas City Chiefs 22, at New Orleans",
+      "detail": "A rematch of Super Bowl LVII. The US year page says both teams had won their conference championship games on January 26, and the television page names the venue as the Caesars Superdome.",
       "date": "2025-02-09",
       "source": "https://en.wikipedia.org/wiki/2025_in_sports"
     },
@@ -428,7 +428,7 @@
       "section": "sports",
       "label": "World Series",
       "value": "Los Angeles Dodgers beat the Toronto Blue Jays, a ninth title for the club",
-      "detail": "The first team to win consecutive World Series since the New York Yankees in 2000. The sports page dates the series from October 24 to November 1. The Athletics began a temporary relocation to West Sacramento on March 31, and the All-Star Game was played at Truist Park in Cumberland, Georgia, on July 15.",
+      "detail": "The first team to win consecutive World Series since the New York Yankees in 2000. The sports page dates the series from October 24 to November 1. The Athletics began a temporary relocation to West Sacramento on March 31, and the sports page puts the All-Star Game at Truist Park in Cumberland, Georgia, on July 15.",
       "date": "2025-11-01",
       "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
     },
@@ -442,7 +442,7 @@
         "FIFA Club World Cup, Chelsea won the first tournament in its expanded format, held across the United States from June 14 to July 13",
         "UEFA Women's Euro, England won a tournament held in Switzerland from July 2 to 27"
       ],
-      "detail": "Inter Miami beat the Vancouver Whitecaps 3 to 1 in the MLS Cup on December 6, with two assists from Lionel Messi, who was named most valuable player of the match. Mexico beat the United States in the CONCACAF Gold Cup final on July 6.",
+      "detail": "The Champions League, Club World Cup and Women's Euro results come from the sports page, and the Stanley Cup, the Finals most valuable player and the note that this was Oklahoma City's first title won at its home stadium from the US year page. Inter Miami beat the Vancouver Whitecaps 3 to 1 in the MLS Cup on December 6, with two assists from Lionel Messi, who was named most valuable player of the match. Mexico beat the United States in the CONCACAF Gold Cup final on July 6.",
       "source": "https://en.wikipedia.org/wiki/2025_in_sports"
     },
     "sports.college_championships": {
@@ -457,7 +457,7 @@
       "section": "sports",
       "label": "Alexander Ovechkin passed Wayne Gretzky",
       "value": "The Washington Capitals forward scored his 895th career goal against the New York Islanders at UBS Arena, taking the NHL all-time record",
-      "detail": "Jonathan Quick had become the first American-born goaltender to reach 400 wins on February 2.",
+      "detail": "",
       "date": "2025-04-06",
       "source": "https://en.wikipedia.org/wiki/2025_in_the_United_States"
     },
@@ -481,7 +481,7 @@
       "section": "deaths",
       "label": "Brian Wilson",
       "value": "Died June 11, aged 82",
-      "detail": "American pop rock singer-songwriter, bassist and keyboardist, of The Beach Boys. Sly Stone had died two days earlier, aged 82.",
+      "detail": "American pop rock singer-songwriter, bassist and keyboardist, of The Beach Boys.",
       "date": "2025-06-11",
       "source": "https://en.wikipedia.org/wiki/2025_in_music"
     },
