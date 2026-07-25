@@ -13,7 +13,7 @@
     "world.manchuria",
     "film.gross#0",
     "film.best_picture",
-    "music.format",
+    "music.record_sales",
     "deaths.edison"
   ],
   "facts": {
@@ -177,7 +177,7 @@
       "detail": "There was no Billboard chart in 1931. This ordering comes from Joel Whitburn's Pop Memories, compiled from sales reported decades later, so treat the ranking as approximate.",
       "source": "https://en.wikipedia.org/wiki/1931_in_music"
     },
-    "music.format": {
+    "music.record_sales": {
       "section": "music",
       "label": "The record business",
       "value": "Sales fell from $75 million in 1929 to $18 million in 1930 and $5.5 million this year",

@@ -191,9 +191,9 @@
       "detail": "Ranked by a points system over Billboard's three charts of the time, retail sales, disc jockey plays and juke box plays.",
       "source": "https://en.wikipedia.org/wiki/1949_in_music"
     },
-    "music.format": {
+    "music.listening_format": {
       "section": "music",
-      "label": "Format",
+      "label": "How people listened",
       "value": "45 rpm discs were introduced",
       "source": "https://en.wikipedia.org/wiki/1949_in_music"
     },
