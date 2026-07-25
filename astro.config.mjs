@@ -1,11 +1,12 @@
 import { defineConfig } from 'astro/config';
 
-// TODO: settle the repo name. This is the one place a path is configured.
-// Repo named <user>.github.io -> '/'. Any other repo name -> '/<repo-name>/'.
-// Every internal link uses import.meta.env.BASE_URL, so changing this line is the whole migration.
-const base = '/historical-context/';
+// The repo is gborges0727/historic-reference, so Pages serves it from /historic-reference/.
+// A repo named <user>.github.io would serve from '/' instead. Every internal link uses
+// import.meta.env.BASE_URL, so this line and `site` below are the whole migration if it moves.
+const base = '/historic-reference/';
 
 export default defineConfig({
+  site: 'https://gborges0727.github.io',
   base,
   output: 'static',
   trailingSlash: 'ignore',
