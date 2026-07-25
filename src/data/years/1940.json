@@ -1,0 +1,182 @@
+{
+  "year": 1940,
+  "tier": "early",
+  "headline": "France fell in six weeks, Britain was bombed from the air, and Roosevelt took a third term",
+  "texture": [
+    "The Battle of France opened in May, German armies broke the Maginot Line at Sedan, and the British Expeditionary Force was lifted off the beaches at Dunkirk between May 26 and early June. Petain became prime minister and asked Germany for terms. Italy declared war on France and Britain in June. Coventry city centre was destroyed from the air on November 14, and the RAF began bombing German cities two days later.",
+    "Roosevelt won a third term on November 5, which no president had done. Draft registration for about sixteen million men began in October and the Selective Service lottery was drawn in Washington on the twenty-ninth. Nylon stockings had gone on sale across the country in May, and almost five million pairs were bought on the first day. Cave paintings seventeen thousand years old were found at Lascaux in September by a group of boys.",
+    "Chaplin's The Great Dictator was the year's second-biggest picture, a comedy about Hitler that opened while Britain was being bombed. Boom Town outsold it and Rebecca came third, then won Best Picture. Artie Shaw's Frenesi was the best-selling record, on a Billboard chart that had only just started being compiled. Radio carried Europe into American dining rooms live, which no newsreel could do."
+  ],
+  "lead": [
+    "pol.roosevelt_third_term",
+    "world.fall_of_france",
+    "world.dunkirk",
+    "world.coventry",
+    "film.gross#0",
+    "music.chart_toppers#0",
+    "prices.min_wage"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "pol.roosevelt_third_term": {
+      "section": "politics",
+      "label": "Roosevelt wins a third term",
+      "value": "Reelected decisively, the first president to go past two terms",
+      "date": "1940-11-05",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "world.fall_of_france": {
+      "section": "world",
+      "label": "France falls",
+      "value": "German armies broke through at Sedan in May and Petain asked Germany for peace terms in June",
+      "detail": "Edouard Daladier had resigned as prime minister on March 21 and Paul Reynaud succeeded him. Petain was made vice-premier on May 18.",
+      "date": "1940-06",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "world.dunkirk": {
+      "section": "world",
+      "label": "Dunkirk evacuation",
+      "value": "The British Expeditionary Force was lifted off the French coast from May 26",
+      "detail": "Operation Aerial followed, evacuating Allied troops from elsewhere in France.",
+      "date": "1940-05-26",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "world.italy_declares_war": {
+      "section": "world",
+      "label": "Italy enters the war",
+      "value": "Declared war on France and the United Kingdom in June",
+      "date": "1940-06",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "world.coventry": {
+      "section": "world",
+      "label": "Coventry Blitz",
+      "value": "The city centre was destroyed by German bombing, and the RAF began bombing German cities two days later",
+      "date": "1940-11-14",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Boom Town, $3,664,000, MGM",
+        "The Great Dictator, $3,500,000, United Artists",
+        "Rebecca, $3,000,000, United Artists and Selznick",
+        "North West Mounted Police, $2,750,000, Paramount",
+        "Strike Up the Band, $2,265,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say.",
+      "source": "https://en.wikipedia.org/wiki/1940_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Rebecca",
+      "detail": "Third at the box office.",
+      "source": "https://en.wikipedia.org/wiki/13th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, after a newsreel that now carried footage from a war the country had not entered.",
+      "source": "https://en.wikipedia.org/wiki/1940_in_film"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Frenesi, Artie Shaw and His Orchestra",
+        "I'll Never Smile Again, Tommy Dorsey and His Orchestra",
+        "Only Forever, Bing Crosby",
+        "Tuxedo Junction, Glenn Miller and His Orchestra",
+        "The Woodpecker Song, Glenn Miller and His Orchestra"
+      ],
+      "detail": "From Billboard's Best Selling Retail Records chart, which began being compiled this year. Earlier years have no chart to cite at all.",
+      "source": "https://en.wikipedia.org/wiki/1940_in_music"
+    },
+    "radio.news_from_europe": {
+      "section": "radio",
+      "label": "Where the war came from",
+      "value": "Radio carried reports from Europe live into American homes, which newsreels could only do days later",
+      "source": "https://en.wikipedia.org/wiki/1940_in_film"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A country listening to another continent lose, arguing about whether that was its business, and reelecting the same man to keep deciding."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cincinnati Reds beat the Detroit Tigers",
+      "source": "https://en.wikipedia.org/wiki/1940_in_sports"
+    },
+    "deaths.babel": {
+      "section": "deaths",
+      "label": "Isaac Babel",
+      "value": "Executed January 27. Born 1894",
+      "detail": "Ukrainian writer, shot on Stalin's orders.",
+      "date": "1940-01-27",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "deaths.przerwa_tetmajer": {
+      "section": "deaths",
+      "label": "Kazimierz Przerwa-Tetmajer",
+      "value": "Died January 18. Born 1865",
+      "detail": "Polish poet and writer.",
+      "date": "1940-01-18",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "deaths.hainisch": {
+      "section": "deaths",
+      "label": "Michael Hainisch",
+      "value": "Died February 26. Born 1858",
+      "detail": "Second president of Austria.",
+      "date": "1940-02-26",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "deaths.crompton": {
+      "section": "deaths",
+      "label": "R. E. B. Crompton",
+      "value": "Died February 15",
+      "detail": "British electrical engineer and inventor.",
+      "date": "1940-02-15",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "pol.draft": {
+      "section": "politics",
+      "label": "Peacetime draft begins",
+      "value": "Registration of about sixteen million men began in October, with the Selective Service lottery drawn in Washington on October 29",
+      "date": "1940-10-29",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "tech.nylon": {
+      "section": "tech",
+      "label": "Nylon stockings go on sale",
+      "value": "First sold across the United States in May, with almost five million pairs bought on the first day",
+      "date": "1940-05",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    },
+    "culture.lascaux": {
+      "section": "culture",
+      "label": "Lascaux cave paintings found",
+      "value": "Paintings seventeen thousand years old were discovered in France by a group of boys",
+      "date": "1940-09",
+      "source": "https://en.wikipedia.org/wiki/1940"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Still an early-tier year, since the broadcast tier does not begin until 1950. This is the first year with a real chart to cite: Billboard's Best Selling Retail Records chart began being compiled this year, which is where the music.charts window opens. The fall of France and Italy's entry carry months rather than days because the source lists them under a month heading without a day. Babel being shot on Stalin's orders is general knowledge; the source says only that he was executed. American opinion opposing entry is a characterisation, not a sourced figure."
+}

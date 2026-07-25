@@ -1,0 +1,190 @@
+{
+  "year": 1941,
+  "tier": "early",
+  "headline": "Germany turned east in June, Japan struck Pearl Harbor in December, and Citizen Kane opened in May",
+  "texture": [
+    "Operation Barbarossa opened in June and German forces reached the Dnieper by July. Einsatzgruppen units followed the army east and began mass shootings behind the front, and 23,600 Jews were killed at Kamianets-Podilskyi on August 27 alone. Roosevelt and Churchill met aboard ship on August 9. Britain declared war on Finland, Hungary and Romania on December 5.",
+    "Japanese carrier aircraft attacked Pearl Harbor and the Japanese declaration of war on the United States and the British Empire was published the same day. Hitler issued the Nacht und Nebel decree in December, under which political prisoners disappeared without record. The Lend-Lease Act had been introduced in Congress in January and passed the House on February 8.",
+    "Citizen Kane premiered in New York in May, Orson Welles's first film, and finished nowhere near the top of the box office. Sergeant York led the year at $6,075,000 in rentals, nearly twice the second-place film, with Gary Cooper as a pacifist who becomes a war hero. How Green Was My Valley was fourth and won Best Picture. Glenn Miller's Chattanooga Choo Choo was the best-selling record. James Joyce died in January."
+  ],
+  "lead": [
+    "world.pearl_harbor",
+    "world.barbarossa",
+    "pol.lend_lease",
+    "film.citizen_kane",
+    "film.gross#0",
+    "music.chart_toppers#0",
+    "deaths.joyce"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "detail": "The United States entered the war in December, in his third term.",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "pol.lend_lease": {
+      "section": "politics",
+      "label": "Lend-Lease Act",
+      "value": "Introduced in Congress on January 10 and passed by the House on February 8, letting the United States supply the Allies without entering the war",
+      "date": "1941-02-08",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.pearl_harbor": {
+      "section": "world",
+      "label": "Attack on Pearl Harbor",
+      "value": "Aircraft from Japanese carriers struck the US Pacific Fleet at anchor",
+      "detail": "The Japanese declaration of war on the United States and the British Empire was published the same day.",
+      "date": "1941-12-07",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.barbarossa": {
+      "section": "world",
+      "label": "Operation Barbarossa",
+      "value": "Germany and its allies invaded the Soviet Union in June and reached the Dnieper by July",
+      "date": "1941-06",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.einsatzgruppen": {
+      "section": "world",
+      "label": "Mass shootings behind the eastern front",
+      "value": "Wehrmacht and Einsatzgruppen units carried out killings as part of Barbarossa, including 23,600 Jews shot at Kamianets-Podilskyi on August 27",
+      "date": "1941-08-27",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.atlantic_meeting": {
+      "section": "world",
+      "label": "Roosevelt and Churchill meet",
+      "value": "Met aboard ship at a naval station, their first meeting of the war",
+      "date": "1941-08-09",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.nacht_und_nebel": {
+      "section": "world",
+      "label": "Nacht und Nebel decree",
+      "value": "Hitler ordered that political prisoners disappear without record",
+      "date": "1941-12",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.uk_declarations": {
+      "section": "world",
+      "label": "Britain declares war on three more states",
+      "value": "Declared war on Finland, Hungary and Romania",
+      "date": "1941-12-05",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "world.iran_invasion": {
+      "section": "world",
+      "label": "Anglo-Soviet invasion of Iran",
+      "value": "Launched to secure the Persian Corridor and the oilfields",
+      "date": "1941-08-25",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Sergeant York, $6,075,000, Warner Bros.",
+        "Honky Tonk, $2,893,000, MGM",
+        "Louisiana Purchase, $2,750,000, Paramount",
+        "How Green Was My Valley, $2,447,000, 20th Century Fox",
+        "The Philadelphia Story, $2,374,000, MGM"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. The top film took more than twice the second.",
+      "source": "https://en.wikipedia.org/wiki/1941_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "How Green Was My Valley",
+      "detail": "Fourth at the box office. Citizen Kane was nominated and did not win.",
+      "source": "https://en.wikipedia.org/wiki/14th_Academy_Awards"
+    },
+    "film.citizen_kane": {
+      "section": "film",
+      "label": "Citizen Kane premieres",
+      "value": "Orson Welles's first film opened in New York in May",
+      "date": "1941-05",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. From December the newsreel was about a war the audience was now in.",
+      "source": "https://en.wikipedia.org/wiki/1941_in_film"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "Chattanooga Choo Choo, Glenn Miller and His Orchestra",
+        "Piano Concerto in B Flat, Freddy Martin and His Orchestra",
+        "Amapola, Jimmy Dorsey and His Orchestra",
+        "Daddy, Sammy Kaye",
+        "Green Eyes, Jimmy Dorsey and His Orchestra"
+      ],
+      "detail": "From Billboard's retail sales chart.",
+      "source": "https://en.wikipedia.org/wiki/1941_in_music"
+    },
+    "tech.jeep": {
+      "section": "tech",
+      "label": "The Jeep goes into production",
+      "value": "The Willys MB was first produced for the US Army",
+      "date": "1941-08-01",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Eleven months of arguing about whether to go in, and then a Sunday morning that ended the argument."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Yankees beat the Brooklyn Dodgers",
+      "source": "https://en.wikipedia.org/wiki/1941_in_sports"
+    },
+    "deaths.joyce": {
+      "section": "deaths",
+      "label": "James Joyce",
+      "value": "Died January 13. Born 1882",
+      "detail": "Irish writer and poet.",
+      "date": "1941-01-13",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "deaths.metaxas": {
+      "section": "deaths",
+      "label": "Ioannis Metaxas",
+      "value": "Died January 29",
+      "detail": "Greek officer and prime minister.",
+      "date": "1941-01-29",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "deaths.konkolics": {
+      "section": "deaths",
+      "label": "Jozsef Konkolics",
+      "value": "Died January 1. Born 1861",
+      "detail": "Hungarian Slovene writer.",
+      "date": "1941-01-01",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    },
+    "deaths.barringer": {
+      "section": "deaths",
+      "label": "Paul Brandon Barringer",
+      "value": "Died January 9",
+      "detail": "American physician and university president.",
+      "date": "1941-01-09",
+      "source": "https://en.wikipedia.org/wiki/1941"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. Barbarossa, the Nacht und Nebel decree and the Citizen Kane premiere carry months rather than days because the source lists them under month headings without days. Gary Cooper's role in Sergeant York, and Citizen Kane being nominated without winning, are general knowledge of those films rather than claims from the year pages."
+}

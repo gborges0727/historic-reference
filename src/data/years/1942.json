@@ -1,0 +1,163 @@
+{
+  "year": 1942,
+  "tier": "early",
+  "headline": "Roosevelt signed the internment order, Midway turned the Pacific, and a pile went critical in Chicago",
+  "texture": [
+    "Executive Order 9066 was signed in February and let the army remove people of Japanese descent from the west coast; Canada ordered the same thing. Jimmy Doolittle led a bombing raid on Japan from a carrier deck on April 18. American carriers stopped the Japanese advance at Midway between June 4 and 7. German forces reached Stalingrad on August 23.",
+    "Under the bleachers at Stagg Field in Chicago on December 2, the Manhattan Project produced the first self-sustaining nuclear chain reaction, and the coded message said the Italian navigator had landed in the new world. Nobody outside the project knew any of it had happened.",
+    "Bing Crosby's White Christmas was the year's best-selling record, released into the first wartime Christmas with men overseas. Mrs. Miniver led the box office at $5,358,000 in rentals and won Best Picture, with MGM taking the top two places. Grant Wood died in February, twelve years after painting American Gothic."
+  ],
+  "lead": [
+    "pol.internment_order",
+    "world.midway",
+    "world.stalingrad",
+    "tech.chain_reaction",
+    "film.gross#0",
+    "music.chart_toppers#0",
+    "world.doolittle_raid"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Franklin D. Roosevelt (D)",
+      "detail": "First full year of American belligerency.",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "pol.internment_order": {
+      "section": "politics",
+      "label": "Executive Order 9066",
+      "value": "Roosevelt signed it, allowing the military to remove people of Japanese descent from designated areas",
+      "detail": "Internment of Japanese Canadians was ordered in the same month.",
+      "date": "1942-02",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "world.doolittle_raid": {
+      "section": "world",
+      "label": "Doolittle Raid",
+      "value": "Jimmy Doolittle led a bombing mission against Japan flown from a carrier",
+      "date": "1942-04-18",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "world.midway": {
+      "section": "world",
+      "label": "Battle of Midway",
+      "value": "An American naval victory that halted the Japanese advance across the Pacific",
+      "date": "1942-06-04",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "world.stalingrad": {
+      "section": "world",
+      "label": "Battle of Stalingrad begins",
+      "value": "German forces of the 16th Panzer Division reached the city",
+      "date": "1942-08-23",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "world.portugal_election": {
+      "section": "world",
+      "label": "Portugal reelects Carmona",
+      "value": "Antonio Oscar Carmona was returned as president for a third term",
+      "date": "1942-02",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "tech.chain_reaction": {
+      "section": "tech",
+      "label": "First nuclear chain reaction",
+      "value": "The Manhattan Project achieved the first self-sustaining reaction under the bleachers at Stagg Field, Chicago",
+      "detail": "The coded message reporting it said the Italian navigator had landed in the new world.",
+      "date": "1942-12-02",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, US domestic rentals",
+      "value": [
+        "Mrs. Miniver, $5,358,000, MGM",
+        "Random Harvest, $4,650,000, MGM",
+        "Yankee Doodle Dandy, $4,631,000, Warner Bros.",
+        "Reap the Wild Wind, $4,000,000, Paramount",
+        "Road to Morocco, $3,800,000, Paramount"
+      ],
+      "detail": "Rentals, the distributor share rather than the ticket window total, so roughly half what a gross figure would say. Takings across the board rose sharply with wartime wages.",
+      "source": "https://en.wikipedia.org/wiki/1942_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Mrs. Miniver",
+      "detail": "Also the year's highest-grossing film.",
+      "source": "https://en.wikipedia.org/wiki/15th_Academy_Awards"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, with war bond appeals in the lobby and a newsreel before the feature. Attendance rose because there was money and little else to spend it on.",
+      "source": "https://en.wikipedia.org/wiki/1942_in_film"
+    },
+    "music.chart_toppers": {
+      "section": "music",
+      "label": "Best-selling records",
+      "value": [
+        "White Christmas, Bing Crosby",
+        "(I've Got a Gal In) Kalamazoo, Glenn Miller and His Orchestra",
+        "Moonlight Cocktail, Glenn Miller and His Orchestra",
+        "Who Wouldn't Love You, Kay Kyser and His Orchestra",
+        "Sleepy Lagoon, Harry James and His Orchestra"
+      ],
+      "detail": "From Billboard's retail sales chart.",
+      "source": "https://en.wikipedia.org/wiki/1942_in_music"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A war going badly until June and then not, rationing at home, and a hundred and ten thousand people moved into camps by their own government."
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$0.30 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "St. Louis Cardinals beat the New York Yankees",
+      "source": "https://en.wikipedia.org/wiki/1942_in_sports"
+    },
+    "deaths.grant_wood": {
+      "section": "deaths",
+      "label": "Grant Wood",
+      "value": "Died February 12. Born 1891",
+      "detail": "American painter.",
+      "date": "1942-02-12",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "deaths.relander": {
+      "section": "deaths",
+      "label": "Lauri Kristian Relander",
+      "value": "Died February 9. Born 1883",
+      "detail": "Second president of Finland.",
+      "date": "1942-02-09",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "deaths.eenpalu": {
+      "section": "deaths",
+      "label": "Kaarel Eenpalu",
+      "value": "Died January 27",
+      "detail": "Estonian journalist and prime minister.",
+      "date": "1942-01-27",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    },
+    "deaths.kaija": {
+      "section": "deaths",
+      "label": "Ivande Kaija",
+      "value": "Died January 2. Born 1876",
+      "detail": "Latvian writer and feminist.",
+      "date": "1942-01-02",
+      "source": "https://en.wikipedia.org/wiki/1942"
+    }
+  },
+  "figures_basis": "rentals",
+  "notes": "Research pass July 2026. The internment order carries a month rather than a day because the source lists it under a month heading. Several claims are general knowledge rather than statements from the year pages: the number interned, Grant Wood painting American Gothic, wartime wages lifting box office and attendance, and war bond appeals in cinema lobbies. Ivande Kaija is described in the source as a Soviet writer, which is how the occupation is recorded there; Latvian is used here because that is what she was."
+}
