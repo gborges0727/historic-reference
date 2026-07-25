@@ -181,6 +181,10 @@ Section availability, enforced in `sections.ts`:
 
 Two more windows were added for facts that every year carries and the original table had no row for: `music.format`, how people listened, from 1920, and `culture.mood`, qualitative and never numeric, from 1920. A `tech` section-level default from 1920 covers one-off product facts such as `tech.iphone_4s`. Anything about an online service must use a gated id instead, or its window will not fire. `sections.mjs` maps specific ids onto these families, so `film.best_picture` is checked against the 1929 `film.awards` gate and `tech.facebook` against the 2003 `tech.social` gate.
 
+**`tech.web_origins`, 1989 to 1992.** Building the web is not the same event as being able to use it. Berners-Lee wrote the CERN proposal in March 1989, the first server ran in 1990 and the first public site went up in August 1991, and those pages should carry them. They were passing under the ungated `tech` section default, which is the hole the paragraph above warns about, so they get a window that closes exactly where `tech.internet` opens. Nothing under it may imply a reader could use the web, which is what the 1993 gate is for.
+
+**Prefix rules, not just an id list.** Enumerating every gated id by hand stopped working at 1993. A year writing about an online service reaches for whatever id fits its fact, and an id nobody listed falls through to the `tech` default from 1920, so the fact validates and the gate never fires. `windowKeyFor` now tries an ordered prefix table after an exact family match and before the section fallback, so `tech.internet_*`, `tech.web_*`, `tech.online_*` and `tech.social_*` all reach their gates without being named. Longest prefix wins, which is what keeps the pre-1993 CERN ids routed to `tech.web_origins`. Verified by pointing a 1991 fact at `tech.web_search`: it now fails the availability check, where before it passed silently.
+
 A section with no available facts renders nothing. It does not render a header with an empty body, and it never renders a placeholder like "Top websites: none." A 1942 page has no tech-internet section at all, which reads as correct. A 1942 page saying the internet had no users reads as broken.
 
 ## Anchoring module
@@ -250,7 +254,19 @@ US population carries a visible step between 2019 and 2020 where estimates made 
 
 Figures from 1920 through the late 1970s are usually reported as rentals, meaning the distributor's share rather than the ticket-window total. Sources disagree by roughly a factor of two and neither figure is wrong.
 
-Reading every year's own column header rather than assuming an era default put the changeover at a single year: **1976 is the last year whose table states domestic rentals, and 1977 is the first that states box-office gross.** Every year from 1977 on has read gross so far. This is a fact about how the source pages are written, not about industry practice, which is why it has to be checked per year and not inferred. A related trap sits in the same tables through the mid-1970s: several of them print a sentence calling the figures gross directly above a column header that says rentals. Those years follow the header and say so in the fact, because the header labels the numbers actually in the table.
+Reading every year's own column header rather than assuming an era default found two changeovers, not one, and the source pages fall into three eras:
+
+| Years | What the table reports |
+|---|---|
+| 1920 to 1976 | domestic rentals, the distributor's share |
+| 1977 to 1987 | North American box-office gross |
+| 1988 onward | **worldwide** box-office gross |
+
+Both boundaries are sharp. 1976 is the last table stating rentals and 1977 the first stating gross; 1987 is the last ranking by North America and 1988 the first ranking worldwide. Neither is a fact about industry practice, only about how these pages happen to be written, which is why each year gets checked rather than inferred.
+
+The second boundary matters more than it looks. Comparing the biggest film of 1987 with the biggest of 1988 means comparing a domestic figure with a worldwide one, a gap wider than the rentals-to-gross one, and `figures_basis` reads `gross` on both sides of it. That is why check 9 requires the territory in the fact text.
+
+A related trap sits in the tables through the mid-1970s: several print a sentence calling the figures gross directly above a column header that says rentals. Those years follow the header and say so in the fact, because the header labels the numbers actually in the table.
 
 Set `figures_basis` per year:
 

@@ -1,0 +1,512 @@
+{
+  "year": 1990,
+  "tier": "broadcast",
+  "headline": "Germany reunified in October, Iraq invaded Kuwait in August, and Nelson Mandela was released in February",
+  "texture": [
+    "Thousands stormed the Stasi headquarters in East Berlin on January 15 to get at their own files. Checkpoint Charlie was dismantled on June 22, and on July 1 the Deutsche Mark became the currency of the East as well, the Inner German border ceasing to function. Estonia restored the formal name Republic of Estonia on May 8, along with its coat of arms, flag and anthem. Nizhny Novgorod took its name back from Gorky on October 22. The remains of Konstantin Pats, found near Tver, were reburied at Metsakalmistu in Tallinn on October 21.",
+    "The Community Charge took effect in England and Wales on April 1. An anti-poll-tax demonstration in Trafalgar Square on March 31 turned into a riot that injured 471 people and led to 341 arrests, and police had sealed off Brixton three weeks before that. The riot at Strangeways Prison in Manchester started the same day the charge did and ran three weeks and three days. On December 1 Channel Tunnel workers from the two countries met 40 metres beneath the seabed. A man with a knife robbed a courier in London of bearer bonds worth 292 million pounds on May 2.",
+    "Doctors at the National Institutes of Health in Bethesda began the first gene therapy on a human patient on September 14. Two thieves posing as police officers took twelve paintings and a Shang dynasty vase, put at $100 to $300 million, out of the Isabella Stewart Gardner Museum in Boston on March 18. Van Gogh's Portrait of Dr. Gachet sold for a record $82.5 million on May 15. San Luis Obispo banned smoking in bars on August 2. Sue, the best preserved Tyrannosaurus rex found so far, came out of the ground near Faith, South Dakota, on August 12.",
+    "Roseanne Barr sang The Star-Spangled Banner badly enough on July 25 to start an argument about it. ABC put Madonna's banned Justify My Love video on Nightline on December 3 and interviewed her about the objections. Cop Rock, a police procedural with musical numbers running through its storylines, opened on ABC on September 26 and was cancelled after eleven episodes. Chris Farley, Chris Rock, Adam Sandler, Rob Schneider, David Spade, Tim Meadows and Julia Sweeney all joined Saturday Night Live on November 10. Mindy Mitola won $146,014 in cash and prizes on Wheel of Fortune over three days in September."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.german_reunification",
+    "world.gulf_war",
+    "world.mandela_released",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "tech.games",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George H. W. Bush (R)",
+      "detail": "Second year in office. Dan Quayle was Vice President, William Rehnquist Chief Justice, Tom Foley Speaker of the House and George J. Mitchell Senate majority leader, with the 101st Congress sitting through the year. Bush gave his first State of the Union address on January 31. He held a four-day summit with Mikhail Gorbachev in Washington from May 30, signed a treaty with him on June 1 to end chemical weapon production and begin destroying both stockpiles, and met him again in Helsinki on September 9 over the Persian Gulf. He posthumously awarded Jesse Owens the Congressional Gold Medal on March 28.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "pol.ada": {
+      "section": "politics",
+      "label": "Americans with Disabilities Act signed",
+      "value": "Bush signed the Act, which the US year page describes as designed to protect disabled Americans from discrimination",
+      "detail": "Both cached year pages carry the signing on the same day and in nearly the same words, and neither gives a vote count or names a sponsor.",
+      "date": "1990-07-26",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "pol.taxes": {
+      "section": "politics",
+      "label": "Bush abandons the no new taxes pledge",
+      "value": "He issued a statement accepting tax revenue increases as a necessity for reducing the budget deficit, going back on the pledge he had campaigned on in 1988",
+      "detail": "Budget talks collapsed far enough that the federal government temporarily halted all non-essential services from October 6 to 8. Bush signed the Omnibus Budget Reconciliation Act, which included tax increases, on November 5. The US year page marks June as the last month of the expansion that had run through the 1980s, at the time the second longest on record, says the country entered a recession in July, and puts unemployment at 6.3 percent in December, the highest since May 1987. It also dates the start of the Rhode Island banking crisis to November.",
+      "date": "1990-06-26",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "pol.souter": {
+      "section": "politics",
+      "label": "Souter joins the Supreme Court",
+      "value": "The Senate confirmed David Souter, who took his seat on October 9, replacing William J. Brennan Jr.",
+      "detail": "The two cached pages disagree on the confirmation date. The US year page gives October 2 for the Senate vote and October 9 for the seat, and the year page gives September 27 for the confirmation and no seating date, so both are stated here rather than reconciled. Brennan had resigned for health reasons on July 20. In United States v. Eichman on June 11 the Court struck down the federal flag protection law passed the previous year, and in Cruzan v. Director, Missouri Department of Health on June 25 it allowed a state to require clear evidence of a patient's wishes before life support is withdrawn.",
+      "date": "1990-10-02",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Congressional elections",
+      "value": "Democrats increased their majorities in both houses of Congress",
+      "detail": "The date satisfies the rule that a federal election falls on the Tuesday after the first Monday in November, which in this year is November 6. Sharon Pratt Kelly was elected Mayor of the District of Columbia on the same day, becoming the first black woman to head a major American city by the US year page's account, taking office the following January. The white supremacist David Duke had taken 44 percent of the vote in the Louisiana Senate race on October 6 and lost. Bush vetoed a civil rights bill on October 22.",
+      "date": "1990-11-06",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "pol.census": {
+      "section": "politics",
+      "label": "Census counts 248,709,873 residents",
+      "value": "The decennial count of the United States began, and both cached year pages give that figure for the resident population",
+      "detail": "Neither page breaks the number down or says when the count finished.",
+      "date": "1990-04-01",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "world.german_reunification": {
+      "section": "world",
+      "label": "East and West Germany reunify",
+      "value": "The two states merged into a single Germany",
+      "detail": "Gorbachev assured Helmut Kohl in Moscow on February 10 that Germans had the right to choose reunification, which the year page calls a major breakthrough with the alliance question still open. An agreement on a two-stage plan followed on February 13, East Germany held its first free elections on March 18, Lothar de Maiziere became prime minister on April 12 at the head of a grand coalition favouring reunification, and the two governments signed a treaty on May 18 to merge their economic and social systems. The two states announced on August 23 that they would unite on this date, and on September 12 they and the Four Powers signed the Treaty on the Final Settlement with Respect to Germany. Regional elections on October 14 replaced the 14 districts of the GDR with five states, and Kohl won the federal election of December 2, the first held since reunification.",
+      "date": "1990-10-03",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.gulf_war": {
+      "section": "world",
+      "label": "Iraq invades Kuwait",
+      "value": "Iraqi forces invaded, and Iraq announced its formal annexation of Kuwait on August 8",
+      "detail": "The United Nations Security Council ordered a global trade embargo against Iraq under Resolution 661 on August 6. Egypt, Syria and ten other Arab states voted on August 10 to send military forces to Saudi Arabia. Bush gave a nationally televised speech on September 11 and spent Thanksgiving with American troops in Saudi Arabia in November. On November 29 the Security Council passed Resolution 678, authorising military intervention if Iraq did not withdraw and free all foreign hostages by a deadline the US year page places in the following year, which is why no deadline date is given here. Saddam Hussein had received the emir of Kuwait for a diplomatic meeting at the Arab League summit on May 28.",
+      "date": "1990-08-02",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.mandela_released": {
+      "section": "world",
+      "label": "Nelson Mandela released",
+      "value": "He walked out of Victor Verster Prison near Cape Town after 27 years behind bars",
+      "detail": "F. W. de Klerk had announced the unbanning of the African National Congress and promised the release on February 2. The first talks between the South African government and the ANC ran from May 2 to 4, and talks on ending apartheid itself began on August 6. South Africa ended segregation of libraries, trains, buses, toilets, swimming pools and other public facilities on October 15. Mandela toured North America from June 17 to 30, visiting three Canadian and eight American cities, and Bush met de Klerk at the White House on September 24. Fighting between Xhosa and Zulu people broke out on August 12 and killed more than 500 people by the end of that month. Namibia became independent on March 21 after 75 years of South African rule.",
+      "date": "1990-02-11",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.soviet_monopoly": {
+      "section": "world",
+      "label": "Soviet Communist Party gives up its monopoly",
+      "value": "The Communist Party of the Soviet Union voted to end its monopoly of power, clearing the way for multiparty elections",
+      "detail": "Soviet troops occupied Baku under a state of emergency on January 20, after most of the remaining 50,000 Armenians had been driven out of the city between January 12 and 19. Lithuania declared independence on March 11. Estonia, after its own first free elections on March 18, declared on March 30 that Soviet rule had been illegal since 1940 and opened a transition period towards full independence. Latvia declared independence on May 4 and Armenia on August 24. Boris Yeltsin was elected the first ever elected president of the Russian republic on May 29. A law permitting religious freedom took effect on October 1, the Supreme Soviet approved a middle course of gradual market controls on October 19 and granted Gorbachev special powers on September 24, and Eduard Shevardnadze announced his resignation as foreign minister on December 20.",
+      "date": "1990-02-07",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.thatcher": {
+      "section": "world",
+      "label": "Thatcher resigns",
+      "value": "Margaret Thatcher announced on November 22 that she would not contest the second ballot of the Conservative Party leadership election, and resigned on November 28 after 11 years, replaced by John Major",
+      "detail": "The year page calls her the first female Prime Minister of the United Kingdom and gives her tenure as more than 11 years. The Social Democratic Party was dissolved on June 3 after two years of poor results, and the Archbishop of Canterbury, Robert Runcie, announced on March 25 that he intended to retire at the end of the year, with George Carey named as his successor on July 25.",
+      "date": "1990-11-28",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.yemen_unification": {
+      "section": "world",
+      "label": "North and South Yemen unite",
+      "value": "The leaders of the Yemen Arab Republic and the People's Democratic Republic of Yemen announced the unification of their countries as the Republic of Yemen",
+      "detail": "The year page lists this alongside German reunification among the important events of the year and carries nothing further about it.",
+      "date": "1990-05-22",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.iran_earthquake": {
+      "section": "world",
+      "label": "Manjil and Rudbar earthquake",
+      "value": "A magnitude 7.4 earthquake in northern Iran killed 35,000 to 50,000 people and injured 60,000 to 105,000",
+      "detail": "The year page gives a maximum Mercalli intensity of X, Extreme, and puts the toll in that range rather than at a single figure. Two more earthquakes killed on a large scale: the Luzon earthquake of July 16 killed more than 2,400 people in the Philippines, and a magnitude 7.0 shock in the Chinese province of Qinghai on April 26 left 126 dead.",
+      "date": "1990-06-21",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "world.mecca_stampede": {
+      "section": "world",
+      "label": "Stampede in a Mecca tunnel",
+      "value": "A stampede in a pedestrian tunnel leading to Mecca killed 1,426 people",
+      "detail": "The year page carries the toll and nothing else about the tunnel or the crowd.",
+      "date": "1990-07-02",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Ghost, $505,702,588, Paramount",
+        "Home Alone, $476,684,675, 20th Century Fox",
+        "Pretty Woman, $463,406,268, Touchstone",
+        "Dances With Wolves, $424,208,848, Orion",
+        "Total Recall, $261,317,921, Tri-Star"
+      ],
+      "detail": "Worldwide box-office gross rather than the North American total or distributor rentals. The table's column header reads Rank, Title, Distributor, Worldwide gross, its caption calls it the highest-grossing films of the year, and the sentence above it names the top ten films released this year by worldwide gross, so caption, header and text all agree. Back to the Future Part III was sixth at $244,527,583 for Universal, Die Hard 2 seventh at $240,031,094 for 20th Century Fox, Presumed Innocent eighth at $221,303,188 for Warner Bros., Teenage Mutant Ninja Turtles ninth at $202,084,756 for New Line and Kindergarten Cop tenth at $201,957,688 for Universal. The domestic figures are a different measurement and a much smaller one: the ceremony page puts Ghost at $213.5 million in United States box office receipts as of the nominations announcement, against the $505,702,588 worldwide figure above.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Dances With Wolves, produced by Jim Wilson and Kevin Costner",
+      "detail": "Awarded the following spring at the 63rd Academy Awards, held at the Shrine Auditorium in Los Angeles and hosted by Billy Crystal for the second consecutive year. Costner's film won seven awards from twelve nominations, the most of either kind, and he took Best Director for his directorial debut, which the ceremony page says made him the fifth person to do that and to be nominated for Best Actor and Best Director for the same film. Dick Tracy won three awards and Ghost two. Dick Tracy and The Godfather Part III tied for second in nominations with seven each. The other Best Picture nominees were Awakenings, Ghost, The Godfather Part III and Goodfellas. Gil Cates produced the ceremony around the theme 100 Years of Film, marking the centennial of Edison's kinetoscope and Eastman Kodak's celluloid film, and Michael Caine opened it live by satellite from the Salon Indien du Grand Cafe in Paris. The ABC telecast ran three hours and 30 minutes and drew 42.7 million viewers for a 28.4 percent Nielsen rating.",
+      "source": "https://en.wikipedia.org/wiki/63rd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Jeremy Irons, Reversal of Fortune",
+        "Best Actress, Kathy Bates, Misery",
+        "Best Supporting Actor, Joe Pesci, Goodfellas",
+        "Best Supporting Actress, Whoopi Goldberg, Ghost"
+      ],
+      "detail": "The ceremony page says Goldberg was the second African American woman to win an award, after Hattie McDaniel in the same category. Costner, Robert De Niro, Gerard Depardieu and Richard Harris were the other lead actor nominees, and Anjelica Huston, Julia Roberts, Meryl Streep and Joanne Woodward the other lead actresses. Bruce Joel Rubin took original screenplay for Ghost and Michael Blake adapted screenplay for Dances With Wolves, John Barry the original score and Stephen Sondheim the original song, Sooner or Later from Dick Tracy. The film page's awards table gives the Golden Globe for drama to Dances With Wolves and for comedy or musical to Green Card, and the BAFTA award for Best Film to Goodfellas with Best Director to Martin Scorsese. It also gives the BAFTA lead acting awards to Philippe Noiret for Cinema Paradiso and Jessica Tandy for Driving Miss Daisy. Goldberg won the supporting actress prize at all three ceremonies.",
+      "source": "https://en.wikipedia.org/wiki/63rd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Journey of Hope, Switzerland, in German, directed by Xavier Koller, winner of the Academy Award for Best Foreign Language Film",
+        "Cyrano de Bergerac, France, in French, directed by Jean-Paul Rappeneau",
+        "Ju Dou, China, in Mandarin Chinese, directed by Zhang Yimou and Yang Fengliang",
+        "The Nasty Girl, Germany, in German, directed by Michael Verhoeven",
+        "Open Doors, Italy, in Italian, directed by Gianni Amelio"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the ceremony page states each film's country, language and director. Depardieu was also nominated for Best Actor for Cyrano de Bergerac, and the film page's awards table gives it the Golden Globe for foreign language film and Cinema Paradiso the BAFTA in the same category. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/63rd_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and what they cost",
+      "value": [
+        "The Hunt for Red October, March 2, the first film in Tom Clancy's Jack Ryan series",
+        "Pretty Woman, March 23, which the film page says made Julia Roberts a worldwide star",
+        "Teenage Mutant Ninja Turtles, March 30, at the time the highest-grossing independent film in history",
+        "Back to the Future Part III, May 25, carrying a new Universal opening logo scored by James Horner, the studio's first logo change in 27 years",
+        "Dick Tracy, June 15, released after a marketing blitz",
+        "Ghost, July 13, which the film page calls the third highest-grossing film at the time",
+        "Dances With Wolves, November 9, Kevin Costner's directorial debut",
+        "Home Alone, November 16, twelve consecutive weeks at number one in the United States",
+        "The Rescuers Down Under, November 16, Walt Disney Feature Animation's 29th feature",
+        "The Godfather Part III, December 25"
+      ],
+      "detail": "Walt Disney Studios chairman Jeffrey Katzenberg wrote in a studio memo that Dick Tracy had cost about $100 million in total to produce, market and promote, and that the demands made on the studio's time, talent and treasury on reflection may not have been worth it. The film page carries four separate technique firsts for the year: motion capture for computer-generated characters in Total Recall on June 1, real-time digital puppetry to create a character in RoboCop 2 on June 22, the first digitally manipulated matte painting in Die Hard 2 on July 4, and The Rescuers Down Under as the first fully digital film. The US year page says The Rescuers Down Under was the first theatrically released Disney sequel and struggled because it opened the same day as Home Alone. Two ownership changes sit on other pages: the US year page dates the formation of Time Warner out of Time Inc. and Warner Communications to January 10, and the music page dates MCA's purchase of Geffen Records for over $550 million in stock to March 15, with David Geffen staying on to run it under an employment contract. Buchwald v. Paramount was decided this year on what writers of film treatments are owed.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, where the rating on the poster changed in the autumn. The Motion Picture Association of America dropped its X rating and put NC-17 in its place on September 26.",
+      "detail": "The average ticket cost $4.22. None of the cached pages says anything about videocassette rental, home video sales or films shown on television, so this fact claims nothing about any of them. The one thing the pages carry about a performance reaching a home screen is not a film: the music page says the last date of Madonna's Blond Ambition Tour, on August 5 in Nice, was broadcast live on HBO in the United States and afterwards released only on laser disc.",
+      "date": "1990-09-26",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.22",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1990",
+      "value": [
+        "Cheers, NBC, 21.3 rating",
+        "60 Minutes, CBS, 20.6",
+        "Roseanne, ABC, 18.1",
+        "A Different World, NBC, 17.5",
+        "The Cosby Show, NBC, 17.1"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Murphy Brown was sixth on 16.9 for CBS, Empty Nest and America's Funniest Home Videos tied for seventh on 16.7, Monday Night Football was ninth on 16.6 for ABC, and The Golden Girls and Designing Women tied for tenth on 16.5. America's Funniest People, which had premiered in May, came thirteenth on 16.3.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1990%E2%80%9391"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "In Living Color, Fox, April 15",
+        "Wings, NBC, April 19",
+        "Blossom, NBC, July 5",
+        "Dream On, HBO, July 8",
+        "Northern Exposure, CBS, July 12",
+        "Parker Lewis Can't Lose, Fox, September 2",
+        "The Fresh Prince of Bel-Air, NBC, September 10",
+        "Law & Order, NBC, September 13",
+        "Captain Planet and the Planeteers, TBS, September 15",
+        "Evening Shade, CBS, September 21",
+        "Get a Life, Fox, September 23",
+        "Beverly Hills, 90210, Fox, October 4"
+      ],
+      "detail": "The television page's premiere table gives each date and channel. Fox Kids began as a children's programming block on September 8 and The Disney Afternoon as a syndicated one on September 10. The Law & Order premiere was Prescription for Death, and the television page says the actual pilot, filmed two years earlier, ended up airing as the sixth episode. The first regular episode of The Simpsons, Bart the Genius, went out on Fox on January 14, having been a Christmas special the previous month. Deborah Norville replaced Jane Pauley as co-anchor of NBC's Today on January 8, MovieTime was rebranded as E! on July 30, and the CBN Family Channel renamed itself The Family Channel on September 15.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_American_television"
+    },
+    "tv.twin_peaks": {
+      "section": "tv",
+      "label": "Twin Peaks premieres",
+      "value": "ABC broadcast the two-hour pilot, which the television page calls the highest-rated television movie of the season then ending, with a 21.7 rating and 34.6 million viewers",
+      "detail": "In Los Angeles it was the seventh most-watched show of the week on 29 percent of viewers, behind Married... with Children on 34 percent, by the Los Angeles Times report the television page cites.",
+      "date": "1990-04-08",
+      "source": "https://en.wikipedia.org/wiki/1990_in_American_television"
+    },
+    "tv.civil_war": {
+      "section": "tv",
+      "label": "Ken Burns's The Civil War on PBS",
+      "value": "The miniseries ran from September 23 to 27, drawing more than 39 million viewers to at least one episode and averaging more than 14 million each evening, which the television page calls the most-watched program ever to air on PBS",
+      "detail": "The television page gives no episode-by-episode figures and does not say how many parts the run was cut into.",
+      "date": "1990-09-23",
+      "source": "https://en.wikipedia.org/wiki/1990_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Miami Vice, January 25, having started in 1984",
+        "Mama's Family, March 12, having started in 1983",
+        "ALF, March 24, having started in 1986",
+        "Falcon Crest, May 17, having started in 1981",
+        "Newhart, May 21, having started in 1982",
+        "You Can't Do That on Television, May 25, having started in 1981",
+        "The Tracey Ullman Show, May 26, having started in 1987",
+        "NBA on CBS, June 14, having started in 1973",
+        "Pinwheel, July 6, having started in 1977",
+        "Mr. Belvedere, July 8, having started in 1985"
+      ],
+      "detail": "The television page's endings table gives each date and start year. The Newhart finale revealed the whole series as a dream of Bob Newhart's character from The Bob Newhart Show. CBS ended a 17-year run with the NBA on June 14, using Marvin Gaye's rendition of The Star-Spangled Banner in its goodbye montage, and the league moved to NBC, where NBA on NBC debuted on November 3 with the Los Angeles Lakers at the San Antonio Spurs. CBS became Major League Baseball's network partner on April 14 under a four-year deal, succeeding both ABC and NBC, and ESPN's Sunday Night Baseball started the next day. Pinwheel was the first programme ever shown on Nickelodeon. CBS began broadcasting its daytime lineup in stereo on May 25, the last of the three major networks to do so.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Hold On, Wilson Phillips",
+        "It Must Have Been Love, Roxette",
+        "Nothing Compares 2 U, Sinead O'Connor",
+        "Poison, Bell Biv DeVoe",
+        "Vogue, Madonna"
+      ],
+      "detail": "From the year in music edition of Billboard dated December 22. Janet Jackson had five songs on the chart, more than anyone, Phil Collins four, and Wilson Phillips two, with Release Me at 19. Mariah Carey was sixth with Vision of Love, which she first performed live on The Arsenio Hall Show on June 1, eleven days before her debut album came out. Bell Biv DeVoe also took eleventh with Do Me!. O'Connor's single had been released on January 8 and was written by Prince.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1990"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On cassette, at the top of the format's sales in the United States, and on a cable channel that had started unplugging its acts. The music page opens by saying American cassette sales peaked this year and declined every year afterwards, and MTV first broadcast Unplugged on January 21 with the British band Squeeze.",
+      "detail": "No cached page gives a cassette sales figure, a compact disc figure or a player price for the year, so none is stated here, and the peak claim is the music page's own retrospective judgement rather than something anyone could have known at the time. Two other playback items the pages carry: Codemasters revealed an audio CD player compatible with the Nintendo Entertainment System at the January Consumer Electronics Show, to be manufactured by Samsung and distributed by Camerica in the summer, and Madonna's last Blond Ambition date was released on laser disc only.",
+      "date": "1990-01-21",
+      "source": "https://en.wikipedia.org/wiki/1990_in_music"
+    },
+    "music.milli_vanilli": {
+      "section": "music",
+      "label": "Milli Vanilli were not the singers",
+      "value": "The producer Frank Farian admitted that Fab Morvan and Rob Pilatus had lip-synched all of their songs, including Girl You Know It's True, and that the tracks had been composed and recorded by an ensemble of much older artists",
+      "detail": "The duo had won Best New Artist at the 32nd Grammy Awards in Los Angeles on February 21, hosted by Garry Shandling, and the award was voided in the fallout, with the music page saying accounts vary over whether it was revoked or returned. That ceremony gave Album of the Year to Bonnie Raitt's Nick of Time and both Record and Song of the Year to Bette Midler's cover of Wind Beneath My Wings, all for the previous year's recordings, which is why the ceremony has no fact of its own here.",
+      "date": "1990-11-27",
+      "source": "https://en.wikipedia.org/wiki/1990_in_music"
+    },
+    "music.berlin_wall_concert": {
+      "section": "music",
+      "label": "The Wall staged in Berlin",
+      "value": "Roger Waters and guests performed Pink Floyd's The Wall in Berlin to mark the fall of the Berlin Wall eight months earlier, with Scorpions, Cyndi Lauper, Thomas Dolby, Sinead O'Connor, The Band and Bryan Adams among the performers",
+      "detail": "Other large gatherings the music page dates: a tribute concert for Mandela at Wembley Stadium on April 16, broadcast to 61 countries, with Anita Baker, Tracy Chapman, Peter Gabriel, The Neville Brothers and Neil Young performing and a pre-taped 45-minute speech from Mandela himself; the first Three Tenors concert at the Baths of Caracalla in Rome on July 7; Jean Michel Jarre's Paris la Defense concert on July 14, which drew 2.5 million spectators; and Knebworth on June 30, headlined by Pink Floyd, Genesis, Robert Plant, Elton John, Dire Straits, Status Quo and Eric Clapton, all past winners of the Silver Clef Award.",
+      "date": "1990-07-21",
+      "source": "https://en.wikipedia.org/wiki/1990_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Toto Cutugno won the 35th contest for Italy with Insieme: 1992, held at the Vatroslav Lisinski Concert Hall in Zagreb, the country's first victory since 1964",
+      "detail": "The music page says Cutugno, at 46, became the oldest winner of the contest to that point. The 19th OTI Festival, held at the Circus Maximus of Caesars Palace in Las Vegas on December 1, was won by Un bolero, written by Francisco Curiel and Pedro Alberto Cardenas and performed by Carlos Cuevas for Mexico.",
+      "date": "1990-05-05",
+      "source": "https://en.wikipedia.org/wiki/1990_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Super Mario Bros. 3, Nintendo, released for the NES in North America on February 12",
+        "Neo Geo Advanced Entertainment System, SNK, released in Japan on April 26",
+        "Game Boy, released across Europe on September 28",
+        "Game Gear, Sega, released in Japan on October 6",
+        "Super Famicom, Nintendo's 16-bit console, released in Japan on November 21 with Super Mario World and F-Zero as launch titles",
+        "PC Engine GT, NEC, released in Japan on December 1 and in North America as the TurboExpress that month"
+      ],
+      "detail": "The Game Boy was the best-selling system of the year, at 10,000,000 worldwide, 3,100,000 in Japan and 5,000,000 in the United States, ahead of the Nintendo Entertainment System on 8,640,000 or more. Super Mario Bros. 3 was the best-selling home video game in the United States, and the games page puts its eventual total at 17.28 million copies. The highest-grossing arcade games were Final Fight in Japan and Teenage Mutant Ninja Turtles in the United States. Super Mario World introduced Yoshi and F-Zero introduced Captain Falcon. Other releases: Origin's Ultima VI on June 1 and the first Wing Commander on September 26, LucasArts' The Secret of Monkey Island on October 15, Sierra's King's Quest V on November 9, and Commander Keen as shareware on December 14, which the page calls the first major platformer on a personal computer. The Nintendo World Championships began on March 8, Amstrad halted production of the ZX Spectrum after eight years of dominating the British home computer market, and David Pomije opened the first FuncoLand in New Hope, Minnesota, in August.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_video_games"
+    },
+    "tech.windows_3": {
+      "section": "tech",
+      "label": "Windows 3.0",
+      "value": "Microsoft released it",
+      "detail": "The US year page carries the release and nothing further, giving no price, no sales figure and no hardware requirement.",
+      "date": "1990-05-22",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "tech.hubble": {
+      "section": "tech",
+      "label": "Hubble Space Telescope launched",
+      "value": "Discovery lifted off from Launch Complex 39B at the Kennedy Space Center on mission STS-31 with the telescope aboard, and the crew deployed it into low Earth orbit the next day",
+      "detail": "The two cached pages disagree, and one contradicts itself. The year page's event line gives April 24 for the launch while the US year page gives April 20, and the year page's own photograph caption says April 24. The dedicated article was pulled as raw wikitext and is cited here: it dates the launch to April 24 at 12:33:51 UTC, 8:33:51 in the morning Eastern Daylight Time, and the deployment to April 25, with landing on April 29. Loren Shriver, Charles Bolden, Bruce McCandless II, Steven Hawley and Kathryn D. Sullivan were the crew of five, on the 35th Space Shuttle mission and Discovery's tenth flight. The US year page's April 20 date is wrong by four days.",
+      "date": "1990-04-24",
+      "source": "https://en.wikipedia.org/wiki/STS-31"
+    },
+    "tech.pale_blue_dot": {
+      "section": "tech",
+      "label": "Pale Blue Dot",
+      "value": "Voyager 1 sent back a photograph of Earth after completing its primary mission",
+      "detail": "The two cached pages give different distances for the same photograph. The year page says around 5.6 billion kilometres, or 3.5 billion miles, and the US year page says about 6 billion kilometres, or 3.7 billion miles, so both are recorded rather than one chosen. Magellan entered orbit around Venus on August 10, and the US year page adds that Discovery launched the Ulysses probe on mission STS-41 on October 6.",
+      "date": "1990-02-14",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "tech.web_server": {
+      "section": "tech",
+      "label": "First web server and first web page, at CERN",
+      "value": "Tim Berners-Lee began the work in October, 19 months after his outline of the previous year, published a more formal proposal on November 12, and completed the test of the first page on December 20",
+      "detail": "This was one laboratory's project and no cached page describes anyone outside CERN using it this year. The year page says it was released outside CERN the following year and puts the first known web page at November 13. Nothing here claims a reader could have looked anything up.",
+      "date": "1990-12-20",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "tech.digital_camera": {
+      "section": "tech",
+      "label": "First portable digital camera on sale in the United States",
+      "value": "The earliest known one shipped, by the year page's account",
+      "detail": "The year page dates this to the month rather than the day and names neither the manufacturer nor the model, so neither is given here. Its other hardware line for the year is the first completely low-floor tram, introduced in Bremen on February 9. The US year page adds that scientists at Bell Labs in Holmdel, New Jersey announced a digital optical processor on January 29.",
+      "date": "1990-11",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.16 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.80 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two things ended and one started. Germany stopped being two countries and the Soviet party stopped being the only party, both without a shot fired, and then troops went to Saudi Arabia and stayed there. Juries in Cincinnati and Fort Lauderdale spent the autumn deciding what a photograph and a record were allowed to be."
+    },
+    "culture.obscenity_trials": {
+      "section": "culture",
+      "label": "Obscenity in court",
+      "value": [
+        "April 6, Robert Mapplethorpe's The Perfect Moment opened at the Cincinnati Contemporary Art Center over accusations of indecency from Citizens for Community Values",
+        "October 3, a Fort Lauderdale jury convicted a record store owner of obscenity for selling a 2 Live Crew album",
+        "October 5, a Cincinnati jury found the art museum and its art director innocent of breaking obscenity laws by showing the Mapplethorpe photographs",
+        "October 20, a second Florida jury found 2 Live Crew not guilty of obscenity over a performance in a Hollywood, Florida nightclub"
+      ],
+      "detail": "The US year page carries all four and dates the performance behind the second acquittal only to June. The music page gives June 10 for it and says the arrests followed the show. The Motion Picture Association of America's replacement of the X rating with NC-17 in September sits in the film section.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Octavio Paz",
+        "Peace, Mikhail Gorbachev",
+        "Physics, Jerome Isaac Friedman, Henry Way Kendall and Richard Edward Taylor",
+        "Chemistry, Elias James Corey",
+        "Medicine, Joseph Murray and E. Donnall Thomas",
+        "Economics, Harry Markowitz, Merton Miller and William F. Sharpe"
+      ],
+      "detail": "The year page gives no announcement dates in its own text. Its citation for the Peace Prize is a Nobel Foundation press release dated October 15. Fields Medals went to Vladimir Drinfeld, Vaughan Jones, Shigefumi Mori and Edward Witten.",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cincinnati Reds beat the Oakland Athletics four games to none",
+      "detail": "The sports page records the sweep without a date, the US year page dates the clinching win to October 20, and the television page says CBS carried the series from October 20 to 26 in the first of four consecutive years and calls it Cincinnati's first world title since 1976. Nolan Ryan of the Texas Rangers pitched his sixth career no-hitter, against Oakland, on June 11. The owners had announced a lockout over a salary cap on February 15, and players and owners agreed a four-year contract on March 18 that ended it. Pete Rose was sentenced to five months in prison on July 19 after pleading guilty to filing false tax returns. Ira Smith of the Maryland Eastern Shore Hawks hit .519 and became the first player in NCAA history to win consecutive batting titles.",
+      "date": "1990-10-20",
+      "source": "https://en.wikipedia.org/wiki/1990_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXIV",
+      "value": "The San Francisco 49ers beat the Denver Broncos 55 to 10 at the Superdome in front of 72,919, with the quarterback Joe Montana named most valuable player",
+      "detail": "The US year page gives the date and the result without the score, and the sports page gives the score, the venue, the attendance and the award. Miami beat Alabama 33 to 25 in the Sugar Bowl to take the college national championship for the previous season. Derrick Thomas of the Kansas City Chiefs recorded seven sacks against the Seattle Seahawks on November 11. Ty Detmer of BYU won the Heisman Trophy on December 1. Montana was Associated Press Male Athlete of the Year and Sports Illustrated Sportsman of the Year. The National Football League fined the New England Patriots and three of their players on November 27 over the sexual harassment of the reporter Lisa Olson.",
+      "date": "1990-01-28",
+      "source": "https://en.wikipedia.org/wiki/1990_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "West Germany beat the defending champion Argentina 1 to 0 in the final in Rome",
+      "detail": "The tournament opened in Italy on June 8, which the year page calls the first broadcast of digital high-definition television in history. UEFA lifted its five-year ban on English clubs in continental competition on July 10, keeping Liverpool out for three more years, and the Dinamo and Red Star riot took place at Stadion Maksimir in Zagreb on May 13.",
+      "date": "1990-07-08",
+      "source": "https://en.wikipedia.org/wiki/1990_in_sports"
+    },
+    "sports.tyson_douglas": {
+      "section": "sports",
+      "label": "Buster Douglas knocks out Mike Tyson",
+      "value": "Douglas, a 42 to 1 underdog by the year page's account, knocked Tyson out in the tenth round to take the unified world heavyweight title",
+      "detail": "The sports page calls it what many consider boxing's biggest upset and dates it the same way, and it also carries Julio Cesar Chavez beating Meldrick Taylor on March 17 to unify the world junior welterweight title. The US year page is the one that carries the end of the reign: Evander Holyfield took the title from Douglas on October 25.",
+      "date": "1990-02-11",
+      "source": "https://en.wikipedia.org/wiki/1990"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Edmonton Oilers over the Boston Bruins, four games to one",
+        "NBA Finals, Detroit Pistons over the Portland Trail Blazers, four games to one",
+        "NCAA basketball, UNLV",
+        "Grey Cup, Winnipeg Blue Bombers 50, Edmonton Eskimos 11",
+        "World Snooker Championship, Stephen Hendry over Jimmy White, 18 to 12, his first world title",
+        "AFL premiership, Collingwood 13.11 (89), Essendon 5.11 (41), the 94th",
+        "Five Nations Championship, the 96th, won by Scotland with a Grand Slam"
+      ],
+      "detail": "The Victorian Football League was renamed the Australian Football League this year, and Tony Liberatore of Footscray took the Brownlow Medal. Nick Faldo won the Masters and the British Open, Hale Irwin the US Open and Wayne Grady the PGA Championship, with Greg Norman leading the money list at $1,165,477 and the first Solheim Cup going to the United States by 11.5 to 4.5. Ivan Lendl won the Australian Open, Andres Gomez the French, Stefan Edberg Wimbledon and Pete Sampras the US Open, which the US year page says he took at 19 as the youngest man ever to do it. Steffi Graf won the Australian Open, Monica Seles the French, Martina Navratilova Wimbledon and Gabriela Sabatini the US Open. Beth Daniel was Associated Press Female Athlete of the Year. Greg LeMond won the Tour de France and Gianni Bugno the Giro d'Italia. Norton's Coin won the Cheltenham Gold Cup, Mr Frisk the Grand National, and Unbridled both the Kentucky Derby and the Breeders' Cup Classic. Yugoslavia won the FIBA World Championship, Susan Butcher the Iditarod, and Wayne Gretzky the Art Ross Trophy with Mark Messier taking the Hart. Hank Gathers died on March 4 after collapsing during a West Coast Conference tournament semifinal, and the sports page names no club for him.",
+      "source": "https://en.wikipedia.org/wiki/1990_in_sports"
+    },
+    "deaths.henson": {
+      "section": "deaths",
+      "label": "Jim Henson",
+      "value": "Died May 16. Born 1936",
+      "detail": "Puppeteer and filmmaker, creator of the Muppets. The US year page gives his age as 53 and the cause as toxic shock syndrome, and the television page says his last public appearance was as a guest on The Arsenio Hall Show on May 4, less than two weeks earlier.",
+      "date": "1990-05-16",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "deaths.garbo": {
+      "section": "deaths",
+      "label": "Greta Garbo",
+      "value": "Died April 15. Born 1905",
+      "detail": "Swedish-born screen actress.",
+      "date": "1990-04-15",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "deaths.davis": {
+      "section": "deaths",
+      "label": "Sammy Davis Jr.",
+      "value": "Died May 16. Born 1925",
+      "detail": "Actor, dancer and singer. The television page says his final public appearance was taped on January 19 for America's Dance Honors, which ABC broadcast on July 5 with a special introduction by Liza Minnelli added after his death, and that his last acting performance came in December in the television film The Kid Who Loved Christmas.",
+      "date": "1990-05-16",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "deaths.bernstein": {
+      "section": "deaths",
+      "label": "Leonard Bernstein",
+      "value": "Died October 14. Born 1918",
+      "detail": "Composer and conductor. He conducted his final concert at Tanglewood on August 19, where the music page says a coughing fit nearly stopped the performance, and announced his retirement from the podium on October 9, after 47 years, five days before he died.",
+      "date": "1990-10-14",
+      "source": "https://en.wikipedia.org/wiki/1990_in_the_United_States"
+    },
+    "deaths.vaughan": {
+      "section": "deaths",
+      "label": "Stevie Ray Vaughan",
+      "value": "Died August 27. Born 1954",
+      "detail": "Guitarist, killed in a helicopter crash after a concert at the Alpine Valley Music Theatre in East Troy, Wisconsin. The music page gives his age as 35.",
+      "date": "1990-08-27",
+      "source": "https://en.wikipedia.org/wiki/1990_in_music"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1990. Box office. figures_basis is gross and the territory is worldwide, checked with bo.mjs and then read against the page rather than assumed from the era. The table's caption reads Highest-grossing films of 1990, its column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it names the top ten films released in 1990 by worldwide gross, so caption, header and lead sentence all agree and there is no rentals gloss to write. film.gross names worldwide in its label and its detail, and the detail also carries one domestic figure from the ceremony page, Ghost at $213.5 million in the United States against $505,702,588 worldwide, so the size of the difference is visible on the page rather than left for a reader to guess. Date checks. The Hubble launch had a checkable constraint and failed it on one page, so https://en.wikipedia.org/wiki/STS-31 was pulled as raw wikitext and is the only source in this file from outside the cache. It gives April 24 at 12:33:51 UTC for the launch, April 25 for the deployment and April 29 for the landing, which matches the year page's event line and its photograph caption and contradicts the US year page's April 20. tech.hubble cites the dedicated article, names the disagreement, and says outright which page is wrong. The congressional elections fall on the Tuesday after the first Monday in November, which in 1990 is November 6, and both cached pages give that day, so pol.midterms states the constraint it satisfies. The Souter confirmation is the other disagreement: October 2 on the US year page with the seat taken October 9, September 27 on the year page with no seating date. pol.souter carries both and reconciles neither. The Michael Milken plea disagrees twice, April 14 and $500,000,000 on the year page against April 24 and $600 million on the US year page, so it is out of the facts entirely and out of the texture, which is why the November 21 sentence of ten years is not on the page either. The Pale Blue Dot distance disagrees, around 5.6 billion kilometres on the year page against about 6 billion on the US year page, and tech.pale_blue_dot records both. Awards ceremonies that fall in the following year. The 63rd Academy Awards honouring this year of film were held on a date in the following year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a token later than 1990. The 62nd Academy Awards of March 26, hosted by Billy Crystal at the Dorothy Chandler Pavilion, are left out because they honoured the previous year of film and would put a second Best Picture on the page. The 32nd Grammy Awards of February 21 are left out on the same ground and appear only inside music.milli_vanilli's detail, where the Best New Artist award is the thing being voided later in the same year. The Golden Globe and BAFTA ceremony dates on the film page's awards table both fall in the following year, so film.acting_awards and film.world_cinema name those winners without dating the ceremonies. Section windows. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that. tech.internet does not open until 1993, so nothing carries a tech.internet id. The CERN work sits under tech.web_server, a plain tech id, and the fact says outright that it was one laboratory's project, that the year page dates its release outside CERN to the following year, and that nothing here claims a reader could have looked anything up. The year page's other Internet material is left out entirely rather than dressed in an ungated id: PSINet and EUnet beginning to sell access to commercial users in January, RELCOM's creation in the Soviet Union on August 1 and the first Soviet connection later that month, the decommissioning of ARPANET, the Archie search engine of September 10, and the TAT-8 transatlantic cable failure of October 30 that slowed traffic between the United States and Europe. All six are exactly what the 1993 gate covers. The Nielsen ranking covers a season that began in the autumn of 1990 and ran into the following spring, which tv.top_shows states without naming a second year. Dropped over the anachronism check. Toto Cutugno's winning Eurovision song is titled with a four-digit number later than this page's year, so music.eurovision names the singer, the country, the contest number and the venue and leaves the title out. That omission is stated in the fact's detail rather than only here, which is a judgement call: a reader who searches for the winning song will find it, and a bare unexplained gap in a list of winners reads as an error. If the title is added to src/data/name_years.json the sentence comes out. The International Olympic Committee's award of the 1996 Summer Olympics to Atlanta on September 18 is dropped for the same reason and has no equivalent workaround, since the year is the whole content of the fact. Nothing else in this file needed an allowlist entry and that file was not touched. Four candidates were checked and all are safe without one: Beverly Hills, 90210 in tv.premieres, because 90210 is five digits and the check matches only four; $146,014 in the texture and $1,165,477 in sports.champions, because a comma breaks the four-digit run; and Amstrad's GX4000, which is out of the file for room rather than for the number and would not have matched anyway, since 4000 is above 2099 and the preceding letter breaks the word boundary. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. The cassette peak in music.listening_format is not general knowledge, it is the music page's opening sentence, but it is a retrospective judgement that nobody in 1990 could have made, and the fact says so. Month-only or undated facts. tech.digital_camera carries 1990-11 because the year page dates the shipment to November and no further, and it names neither manufacturer nor model for the same reason. The list facts and the two annual series figures carry no date at all. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: film.gross cites the film page and takes the domestic Ghost figure from the ceremony page; film.releases cites the film page and takes the Rescuers Down Under sequel and release-clash lines and the Time Warner merger from the US year page and the MCA purchase of Geffen Records from the music page; film.how_people_watched cites the US year page for the NC-17 change, takes the ticket price from the series, and takes the Blond Ambition laser disc line from the music page; tv.top_shows cites the ratings page; tv.endings cites the television page for the endings table and the network sports moves; music.hot100_year_end cites the chart page for the ranking and the per-artist counts and takes the January 8 release of Nothing Compares 2 U, its authorship by Prince, Mariah Carey's first live television performance of Vision of Love on June 1 and her debut album of June 12 from the music page; music.listening_format cites the music page and takes the Codemasters CD player from the video games page; sports.champions cites the sports page for every championship and money list and takes Sampras's age from the US year page; sports.world_series cites the sports page for the sweep and the Ryan no-hitter and takes the October 20 clinching date and the Pete Rose sentence from the US year page and the CBS coverage span and the 1976 comparison from the television page; sports.super_bowl cites the sports page for the score, venue, attendance and award and takes the date from the US year page; sports.tyson_douglas cites the year page for the odds and the round and takes the biggest-upset line and the Chavez fight from the sports page; deaths.henson, deaths.davis and deaths.bernstein cite the US year page for the dates and birth years and take the last-appearance detail from the television page and the music page. Names and titles are written in ASCII per the corpus convention, so Sinead O'Connor, Lothar de Maiziere, Konstantin Pats, Gerard Depardieu, Andres Gomez, Julio Cesar Chavez, Salon Indien du Grand Cafe and Pedro Alberto Cardenas lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. Deaths that would have earned a place with more room: Ava Gardner on January 25, Barbara Stanwyck on January 20, Rex Harrison on June 2, Aaron Copland on December 2, Keith Haring on February 16, Ryan White on April 8 whose death Elton John pre-empted by dedicating Candle in the Wind to him at Farm Aid IV the day before, Robert Noyce on June 3, Sarah Vaughan on April 3, Paulette Goddard on April 23, Dexter Gordon on April 25, Halston on March 26, Pearl Bailey on August 17, Irene Dunne on September 4, Art Blakey on October 16, Joel McCrea on October 20, William S. Paley on October 26, Xavier Cugat on October 27, Mary Martin on November 3, Eve Arden on November 12, B. F. Skinner on August 18, Curtis LeMay on October 1, Malcolm Forbes on February 24, Del Shannon on February 8, Martin Ritt on December 8, Alice Marble on December 13, Armand Hammer on December 10, Ralph Abernathy on April 17, Viktor Tsoi on August 15 and Andrew Wood on March 19. Dropped for lack of a source that says enough, or for room. The Marion Barry arrest of January 18 in an FBI sting, which the year page says was caught on videotape. The McMartin preschool acquittals of January 18, which the US year page calls the end of the longest criminal trial in the country's history. The Avianca Flight 52 crash at Cove Neck on January 25. The Drexel Burnham Lambert bankruptcy of February 13. The Exxon indictment on five criminal counts of February 27 and Joseph Hazelwood's misdemeanour conviction of March 22. The Steve Jackson Games raid by the Secret Service on March 1. The Happy Land arson fire in New York City on March 25. The John Poindexter conviction of April 7 and the appeals court reversal of three Oliver North convictions on July 20. The MS Scandinavian Star ferry fire of April 7, which killed 158. The Lower Ohio Valley tornado outbreak of June 2 and the Plainfield F5 of August 28, which killed 29. The Gainesville murders of late August and the James Edward Pough shooting of June 18. The Rwandan Patriotic Front invasion of October 1. The Meir Kahane shooting of November 5. The Andrei Chikatilo arrest of November 20. The John Gotti arrest of December 11 and the Interstate 75 fog disaster of the same day. The Jack Kevorkian charges dismissed on December 13. The Kasparov and Karpov world championship match of December 30, which is in the texture instead. The Clean Air Act, passed by Congress on October 27 and signed on November 15, dropped so politics stays at six facts. A Chorus Line closing on April 28 after 6,137 performances. The Universal Studios Florida and Nickelodeon Studios openings of June 7. The first McDonald's in Moscow on January 31, the first Pizza Hut in the Soviet Union on September 10 and the first McDonald's in mainland China at Shenzhen on October 8. Washington National Cathedral finished on September 29 after 83 years. The United Airlines order of 128 Boeing aircraft on October 15, at $22 billion the largest in aviation history to that point. The Messeturm in Frankfurt becoming the tallest building in Europe in October, whose year page entry names the year it was surpassed and so could not be quoted in full. Fact and section counts. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for: politics 6, world 8, film 7, tv 5, music 5, tech 6, prices 2, culture 3, sports 5, deaths 5. World runs to 8 against the roughly 7 the brief suggests, which is what 1989 already does, because the year carries German reunification, the Iraqi invasion of Kuwait, Mandela's release, the end of the Soviet party's monopoly, Thatcher's resignation, Yemeni unification and two disasters that killed tens of thousands each, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. Culture runs to 3 because the van Gogh record sale and the Isabella Stewart Gardner theft are in the texture instead, where they sit next to each other as two facts about what a painting was worth in 1990. Review pass added \"Insieme: 1992\" to src/data/name_years.json and restored the song title to music.eurovision, removing the sentence that explained the build to a reader. tech.web_server now resolves through a tech.web_origins window running 1989 to 1992 rather than falling through to the ungated tech section default, which is the hole SPEC.md warns about; that window covers the web being built and closes where tech.internet opens in 1993."
+}

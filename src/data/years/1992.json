@@ -1,0 +1,513 @@
+{
+  "year": 1992,
+  "tier": "broadcast",
+  "headline": "Sarajevo came under siege, Los Angeles rioted after the Rodney King verdict, and Clinton beat Bush in November",
+  "texture": [
+    "Bosnian Serbs declared their own republic on January 9, and Slovenia and Croatia won recognition from some Western states six days later. The first victims of the Bosnian War were a bridegroom's father and an Orthodox priest, shot at a Sarajevo wedding on March 1. Around a hundred Croat and Bosniak civilians were blown up crossing the Sava bridge at Brcko on April 30, and United Nations peacekeepers withdrew from Sarajevo in the middle of May. The Czechoslovak Federal Assembly voted on November 25 to split the country in two, four months after Vaclav Havel resigned as president.",
+    "An Indianapolis jury convicted Mike Tyson of rape on February 10, and a Milwaukee court sentenced Jeffrey Dahmer to life a week later. John Gotti was convicted on April 2 of the murder of Paul Castellano and sentenced to life on June 23. The Chicago flood on April 13 did approximately $2 billion of damage to the city. A federal marshal and Randy Weaver's wife Vicki were killed at Ruby Ridge, Idaho on August 21 and 22. Hurricane Iniki crossed Kauai and Oahu on September 11, and the Landers earthquake shook the Mojave Desert on June 28.",
+    "The Mall of America opened at Bloomington, Minnesota on August 11 across 78 acres. A 13-kilogram meteorite landed in the Knapp family's driveway at Peekskill on October 9 and destroyed their Chevrolet Malibu. Sinead O'Connor tore up a picture of Pope John Paul II on Saturday Night Live on October 3, and was booed at a Bob Dylan tribute concert at Madison Square Garden thirteen days later. Factory Records went bankrupt on November 22, after Happy Mondays spent most of the label's remaining money recording Yes Please!",
+    "Guns N' Roses put November Rain into the American top 20 on July 11 at eight minutes and 57 seconds, on a video budget over $1.5 million. Megan Jasper of Sub Pop tricked The New York Times into printing invented Seattle grunge slang on November 15. Kurt Cobain married Courtney Love on February 24, and their daughter Frances Bean was born on August 18. Frank Zappa, ill with prostate cancer, conducted the Ensemble Modern at the Frankfurt Festival on September 17 and got a twenty-minute ovation."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.la_riots",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "tech.games",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George H. W. Bush (R)",
+      "detail": "Fourth and final year of his term, with Dan Quayle as Vice President. He became the first US president to address the Australian parliament on January 1, was televised falling violently ill at a state dinner in Japan on January 8, and gave his last State of the Union address on January 28. He beat Pat Buchanan in the New Hampshire primary on February 18 and was renominated with Quayle at the Republican convention in Houston on August 20, where Buchanan gave a speech referring to a religious war in the country. Lawrence Eagleburger was sworn in as Secretary of State on December 8, succeeding James Baker.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Clinton wins the presidential election",
+      "value": "Governor Bill Clinton of Arkansas defeated the incumbent president George H. W. Bush and the independent candidate Ross Perot",
+      "detail": "The date satisfies the rule that a US federal election falls on the Tuesday after the first Monday in November, since November 2 was the first Monday and November 3 the Tuesday after it. Both cached year pages give November 3 and neither gives a count, so this fact cites the dedicated article, pulled as raw wikitext and the only source in this file from outside the cache. It gives Clinton 370 electoral votes, 44,909,889 votes and 43.0 percent across 32 states and the District of Columbia, Bush 168 electoral votes, 39,104,550 votes and 37.5 percent across 18 states, and Perot no electoral votes, 19,743,821 votes and 18.9 percent, on turnout of 58.1 percent. Clinton accepted the nomination at the Democratic convention on July 16, having announced Al Gore as his running mate on July 9. Bush, Clinton and Perot met in the first of three televised debates on October 11, hosted by Jim Lehrer, and Bush was criticised for checking his watch on camera during the second on October 15, hosted by Carole Simpson, the first woman of colour to do so. The third was held at Michigan State University on October 19.",
+      "date": "1992-11-03",
+      "source": "https://en.wikipedia.org/wiki/1992_United_States_presidential_election"
+    },
+    "pol.perot": {
+      "section": "politics",
+      "label": "Perot says he will run",
+      "value": "The Texas billionaire announced on CNN's Larry King Live that he would run for president as an independent if volunteers put him on the ballot in all 50 states",
+      "detail": "He acquired blocks of television time for the campaign from November 1. His running mate James Stockdale took part in the vice presidential debate at Georgia Tech on October 13, moderated by Hal Bruno of ABC News.",
+      "date": "1992-02-22",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "pol.amendment": {
+      "section": "politics",
+      "label": "Twenty-seventh Amendment ratified",
+      "value": "Alabama ratified a 202-year-old proposed amendment barring Congress from giving itself a midterm or retroactive pay raise, and the amendment was enacted on May 18",
+      "detail": "The US year page carries both dates and describes the amendment in those terms.",
+      "date": "1992-05-05",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "pol.unemployment": {
+      "section": "politics",
+      "label": "Unemployment peaks",
+      "value": "7.8 percent, which the US year page calls a level not seen since March 1984",
+      "detail": "The page attributes it to the recession of the early part of the decade and to slow job creation afterwards, and gives only the month rather than a day.",
+      "date": "1992-06",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "pol.iran_contra_pardons": {
+      "section": "politics",
+      "label": "Bush pardons Iran-Contra figures",
+      "value": "He pardoned six national security officials implicated in the affair, among them Caspar Weinberger",
+      "detail": "A federal grand jury had indicted Weinberger on June 16 for his part in covering it up.",
+      "date": "1992-12-24",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "pol.somalia": {
+      "section": "politics",
+      "label": "US forces sent to Somalia",
+      "value": "American troops went in under UN Security Council Resolution 794, passed unanimously the day before, which approved a United States led coalition of peacekeepers called UNITAF to get humanitarian aid distributed and establish peace",
+      "detail": "The two cached pages describe the same day differently. The US year page says US military forces land in Somalia on December 4, while the year page says Bush announces the deployment of US troops on that date, so the landing and the announcement cannot be separated from what is here.",
+      "date": "1992-12-04",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "world.la_riots": {
+      "section": "world",
+      "label": "Los Angeles riots",
+      "value": "A jury in Simi Valley acquitted four Los Angeles police officers accused of excessive force in the videotaped beating of the black motorist Rodney King, and rioting followed across the city until May 4",
+      "detail": "The two cached pages disagree on the toll. The US year page gives 53 deaths and $1 billion in damage over April 29 to May 4, and the year page's own image caption says the riots killed 63, so neither figure is stated here as settled.",
+      "date": "1992-04-29",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "world.hurricane_andrew": {
+      "section": "world",
+      "label": "Hurricane Andrew",
+      "value": "The storm struck south Florida over five days and dissipated over the Tennessee valley after merging with another system",
+      "detail": "The two cached pages disagree on the toll and on where the storm went. The year page says it hit south Florida and Louisiana and killed 23, and gives no cost. The US year page names only Florida, says 65 were killed and puts the damage at $26.5 billion.",
+      "date": "1992-08-24",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "world.yugoslavia": {
+      "section": "world",
+      "label": "Bosnia declares independence and Sarajevo is besieged",
+      "value": "The Assembly of Bosnia and Herzegovina proclaimed independence from Yugoslavia without its Serb delegates present, and Serb troops besieged Sarajevo after a mass rebellion of Serbs against the declaration",
+      "detail": "The year page dates the start of the country's break-up to January 15, when Slovenia and Croatia gained independence and recognition in some Western countries. The United Nations Security Council approved Resolution 743 on February 21 to send a UNPROFOR peacekeeping force, and Resolution 757 on May 30 imposing economic sanctions. The United States recognised Slovenia, Croatia and Bosnia and Herzegovina on April 7. Serbia and Montenegro formed a new state named the Federal Republic of Yugoslavia on April 28, which the year page says ended a union that had existed since 1918. The last Yugoslav Army troops left Croatia on October 20, and Slobodan Milosevic beat Milan Panic in the Serbian presidential election on December 21.",
+      "date": "1992-04-05",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "world.maastricht": {
+      "section": "world",
+      "label": "Maastricht Treaty signed",
+      "value": "Signed in the Netherlands, founding the European Union",
+      "detail": "Danish voters rejected it by a narrow margin in a referendum on June 2, Irish voters accepted it on June 18 with over 69 percent in favour, and French voters narrowly approved it on September 20.",
+      "date": "1992-02-07",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "world.cold_war_over": {
+      "section": "world",
+      "label": "Bush and Yeltsin declare the Cold War over",
+      "value": "The two presidents met at Camp David and formally declared it finished",
+      "detail": "Boris Yeltsin had announced on January 26 that Russia would stop targeting the cities of the United States and its allies with nuclear weapons, and Bush announced in return that the United States and its allies would stop targeting Russia and the remaining communist states. The two signed a Joint Understanding on arms reduction on June 16, and Yeltsin released the flight data recorder and cockpit voice recorder of the Korean Air flight the Soviets shot down in 1983 on November 18.",
+      "date": "1992-02-01",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "world.black_wednesday": {
+      "section": "world",
+      "label": "Black Wednesday",
+      "value": "The pound sterling and the Italian lira were forced out of the European Exchange Rate Mechanism",
+      "detail": "The year page carries the line and gives no figures.",
+      "date": "1992-09-16",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "world.south_africa": {
+      "section": "world",
+      "label": "White South Africans vote for reform",
+      "value": "A referendum returned a majority for political reforms that would end the apartheid regime and create a power-sharing multi-racial government",
+      "detail": "F. W. de Klerk and Nelson Mandela were jointly awarded the Felix Houphouet-Boigny Peace Prize at UNESCO headquarters in Paris on February 3. Violence between the African National Congress and the Inkatha Freedom Party at Boipatong on June 17 left 45 dead, and Mandela announced on June 21 that the ANC would halt negotiations with the government. Millions of black South Africans joined a general strike called by the ANC on August 3 and 4 over the lack of progress, and members of the Ciskei Defence Force loyal to Oupa Gqozo opened fire on an ANC-organised crowd on September 7, killing at least 28. Ownership of the port town of Walvis Bay passed from South Africa to Namibia on February 28.",
+      "date": "1992-03-18",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Aladdin, $504,050,219, Walt Disney Pictures",
+        "The Bodyguard, $411,006,740, Warner Bros.",
+        "Home Alone 2: Lost in New York, $358,994,850, 20th Century Fox",
+        "Basic Instinct, $352,927,224, TriStar",
+        "Lethal Weapon 3, $321,731,527, Warner Bros."
+      ],
+      "detail": "Worldwide box-office gross rather than the North American total, which is what the film page states twice. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it calls the entries the top ten films released this year by worldwide gross, so header and text agree and there is no rentals gloss to write. Batman Returns was sixth at $266,822,354 for Warner Bros., A Few Good Men seventh at $243,240,178 for Columbia, Sister Act eighth at $231,605,150 for Touchstone, Bram Stoker's Dracula ninth at $215,862,692 for Columbia and Wayne's World tenth at $183,097,323 for Paramount. The page cites Box Office Mojo for the whole table.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Unforgiven, produced by Clint Eastwood",
+      "detail": "Awarded the following spring at the 65th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Billy Crystal for the fourth consecutive year. It won four awards, the most of any film, from nine nominations, tied with Howards End for the most nominations. Eastwood also won Best Director, and the ceremony page says he became the seventh person nominated for lead acting and directing for the same film. Bram Stoker's Dracula and Howards End took three awards each and Aladdin two. The other Best Picture nominees were The Crying Game, A Few Good Men, Howards End and Scent of a Woman. The producer Gil Cates built the show around the theme Oscar Celebrates Women and the Movies, drawing on the year in which a record four women were elected to the United States Senate, and the Academy gathered 67 female Oscar winners for a photograph shown at the start of the telecast. Randy Thomas was the first woman to announce the broadcast, which ran three hours and 33 minutes on ABC and drew 45.7 million viewers in the United States for a 31.2 percent Nielsen share.",
+      "source": "https://en.wikipedia.org/wiki/65th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Al Pacino, Scent of a Woman",
+        "Best Actress, Emma Thompson, Howards End",
+        "Best Supporting Actor, Gene Hackman, Unforgiven",
+        "Best Supporting Actress, Marisa Tomei, My Cousin Vinny"
+      ],
+      "detail": "The ceremony page says Pacino was the sixth performer nominated in the lead and supporting categories in the same year, for Scent of a Woman and Glengarry Glen Ross, and the first to win the lead award after doing so. Denzel Washington was nominated for Malcolm X, Robert Downey Jr. for Chaplin and Stephen Rea for The Crying Game, and Susan Sarandon for Lorenzo's Oil and Michelle Pfeiffer for Love Field among the women. Neil Jordan took original screenplay for The Crying Game and Ruth Prawer Jhabvala adapted screenplay for Howards End. Alan Menken won both music categories for Aladdin, sharing Best Original Song with Tim Rice for A Whole New World, and the page says that made him the third person to win two Oscars in two consecutive years. The film page's awards table gives the Golden Globe for drama to Scent of a Woman and for comedy or musical to The Player, and the BAFTA award for Best Film to Howards End with Best Director to Robert Altman for The Player.",
+      "source": "https://en.wikipedia.org/wiki/65th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Indochine, France, in French, directed by Regis Wargnier, winner of the Academy Award for Best Foreign Language Film",
+        "Close to Eden, Russia, in Russian, directed by Nikita Mikhalkov",
+        "Daens, Belgium, in Dutch, directed by Stijn Coninx",
+        "Schtonk!, Germany, in German, directed by Helmut Dietl",
+        "A Place in the World, submitted by Uruguay, in Spanish, directed by Adolfo Aristarain, nomination revoked"
+      ],
+      "detail": "These are the entries in the Foreign Language Film category, which is where the ceremony page states each film's country, language and director. The Academy revoked the nomination for A Place in the World after an investigation determined it an Argentine production, which broke a rule requiring substantial filmmaking input from the country submitting a film. Federico Fellini received an Honorary Award in recognition of his place as one of the screen's master storytellers. The BAFTA award for best foreign language film went to Raise the Red Lantern by the film page's awards table. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/65th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Home Alone 2: Lost in New York, November 20",
+        "The Bodyguard, November 25, starring Kevin Costner and Whitney Houston",
+        "Aladdin, November 25, Walt Disney Pictures' 31st feature film"
+      ],
+      "detail": "The US year page gives these three dates and calls Aladdin the first animated film to cross the half-billion-dollar mark. It also puts The Bodyguard at nearly $122 million in the United States against more than $410 million worldwide, which is a wider gap than the worldwide table alone shows. Production began on Jurassic Park on August 24. Brandon Tartikoff resigned as chairman of Paramount Pictures on October 29 after fifteen months in the job, and Joe Roth announced on November 2 that he was leaving as chairman of 20th Century Fox to set up an independent production company at Walt Disney Studios, with Peter Chernin replacing him. The cached film page carries no release dates of its own, so nothing else here is dated.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and at home as the thing a new channel opened with. The Sci-Fi Channel began broadcasting on September 24 with Star Wars, and Cartoon Network went on the air on October 1 with the Merrie Melodies short Rhapsody Rabbit.",
+      "detail": "The average ticket price was $4.15. None of the cached pages says anything about tape rental, laser disc or pay-per-view films, so this fact claims nothing about any of them.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.15",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1992",
+      "value": [
+        "60 Minutes, CBS, 21.9 rating",
+        "Roseanne, ABC, 20.7",
+        "Home Improvement, ABC, 19.4",
+        "Murphy Brown, CBS, 17.9",
+        "Murder She Wrote, CBS, 17.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Coach was sixth on 17.5 for ABC, Monday Night Football seventh on 16.7, the CBS Sunday Movie and Cheers tied for eighth on 16.1, Full House tenth on 15.8 for ABC and Northern Exposure eleventh on 15.2 for CBS. Seinfeld sat 25th on 13.7, and The Simpsons tied for 30th on 13.0 as the only Fox entry in the top thirty.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1992%E2%80%9393"
+    },
+    "tv.carson": {
+      "section": "tv",
+      "label": "Johnny Carson leaves The Tonight Show",
+      "value": "He hosted the NBC program for the 4,531st and last time at the age of 66, after thirty years, and Jay Leno took over on May 25",
+      "detail": "The television page's endings table dates the program's start to 1962. The US year page carries both dates and says Carson retires after 30 years. Bill Clinton had played saxophone with the house band on The Arsenio Hall Show on June 3.",
+      "date": "1992-05-22",
+      "source": "https://en.wikipedia.org/wiki/1992_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Barney & Friends, PBS, April 6",
+        "The Real World, MTV, May 21",
+        "Melrose Place, Fox, July 8",
+        "The Larry Sanders Show, HBO, August 15",
+        "2000 Malibu Road, CBS, August 23",
+        "Are You Afraid of the Dark?, Nickelodeon, August 15",
+        "Martin, Fox, August 27",
+        "Batman: The Animated Series, Fox Kids, September 5",
+        "The Golden Palace, CBS, September 18",
+        "Picket Fences, CBS, September 18",
+        "Mad About You, NBC, September 23",
+        "Ghostwriter, PBS, October 4",
+        "X-Men, Fox Kids, October 31"
+      ],
+      "detail": "The television page's premiere table gives each date and network, and its events table calls the October 31 X-Men broadcast a sneak preview of the first part of the pilot. Dateline NBC started on March 31, and Rush Limbaugh: The Television Show and The Whoopi Goldberg Show both went into syndication on September 14. NBC dropped all its Saturday morning cartoons on September 12 for four shows under the TNBC banner, and Nickelodeon started a Saturday night block called SNICK on August 15. The Seinfeld episode The Contest was broadcast on November 18, and Jerry Orbach first appeared as Detective Lennie Briscoe on Law & Order on November 25. Pamela Anderson first appeared as C. J. Parker on Baywatch in syndication on September 14, and the first MTV Movie Awards were broadcast on June 10.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Candid Camera, March 13, having started in 1948",
+        "Growing Pains, April 25, having started in 1985",
+        "Who's the Boss?, April 25, having started in 1984",
+        "The Cosby Show, April 30, having started in 1984",
+        "The Golden Girls, May 9, having started in 1985",
+        "MacGyver, May 21, having started in 1985",
+        "Night Court, May 31, having started in 1984"
+      ],
+      "detail": "The television page's endings table gives each date and start year. Jake and the Fatman ended on May 6 after starting in 1987, Superboy on May 17 after 1988, The Trials of Rosie O'Neill on May 30 after 1990, Anything but Love on June 3 after 1989, Club MTV on June 26 after 1987, Dear John on July 22 after 1988, The Howard Stern Show on August 8 after 1990 and Square One TV on November 6 after 1987. Joan Van Ark made her last regular appearance as Valene Ewing on Knots Landing on April 9.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_American_television"
+    },
+    "tv.launches": {
+      "section": "tv",
+      "label": "Channels that launched",
+      "value": [
+        "CNN Checkout Channel, satellite, February 20",
+        "New England Cable News, cable, March 2",
+        "Flix, cable, August 1",
+        "MOR Music TV, cable, September 1",
+        "NY1, cable, September 8",
+        "Sci-Fi Channel, cable, September 24",
+        "Cartoon Network, cable, October 1"
+      ],
+      "detail": "The television page's launch table gives each date. VISN/ACTS started on cable in September with no day given. Cartoon Network opened with a one-hour special called Droopy's Guide to the Cartoon Network, and the Sci-Fi Channel with a broadcast of Star Wars. SportsChannel Los Angeles closed on December 31.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "End of the Road, Boyz II Men",
+        "Baby Got Back, Sir Mix-a-Lot",
+        "Jump, Kris Kross",
+        "Save the Best for Last, Vanessa Williams",
+        "Baby-Baby-Baby, TLC"
+      ],
+      "detail": "Billboard's year-end Hot 100 for the year. Eric Clapton was sixth with Tears in Heaven, En Vogue seventh with My Lovin' (You're Never Gonna Get It), the Red Hot Chili Peppers eighth with Under the Bridge, Color Me Badd ninth with All 4 Love and Jon Secada tenth with Just Another Day. The chart page says no song from the previous year's year-end chart appeared on this one, which it calls the only such case since the 1989 chart. Boyz II Men, CeCe Peniston, Mariah Carey, Genesis and Amy Grant each placed three songs on it.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1992"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Compact discs outsold audiocassettes in the United States for the first time, counted in units sold",
+      "detail": "The US year page carries the line in its undated section, gives no figures, and cites a newspaper report on the year's disc and cassette sales. Six major record companies agreed on February 25 to phase out the longbox carton that compact discs were sold in, after complaints that the packaging was wasteful. No cached page says anything about radio for this year, so this fact claims nothing about it.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "music.number_one_run": {
+      "section": "music",
+      "label": "End of the Road holds number one for twelve weeks",
+      "value": "The Boyz II Men single posted a twelfth consecutive week at number one on the US charts, which the music page says ended a 36-year record held by Elvis Presley",
+      "detail": "The page names no Presley title for the record the run displaced.",
+      "date": "1992-10-31",
+      "source": "https://en.wikipedia.org/wiki/1992_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Ireland won at Malmo Isstadion in Sweden with Why Me?, performed by Linda Martin and written by Johnny Logan, who had won the contest himself in 1980 and 1987",
+      "detail": "The 21st OTI Festival, held at the Teatro Principal in Valencia on December 5, was won by A donde voy sin ti, written by Chema Puron and performed by Francisco for Spain. Univision broadcast the final of the 15th National OTI Festival from the Gusman Center for the Performing Arts in Miami on September 17.",
+      "date": "1992-05-09",
+      "source": "https://en.wikipedia.org/wiki/1992_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums of the year",
+      "value": [
+        "R.E.M., Automatic for the People",
+        "Rage Against the Machine, Rage Against the Machine",
+        "Pavement, Slanted & Enchanted",
+        "Alice in Chains, Dirt",
+        "Tori Amos, Little Earthquakes"
+      ],
+      "detail": "The music page's list of ten runs on through Dr. Dre's The Chronic, Faith No More's Angel Dust, Sublime's 40 Oz. To Freedom, Sonic Youth's Dirty and the Beastie Boys' Check Your Head, and says all ten were named albums of the year for their showing in the charts. Nirvana's Nevermind reached number one on the Billboard 200 in January, which the page says established the popularity of grunge. Madonna released Erotica on October 20, Rage Against the Machine their debut on November 3 and Dr. Dre The Chronic on December 15. The Bodyguard soundtrack was released on November 17. Ice-T announced on July 28 that Cop Killer was being pulled from the Body Count album.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Wolfenstein 3D, May 5, on DOS",
+        "Super Mario Kart, August 27",
+        "TurboDuo, October 10, the PC Engine Duo released in North America with a CD-ROM drive built in",
+        "Mortal Kombat, October 8 in North American arcades",
+        "Sega CD, October 15, the Mega-CD released in North America under that name almost a year after the Japanese launch",
+        "Amiga 1200, October 21, Commodore's last lower-cost Amiga model",
+        "Sonic the Hedgehog 2, Sega, November 21, on the Mega Drive and Genesis"
+      ],
+      "detail": "The games page puts the Game Boy first among home systems for the third year running, at 1,910,000 sold in Japan, 4,000,000 in the United States and 6,000,000 in Europe, with the Super NES second at 3,580,000 in Japan and 5,600,000 in the United States. Capcom's Street Fighter II was the highest-grossing video game worldwide for the second year in a row and, the page says, the year's highest-grossing entertainment product, taking an estimated 60 percent of the world arcade market by a figure it cites from Coinslot. The best-selling home games in the United States were Sonic the Hedgehog 2 and the Super NES port of Street Fighter II at 2,000,000 each, with The Legend of Zelda: A Link to the Past third at 1,000,000. Street Fighter II took Game of the Year from the Chicago Tribune, Electronic Gaming Monthly, Game Informer and the Golden Joystick Awards among others. The Super NES reached Ireland and the United Kingdom on April 11 and the rest of Europe in June. Sega released its Model 1 board in October, the first of its arcade boards to support polygon graphics, and Namco released the System 22 with texture mapping and Gouraud shading. Atari dropped support for the Atari 2600, the Atari 7800 and its 8-bit computers on January 1, the Apple IIGS was discontinued in December, and Activision filed for Chapter 11 bankruptcy protection under the name Mediagenic. The US year page dates the American release of Sonic the Hedgehog 2 to November 24, three days after the games page's date, and dates Mortal Kombat to October 8, which the games page marks as the North American date.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_video_games"
+    },
+    "tech.windows": {
+      "section": "tech",
+      "label": "Windows 3.1",
+      "value": "Microsoft released it to manufacturers",
+      "detail": "The year page says released to manufacturers and the US year page says only that Microsoft releases Windows 3.1. Both give April 6.",
+      "date": "1992-04-06",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "tech.exoplanets": {
+      "section": "tech",
+      "label": "First confirmed exoplanets",
+      "value": "The radio astronomers Aleksander Wolszczan and Dale Frail announced the discovery of several terrestrial-mass planets orbiting the pulsar PSR B1257+12",
+      "detail": "The year page calls this the first confirmed detection of exoplanets and places both astronomers in the United States.",
+      "date": "1992-01-06",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "tech.shuttle": {
+      "section": "tech",
+      "label": "Space shuttle flights",
+      "value": [
+        "STS-45, Atlantis, launched from Cape Canaveral on March 22 carrying instruments to study global warming",
+        "STS-49, the maiden flight of Endeavour, built to replace Challenger, launched May 7 and landed safely on May 16",
+        "STS-47, September 12, carrying Mae Jemison, the first African American woman to travel in space"
+      ],
+      "detail": "The year page gives the two launch dates and the US year page the Endeavour landing and the Jemison flight. The Giotto spacecraft flew past Comet 26P/Grigg-Skjellerup on July 10 gathering measurements.",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "tech.mp3": {
+      "section": "tech",
+      "label": "MP3 format developed",
+      "value": "The music page says the MP3 file format was developed as part of a video compression standard",
+      "detail": "That is the whole of the claim on the page, which gives no date and names nobody. Nothing in the cache says anyone distributed or played music in the format this year.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_music"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.13 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$4.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two crowds arrived by television in the same year, one filling the stadium in Barcelona in August and one setting fire to blocks of south Los Angeles in April. The recession put unemployment at its worst in eight years, and the sitting president lost to a governor from Arkansas with an independent from Texas taking a fifth of the vote. Records were bought on disc more than on tape for the first time."
+    },
+    "culture.murphy_brown": {
+      "section": "culture",
+      "label": "Quayle's Murphy Brown speech",
+      "value": "Vice President Dan Quayle spoke at the Commonwealth Club of California in San Francisco, in what the US year page calls his famous Murphy Brown speech",
+      "detail": "The television page's entry for the day breaks off after naming the venue, so nothing here states what he said about the CBS series. Murphy Brown finished fourth in the Nielsen ranking for the season that opened in the autumn.",
+      "date": "1992-05-19",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Derek Walcott",
+        "Peace, Rigoberta Menchu",
+        "Physics, Georges Charpak",
+        "Chemistry, Rudolph A. Marcus",
+        "Medicine, Edmond H. Fischer and Edwin G. Krebs",
+        "Economics, Gary Becker"
+      ],
+      "detail": "The year page lists the six laureates and dates none of them.",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "culture.earth_summit": {
+      "section": "culture",
+      "label": "Earth Summit in Rio de Janeiro",
+      "value": "Held in Brazil over twelve days to June 14",
+      "detail": "The United Nations Framework Convention on Climate Change had been adopted in New York on May 9. The first World Oceans Day was marked on June 8 to coincide with the summit. A World Meteorological Organization report on November 13 described an unprecedented level of ozone depletion over both the Arctic and the Antarctic.",
+      "date": "1992-06-03",
+      "source": "https://en.wikipedia.org/wiki/1992"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Toronto Blue Jays beat the Atlanta Braves four games to two, with the catcher Pat Borders named series most valuable player",
+      "detail": "The sports page calls Toronto the first Canadian team to play in a World Series and the first non-American team to win one. The television page says CBS carried the series from October 17 to 24 for the third consecutive year, so no single date is given here. Dennis Eckersley of the Oakland Athletics took both the American League Most Valuable Player award and the Cy Young Award, Barry Bonds of the Pittsburgh Pirates the National League Most Valuable Player award, and Greg Maddux of the Chicago Cubs the National League Cy Young. Pat Listach of the Milwaukee Brewers and Eric Karros of the Los Angeles Dodgers were the rookies of the year. Sean McDonough replaced Jack Buck as CBS's lead baseball announcer on April 18.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXVI",
+      "value": "The Washington Redskins beat the Buffalo Bills 37 to 24 at the Hubert H. Humphrey Metrodome in Minneapolis in front of 63,130, with the quarterback Mark Rypien named most valuable player",
+      "detail": "The US year page gives the date, the score and the venue, and the sports page adds the attendance and the award. Fox counter-programmed the CBS telecast at halftime with a live edition of In Living Color. Steve Young of the San Francisco 49ers was the league's most valuable player over the season, Steve Emtman went first in the draft to the Indianapolis Colts, and Gino Torretta of the Miami Hurricanes won the Heisman Trophy, the Davey O'Brien Award and the Walter Camp Award. Miami had beaten Nebraska 22 to 0 in the Orange Bowl for the previous season's national championship, which the sports page attributes to the Associated Press poll.",
+      "date": "1992-01-26",
+      "source": "https://en.wikipedia.org/wiki/1992_in_sports"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Olympic Games",
+      "value": [
+        "Summer, Barcelona, July 25 to August 9, with the Unified Team of the former Soviet Union taking the most medals at 112 and the most gold at 45",
+        "Winter, Albertville, February 8 to 23, with Germany taking the most medals at 27 and the most gold at 10"
+      ],
+      "detail": "Oscar De La Hoya won the only United States boxing gold medal in Barcelona and turned professional shortly after. Marc Rosset took the men's tennis singles and Jennifer Capriati the women's, Boris Becker and Michael Stich the men's doubles and Gigi Fernandez and Mary Joe Fernandez the women's. Brazil won the men's volleyball and Cuba the women's, Italy the water polo and Germany the men's field hockey. CBS carried the Albertville opening ceremony, which the television page says was its first Olympic broadcast of either kind since the Rome games of 1960. The seventh Pan Arab Games were held in Damascus.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "NBA Finals, Chicago Bulls over the Portland Trail Blazers, four games to two",
+        "Stanley Cup, Pittsburgh Penguins over the Chicago Blackhawks, four games to none",
+        "NCAA basketball, Duke 71, Michigan 51",
+        "European football championship, Denmark 2, Germany 0 in the final at Gothenburg",
+        "Grey Cup, Calgary Stampeders 24, Winnipeg Blue Bombers 10",
+        "World Snooker Championship, Stephen Hendry over Jimmy White, 18 to 14",
+        "AFL premiership, West Coast 16.17 (113), Geelong 12.13 (85)"
+      ],
+      "detail": "Michael Jordan was the NBA's most valuable player and Associated Press Male Athlete of the Year, Mario Lemieux took the Conn Smythe and Art Ross trophies and Mark Messier the Hart Memorial Trophy. Christian Laettner sank an overtime buzzer-beater on March 28 to put Duke past Kentucky 104 to 103 in the East Regional final, which the year page says Sports Illustrated deemed the greatest college basketball game of all time. Miguel Indurain of Spain won both the Giro d'Italia and the Tour de France. Jim Courier took the Australian and French Opens, Andre Agassi Wimbledon and Stefan Edberg the US Open, while Monica Seles won three of the four women's majors and was Associated Press Female Athlete of the Year, with Steffi Graf taking Wimbledon. Fred Couples won the Masters and led the PGA Tour money list at $1,344,188, Tom Kite took the US Open, Nick Faldo the British Open and Nick Price the PGA Championship. Riddick Bowe beat Evander Holyfield on a twelve-round decision on November 13 for the undisputed heavyweight championship. Sweden beat Finland 5 to 2 in Prague on May 10 for the ice hockey world championship, and Arthur Ashe was Sports Illustrated Sportsman of the Year.",
+      "source": "https://en.wikipedia.org/wiki/1992_in_sports"
+    },
+    "sports.rheaume": {
+      "section": "sports",
+      "label": "First woman to play in the NHL",
+      "value": "Manon Rheaume played in a National Hockey League pre-season game, which the sports page also calls the first appearance by a woman in any of the four big professional sports",
+      "detail": "The league's players had struck on April 1 in the first work stoppage in its history, which lasted ten days and cost none of the regular season games.",
+      "date": "1992-09-23",
+      "source": "https://en.wikipedia.org/wiki/1992_in_sports"
+    },
+    "deaths.hopper": {
+      "section": "deaths",
+      "label": "Grace Hopper",
+      "value": "Died January 1. Born 1906",
+      "detail": "Computer scientist and mathematician.",
+      "date": "1992-01-01",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "deaths.haley": {
+      "section": "deaths",
+      "label": "Alex Haley",
+      "value": "Died February 10. Born 1921",
+      "detail": "Writer.",
+      "date": "1992-02-10",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "deaths.walton": {
+      "section": "deaths",
+      "label": "Sam Walton",
+      "value": "Died April 5. Born 1918",
+      "detail": "Businessman, founder of Wal-Mart.",
+      "date": "1992-04-05",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "deaths.asimov": {
+      "section": "deaths",
+      "label": "Isaac Asimov",
+      "value": "Died April 6. Born 1920",
+      "detail": "Russian-born science-fiction author.",
+      "date": "1992-04-06",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    },
+    "deaths.dietrich": {
+      "section": "deaths",
+      "label": "Marlene Dietrich",
+      "value": "Died May 6. Born 1901",
+      "detail": "German-born actress and singer.",
+      "date": "1992-05-06",
+      "source": "https://en.wikipedia.org/wiki/1992_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1992. figures_basis is gross, checked with bo.mjs rather than assumed from the era, and this year's table is worldwide rather than North American. The column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above the table calls the entries the top ten films released in 1992 by worldwide gross, so header and text agree and there is no rentals gloss to write. film.gross names worldwide in both its label and its detail so the figures are not read as domestic, and film.releases carries the US year page's split for The Bodyguard, nearly $122 million in the United States against more than $410 million worldwide, which shows how far apart the two measures sit this year. Date checks. A US presidential election falls this year, so the constitutional constraint was checked: November 1 was a Sunday, November 2 the first Monday and November 3 the Tuesday after it, which is the day both cached year pages give, so there is no disagreement to name. Because neither cached page carries a vote count, pol.election cites https://en.wikipedia.org/wiki/1992_United_States_presidential_election, pulled as raw wikitext and the only source in this file from outside the cache. It gives November 3, 1992 as the election date and the electoral, popular and percentage figures for all three candidates plus turnout of 58.1 percent. Its next_election and next_year fields, and the Reform Party comment in its Perot entry, name later years and were not used. The 65th Academy Awards honouring this year of film fall in the following year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a token later than 1992. The 64th Academy Awards of March 30, hosted by Billy Crystal at the Dorothy Chandler Pavilion, are left out for the same reason 1989 leaves out the 61st: they honoured the previous year of film and would put a second Best Picture on the page. The 34th Grammy Awards of February 25, hosted by Whoopi Goldberg in New York, which gave Album of the Year to Natalie Cole's Unforgettable... with Love and both Record and Song of the Year to her virtual duet with Nat King Cole and Best New Artist to Marc Cohn, are left out on the same ground, since they honoured the previous year's recordings. The Golden Globe and BAFTA ceremony dates on the film page's awards table fall in the following year, so film.acting_awards and film.world_cinema name those winners without dating the ceremonies. Section windows. tech.internet does not open until 1993, and the question did not arise: none of the ten cached pages carries a single claim about the World Wide Web, an online service, a dial-up connection or CERN for this year, so there was nothing to place under a plain tech id and no fact here implies public network use. The only adjacent item is tech.mp3, which states exactly what the music page says, that the format was developed as part of a video compression standard, and says outright that nothing in the cache describes anyone distributing or playing music in it. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that. music.listening_format uses that exact id and takes the strongest format claim the sources carry, the US year page's undated line that compact discs outsold audiocassettes in the United States for the first time in units sold. The longbox agreement of February 25 sits in its detail without the phase-out deadline the music page gives, because that date falls in the following year. The Nielsen ranking covers a season that began in the autumn of 1992 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved. The Los Angeles riots death toll is 53 on the US year page and 63 in the year page's own image caption, so world.la_riots states neither as settled and names both. Hurricane Andrew killed 23 by the year page, which also names Louisiana, and 65 by the US year page, which names only Florida and puts damage at $26.5 billion, so world.hurricane_andrew names both accounts. December 4 is the landing of US forces in Somalia on the US year page and Bush's announcement of the deployment on the year page, so pol.somalia says so rather than choosing. The American release of Sonic the Hedgehog 2 is November 21 on the games page and November 24 on the US year page, and tech.games carries both. The Euro final venue is Ullevi on the year page and Nya Ullevi on the sports page, so sports.champions names the city and not the stadium. Facts taking their value from one cached page and part of their detail from another: film.how_people_watched cites the television page, which is the only page carrying the Sci-Fi Channel and Cartoon Network launches, and takes the ticket price from the series; film.releases cites the US year page because the cached film page carries no release dates at all, and takes the Tartikoff and Roth changes and the Jurassic Park production start from the film page's events section; film.acting_awards and film.world_cinema cite the ceremony page and take the Golden Globe and BAFTA winners from the film page's awards table; tv.top_shows cites the ratings page; tv.carson cites the television page and takes the thirty-year figure from the US year page; culture.murphy_brown cites the US year page for the speech and takes the venue from the television page; music.listening_format cites the US year page and takes the longbox agreement from the music page; tech.games cites the video games page and takes the two American release dates from the US year page; tech.shuttle cites the year page for the two launches and takes the Endeavour landing and the Jemison flight from the US year page; sports.world_series cites the sports page and takes the broadcast span and the McDonough appointment from the television page; sports.super_bowl cites the sports page for the attendance and the award and takes the date and score from the US year page and the In Living Color counter-programming from the television page; sports.olympics cites the sports page and takes the CBS broadcast line from the television page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. Nothing in this file needed an entry in src/data/name_years.json, and that file was not touched. Three candidates were checked. The Amiga 1200 in tech.games is safe because 1200 is earlier than 1992 and the check only fires on a number greater than the page year. The pulsar PSR B1257+12 in tech.exoplanets is safe twice over, because 1257 is earlier and because the leading B breaks the word boundary. The Atari 2600 and Atari 7800 in tech.games are safe because the check matches only 1000 to 2099.json. It is out of tv.premieres for that reason alone and the reason appears nowhere a reader can see it. Month-only or undated facts: pol.unemployment carries 1992-06 because the US year page gives only the month for the 7.8 percent peak; music.listening_format, tech.mp3 and sports.world_series carry no date at all, the first two because their pages give none and the third because the television page gives the series as a span from October 17 to 24 rather than a clinching date, which sports.world_series says outright. Dropped for lack of a source that says enough, or for room. The games page marks its August 27 date for Super Mario Kart with a citation-needed tag, and the date is used anyway because it is what the cached page states, but it is weaker than the others in that list. The Chapultepec Peace Accords of January 16, ending a twelve-year Salvadoran civil war the year page says claimed at least 75,000 lives, and the Czechoslovak split vote of November 25, are in the texture rather than in facts, the second without the effective date the year page gives because that date falls in the following year. The North American Free Trade Agreement deal announced on August 12 is out entirely, because the year page pairs it with a formal signing on December 17 that it does not describe. Also dropped for room, all sourced: the Church of England vote of November 11 to allow women priests; the Mall of America opening, the Peekskill meteorite, the Chicago flood, the Landers and Big Bear earthquakes of June 28, Hurricane Iniki of September 11, the Ruby Ridge deaths, the Tyson, Dahmer, Gotti and Noriega convictions, Factory Records going bankrupt and the Sinead O'Connor incidents, all of which are in the texture instead; the Khojaly massacre of February 25 and 26, the Erzincan earthquake of March 13, the Guadalajara sewer explosions of April 22, the Nicaragua earthquake of September 2, the El Al cargo crash into Amsterdam of October 4, the Flores earthquake of December 12 and the Carandiru prison riot of October 2, none of which got a disasters fact; the Freddie Mercury Tribute Concert at Wembley of April 20; the Boipatong and Ciskei killings, kept only in world.south_africa's detail; the London miners' march of October 21; the Canadian rejection of the Charlottetown Accord on October 26; the impeachment of Fernando Collor de Mello in Brazil; the demolition of the Babri Masjid on December 6; the arrest of Abimael Guzman in Peru on September 12; the Amy Fisher shooting of May 19; the first Big Day Out in Sydney on January 25, headlined by Violent Femmes and Nirvana; Paul Simon touring South Africa after the cultural boycott ended; the Metallica pyrotechnics accident and Montreal riot of August 8; the Dateline NBC pickup truck report of November 17; the Captain Planet and the Planeteers episode on AIDS of November 21; the 3,000th episode of Sesame Street on May 1 and the 5,000th of The Young and the Restless on December 1, both left out rather than parked in the detail of a fact about something else; and the made-for-television films and miniseries of the year, of which only The Jacksons: An American Dream is large enough to have earned a fact with more room. Names and titles are written in ASCII per the corpus convention, so Sinead O'Connor, Vaclav Havel, Brcko, Slobodan Milosevic, Regis Wargnier, Rigoberta Menchu, Manon Rheaume, Felix Houphouet-Boigny, Miguel Indurain, Abimael Guzman, Gigi Fernandez, A donde voy sin ti and Chema Puron lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. Grace Hopper's occupation line on that page reads computer scientist, mathematician, and U.S., Army Navy rear admiral, which is garbled, so deaths.hopper gives only the first two and states no rank. Deaths that would have earned a place with more room: Anthony Perkins on September 12, Lawrence Welk on May 17, Willie Dixon on January 29, Jose Ferrer on January 26, Roy Acuff on November 23, Robert Reed on May 12, Shirley Booth on October 16, Red Barber and Cleavon Little on October 22, Roger Miller on October 25, Hal Roach on November 2, Chuck Connors on November 10, Dana Andrews on December 17, Stella Adler on December 21, Eddie Kendricks on October 5, Jeff Porcaro on August 5, John Sirica on August 14, Bill France Sr. on June 7, William Gaines on June 3, Joe Shuster on July 30 and Alex Wojciechowicz on July 13. This file runs 52 facts across 10 sections: politics 7, world 7, film 7, tv 5, music 5, tech 5, prices 2, culture 4, sports 5, deaths 5. Review pass added \"2000 Malibu Road\" to src/data/name_years.json and restored the series to tv.premieres. It was the first name in the corpus to genuinely fail all four anachronism conditions since that allowlist was generalised: 2000 is later than 1992, four digits inside the checked range, on a word boundary, and not previously listed. The number sits beside enough of a title to be unmistakable, which is what the file's rules require."
+}

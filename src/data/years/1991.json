@@ -1,0 +1,530 @@
+{
+  "year": 1991,
+  "tier": "broadcast",
+  "headline": "Operation Desert Storm began in January, Mount Pinatubo erupted in June, and the Soviet Union dissolved in December",
+  "texture": [
+    "Gorbachev was put under house arrest while on holiday in Crimea on August 19, and the coup against him collapsed in under 72 hours with more than 100,000 people outside the parliament building. Russia restored the white-blue-red tricolour on August 23. Sverdlovsk got the name Yekaterinburg back on September 4, and the KGB was replaced by the SVR on October 11. Gorbachev condemned antisemitism in the Soviet Union in a statement on October 6. The Bundestag voted on June 20 to move the German capital from Bonn to Berlin, and the remains of Frederick the Great were re-interred in Potsdam on August 17.",
+    "A grease fire at the Imperial Foods chicken processing plant in Hamlet, North Carolina killed 25 people on September 3. A firestorm in the Oakland Hills killed 25 more on October 20 and destroyed 3,469 homes and apartments. George Hennard drove his truck through the front of a Luby's cafeteria in Killeen, Texas on October 16 and fired on the diners. The Halloween blizzard buried the Upper Midwest from October 31 and killed 22 people, and a storm off New England and Atlantic Canada from October 28 did over 200 million dollars of damage and caused 12 direct deaths.",
+    "A software fault took telephone service down in Washington, Pittsburgh, Los Angeles and San Francisco on July 1 and cut off nearly 12 million customers. The Warsaw radio mast, then the tallest structure in the world, collapsed on August 8. Mike Powell jumped 29 feet 4 and a half inches at the world championships in Tokyo on August 30, breaking Bob Beamon's 23-year-old long jump record. Jeanne Calment passed 116 years and 36 days on March 30 to become the oldest verified person in history. Sumio Iijima published the first report on carbon nanotubes in Nature on November 7.",
+    "Time magazine published an article on May 6 headed The Thriving Cult of Greed and Power, about Scientology. Janet Jackson signed with Virgin Records for $30 million on March 11, and Michael Jackson signed with Sony for a billion dollars nine days after that. The Black or White video went out in 27 countries at once on November 14 to an audience of 500 million, and Fox took its highest Nielsen rating to date carrying it. Whitney Houston sang The Star-Spangled Banner before Super Bowl XXV on January 27 and the recording was released as a single."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.gulf_war",
+    "world.soviet_dissolution",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "tech.web_first_site",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George H. W. Bush (R)",
+      "detail": "Third year in office. He gave his second State of the Union Address on January 29. Dick Cheney, as Secretary of Defense, cancelled the $57,000,000,000 order for the McDonnell Douglas A-12 Avenger II on January 7. Bush named Edward Rell Madigan Secretary of Agriculture on January 25, replacing Clayton Keith Yeutter, who left the post on March 1 after being elected chairman of the Republican National Committee. Tens of thousands rallied in Washington against the war in the Persian Gulf on January 26. Speaker of the House Tom Foley announced on October 3 that the House Bank would close by the end of the year, after revelations that members had written numerous bad checks.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "pol.gulf_war": {
+      "section": "politics",
+      "label": "Gulf War fought and ended",
+      "value": "Operation Desert Storm opened with air strikes on Iraq on January 17, the ground assault into Kuwait began on February 24, and Bush declared Kuwait liberated on February 27",
+      "detail": "The two cached year pages disagree on both dates, so this fact cites the dedicated article, pulled as raw wikitext and the only source in this file from outside the cache. Its infobox gives Operation Desert Storm as running from 17 January to 28 February 1991 and says the coalition launched the ground assault on 24 February and halted after one hundred hours. The US year page gives January 17 for the air strikes and the year page gives January 16; the year page gives February 24 for the ground phase at 4 a.m. local time and the US year page gives February 7. Congress had authorised the use of force on January 12 and the United Nations deadline for an Iraqi withdrawal expired on January 15. A Scud missile fragment hit an American barracks at Dhahran on February 25 and killed 29 soldiers, the deadliest attack on US forces in the war by both cached pages. Two laser-guided bombs destroyed a Baghdad bunker on February 13, killing 314 Iraqis including 130 children by the US year page's count, with American intelligence calling the structure a signals site and Iraqi officials calling it a bomb shelter. Retreating Iraqi troops set the Kuwaiti oil fields alight from February 26 and the year page says the fires burned until November 7. Operation Phase Echo started 540,000 American troops home on March 10, and about 200,000 people watched 8,800 of them parade in Washington on June 7.",
+      "date": "1991-01-17",
+      "source": "https://en.wikipedia.org/wiki/Gulf_War"
+    },
+    "pol.clarence_thomas": {
+      "section": "politics",
+      "label": "Clarence Thomas confirmed to the Supreme Court",
+      "value": "The Senate voted 52 to 48 to confirm him, after the Judiciary Committee had interviewed him and the law professor Anita Hill from October 11 to 13 about her allegation that he had sexually harassed her while she worked for him",
+      "detail": "Thurgood Marshall, the first African American appointed to the court, announced his retirement on June 27 for declining health, and said at his press conference the next day that race should not be the basis for choosing his successor. Bush nominated Thomas on July 1.",
+      "date": "1991-10-15",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "pol.rodney_king": {
+      "section": "politics",
+      "label": "Rodney King beating filmed",
+      "value": "An amateur video captured Los Angeles police officers beating the motorist, and four of them were indicted on March 15",
+      "detail": "The US year page calls the video amateur and the year page dates the indictment of four officers to March 15. The television page says King had led the officers on a high-speed chase and was alleged to have resisted arrest, and that portions of the tape were broadcast repeatedly.",
+      "date": "1991-03-03",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "pol.presidential_race": {
+      "section": "politics",
+      "label": "Candidates declare against Bush",
+      "value": [
+        "Bill Clinton, Governor of Arkansas, announced a run for the Democratic nomination on October 2",
+        "David Duke, a white separatist, announced a run for the Republican nomination on December 4",
+        "Pat Buchanan announced a run for the Republican nomination on December 11"
+      ],
+      "detail": "Duke had lost the Louisiana governor's race to Edwin Edwards on November 5 by what the US year page calls an overwhelming margin, while winning a majority of the white vote.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "pol.economy": {
+      "section": "politics",
+      "label": "Dow Jones Industrial Average passes 3,000",
+      "value": "It closed above 3,000 for the first time on April 17, and the early 1990s recession ended in February",
+      "detail": "Both cached year pages carry the April close and neither gives the closing figure itself, only the threshold. The US year page dates the end of the recession to February and attaches no day to it, which is the only month-only date in this file. The year page's own summary singles out the April close.",
+      "date": "1991-04-17",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "world.soviet_dissolution": {
+      "section": "world",
+      "label": "The Soviet Union is dissolved",
+      "value": "The Supreme Soviet met for the last time, formally dissolved the state and adjourned sine die, a day after Gorbachev resigned as president",
+      "detail": "The year page says the resignation on December 25 anticipated the dissolving of a 69-year-old state from which most republics had already seceded, and that remaining Soviet institutions ceased operation by December 31. The leaders of Russia, Belarus and Ukraine had signed an agreement in the Bialowieza Forest Nature Reserve in Belarus on December 8 ending the Soviet Union and putting the Commonwealth of Independent States in its place. Ukrainians voted overwhelmingly for independence in a referendum on December 1. Boris Yeltsin, elected president of the Russian SFSR on June 12, wrote to the United Nations Secretary-General Javier Perez de Cuellar on December 24 to say Russia would succeed the Soviet Union at the United Nations, and the Russian SFSR renamed itself the Russian Federation on December 25. A referendum on March 17 had 77 percent of Soviet voters in favour of retaining the union. Comecon was dissolved in Moscow on June 28.",
+      "date": "1991-12-26",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.soviet_republics": {
+      "section": "world",
+      "label": "Republics declare independence",
+      "value": [
+        "Estonia, August 20, followed by Latvia the next day",
+        "Ukraine, August 24, followed by Belarus the next day",
+        "Moldova, August 30",
+        "Kyrgyzstan and Uzbekistan, August 31",
+        "Armenia, September 21",
+        "Georgia, which voted for independence on March 31, its Supreme Council declaring the Republic of Georgia on April 9"
+      ],
+      "detail": "Iceland was the first state to recognise the independence of the Baltic republics, on August 22, the United States followed on September 2 and the Soviet Union on September 6. Estonia, Latvia and Lithuania joined the United Nations on September 17, alongside North Korea, South Korea, the Marshall Islands and Micronesia. Soviet forces had stormed Vilnius on January 13 to stop Lithuanian independence, killing 14 civilians and injuring 702 more, Lithuania formally declared independence on February 16, and Soviet special purpose police killed seven Lithuanian customs officials at Medininkai on July 31. The Congress of People's Deputies of the Soviet Union voted on September 5 for measures the year page ties to the collapse of the state. The leaders of the three Baltic states met with Gorbachev on October 15.",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.yugoslavia": {
+      "section": "world",
+      "label": "Croatia and Slovenia leave Yugoslavia",
+      "value": "Both republics declared independence, and the Ten-Day War in Slovenia was ended by the Brioni Agreement on July 7",
+      "detail": "Croatian voters had chosen to leave in a referendum on May 19. Serbian forces began attacking Vukovar on August 25 and the Yugoslav People's Army and Serb paramilitaries took the town on November 18 after an 87-day battle, killing more than 260 Croatian prisoners of war. The Yugoslav People's Army surrounded Dubrovnik on October 1 and the Yugoslav Air Force bombed the office of the Croatian government on October 7. Macedonia became independent on September 8. Croatian forces killed 18 Serbs and one Hungarian at Paulin Dvor on December 11. The United Nations Security Council opened the way to peacekeeping in Yugoslavia on November 27. Massive demonstrations against Slobodan Milosevic in Belgrade on March 9 left two people dead.",
+      "date": "1991-06-25",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.warsaw_pact": {
+      "section": "world",
+      "label": "Warsaw Pact dissolved",
+      "value": "Formally wound up in Prague, Czechoslovakia",
+      "detail": "The first Soviet troops had left Poland on April 9. Czechoslovakia abandoned its command economy on January 1, which the year page calls the second Eastern European country to do so, the leaders of Czechoslovakia, Hungary and Poland established the Visegrad Group on February 15 to cooperate on moving toward free-market systems, the Warsaw Stock Exchange opened on April 12 and the European Bank for Reconstruction and Development was inaugurated on April 15. Poland held its first free parliamentary elections since 1928 on October 27. Members of the Communist Party of Great Britain voted to dissolve the party on November 23, and the CPSU and the Communist Party of the Russian SFSR were banned in the Russian SFSR by presidential decree on November 6. The Bulgarian parliamentary election of October 13 left no Communist government anywhere in Eastern Europe, by the year page's account. The North Atlantic Cooperation Council met for the first time on December 21.",
+      "date": "1991-07-01",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.start_i": {
+      "section": "world",
+      "label": "START I signed",
+      "value": "Bush and Gorbachev signed the strategic arms reduction treaty in Moscow",
+      "detail": "Bush announced unilateral reductions in short-range nuclear weapons on September 27. Gorbachev had gone to London on July 16 to ask the leaders of the G7 for aid, and Germany formally regained complete independence on March 15 when France, the United Kingdom, the United States and the Soviet Union gave up their remaining rights as occupying powers. The Soviet Union restored diplomatic relations with Israel on October 18 after a break the year page dates to 1967, and announced on September 11 that it would withdraw military and economic aid to Cuba.",
+      "date": "1991-07-31",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.apartheid": {
+      "section": "world",
+      "label": "South Africa repeals apartheid laws",
+      "value": "Parliament repealed the Population Registration Act, which had required every South African to be racially classified at birth, twelve days after voting to repeal the laws banning Black ownership of land",
+      "detail": "The European Economic Community lifted its economic sanctions on April 15, the International Olympic Committee readmitted South Africa on July 9 and Bush ended the American sanctions enacted in 1986 the following day. The sports page says South Africa was readmitted to the International Cricket Council and played its first international match since 1970. Nelson Mandela of the African National Congress and Mangosuthu Buthelezi of Inkatha met on January 29. Gunmen opened fire on mourners at the funeral of an African National Congress leader in Sebokeng on January 9 and killed 45 people, and the African National Congress led a general strike on November 4 and 5.",
+      "date": "1991-06-17",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.pinatubo": {
+      "section": "world",
+      "label": "Mount Pinatubo erupts",
+      "value": "The eruption in the Philippines was the second largest terrestrial eruption of the 20th century, with a final death toll above 800",
+      "detail": "The year page says it cooled the whole planet by around 0.4 degrees Celsius. Mount Unzen in Japan had erupted on June 3, killing 46 people in a pyroclastic flow.",
+      "date": "1991-06-15",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "world.bangladesh_cyclone": {
+      "section": "world",
+      "label": "Cyclone strikes Bangladesh",
+      "value": "An estimated 138,000 people were killed",
+      "detail": "The same day, a magnitude 7.0 earthquake at Racha in Georgia killed 270 people and left 100,000 homeless. A 6.4 earthquake in the Hindu Kush had left 848 dead in northeast Afghanistan on February 1, a 7.7 earthquake struck Costa Rica and Panama on April 22, and a 6.8 earthquake at Uttarkashi in India on October 20 killed at least 768 people. Tropical Storm Thelma caused flash floods at Ormoc in the Philippines on November 5 and killed more than 4,900 people.",
+      "date": "1991-04-29",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Terminator 2: Judgment Day, $520,881,154, Tri-Star",
+        "Robin Hood: Prince of Thieves, $390,493,908, Warner Bros.",
+        "Beauty and the Beast, $346,317,207, Walt Disney Pictures",
+        "Hook, $300,854,984, TriStar",
+        "The Silence of the Lambs, $272,742,922, Orion"
+      ],
+      "detail": "Worldwide box-office gross rather than a North American total or rentals. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it calls the entries the top ten films released this year by worldwide gross, so header and text agree. JFK was sixth at $205,405,498 for Warner Bros., The Naked Gun 2 1/2: The Smell of Fear seventh at $192,230,411 for Paramount, The Addams Family eighth at $191,502,426 for Paramount and Orion, Cape Fear ninth at $182,291,969 for Universal and Hot Shots! tenth at $181,096,164 for 20th Century Fox. The Beauty and the Beast figure is not printed as a number on the page: the cell holds an arithmetic expression that subtracts a later IMAX release, $25,487,190 domestic and $5,546,156 foreign, from a total of $377,350,553, and an editors' note in the wikitext says the result covers the initial theatrical run rather than lifetime gross. The Terminator 2 reference gives $519,843,345 as an alternative figure for the same film.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "The Silence of the Lambs, produced by Edward Saxon, Kenneth Utt and Ron Bozman",
+      "detail": "Awarded the following spring at the 64th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Billy Crystal for the third year running. The ceremony page calls it the first horror film to win Best Picture and the third film to take the Big Five categories of picture, directing, both lead acting performances and screenplay, after It Happened One Night in 1934 and One Flew Over the Cuckoo's Nest in 1975. It won five awards. Bugsy led the nominations with ten and JFK had eight. Terminator 2: Judgment Day won four awards, and Beauty and the Beast, Bugsy and JFK two each. The other Best Picture nominees were Beauty and the Beast, Bugsy, JFK and The Prince of Tides. Beauty and the Beast was the first animated film nominated for Best Picture and the first film with three nominations for Best Original Song. The telecast on ABC drew 44.44 million viewers for a 29.84 Nielsen share and ran three hours and 33 minutes.",
+      "source": "https://en.wikipedia.org/wiki/64th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Anthony Hopkins, The Silence of the Lambs",
+        "Best Actress, Jodie Foster, The Silence of the Lambs",
+        "Best Supporting Actor, Jack Palance, City Slickers",
+        "Best Supporting Actress, Mercedes Ruehl, The Fisher King"
+      ],
+      "detail": "Jonathan Demme won Best Director, Ted Tally adapted screenplay for the same film and Callie Khouri original screenplay for Thelma & Louise. The ceremony page says John Singleton of Boyz n the Hood was the first African American nominated for Best Director and the youngest nominee in the category, and that Diane Ladd and Laura Dern, nominated for supporting and lead actress, were the first mother and daughter nominated in the same year. Warren Beatty was nominated for Bugsy, Robert De Niro for Cape Fear, Nick Nolte for The Prince of Tides and Robin Williams for The Fisher King. Alan Menken won Best Original Score and shared Best Original Song, both for Beauty and the Beast. The film page's awards table gives the Golden Globe for drama to Bugsy and for comedy or musical to Beauty and the Beast, and the BAFTA award for Best Film to The Commitments, with Alan Rickman taking supporting actor for Robin Hood: Prince of Thieves.",
+      "source": "https://en.wikipedia.org/wiki/64th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Mediterraneo, Italy, directed by Gabriele Salvatores, winner of the Academy Award for Best Foreign Language Film",
+        "Children of Nature, Iceland, directed by Fridrik Thor Fridriksson",
+        "The Elementary School, Czechoslovakia, directed by Jan Sverak",
+        "The Ox, Sweden, directed by Sven Nykvist",
+        "Raise the Red Lantern, Hong Kong, directed by Zhang Yimou"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the ceremony page states each film's country and director. The film page gives the Palme d'Or at Cannes to Barton Fink, directed by Joel and Ethan Coen for the United States, the Golden Lion at Venice to Close to Eden, or Urga, directed by Nikita Mikhalkov for France and the Soviet Union, and the Golden Bear at Berlin to La Casa del sorriso, or The House of Smiles, directed by Marco Ferreri for Italy. Europa Europa, adapted by Agnieszka Holland from the memoirs of Solomon Perel, was nominated for adapted screenplay and took the Golden Globe for foreign language film, and the BAFTA in that category went to The Nasty Girl.",
+      "source": "https://en.wikipedia.org/wiki/64th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "The Silence of the Lambs, February 14, Orion",
+        "Beauty and the Beast, November 22, Walt Disney Pictures' 30th feature film",
+        "Sony Pictures Entertainment formed on August 7 and acquired Columbia Pictures Industries",
+        "Tri-Star Pictures dropped the hyphen to become TriStar Pictures, and RCA/Columbia Pictures Home Video became Columbia-TriStar Home Video",
+        "Frank Mancuso Sr. left as head of Paramount Pictures on March 20, and Brandon Tartikoff was appointed chairman there on July 1",
+        "Mark Canton replaced Frank Price as chairman of Columbia Pictures in October, which the film page dates to the month only"
+      ],
+      "detail": "The film page's only other dated entry for a film is July 3, which it attaches to Terminator 2: Judgment Day for its visual effects from Industrial Light & Magic rather than to a premiere, so no release date is stated for it here. Its debut list gives first film appearances for Halle Berry and Queen Latifah in Jungle Fever, Ice Cube, Morris Chestnut and Regina King in Boyz n the Hood, Edward Furlong in Terminator 2: Judgment Day, Jake Gyllenhaal in City Slickers, Steve Carell in Curly Sue, Brendan Fraser in Dogfight, Philip Seymour Hoffman in Triple Bogey on a Par Five Hole and Leonardo DiCaprio in Critters 3.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, then on a tape. The Silence of the Lambs reached home video before it won Best Picture, which the ceremony page calls the first time that had happened.",
+      "detail": "The television page has E.T. the Extra-Terrestrial making its broadcast network television premiere on CBS on November 28, and the first television sets with a built-in closed-caption display reaching American shops on January 3. Average ticket price $4.21. None of the cached pages carries a rental figure, a tape price or a count of video recorders, so this fact claims nothing about any of them.",
+      "source": "https://en.wikipedia.org/wiki/64th_Academy_Awards"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.21",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1991",
+      "value": [
+        "60 Minutes, CBS, 21.9 rating",
+        "Roseanne, ABC, 19.9",
+        "Murphy Brown, CBS, 18.6",
+        "Cheers, NBC, 17.5",
+        "Home Improvement, ABC, 17.5"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Cheers and Home Improvement tied for fourth. Designing Women was sixth on 17.3 for CBS, Full House seventh on 17.0 for ABC, Murder, She Wrote eighth on 16.9 and Major Dad ninth on 16.8, both CBS, and Coach and Room for Two tied for tenth on 16.7 for ABC. A Different World was 17th on 15.2 and The Cosby Show 18th on 15.0, both NBC, and The Fresh Prince of Bel-Air tied for 22nd on 14.3.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1991%E2%80%9392"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Clarissa Explains It All, Nickelodeon, March 1",
+        "Dinosaurs, ABC, April 26",
+        "Doug, Rugrats and The Ren & Stimpy Show, Nickelodeon, August 11, the first three Nicktoons",
+        "Aeon Flux, MTV, September 1",
+        "The Maury Povich Show, syndication, September 9",
+        "Home Improvement, ABC, September 17",
+        "Step by Step, ABC, September 20",
+        "The Jerry Springer Show, syndication, and Charlie Rose, PBS, both September 30",
+        "I'll Fly Away, NBC, October 7",
+        "Liquid Television, MTV, November 30"
+      ],
+      "detail": "The television page's premiere table gives each date and network. Its events table adds Jennifer Lopez joining In Living Color as a Fly Girl on October 13, alongside Jamie Foxx; Tim Meadows and Adam Sandler joining Saturday Night Live on February 9; Katie Couric replacing Deborah Norville on the Today Show after Norville's last co-anchor appearance on February 22 and being designated co-host on April 5; and Michael Jackson guest voicing on The Simpsons under the name John Jay Smith on September 19. Baywatch was relaunched in first-run syndication on September 23, over a year after NBC cancelled it. An episode of L.A. Law broadcast on February 7 carried what the page calls the first of a series of lesbian kiss episodes, and an episode on March 21 killed off Rosalind Shays down an open elevator shaft.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Concentration, September 20, having started in 1958",
+        "Match Game, July 12, having started in 1962",
+        "The Joker's Wild, March 8, having started in 1972",
+        "Dallas, May 3, having started in 1978",
+        "21 Jump Street, April 27, having started in 1987",
+        "thirtysomething, May 28, having started in 1987",
+        "Twin Peaks, June 10, having started in 1990"
+      ],
+      "detail": "The television page's endings table gives each date and start year. Hunter ended on April 26 after starting in 1984, Head of the Class on June 25 after 1986, China Beach on July 22 after 1988 and Muppet Babies on November 2 after 1984. Johnny Carson told a meeting of NBC affiliate managers at Carnegie Hall on May 23 that he would step down as host of The Tonight Show in May of the following year. Delta Burke made her last appearance on Designing Women on May 13, and Redd Foxx suffered a fatal heart attack on the set of The Royal Family on October 11, which the page says the cast at first took for the joke his Sanford and Son character used to make.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_American_television"
+    },
+    "tv.gulf_war_coverage": {
+      "section": "tv",
+      "label": "Networks clear the schedule for the war",
+      "value": "The three big networks pre-empted their evening line-ups for news coverage of the first day of Operation Desert Storm, dropping The Wonder Years, Growing Pains, Doogie Howser, M.D., Married People and Equal Justice on ABC, 48 Hours, Jake and the Fatman and WIOU on CBS, and Unsolved Mysteries, Night Court, Seinfeld and Hunter on NBC",
+      "detail": "The television page dates the pre-emption to January 16 and says the war began during the networks' evening news broadcasts. The US year page and the dedicated Gulf War article both date the first air strikes to January 17, so the broadcast date and the military date differ by a day and each is stated where it belongs rather than reconciled here. NBC left its telecast of the NHL All-Star Game in the third period on January 19 to carry a Pentagon briefing, and SportsChannel America put the missing coverage into a replay. ABC broke into Super Bowl XXV at half time on January 27 for a Peter Jennings news report on the war and ran the New Kids on the Block halftime show on tape after the game.",
+      "date": "1991-01-16",
+      "source": "https://en.wikipedia.org/wiki/1991_in_American_television"
+    },
+    "tv.launches": {
+      "section": "tv",
+      "label": "Channels that launched",
+      "value": [
+        "The California Channel, cable and satellite, February 4",
+        "ValueVision, cable and satellite, March 12",
+        "Encore and TV Japan, cable, April 1",
+        "CNN Airport, cable and satellite, June 3",
+        "Foxnet, cable and satellite, June 6",
+        "Court TV, cable, July 1",
+        "HBO 2 and HBO 3, cable, August 1"
+      ],
+      "detail": "The television page's launch table gives each date. HBO and Viacom agreed on April 1 to merge Ha! and The Comedy Channel into CTV: The Comedy Network, which was renamed Comedy Central on June 1 to avoid confusion with the Canadian network CTV. Encore went out primarily on TCI cable systems and showed films from the 1960s, 1970s and 1980s. CBS began a late-night crime-investigation block called Crimetime After Primetime on April 1. Turner Broadcasting System and Apollo Investment Fund bought the Hanna-Barbera library for $320 million on October 29.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "(Everything I Do) I Do It for You, Bryan Adams",
+        "I Wanna Sex You Up, Color Me Badd",
+        "Gonna Make You Sweat (Everybody Dance Now), C+C Music Factory",
+        "Rush Rush, Paula Abdul",
+        "One More Try, Timmy T"
+      ],
+      "detail": "Mariah Carey had four songs on the chart, more than any other artist, and Bryan Adams two, the second being Can't Stop This Thing We Started at 59. EMF was sixth with Unbelievable, Extreme seventh with More Than Words, Hi-Five eighth with I Like the Way (The Kissing Game), Surface ninth with The First Time and Amy Grant tenth with Baby Baby. The music page says Baby Baby was the first single by a contemporary Christian artist to reach number one on the pop chart, and that Adams held the top of the UK singles chart for 16 consecutive weeks until U2's The Fly displaced him on November 7.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1991"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard changed how it counted a hit. Nielsen SoundScan started tracking sales on March 1, the Billboard 200 was published from its data in the issue dated May 25, and the Hot 100 followed on November 30.",
+      "detail": "The music page says the older method called shops across the United States and asked what was selling, which was error-prone and open to outright fraud, and that during the changeover the Hot 100 disagreed with the separately monitored airplay and sales charts, naming Paula Abdul's Promise of a New Day and Roxette's Fading Like a Flower as songs that peaked higher than their sales and airplay allowed. Tower Records, the second largest retail chain in the country, was left out of the sample because its shops measured sales with different equipment. Executives complained that the sample was too small and favoured established acts over newcomers, and the page says the chart's new volatility caused deep concern before the industry accepted it. No cached page carries any claim about records, tapes or compact discs for this year, so this fact makes none.",
+      "date": "1991-03-01",
+      "source": "https://en.wikipedia.org/wiki/1991_in_music"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Out of Time, R.E.M., March 12",
+        "Metallica, the band's self-titled black album, August 12",
+        "Ten, Pearl Jam, August 27",
+        "Use Your Illusion I and Use Your Illusion II, Guns N' Roses, September 17",
+        "Nevermind, Nirvana, September 24, the same day as A Tribe Called Quest's The Low End Theory, the Red Hot Chili Peppers' Blood Sugar Sex Magik and the Pixies' Trompe le Monde",
+        "Achtung Baby, U2, November 19",
+        "Dangerous, Michael Jackson, November 26"
+      ],
+      "detail": "The music page says heavy metal was still the dominant form of rock music for the year and that the most popular album in the United States was the Metallica record rather than Nevermind, whose single Smells Like Teen Spirit came out on September 10 after the band played it live for the first time at the OK Hotel in Seattle on April 17. The two Guns N' Roses albums sold a combined excess of 1.3 million copies in their first week in the United States alone, by the page's account. Dangerous sold 5 million copies in its first week. Judge Kevin Thomas Duffy ruled on December 17, in Gilbert O'Sullivan's suit against Biz Markie, that all future samples must be cleared.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Sweden won with Fangad av en stormvind, performed by Carola, at the contest held in Rome",
+      "detail": "The 20th OTI Festival, held at the Centro Internacional Acapulco in Mexico on December 14, was won by Adonde estas ahora, written by Claudia Brant and Sebastian Schon and performed by Brant herself for Argentina. Univision broadcast the final of the 14th National OTI Festival from the Gusman Center for the Performing Arts in Miami on September 19.",
+      "date": "1991-05-04",
+      "source": "https://en.wikipedia.org/wiki/1991_in_music"
+    },
+    "music.lollapalooza": {
+      "section": "music",
+      "label": "First Lollapalooza tour",
+      "value": "Perry Farrell launched it as a farewell for his just-dissolved band Jane's Addiction, with Siouxsie and the Banshees, Nine Inch Nails, Rollins Band, Fishbone and Rage Against the Machine also on the bill",
+      "detail": "Guns N' Roses had opened a 26-month world tour at Alpine Valley in East Troy on May 24. The nine-day Rock in Rio II festival ran in Rio de Janeiro from January 18, headlined by a-ha, Prince, INXS, Guns N' Roses, New Kids on the Block, George Michael and Happy Mondays. Paul Simon played a free concert in Central Park on August 15, broadcast live on HBO. Three people were crushed to death at an AC/DC concert in Salt Lake City on January 18 when the audience rushed the stage.",
+      "date": "1991-07-18",
+      "source": "https://en.wikipedia.org/wiki/1991_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Lemmings, DMA Design, February 14",
+        "Street Fighter II, Capcom, March 7, for arcades",
+        "Sonic the Hedgehog, Sega, June 23, for the Genesis",
+        "Super Nintendo Entertainment System, August 23 in North America, with Super Mario World and F-Zero",
+        "The Legend of Zelda: A Link to the Past, Nintendo, November 21, for the Super Famicom in Japan",
+        "Philips CD-i, December 3 in North America",
+        "Civilization, MicroProse, December 16"
+      ],
+      "detail": "The games page puts Game Boy sales for the year at 7,340,000 or more worldwide, ahead of the Super NES on 5,050,000 or more and the NES and Famicom on 3,940,000 or more. Street Fighter II topped the AAMA ranking of highest-grossing American arcade games and the AMOA ranking of conversion kits, while Teenage Mutant Ninja Turtles topped the AMOA ranking of dedicated cabinets and the Play Meter list. Sega released the Mega-CD in Japan on December 12 and NEC the PC Engine Duo on September 21, and Atari gave the Lynx a smaller case and a better screen in July. Nintendo released Mario The Juggler on October 14, the last Game & Watch title. id Software, Bungie, Cyberdreams and Silicon & Synapse, later called Blizzard Entertainment, were all founded this year, and Game Informer was first published in August.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_video_games"
+    },
+    "tech.web_first_site": {
+      "section": "tech",
+      "label": "First website put online",
+      "value": "Tim Berners-Lee, an English computer scientist working at CERN, announced the World Wide Web project and its software on the alt.hypertext newsgroup, and the first website, info.cern.ch, was created",
+      "detail": "The year page says the Web had been released outside CERN to other research institutions from January and was publicly announced in August. Reaching it meant an account on a research network and a copy of software written for one laboratory. No cached page describes anyone outside a research institution using it this year, or gives a count of sites, readers or machines running the server.",
+      "date": "1991-08-06",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "tech.linux": {
+      "section": "tech",
+      "label": "Linux announced on Usenet",
+      "value": "Linus Torvalds posted messages to the newsgroup comp.os.minix about the operating system kernel he had written, called Linux",
+      "detail": "The year page carries the posting and nothing about who replied or what was released.",
+      "date": "1991-08-25",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "tech.python": {
+      "section": "tech",
+      "label": "Python released",
+      "value": "The programming language created by Guido van Rossum was released",
+      "detail": "The year page dates it to February 20 and cites a posting of Python 0.9.1 to the newsgroup alt.sources.",
+      "date": "1991-02-20",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "tech.gsm": {
+      "section": "tech",
+      "label": "First GSM telephone call",
+      "value": "Made in Finland",
+      "detail": "The year page carries the line and names neither the caller nor the network.",
+      "date": "1991-07-01",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.14 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$4.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two things ended within the same twelve months, a war that took six weeks and a state that had lasted sixty-nine years. The domestic news between them was a bystander's videotape of four policemen beating a man in Los Angeles, and a Senate committee questioning a judge and a law professor about what had happened in an office."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Nadine Gordimer",
+        "Peace, Aung San Suu Kyi",
+        "Physics, Pierre-Gilles de Gennes",
+        "Chemistry, Richard R. Ernst",
+        "Physiology or Medicine, Erwin Neher and Bert Sakmann",
+        "Economics, Ronald Coase"
+      ],
+      "detail": "The year page lists the laureates without dates and says nothing about the ceremonies.",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "culture.dead_sea_scrolls": {
+      "section": "culture",
+      "label": "Dead Sea Scrolls opened to the public",
+      "value": "The Huntington Library made them available to the public for the first time",
+      "detail": "The year page cites a New York Times report of the day headed Monopoly Over Dead Sea Scrolls Is Ended, and a College & Research Libraries News item on the scrolls being opened to the public. It names no other holder and gives no count of documents.",
+      "date": "1991-09-22",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "culture.otzi": {
+      "section": "culture",
+      "label": "Otzi the Iceman found",
+      "value": "The frozen body was found in the Alps",
+      "detail": "The year page carries the find and gives no location beyond the range.",
+      "date": "1991-09-19",
+      "source": "https://en.wikipedia.org/wiki/1991"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Minnesota Twins beat the Atlanta Braves four games to three, with the pitcher Jack Morris named series most valuable player",
+      "detail": "The US year page dates the clinching win to October 27. The television page says CBS carried the series from October 19 to 27, that five games were decided by a single run, four in the final at-bat and three in extra innings, and that Jack Buck signed off Kirby Puckett's game-winning home run on October 26 with the line about seeing you tomorrow night. Nolan Ryan pitched his seventh career no-hitter on May 1, beating Toronto 3 to 0, and Dennis Martinez of the Montreal Expos pitched the 13th perfect game in major league history on July 28, beating Los Angeles 2 to 0. Cal Ripken Jr. was American League most valuable player and Terry Pendleton took the National League award, with Roger Clemens and Tom Glavine the Cy Young winners.",
+      "date": "1991-10-27",
+      "source": "https://en.wikipedia.org/wiki/1991_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXV",
+      "value": "The New York Giants beat the Buffalo Bills 20 to 19 at Tampa Stadium in front of 73,813, with the running back Ottis Anderson named most valuable player",
+      "detail": "Thurman Thomas of the Bills was named NFL most valuable player for the season. Colorado beat Notre Dame 10 to 9 in the Orange Bowl to take the Associated Press national championship for the previous college season, which the sports page carries without a date, and Desmond Howard of Michigan sealed the Heisman Trophy with a 93-yard punt return against Ohio State. The London Monarchs beat the Barcelona Dragons 21 to 0 in the first World Bowl.",
+      "date": "1991-01-27",
+      "source": "https://en.wikipedia.org/wiki/1991_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Pittsburgh Penguins over the Minnesota North Stars, four games to two",
+        "NBA Finals, Chicago Bulls over the Los Angeles Lakers, four games to one, the franchise's first championship",
+        "NCAA basketball, Duke 72, Kansas 65",
+        "Grey Cup, Toronto Argonauts 36, Calgary Stampeders 21",
+        "Rugby World Cup, Australia over England in the final, in a tournament held in the United Kingdom, the Republic of Ireland and France from October 3 to November 2",
+        "World Snooker Championship, John Parrott over Jimmy White, 18 to 11",
+        "AFL premiership, Hawthorn 20.19 (139), West Coast 13.8 (86)"
+      ],
+      "detail": "The US year page dates the Bulls' win to June 12 and the Penguins' clinching game to May 25, an 8 to 0 win. Mario Lemieux took the Conn Smythe Trophy, Wayne Gretzky the Art Ross as the NHL's leading scorer and Brett Hull the Hart as most valuable player. Michael Jordan was NBA most valuable player, Associated Press Male Athlete of the Year and Sports Illustrated Sportsman of the Year, and Monica Seles, who won three of the four tennis majors, was Associated Press Female Athlete of the Year. Red Star Belgrade beat Marseille 5 to 3 on penalties for the European Cup after a goalless draw. Miguel Indurain won the Tour de France and Franco Chioccioli the Giro d'Italia. Ian Woosnam took the Masters, Payne Stewart the US Open, Ian Baker-Finch the British Open and John Daly the PGA Championship, and Tiger Woods won the US Junior Amateur at 15. England completed the Grand Slam in the 97th Five Nations Championship. The Cleveland Cavaliers beat the Miami Heat 148 to 80 on December 17, the largest margin in any NBA game.",
+      "source": "https://en.wikipedia.org/wiki/1991_in_sports"
+    },
+    "sports.womens_world_cup": {
+      "section": "sports",
+      "label": "First FIFA Women's World Cup",
+      "value": "The United States beat Norway 2 to 1 in the final, held in China",
+      "detail": "The United States men's team had won the first CONCACAF Gold Cup on July 7. The eleventh Pan American Games were held in Havana in August, the fifth All-Africa Games in Cairo and the sixteenth Summer Universiade in Sheffield.",
+      "date": "1991-11-30",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "sports.magic_johnson": {
+      "section": "sports",
+      "label": "Magic Johnson retires with HIV",
+      "value": "The Los Angeles Lakers point guard announced at a televised press conference that he was HIV-positive and was leaving the NBA immediately",
+      "detail": "The television page says he appeared as a guest on The Arsenio Hall Show the next night, and that the NBA Finals he had just played, from June 2 to 12, were the last of his career, NBC's first after 17 years of the event on CBS and Michael Jordan's first.",
+      "date": "1991-11-07",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "deaths.mercury": {
+      "section": "deaths",
+      "label": "Freddie Mercury",
+      "value": "Died November 24, aged 45",
+      "detail": "Lead singer of Queen. He confirmed to the press that he had AIDS one day before his death in London. Queen had released Innuendo, the last album of his lifetime, on February 5, and Bohemian Rhapsody went to number one in Britain a second time as a double A-side with These Are the Days of Our Lives.",
+      "date": "1991-11-24",
+      "source": "https://en.wikipedia.org/wiki/1991_in_music"
+    },
+    "deaths.davis": {
+      "section": "deaths",
+      "label": "Miles Davis",
+      "value": "Died September 28. Born 1926",
+      "detail": "Jazz trumpeter.",
+      "date": "1991-09-28",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "deaths.geisel": {
+      "section": "deaths",
+      "label": "Dr. Seuss",
+      "value": "Died September 24. Born 1904",
+      "detail": "Author.",
+      "date": "1991-09-24",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "deaths.capra": {
+      "section": "deaths",
+      "label": "Frank Capra",
+      "value": "Died September 3. Born 1897",
+      "detail": "Film director, born in Italy.",
+      "date": "1991-09-03",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "deaths.landon": {
+      "section": "deaths",
+      "label": "Michael Landon",
+      "value": "Died July 1. Born 1936",
+      "detail": "Actor. The television page says he was diagnosed with inoperable pancreatic cancer in April and appeared as a guest on The Tonight Show Starring Johnny Carson on May 9.",
+      "date": "1991-07-01",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    },
+    "deaths.roddenberry": {
+      "section": "deaths",
+      "label": "Gene Roddenberry",
+      "value": "Died October 24. Born 1921",
+      "detail": "Television producer and creator of Star Trek. The television page says Star Trek: The Next Generation dedicated a two-part episode to him after his death.",
+      "date": "1991-10-24",
+      "source": "https://en.wikipedia.org/wiki/1991_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1991. figures_basis is gross, checked with bo.mjs rather than assumed from the era, and this year's table is worldwide rather than North American: the column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above the table calls the entries the top ten films released in 1991 by worldwide gross, so header and text agree. film.gross names worldwide in its label and in its detail so the figures are not read as domestic, which is what the 1987 table gives. The Beauty and the Beast cell holds no printed number: the wikitext is an arithmetic expression subtracting a later IMAX release ($25,487,190 domestic and $5,546,156 foreign) from a pre-reissue total of $377,350,553, which evaluates to $346,317,207, and an editors' note in the same cell says the figure covers the initial theatrical run rather than lifetime gross. film.gross states the arithmetic rather than presenting the result as a printed figure. The Terminator 2 citation quotes $519,843,345 against the $520,881,154 in the cell, and film.gross names both. Date checks. Two real disagreements, both between the cached year pages and both resolved against the dedicated article. On the start of the air campaign the US year page gives January 17 and the year page gives January 16. On the start of the ground phase the year page gives February 24 at 4 a.m. local time and the US year page gives February 7. https://en.wikipedia.org/wiki/Gulf_War was pulled as raw wikitext and is the only source in this file from outside the cache: its infobox dates Operation Desert Storm from 17 January to 28 February 1991, and the body says the coalition launched the ground assault on 24 February and halted after one hundred hours. pol.gulf_war therefore cites the dedicated article, takes January 17 as its date field, and names both disagreements in its detail. The television page independently dates the network pre-emption for the first day of the war to January 16 and says the fighting began during the evening news broadcasts, which is why tv.gulf_war_coverage keeps January 16 as its own date and says so; the two are not the same claim, one being a broadcast schedule and the other a military timeline. The Luby's shooting in Killeen on October 16 is 23 dead on the year page and 24 on the US year page, so the texture carries it with no toll and it gets no fact. The 64th Academy Awards honouring this year of film fall on a date in the following year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a token later than 1991. The 63rd Academy Awards of March 25, hosted by Billy Crystal at the Shrine Auditorium, are left out for the same reason 1989 leaves out the 61st: they honoured the previous year of film and would put a second Best Picture on the page. The 33rd Grammy Awards of February 20 in New York, hosted by Garry Shandling, which gave Album of the Year to Quincy Jones's Back on the Block and Record of the Year to Phil Collins's Another Day in Paradise, are out on the same ground. The Golden Globe and BAFTA ceremony dates on the film page's awards table both fall in the following year, so film.acting_awards and film.world_cinema name those winners without dating the ceremonies. Section windows. tech.internet does not open until 1993, so no fact carries a tech.internet or tech.web_sites id. Berners-Lee's August announcement sits under tech.web_first_site, a plain tech id, and the fact says outright that reaching the site meant an account on a research network and a copy of software written for one laboratory, and that no cached page describes anyone outside a research institution using it or gives a count of sites or readers. The year page's forward-looking sentence about this step leading to a public breakthrough later in the decade was read and not used. Linux and Python sit under plain tech ids for the same reason: both are a posting to a newsgroup, and neither fact claims a user. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that. The Nielsen ranking covers a season that began in the autumn of 1991 and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: film.how_people_watched cites the ceremony page, which is the only page carrying the home-video claim, and takes the E.T. network premiere and the closed-caption television sets from the television page; film.acting_awards and film.world_cinema cite the ceremony page and take the Golden Globe, BAFTA, Cannes, Venice and Berlin winners from the film page's awards section; tv.top_shows cites the ratings page and nothing else; music.hot100_year_end cites the chart page and takes the Amy Grant and Bryan Adams lines from the music page; sports.world_series cites the sports page for the result and the most valuable player and takes the October 27 clinching date from the US year page and the broadcast detail, the single-run games and the Jack Buck call from the television page; sports.super_bowl cites the sports page throughout; sports.champions cites the sports page and takes the two clinching dates from the US year page; sports.magic_johnson cites the US year page and takes the Arsenio Hall appearance and the NBC Finals detail from the television page; deaths.landon and deaths.roddenberry cite the US year page for the date and birth year and take one detail each from the television page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre before it reached a tape, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Two claims that were drafted from general knowledge and then cut rather than flagged, because the cached pages do not carry them: that Aung San Suu Kyi was under house arrest and did not collect the Peace Prize, and that the Dead Sea Scrolls monopoly had been held by a small group of scholars. culture.nobel_prizes and culture.dead_sea_scrolls now say only what the year page says. The death of Eric Carr of Kiss on the same day as Freddie Mercury was likewise cut from deaths.mercury's detail, because the year page itself calls the two deaths unrelated, so it is not an elaboration of that fact. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year, except deaths.mercury: the US year page does not list him, the year page's November 24 entry gives no age or birth year, and the music page's death list gives 45, so that one fact states an age. Names carrying a four-digit number. Nothing in this file needed an entry in src/data/name_years.json, and that file was not touched. Three candidates were checked and all three are safe: the Population Registration Act of 1950 named in world.apartheid and the four earlier years in tv.endings are all lower than 1991, and the check only fires on a number greater than the page year; Janet Jackson's album Rhythm Nation 1814, considered for the music section, is 1814 and would have been safe, but the album is not named because the record it set belongs to the previous year's release. Month-only or undated facts. Every dated fact here carries a full date. The one month-only date in the file is inside pol.economy: the US year page dates the end of the early 1990s recession to February and attaches no day, which that fact's detail says outright, and the fact's own date field is the April 17 Dow close instead. The October chairman change at Columbia Pictures is also dated to the month only on the film page, which film.releases says. The undated facts are the list facts and the two annual series figures. Dropped for lack of a source that says enough, or for room: Mike Powell's long jump of 29 feet 4 and a half inches at the world championships in Tokyo on August 30, in the texture, where the sports page's phrasing about Bob Beamon's 23-year-old record is kept without naming the year it was set or the mark it replaced; Jeanne Calment passing 116 years and 36 days on March 30, also in the texture, without the birth and death years the year page gives for the previous holder Easter Wiggins; the series of tornadoes across the central United States on April 26, which is 55 tornadoes killing 21 on the year page and 70 tornadoes killing 17 on the US year page, dropped entirely rather than written with either count; the Rajiv Gandhi assassination at Sriperumbudur on May 21, which killed at least 14 others, dropped for room after world ran to eight facts; Mengistu Haile Mariam fleeing Ethiopia the same day, Operation Solomon of May 24, and the Eritrean People's Liberation Front entering Asmara, all dropped for room; the Somali civil war beginning with the overthrow of Siad Barre on January 26 and the secession of Somaliland on May 18; the Haitian coup attempt of January 7 and the ousting of Jean-Bertrand Aristide, which the year page dates to February 7 in a line the US year page does not carry; the assassination of Shapour Bakhtiar on August 7; the Madrid Conference opening on October 30; the release of Terry Waite and Thomas Sutherland on November 18 and of Terry A. Anderson on December 4 after seven years, the last and longest-held American hostage in Lebanon; the indictment of Bank of Credit and Commerce International on July 29 for what the year page calls the largest bank fraud in history, defrauding depositors of $5 billion; the collapse of Pan Am on December 4 after 64 years and of Eastern Air Lines on January 18 after 62; Exxon agreeing on March 13 to pay $1,000,000,000 for the Exxon Valdez clean-up; the Acid Rain Treaty signed the same day; the Chemical Bank and Manufacturers Hanover merger of July 15, which the year page calls the largest bank merger in history; the arrest of Jeffrey Dahmer on July 22 and of Mike Tyson the same day on a rape charge, both cut rather than parked in a neighbouring fact's detail; the Sacramento hostage crisis of April 4; the Father's Day bank massacre in Denver on June 16; the University of Iowa shooting of November 1 and the Royal Oak post office shooting of November 14; the Tailhook symposium of September 8 to 12; the deaths of Senator John Heinz on April 4 and former Senator John Tower on April 5 in separate aircraft crashes; the Merida air disaster; the Oh-My-God particle detected on October 15; the first attempt to cure cancer by gene therapy at the National Cancer Institute on January 29; the solar eclipse of record totality on July 11; Galileo's approach to the asteroid 951 Gaspra on October 29; the 1991 Soviet coup attempt of August 19, the collapse of the Warsaw radio mast, the Perfect Storm, the Halloween blizzard, the Oakland Hills firestorm, the Imperial Foods fire, the Luby's shooting, the July 1 telephone outage, the carbon nanotube report of November 7, the Time article on Scientology, the two Jackson recording contracts, the Black or White premiere and Whitney Houston's national anthem, all in the texture instead of a fact each; the launch of Flix by Showtime Networks, which the television page places a year and a half after Encore's April 1 start and therefore outside this year, cut from tv.launches for that reason. Names and titles are written in ASCII per the corpus convention, so Fangad av en stormvind, Adonde estas ahora, Fridrik Thor Fridriksson, Jan Sverak, Slobodan Milosevic, Bialowieza, Javier Perez de Cuellar, Otzi, Dennis Martinez and Aeon Flux lose their diacritics. Deaths that would have earned a place with more room: Martha Graham on April 1, Leo Fender on March 21, Stan Getz on June 6, Redd Foxx on October 11, Fred MacMurray on November 5, Ralph Bellamy on November 29, Klaus Kinski on November 23, Lee Remick on July 2, Jean Arthur on June 19, Colleen Dewhurst on August 22, Tennessee Ernie Ford on October 17, Paul Brown on August 5, Leo Durocher on October 7, Bill Graham on October 25, Joseph Papp on October 31, Serge Gainsbourg on March 2, Margot Fonteyn on February 21, Howard Ashman on March 14, Steve Marriott on April 20, David Ruffin on June 1, Edwin H. Land on March 1, John Bardeen on January 30, Carl David Anderson on January 11, George Stigler on December 1, Berenice Abbott on December 9, Danny Thomas on February 6, Red Grange on January 28 and Happy Chandler on June 15. This file runs 53 facts across 10 sections, one past the top of the 40 to 52 the brief asks for: politics 6, world 8, film 7, tv 5, music 5, tech 5, prices 2, culture 4, sports 5, deaths 6. The extra fact is pol.economy, which exists because the Dow close and the end of the recession had no other home: parking either in a neighbouring fact's detail would have put an economic figure under a fact about something else, which the brief rules out. World runs to 8 against the roughly 7 the brief suggests, which is inside what 1982 and 1989 already do, because the year carries the dissolution of the Soviet Union, the independence of eleven of its republics, the start of the Yugoslav wars, the winding up of the Warsaw Pact, START I, the repeal of the Population Registration Act in South Africa, the Pinatubo eruption and a cyclone that killed an estimated 138,000 people in Bangladesh, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong."
+}

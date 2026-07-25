@@ -1,0 +1,508 @@
+{
+  "year": 1995,
+  "tier": "modern",
+  "headline": "Windows 95 shipped in August, a bomb killed 168 people in Oklahoma City in April, and Rabin was shot in November",
+  "texture": [
+    "The Sampoong Department Store in the Seocho-gu district of Seoul came down on June 29, killing 502 people and injuring 937. A fire in the Baku Metro on October 28 killed 289 passengers. An avalanche buried part of Flateyri in Iceland on October 26 and killed 20, the second one in Iceland that year, and Typhoon Angela left 882 dead in the Philippines and Vietnam on November 7. American Airlines Flight 965 flew into a mountain near Buga in Valle del Cauca on December 20, killing 160 of the 164 aboard.",
+    "On February 23 the Dow closed at 4,003.33, and on November 21 at 5,023.55, two millennium marks inside one year. Denver International Airport opened on February 27 as Stapleton shut. Mississippi ratified the Thirteenth Amendment on March 16, the last state to ratify it. Shawn Nelson stole an M60A3 tank from a National Guard armory and drove it through San Diego on May 17. Clinton shut part of Pennsylvania Avenue by the White House to vehicles on May 20, and the Korean War Veterans Memorial was dedicated on July 27.",
+    "Andrew Wiles's proof of Fermat's Last Theorem appeared in the Annals of Mathematics in May. Valeri Polyakov came back from Mir on March 22 with 438 days in space behind him, and Norman Thagard became the first American to ride up on a Russian launch vehicle, on March 14. Alan Hale and Thomas Bopp each found the same comet on July 23. The Big Ear at the Ohio State University Radio Observatory ended a search for extraterrestrial radio signals it had run continuously for 22 years, and the last signal from Pioneer 11 reached NASA on November 1.",
+    "Michel Sardou started a run of 113 shows at the Paris Olympia on January 10. Roxette played to 12,000 people in Beijing on February 19, the first Western band let into the Workers' Indoor Arena in ten years. Def Leppard entered the Guinness Book of World Records on October 23 by playing Tangier, London and Vancouver on one day. Steve Fossett landed a balloon at Leader in Saskatchewan on February 21 after crossing the Pacific alone. Aung San Suu Kyi walked out of house arrest on July 10."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.oklahoma_city",
+    "world.rabin",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "tech.windows_95",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Al Gore was Vice President and William Rehnquist Chief Justice. Tom Foley was Speaker of the House until January 3 and Newt Gingrich from January 4. George J. Mitchell was Senate majority leader until January 3 and Bob Dole from that day. Robert Rubin was sworn in as Secretary of the Treasury on January 11, succeeding Lloyd Bentsen. Clinton gave the State of the Union address on January 24.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "pol.republican_congress": {
+      "section": "politics",
+      "label": "Republicans take both houses of Congress",
+      "value": "The 104th Congress convened, the first controlled by Republicans in both houses since the two years from 1953 to 1955",
+      "detail": "The House passed a balanced budget amendment to the Constitution by 300 votes to 132 on January 26, and the Senate voted an amendment down by one vote on March 2. The House voted 246 to 188 on April 5 to cut taxes for individuals and corporations, and House Republicans celebrated the passage of most of the Contract with America on April 7. The House passed the Partial-Birth Abortion Ban Act on November 1.",
+      "date": "1995-01-04",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "pol.oklahoma_city": {
+      "section": "politics",
+      "label": "Oklahoma City bombing",
+      "value": "A bomb set off by Timothy McVeigh at the Alfred P. Murrah Federal Building killed 168 people, including eight federal marshals and 19 children, and wounded 680",
+      "detail": "The year page calls it the deadliest act of domestic terrorism in United States history and names Terry Nichols as an accomplice. Clinton visited the city on April 23 and told the crowd that today our nation is joined with you in grief. What was left of the building was demolished on May 23. Clinton closed part of Pennsylvania Avenue in front of the White House to traffic on May 20 in response to the bombing.",
+      "date": "1995-04-19",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "pol.government_shutdown": {
+      "section": "politics",
+      "label": "Federal government shuts down twice",
+      "value": "A budget standoff between Democrats and Republicans in Congress closed the federal government from November 14 to 19, and a second shutdown began on December 16",
+      "detail": "The US year page dates the reopening of the second shutdown to a day in the following year, so no end date is given here.",
+      "date": "1995-11-14",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "pol.mexico_loan": {
+      "section": "politics",
+      "label": "Emergency loan to Mexico",
+      "value": "Clinton invoked emergency powers to extend a $20 billion loan to help Mexico avert financial collapse",
+      "detail": "The year page files the same day under the Mexican peso crisis.",
+      "date": "1995-01-31",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "world.rabin": {
+      "section": "world",
+      "label": "Yitzhak Rabin assassinated",
+      "value": "The Israeli prime minister was shot at a peace rally in Tel Aviv",
+      "detail": "The year page carries the killing in one line, with no gunman named, no reaction and no successor.",
+      "date": "1995-11-04",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "world.bosnia": {
+      "section": "world",
+      "label": "Srebrenica massacre and the end of the Bosnian War",
+      "value": "Units of the Army of Republika Srpska under General Ratko Mladic entered Srebrenica against little resistance from Dutch peacekeepers of the United Nations Protection Force and went on to kill thousands of Bosniak men and boys and rape many women",
+      "detail": "Twenty-one Bosnian Serb commanders had been charged with genocide and crimes against humanity on February 13. NATO began Operation Deliberate Force against Bosnian Serb artillery on August 30. A United Nations tribunal charged Radovan Karadzic and Mladic with genocide on November 16. Talks opened at Wright-Patterson Air Force Base near Dayton, Ohio on November 1, the Dayton Agreement was reached there on November 21 and signed in Paris on December 14, and NATO began peacekeeping in Bosnia on December 20.",
+      "date": "1995-07-11",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "world.kobe": {
+      "section": "world",
+      "label": "Great Hanshin earthquake",
+      "value": "A magnitude 6.9 earthquake struck southern Hyogo Prefecture in Japan with a maximum Shindo of 7, leaving between 5,502 and 6,434 people dead",
+      "detail": "The year page gives the displaced as between 251,301 and 310,000 and cites statistics published by the City of Kobe. Its own image caption rounds the toll to over 6,000, which is the top of the range the text gives rather than a separate figure.",
+      "date": "1995-01-17",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "world.tokyo_sarin": {
+      "section": "world",
+      "label": "Tokyo subway sarin attack",
+      "value": "Members of the doomsday cult Aum Shinrikyo released sarin on the subway, killing 14 people and injuring over a thousand",
+      "detail": "Japanese police besieged the cult's headquarters near Mount Fuji on May 16 and arrested its leader Shoko Asahara. Further operations brought over two hundred arrests, and thirteen members including Asahara were sentenced to death.",
+      "date": "1995-03-20",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "world.wto": {
+      "section": "world",
+      "label": "World Trade Organization established",
+      "value": "The WTO replaced the General Agreement on Tariffs and Trade",
+      "date": "1995-01-01",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "world.eu_enlargement": {
+      "section": "world",
+      "label": "Austria, Finland and Sweden join the European Union",
+      "value": "The three countries entered on the first day of the year",
+      "detail": "The Schengen Agreement, which the year page says eased cross-border travel, took effect in several European countries on March 26. Twenty-seven nations signed the Barcelona Treaty on November 28, creating the Union for the Mediterranean. The European Parliament elected its first European Ombudsman, Jacob Soderman, in September.",
+      "date": "1995-01-01",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "world.barings": {
+      "section": "world",
+      "label": "Barings Bank collapses",
+      "value": "The United Kingdom's oldest investment banking firm failed after the securities broker Nick Leeson lost $1.4 billion speculating on the Tokyo Stock Exchange",
+      "date": "1995-02-26",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Die Hard with a Vengeance, $366,101,666, 20th Century Fox",
+        "Toy Story, $361,958,736, Walt Disney Pictures",
+        "Apollo 13, $355,237,933, Universal",
+        "GoldenEye, $352,194,034, MGM",
+        "Pocahontas, $346,079,773, Walt Disney Pictures"
+      ],
+      "detail": "Worldwide gross rather than domestic. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it calls the entries the top ten films released this year by worldwide gross, so header and text agree. Batman Forever was sixth at $336,529,144 for Warner Bros., Seven seventh at $327,311,859 for New Line, Casper eighth at $287,928,194 and Waterworld ninth at $264,218,220, both Universal, and Jumanji tenth at $262,797,249 for Sony and TriStar. A note inside the table's wikitext says the Toy Story figure covers its initial theatrical run and excludes later re-releases, and a capitalised editors' warning on the same row asks that the lifetime gross not be substituted.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Braveheart, produced by Mel Gibson, Bruce Davey and Alan Ladd Jr.",
+      "detail": "Awarded the following spring at the 68th Academy Awards, hosted by Whoopi Goldberg at the Dorothy Chandler Pavilion in Los Angeles. Braveheart led the field with ten nominations and won five awards including Best Director for Gibson, and the ceremony page calls it the ninth film to win Best Picture with no acting nominations. Apollo 13 was second with nine nominations, and Babe and Sense and Sensibility had seven each. The other Best Picture nominees were Apollo 13, Babe, Il Postino: The Postman and Sense and Sensibility. Quincy Jones produced the telecast, which ran three hours and 39 minutes on ABC and drew 44.81 million viewers and 30.48 percent of households, both down on the previous ceremony.",
+      "source": "https://en.wikipedia.org/wiki/68th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Nicolas Cage, Leaving Las Vegas",
+        "Best Actress, Susan Sarandon, Dead Man Walking",
+        "Best Supporting Actor, Kevin Spacey, The Usual Suspects",
+        "Best Supporting Actress, Mira Sorvino, Mighty Aphrodite"
+      ],
+      "detail": "The ceremony page says this was the first year since the 42nd Academy Awards that none of the acting winners appeared in a Best Picture nominee, and that Sorvino was the second actress in a row to take Supporting Actress for a film directed by Woody Allen. Christopher McQuarrie won original screenplay for The Usual Suspects and Emma Thompson adapted screenplay for Sense and Sensibility, which the page says made her the first person to win Oscars for both acting and writing. Alan Menken shared Best Original Song for Colors of the Wind from Pocahontas. John Lasseter took a Special Achievement Award for leading the Pixar team on Toy Story. The film page's awards table gives the Golden Globe for drama to Sense and Sensibility and for comedy or musical to Babe, and the BAFTA award for Best Film to Sense and Sensibility and Best Director to Michael Radford.",
+      "source": "https://en.wikipedia.org/wiki/68th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Antonia's Line, the Netherlands, in Dutch, directed by Marleen Gorris, the winner",
+        "All Things Fair, Sweden, in Swedish, directed by Bo Widerberg",
+        "Dust of Life, Algeria, in French, directed by Rachid Bouchareb",
+        "O Quatrilho, Brazil, in Portuguese and Italian, directed by Fabio Barreto",
+        "The Star Maker, Italy, in Italian, directed by Giuseppe Tornatore"
+      ],
+      "detail": "The ceremony page states each film's country, language and director in this category. Il Postino: The Postman, an Italian production, was nominated for Best Picture instead and won Best Original Score for Luis Bacalov, and its lead Massimo Troisi was nominated for Best Actor after his death. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/68th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Crimson Tide, May 12, which the film page says opened the summer season",
+        "Die Hard with a Vengeance, May 19",
+        "Braveheart, May 24, directed by and starring Mel Gibson",
+        "Batman Forever, June 16, with the highest opening weekend to date at $52.8 million",
+        "Pocahontas, June 23, Walt Disney Pictures' 33rd feature",
+        "Apollo 13, June 30, directed by Ron Howard",
+        "GoldenEye, November 17, the James Bond series resuming after six years with Pierce Brosnan",
+        "Toy Story, November 22, the first feature-length film made entirely with computer-generated imagery"
+      ],
+      "detail": "Pocahontas had premiered on June 10 in Central Park in New York City to an audience of 100,000 with free admission, which the film page calls the largest premiere ever for a film. Batman Forever passed Jurassic Park's opening weekend record, and the page says the Batman films became the fifth franchise to gross $1 billion. Matsushita sold 80 percent of MCA, which owned Universal Pictures, to Seagram for $7 billion on April 10. Carolco Pictures filed for Chapter 11 bankruptcy protection in November. Lars von Trier and Thomas Vinterberg announced the Dogme 95 movement in Paris on March 13. Dilwale Dulhania Le Jayenge was released in India this year.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, at an average ticket price of $4.35, and more and more often in one outside the United States. The film page says markets beyond the United States and Canada accounted for 41 percent of a film's total revenue and had outperformed the domestic box office for the first time the year before.",
+      "detail": "None of the cached pages says anything about tape rental, laser disc or a television premiere, so this fact claims nothing about home viewing. The page does say that the average cost of making and marketing a film had doubled since 1990 to reach $50.4 million, that first-quarter box-office revenue ran about $90 million below the same period the year before, and that Waterworld was the most expensive film made to that point.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.35",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1995",
+      "value": [
+        "ER, NBC, 22.0 rating",
+        "Seinfeld, NBC, 21.2",
+        "Friends, NBC, 18.7",
+        "Caroline in the City, NBC, 18.0",
+        "Monday Night Football, ABC, 17.1"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NBC held the top four places. The Single Guy was sixth on 16.7 for NBC, Home Improvement seventh on 16.1 for ABC, Boston Common eighth on 15.6 for NBC, 60 Minutes ninth on 14.2 for CBS and NYPD Blue tenth on 14.1 for ABC. 20/20 and Frasier tied for eleventh on 13.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1995%E2%80%9396"
+    },
+    "tv.new_networks": {
+      "section": "tv",
+      "label": "Two new broadcast networks launch",
+      "value": "The WB launched on January 11 and the United Paramount Network launched on January 16 with a two-hour premiere of Star Trek: Voyager",
+      "detail": "The WB was a joint venture of Warner Bros. Television and Tribune Broadcasting under the chief executive Jamie Kellner, reached around 70 affiliates, and was also carried to cable and satellite providers through the WGN-TV superstation feed where no station was available. Its launch comedies were The Wayans Bros., The Parent 'Hood, Unhappily Ever After and Muscle. Kids' WB debuted on September 9 anchored by Animaniacs, which moved over from Fox Kids, and UPN Kids launched on September 10. Tribune bought a 12.5 percent limited partnership interest in The WB for $12 million on August 17. The Walt Disney Company announced on July 31 that it would acquire and merge with Capital Cities/ABC, and Westinghouse acquired CBS during the year after taking on CBS affiliations in Boston and Baltimore on January 2.",
+      "date": "1995-01-16",
+      "source": "https://en.wikipedia.org/wiki/1995_in_American_television"
+    },
+    "tv.simpson_verdict": {
+      "section": "tv",
+      "label": "O. J. Simpson verdict",
+      "value": "More than 150 million people watched the jury acquit him of murdering Nicole Brown Simpson and Ronald Goldman",
+      "detail": "Live broadcasts of the trial had begun on January 24 and partly pre-empted network daytime programming for nine months. The television page says the verdict was met with both praise and criticism. During the trial on June 15 Simpson tried on gloves the prosecution presented as the killer's and they appeared too tight, and his lawyer Johnnie Cochran told the court that if it doesn't fit, you must acquit.",
+      "date": "1995-10-03",
+      "source": "https://en.wikipedia.org/wiki/1995_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Cybill, CBS, January 2",
+        "The Wayans Bros., The WB, January 11",
+        "Hercules: The Legendary Journeys, syndication, January 16",
+        "Star Trek: Voyager, UPN, January 16",
+        "NewsRadio, NBC, March 21",
+        "Sliders, Fox, March 22",
+        "The Outer Limits, Showtime, March 26",
+        "Xena: Warrior Princess, syndication, September 4",
+        "WCW Monday Nitro, TNT, September 4",
+        "Pinky and the Brain, Kids' WB, September 9",
+        "The Drew Carey Show, ABC, September 13",
+        "Murder One, ABC, September 19",
+        "Caroline in the City, NBC, September 21",
+        "JAG, NBC, September 23",
+        "Mad TV, Fox, October 14",
+        "Goosebumps, Fox Kids, October 27"
+      ],
+      "detail": "The television page's premiere table gives each date and network. Its events table adds that What a Cartoon! launched simultaneously on TBS, TNT and Cartoon Network on February 20, opening with The Powerpuff Girls in Meat Fuzzy Lumpkins, and that Cartoon Network let viewers vote by telephone for their favourite short in a three-hour marathon on December 31. WCW Monday Nitro came from the Mall of America in Minneapolis. Seinfeld broadcast its 100th episode on February 2, and Frasier brought Ted Danson back as Sam Malone from Cheers on February 21.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_American_television"
+    },
+    "tv.internet_broadcast": {
+      "section": "tv",
+      "label": "First television broadcast over the internet",
+      "value": "ROX and Computer Chronicles were sent out over the internet, which the television page calls the first internet broadcasts in the history of television",
+      "detail": "The same page dates the same claim twice and disagrees with itself: an April 18 entry says ROX became the first television series distributed via internet, while the November 20 entry makes the broader claim for both programs and carries an editors' note pointing readers to the talk page. Neither entry names a viewer count or a technology, so this fact states none.",
+      "date": "1995-11-20",
+      "source": "https://en.wikipedia.org/wiki/1995_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Gangsta's Paradise, Coolio featuring L.V.",
+        "Waterfalls, TLC",
+        "Creep, TLC",
+        "Kiss from a Rose, Seal",
+        "On Bended Knee, Boyz II Men"
+      ],
+      "detail": "From the Year in Music edition of Billboard dated December 23. The chart page says Gangsta's Paradise spent twelve weeks in the top two of the Hot 100 and three of them at number one. Boyz II Men, Brandy and The Notorious B.I.G. tied for the most songs on the year-end chart with four each, and all four of Brandy's came from her debut album. Real McCoy placed three, two of them inside the top forty. Hootie and the Blowfish put Hold My Hand, Let Her Cry and Only Wanna Be with You in the top forty. Michael Jackson was 21st with You Are Not Alone.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1995"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "A four-and-a-half hour broadcast that any station with a satellite receiver could pick up and carry. Eddie Vedder hosted Self-Pollution Radio on January 8 with live performances by Pearl Jam, Soundgarden and Mudhoney.",
+      "detail": "The cached pages carry no sales figure for records, tapes or compact discs this year, so this fact states none. What they do carry about format is what a catalogue reissue meant by now: The Offspring put their debut album, first released in 1989, on compact disc for the first time on November 21. Yo! MTV Raps ended on August 17 with a freestyle session, and Kiss played MTV Unplugged on August 9 with Peter Criss and Ace Frehley rejoining the lineup.",
+      "date": "1995-01-08",
+      "source": "https://en.wikipedia.org/wiki/1995_in_music"
+    },
+    "music.recordings": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "The Bends, Radiohead, March 13",
+        "Post, Bjork, June 13",
+        "HIStory, Michael Jackson, June 20",
+        "(What's the Story) Morning Glory?, Oasis, October 2",
+        "Insomniac, Green Day, October 10",
+        "Mellon Collie and the Infinite Sadness, The Smashing Pumpkins, October 24"
+      ],
+      "detail": "The music page's aggregate ranking of the year's highest-rated albums, compiled from over 33,000 greatest-album charts, puts The Bends first, Morning Glory? second and Mellon Collie third, followed by Pulp's Different Class, Alanis Morissette's Jagged Little Pill and Post. The ranking's compilers state their results as accurate at a date years later, which is why no such date appears here. The page calls HIStory Jackson's first double album and gives its sales as 35 million copies, which it also expresses as 70 million. Elastica released Elastica on March 13, Celine Dion released D'eux on March 30, Rancid released ...And Out Come the Wolves on August 22 and dc Talk released Jesus Freak on November 21. The Beatles put out Free as a Bird on December 4, their first new single in over 20 years.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "The Irish-Norwegian band Secret Garden won the 40th contest for Norway with Nocturne, at the Point Theatre in Dublin",
+      "detail": "The music page calls it the last contest with only one host for many years. The 24th OTI Festival, at the Anfiteatro Jose Asuncion Flores in San Bernardino, Paraguay on November 11, was won by Eres mi debilidad, written by Alejandro Abad and performed by Marcos Llunas for Spain. Portishead's Dummy won the Mercury Music Prize.",
+      "date": "1995-05-13",
+      "source": "https://en.wikipedia.org/wiki/1995_in_music"
+    },
+    "music.tupac": {
+      "section": "music",
+      "label": "Tupac Shakur records from prison and leaves it",
+      "value": "Me Against the World was released on March 14 and made him the first male solo artist with a number one album on the Billboard 200 while in prison, and he was released on October 11 on $1.4 million bail posted by Suge Knight",
+      "detail": "The music page says the album stayed at the top of the chart for four weeks, that he had been sentenced on February 7 to between one and a half and four and a half years on a sexual abuse charge, that he married Keisha Morris inside Clinton Correctional Facility on April 29, and that he signed a three-album deal with Knight's Death Row Records in return for the bail. Time Warner agreed on September 27 to sell back its 50 percent share of Interscope Records after criticism of the lyrics of the label's rap artists.",
+      "date": "1995-10-11",
+      "source": "https://en.wikipedia.org/wiki/1995_in_music"
+    },
+    "music.hall_of_fame": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame opens",
+      "value": "The museum was dedicated in downtown Cleveland, in a building designed by I. M. Pei",
+      "detail": "The music page dates the opening to the same day and gives no attendance or cost.",
+      "date": "1995-09-01",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "tech.windows_95": {
+      "section": "tech",
+      "label": "Windows 95",
+      "value": "Microsoft released it to the public",
+      "detail": "Both cached year pages carry the release and neither gives a sales figure or a price. The US year page's citation is a retrospective article about the hysteria over the launch.",
+      "date": "1995-08-24",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "tech.web_use": {
+      "section": "tech",
+      "label": "The internet passes into private hands",
+      "value": "The United States government stopped funding NSFNET, which made the internet a wholly privatized system",
+      "detail": "Prodigy had begun offering its subscribers access to the World Wide Web on January 27, which the science page cites to a report of the service's quick growth from it. Neither the science page nor either year page gives a count of users or hosts for the year, so no number is stated here.",
+      "date": "1995-04-30",
+      "source": "https://en.wikipedia.org/wiki/1995_in_science"
+    },
+    "tech.amazon": {
+      "section": "tech",
+      "label": "Amazon.com sells its first book",
+      "value": "The company, incorporated a year earlier by Jeff Bezos in Washington state as an online bookstore, sold Douglas Hofstadter's Fluid Concepts and Creative Analogies",
+      "detail": "The science page cites Amazon's own corporate timeline for the sale. It says nothing about revenue, staff or catalogue size, and no cached page mentions any other online shop opening this year.",
+      "date": "1995-07-16",
+      "source": "https://en.wikipedia.org/wiki/1995_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Sega Saturn, released in North America on May 11",
+        "PlayStation, Sony's console, released in the United States on September 9 and in Europe on September 29",
+        "Virtual Boy, Nintendo's 32-bit console, released in Japan on July 21 and discontinued on December 22",
+        "Chrono Trigger, Square, March 11, on the Super Nintendo",
+        "Full Throttle, LucasArts, April 30",
+        "Super Mario World 2: Yoshi's Island, Nintendo, August 5",
+        "Command & Conquer, Westwood Studios, August 31",
+        "Rayman, Ubisoft, September 9"
+      ],
+      "detail": "The games page puts the Super Nintendo first in console sales at 3,518,000 or more worldwide, the PlayStation second at 3,100,000 and the Saturn third at 2,060,000 or more, and notes that the Nintendo Entertainment System was discontinued in North America on August 14. Virtua Fighter 2 took game of the year from Game Players and Gamest. The first Electronic Entertainment Expo was held in Los Angeles from May 11 to 13. Nintendo showed a playable Ultra 64 at its Space World exhibition in Japan on November 24 with thirteen games demonstrated and two of them playable. GameFAQs went up on the web on November 5 as an archive of game guides. BioWare and Remedy were founded during the year.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_video_games"
+    },
+    "tech.web_tools": {
+      "section": "tech",
+      "label": "Software written this year for the web",
+      "value": [
+        "The first Yahoo! Search interface, March 1",
+        "WikiWikiWeb, the first wiki software, loaded by Ward Cunningham in Oregon on March 25",
+        "The Java programming language, announced May 23",
+        "PHP, first version released by Rasmus Lerdorf on June 8"
+      ],
+      "detail": "The science page carries all four and dates them to the day. The US year page adds that Yahoo! was incorporated on March 2. The page's line about the share of web servers PHP would run years later is left out. Andy Harter's Virtual Network Computing is on the same page with no date at all, so it is not in this list.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_science"
+    },
+    "tech.exoplanet": {
+      "section": "tech",
+      "label": "First planet found around an ordinary star",
+      "value": "Michel Mayor and Didier Queloz of the University of Geneva announced the detection of 51 Pegasi b at the Observatoire de Haute-Provence, the first definitive extrasolar planet orbiting a main sequence star and the first hot Jupiter",
+      "detail": "Their paper appeared in Nature. The same page dates the announcement of the top quark to March 2 at Fermilab, the first sequencing of the genome of a free-living organism to the year without a day, and the discovery of the first brown dwarf, Teide 1, to the year as well.",
+      "date": "1995-10-06",
+      "source": "https://en.wikipedia.org/wiki/1995_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.15 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$4.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since the second stage of the increase Congress passed in 1989.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two American stories crowded out the rest: a bomb set off by an American in Oklahoma City, and a murder trial that pre-empted daytime television for months and ended in an acquittal watched live across the country. The new things to own were a games console made by a record company's parent and an operating system named after the year."
+    },
+    "culture.million_man_march": {
+      "section": "culture",
+      "label": "Million Man March",
+      "value": "Black men gathered in Washington for a march conceived by the Nation of Islam leader Louis Farrakhan",
+      "detail": "Both cached year pages carry the march and neither gives a crowd estimate, which was disputed at the time, so no figure is stated here.",
+      "date": "1995-10-16",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "culture.comic_strips": {
+      "section": "culture",
+      "label": "Two newspaper comic strips end",
+      "value": "Gary Larson's final The Far Side ran on January 1 and Bill Watterson's final original Calvin and Hobbes on December 31",
+      "detail": "The year page carries both, one on the first day of the year and one on the last, and the US year page repeats the second. Neither page gives a date for the Far Side strip beyond January 1.",
+      "date": "1995-12-31",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Seamus Heaney",
+        "Peace, Joseph Rotblat and the Pugwash Conferences on Science and World Affairs",
+        "Physics, Martin L. Perl and Frederick Reines",
+        "Chemistry, Paul J. Crutzen, Mario J. Molina and F. Sherwood Rowland",
+        "Medicine, Edward B. Lewis, Christiane Nusslein-Volhard and Eric Wieschaus",
+        "Economics, Robert Lucas Jr."
+      ],
+      "detail": "The year page gives no dates for any of them. The science page lists the same winners but names Rotblat alone for Peace, without the Pugwash Conferences. The Turing Award went to Manuel Blum, and Pierre and Marie Curie were enshrined in the Pantheon in Paris.",
+      "source": "https://en.wikipedia.org/wiki/1995"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Atlanta Braves beat the Cleveland Indians four games to two, with the pitcher Tom Glavine named series most valuable player",
+      "detail": "The television page dates the clinching game to October 28 and says the win made Atlanta the first major league team to win a championship for three different cities, the earlier two being Boston in 1914 and Milwaukee in 1957. ABC and NBC split coverage of the series between them under The Baseball Network, a revenue-sharing venture with Major League Baseball whose final broadcast this was, and Major League Baseball reached a new television deal with Fox and NBC on November 7 in which Fox paid $575 million over five years. The Seattle Mariners beat the California Angels 9 to 1 in a tie-breaker on October 2 for their first postseason place, after the Angels lost a 13-game lead in the division.",
+      "date": "1995-10-28",
+      "source": "https://en.wikipedia.org/wiki/1995_in_sports"
+    },
+    "sports.ripken": {
+      "section": "sports",
+      "label": "Cal Ripken Jr. passes Lou Gehrig",
+      "value": "The Baltimore Orioles shortstop broke Gehrig's record of 2130 consecutive games played",
+      "detail": "The television page says a national audience watched on ESPN and viewers in Baltimore on HTS. The sports page names Ripken Associated Press Male Athlete of the Year, and Rebecca Lobo of college basketball Female Athlete of the Year.",
+      "date": "1995-09-06",
+      "source": "https://en.wikipedia.org/wiki/1995_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXIX",
+      "value": "The San Francisco 49ers beat the San Diego Chargers 49 to 26 at Joe Robbie Stadium in front of 74,107, with the quarterback Steve Young named most valuable player",
+      "detail": "The US year page says the win made San Francisco the first National Football League franchise to take five Super Bowls. Nebraska had beaten Miami 24 to 17 in the Orange Bowl for the previous college season's national championship. The World League of American Football resumed after two years and Frankfurt Galaxy won the World Bowl 26 to 22 over the Amsterdam Admirals.",
+      "date": "1995-01-29",
+      "source": "https://en.wikipedia.org/wiki/1995_in_sports"
+    },
+    "sports.rugby_world_cup": {
+      "section": "sports",
+      "label": "Rugby World Cup",
+      "value": "South Africa beat New Zealand 15 to 12 in the final at home, decided by an extra-time drop goal from Joel Stransky",
+      "detail": "The year page dates the tournament from May 25 to June 24 and says it was the Springboks' first appearance after World Rugby lifted their ban following the end of apartheid. The International Rugby Football Board lifted the century-old ban on professionalism on August 26. England won the 101st Five Nations Championship with a Grand Slam. A separate rugby league World Cup finished at Wembley Stadium on October 28, where Australia beat England 16 to 8 in front of 66,540.",
+      "date": "1995-06-24",
+      "source": "https://en.wikipedia.org/wiki/1995_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New Jersey Devils over the Detroit Red Wings, four games to none",
+        "NBA Finals, Houston Rockets over the Orlando Magic, four games to none",
+        "NCAA basketball, UCLA 89, Arkansas 78, the Bruins' first title in 20 years and eleventh overall",
+        "Premier League, Blackburn Rovers, denying Manchester United a third title in a row",
+        "Grey Cup, Baltimore Stallions 37, Calgary Stampeders 20, the first American-based winner",
+        "America's Cup, Team New Zealand's Black Magic over the San Diego defender, five races to none, which the US year page dates to May 14"
+      ],
+      "detail": "The sports page gives Jaromir Jagr of the Pittsburgh Penguins the Art Ross Trophy as leading scorer over the regular season and Eric Lindros of the Philadelphia Flyers the Hart Memorial Trophy. Ajax beat A.C. Milan 1 to 0 in the UEFA Champions League final in Vienna on May 24 and Norway beat Germany 2 to 0 in the FIFA Women's World Cup. Miguel Indurain won the Tour de France and Tony Rominger the Giro d'Italia. Ben Crenshaw took the Masters, Corey Pavin the US Open, John Daly the British Open and Steve Elkington the PGA Championship, with Greg Norman leading the money list at $1,654,959, and Europe won the Ryder Cup 14 and a half to 13 and a half. Pete Sampras won Wimbledon and the US Open and Steffi Graf three of the four women's majors. Stephen Hendry beat Nigel Bond 18 to 9 at the World Snooker Championship. Carlton won the 99th AFL premiership over Geelong. The two cached pages disagree on the beaten America's Cup defender: the sports page names Young America of the San Diego Yacht Club and the US year page names Stars and Stripes, so neither yacht is stated as fact here.",
+      "source": "https://en.wikipedia.org/wiki/1995_in_sports"
+    },
+    "deaths.selena": {
+      "section": "deaths",
+      "label": "Selena",
+      "value": "Died March 31. Born 1971",
+      "detail": "Tejano singer-songwriter, shot by Yolanda Saldivar, her former personal assistant and fan club president, who had been fired for embezzling from the club. All the major American networks broke into programming with the news, and the music page says Hispanic listeners called the day Black Friday.",
+      "date": "1995-03-31",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "deaths.garcia": {
+      "section": "deaths",
+      "label": "Jerry Garcia",
+      "value": "Died August 9. Born 1942",
+      "detail": "Guitarist of the Grateful Dead, of a heart attack at 53. The band's last show with him was at Soldier Field in Chicago on July 9, and the music page says deadheads gathered spontaneously in cities across the United States after his death.",
+      "date": "1995-08-09",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "deaths.mantle": {
+      "section": "deaths",
+      "label": "Mickey Mantle",
+      "value": "Died August 13. Born 1931",
+      "detail": "Baseball player.",
+      "date": "1995-08-13",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "deaths.salk": {
+      "section": "deaths",
+      "label": "Jonas Salk",
+      "value": "Died June 23. Born 1914",
+      "detail": "Medical researcher.",
+      "date": "1995-06-23",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    },
+    "deaths.martin": {
+      "section": "deaths",
+      "label": "Dean Martin",
+      "value": "Died December 25. Born 1917",
+      "detail": "Singer and entertainer.",
+      "date": "1995-12-25",
+      "source": "https://en.wikipedia.org/wiki/1995_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1995. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it says the top ten films released in 1995 by worldwide gross are as follows, so header and text agree and there is no rentals gloss to write. film.gross says worldwide in its detail so the figures are not read as North American. A capitalised editors' comment sits inside the Toy Story cell asking that its lifetime gross not be substituted, and a footnote on the same row says the figure excludes later re-releases, both of which film.gross repeats rather than resolves. The film page's Events section says Toy Story overtook Die Hard with a Vengeance in re-releases in a later year, which is left out because the year is later than this page's. Date and source checks. Nothing this year carries a checkable constitutional constraint of the kind the brief describes, so no dedicated article was pulled and every source in this file comes from the cache. The 68th Academy Awards honouring this year of film fall in the following spring, so film.best_picture and film.acting_awards name the winners, the host, the producer, the venue and the telecast figures without a ceremony date, and no fact carries a token later than 1995. The 67th Academy Awards of March 27, hosted by David Letterman at the Shrine Auditorium, are out of the file for the same reason 1989 leaves out the 61st: they honoured the previous year of film and would put a second Best Picture on the page. The 37th Grammy Awards of March 1 in Los Angeles, hosted by Paul Reiser, which gave Album of the Year to Tony Bennett's MTV Unplugged and Record of the Year and Best New Artist to Sheryl Crow and four awards to Bruce Springsteen, are left out on the same ground, since they honoured the previous year's recordings. The Golden Globe, Critics' Choice and BAFTA ceremony dates on the film page's awards table all fall in the following year, so film.acting_awards names those winners without dating the ceremonies. Source disagreements labelled rather than resolved. The year page's own image caption rounds the Great Hanshin earthquake toll to over 6,000 while its text gives 5,502 to 6,434, and world.kobe says so. The same page's caption puts American Airlines Flight 965 near Cali with 151 dead while its December 20 entry puts the crash near Buga in Valle del Cauca with 160 of 164 aboard killed, and the texture follows the dated entry and names Buga. The television page dates the first internet broadcast twice, to April 18 for ROX alone and to November 20 for ROX and Computer Chronicles together, and tv.internet_broadcast names both entries rather than choosing. Section windows. tech.web_sites does not open until 1996, so no fact ranks or counts websites, even though the year page and the science page both describe web services growing. The internet facts use tech.web_use, which the families map binds to the tech.internet window open from 1993. tech.amazon sits under the plain tech section id because the families map has no gated id for an online shop, and sections.mjs was not touched to add one. eBay is not in the file. None of the eleven cached pages mentions it, nor Netscape, nor Internet Explorer, nor the DVD specification, so a launch date for any of them would have been written from memory and the accuracy rule leaves them out. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that: the Self-Pollution Radio satellite broadcast is in music.listening_format because it is a claim about how music reached listeners, which is what that fact is for. The Nielsen ranking covers a season that began in the autumn of 1995 and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: pol.oklahoma_city cites the year page for the toll and takes the Clinton visit, the demolition of the building and the Pennsylvania Avenue closure from the US year page; music.hall_of_fame cites the US year page, which is the only page naming I. M. Pei, and the music page carries the same opening date; sports.world_series cites the sports page for the result and the most valuable player and takes the clinching date, the three-cities line, The Baseball Network split and the Fox contract from the television page; sports.ripken cites the sports page for the record and takes the ESPN and HTS coverage from the television page; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player and takes the five-Super-Bowls line from the US year page; tv.new_networks cites the television page and takes nothing from elsewhere; film.releases cites the film page and takes the 33rd feature line about Pocahontas from the US year page; deaths.selena cites the US year page for the date and birth year and takes the name of the killer, her role in the fan club and the Black Friday line from the music page and the network coverage from the television page; deaths.garcia cites the US year page for the date and birth year and takes the last Grateful Dead show and the spontaneous gatherings from the music page; music.listening_format cites the music page for the Self-Pollution Radio broadcast, the Offspring compact disc reissue and the Kiss Unplugged lineup and takes the Yo! MTV Raps series finale of August 17 from the television page. The two cached pages disagree on the beaten America's Cup defender, Young America on the sports page against Stars and Stripes on the US year page, so sports.champions names neither yacht. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. Nothing in this file needed an entry in src/data/name_years.json, and that file was not touched. Four candidates were checked and all are safe without one: Windows 95 and Dogme 95 carry two digits, Cal Ripken's 2130 consecutive games falls outside the 1000 to 2099 range the check matches, and Super Mario World 2, Mortal Kombat 3 and Ultra 64 are all one or two digits. The Dow closes of 4,003.33 and 5,023.55 in the texture are broken by commas and periods, and the Nikkei-style bare four-digit form was avoided by quoting the exact closes rather than writing that the Dow passed 4000. Later-year material dropped for the anachronism rule rather than for want of a source, and left out of every value and detail: the International Olympic Committee's award of the 2002 Winter Olympics to Salt Lake City on June 16 and NBC's $545 million purchase of the rights to it on August 7; the reopening date of the December shutdown, which pol.government_shutdown says outright; Steve Forbes announcing a presidential candidacy on September 22 for the following year's Republican nomination; the science page's projection of PHP's later share of web servers and its note that AIDS deaths in the United States fell within two years of the approval of Saquinavir on December 6; the film page's claim that Dilwale Dulhania Le Jayenge has run in Indian cinemas for 30 years, so film.releases records only that the film came out; the completion of the Disney purchase of Capital Cities/ABC; and the television page's remark that The Today Show held its ratings lead for many years after December 11. Month-only or undated facts: none. Every fact here carries either a full date or no date at all, and the undated ones are the list facts and the two annual series figures. Dropped for lack of a source that says enough, or for room: the Quebec independence referendum of October 30, which the year page records only as narrowly lost with no margin; the Sampoong Department Store collapse, the Baku Metro fire, the Flateyri avalanche, Typhoon Angela and American Airlines Flight 965, all in the texture instead of a disasters list fact; the Dow milestones, Denver International Airport, the Mississippi ratification of the Thirteenth Amendment, the San Diego tank rampage and the Korean War Veterans Memorial, all in the texture instead; Wiles's proof of Fermat's Last Theorem, Polyakov's 438 days, Thagard's flight on a Russian vehicle, the first Atlantis docking with Mir on June 29, the discovery of Comet Hale-Bopp, the end of the Big Ear survey and the last signal from Pioneer 11, all in the texture instead of a space fact; the Michel Sardou residency, the Roxette concert in Beijing, the Def Leppard three-continent day, Steve Fossett's balloon flight and the release of Aung San Suu Kyi, all in the texture instead; the Unabomber manifesto published by The Washington Post and The New York Times on September 19 and the bomb that killed Gilbert Murray on April 24; the arrest of Kevin Mitnick on February 15; the murder of Selena's chart aftermath beyond what deaths.selena carries, including her becoming the first Hispanic singer with an album debuting at number one on July 18; the Midwestern heat wave of July and the record highs in Chicago and Milwaukee on July 13; the disappearance of Richey Edwards on February 1; the December 15 quadruple-witching session in which New York Stock Exchange volume hit 638 million shares; the European Court of Justice ruling of December 15 on foreign players and free transfers in European football, dropped because it belongs to no championship and there was no room for a seventh sports fact; Tiger Woods winning the US Amateur and Sergio Garcia the European Amateur; Ian Roberts becoming the first prominent Australian sportsman to come out; the umpire Darrell Hair no-balling Muttiah Muralitharan seven times in Melbourne on December 26; the Christopher Reeve riding accident of May 27, which is in no fact because the deaths list is where he would belong and he did not die this year; the Sega Saturn's surprise North American launch date coinciding with the first Electronic Entertainment Expo, which tech.games records as two separate dated events because the games page does not connect them; and the first showings of anime on Cartoon Network from January 2. Names and titles are written in ASCII per the corpus convention, so Bjork, Yolanda Saldivar, Ratko Mladic, Radovan Karadzic, Hyogo, Jacob Soderman, Fabio Barreto, Christiane Nusslein-Volhard, Jose Asuncion Flores and Selena Quintanilla-Perez lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. Deaths that would have earned a place with more room: Ginger Rogers on April 25, Eazy-E of AIDS complications on March 26, Rose Kennedy at 104 on January 22, Burl Ives on April 14, Howard Cosell on April 23, Elizabeth Montgomery on May 18, Lana Turner on June 29, Warren E. Burger on June 25, Eva Gabor and Bob Ross on July 4, Ida Lupino on August 3, Shannon Hoon of Blind Melon on October 21, Bobby Riggs on October 25, Louis Malle on November 23, Butterfly McQueen on December 22, J. William Fulbright on February 9, Patricia Highsmith on February 4, George Abbott at 108 on January 31, Alonzo Church on August 11, Orville Redenbacher on September 19 and Madalyn Murray O'Hair on September 29. This file runs 52 facts across 10 sections: politics 5, world 7, film 7, tv 5, music 6, tech 6, prices 2, culture 4, sports 5, deaths 5. World runs to 7 because the year carries the assassination of Rabin, the Srebrenica massacre and the end of the Bosnian War, the Kobe earthquake, the Tokyo subway attack, the founding of the World Trade Organization, the first enlargement of the European Union in nine years and the collapse of Barings, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. Srebrenica and the Dayton Agreement share one fact because the agreement ended the war the massacre was fought in, which is a relation rather than a shared date."
+}

@@ -1,0 +1,506 @@
+{
+  "year": 1994,
+  "tier": "modern",
+  "headline": "Mandela took office in South Africa, the Rwandan genocide ran 100 days, and baseball cancelled the World Series",
+  "texture": [
+    "The Northridge earthquake hit the Greater Los Angeles Area on January 17 and left 57 people dead and more than 8,700 injured. Record cold followed on January 19, with minus 36 degrees Fahrenheit measured at New Whiteland in Indiana. Two military aircraft collided over Pope Air Force Base on March 23 in the Green Ramp disaster, killing 24. Fourteen firefighters died in the South Canyon wildfire on Storm King Mountain in Colorado on July 6. USAir Flight 427 came down on approach to Pittsburgh on September 8 with 132 aboard, and the car ferry MS Estonia sank in the Baltic Sea on September 28, killing 852.",
+    "Byron De La Beckwith was convicted on February 5 of the 1963 murder of Medgar Evers. Illinois executed John Wayne Gacy at the Stateville Correctional Center on May 10, and Jeffrey Dahmer was attacked by another inmate at the Columbia Correctional Institution on November 28 and died on the way to hospital. Frank Eugene Corder flew a Cessna 150 into the South Lawn of the White House on September 12 and was the only casualty. Francisco Martin Duran fired at least 29 shots at the building on October 29. Ronald Reagan released a letter on November 5 saying he had Alzheimer's disease, and the Whitewater investigation opened in Washington on December 19.",
+    "The last Russian troops left Germany on June 25, and the Allied occupation of Berlin ended on July 12 with a casing of the colors ceremony that Bill Clinton attended. The Russian Army left Estonia and Latvia on August 31. Kim Il Sung died on July 8 and officially continued to hold office. Aum Shinrikyo released sarin at Matsumoto on June 28, killing eight and injuring 200. Swiss police found 48 members of the Order of the Solar Temple dead on October 5, a day after five were found at Morin-Heights in Quebec. Palau left United Nations trusteeship on October 1, and Norwegian voters rejected the European Union on November 28.",
+    "Nancy Kerrigan was clubbed on the right leg in Detroit on January 6, and Tonya Harding pleaded guilty in Portland on March 16 to conspiracy to hinder prosecution, was fined $100,000 and was barred from the sport. Edvard Munch's The Scream was stolen in Oslo on February 12 and recovered on May 7. DirecTV began broadcasting from Jackson, Mississippi on June 17. Star Trek: The Next Generation closed a seven-year run on May 23 with a finale most affiliates put out at six in the evening. The Phoenix Islands skipped December 31 to cross the International Date Line."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.rwanda",
+    "world.south_africa",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "tech.games",
+    "sports.world_series",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "Second year in office. Al Gore was Vice President, William Rehnquist was Chief Justice, Tom Foley was Speaker of the House and George J. Mitchell was Senate majority leader, with the 103rd Congress sitting. Clinton delivered his second State of the Union address on January 25, calling for health care reform, a ban on assault weapons and welfare reform. He and Boris Yeltsin signed the Kremlin accords on January 14, which stopped the preprogrammed aiming of nuclear missiles at each other's targets and provided for dismantling the nuclear arsenal in Ukraine.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Republicans take both houses of Congress",
+      "value": "Newt Gingrich led the party to control of the House of Representatives and the Senate in the midterm elections, the first time in 40 years it held both",
+      "detail": "The date satisfies the rule that a federal election falls on the Tuesday after the first Monday in November: the first Monday was November 7. George W. Bush was elected Governor of Texas the same day.",
+      "date": "1994-11-08",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "pol.assault_weapons_ban": {
+      "section": "politics",
+      "label": "Federal Assault Weapons Ban signed",
+      "value": "Clinton signed the law, which banned the manufacture of new firearms with certain features for a period of 10 years",
+      "date": "1994-09-13",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "pol.vawa": {
+      "section": "politics",
+      "label": "Violence Against Women Act signed",
+      "value": "The Act put $1.6 billion toward investigating and prosecuting violent crimes against women, imposed automatic and mandatory restitution on those convicted, and set up the Office on Violence Against Women inside the Department of Justice",
+      "detail": "It also allowed civil redress where prosecutors chose not to prosecute.",
+      "date": "1994-09-13",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "pol.ames": {
+      "section": "politics",
+      "label": "Aldrich Ames charged with spying",
+      "value": "The Justice Department charged the CIA officer and his wife with spying for the Soviet Union",
+      "detail": "The US year page says Ames was later convicted and sentenced to life imprisonment and his wife received five years.",
+      "date": "1994-02-22",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "world.rwanda": {
+      "section": "world",
+      "label": "Rwandan genocide",
+      "value": "The killing began in Kigali on April 7, the day after a missile shot down the jet carrying the Rwandan president Juvenal Habyarimana and the Burundian president Cyprien Ntaryamira near the city",
+      "detail": "The year page treats the shootdown as the pretext for the genocide, and its caption puts the toll at an estimated 800,000 Tutsi and Hutu over 100 days. The Red Cross estimated on April 21 that hundreds of thousands of Tutsi had been killed. Rwandan Patriotic Front troops took Kigali on July 4 and Gisenyi on July 18, forcing the interim government into Zaire and ending the genocide.",
+      "date": "1994-04-07",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "world.south_africa": {
+      "section": "world",
+      "label": "South Africa's first multiracial elections",
+      "value": "Voting on April 27 ended the last of apartheid, Nelson Mandela won, and he was inaugurated as the country's first black president on May 10",
+      "detail": "A new national flag was adopted on April 20, replacing the Oranje, Blanje, Blou flag used under apartheid and adopted in 1928. South Africa rejoined the Commonwealth of Nations on June 1, having left the then British Commonwealth in 1961.",
+      "date": "1994-04-27",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "world.chechnya": {
+      "section": "world",
+      "label": "First Chechen War begins",
+      "value": "Boris Yeltsin ordered Russian troops into Chechnya",
+      "date": "1994-12-11",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "world.nafta": {
+      "section": "world",
+      "label": "North American Free Trade Agreement takes effect",
+      "value": "NAFTA was established on January 1",
+      "date": "1994-01-01",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "world.mexico": {
+      "section": "world",
+      "label": "Uprising, assassinations and devaluation in Mexico",
+      "value": [
+        "January 1, the Zapatista uprising begins in Chiapas",
+        "March 23, the presidential candidate Luis Donaldo Colosio is assassinated at a campaign rally in Tijuana",
+        "September 28, the politician Jose Francisco Ruiz Massieu is assassinated on orders of Raul Salinas de Gortari",
+        "December 1, Ernesto Zedillo takes office as president",
+        "December 19, a planned correction of the peso against the dollar turns into a financial meltdown"
+      ],
+      "detail": "The year page says the devaluation unleashed the Tequila effect on global financial markets and prompted a US$50 billion bailout by the Clinton administration.",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "world.ira_ceasefire": {
+      "section": "world",
+      "label": "IRA announces a ceasefire",
+      "value": "The Provisional Irish Republican Army declared a complete cessation of military operations as part of the Northern Ireland peace process",
+      "detail": "The Irish government had announced the end of a 15-year broadcasting ban on the IRA and Sinn Fein on January 11, and Britain lifted its own broadcasting ban on Sinn Fein and Northern Irish paramilitary groups on September 16.",
+      "date": "1994-08-31",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "world.channel_tunnel": {
+      "section": "world",
+      "label": "Channel Tunnel opens",
+      "value": "The rail tunnel between England and France opened after 15,000 workers spent more than seven years building it, cutting the crossing to 35 minutes",
+      "detail": "The first Eurostar passengers travelled through it on November 14.",
+      "date": "1994-05-06",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "The Lion King, $763,455,561, Walt Disney Pictures",
+        "Forrest Gump, $677,945,399, Paramount",
+        "True Lies, $378,882,411, 20th Century Fox and Universal",
+        "The Mask, $351,583,407, New Line",
+        "Speed, $350,448,145, 20th Century Fox"
+      ],
+      "detail": "Worldwide gross rather than domestic rentals. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it calls the entries the top ten films released this year by worldwide gross, so header and text agree. The Flintstones was sixth at $341,631,208 for Universal, Dumb and Dumber seventh at $247,275,374 for New Line, Four Weddings and a Funeral eighth at $245,700,832 for Gramercy, Interview with the Vampire ninth at $223,664,608 for Warner Bros. and Clear and Present Danger tenth at $215,887,717 for Paramount. The two cached pages disagree on The Lion King. An editors' note inside the table's wikitext says its figure covers the initial theatrical run rather than lifetime gross, and splits it into $312,855,561 in the United States and Canada and $450.6 million outside them, while the US year page gives $422,783,777 in the United States and $951,583,777 worldwide. The film page's opening says The Lion King was the top worldwide grosser but was slightly overtaken at the North American domestic box office by Forrest Gump, which cannot be read off the US year page's figures.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Forrest Gump, produced by Wendy Finerman, Steve Tisch and Steve Starkey",
+      "detail": "Awarded the following spring at the 67th Academy Awards, held at the Shrine Auditorium in Los Angeles and hosted by David Letterman for the first time. It took six awards from thirteen nominations, the most of either kind, and the ceremony page calls it the most nominated film since Who's Afraid of Virginia Woolf? and the highest grossing Best Picture winner to that point. Robert Zemeckis won Best Director for it. Bullets Over Broadway, Pulp Fiction and The Shawshank Redemption tied for second on nominations with seven each, and the other Best Picture nominees were Four Weddings and a Funeral, Pulp Fiction, Quiz Show and The Shawshank Redemption. Ed Wood, The Lion King and Speed took two awards each. The telecast on ABC drew 48.28 million viewers for a 32.5 percent Nielsen share and ran three hours and 32 minutes, the most watched Oscars broadcast since the 55th ceremony.",
+      "source": "https://en.wikipedia.org/wiki/67th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Tom Hanks, Forrest Gump",
+        "Best Actress, Jessica Lange, Blue Sky",
+        "Best Supporting Actor, Martin Landau, Ed Wood",
+        "Best Supporting Actress, Dianne Wiest, Bullets Over Broadway"
+      ],
+      "detail": "The ceremony page says Hanks became the fifth performer to win consecutive acting Oscars and the sixth to win Best Actor twice, and that Wiest became the first person to win two acting Oscars for performances in films directed by the same person. Three of the four acting winners had won before, which the page says had happened only once, at the 11th ceremony. Quentin Tarantino and Roger Avary took original screenplay for Pulp Fiction and Eric Roth adapted screenplay for Forrest Gump. Morgan Freeman was nominated for The Shawshank Redemption, John Travolta for Pulp Fiction, Samuel L. Jackson and Uma Thurman for the same film, and Jodie Foster for Nell. By the film page's awards table the Golden Globe for drama went to Forrest Gump and for comedy or musical to The Lion King, the combined guild awards column gives Best Actress to Jodie Foster for Nell, and the BAFTA award for Best Film went to Four Weddings and a Funeral with Best Director to Mike Newell for it.",
+      "source": "https://en.wikipedia.org/wiki/67th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Burnt by the Sun, Russia, in Russian, directed by Nikita Mikhalkov, the winner",
+        "Before the Rain, FYR Macedonia, in Macedonian, Albanian and English, directed by Milcho Manchevski",
+        "Eat Drink Man Woman, Taiwan, in Mandarin, directed by Ang Lee",
+        "Farinelli: Il Castrato, Belgium, in French and Italian, directed by Gerard Corbiau",
+        "Strawberry and Chocolate, Cuba, in Spanish, directed by Tomas Gutierrez Alea and Juan Carlos Tabio"
+      ],
+      "detail": "The ceremony page states each film's country, language and director in this category. Krzysztof Kieslowski was nominated for directing Three Colours: Red and, with Krzysztof Piesiewicz, for its original screenplay. Peter Jackson and Frances Walsh were nominated for the Heavenly Creatures screenplay. Peter Capaldi shared the live action short award for Franz Kafka's It's a Wonderful Life, in a tie with Trevor that the page calls the fifth in Oscar history. By the film page's awards table the BAFTA award for foreign language film went to To Live and the Golden Globe to Farinelli. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/67th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Speed, June 10, which the film page credits with launching Keanu Reeves into superstardom and making Sandra Bullock a worldwide star",
+        "The Lion King, dated June 24 by the film page and June 15 by the US year page, Walt Disney Pictures' 32nd feature",
+        "Forrest Gump, July 6, which became Paramount's highest-grossing film to that point",
+        "Pulp Fiction, October 14, which the US year page says soon became the highest grossing independent film ever made",
+        "The Shawshank Redemption, which the film page groups with Pulp Fiction as consistently rated among the greatest films ever made"
+      ],
+      "detail": "Viacom acquired 50.1 percent of Paramount Communications on February 15 for $9.75 billion after a five-month battle with QVC, and took control of Paramount Pictures on March 11. Steven Spielberg, Jeffrey Katzenberg and David Geffen founded DreamWorks on October 12. Pierce Brosnan was announced on June 7 as the fifth actor to play James Bond, and Val Kilmer on July 1 as the next Batman after Michael Keaton left. 20th Century Fox unveiled a new on-screen logo and a fanfare by Bruce Broughton on July 15, debuting with True Lies. Buena Vista Pictures Distribution became the first distributor to pass $1 billion in a year in United States and Canada grosses, on December 29. Metro-Goldwyn-Mayer marked its 70th anniversary. John Candy died of a heart attack on March 4 at 43 while on location in Durango, Mexico for Wagons East.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and at home on a cable channel that had just started showing old films whole. Turner Classic Movies launched on April 14, on the 100th anniversary of the first public movie showing in New York City, and Gone with the Wind was the first film it broadcast.",
+      "detail": "The average ticket price was $4.08. None of the cached pages says anything about tape rental, laser disc or a film sold for home viewing, so this fact claims nothing about any of them.",
+      "date": "1994-04-14",
+      "source": "https://en.wikipedia.org/wiki/1994_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.08",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1994",
+      "value": [
+        "Seinfeld, NBC, 20.6 rating",
+        "ER, NBC, 20.0",
+        "Home Improvement, ABC, 19.5",
+        "Grace Under Fire, ABC, 18.6",
+        "Monday Night Football, ABC, 17.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. 60 Minutes was sixth on 17.2 for CBS and NYPD Blue seventh on 16.5 for ABC. Murder, She Wrote for CBS and Friends for NBC tied for eighth on 15.6, and Roseanne was tenth on 15.5 for ABC. Two of the year's new NBC comedies charted high and are now obscure: Madman of the People was twelfth on 14.9 and Hope and Gloria fourteenth on 14.6.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1994%E2%80%9395"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Babylon 5, PTEN, January 26",
+        "The Critic, ABC, January 26",
+        "Ellen, ABC, March 29",
+        "The Magic School Bus, PBS, September 10",
+        "Party of Five, Fox, September 12",
+        "Chicago Hope, CBS, September 18",
+        "ER, NBC, September 19",
+        "Touched by an Angel, CBS, September 21",
+        "Friends, NBC, September 22"
+      ],
+      "detail": "The television page's premiere table gives each date and network. Its events table says the Friends pilot ranked as the fifteenth most-watched show of the week on a 14.7 rating and a 23 share, with each ratings point representing 954,000 households and nearly 22 million viewers in all. Sam Waterston first appeared as Jack McCoy on Law & Order on September 21. Daddy's Girls debuted on CBS the same day and was abandoned after three episodes, and the page calls it the first series in which a gay principal character was played by an openly gay actor, Harvey Fierstein. PBS repackaged its children's programs as a block called PTV on July 11.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_American_television"
+    },
+    "tv.nfl_moves": {
+      "section": "tv",
+      "label": "CBS loses the NFL and the affiliates start moving",
+      "value": "CBS broadcast its last NFL game on January 23, the NFC Championship, after 38 years of carrying the league, having been outbid for the package by Fox the previous December, and Fox covered its first regular season games on September 4 with the launch of Fox NFL Sunday",
+      "detail": "New World Communications agreed on May 23 to affiliate its whole station group with Fox, and News Corporation bought a 20 percent stake in New World, which the television page says began a wide-ranging realignment of stations and network affiliations. WJW-TV in Cleveland switched first, on September 3, ending a 40-year CBS affiliation. Westinghouse Broadcasting agreed on July 14 to put all its stations with CBS, including the long-tenured NBC affiliates WBZ-TV in Boston and KYW-TV in Philadelphia. The NHL signed a five-year, US$155 million deal with Fox on September 9.",
+      "date": "1994-01-23",
+      "source": "https://en.wikipedia.org/wiki/1994_in_American_television"
+    },
+    "tv.oj_chase": {
+      "section": "tv",
+      "label": "The Bronco chase carried live",
+      "value": "All three big networks broke into their schedules for the low-speed pursuit of O. J. Simpson and Al Cowlings, which ended with Simpson surrendering at his Brentwood house",
+      "detail": "ABC broke away from 20/20 and CBS preempted a Picket Fences rerun, while NBC was carrying Game 5 of the NBA Finals between New York and Houston and covered the chase in a split screen. Nicole Brown Simpson and Ronald Goldman had been murdered outside her home on June 12.",
+      "date": "1994-06-17",
+      "source": "https://en.wikipedia.org/wiki/1994_in_American_television"
+    },
+    "tv.olympic_skating": {
+      "section": "tv",
+      "label": "Highest-rated Olympic broadcast",
+      "value": "CBS's coverage of the women's figure skating short program at Lillehammer became one of the highest rated prime time programs in American television history, driven by the attack on Nancy Kerrigan by associates of her rival Tonya Harding",
+      "date": "1994-02-23",
+      "source": "https://en.wikipedia.org/wiki/1994_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "The Sign, Ace of Base",
+        "I Swear, All-4-One",
+        "I'll Make Love to You, Boyz II Men",
+        "The Power of Love, Celine Dion",
+        "Hero, Mariah Carey"
+      ],
+      "detail": "From the Year In Music edition of Billboard dated December 24. Ace of Base put three songs from The Sign inside the top ten, taking first, ninth with All That She Wants and tenth with Don't Turn Around, which the chart page says an album had not managed since 1978, when Bee Gees recordings from the Saturday Night Fever soundtrack held second, fourth and sixth. Mariah Carey had the most songs on the chart with four. Lisa Loeb and Nine Stories were sixth with Stay (I Missed You), Toni Braxton seventh with Breathe Again, and Bryan Adams, Rod Stewart and Sting eighth with All for Love. Elton John was eighteenth with Can You Feel the Love Tonight and Prince nineteenth with The Most Beautiful Girl in the World.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1994"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Over the air as always, and for the first time down a wire from a computer. WXYC, the student station of the University of North Carolina at Chapel Hill, made the world's first internet radio broadcast on November 7, and Aerosmith became the first major band to premiere a new song on the internet on June 27, with more than 10,000 CompuServe subscribers downloading the free track Head First inside eight days.",
+      "detail": "A compact disc of Sting's Ten Summoner's Tales, released the previous year, became the first item securely purchased over the internet on August 11, sold for $12.48 plus shipping and handling. The Aerosmith line carries a citation-needed tag on the music page. No cached page gives a sales figure for records, tapes or compact discs this year, so this fact states none.",
+      "date": "1994-11-07",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Dookie, Green Day, February 1, which the US year page credits with opening the mid-1990s punk revival",
+        "The Downward Spiral, Nine Inch Nails, March 8, which the music page says sold over 3 million copies",
+        "Smash, The Offspring, April 8, which the music page calls the best selling independent album of all time",
+        "Illmatic, Nas, April 19",
+        "Parklife, Blur, April 25, their first album to reach number one in the United Kingdom",
+        "Weezer, Weezer, May 10",
+        "Grace, Jeff Buckley, August 23",
+        "Definitely Maybe, Oasis, August 30, which the music page calls the fastest selling debut album in the United Kingdom"
+      ],
+      "detail": "The music page's list of the year's ten best albums puts TLC's CrazySexyCool first, ahead of Definitely Maybe, Weezer, Portishead's Dummy and Nirvana's MTV Unplugged in New York. Alice in Chains released the EP Jar of Flies on January 25 and it entered the Billboard 200 at number one, the first EP to do so. Selena became the first Tejano singer to win a Grammy Award on March 1 and released Amor Prohibido on March 13.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_music"
+    },
+    "music.woodstock": {
+      "section": "music",
+      "label": "Woodstock '94",
+      "value": "Held at Saugerties, New York over three days, 25 years after the original, with Nine Inch Nails, Metallica, Aerosmith, Bob Dylan, Crosby, Stills & Nash, Red Hot Chili Peppers, Peter Gabriel and Green Day among the performers",
+      "detail": "The music page says attendance was swelled by a high number of gatecrashers and that heavy rain turned the grounds into a sea of mud, as at the original.",
+      "date": "1994-08-12",
+      "source": "https://en.wikipedia.org/wiki/1994_in_music"
+    },
+    "music.ticketing": {
+      "section": "music",
+      "label": "The price of a concert ticket",
+      "value": "Pearl Jam complained to the US Justice Department on May 6 that Ticketmaster held a monopoly on the concert ticket business, and three weeks later the Eagles opened their Hell Freezes Over reunion tour in Burbank as the first band to charge over $100 a ticket for arena shows",
+      "detail": "The Eagles tour was the group's first since breaking up in 1980. Pink Floyd began their last world tour on March 30 in support of The Division Bell, playing to 5,500,000 people in 68 cities and grossing over 150,000,000 pounds, which the music page converts to US$186,952,500.",
+      "date": "1994-05-06",
+      "source": "https://en.wikipedia.org/wiki/1994_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "PlayStation, Sony, released in Japan on December 3",
+        "Sega Saturn, released in Japan on November 22",
+        "Sega 32X, an add-on for the Mega Drive and Genesis, Europe November 14, North America November 21, Japan December 3",
+        "Super Metroid, Nintendo, March 19, on the Super Nintendo",
+        "Final Fantasy VI, Square, April 2, on the Super Nintendo",
+        "Doom II, id Software, October 10",
+        "Warcraft: Orcs & Humans, Blizzard Entertainment, November 15",
+        "Donkey Kong Country, Rare and Nintendo, November 21, on the Super Nintendo",
+        "Tekken, Namco, December 9, in arcades",
+        "Project Reality renamed the Nintendo Ultra 64, its design shown publicly in the spring"
+      ],
+      "detail": "Nintendo proclaimed 1994 the Year of the Cartridge, and the Game Boy was the best-selling console worldwide at more than 7,500,000 units, including 1,140,000 in Japan. Donkey Kong Country took game of the year from Electronic Gaming Monthly, Game Informer and Time among others. The Interactive Digital Software Association was founded in April, after the second congressional hearing on video game violence on March 5, and set up the Entertainment Software Rating Board to rate content in the mould of the film ratings system. Sega introduced the Sega Channel with Time Warner, delivering Genesis games to subscribers through a cable box, and released the Sega Nomad, a portable Genesis, in North America. Atari discontinued the Lynx and Commodore went out of business.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_video_games"
+    },
+    "tech.web_use": {
+      "section": "tech",
+      "label": "Reaching the World Wide Web",
+      "value": "America Online bought Booklink around November to give its subscribers a gateway to the World Wide Web for the first time, which the US year page calls the beginning of easy access to the Web for the average person in the United States, and Netscape launched the Netscape Navigator browser on December 15, writing HTTP Secure for it",
+      "detail": "Tim Berners-Lee founded the World Wide Web Consortium on October 1 as the main international standards organisation for the Web. On January 24, during a segment on NBC's Today, the host Bryant Gumbel asked what the internet was. The Superhighway Summit at UCLA's Royce Hall on January 11, presided over by Al Gore, was the first conference on the information superhighway. China got its first connection to the internet in March.",
+      "date": "1994-12-15",
+      "source": "https://en.wikipedia.org/wiki/1994_in_science"
+    },
+    "tech.yahoo": {
+      "section": "tech",
+      "label": "Yahoo!",
+      "value": "Jerry Yang and David Filo built a hierarchically organised website called Jerry's Guide to the World Wide Web in January while studying at Stanford, and renamed it Yahoo! in April",
+      "source": "https://en.wikipedia.org/wiki/1994_in_science"
+    },
+    "tech.internet_commerce": {
+      "section": "tech",
+      "label": "Selling things over the internet",
+      "value": [
+        "July 5, Jeff Bezos founds Amazon",
+        "around August, Pizza Hut becomes the first restaurant to take orders online, in California",
+        "November 4, the first conference devoted entirely to the commercial potential of the World Wide Web opens in San Francisco, with Marc Andreessen of Netscape, Mark Graham of Pandora Systems and Ken McCarthy of E-Media among the speakers"
+      ],
+      "detail": "The law partners Laurence Canter and Martha Siegel posted the first mass commercial spam on Usenet on April 12.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_science"
+    },
+    "tech.devices": {
+      "section": "tech",
+      "label": "New hardware and software",
+      "value": [
+        "Power Macintosh, Apple, March 14, the first Macintosh computers using PowerPC microprocessors",
+        "Linux kernel version 1.0.0, March 14, after over two years of development",
+        "IBM Simon, August 16, which the science page calls the world's first smartphone",
+        "The first high-brightness blue LED",
+        "The QR code, invented by the Japanese company Denso"
+      ],
+      "detail": "Penguin Books offered Peter James's novel Host on two floppy disks, billed as the world's first electronic novel. Leonard Adleman used DNA as a computational system to solve a seven-node instance of the Hamiltonian path problem, the first algorithm computed that way.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_science"
+    },
+    "tech.shoemaker_levy": {
+      "section": "tech",
+      "label": "Comet Shoemaker-Levy 9 hits Jupiter",
+      "value": "Fragments of the broken-up comet struck the planet over a week in July",
+      "detail": "The Hubble Space Telescope's first photograph of Pluto and its moon Charon was revealed on February 21. NASA lost radio contact with the Magellan spacecraft on October 13 as it descended into the thick atmosphere of Venus and is presumed to have burned up. Valeri Polyakov began a 437.7-day orbit aboard Soyuz TM-18 on January 8, setting the record for days spent in orbit.",
+      "date": "1994-07-16",
+      "source": "https://en.wikipedia.org/wiki/1994_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.11 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$4.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "5.5 percent in December",
+      "detail": "The US year page calls it the lowest since the start of the early 1990s recession in July 1990.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president buried in the spring and a former president writing in the autumn that his memory was going. Baseball stopped in August and no World Series was played, for the first time in ninety years. The word internet turned up on morning television as a question rather than an answer."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Kenzaburo Oe",
+        "Peace, Yasser Arafat, Shimon Peres and Yitzhak Rabin",
+        "Physics, Bertram Brockhouse and Clifford Shull",
+        "Chemistry, George Andrew Olah",
+        "Medicine, Alfred G. Gilman and Martin Rodbell",
+        "Economics, Reinhard Selten, John Forbes Nash Jr. and John Harsanyi"
+      ],
+      "detail": "The year page dates none of them. The Fields Medal went to Efim Zelmanov, Pierre-Louis Lions, Jean Bourgain and Jean-Christophe Yoccoz, and the Right Livelihood Award to Astrid Lindgren, SERVOL, H. Sudarshan and Ken Saro-Wiwa with MOSOP.",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "culture.mcdonalds_coffee": {
+      "section": "culture",
+      "label": "Liebeck v. McDonald's Restaurants",
+      "value": "A jury of twelve awarded Stella Liebeck $2,860,000 in compensatory and punitive damages for burns from spilled hot coffee, later reduced to $640,000",
+      "detail": "The year page says McDonald's and Liebeck later settled out of court.",
+      "date": "1994-08-18",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "culture.women_priests": {
+      "section": "culture",
+      "label": "Church of England ordains its first female priests",
+      "value": "The first ordinations took place on March 12",
+      "detail": "Pope John Paul II issued the apostolic letter Ordinatio sacerdotalis from the Vatican on May 22, setting out the Catholic Church's position requiring the reservation of priestly ordination to men alone.",
+      "date": "1994-03-12",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Cancelled. The players' strike that began on August 12 ended the season early, and the Series was called off on September 14 for the first time since 1904",
+      "detail": "The Montreal Expos led the leagues when the strike started, at 74 wins and 40 losses. Ken Griffey Jr. hit his 31st home run of the season on June 22 in a 12 to 3 Mariners win over the Angels, breaking Babe Ruth's record for most home runs before the end of June. Steve Carlton, with 329 wins and four Cy Young Awards, was elected to the Baseball Hall of Fame on January 12. The Yomiuri Giants won the Japan Series.",
+      "date": "1994-09-14",
+      "source": "https://en.wikipedia.org/wiki/1994_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Brazil beat Italy 3 to 2 in a penalty shootout to win the tournament, which the United States hosted",
+      "detail": "The Colombian defender Andres Escobar was shot dead on July 2, which the sports page says was apparently because of an own goal he had scored in a World Cup match. The tournament opened on June 17 with Germany beating Bolivia 1 to 0 at Soldier Field in Chicago, and the United States lost 1 to 0 to Romania on June 26 but still went through from the group.",
+      "date": "1994-07-17",
+      "source": "https://en.wikipedia.org/wiki/1994_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXVIII",
+      "value": "The Dallas Cowboys beat the Buffalo Bills 30 to 13 at the Georgia Dome in front of 72,817, with the running back Emmitt Smith named most valuable player",
+      "detail": "The sports page notes this was the Bills' fourth consecutive Super Bowl appearance and fourth consecutive loss, and the only time to date that the same two teams have met in consecutive Super Bowls. Florida State beat Nebraska 18 to 16 in the Orange Bowl to take the college national championship for the previous season. NBC carried the game, the first time a network had aired two Super Bowls outright in a row. The NFL announced on November 30 that the Jacksonville Jaguars would become its 30th franchise.",
+      "date": "1994-01-30",
+      "source": "https://en.wikipedia.org/wiki/1994_in_sports"
+    },
+    "sports.winter_olympics": {
+      "section": "sports",
+      "label": "Winter Olympics",
+      "value": "Held at Lillehammer in Norway, opening on February 12",
+      "detail": "Sweden won the ice hockey gold on February 27, with Canada taking silver and Finland bronze. Dan Jansen skated a world record 1,000 metres in 1 minute 12.43 seconds at Hamar on February 18. Bonnie Blair was Associated Press Female Athlete of the Year in speed skating. Elvis Stojko of Canada and Yuka Sato of Japan won the World Figure Skating Championships, with Oksana Grishuk and Evgeny Platov of Russia taking the ice dance.",
+      "date": "1994-02-12",
+      "source": "https://en.wikipedia.org/wiki/1994_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New York Rangers over the Vancouver Canucks, the deciding game on June 14, their first in 54 years",
+        "NBA Finals, Houston Rockets over the New York Knicks, four games to three, the franchise's first championship",
+        "NCAA men's basketball, Arkansas 76, Duke 72",
+        "Grey Cup, B.C. Lions 26, Baltimore Stallions 23",
+        "AFL premiership, West Coast Eagles 20.23 (143), Geelong 8.15 (63)"
+      ],
+      "detail": "The two cached pages disagree on the Stanley Cup margin: the sports page says four games to three and the US year page says four games to two while also calling the decider Game 7, so neither figure is stated as fact here. Brian Leetch became the first American awarded the Conn Smythe Trophy and Hakeem Olajuwon was most valuable player of the NBA Finals. George Foreman, at forty-five, became boxing's oldest heavyweight champion on November 5, knocking out Michael Moorer in the tenth round in Las Vegas, and was Associated Press Male Athlete of the Year. Nick Price took the British Open and the PGA Championship and led the money list at $1,499,927, Jose Maria Olazabal the Masters and Ernie Els the US Open, and Tiger Woods became the youngest winner of the US Amateur at 18. Pete Sampras won Wimbledon and Andre Agassi the US Open, with Conchita Martinez taking Wimbledon and Arantxa Sanchez Vicario the French and US Opens. Miguel Indurain won the Tour de France. The NHL locked out its players on October 1 and the season restarted on a 48-game schedule.",
+      "source": "https://en.wikipedia.org/wiki/1994_in_sports"
+    },
+    "deaths.nixon": {
+      "section": "deaths",
+      "label": "Richard Nixon",
+      "value": "Died April 22, aged 81. Born 1913",
+      "detail": "37th president of the United States. The cached pages disagree on the funeral: the US year page says he was buried at his presidential library on April 26 following a state funeral, and the television page dates the networks' coverage of the state funeral to April 27.",
+      "date": "1994-04-22",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "deaths.onassis": {
+      "section": "deaths",
+      "label": "Jacqueline Kennedy Onassis",
+      "value": "Died May 19. Born 1929",
+      "detail": "Socialite, conservationist and First Lady of the United States. The US year page says she died of cancer.",
+      "date": "1994-05-19",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    },
+    "deaths.cobain": {
+      "section": "deaths",
+      "label": "Kurt Cobain",
+      "value": "Died April 5, aged 27. Born 1967",
+      "detail": "Singer-songwriter and frontman of Nirvana. His body was found three days later at his home in Seattle and the death was legally declared a suicide from a self-inflicted gunshot. Nirvana had played their last concert in Munich on March 1, and Cobain fell into a coma in Rome on March 3 after an overdose of Rohypnol and champagne. Courtney Love called the police on March 18 fearing he was suicidal, and they took four guns and 25 boxes of ammunition from his home.",
+      "date": "1994-04-05",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "deaths.senna": {
+      "section": "deaths",
+      "label": "Ayrton Senna",
+      "value": "Died May 1",
+      "detail": "Three-time Formula One world champion, killed in an accident during the San Marino Grand Prix at Imola in Italy. The Austrian skier Ulrike Maier had died on January 29 at 26, after breaking her neck in a World Cup downhill crash at Garmisch-Partenkirchen.",
+      "date": "1994-05-01",
+      "source": "https://en.wikipedia.org/wiki/1994"
+    },
+    "deaths.lancaster": {
+      "section": "deaths",
+      "label": "Burt Lancaster",
+      "value": "Died October 20. Born 1913",
+      "detail": "Actor.",
+      "date": "1994-10-20",
+      "source": "https://en.wikipedia.org/wiki/1994_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1994. figures_basis is gross, checked with bo.mjs rather than assumed: the column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above the table calls the entries the top ten films released in 1994 by worldwide gross, so header and text agree and there is no rentals gloss to write. film.gross names worldwide in both its label and its detail so the figures are not read as North American. Box office disagreement, labelled rather than resolved. The film page's table gives The Lion King $763,455,561 with an editors' comment inside the wikitext warning that the number covers the initial theatrical run rather than lifetime gross, and splitting it into $312,855,561 in the United States and Canada and $450.6 million outside them. The US year page instead gives $422,783,777 in the United States and $951,583,777 worldwide. film.gross carries both and states neither as the settled figure. The film page's opening also says The Lion King was slightly overtaken at the North American domestic box office by Forrest Gump, which does not follow from the US year page's domestic figure, and that is said in the fact rather than smoothed over. film.releases carries the second disagreement: the film page dates The Lion King's theatrical release to June 24 and the US year page to June 15, and the fact gives both with their sources. Date checks. The midterm elections have a checkable constraint, that a federal election falls on the Tuesday after the first Monday in November. November 1 fell on a Tuesday, so the first Monday was November 7 and the Tuesday after it November 8, which is the date both cached pages give, so there is no disagreement to name and pol.midterms states the check in its detail. Nixon's funeral does disagree between cached pages: the US year page says he was buried at his presidential library on April 26 following a state funeral, and the television page dates network coverage of the state funeral to April 27, so deaths.nixon names both and settles neither. The Stanley Cup disagrees the same way: the sports page says the Rangers won four games to three and the US year page says four games to two while also calling the deciding game Game 7, which cannot both be true, so sports.champions gives the date and the result without a series margin. The Northridge earthquake is 6.7 on the year page and 6.5 to 6.7 on the US year page, so the texture gives the toll and no magnitude. Forward-looking material left out. The 67th Academy Awards honouring this year of film fall on a date in the following year, so film.best_picture says awarded the following spring and gives no ceremony date, and film.acting_awards and film.world_cinema name the Golden Globe, Screen Actors Guild and BAFTA winners without dating those ceremonies, because the film page's awards table dates all of them to the following year. The 66th Academy Awards of March 21, hosted by Whoopi Goldberg at the Dorothy Chandler Pavilion, where Schindler's List won seven Oscars from twelve nominations including Best Picture and Best Director before 46.2 million viewers, are left out for the same reason 1989 leaves out the 61st: they honoured the previous year of film and would put a second Best Picture on the page. Steven Spielberg's first Best Director win, which the film page dates to that ceremony, goes with them. The 36th Grammy Awards of March 1, hosted by Garry Shandling, which gave Album of the Year to The Bodyguard soundtrack, Record of the Year to Whitney Houston's I Will Always Love You, Song of the Year to A Whole New World and Best New Artist to Toni Braxton, are out on the same ground, since they honoured the previous year's recordings. Selena's Grammy win of the same day is kept in music.albums's detail because the claim is that she was the first Tejano singer to win one, which is about her rather than about the previous year's records. Also dropped for reaching past this year: the year page's line that the PlayStation would sell over 100 million units; the note that AOL replaced Booklink with a browser based on Internet Explorer in a later year; the blue LED's later Nobel Prize; Oasis's fastest-selling-debut record being taken by the Spice Girls; the Beatles' Free As A Bird, recorded from February 11 and released in a later year; the book that the South Canyon fire inspired; Nintendo's Ultra 64, whose design the games page says was revealed in spring, kept out because the console name is four digits under 2099 and would fail the anachronism check even though it is a product name and not a date. Anachronism check. Nothing in this file needed an entry in src/data/name_years.json and that file was not touched. Candidates checked and safe without one: Woodstock '94, Donkey Kong 94, The King of Fighters '94 and NFL '95 are two digits after an apostrophe or a space and never match; Beverly Hills, 90210 is five digits with no word boundary inside it; Sega 32X, ATR 72, Cessna 150, USAir Flight 427, Soyuz TM-18, Comet Shoemaker-Levy 9 and Linux kernel version 1.0.0 either fall outside 1000 to 2099 or have their digit run broken; every large figure in the file carries commas, which break the four-digit run. Nintendo's Ultra 64 was the one real casualty and is named here rather than in any fact. Section windows. tech.internet opened in 1993, so tech.web_use is a gated id and used for the browser and AOL fact. tech.web_sites does not open until 1996, so no fact ranks or counts websites. tech.social does not open until 2003, so nothing here uses a social id. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that: WXYC's internet broadcast sits under music.listening_format because the claim is about how music reached a listener, not about a broadcast band. No tech.internet_users fact, because no cached page carries a count of internet users or households online for this year, and a figure invented to fill an available id is exactly the failure this project is trying to avoid. tech.internet_commerce and tech.devices use plain tech ids, which fall to the section window rather than the internet family; both are open in any year from 1920, and the ids are honest about what they hold. The Nielsen ranking covers a season that began in the autumn of 1994 and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: film.how_people_watched cites the television page for the Turner Classic Movies launch and the centenary it fell on, and takes the Gone with the Wind broadcast from the film page and the ticket price from the series figure; film.releases cites the film page and takes the Pulp Fiction line and the June 15 Lion King date from the US year page; tv.top_shows cites the ratings page and takes nothing else; tv.premieres, tv.nfl_moves, tv.oj_chase and tv.olympic_skating cite the television page, and tv.premieres gives The Magic School Bus as PBS, which is the US year page's wording, where the television page's table says PTV, the PBS children's block the same fact dates to July 11; music.listening_format cites the US year page for the WXYC broadcast, which both year pages carry, and takes the Aerosmith premiere and the Sting compact disc from the music page; music.albums cites the music page and takes the Dookie punk-revival line and the April 19 date for Illmatic from the US year page; tech.web_use cites the science page for Booklink, Netscape and the World Wide Web Consortium and takes the Today segment from the television page and the Superhighway Summit from the US year page; sports.world_series cites the sports page for the cancellation, the Expos record, the Griffey home run and the Carlton election; sports.world_cup cites the sports page for the final and Escobar and takes the opening match and the Romania result from the US year page; sports.champions cites the sports page and takes the Conn Smythe award and the Grey Cup venue from the US year page; deaths.cobain cites the year page for the date and the age and takes the Munich concert, the Rome overdose and the confiscated guns from the music page; deaths.senna cites the year page and takes the Ulrike Maier crash from the sports page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Month-only or undated facts: tech.internet_commerce dates the Pizza Hut item to around August, which is what both the year page and the science page say; tech.web_use dates the AOL purchase to around November for the same reason, because the science page and the US year page both give it only a month, and the fact's date field carries the December 15 Netscape Navigator launch, the later and firmer of the two events its value names. music.listening_format's date field carries the November 7 WXYC broadcast for the same reason, with the June 27 Aerosmith premiere stated in words. tech.devices carries no date because two of its five items are undated on the science page. Dropped for lack of a source that says enough: the Eurovision Song Contest, which the music page carries only as a bare link with no winner, no song and no venue, so no Eurovision fact exists here; the Mercury Music Prize to M People's Elegant Slumming, dropped for room; the 46th Primetime Emmy Awards of September 11, which the television page dates and gives no winners for. Also dropped, and named here rather than dressed up in a fact: CBS's purchase on January 18 of the American rights to the Winter Olympics at Nagano for roughly $375 million, left out because the games it bought fall in a later year and no wording states the purchase without reaching forward, which is why tv.olympic_skating carries no detail line at all. Dropped for room rather than for want of a source, and listed so a later pass can pick them up: Stephen Breyer's swearing-in as an Associate Justice of the Supreme Court on August 3, which was not parked in the detail of the Ames fact because sharing nothing but a year is not a relation; the Northridge earthquake, the January cold wave, the Green Ramp disaster, the South Canyon wildfire, USAir Flight 427, the American Eagle crash at Roselawn and the sinking of the MS Estonia, all in the texture instead of a disasters fact; the Byron De La Beckwith conviction, the execution of John Wayne Gacy, the death of Jeffrey Dahmer, the two White House attacks, Reagan's Alzheimer's letter and the Whitewater investigation, all in the texture; the withdrawal of Russian troops from Germany and the Baltics, the end of the Allied occupation of Berlin, the death of Kim Il Sung, the Matsumoto sarin attack, the Order of the Solar Temple deaths, Palau's independence and the Norwegian European Union referendum, all in the texture; the Kerrigan attack and Harding's guilty plea, the theft of The Scream, the start of DirecTV, the Star Trek: The Next Generation finale and the Phoenix Islands skipping December 31, all in the texture; the Israel-Jordan Washington Declaration of July 25; Operation Uphold Democracy of September 19 and Aristide's return on October 15, left out partly because the US year page's only summary of the operation carries a date range ending in a later year; the Flavr Savr tomato of May 18; the Chauvet Cave discovery of December 18 and the Australopithecus afarensis skull reported on March 31; the Berlusconi election win of March 27; the Aum Shinrikyo cult's later history; the Fred West excavations at 25 Cromwell Street from February 24; the Baruch Goldstein attack at the Cave of the Patriarchs on February 25; the Markale massacre of February 6; construction starting on the Three Gorges Dam on December 14; the Finnish and Swedish European Union referendums; the Encore multiplex and Starz launches of February 1 and the pay television content advisory system of March 1; the CBS and NBC station swap of November 21; Madonna's Late Show appearance of March 31; Michael Jackson's marriage to Lisa Marie Presley on May 26; Home & Garden Television's debut on December 1. Names and titles are written in ASCII per the corpus convention, so Juvenal Habyarimana, Jose Francisco Ruiz Massieu, Raul Salinas de Gortari, Kenzaburo Oe, Jose Maria Olazabal, Conchita Martinez, Arantxa Sanchez Vicario, Andres Escobar, Gerard Corbiau, Tomas Gutierrez Alea, Juan Carlos Tabio, Krzysztof Kieslowski, Sinn Fein and Celine Dion lose their diacritics. Deaths carry a birth year where the source gives one. Ayrton Senna carries none, because neither cached year page gives a birth year or an age for him, and the fact says only what the source says. Deaths that would have earned a place with more room: Jessica Tandy on September 11, born 1909, whose Best Actress Oscar the 1989 file already carries; Raul Julia on October 24, born 1940; Cab Calloway on November 18, born 1907; Linus Pauling on August 19, born 1901; Wilma Rudolph on November 12, born 1940; John Candy on March 4, whose death the film page carries and who appears there instead; Dinah Shore on February 24; Telly Savalas on January 22; Cesar Romero on January 1; Tip O'Neill on January 5; Jack Kirby on February 6; Joseph Cotten on February 6; Charles Bukowski on March 9; Ralph Ellison on April 16; Henry Mancini on June 14; Jule Styne on September 20; Harriet Nelson on October 2; Martha Raye on October 19; Dean Rusk on December 20; Menachem Mendel Schneerson on June 12; Bill Hicks on February 26; Erik Erikson on May 12; Jersey Joe Walcott on February 25; Gary Kildall on July 11; Jay Miner on June 20; and William Higinbotham on November 10, whose death the video games page carries. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for: politics 5, world 7, film 7, tv 5, music 5, tech 6, prices 3, culture 4, sports 5, deaths 5. World runs to 7 because the year carries the Rwandan genocide, the end of apartheid, the start of the First Chechen War, NAFTA taking effect, four killings and a currency collapse in Mexico, the IRA ceasefire and the opening of the Channel Tunnel, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong. Review pass restored the Nintendo Ultra 64 to tech.games. It had been dropped as failing the anachronism check, but 64 is two digits and the check matches four-digit numbers only, so that name was never at risk. This is the fifth time an agent has dropped content over a check that would not have fired."
+}

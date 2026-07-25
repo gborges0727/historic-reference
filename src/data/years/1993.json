@@ -1,0 +1,508 @@
+{
+  "year": 1993,
+  "tier": "modern",
+  "headline": "Clinton took office in January, a van bomb hit the World Trade Center, and Waco ended in fire in April",
+  "texture": [
+    "The Latur earthquake killed 9,748 people in Maharashtra on September 30. Bombs across Bombay killed 257 on March 12, two months after riots in the same city. The Storm of the Century crossed the eastern United States from March 13 to 15 with record snowfall and reportedly killed 184 people between Cuba and Quebec. The Mississippi and Missouri flooded the Midwest from April to October and peaked on August 1. A bridge gave way under the Amtrak Sunset Limited at Big Bayou Canot on September 22, killing 47. Every member of the Zambian national football team died in a crash off Libreville on April 27.",
+    "Depeche Mode took questions from fans on AOL on September 20, and the band and much of the audience could not get logged in. Adobe published the first version of the PDF format on June 15, alongside Acrobat 1.0. Microsoft shipped Windows NT 3.1 on July 27 and Windows 3.11 for Workgroups in November. Nintendo and Silicon Graphics began work on Project Reality on October 1. Congress opened hearings on violence in video games on December 7, more than six months after Sega of America set up the first content rating council for the industry.",
+    "Ross Perot and Al Gore argued about NAFTA on Larry King's CNN programme on November 9, in front of 11.174 million households, the largest audience an advertising-supported cable network had drawn. ESPN2 signed on October 1 and TV Food Network on November 22, where Emeril Lagasse hosted How to Boil Water. The first Got Milk? advertisement ran on October 29, built around a man who knows who shot Alexander Hamilton and cannot say it clearly with his mouth full of peanut butter. The Ultimate Fighting Championship sold its first pay-per-view from Denver on November 12.",
+    "Prince announced on his 35th birthday, June 7, that he was changing his name to an unpronounceable symbol. Kim Campbell became Canada's first female prime minister on June 25, lost the October 25 election that cut the Progressive Conservatives to two seats, and gave up the party leadership on December 13. South Africa abandoned its nuclear weapons programme in March, and on December 7 the Transitional Executive Committee met in Cape Town, the first official government body in the country with Black members."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.wtc_bombing",
+    "world.oslo_accord",
+    "film.gross#0",
+    "tv.cheers_finale",
+    "music.hot100_year_end#0",
+    "tech.web_use",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Bill Clinton (D)",
+      "detail": "First year in office, from January 20. George H. W. Bush held the office until that morning, and Dan Quayle was Vice President until then, with Al Gore taking over. William Rehnquist was Chief Justice, Tom Foley Speaker of the House and George J. Mitchell Senate majority leader. The 102nd Congress sat until January 3 and the 103rd afterwards, and Clinton gave his first address to it on February 17. Janet Reno was confirmed as Attorney General on March 11 and sworn in the next day, and Ruth Bader Ginsburg was sworn in as an Associate Justice of the Supreme Court on August 10.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "Clinton inaugurated",
+      "value": "Sworn in as the 42nd president of the United States, with Al Gore sworn in as the 45th vice president",
+      "detail": "The Constitution starts a presidential term on January 20, and both cached year pages give that day. Neither carries anything beyond the two oaths, so this fact cites the dedicated article, pulled as raw wikitext and the only source in this file from outside the cache. It gives Wednesday, January 20 at the West Front of the United States Capitol, calls it the 52nd inauguration, and names Chief Justice William Rehnquist as administering the presidential oath at noon and Associate Justice Byron White the vice presidential oath. Maya Angelou read her poem On the Pulse of Morning after the address, the second poet to read at an inauguration after Robert Frost.",
+      "date": "1993-01-20",
+      "source": "https://en.wikipedia.org/wiki/First_inauguration_of_Bill_Clinton"
+    },
+    "pol.wtc_bombing": {
+      "section": "politics",
+      "label": "World Trade Center bombing",
+      "value": "A van bomb parked below the North Tower exploded, killing six people and injuring more than a thousand",
+      "detail": "Both cached year pages carry the same casualty figures and neither gives a cost. Authorities announced the capture of a suspected conspirator, Mohammad Salameh, on March 4.",
+      "date": "1993-02-26",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "pol.waco": {
+      "section": "politics",
+      "label": "Waco siege ends",
+      "value": "A fire ended the 51-day stand-off at the Branch Davidian compound near Waco, Texas, killing 76 people including David Koresh",
+      "detail": "Agents of the Bureau of Alcohol, Tobacco and Firearms had raided the compound on February 28 with a warrant for Koresh on federal firearms violations. Four agents and five Davidians died that day and the stand-off began. The television page says NBC broadcast a hastily produced television movie about the siege on May 23, with Tim Daly as Koresh.",
+      "date": "1993-04-19",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "pol.nafta": {
+      "section": "politics",
+      "label": "NAFTA signed",
+      "value": "Clinton signed the North American Free Trade Agreement into law",
+      "detail": "The agreement had passed the legislative houses of the United States, Canada and Mexico between November 17 and 22.",
+      "date": "1993-12-08",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "pol.brady": {
+      "section": "politics",
+      "label": "Brady Act signed",
+      "value": "Clinton signed the Brady Handgun Violence Prevention Act, which requires buyers of handguns to pass a background check",
+      "date": "1993-11-30",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "world.new_states": {
+      "section": "world",
+      "label": "New states on the map",
+      "value": [
+        "Czechoslovakia ceased to exist on January 1, as the Czech Republic and Slovakia separated",
+        "Macedonia was admitted to the United Nations on April 8 under the provisional reference the former Yugoslav Republic of Macedonia",
+        "Eritreans voted overwhelmingly for independence from Ethiopia on April 23 in a referendum monitored by the United Nations",
+        "Eritrea became independent on May 24 and entered the United Nations with Monaco on May 28"
+      ],
+      "detail": "Vaclav Havel was elected President of the Czech Republic on January 26, and the science page says both new countries joined CERN. The year page dates the United Nations verification of the Eritrean vote to April 27.",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "world.european_union": {
+      "section": "world",
+      "label": "Maastricht Treaty takes effect",
+      "value": "The treaty entered into force and formally established the European Union",
+      "detail": "The European Economic Community had eliminated trade barriers and created a single market on January 1. In August the European Exchange Rate Mechanism margin was widened to 15 percent to absorb speculation against the French franc and other currencies.",
+      "date": "1993-11-01",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "world.oslo_accord": {
+      "section": "world",
+      "label": "Oslo I Accord",
+      "value": "Yasser Arafat and Yitzhak Rabin shook hands in Washington after signing a peace accord, following talks held in secret earlier in the year",
+      "detail": "The year page carries the handshake and the secret talks in one line and names no mediator.",
+      "date": "1993-09-13",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "world.mogadishu": {
+      "section": "world",
+      "label": "Battle of Mogadishu",
+      "value": "Task Force Ranger fought Somali militia after two Black Hawk helicopters were shot down, leaving 18 Americans dead, one captured and more than 74 wounded, and over 1,000 Somalis dead",
+      "detail": "The operation was called Gothic Serpent. The year page dates the fighting to October 3 and 4 and the US year page carries October 3 alone. UNOSOM II had taken over the United Nations duties in Somalia from UNITAF on May 4, and twenty-four Pakistani troops in the United Nations force were killed in Mogadishu on June 5.",
+      "date": "1993-10-03",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "world.russia": {
+      "section": "world",
+      "label": "Tanks clear the Russian parliament",
+      "value": "Military and security forces took the White House of Russia by force, quashing a mass uprising against President Boris Yeltsin",
+      "detail": "A referendum on April 25, during the power struggle between president and parliament, expressed confidence in Yeltsin and his reforms while rejecting early elections.",
+      "date": "1993-10-04",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "world.bosnia": {
+      "section": "world",
+      "label": "Bosnian War",
+      "value": [
+        "Srebrenica was declared a protected safe area by the United Nations on April 16",
+        "Members of the Jokeri unit of the Croatian Defence Council entered Ahmici the same day and killed 120 Muslim residents",
+        "The International Criminal Tribunal for the former Yugoslavia was created in The Hague on May 25",
+        "Bosnian Croat forces destroyed the Stari Most, the old bridge at Mostar, by tank fire on November 9"
+      ],
+      "detail": "Security Council Resolution 808 of February 22 had decided that an international tribunal should be established, and Resolution 827 created it. Large protests against Slobodan Milosevic's government filled Belgrade on June 1, and the opposition leader Vuk Draskovic and his wife Danica were arrested.",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "world.escobar": {
+      "section": "world",
+      "label": "Pablo Escobar killed",
+      "value": "Colombian police gunned down the drug trafficker",
+      "detail": "The year page carries the killing in one line and gives no location.",
+      "date": "1993-12-02",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Jurassic Park, $914,691,118, Universal",
+        "Mrs. Doubtfire, $441,286,195, 20th Century Fox",
+        "The Fugitive, $368,875,760, Warner Bros.",
+        "Schindler's List, $321,306,305, Universal",
+        "The Firm, $270,248,367, Paramount"
+      ],
+      "detail": "Worldwide box-office gross rather than domestic rentals. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it calls the entries the top ten films released this year by worldwide gross, so header and text agree. A hidden comment inside the Jurassic Park cell warns editors not to substitute the lifetime gross, because the figure given covers the initial theatrical run. Indecent Proposal was sixth at $266,614,059 for Paramount, Cliffhanger seventh at $255,000,211, Sleepless in Seattle eighth at $227,799,884 and Philadelphia ninth at $206,678,440, all three for TriStar, and The Pelican Brief tenth at $195,268,056 for Warner Bros.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Schindler's List, produced by Steven Spielberg, Gerald R. Molen and Branko Lustig",
+      "detail": "Awarded the following spring at the 66th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Whoopi Goldberg, who the ceremony page says was the first African American and the first woman to host the telecast solo. Billy Crystal had declined after four consecutive ceremonies, and Gil Cates offered the job to Steve Martin, Bette Midler and Johnny Carson before Goldberg took it. Schindler's List won seven awards from twelve nominations, the most of either kind, and Spielberg took Best Director. The other Best Picture nominees were The Fugitive, In the Name of the Father, The Piano and The Remains of the Day. Jurassic Park and The Piano won three awards each. The telecast on ABC ran three hours and 18 minutes and drew 46.26 million viewers for a 31.86 Nielsen share.",
+      "source": "https://en.wikipedia.org/wiki/66th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Tom Hanks, Philadelphia",
+        "Best Actress, Holly Hunter, The Piano",
+        "Best Supporting Actor, Tommy Lee Jones, The Fugitive",
+        "Best Supporting Actress, Anna Paquin, The Piano"
+      ],
+      "detail": "Jane Campion won original screenplay for The Piano and Steven Zaillian adapted screenplay for Schindler's List, from the book by Thomas Keneally. John Williams won original score and Bruce Springsteen original song for Streets of Philadelphia, and Janusz Kaminski cinematography. Holly Hunter was nominated twice, as lead for The Piano and supporting for The Firm, and Emma Thompson twice, as lead for The Remains of the Day and supporting for In the Name of the Father. Leonardo DiCaprio was nominated for What's Eating Gilbert Grape and Ralph Fiennes for Schindler's List, and Angela Bassett and Laurence Fishburne both for What's Love Got to Do with It. The film page's awards table gives the Golden Globe for drama to Schindler's List and for comedy or musical to Mrs. Doubtfire, with Robin Williams best actor there, and the BAFTA award for best film to Schindler's List with Anthony Hopkins best actor for The Remains of the Day.",
+      "source": "https://en.wikipedia.org/wiki/66th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Nominated for Best Foreign Language Film",
+      "value": [
+        "Belle Epoque, Spain, in Spanish, directed by Fernando Trueba, the winner",
+        "Farewell My Concubine, Hong Kong, in Mandarin, directed by Chen Kaige",
+        "Hedd Wyn, United Kingdom, in Welsh, directed by Paul Turner",
+        "The Scent of Green Papaya, Vietnam, in Vietnamese, directed by Anh Hung Tran",
+        "The Wedding Banquet, Taiwan, in Mandarin, directed by Ang Lee"
+      ],
+      "detail": "The ceremony page states each film's country, language and director. Farewell My Concubine took both the Golden Globe and the BAFTA award in the same category, by the film page's awards table. On January 1 the China Film Import and Export Corporation lost its 40-year monopoly on distributing every film in China, and 16 other Chinese studios became responsible for distributing their own. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/66th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Jurassic Park, June 11, Universal, with a record $50 million opening weekend",
+        "Indecent Proposal, April 7, Paramount, which the film page calls controversial",
+        "Super Mario Bros., May 28, Hollywood Pictures, the first film made from a video game, with Bob Hoskins as Mario and John Leguizamo as Luigi",
+        "Last Action Hero, June 18, which the film page calls a commercial disappointment for Arnold Schwarzenegger",
+        "Schindler's List, December 15, Universal"
+      ],
+      "detail": "The film page dates Jurassic Park to June 11 and so do both cached year pages, while the science page gives June 9. It set opening records in Mexico and the United Kingdom on July 16 and in Japan, South Korea and Taiwan the next day, and the film page calls it the highest-grossing film ever made at a worldwide gross above $900 million. Super Mario Bros. took only $20.9 million in the domestic market. Bram Stoker's Dracula opened in the United Kingdom on January 29 with a record opening weekend the film page gives as 2,633,635 pounds, printed with a stray word million after the figure. Brandon Lee was killed on March 31 during the filming of The Crow, and River Phoenix died on October 31 during the filming of Dark Blood. Kim Basinger filed for bankruptcy on May 27 after a California judge ordered her to pay $8.9 million for refusing to honour a verbal contract to star in Boxing Helena, and lost the town of Braselton, Georgia to her partner in that purchase, the pension fund of Ameritech. Turner Broadcasting System acquired Castle Rock Entertainment on December 22.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and at home when a network scheduled a film. Indiana Jones and the Last Crusade had its network premiere on CBS on March 2 and Home Alone on NBC on November 25.",
+      "detail": "Fox showed The Rocky Horror Picture Show on October 25 with the film intercut with a live cast performing along to it. None of the cached pages says anything about tape rental, laser disc or the price of either, so this fact claims nothing about them. The average ticket price was $4.14.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.14",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1993",
+      "value": [
+        "60 Minutes, CBS, 20.9 rating",
+        "Home Improvement, ABC, 20.4",
+        "Seinfeld, NBC, 19.4",
+        "Roseanne, ABC, 19.1",
+        "Grace Under Fire, ABC, 17.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Coach was sixth on 17.4 for ABC, Frasier seventh on 16.8 for NBC, Monday Night Football eighth on 16.5 for ABC, Murphy Brown ninth on 16.3 for CBS and the CBS Sunday Movie tenth on 16.2. NYPD Blue tied for 18th on 13.9 with Wings.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1993%E2%80%9394"
+    },
+    "tv.cheers_finale": {
+      "section": "tv",
+      "label": "Cheers ends",
+      "value": "80.4 million people watched the series finale on NBC, which followed an hour-long fourth-season finale of Seinfeld",
+      "detail": "Cheers had started in 1982. The Seinfeld episode closed a season-long story about a pilot Jerry and George wrote, which NBC executives refuse at the end of it. Knots Landing ended on May 13 after starting in 1979, The Wonder Years on May 12, Quantum Leap on May 5 and A Different World on July 9.",
+      "date": "1993-05-20",
+      "source": "https://en.wikipedia.org/wiki/1993_in_American_television"
+    },
+    "tv.late_night": {
+      "section": "tv",
+      "label": "Letterman moves to CBS",
+      "value": "David Letterman broadcast his last Late Night for NBC on June 25 and premiered the Late Show on CBS on August 30, with Bill Murray and Billy Joel as his first guests",
+      "detail": "He had announced the move on January 14. Lorne Michaels picked Conan O'Brien, then a writer on The Simpsons, on April 25 to take the NBC slot after The Tonight Show, and Late Night with Conan O'Brien premiered on September 13. The Chevy Chase Show ended on October 1 after starting the same year.",
+      "date": "1993-08-30",
+      "source": "https://en.wikipedia.org/wiki/1993_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Star Trek: Deep Space Nine, syndication, January 3",
+        "WWF Monday Night Raw, USA Network, January 11",
+        "Homicide: Life on the Street, NBC, January 31",
+        "Beavis and Butt-Head, MTV, March 8",
+        "Mighty Morphin Power Rangers, Fox Kids, August 28",
+        "The X-Files, Fox, September 10",
+        "Frasier, NBC, September 16",
+        "NYPD Blue, ABC, September 21",
+        "Boy Meets World, ABC, September 24"
+      ],
+      "detail": "The television page's premiere table gives each date and network. The X-Files pilot took a 7.9 Nielsen rating, 7.4 million households and 12.0 million viewers. At least 30 ABC affiliates, mostly in smaller markets, refused to carry NYPD Blue over nudity and language uncommon on broadcast television at the time. Power Rangers used stock footage from the Japanese series Kyoryu Sentai Zyuranger. Britney Spears, Justin Timberlake, Christina Aguilera and Ryan Gosling joined the cast of The New Mickey Mouse Club on October 4, and Michael J. Nelson replaced Joel Hodgson as host of Mystery Science Theater 3000 on October 30.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_American_television"
+    },
+    "tv.nfl_rights": {
+      "section": "tv",
+      "label": "Fox buys the NFL",
+      "value": "CBS lost the rights to National Football Conference games to Fox, which offered a record $1.58 billion",
+      "detail": "CBS had broadcast National Football League games for 38 years. Its Major League Baseball contract ended too, on October 23, after the owners approved a six-year joint venture with ABC and NBC on May 28 that displaced CBS as baseball's primary network.",
+      "date": "1993-12-18",
+      "source": "https://en.wikipedia.org/wiki/1993_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "I Will Always Love You, Whitney Houston",
+        "Whoomp! (There It Is), Tag Team",
+        "Can't Help Falling in Love, UB40",
+        "That's the Way Love Goes, Janet Jackson",
+        "Freak Me, Silk"
+      ],
+      "detail": "From the year in music edition of Billboard dated December 25. I Will Always Love You posted its 14th week at number one on March 6, and That's the Way Love Goes spent eight consecutive weeks there from May. Whitney Houston had three songs on the chart and SWV three inside the top 40, with Weak at six, I'm So Into You at 20 and Right Here at 29. Janet Jackson charted three from her album, with If at 19 and Again at 74. Weak was sixth, If I Ever Fall in Love by Shai seventh, Dreamlover by Mariah Carey eighth, Rump Shaker by Wreckx-n-Effect ninth and Informer by Snow tenth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1993"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Sales were counted by computer. The Bodyguard: Original Soundtrack Album sold more than a million copies in one American week on January 9, which the music page calls the first album to do so since Nielsen SoundScan introduced computerised sales monitoring in May 1992.",
+      "detail": "Janet Jackson's fifth album sold 350,000 copies in its first week from May 18, the highest opening week by a woman to that point and the first album by a woman to debut at number one in the SoundScan era. MTV Latin America launched on October 1, and Nirvana played their unplugged concert for MTV in New York on November 18. No cached page compares compact discs with cassettes or names a radio format for the year, so this fact claims nothing about either.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums of the year",
+      "value": [
+        "The Bodyguard: Original Soundtrack Album, Whitney Houston",
+        "Breathless, Kenny G",
+        "Unplugged, Eric Clapton",
+        "janet., Janet Jackson",
+        "Some Gave All, Billy Ray Cyrus"
+      ],
+      "detail": "The Chronic by Dr. Dre was sixth, Pocket Full of Kryptonite by the Spin Doctors seventh, Ten by Pearl Jam eighth, The Chase by Garth Brooks ninth and Core by Stone Temple Pilots tenth. The music page ranks the ten and gives no sales figure for any of them.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Niamh Kavanagh won for Ireland with In Your Eyes, at the Green Glens Arena in Millstreet",
+      "detail": "The win brought Ireland level with France and Luxembourg on five victories, and Ireland was hosting. The 22nd OTI Festival, at the Teatro Principal in Valencia on October 9, was won by Enamorarse, written by Alejandro Abad and Josep Llobell and performed by Ana Reverte for Spain.",
+      "date": "1993-05-15",
+      "source": "https://en.wikipedia.org/wiki/1993_in_music"
+    },
+    "music.jackson_investigation": {
+      "section": "music",
+      "label": "Michael Jackson investigated",
+      "value": "News broke that he was under investigation over allegations of child molestation, and a civil suit followed on September 14 from a thirteen-year-old boy and his parents",
+      "detail": "Jackson ended the Dangerous World Tour in Mexico City on November 11 and made his first public statement on December 22, in a videotaped address calling the accusations totally false and asking the public to wait to hear the truth. The music page names the boy who brought the suit and this fact does not.",
+      "date": "1993-08-24",
+      "source": "https://en.wikipedia.org/wiki/1993_in_music"
+    },
+    "tech.web_use": {
+      "section": "tech",
+      "label": "Mosaic released",
+      "value": "Version 1.0 of the Mosaic web browser, devised by Marc Andreessen and Eric Bina, was released in the United States",
+      "detail": "The science page carries the release and nothing else about it. No cached page counts internet users, names a web site or says what a connection cost this year, so this fact claims none of that.",
+      "date": "1993-04-22",
+      "source": "https://en.wikipedia.org/wiki/1993_in_science"
+    },
+    "tech.spam": {
+      "section": "tech",
+      "label": "The word spamming",
+      "value": "A bug in a program written by Richard Depew sent one article to 200 newsgroups at once, and Joel Furr coined the term spamming for the incident",
+      "date": "1993-03-31",
+      "source": "https://en.wikipedia.org/wiki/1993_in_science"
+    },
+    "tech.pentium": {
+      "section": "tech",
+      "label": "First Pentium chips",
+      "value": "Intel began shipping them on March 22",
+      "detail": "The science page and the US year page carry the same date and neither gives a clock speed or a price.",
+      "date": "1993-03-22",
+      "source": "https://en.wikipedia.org/wiki/1993_in_science"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Star Fox, Nintendo, February 21, the first game to use the Super FX chip",
+        "The 7th Guest, Virgin Interactive, April 1, which sold over two million copies on MS-DOS",
+        "Myst, Cyan and Broderbund, September 24",
+        "Virtua Fighter, Sega, October, the first fully polygonal fighting game",
+        "Mortal Kombat II, Midway, November",
+        "Doom, id Software, December 10, on MS-DOS",
+        "NBA Jam, Midway, December, one of the first sports games with licensed teams and players"
+      ],
+      "detail": "The games page calls Street Fighter II the highest-grossing entertainment product of the year, earning more than the film Jurassic Park, at $1.5 billion worldwide in coin drop, and puts NBA Jam above $300 million in American arcades. Panasonic, GoldStar and Sanyo released the first versions of the 3DO, Atari released the Jaguar and called it the first 64-bit video game system, Fujitsu released the FM Towns Marty in Japan as the first 32-bit home console and Commodore released the Amiga CD32. Sega released the Model 2 arcade board, which introduced texture filtering. The page names Samurai Shodown as game of the year in the Electronic Gaming Monthly vote, and Disney's Aladdin, released for the Genesis on November 11, as Genesis game of the year in the public vote at the Electronic Gaming Awards.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_video_games"
+    },
+    "tech.hubble_repair": {
+      "section": "tech",
+      "label": "Hubble repaired in orbit",
+      "value": "NASA launched STS-61 on Endeavour to install corrective optics for the telescope's flawed mirror, and the first corrected images were taken on December 20",
+      "detail": "The science page says the upgrades took magnification and clarity past the original design, and that the telescope had been designed for servicing of this kind. Both cached year pages carry the December 2 launch.",
+      "date": "1993-12-02",
+      "source": "https://en.wikipedia.org/wiki/1993_in_science"
+    },
+    "tech.fermat": {
+      "section": "tech",
+      "label": "A proof of Fermat's Last Theorem announced",
+      "value": "Andrew Wiles presented it at the Isaac Newton Institute",
+      "detail": "The two cached pages disagree on the date. The science page gives June 21 at the Isaac Newton Institute and says the proof as announced was slightly flawed, while the year page dates his worldwide fame to June 24 and says nothing about a flaw. This fact takes the science page's date and names the disagreement rather than resolving it.",
+      "date": "1993-06-21",
+      "source": "https://en.wikipedia.org/wiki/1993_in_science"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.11 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$4.25 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. The chart gives April 1991 as the date it rose to this rate.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "prices.unemployment": {
+      "section": "prices",
+      "label": "US unemployment rate",
+      "value": "6.5 percent in December, the lowest since January 1991",
+      "detail": "The US year page carries the December figure and no annual average. IBM had announced a loss of $4,970,000,000 for the previous year on January 19, which the same page calls the largest single-year corporate loss in United States history to that date.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Both of the year's American disasters played out on live television, a bombed tower in February and a burning compound in April. A browser was something you heard about from someone who already had one. Dinosaurs took the summer and a Whitney Houston ballad held the top of the singles chart into March."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Toni Morrison",
+        "Peace, Nelson Mandela and F. W. de Klerk",
+        "Physics, Russell Alan Hulse and Joseph Hooton Taylor Jr.",
+        "Chemistry, Kary Mullis and Michael Smith",
+        "Medicine, Richard J. Roberts and Phillip Allen Sharp",
+        "Economics, Robert W. Fogel and Douglass North"
+      ],
+      "detail": "The year page lists the six and dates none of them. The science page carries the same names for physics, chemistry and medicine, and gives the Turing Award to Juris Hartmanis and Richard E. Stearns.",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "culture.dont_ask_dont_tell": {
+      "section": "culture",
+      "label": "Don't ask, don't tell announced",
+      "value": "Clinton announced the policy on homosexuals serving in the American military",
+      "detail": "An executive order of April 28 had already required the United States Air Force to allow women to fly in combat.",
+      "date": "1993-07-19",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Toronto Blue Jays beat the Philadelphia Phillies four games to two, and Joe Carter ended it with a walk-off home run",
+      "detail": "Paul Molitor was series most valuable player. The sports page calls Carter's the second walk-off home run ever to end a World Series and the first by an American League player, and the year page calls Toronto the first team to win back-to-back titles since the New York Yankees of 1977 and 1978. Lee Smith broke the all-time save record with his 358th on April 13 in a 9 to 7 win over the Los Angeles Dodgers, and Randy Myers saved 53 games for the Chicago Cubs, a record for left-handers.",
+      "date": "1993-10-23",
+      "source": "https://en.wikipedia.org/wiki/1993_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXVII",
+      "value": "Dallas Cowboys beat the Buffalo Bills 52 to 17 at the Rose Bowl in front of 98,374, with the quarterback Troy Aikman named most valuable player",
+      "detail": "The US year page says the Bills became the first team to lose three consecutive Super Bowls. Michael Jackson played the halftime show, the first solo performer to do it, in a medley of his hits that the television page says was a ratings success. Alabama beat Miami 34 to 13 in the Sugar Bowl on January 1 for the college national championship of the previous season, and the NFL introduced its free agency system on March 1.",
+      "date": "1993-01-31",
+      "source": "https://en.wikipedia.org/wiki/1993_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Los Angeles Kings, four games to one",
+        "NBA Finals, Chicago Bulls over the Phoenix Suns, four games to two, a third title in a row",
+        "NCAA basketball, North Carolina 77, Michigan 71",
+        "Grey Cup, Edmonton Eskimos 33, Winnipeg Blue Bombers 23",
+        "Premier League, Manchester United, the inaugural title and their first league championship in 26 years",
+        "UEFA Champions League, Olympique de Marseille 1, A.C. Milan 0",
+        "World Snooker Championship, Stephen Hendry over Jimmy White, 18 to 5"
+      ],
+      "detail": "The sports page carries Michael Jordan's retirement announcement of October 6 in the same entry as the Bulls' title, and names him Associated Press Male Athlete of the Year with Sheryl Swoopes the female winner. Julie Krone became the first woman to win a Triple Crown race, on Colonial Affair in the Belmont Stakes, Sea Hero won the Kentucky Derby and Prairie Bayou the Preakness, and the Grand National was declared void. Bernhard Langer took the Masters, Lee Janzen the US Open, Greg Norman the British Open and Paul Azinger the PGA Championship, with Nick Price leading the money list at $1,478,557, and the United States won the Ryder Cup 15 to 13. Mario Lemieux took both the Art Ross and the Hart trophies. France won the 99th Five Nations Championship. Australia beat England 4 to 0 in the Ashes, and Shane Warne bowled the ball of the century to Mike Gatting at Old Trafford on June 4.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_sports"
+    },
+    "sports.seles": {
+      "section": "sports",
+      "label": "Monica Seles stabbed",
+      "value": "The top-ranked women's player was stabbed in the back during a changeover at the Citizen Cup in Hamburg, by a fan of her rival Steffi Graf",
+      "detail": "Seles had won the Australian Open in January. Graf won the French Open, Wimbledon and the US Open, Pete Sampras took Wimbledon and the US Open among the men, Jim Courier the Australian Open and Sergi Bruguera the French Open, and Germany won the Davis Cup 4 to 1 over Australia.",
+      "date": "1993-04-30",
+      "source": "https://en.wikipedia.org/wiki/1993_in_sports"
+    },
+    "sports.expansion": {
+      "section": "sports",
+      "label": "New franchises",
+      "value": [
+        "Colorado Rockies and Florida Marlins played their first Major League Baseball seasons, the first expansion in 16 seasons",
+        "The Mighty Ducks of Anaheim and the Florida Panthers played their first National Hockey League seasons"
+      ],
+      "detail": "Both new baseball teams entered the National League. The US year page adds the Sacramento Gold Miners, established on February 23 as the first American franchise in the Canadian Football League, and the television page says Gayle Gardner became the first woman to call play-by-play on a televised baseball game, a Rockies game against the Cincinnati Reds on August 3.",
+      "source": "https://en.wikipedia.org/wiki/1993_in_sports"
+    },
+    "sports.olympic_host": {
+      "section": "sports",
+      "label": "Sydney chosen as an Olympic host",
+      "value": "The International Olympic Committee selected Sydney, Australia, as the host city of a future Summer Olympics",
+      "date": "1993-09-23",
+      "source": "https://en.wikipedia.org/wiki/1993"
+    },
+    "deaths.hepburn": {
+      "section": "deaths",
+      "label": "Audrey Hepburn",
+      "value": "Died January 20, aged 63",
+      "detail": "Actress, in Breakfast at Tiffany's and Roman Holiday.",
+      "date": "1993-01-20",
+      "source": "https://en.wikipedia.org/wiki/1993_in_film"
+    },
+    "deaths.marshall": {
+      "section": "deaths",
+      "label": "Thurgood Marshall",
+      "value": "Died January 24. Born 1908",
+      "detail": "Jurist, the first African American on the Supreme Court.",
+      "date": "1993-01-24",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "deaths.ashe": {
+      "section": "deaths",
+      "label": "Arthur Ashe",
+      "value": "Died February 6, aged 49",
+      "detail": "Tennis player, of complications from HIV, which the US year page says he was believed to have contracted from a blood transfusion during heart surgery ten years earlier.",
+      "date": "1993-02-06",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    },
+    "deaths.fellini": {
+      "section": "deaths",
+      "label": "Federico Fellini",
+      "value": "Died October 31, aged 73",
+      "detail": "Italian director and screenwriter, of 8 1/2 and Amarcord.",
+      "date": "1993-10-31",
+      "source": "https://en.wikipedia.org/wiki/1993_in_film"
+    },
+    "deaths.zappa": {
+      "section": "deaths",
+      "label": "Frank Zappa",
+      "value": "Died December 4. Born 1940",
+      "detail": "Guitarist and composer.",
+      "date": "1993-12-04",
+      "source": "https://en.wikipedia.org/wiki/1993_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1993. figures_basis is gross, checked with bo.mjs rather than assumed: the column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above the table calls the entries the top ten films released this year by worldwide gross, so header and text agree and there is no rentals gloss to write. film.gross says worldwide in both its label and its detail, because the neighbouring years' tables are not all on the same basis and a reader comparing two years is otherwise comparing different measurements. A hidden comment inside the Jurassic Park cell tells editors not to replace the figure with the lifetime gross, so the fact repeats that warning rather than substituting a bigger number. Date checks. An inauguration falls this year and carries a checkable constitutional constraint, so pol.inauguration cites https://en.wikipedia.org/wiki/First_inauguration_of_Bill_Clinton, pulled as raw wikitext and the only source in this file from outside the cache. It gives Wednesday, January 20 at the West Front of the Capitol, calls it the 52nd inauguration, and names William Rehnquist administering the presidential oath at noon and Byron White the vice presidential oath. Both cached year pages give January 20 and the two oaths and nothing else, so there is no disagreement to name, only a gap the dedicated article fills. The article's line about Clinton being the third-youngest person to become president and the first from the baby boom generation was read and left out for room, and its succession links to later inaugurations were ignored. Source disagreements labelled rather than resolved. The science page dates Andrew Wiles's announcement of a proof of Fermat's Last Theorem to June 21 at the Isaac Newton Institute and says the proof as announced was slightly flawed, while the year page dates his worldwide fame to June 24 and mentions no flaw: tech.fermat takes June 21, cites the science page and names the disagreement. The science page dates the release of Jurassic Park to June 9 while the film page and both year pages give June 11, which film.releases states outright. The film page's line on the Bram Stoker's Dracula opening weekend reads 2,633,635 pounds followed by a stray word million, so film.releases gives the figure and reports the stray word rather than picking a magnitude. The year page dates the Battle of Mogadishu to October 3 and 4 and the US year page to October 3 alone, which world.mogadishu names. Section windows. This is the first year tech.internet is open, so tech.web_use carries the release of Mosaic under a gated id, and it says outright that no cached page counts internet users, names a web site or gives the cost of a connection, because none does. tech.web_sites does not open until 1996 and no fact here claims a most-visited site. The Depeche Mode question-and-answer session on AOL of September 20, which the music page calls one of the earliest by a band on the internet, is in the texture rather than in a fact, because the only gated ids that map to tech.internet are tech.internet_users, tech.web_use and tech.netflix_qwikster, and adding one would mean editing the windows table, which this brief forbids. tech.spam sits on a plain tech id for the same reason. No radio fact, because that window closed after 1959, and no radio material was moved into another section to get round it. The Nielsen ranking covers a season that began in the autumn of this year and ran into the following spring, which tv.top_shows states without naming a second year. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: world.new_states cites the year page and takes the CERN membership of the two new countries from the science page; film.how_people_watched cites the television page, which is the only page carrying the network premieres of Indiana Jones and the Last Crusade, Home Alone and The Rocky Horror Picture Show, and takes the average ticket price from the series file; film.acting_awards and film.world_cinema cite the ceremony page and take the Golden Globe and BAFTA winners from the film page's awards table; tv.top_shows cites the ratings page; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player, takes the three consecutive losses from the US year page and the Michael Jackson halftime show from the television page; sports.expansion cites the sports page and takes the Sacramento Gold Miners and the Gayle Gardner broadcast from the US year page; prices.unemployment and its IBM comparison both come from the US year page. General knowledge rather than a claim from the cached pages: that an audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Year tokens. The 66th Academy Awards honouring this year of film, the 51st Golden Globes and the 47th BAFTA awards all fall in the following year, so film.best_picture says awarded the following spring and no fact dates any of those ceremonies. The 65th Academy Awards of March 29, hosted by Billy Crystal at the Dorothy Chandler Pavilion, are left out because they honoured the previous year of film and would put a second Best Picture on the page, and the 35th Grammy Awards of February 24, hosted by Garry Shandling, where Eric Clapton won six awards from nine nominations and Michael Jackson received a Grammy Legend Award, are left out on the same ground. The year page names the Summer Olympics awarded to Sydney on September 23 by the year they will be held, which is later than this page's year, so sports.olympic_host gives the host city and the date of the decision and no more. The Warner Bros. announcement of November 2 that it would form The WB, and the Paramount and Chris-Craft announcement of October 27 that they would form the United Paramount Network, are both out of the file because the year page dates the launches to later years. Prince's name change is in the texture without the source's note that the substitute name lasted until a specific later year. Names are written in ASCII per the corpus convention, so Vaclav Havel, Slobodan Milosevic, Vuk Draskovic, Ahmici, Janusz Kaminski, Belle Epoque, Kyoryu Sentai Zyuranger and Enamorarse lose their diacritics, and Fellini's 8 1/2 is written out. Nothing in this file needed an entry in src/data/name_years.json and that file was not touched: the Amiga CD32, the FM Towns Marty, Mystery Science Theater 3000, STS-61, Windows NT 3.1 and Nintendo's Project Reality either carry no four-digit number or break the word boundary, and figures like 9,748 and 98,374 are split by their commas. Month-only or undated facts: none carries a partial date. The undated ones are the list facts, the three series figures and sports.expansion, whose seasons the sports page gives without dates. Dropped for lack of a source that says enough, or for room: the Great Flood of 1993, the Storm of the Century, the Latur earthquake, the Bombay bombings and riots, the Big Bayou Canot derailment and the Zambia national football team crash, all in the texture instead of a disasters fact; the Southland Firestorm of October 27 to 31, which the year page puts at more than 700 homes and 160,000 acres; the Four Corners hantavirus outbreak of April and May, thirteen deaths; the Milwaukee cryptosporidiosis outbreak beginning March 23; the murder of James Bulger in Merseyside on February 12; the Long Island Rail Road shooting of December 7; the suicide of the White House deputy counsel Vince Foster on July 20; the Brink's depot robbery of January 5, $7.4 million, which the year page calls the fifth largest in United States history; the execution of Westley Allan Dodd on January 5, the first legal hanging in America since 1965; the shooting outside CIA headquarters on January 25; the Rodney King federal trial and the August 4 sentencing of Stacey Koon and Laurence Powell to 30 months; the Chemical Weapons Convention signed by Bush on January 13; the START II treaty signed in Moscow on January 3; the Uruguay Round of GATT concluding on December 15 after seven years, dropped rather than parked in the detail of pol.nafta, which is a different agreement; the fundamental agreement between Israel and the Holy See of December 30, dropped rather than parked in the detail of world.oslo_accord for the same reason; the Russian withdrawals from Lithuania on August 31 and Poland on September 17; the assassination of Ranasinghe Premadasa on May 1; the coup in Burundi on October 21; Sani Abacha's coup in Nigeria on November 17; Benazir Bhutto's second term from October 19; the restoration of the Cambodian monarchy on September 24; the Eritrean and Cypriot elections; the ferry sinkings off Pusan and off Rugen; the Highland Towers collapse of December 11; the Royal Plaza Hotel collapse of August 13; Kim Campbell's year, the South African nuclear decision and the Transitional Executive Committee, all in the texture instead of world facts; the first meeting of Asia-Pacific Economic Cooperation in Seattle on November 17; the Puerto Rico status referendum; the Religious Freedom Restoration Act of November 16; the National Voter Registration Act of May 20; the ESPN2 and TV Food Network launches and the Perot and Gore debate, all in the texture; the first ESPY Awards of March 4 and Jim Valvano's speech there; the UFC's first pay-per-view, in the texture; Adobe's PDF, Windows NT 3.1, Windows 3.11 for Workgroups, Project Reality and the December 7 congressional hearings on video games, all in the texture rather than tech facts; the Sega of America ratings council of May 24, in the texture; the discovery of the Tel Dan Stele on August 5; the first definite asteroid moon, Dactyl, found orbiting 243 Ida; the first commercially available microprocessor-controlled prosthetic knee; the launch of the Cochrane Collaboration in August; Francisco Mojica's first characterisation of the CRISPR locus in August; the loss of radio contact with the Mars Observer on August 21; Rick Astley's retirement at 27 after selling 40 million records; the murder of Mia Zapata in Seattle on July 7; the killing of Euronymous in Oslo on August 10; the death of Bobby Moore on February 24; the Ahmici and Srebrenica dates being the same day, which world.bosnia states without comment. Deaths that would have earned a place with more room: Dizzy Gillespie on January 6, Rudolf Nureyev on January 6, Andre the Giant on January 27, Lillian Gish on February 27, Helen Hayes on March 17, Albert Sabin on March 3, Brandon Lee on March 31, Cesar Chavez on April 23, Marian Anderson on April 8, Pat Nixon on June 22, Roy Campanella on June 26, Vincent Price on October 25, River Phoenix on October 31, Myrna Loy on December 14, Don Ameche on December 6, W. Edwards Deming on December 20, Thomas Watson Jr. on December 31 and Raymond Burr on September 12, whose death the television page carries with the dedication on the last Perry Mason film. Brandon Lee and River Phoenix are in film.releases instead, because the film page carries both deaths as production events. Deaths carry an age where the film page gives one and a birth year where the US year page gives one, which is why the two halves of the list are written differently. This file runs 53 facts across 10 sections, one past the 40 to 52 the brief asks for: politics 6, world 7, film 7, tv 5, music 5, tech 6, prices 3, culture 3, sports 6, deaths 5. World runs to 7 because the year carries the end of Czechoslovakia, the founding of the European Union, the Oslo handshake, Mogadishu, tanks against the Russian parliament, three separate turns in the Bosnian war and the killing of Escobar, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong."
+}

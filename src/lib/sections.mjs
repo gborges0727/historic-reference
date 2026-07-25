@@ -56,6 +56,11 @@ export const WINDOWS = {
     until: null,
     why: 'added: the Magnavox Odyssey, the first commercial home console, shipped in September 1972, the same year as the Pong arcade cabinet. https://en.wikipedia.org/wiki/Magnavox_Odyssey',
   },
+  'tech.web_origins': {
+    from: 1989,
+    until: 1992,
+    why: 'added: the web being built, as against the web being usable, which is tech.internet from 1993. Berners-Lee wrote the proposal at CERN in March 1989, the first server ran in 1990 and the first public site went up in August 1991, and all three are dated events those pages should carry. They kept passing under the ungated `tech` section default instead, which is the hole the spec warns about, so they get a window of their own that closes where tech.internet opens. Nothing here may imply a reader could use the web: that is what the 1993 gate is for.',
+  },
   'tech.internet': { from: 1993, until: null },
   'tech.web_sites': { from: 1996, until: null },
   'tech.social': { from: 2003, until: null },
@@ -85,6 +90,9 @@ export const FAMILIES = {
   'music.best_selling_album': 'music.charts',
   'music.chart_toppers': 'music.charts',
   'music.listening_format': 'music.format',
+  'tech.web_proposal': 'tech.web_origins',
+  'tech.web_server': 'tech.web_origins',
+  'tech.web_first_site': 'tech.web_origins',
   'tech.internet_users': 'tech.internet',
   'tech.web_use': 'tech.internet',
   'tech.netflix_qwikster': 'tech.internet',
@@ -116,9 +124,38 @@ export const SECTION_ORDER = SECTIONS;
  * the table claims it. Null is a reportable condition, not an error: it means a
  * new fact family exists and nobody has decided when it starts.
  */
+/**
+ * Prefix rules, tried after an exact FAMILIES match and before the section fallback.
+ *
+ * Enumerating every gated id by hand does not scale past 1993. A year writing about an
+ * online service reaches for whatever id fits its fact, `tech.internet_dialup` or
+ * `tech.web_search` or `tech.social_feed`, and an id nobody listed falls through to the
+ * `tech` section default, which runs from 1920. That is silent: the fact validates and
+ * the gate it was supposed to hit never fires. A 1991 page could carry a fact about
+ * using a search engine and nothing would complain.
+ *
+ * Order matters, longest prefix first, because `tech.web_` has to lose to the exact
+ * FAMILIES entries that route the pre-1993 CERN ids to `tech.web_origins`.
+ */
+const PREFIX_RULES = [
+  ['tech.internet_', 'tech.internet'],
+  ['tech.web_site', 'tech.web_sites'],
+  ['tech.web_', 'tech.internet'],
+  ['tech.online_', 'tech.internet'],
+  ['tech.social_', 'tech.social'],
+  ['tech.game', 'tech.games'],
+  ['music.hot100_', 'music.hot100'],
+  ['music.chart', 'music.charts'],
+  ['film.award', 'film.awards'],
+  ['culture.meme', 'culture.memes'],
+];
+
 export function windowKeyFor(id, section) {
   if (WINDOWS[id]) return id;
   if (FAMILIES[id]) return FAMILIES[id];
+  for (const [prefix, key] of PREFIX_RULES) {
+    if (id.startsWith(prefix)) return key;
+  }
   if (WINDOWS[section]) return section;
   return null;
 }
