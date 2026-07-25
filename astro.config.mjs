@@ -6,7 +6,10 @@ import { defineConfig } from 'astro/config';
 const base = '/historic-reference/';
 
 export default defineConfig({
-  site: 'https://gborges0727.github.io',
+  // The account's user site (gborges0727.github.io) carries the custom domain
+  // gabeborges.com, and GitHub redirects the github.io host to it, so the canonical
+  // origin for this project's pages is the custom domain rather than github.io.
+  site: 'https://gabeborges.com',
   base,
   output: 'static',
   trailingSlash: 'ignore',
