@@ -1,0 +1,502 @@
+{
+  "year": 1986,
+  "tier": "broadcast",
+  "headline": "Challenger broke apart 73 seconds after launch, Chernobyl's reactor 4 exploded, and Marcos left for Hawaii",
+  "texture": [
+    "A limnic eruption at Lake Nyos in Cameroon released a cloud of carbon dioxide on August 21 that killed nearly 2,000 people and their cattle. Hailstones weighing a kilogram fell on Gopalganj District in Bangladesh on April 14 and killed 92. The Soviet liner Admiral Nakhimov sank in the Black Sea on August 31 after colliding with the bulk carrier Pyotr Vasev, killing 398. The cargo ship Khian Sea left Philadelphia the same day with 14,000 tons of toxic waste it spent sixteen months failing to unload. A hotel fire in San Juan killed 97 on December 31.",
+    "Halley's Comet reached perihelion on February 9, its first since 1910, and the Japanese probe Suisei flew through its hydrogen corona on March 8. Voyager 2 reached Uranus on January 24. The Netherlands and the Isles of Scilly declared peace on April 17, ending a state of war that had allegedly run 335 years. The Economist printed its first Big Mac Index on September 6. The Weeping Woman, stolen from Melbourne two weeks earlier, turned up in a locker at Spencer Street Station on August 19.",
+    "The United States Senate let its debates be televised on a trial basis from February 27, and approved a treaty outlawing genocide on February 19 after thirty-seven years of waiting. Arson at the Los Angeles Public Library on April 29 destroyed 400,000 volumes. Unemployment fell to 6.6 percent in December, the lowest since March 1980. Andrei Sakharov was let back into Moscow on December 19 after six years of internal exile. Jeltoqsan protests across the Kazakh SSR from December 16 ended with more than 165 protesters killed, and Natan Sharansky was released and left for Israel on February 11.",
+    "Roger Clemens struck out twenty batters in nine innings on April 29, a Major League record. Expo 86 opened in Vancouver on May 2 with transportation and communication as its theme. The Phantom of the Opera opened at Her Majesty's Theatre in London on October 9. Thatcher opened the M25 near Potters Bar on October 29, giving London its first full bypass. Patrick Sherrill shot fourteen co-workers at the post office in Edmond, Oklahoma on August 20 and then killed himself."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.challenger",
+    "world.chernobyl",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.hot100_year_end#0",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Sixth year in office. George H. W. Bush was Vice President, Tip O'Neill was Speaker of the House and Bob Dole was Senate majority leader. The 99th Congress sat through the year. Reagan delivered his fifth State of the Union address on February 4, a week later than scheduled because he spoke to the country about the Challenger accident instead on the evening of January 28.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "pol.chief_justice": {
+      "section": "politics",
+      "label": "Chief Justice changes hands",
+      "value": "Warren E. Burger held the office until September 26 and William Rehnquist from September 26",
+      "detail": "The US year page's list of federal incumbents gives the same day for both halves of the change and nothing further about it.",
+      "date": "1986-09-26",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "pol.midterms": {
+      "section": "politics",
+      "label": "Midterm elections",
+      "value": "The Democratic Party regained control of the United States Senate for the first time in six years",
+      "detail": "The date satisfies the constitutional rule that a federal election falls on the Tuesday after the first Monday in November: November 3 was a Monday and November 4 a Tuesday. The US year page gives no seat counts. On the same day California voters removed Chief Justice Rose Bird and two colleagues from the Supreme Court of California over their opposition to capital punishment.",
+      "date": "1986-11-04",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "pol.iran_contra": {
+      "section": "politics",
+      "label": "Iran-Contra affair becomes public",
+      "value": "The Lebanese magazine Ash-Shiraa reported that the United States had been selling weapons to Iran in secret to secure the release of seven American hostages held by pro-Iranian groups in Lebanon",
+      "detail": "Oliver North of the National Security Council and his secretary Fawn Hall began shredding documents on November 21. Attorney General Edwin Meese announced on November 25 that profits from the weapons sales had been diverted illegally to the Contra rebels in Nicaragua. On November 26 Reagan denied involvement and named John Tower, Edmund Muskie and Brent Scowcroft to a special review board that became known as the Tower Commission.",
+      "date": "1986-11-03",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "pol.goldwater_nichols": {
+      "section": "politics",
+      "label": "Goldwater-Nichols Act signed",
+      "value": "Reagan signed into law the largest reorganization of the Department of Defense since the Air Force was made a separate branch of service in 1947",
+      "detail": "The US year page carries the signing in one line and gives no terms.",
+      "date": "1986-10-01",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "pol.mlk_day": {
+      "section": "politics",
+      "label": "First federal Martin Luther King Jr. Day",
+      "value": "The holiday honouring Martin Luther King Jr. was observed for the first time",
+      "date": "1986-01-20",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "world.challenger": {
+      "section": "world",
+      "label": "Space Shuttle Challenger disaster",
+      "value": "Challenger broke apart 73 seconds after launch, killing the crew of seven astronauts, including the schoolteacher Christa McAuliffe",
+      "detail": "The year page and the US year page both give January 28 and the crew of seven, and the dedicated article, pulled as wikitext to check the date, agrees. It puts the breakup at 11:39:13 a.m. Eastern time about 46,000 feet above the Atlantic off Cape Canaveral, Florida, and gives the cause as an O-ring seal failure in the right solid rocket booster brought on by cold weather and wind shear. The crew were Dick Scobee, Michael J. Smith, Ronald McNair, Ellison Onizuka, Judith Resnik, Gregory Jarvis and McAuliffe. Navy divers found the crew compartment on March 9 with the bodies still inside, and the Rogers Commission published its report on June 9. The television page says CNN was the only news service broadcasting it nationally.",
+      "date": "1986-01-28",
+      "source": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"
+    },
+    "world.chernobyl": {
+      "section": "world",
+      "label": "Chernobyl disaster",
+      "value": "A mishandled safety test destroyed reactor 4 at the Chernobyl Nuclear Power Plant near Pripyat in the Ukrainian SSR, and at least 350,000 people were forcibly resettled away from the fallout",
+      "detail": "The two accounts disagree on the toll. The year page, citing a survey of major energy accidents, says the disaster killed at least 4,056 people and damaged almost $7 billion of property, and that traces of radioactive deposits unique to Chernobyl were found in nearly every country in the northern hemisphere. The dedicated article, pulled as wikitext to check the date, breaks it up differently: two workers killed by debris, 28 dead of acute radiation sickness within three months, and long-term estimates running from 4,000 in Ukraine, Belarus and Russia to 16,000 across Europe. Both give April 26, and the dedicated article puts the explosion at 01:23 local time and says the Soviet government did not acknowledge it publicly for two days, until raised radiation readings were picked up in Sweden.",
+      "date": "1986-04-26",
+      "source": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+    },
+    "world.people_power": {
+      "section": "world",
+      "label": "Marcos falls in the Philippines",
+      "value": "Ferdinand Marcos was ousted after 20 years and went into exile in Hawaii, Corazon Aquino became the first Filipino woman president and Salvador Laurel her vice president",
+      "detail": "Marcos had called a snap presidential election, held on February 7 amid disputes over the count, and the People Power Revolution against him began on February 22. The year page says Aquino formed an interim government and made Laurel prime minister as well as vice president. Jean-Claude Duvalier had fled Haiti on February 7, ending 28 years of family rule there.",
+      "date": "1986-02-25",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "world.palme": {
+      "section": "world",
+      "label": "Olof Palme assassinated",
+      "value": "The Swedish Prime Minister was shot dead in Stockholm on his way home from the cinema",
+      "detail": "His deputy Ingvar Carlsson became acting Prime Minister on March 1 and was elected to the office by the Riksdag on March 15.",
+      "date": "1986-02-28",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "world.libya": {
+      "section": "world",
+      "label": "United States bombs Libya",
+      "value": "At least 15 people died in Operation El Dorado Canyon when American planes struck targets in Tripoli and the Benghazi region, ten days after a bomb at the West Berlin discotheque La Belle killed three and injured 230",
+      "detail": "La Belle was a known hangout for American soldiers and the year page says Libya was held responsible. Two days after the raid, on April 17, the British journalist John McCarthy was kidnapped in Beirut and three other hostages were killed in retaliation for it. The French Air Force had already raided the Libyan airbase at Ouadi Doum in northern Chad on February 16.",
+      "date": "1986-04-15",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "world.reykjavik": {
+      "section": "world",
+      "label": "Reykjavik summit",
+      "value": "Reagan and Mikhail Gorbachev met in Iceland over October 11 and 12 to discuss scaling back their intermediate missile arsenals in Europe, and the talks ended in failure",
+      "detail": "The year page gives both days and the US year page only October 11. Gorbachev had introduced glasnost and perestroika to the 27th Congress of the Communist Party of the Soviet Union in Moscow on February 25.",
+      "date": "1986-10-11",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of leadership",
+      "value": [
+        "Yoweri Museveni sworn in as President of Uganda after a five-year guerrilla war, January 29",
+        "Mario Soares wins the second round of the Portuguese presidential election, February 16",
+        "Ingvar Carlsson becomes acting Prime Minister of Sweden, March 1",
+        "Oscar Arias inaugurated President of Costa Rica, May 8",
+        "Kurt Waldheim elected president of Austria, June 8",
+        "Desmond Tutu becomes the first black Anglican bishop in South Africa, September 7"
+      ],
+      "detail": "The year page says up to half a million people are believed to have died in the war Museveni's National Resistance Army won, and that his forces used January 26 as the official date to avoid coinciding with Idi Amin's coup of 1971. Waldheim was accused in a New York Times article on March 26, before the election, of possible involvement in Nazi war crimes. South Africa declared a nationwide state of emergency on June 12. Samora Machel, President of Mozambique, was killed with 33 others when his plane crashed in South Africa on October 19, and his state funeral was held in Maputo on October 26. Augusto Pinochet survived an assassination attempt in Chile on September 7 in which five of his bodyguards died.",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North America",
+      "value": [
+        "Top Gun, $180,470,489, Paramount",
+        "Crocodile Dundee, $174,803,506, Paramount",
+        "Platoon, $137,900,000, Orion",
+        "The Karate Kid Part II, $115,103,979, Columbia",
+        "Star Trek IV: The Voyage Home, $109,713,132, Paramount"
+      ],
+      "detail": "Box-office gross rather than rentals. The table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence above it calls the entries the top ten films released this year by box office gross in North America, so header and introduction agree and there is no rentals gloss to write. Back to School was sixth at $91,258,000 for Orion, Aliens seventh at $86,160,248 for 20th Century Fox, The Golden Child eighth at $79,817,937 and Ferris Bueller's Day Off tenth at $70,136,169 for Paramount, and Ruthless People ninth at $71,624,879 for Touchstone. Every film in the ten took more than $70 million and Paramount distributed five of them. Platoon opened late and kept earning: the Academy Awards page says it had taken $39.3 million domestically by the time the nominations were announced, against the $137,900,000 the film table gives for the full run.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Platoon, produced by Arnold Kopelson",
+      "detail": "Awarded the following spring at the 59th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Chevy Chase, Goldie Hawn and Paul Hogan. Platoon took four awards from eight nominations, including Best Director for Oliver Stone. A Room with a View tied it on eight nominations and won three, two of them Ruth Prawer Jhabvala's adapted screenplay and the art direction of Gianni Quaranta and Brian Ackland-Snow. Hannah and Her Sisters also won three, and Aliens won two, for visual effects and sound effects editing. The other Best Picture nominees were Children of a Lesser God, Hannah and Her Sisters, The Mission and A Room with a View. Ralph Bellamy received an Honorary Award and Steven Spielberg the Irving G. Thalberg Memorial Award. The telecast on ABC drew an average of 37.19 million viewers, down 2 percent on the previous ceremony, with 27.5 percent of households watching over a 43 share.",
+      "source": "https://en.wikipedia.org/wiki/59th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Paul Newman, The Color of Money",
+        "Best Actress, Marlee Matlin, Children of a Lesser God",
+        "Best Supporting Actor, Michael Caine, Hannah and Her Sisters",
+        "Best Supporting Actress, Dianne Wiest, Hannah and Her Sisters"
+      ],
+      "detail": "The Academy Awards page says Matlin was the first deaf performer to win an Oscar and the youngest winner of Best Actress, and that Newman was the fourth actor nominated for playing the same character in two films, having been nominated for Fast Eddie Felson in The Hustler. His win made him and Joanne Woodward the second married couple to hold acting Oscars. Tom Berenger and Willem Dafoe were both nominated in the supporting category for Platoon and neither won. Sigourney Weaver was nominated for Aliens and Kathleen Turner for Peggy Sue Got Married. At the Golden Globes the drama film award went to Platoon and the comedy or musical award to Hannah and Her Sisters, with Bob Hoskins taking drama actor for Mona Lisa and Paul Hogan comedy actor for Crocodile Dundee. BAFTA gave Best Film to A Room with a View and Best Actor to Hoskins.",
+      "source": "https://en.wikipedia.org/wiki/59th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The Assault (De Aanslag), the Netherlands, directed by Fons Rademakers, winner of the Academy Award for Best Foreign Language Film",
+        "38 (Vienna Before the Fall), Austria, directed by Wolfgang Gluck",
+        "Betty Blue, France, directed by Jean-Jacques Beineix",
+        "The Decline of the American Empire, Canada, directed by Denys Arcand",
+        "My Sweet Little Village, Czechoslovakia, directed by Jiri Menzel"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country and director. The Assault is in Dutch and German. The Palme d'Or at Cannes went to The Mission, directed by Roland Joffe of the United Kingdom, which also took Ennio Morricone's score at both the Golden Globes and the BAFTAs and Robert Bolt's adapted screenplay at the Globes. The Golden Lion at Venice went to Eric Rohmer for The Green Ray (Le Rayon vert) and the Golden Bear at Berlin to Reinhard Hauff for Stammheim. Ran won the BAFTA award for best foreign language film.",
+      "source": "https://en.wikipedia.org/wiki/59th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Top Gun, May 16, Paramount, starring Tom Cruise, Anthony Edwards, Val Kilmer and Kelly McGillis",
+        "The Great Mouse Detective, July 2, the 26th animated feature from Walt Disney Pictures",
+        "An American Tail, November 21, the first animated film produced by Steven Spielberg"
+      ],
+      "detail": "The film page says The Great Mouse Detective saved the Disney animation studio from bankruptcy after The Black Cauldron failed, and that An American Tail broke the opening-weekend record for an animated film previously held by Disney's The Rescuers. Lawrence Gordon resigned as president and chief operating officer of the Fox Entertainment Group on January 7 citing poor health, Guy McElwaine resigned as head of Columbia Pictures in April and David Puttnam took the post in September. Timothy Dalton was announced as the fourth actor to play James Bond on August 6, and Siskel & Ebert began in syndication on September 20. The stuntman Dar Robinson was killed on the set of Million Dollar Mystery on November 29.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre. Top Gun opened on May 16 and took $180,470,489 in North America, against an average ticket price of $3.71.",
+      "detail": "Ten films took more than $70 million each in North America, and the film page's tally of studio changes is the only other thing it says about how films reached an audience. None of the cached pages says anything about videocassette rental, home video sales or films shown on television, so this fact claims nothing about them. What the pages do carry about films reaching homes sits on the television side, where HBO began scrambling its signal on January 25.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$3.71",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1986",
+      "value": [
+        "The Cosby Show, NBC, 34.9 rating",
+        "Family Ties, NBC, 32.7",
+        "Cheers, NBC, 27.2",
+        "Murder, She Wrote, CBS, 25.4",
+        "The Golden Girls, NBC, 24.5"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NBC held the top three and four of the top five. 60 Minutes was sixth on 23.3 for CBS and Night Court seventh on 23.2 for NBC, and ABC took eighth through tenth with Growing Pains on 22.7, Moonlighting on 22.4 and Who's the Boss? on 22.0. Dallas had fallen to eleventh on 21.3. L.A. Law, new in September, tied for twenty-first on 17.4.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1986%E2%80%9387"
+    },
+    "tv.fox_launch": {
+      "section": "tv",
+      "label": "Fox Broadcasting Company launches",
+      "value": "The fourth commercial broadcast television network in the United States went on the air, the first such attempt since 1967, and its first program was The Late Show Starring Joan Rivers",
+      "detail": "News Corporation completed its acquisition of the Metromedia group of companies the same day, which is what the network was assembled from. WNEW-TV in New York had already changed its call sign to WNYW and KRLD-TV in Dallas and Fort Worth to KDAF in anticipation of the switch. Fox signed its first affiliate outside the charter group on October 12, when WTUV in Utica, New York went on the air.",
+      "date": "1986-10-09",
+      "source": "https://en.wikipedia.org/wiki/1986_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Matlock, NBC, March 3",
+        "The Oprah Winfrey Show, syndication, September 8",
+        "It's Garry Shandling's Show, Showtime, September 10",
+        "Pee-wee's Playhouse, CBS, September 13",
+        "Head of the Class, ABC, September 17",
+        "L.A. Law, NBC, September 18",
+        "ALF, NBC, September 22",
+        "Sledge Hammer!, ABC, September 23"
+      ],
+      "detail": "The television page's debut table gives each date. Crime Story started on NBC the same night as L.A. Law, Amen on NBC on September 26 and Designing Women on September 29. Life With Lucy began on ABC on September 20 and was pulled on November 15. A Current Affair, Ghostbusters and The Real Ghostbusters all arrived that autumn, the last two on the same day. A Vicks Formula 44 advertisement premiered on January 6 in which Peter Bergman of All My Children told viewers he was not a doctor but played one on television.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Diff'rent Strokes, March 7, having started in 1978",
+        "Benson, April 19, having started in 1979",
+        "The Love Boat, May 24, having started in 1977",
+        "The Merv Griffin Show, June 6, having started in 1972",
+        "Knight Rider, August 8, having started in 1982",
+        "Trapper John, M.D., September 4, having started in 1979",
+        "Search for Tomorrow, December 26, having started in 1951"
+      ],
+      "detail": "The television page's endings table gives each date and start year. The US year page says Search for Tomorrow had been on the air 35 years and held the title of longest-running non-news program on network television when NBC aired the final episode. The Fall Guy ended on May 2, Hardcastle and McCormick on May 5, T. J. Hooker on May 28, The Paper Chase on August 9 and Riptide on August 22. Three game shows ended on May 23: The Joker's Wild, started in 1972, The All-New Let's Make a Deal, started in 1963, and Tic Tac Dough, started in 1956.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_American_television"
+    },
+    "tv.hbo_scrambling": {
+      "section": "tv",
+      "label": "HBO scrambles its signal",
+      "value": "The channel began scrambling on January 25, and on April 27 a man calling himself Captain Midnight jammed the signal in protest at its monthly fee of $12.95",
+      "detail": "The television page carries both entries and gives no further account of either. New cable channels this year were Festival on April 1, C-SPAN2 on June 2 and QVC on November 24, and the page records no cable or satellite channel closing. The Satellite Program Network became Tempo Television on March 8.",
+      "date": "1986-01-25",
+      "source": "https://en.wikipedia.org/wiki/1986_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "That's What Friends Are For, Dionne and Friends",
+        "Say You, Say Me, Lionel Richie",
+        "I Miss You, Klymaxx",
+        "On My Own, Patti LaBelle and Michael McDonald",
+        "Broken Wings, Mr. Mister"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 27. Dionne and Friends was Dionne Warwick with Gladys Knight, Elton John and Stevie Wonder. Whitney Houston was sixth with How Will I Know and eleventh with The Greatest Love of All, Eddie Murphy seventh with Party All the Time, and Mr. Mister took ninth as well as fifth, with Kyrie. Madonna put three songs from True Blue on the chart and Janet Jackson three from Control, the highest of hers being When I Think of You at thirty-two. Take My Breath Away by Berlin, from Top Gun, was twenty-seventh and won the Academy Award for Best Original Song.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1986"
+    },
+    "music.albums": {
+      "section": "music",
+      "label": "Albums released",
+      "value": [
+        "Master of Puppets, Metallica, March 3",
+        "Raising Hell, Run-D.M.C., May 27",
+        "True Blue, Madonna, June 30",
+        "Slippery When Wet, Bon Jovi, August 18",
+        "Graceland, Paul Simon, August 25",
+        "Licensed to Ill, Beastie Boys, November 15"
+      ],
+      "detail": "The music page's release tables give the dates. It says True Blue topped the charts in over 28 countries and was the best selling album of the year. Also out were Control by Janet Jackson in February, Please by the Pet Shop Boys in March, Invisible Touch by Genesis and The Queen Is Dead by The Smiths in June, Fore! by Huey Lewis and the News on August 20 and Third Stage by Boston in September. Frank Zappa's Jazz from Hell came out the same day as Licensed to Ill.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_music"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inducts its first artists",
+      "value": "The first inductees were Elvis Presley, James Brown, Little Richard, Fats Domino, Ray Charles, Chuck Berry, Sam Cooke, the Everly Brothers, Buddy Holly and Jerry Lee Lewis",
+      "detail": "The two cached pages disagree on the date and on where it happened. The US year page dates the first induction to January 23 and lists the ten artists. The music page dates the first induction ceremony to January 30 and places it at the Rock and Roll Hall of Fame in Cleveland, Ohio. Nothing cached resolves the two, so this fact carries no date.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Belgium won the 31st contest, held at Bergen in Norway, with J'aime la vie, sung by Sandra Kim, who at 13 was the youngest winner the contest had had",
+      "detail": "The 15th OTI Festival, held at the Municipal Theatre in Santiago, Chile on November 15, was won by Todos, written by Vilma Planas and performed by Damaris Carbaugh, Miguel Angel Guerra and Eduardo Fabian for the United States.",
+      "date": "1986-05-03",
+      "source": "https://en.wikipedia.org/wiki/1986_in_music"
+    },
+    "music.conspiracy_of_hope": {
+      "section": "music",
+      "label": "A Conspiracy of Hope ends at Giants Stadium",
+      "value": "The final show of the Amnesty International benefit tour, at East Rutherford, New Jersey, was headlined by U2, Sting and Bryan Adams with Peter Gabriel, Lou Reed, Joan Baez and The Neville Brothers, and The Police played their last concert there before disbanding",
+      "detail": "Bob Geldof was given an honorary British knighthood on June 10 for organising Live Aid and other famine relief concerts. Queen played the last show of the Magic Tour at Knebworth Park on August 9, the band's final performance with Freddie Mercury and John Deacon. The Monkees announced a tour of more than a hundred cities at the Hard Rock Cafe in New York on May 28, which the music page calls one of the biggest grossing tours of the year, and The Smiths played Brixton Academy on December 12, their last gig.",
+      "date": "1986-06-15",
+      "source": "https://en.wikipedia.org/wiki/1986_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "The Legend of Zelda, Nintendo, February 21, designed by Shigeru Miyamoto for the Family Computer Disk System",
+        "Ikari Warriors, SNK, February, the company's breakthrough game in the United States",
+        "Dragon Quest, Enix, May 27, for the Famicom",
+        "Arkanoid, Taito, July, ten years after Atari's Breakout",
+        "Metroid, Nintendo, August 6",
+        "Out Run, Sega, September 20",
+        "Akumajo Dracula, Konami, September 26, the first Castlevania game"
+      ],
+      "detail": "The games page puts Family Computer and Nintendo Entertainment System sales at 3,900,000 in Japan and 3,000,000 in the United States, the third year running it was the best-selling home system, with the Commodore 64 second on 2,500,000 worldwide and the Family Computer Disk System third on 2,000,000 in Japan. Super Mario Bros. was the best-selling home game in the United States at over a million copies, Yie Ar Kung-Fu topped the Gallup chart in the United Kingdom, and The Legend of Zelda is reported to have sold a million copies in Japan on its first day. Hang-On was the highest-grossing arcade game in Japan, Gauntlet in the United States and Nemesis in London. Sega released the Master System in the United States, Atari Corporation released the 7800 console and a smaller 2600 for under $50, Sharp released the Twin Famicom in Japan and Apple the Apple IIGS in September. Activision merged with Infocom on June 13, Imagic closed, and Ubi Soft, Bethesda Softworks and FromSoftware were founded.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_video_games"
+    },
+    "tech.microsoft_ipo": {
+      "section": "tech",
+      "label": "Microsoft goes public",
+      "value": "The company held its initial public offering of stock shares",
+      "detail": "The year page carries the offering in one line and gives no share price or valuation.",
+      "date": "1986-03-13",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "tech.pixar": {
+      "section": "tech",
+      "label": "Pixar founded",
+      "value": "The animation company was set up",
+      "detail": "The two cached pages disagree on who founded it. The year page names John Lasseter along with Steve Jobs. The film page names Edwin Catmull and Alvy Ray Smith. Both give February 3.",
+      "date": "1986-02-03",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "tech.mir": {
+      "section": "tech",
+      "label": "Mir launched",
+      "value": "The Soviet Union put the space station into orbit",
+      "detail": "The year page carries the launch in a single line and gives no mass, orbit or crew.",
+      "date": "1986-02-19",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "tech.rutan_voyager": {
+      "section": "tech",
+      "label": "First flight around the world without refuelling",
+      "value": "Rutan Voyager, designed by Burt Rutan and flown by Dick Rutan and Jeana Yeager, left Edwards Air Force Base on December 14 and finished on December 23 after 9 days, 3 minutes and 44 seconds",
+      "detail": "The year page carries both dates and the elapsed time and calls the aircraft experimental.",
+      "date": "1986-12-14",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.93 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1981.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two machines came apart in public, one over Florida with a schoolteacher aboard and one in Ukraine where nobody was told for two days. Millions of people held hands across the country in May to raise money for the hungry. Halley's Comet came back after three quarters of a century, and a fourth television network went on the air."
+    },
+    "culture.hands_across_america": {
+      "section": "culture",
+      "label": "Hands Across America",
+      "value": "A human chain was formed from New York City to Long Beach, California to raise money to fight hunger and homelessness",
+      "detail": "The two cached pages disagree on the turnout. The year page says at least 5,000,000 people took part and the US year page says approximately 6.5 million. Neither says how much was raised.",
+      "date": "1986-05-25",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "culture.statue_of_liberty": {
+      "section": "culture",
+      "label": "Statue of Liberty reopens",
+      "value": "The statue was reopened to the public after an extensive refurbishment, and the centennial of its dedication was celebrated in New York Harbor on October 28",
+      "detail": "The two cached pages disagree on the reopening. The year page gives July 4 and ties it to a centennial celebration; the US year page gives July 5 and mentions only the refurbishment. Neither gives a cost for the work, so no date field is set here.",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Wole Soyinka",
+        "Peace, Elie Wiesel",
+        "Physics, Ernst Ruska, Gerd Binnig and Heinrich Rohrer",
+        "Chemistry, Dudley R. Herschbach, Yuan T. Lee and John Polanyi",
+        "Medicine, Stanley Cohen and Rita Levi-Montalcini",
+        "Economics, James M. Buchanan"
+      ],
+      "detail": "The year page lists the six prizes and gives no citations for any of them. The first paper describing the atomic force microscope, invented the previous year by Gerd Binnig, Calvin Quate and Christopher Berger, was published on March 3.",
+      "source": "https://en.wikipedia.org/wiki/1986"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "New York Mets beat the Boston Red Sox four games to three",
+      "detail": "The US year page calls it the second World Series title in the Mets franchise. Game 6 on October 25 went to the Mets 6 to 5 in ten innings after the Red Sox had been one out from the championship with a two-run lead, two out and nobody on base: the final play was a ground ball hit by Mookie Wilson that rolled through the legs of the first baseman Bill Buckner.",
+      "date": "1986-10-27",
+      "source": "https://en.wikipedia.org/wiki/1986_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XX",
+      "value": "The Chicago Bears beat the New England Patriots 46 to 10 at the Superdome in New Orleans in front of 73,818, with the defensive end Richard Dent named most valuable player",
+      "detail": "The sports page gives the score, the attendance and the most valuable player, and the US year page names the venue as the Louisiana Superdome. Lawrence Taylor of the New York Giants won the league's most valuable player award and Vinny Testaverde of the Miami Hurricanes took the Heisman Trophy. NBC's pregame coverage opened with a 60-second countdown over a black screen that became known as the silent minute.",
+      "date": "1986-01-26",
+      "source": "https://en.wikipedia.org/wiki/1986_in_sports"
+    },
+    "sports.world_cup": {
+      "section": "sports",
+      "label": "FIFA World Cup",
+      "value": "Argentina beat West Germany 3 to 2 in the final at the Azteca Stadium in Mexico City for their second title",
+      "detail": "Diego Maradona scored twice against England on June 22 in a 2 to 1 win, first with his hand, which the year page calls the Hand of God, then after dribbling past the whole English team, which it calls the Goal of the Century. The sports page says the final was the second to be played at the Azteca.",
+      "date": "1986-06-29",
+      "source": "https://en.wikipedia.org/wiki/1986_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Montreal Canadiens over the Calgary Flames, four games to one",
+        "NBA Finals, Boston Celtics over the Houston Rockets, four games to two",
+        "NCAA basketball, Louisville 72, Duke 69",
+        "European Cup, Steaua Bucuresti 0, Barcelona 0, Steaua winning 2 to 0 on penalties",
+        "Grey Cup, Hamilton Tiger-Cats 39, Edmonton Eskimos 15",
+        "VFL premiership, Hawthorn 16.14 (110), Carlton 9.14 (68)",
+        "World Snooker Championship, Joe Johnson over Steve Davis, 18 to 12"
+      ],
+      "detail": "The Celtics clinched on June 8. Larry Bird of the Celtics won the NBA most valuable player award and was the Associated Press male athlete of the year, and Wayne Gretzky of the Edmonton Oilers took the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player. Real Madrid won the UEFA Cup 5 to 3 on aggregate over 1. FC Koln and Dinamo Kiev the Cup Winners' Cup 3 to 0 over Atletico Madrid. Jack Nicklaus won the Masters at 46, the oldest winner, and Greg Norman took the British Open and the money list at $653,296. Greg LeMond was the first American to win the Tour de France and Susan Butcher won the Iditarod behind the lead dogs Granite and Mattie. No Australian Open was held, so Ivan Lendl, Boris Becker, Chris Evert and Martina Navratilova shared three men's and three women's singles majors between them. Steve Davis stayed world number one at snooker despite losing the final.",
+      "source": "https://en.wikipedia.org/wiki/1986_in_sports"
+    },
+    "sports.tyson": {
+      "section": "sports",
+      "label": "Mike Tyson wins his first world title",
+      "value": "He knocked out Trevor Berbick in the second round in Las Vegas to become the youngest world heavyweight champion at 20 years and 4 months",
+      "detail": "Both the sports page and the US year page carry the fight and both spell the loser's name Berbick. Marvin Hagler had kept the world middleweight championship with an eleventh-round knockout of John Mugabi in Las Vegas on March 10.",
+      "date": "1986-11-22",
+      "source": "https://en.wikipedia.org/wiki/1986_in_sports"
+    },
+    "deaths.cagney": {
+      "section": "deaths",
+      "label": "James Cagney",
+      "value": "Died March 30. Born 1899",
+      "detail": "Actor.",
+      "date": "1986-03-30",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "deaths.grant": {
+      "section": "deaths",
+      "label": "Cary Grant",
+      "value": "Died November 29. Born 1904",
+      "detail": "British-born actor. The film page says he died of a cerebral hemorrhage at Davenport, Iowa.",
+      "date": "1986-11-29",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "deaths.okeeffe": {
+      "section": "deaths",
+      "label": "Georgia O'Keeffe",
+      "value": "Died March 6. Born 1887",
+      "detail": "Artist.",
+      "date": "1986-03-06",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "deaths.goodman": {
+      "section": "deaths",
+      "label": "Benny Goodman",
+      "value": "Died June 13. Born 1909",
+      "detail": "Jazz musician.",
+      "date": "1986-06-13",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "deaths.arnaz": {
+      "section": "deaths",
+      "label": "Desi Arnaz",
+      "value": "Died December 2. Born 1917",
+      "detail": "Cuban-born actor, bandleader, musician and television producer, and co-founder of Desilu Productions.",
+      "date": "1986-12-02",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    },
+    "deaths.bias": {
+      "section": "deaths",
+      "label": "Len Bias",
+      "value": "Died June 19. Born 1963",
+      "detail": "College basketball player. The US year page says he suffered a fatal cardiac arrhythmia from a cocaine overdose less than 48 hours after being taken second overall by the Boston Celtics in the draft.",
+      "date": "1986-06-19",
+      "source": "https://en.wikipedia.org/wiki/1986_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1986. figures_basis is gross, checked with bo.mjs rather than assumed from the era: the box office table's column header reads verbatim `Rank!! Title !! Distributor !! Box-office gross`, and the sentence introducing the table calls the entries the top ten 1986 released films by box office gross in North America, so header and introduction agree and there is no rentals gloss to write. Date checks. The two largest events of the year were both checked against their dedicated articles pulled as raw wikitext, because the brief calls for it and because a copied year-page date is exactly the failure mode that survives a plausibility check. Space Shuttle Challenger disaster: the year page and the US year page both give January 28, and the dedicated article agrees and adds 11:39:13 a.m. Eastern time, about 46,000 feet above the Atlantic off Cape Canaveral, and an O-ring seal failure in the right solid rocket booster as the cause. No disagreement, so world.challenger cites the dedicated article and states the extra detail it carries. Chernobyl disaster: both cached pages and the dedicated article give April 26, and the dedicated article adds 01:23 local time. The date agrees but the death toll does not, and world.chernobyl names the disagreement rather than choosing: the year page says at least 4,056 dead and almost $7 billion of property damaged, citing a survey of major energy accidents, while the dedicated article gives two killed by debris, 28 dead of acute radiation sickness within three months, and long-term estimates from 4,000 to 16,000. The survey's publication year is left out of the fact because it is later than this year. The midterm elections fall on November 4, which satisfies the constitutional rule that a federal election is held on the Tuesday after the first Monday in November: November 3 was a Monday. There is no inauguration this year. The Academy Awards honouring this year of film are the 59th, which the ceremony's own page dates to March 30, 1987 at the Dorothy Chandler Pavilion; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a 1987 token. The 58th Academy Awards of March 24, hosted by Alan Alda, Jane Fonda and Robin Williams, which honoured the previous year of film and gave Best Picture, Best Director and five other awards to Sydney Pollack's Out of Africa, is left out for the same reason 1982 leaves out the 54th: it would put a second Best Picture on the page. The 28th Grammy Awards of February 25, hosted by Kenny Rogers, are left out on the same principle, since they honoured the previous year's recordings and gave Album of the Year to Phil Collins's No Jacket Required, Record and Song of the Year to We Are the World and Best New Artist to Sade. The 44th Golden Globes and the 40th BAFTA Awards, which honoured this year of film, both fall in the following year and so carry no dates here either; their winners appear in film.acting_awards and film.world_cinema without ceremony dates. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn of 1986 and ran into the following spring, which tv.top_shows states without naming a second year, and the source URL keeps its percent-encoded form so the second year of the season title never appears as a four-digit token. No music.listening_format fact. This is the rule the brief flags first and it loses to the accuracy rule: grepping all ten cached pages for compact disc, CD, CD-ROM, CD player, vinyl, cassette, Walkman, phonograph, digital audio and DAT returns nothing about playback at all. The only hits are the album title Finyl Vinyl by Rainbow and the C86 cassette compilation, neither of which is a claim about how music reached people. The compact disc was displacing vinyl through these years and the corpus's own 1982 file carries the CD launch, but no cached 1986 page says so, and writing the sentence anyway would be a fact from memory with a plausible URL on it. So the fact is left out and this note stands in its place. The music page's other candidates were also rejected: the launch of the magazine Q in the United Kingdom in October is press rather than playback, and the Charts section is a list of links to other pages with no methodology statement. Source disagreements labelled rather than resolved. The Rock and Roll Hall of Fame's first induction is January 23 in New York on the US year page and January 30 at the Hall in Cleveland, Ohio on the music page, and music.rock_hall names both and carries no date field. Pixar's founders are John Lasseter with Steve Jobs on the year page and Edwin Catmull with Alvy Ray Smith on the film page, both on February 3, and tech.pixar names both pairs. The Statue of Liberty reopening is July 4 on the year page, tied to the centennial celebration, and July 5 on the US year page, tied only to the refurbishment, so culture.statue_of_liberty names both and carries no date field. Hands Across America drew at least 5,000,000 on the year page and approximately 6.5 million on the US year page, and culture.hands_across_america gives both. The Reykjavik summit is October 11 and 12 on the year page and October 11 on the US year page. Aeromexico Flight 498's toll is given as 82 in one line of the year page and as 67 on both aircraft plus 15 on the ground in another line and on the US year page, which is the same total, so the crash is left out rather than argued over. Top Gun's American take is nearly $177 million on the US year page and $180,470,489 in the film page's own box office table, so film.releases and film.gross both use the table figure and film.releases says nothing about the smaller one. Month-only dates. None of the facts carries a month-only date. The unemployment figure of 6.6 percent, which the US year page dates only to December, is in texture rather than in a fact for that reason, as are the Ivory Coast's request for diplomatic use of Cote d'Ivoire in April and the completion of the Oosterscheldekering in June. Facts taking their value from one cached page and part of their detail from another: world.challenger cites the dedicated article and names the CNN broadcast line from the television page; world.chernobyl cites the dedicated article and quotes the year page's toll; pol.us_president cites the US year page throughout; music.rock_hall cites the US year page and names the music page's version; film.releases cites the film page and takes Top Gun's cast from the US year page; film.how_people_watched cites the film page, takes the ticket price from the series data and names the HBO scrambling from the television page; sports.super_bowl cites the sports page for the score, the attendance and the most valuable player and takes the venue name and the silent minute from the US year page and the television page; sports.world_series cites the sports page and takes the franchise-title count from the US year page; deaths.grant cites the US year page and takes the cause and place from the film page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. src/data/name_years.json lists 2001: A Space Odyssey, Airport 1975, Robotron: 2084 and Budd SPV-2000, and nothing this year needed adding, so that file was not touched. The names checked and cleared without an entry: the arcade cabinet 1942 and the Sega SG-1000 both carry numbers earlier than this year, which the anachronism check ignores; the Atari 2600 and 7800 sit outside the 1000 to 2099 range the check matches; the Commodore 64 and 128, the NEC PC-88 and PC-98 and the Texas Instruments TMS34010 have too few or too many digits to match on a word boundary. Nothing was left out over a model number. Dropped for lack of a source that says enough, or because a figure or date reaches past this year: the International Olympic Committee's choice of host cities on October 16 or 17, which the year page and the sports page date a day apart and which cannot be stated at all without naming a later year; the Halley's Comet return date on the US year page, which is a later century; the release of John McCarthy, given on both pages as a year several later, so world.libya carries only the kidnapping; Spain and Portugal entering the European Community on January 1, dropped because the year page's line about it names the year the Community became the Union; the Iran-Contra affair's span, given on the US year page as running into the following year; LISTSERV, developed by Eric Thomas on June 23 and called the first email list management software, left out because it is a networked-mail fact and the tech.internet window does not open until 1993; the first commercially available 3D printer and the news that average per capita income in Japan passed that of the United States, both undated on the year page; Dave Righetti's 46 saves for the New York Yankees, dropped rather than parked in the detail of a World Series fact it has nothing to do with; Lake Nyos, the Gopalganj hailstones, the Admiral Nakhimov, the Khian Sea, the Dupont Plaza fire, Halley's Comet, Suisei, Voyager 2 at Uranus, the Isles of Scilly peace, the Big Mac Index, The Weeping Woman, the televising of Senate debates, the genocide treaty, the Los Angeles Public Library arson, Sakharov's return, Jeltoqsan, Sharansky's release, Roger Clemens's twenty strikeouts, Expo 86, The Phantom of the Opera, the M25 and the Edmond post office shooting, all in texture instead; the Mexicana Flight 940 crash of March 31, which killed 167; the Hinton train collision of February 8, which killed 23; Typhoon Wayne, which formed on August 16 and killed 490; the San Salvador earthquake of October 10, which killed up to 1,500, and the Kalamata earthquake of September 13; the Sandoz chemical spill near Basel on November 1; the Maxi Trial against the Sicilian Mafia, which opened in Palermo on February 10; the Single European Act of February 17 and the Australia Act of March 3; the Channel Tunnel announcement of January 20; the marriage of Prince Andrew and Sarah Ferguson at Westminster Abbey on July 23; the Miami FBI shootout of April 11; the Howard Beach attack of December 20; the Excedrin cyanide tampering of June 5 to 11; William J. Schroeder's death on August 6 after 620 days with an artificial heart; the Goodwill Games in Moscow from July 5 to 20; the Commonwealth Games at Edinburgh and the Asian Games at Seoul, both dated to no day; Alex Ferguson's appointment at Manchester United on November 6; the Mindbender derailment at West Edmonton Mall on June 14; the NBC peacock logo unveiling of May 12; Green Day forming as Sweet Children, undated. Deaths that would have earned a place with more room: L. Ron Hubbard on January 24, Frank Herbert on February 11, Donna Reed on January 14, Otto Preminger and Harold Arlen both on April 23, Ray Milland on March 10, Sterling Hayden on May 23, Bernard Malamud on March 18, Kate Smith on June 17, Alan Jay Lerner on June 14, Vincente Minnelli and Ted Lyons both on July 25, Hyman G. Rickover on July 8, Raymond Loewy on July 14, Roy Cohn on August 2, Hank Greenberg on September 4, Cliff Burton on September 27 in the Metallica tour bus crash in Sweden, Hal B. Wallis on October 5, Keenan Wynn on October 14, Scatman Crothers on November 22, Ella Baker on December 13, Elsa Lanchester on December 26, and the seven Challenger astronauts, who are named in world.challenger rather than given death facts of their own. Names and titles are written in ASCII per the corpus convention, so Mario Soares, Oscar Arias, Reykjavik, Steaua Bucuresti, 1. FC Koln, Atletico Madrid, Wolfgang Gluck, Jiri Menzel, Eric Rohmer, Roland Joffe, Akumajo Dracula, Damaris Carbaugh and Miguel Angel Guerra lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. This file runs 52 facts across 10 sections: politics 6, world 7, film 7, tv 5, music 5, tech 5, prices 2, culture 4, sports 5, deaths 6. No section exceeds 7."
+}

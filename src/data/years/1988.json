@@ -1,0 +1,505 @@
+{
+  "year": 1988,
+  "tier": "broadcast",
+  "headline": "Bush beat Dukakis in November, Soviet troops started leaving Afghanistan, and Pan Am 103 fell on Lockerbie",
+  "texture": [
+    "A lightning strike near the Yellowstone boundary on June 14 started the Storm Creek fire, which merged with dozens of others and burned more than 750,000 acres, 36 percent of the park, before firefighters got control in late September. The drought behind it cost around $60 billion, and heat waves killed between 4,800 and 17,000 people more than usual. Hypodermic needles and syringes began washing up on Long Island beaches on July 6, closing swimming spots through one of the hottest summers the Northeast had recorded. The 300-foot Green Bank Telescope collapsed in West Virginia on November 15.",
+    "Kohlberg Kravis Roberts bought RJR Nabisco on November 30 for $25,000,700,000, the largest leveraged buyout to that point, a month after Philip Morris paid $13,100,000,000 for Kraft. Drexel Burnham Lambert agreed on December 21 to plead guilty to insider trading and pay $650 million. First RepublicBank of Texas went into FDIC receivership on March 16, and the two year pages disagree on where it ranks among assisted bank failures. American Savings and Loan, the country's largest thrift, entered receivership on September 5, its good assets sold with $1.7 billion in federal aid.",
+    "Reagan spoke to 600 Moscow State University students on May 31, during a summit that ran from May 29 to June 3 and settled the terms of the treaty banning intermediate-range missiles, which took effect on June 1. On October 27 he decided to demolish the new American embassy in Moscow, because Soviet listening devices had been built into the structure. An Energia rocket carried the uncrewed Soviet shuttle Buran on its only orbital flight on November 15. Belgrade got the first McDonald's in a country run by a communist party on March 24.",
+    "Mike Tyson knocked out Michael Spinks at Atlantic City on June 27, in a bout billed as Superfight '88. Wayne Gretzky was traded to the Los Angeles Kings on August 9. Claymation raisins dancing in television commercials pushed the California Raisins' recording of I Heard It Through the Grapevine to number 84 on the Hot 100. Mystery Science Theater 3000 first went out on KTMA-TV in Minneapolis on November 24. Dell Computer Corporation was incorporated on January 1, and Microsoft shipped Windows 2.1 on May 27."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.afghanistan",
+    "world.lockerbie",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Eighth year in office. George H. W. Bush was Vice President, William Rehnquist was Chief Justice, Jim Wright was Speaker of the House and Robert Byrd was Senate majority leader. The 100th Congress sat through the year. Reagan delivered his final State of the Union address on January 25 and signed a bill on October 25 converting the Veterans Administration into a cabinet-level department.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "George H. W. Bush, the Vice President, was elected president over the Democratic nominee Michael Dukakis, Governor of Massachusetts",
+      "detail": "The date satisfies the constitutional rule that a federal election falls on the Tuesday after the first Monday in November: November 7 was a Monday and November 8 a Tuesday, and both year pages give November 8. The Democratic convention at Atlanta nominated Dukakis and Lloyd Bentsen on July 20, and the Republican convention at New Orleans nominated Bush and Dan Quayle on August 18. Bush had beaten Bob Dole across several Super Tuesday primaries on March 8, and Jesse Jackson beat Dukakis in the Michigan caucuses on March 26.",
+      "date": "1988-11-08",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "pol.debates": {
+      "section": "politics",
+      "label": "The televised debates",
+      "value": [
+        "First presidential debate, September 25, at Wake Forest University, hosted by Jim Lehrer",
+        "Vice presidential debate, October 5, at Omaha, where Lloyd Bentsen told Dan Quayle he was no Jack Kennedy",
+        "Second presidential debate, October 13, held by UCLA, where Bernard Shaw of CNN asked Dukakis whether he would want the death penalty if his wife were raped and murdered"
+      ],
+      "detail": "Quayle had claimed as much experience in government as John F. Kennedy had when he sought the presidency in 1960, and the US year page says the audience response to Bentsen's reply was overwhelmingly positive. It says Dukakis's answer, opposing capital punishment in all circumstances, was later called a major reason his campaign failed. ABC pushed Game 2 of the National League Championship Series to roughly 10 p.m. Eastern on October 5 so it could carry the vice presidential debate, which the television page calls the latest scheduled start for a League Championship Series game.",
+      "date": "1988-09-25",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "pol.iran_contra": {
+      "section": "politics",
+      "label": "North and Poindexter indicted",
+      "value": "Lieutenant Colonel Oliver North and Vice Admiral John Poindexter were charged with conspiracy to defraud the United States",
+      "detail": "The Democratic-controlled House had rejected Reagan's request for $36,250,000 for the Nicaraguan Contras on February 3. Bush and the CBS News anchor Dan Rather clashed on air on January 25 over what Bush knew, in a confrontation the television page times at nearly ten minutes of that night's CBS Evening News.",
+      "date": "1988-03-16",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "pol.supreme_court": {
+      "section": "politics",
+      "label": "Supreme Court",
+      "value": [
+        "Anthony M. Kennedy appointed to the court, February 12",
+        "Hustler Magazine v. Falwell, February 24, overturning a lower court's $200,000 defamation award to Jerry Falwell",
+        "California v. Greenwood, May 16, holding that police need no search warrant to go through discarded garbage",
+        "Morrison v. Olson, June 29, upholding the law that lets special prosecutors investigate executive branch officials"
+      ],
+      "detail": "The US year page carries each decision in a single line and gives no vote counts.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "pol.unemployment": {
+      "section": "politics",
+      "label": "Unemployment at a fourteen-year low",
+      "value": "The rate fell to 5.4 percent in April, the lowest since June 1974, and to 5.3 percent in November, the lowest since May 1974",
+      "detail": "The US year page gives both figures by month with no day, and files the November figure under throughout the month, so no date is recorded here.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "world.afghanistan": {
+      "section": "world",
+      "label": "Soviet withdrawal from Afghanistan begins",
+      "value": "The Soviet Union committed itself in the Geneva Accords on April 14 to pulling its forces out, and the Soviet Army began withdrawing on May 15 after more than eight years of fighting",
+      "detail": "On January 7 and 8, thirty-nine men of the 345th Independent Guards Airborne Regiment fought off an attack by 200 to 250 Mujahideen in the battle for Hill 3234.",
+      "date": "1988-05-15",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "world.iran_iraq": {
+      "section": "world",
+      "label": "Iran and Iraq stop fighting",
+      "value": "A ceasefire effectively ended the war, with an estimated one million lives lost",
+      "detail": "The Anfal campaign began on February 23, a counterinsurgency operation by Iraqi forces under Ali Hassan al-Majid that the year page says killed between 50,000 and 182,000 Kurds in Iraqi Kurdistan, and Iraqi government forces carried out the Halabja chemical attack on March 16. The USS Samuel B. Roberts struck a mine in the Persian Gulf on April 14, and the US Navy answered on April 18 with Operation Praying Mantis, a day of strikes on Iranian oil platforms and naval vessels.",
+      "date": "1988-08-20",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "world.iran_air_655": {
+      "section": "world",
+      "label": "Iran Air Flight 655 shot down",
+      "value": "A missile launched from the USS Vincennes brought the airliner down, killing all 290 people on board",
+      "date": "1988-07-03",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "world.lockerbie": {
+      "section": "world",
+      "label": "Pan Am Flight 103 destroyed over Lockerbie",
+      "value": "A bomb blew the aircraft apart above the Scottish town, killing 270 people in all",
+      "detail": "The US year page says 178 of the dead were American citizens. The year page says Libya was suspected of involvement and names nobody.",
+      "date": "1988-12-21",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "world.spitak_earthquake": {
+      "section": "world",
+      "label": "Spitak earthquake",
+      "value": "The magnitude 6.8 earthquake in Soviet Armenia killed nearly 25,000 people, injured 31,000 and left 400,000 homeless",
+      "detail": "Gorbachev cut short an official visit to the United States on December 19 and went home because of it. He had arrived on December 12.",
+      "date": "1988-12-07",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes at the top",
+      "value": [
+        "Lee Teng-hui takes over as President of the Republic of China on the death of Chiang Ching-kuo, January 13",
+        "Francois Mitterrand re-elected President of France for seven years, May 8",
+        "Muhammad Zia-ul-Haq of Pakistan killed with the US ambassador Arnold Lewis Raphel when their plane crashes near Bahawalpur, August 17",
+        "Augusto Pinochet loses a national plebiscite on his rule in Chile, October 5",
+        "Chun Doo-hwan apologises for corruption during his presidency of South Korea and says he will go into exile, November 23",
+        "Carlos Salinas de Gortari takes office as President of Mexico, December 1",
+        "Benazir Bhutto sworn in as Prime Minister of Pakistan, December 2, the first woman to head the government of an Islam-dominated state"
+      ],
+      "detail": "Pakistan voted on November 16 in what the year page calls the first open election there in more than a decade, held as planned despite Zia-ul-Haq's death in August. Brazil promulgated a new constitution on October 5 and the constitution of the Sixth Republic of Korea came into effect on February 25. Salleh Abas was removed as Lord President of Malaysia on August 5.",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "world.soviet_reform": {
+      "section": "world",
+      "label": "The Soviet Union restructures",
+      "value": "Legislation from Mikhail Gorbachev started a programme of economic restructuring on January 1, and on July 1 the Soviet Union voted to end the Communist Party's monopoly on economic and other non-political power",
+      "detail": "In the Estonian Soviet Socialist Republic, night-singing demonstrations of 100,000 people ran from June 10 to 14 and gave the Singing Revolution its name, 300,000 gathered on September 11 for independence, and the Supreme Soviet of the Estonian SSR adopted a sovereignty declaration on November 16 putting its own laws above the Soviet Union's, which the USSR called unconstitutional on November 26. The year page says that was the first declaration of sovereignty by any Soviet or Eastern Bloc entity. Nagorno-Karabakh voted on February 20 to leave the Azerbaijan SSR for the Armenian SSR, and the Sumgait pogrom of Armenians followed at Sumqayit from February 27 to 29.",
+      "date": "1988-01-01",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Rain Man, $354,825,435, MGM",
+        "Who Framed Roger Rabbit, $329,803,958, Buena Vista",
+        "Coming to America, $288,752,301, Paramount",
+        "Crocodile Dundee II, $239,606,210, Paramount",
+        "Twins, $216,614,388, Universal"
+      ],
+      "detail": "Worldwide gross rather than the North American figure the neighbouring years report. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it calls the entries the top ten films released this year by worldwide gross, so the two agree. Rambo III was sixth at $189,015,611 for Tri-Star, A Fish Called Wanda seventh at $188,597,000 for MGM, Cocktail eighth at $171,504,781 for Buena Vista, Big ninth at $151,668,774 and Die Hard tenth at $141,500,000, both for 20th Century Fox. The Wanda line is footnoted with a Box Office Mojo domestic gross of $62,493,712 and two Variety figures, $115 million and $126,103,000, so the sources disagree on that title.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Rain Man, produced by Mark Johnson",
+      "detail": "Awarded the following spring at the 61st Academy Awards, held at the Shrine Auditorium in Los Angeles with no traditional host. Rain Man led all nominees with eight and won four, including Best Director for Barry Levinson and original screenplay for Ronald Bass and Barry Morrow. Who Framed Roger Rabbit also won four and Dangerous Liaisons three. The other Best Picture nominees were The Accidental Tourist, Dangerous Liaisons, Mississippi Burning and Working Girl. John Lasseter and William Reeves won Best Animated Short Film for Tin Toy, which the ceremony page calls Pixar's first Oscar and the first computer-generated film to win one. The telecast on ABC drew over 42 million viewers, the most-watched ceremony up to that point, and the opening number with Snow White and Rob Lowe was heavily criticised.",
+      "source": "https://en.wikipedia.org/wiki/61st_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Dustin Hoffman, Rain Man",
+        "Best Actress, Jodie Foster, The Accused",
+        "Best Supporting Actor, Kevin Kline, A Fish Called Wanda",
+        "Best Supporting Actress, Geena Davis, The Accidental Tourist"
+      ],
+      "detail": "The ceremony page says Foster was the eighth person to win Best Actress for a film carrying a single nomination, Hoffman the fifth to win Best Actor twice, and Sigourney Weaver the fifth performer nominated in two acting categories in one year, for Gorillas in the Mist and Working Girl, winning neither. The film page's awards table splits the Golden Globes for best film between Rain Man in drama and Working Girl in musical or comedy, gives best director to Clint Eastwood for Bird, and records BAFTA awards for The Last Emperor as best film, John Cleese as best actor for A Fish Called Wanda and Michael Palin as best supporting actor for the same film.",
+      "source": "https://en.wikipedia.org/wiki/61st_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Pelle the Conqueror, Denmark, directed by Bille August, winner of the Palme d'Or at Cannes and the Academy Award for Best Foreign Language Film",
+        "Red Sorghum, China, directed by Zhang Yimou, Golden Bear at Berlin",
+        "The Legend of the Holy Drinker, Italy and France, directed by Ermanno Olmi, Golden Lion at Venice",
+        "Salaam Bombay!, India, directed by Mira Nair",
+        "Women on the Verge of a Nervous Breakdown, Spain, directed by Pedro Almodovar"
+      ],
+      "detail": "The film page gives the three festival prizes. The last two titles, with Hanussen from Hungary directed by Istvan Szabo and The Music Teacher from Belgium directed by Gerard Corbiau, were the other nominees in the Foreign Language Film category, which is where the ceremony page states each film's country and director. Babette's Feast took the BAFTA award in the same category, and Max von Sydow was nominated for Best Actor for Pelle the Conqueror.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_film"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio news",
+      "value": [
+        "Rambo III, May 25, released as the most expensive film ever made, on a production budget between $58 and $63 million",
+        "Who Framed Roger Rabbit, June 22, released through Touchstone Pictures",
+        "Die Hard, July 15",
+        "Oliver & Company, November 18, Walt Disney Feature Animation's 27th feature, out the same day as Don Bluth's The Land Before Time",
+        "Rain Man, December 16"
+      ],
+      "detail": "The film page says Rambo III failed to match the box office of its predecessor, and that Die Hard grossed $141.5 million worldwide against low commercial expectations. Michael Keaton was announced on June 26 to play Batman in a film to be directed by Tim Burton with Jack Nicholson as the Joker, and shooting began at Pinewood Studios in Buckinghamshire on October 10. Roy Kinnear fell from a horse on September 19 while filming The Return of the Musketeers at Toledo, and the fall proved fatal. Giancarlo Parretti and Max Theret took a 52 percent stake in Pathe in December.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first, then on a videocassette, then on a network. E.T. the Extra-Terrestrial went on sale on VHS and laserdisc on October 27 and took $75 million in North American VHS sales alone.",
+      "detail": "Universal shipped the tape with green tapeguards and hubs, a holographic sticker of its 1963 logo and Macrovision encoding, which the film page says was to combat piracy. The television page carries the third window in the same year: Beverly Hills Cop had its broadcast network debut on ABC on May 15 and was the highest-rated film of the 1987-88 television season, with a 20.3 rating and a 32 percent share. The average ticket cost $4.11.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$4.11",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1988",
+      "value": [
+        "The Cosby Show, NBC, 25.6 rating",
+        "Roseanne, ABC, 23.8",
+        "A Different World, NBC, 23.0",
+        "Cheers, NBC, 22.3",
+        "60 Minutes, CBS, 21.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Roseanne reached second place from a pilot broadcast on October 18. The Golden Girls was sixth on 21.4 for NBC, Who's the Boss? seventh on 20.8 for ABC, Murder, She Wrote eighth on 19.9 for CBS, Empty Nest ninth on 19.2 for NBC and Anything but Love tenth on 19.0 for ABC.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1988%E2%80%9389"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "48 Hours, CBS, January 19",
+        "The Wonder Years, ABC, January 31, straight after ABC's coverage of Super Bowl XXII",
+        "America's Most Wanted, Fox, February 7",
+        "China Beach, ABC, April 26",
+        "Yo! MTV Raps, MTV, August 6",
+        "Roseanne, ABC, October 18",
+        "Murphy Brown, CBS, November 14"
+      ],
+      "detail": "Dear John started on NBC on October 6, Empty Nest and Freddy's Nightmares both on October 8, Mission: Impossible on ABC on October 23 and Knightwatch on ABC on November 11. Nick Jr. began on January 4 as a block of Nickelodeon programming for younger children, Shark Week ran for the first time on the Discovery Channel from July 14, and WABC's morning show went into national syndication on September 5 under a new title.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Sledge Hammer!, February 12, having started in 1986",
+        "Frank's Place, March 22, having started in 1987",
+        "Magnum, P.I., May 1, a two-hour finale on CBS",
+        "The Facts of Life, May 7, on NBC",
+        "St. Elsewhere, May 28, on NBC"
+      ],
+      "detail": "The television page's endings table gives each date and start year. The Magnum finale was the fifth highest-rated primetime special of the season, on a 32.0 rating and a 48 percent share. The St. Elsewhere finale revealed the whole series as the product of an autistic boy's imagination. Dick Clark hosted his last Pyramid on September 2, after fifteen years with the show.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_American_television"
+    },
+    "tv.tnt": {
+      "section": "tv",
+      "label": "Turner Network Television launches",
+      "value": "TNT began programming with a broadcast of Gone with the Wind",
+      "detail": "The television page calls it Turner Broadcasting's fourth cable network. Vision Interfaith Satellite Network launched on July 1, and the CBN Cable Network put Family into its name on August 1, then dropped the CBN part from its on-air announcements and print promotions.",
+      "date": "1988-10-03",
+      "source": "https://en.wikipedia.org/wiki/1988_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Faith, George Michael",
+        "Need You Tonight, INXS",
+        "Got My Mind Set on You, George Harrison",
+        "Never Gonna Give You Up, Rick Astley",
+        "Sweet Child o' Mine, Guns N' Roses"
+      ],
+      "detail": "George Michael had five songs on the year-end list, the most of anyone, and INXS four. Three singles from Michael Jackson's Bad appeared, Man in the Mirror at 21, The Way You Make Me Feel at 36 and Dirty Diana at 61. The music page says Man in the Mirror topped the Hot 100 on March 26 for the fourth number one from one album by a solo artist, and that Dirty Diana followed on July 2 for a fifth. So Emotional by Whitney Houston was sixth on the year-end list, Heaven Is a Place on Earth by Belinda Carlisle seventh and Could've Been by Tiffany eighth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1988"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Billboard published its Hot Modern Rock Tracks chart for the first time on September 10, and MTV started Yo! MTV Raps on August 6.",
+      "detail": "The music page carries the new chart in one line and describes it no further, and the television page carries the MTV programme in its premieres table with a date and nothing else. None of the cached pages says anything about records, tapes or compact discs this year, gives a sales figure for any format, or names a radio station, so this fact claims nothing about what people played at home.",
+      "date": "1988-08-06",
+      "source": "https://en.wikipedia.org/wiki/1988_in_music"
+    },
+    "music.best_selling_album": {
+      "section": "music",
+      "label": "Best-selling albums in the US",
+      "value": [
+        "George Michael, Faith",
+        "Madonna, You Can Dance",
+        "Michael Jackson, Bad",
+        "Guns N' Roses, Appetite for Destruction"
+      ],
+      "detail": "The music page lists four titles under top selling albums of the year in the United States and gives no sales figures. U2's Rattle and Hum reached number one on the US charts on November 12, which the page calls the first double album to do so since Bruce Springsteen's The River in 1980.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_music"
+    },
+    "music.rock_hall": {
+      "section": "music",
+      "label": "Rock and Roll Hall of Fame inductions",
+      "value": "The Beach Boys, The Beatles, The Drifters, Bob Dylan and The Supremes",
+      "date": "1988-01-20",
+      "source": "https://en.wikipedia.org/wiki/1988_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Celine Dion won for Switzerland with Ne partez pas sans moi, at the RDS Simmonscourt Pavilion in Dublin",
+      "detail": "The 17th OTI Festival, at the Teatro Nacional Cervantes in Buenos Aires on November 19, was won by Todavia eres mi mujer, written by Carlos Castellon and performed by Guillermo Guido for Argentina.",
+      "date": "1988-04-30",
+      "source": "https://en.wikipedia.org/wiki/1988_in_music"
+    },
+    "music.motown": {
+      "section": "music",
+      "label": "Motown sold",
+      "value": "MCA and an investment firm bought Motown Records for $61 million",
+      "detail": "The music page gives the price and does not name the investment firm. Atlantic Records marked its fortieth birthday with a concert at Madison Square Garden on May 14, where a reunited Led Zeppelin played with Jason Bonham on drums.",
+      "date": "1988-06-27",
+      "source": "https://en.wikipedia.org/wiki/1988_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Tetris, the first commercial versions, January 29",
+        "Altered Beast, Sega, August, later packaged with the Mega Drive in North America and Europe",
+        "Super Mario Bros. 2, Nintendo, October 9, a reworked Doki Doki Panic released in America and the PAL region",
+        "Super Mario Bros. 3, Nintendo, October 23, for the Famicom in Japan",
+        "Winning Run, Namco, December, the first polygonal 3D arcade racing game",
+        "Mega Man 2, Capcom, December 24, in Japan",
+        "John Madden Football, Electronic Arts, for the Apple II"
+      ],
+      "detail": "The games page puts the Nintendo Entertainment System first among home systems, on 7,000,000 sales in the United States and 1,590,000 in Japan for over 8,590,000 worldwide, and says the NES Action Set bundled with Super Mario Bros. and Duck Hunt was the best-selling toy of the year in the United States. Double Dragon topped the American arcade charts in Play Meter and took the AMOA dedicated-cabinet award, with RoboCop first in Hong Kong and After Burner first in Japan. Sega released the Mega Drive in Japan on October 29. Nintendo printed the last Nintendo Fun Club News in June and the first Nintendo Power in July. Coleco is listed as defunct this year and Activision was renamed Mediagenic. Namco's Splatterhouse is called the first game to carry a parental advisory disclaimer.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_video_games"
+    },
+    "tech.morris_worm": {
+      "section": "tech",
+      "label": "The Morris worm",
+      "value": "The first computer worm distributed over the Internet, written by Robert Tappan Morris, was launched from the Massachusetts Institute of Technology",
+      "detail": "Both year pages carry it on the same date and neither counts the machines affected. The year page's summary of the year calls it the first well-known computer virus.",
+      "date": "1988-11-02",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "tech.tat8": {
+      "section": "tech",
+      "label": "First fibre-optic cable across the Atlantic",
+      "value": "TAT-8 was completed, the first transatlantic telephone cable to use optical fibres",
+      "detail": "The year page dates it to November with no day, and says it led to more robust connections between the American and European networks. The same page puts the first proper and official Internet connection between North America and Europe near the end of the year, between Princeton, New Jersey and Stockholm.",
+      "date": "1988-11",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "tech.stealth_aircraft": {
+      "section": "tech",
+      "label": "Stealth aircraft shown",
+      "value": "The Air Force acknowledged the Lockheed F-117 Nighthawk at a Pentagon press conference on November 10, and the first prototype B-2 Spirit was revealed at Palmdale, California on November 22",
+      "date": "1988-11-10",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "tech.shuttle_return": {
+      "section": "tech",
+      "label": "Space Shuttle flights resume",
+      "value": "STS-26 put Discovery into orbit and deployed the TDRS-3 satellite",
+      "detail": "Flights had been grounded since the Challenger disaster of 1986. Discovery landed at Edwards Air Force Base in California on October 3 after four days, and the US year page says the flight put the United States back into the space race.",
+      "date": "1988-09-29",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$0.95 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1981.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "The last full year of the Reagan presidency, with unemployment at its lowest in fourteen years and one buyout after another setting a record. Soviet troops walked out of Afghanistan after more than eight years, a third of Yellowstone burned, and the two men on the ballot spent the autumn arguing on television."
+    },
+    "culture.aids_day": {
+      "section": "culture",
+      "label": "World AIDS Day",
+      "value": "The first one was held",
+      "detail": "Both year pages carry it on the same date and neither says who organised it.",
+      "date": "1988-12-01",
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "culture.gallaudet": {
+      "section": "culture",
+      "label": "Gallaudet elects a deaf president",
+      "value": "I. King Jordan became the first deaf president in the university's history, after the Deaf President Now campaign",
+      "detail": "The US year page ties the election to the campaign and calls it a turning point in the deaf civil rights movement.",
+      "date": "1988-03-13",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Naguib Mahfouz",
+        "Peace, the United Nations Peace-Keeping Forces",
+        "Physics, Leon M. Lederman, Melvin Schwartz and Jack Steinberger",
+        "Chemistry, Johann Deisenhofer, Robert Huber and Hartmut Michel",
+        "Medicine, James W. Black, Gertrude B. Elion and George H. Hitchings",
+        "Economics, Maurice Allais"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1988"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "The Los Angeles Dodgers beat the Oakland Athletics four games to one, with Orel Hershiser named series most valuable player",
+      "detail": "Kirk Gibson won Game 1 on October 15 with a home run off Dennis Eckersley, 5 to 4, called by Vin Scully and Joe Garagiola for NBC. The US year page calls it the Dodgers' sixth title. Willie Stargell was the only player elected to the Baseball Hall of Fame on January 12, the seventeenth to go in during his first year of eligibility, and Jim Bunning fell four votes short of the 321 needed in his thirteenth year on the ballot. Hershiser was also the Associated Press male athlete of the year, and Florence Griffith Joyner the female athlete of the year.",
+      "date": "1988-10-20",
+      "source": "https://en.wikipedia.org/wiki/1988_in_sports"
+    },
+    "sports.wrigley_lights": {
+      "section": "sports",
+      "label": "Wrigley Field plays under lights",
+      "value": "The Cubs beat the New York Mets 6 to 4 in the first night game at the park, after the previous night's attempt was rained out",
+      "detail": "The sources disagree on the date and no date is recorded here for that reason. The sports page dates the first night game to August 8, and the US year page and the television page both put it on August 9, the television page adding that NBC carried it as a prime-time Game of the Week. The US year page says lights ended long opposition at the field.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXII",
+      "value": "The Washington Redskins beat the Denver Broncos 42 to 10 at Jack Murphy Stadium in front of 73,302, with the quarterback Doug Williams named most valuable player",
+      "detail": "The sports page says Williams was the first black quarterback to play in a Super Bowl, and gives no date; the television page fixes January 31 by noting that the pilot for The Wonder Years aired straight after ABC's coverage. Jamie Morris of Washington set an NFL single-game record of 45 rushing attempts on December 17, in a 20 to 17 loss to Cincinnati.",
+      "date": "1988-01-31",
+      "source": "https://en.wikipedia.org/wiki/1988_in_sports"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Olympic Games",
+      "value": "The Summer Games ran at Seoul from September 17 to October 2 and the Winter Games at Calgary from February 13 to 28",
+      "detail": "The Soviet Union took the most medals at both, 132 with 55 gold at Seoul and 29 with 11 gold at Calgary. The US year page puts the United States third at Seoul on 94 medals, 36 of them gold, 31 silver and 27 bronze. Ben Johnson of Canada won the 100 metres on September 24 and was stripped of the medal two days later after testing positive for a banned substance. Matt Biondi broke Tom Jager's 50 metre freestyle world record in the final on September 24, clocking 22.14 against the 22.23 Jager had set on March 25. Dan Jansen fell twice in the 500 metres at Calgary on February 14, hours after learning his sister had died.",
+      "date": "1988-09-17",
+      "source": "https://en.wikipedia.org/wiki/1988_in_sports"
+    },
+    "sports.graf": {
+      "section": "sports",
+      "label": "Steffi Graf takes all four majors",
+      "value": "Graf took all four tennis majors and the Olympic singles title, which the sports page calls the golden slam and says made her the third woman to win the Grand Slam",
+      "detail": "Mats Wilander won the Australian, French and US titles among the men, and Stefan Edberg won Wimbledon. Miloslav Mecir took the Olympic men's singles, and Pam Shriver and Zina Garrison the women's doubles.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Edmonton Oilers over the Boston Bruins, four games to none",
+        "NBA Finals, Los Angeles Lakers over the Detroit Pistons, four games to three",
+        "NCAA basketball, Kansas 83, Oklahoma 79",
+        "UEFA Euro, the Netherlands, in a tournament West Germany hosted from June 10 to 25",
+        "Grey Cup, Winnipeg Blue Bombers 22, B.C. Lions 21",
+        "VFL premiership, Hawthorn 22.20 (152), Melbourne 6.20 (56)",
+        "World Snooker Championship, Steve Davis over Terry Griffiths, 18 to 11"
+      ],
+      "detail": "Game 7 of the NBA Finals on June 21 drew a 21.2 rating and a 37 share for CBS, which the television page calls the highest-rated NBA game in the seventeen years the network carried the league. Mario Lemieux of the Pittsburgh Penguins took the Art Ross Trophy and the Hart Memorial Trophy, and on December 31 scored in all five possible game situations in one game, the only player to do it. Pedro Delgado won the Tour de France and Andrew Hampsten the Giro d'Italia. Sandy Lyle won the Masters, Curtis Strange the US Open and the money list at $1,147,644, Seve Ballesteros the British Open and Jeff Sluman the PGA Championship. San Diego Yacht Club kept the America's Cup, Stars & Stripes '88 beating the New Zealand challenger KZ1 two races to none. Susan Butcher won the Iditarod behind the lead dogs Granite and Tolstoi.",
+      "source": "https://en.wikipedia.org/wiki/1988_in_sports"
+    },
+    "deaths.feynman": {
+      "section": "deaths",
+      "label": "Richard Feynman",
+      "value": "Died February 15. Born 1918",
+      "detail": "Theoretical physicist, awarded the Nobel Prize in Physics in 1965 for work on quantum electrodynamics.",
+      "date": "1988-02-15",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "deaths.heinlein": {
+      "section": "deaths",
+      "label": "Robert A. Heinlein",
+      "value": "Died May 8. Born 1907",
+      "detail": "Science fiction author.",
+      "date": "1988-05-08",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "deaths.baker": {
+      "section": "deaths",
+      "label": "Chet Baker",
+      "value": "Died May 13. Born 1929",
+      "detail": "Jazz trumpeter.",
+      "date": "1988-05-13",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "deaths.basquiat": {
+      "section": "deaths",
+      "label": "Jean-Michel Basquiat",
+      "value": "Died August 12. Born 1960",
+      "detail": "Artist.",
+      "date": "1988-08-12",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    },
+    "deaths.orbison": {
+      "section": "deaths",
+      "label": "Roy Orbison",
+      "value": "Died December 6. Born 1936",
+      "detail": "Singer, songwriter and guitarist. The music page says he gave his last concert at Akron, Ohio on December 4 and died of a heart attack.",
+      "date": "1988-12-06",
+      "source": "https://en.wikipedia.org/wiki/1988_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1988. Box office basis. figures_basis is gross, checked with bo.mjs rather than assumed: the table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence introducing it calls the entries the top ten films released in 1988 by worldwide gross, so header and introduction agree. The basis word is the same as 1987's but the scope is not, and that is the thing to notice about this year's table: 1982 and 1987 report North American gross while this page reports worldwide gross, so the figures are not comparable with either neighbour and film.gross says so in its label and detail. Date checks. The presidential election falls on November 8, which satisfies the constitutional rule that a federal election is held on the Tuesday after the first Monday in November: November 7 was a Monday. Both year pages give November 8 and agree with each other, so no dedicated article was pulled as raw wikitext; the rule only calls for that when a year page and a dedicated article disagree. There is no inauguration this year. The Academy Awards honouring this year of film are the 61st, which the ceremony's own page dates to March 29, 1989 at the Shrine Auditorium; that falls outside this year, so film.best_picture says awarded the following spring, carries no ceremony date, and no fact carries a 1989 token. The 60th Academy Awards of April 11, hosted by Chevy Chase, which honoured the previous year of film and gave Best Picture and eight other awards to The Last Emperor, is left out for the same reason 1982 leaves out the 54th: it would put a second Best Picture on the page, and 1987 already carries that one. The 30th Grammy Awards of March 2, hosted by Billy Crystal, which gave Album of the Year to U2's The Joshua Tree, are left out on the same ground, since they honoured the previous year's recordings. No radio fact, because the radio window closed after 1959. No tech.internet id either, because that window does not open until 1993: the Morris worm sits under tech.morris_worm and the transatlantic link under tech.tat8, both governed by the tech section default from 1920, and neither id claims an internet family the year is not entitled to. The Nielsen ranking covers a season that began in the autumn of 1988 and ran into the following spring, which tv.top_shows states without naming a second year. The writers' strike that affected this television season is not mentioned anywhere in the cached pages, so no fact claims it: searching tv, year, year_us and film for Writers Guild, writers strike and writers' strike returns nothing. Source disagreements labelled rather than resolved. The first night game at Wrigley Field is August 8 on the sports page, which adds that the previous night's attempt was rained out, and August 9 on both the US year page and the television page, so sports.wrigley_lights carries the disagreement and no date field. First RepublicBank of Texas is the largest FDIC-assisted bank failure in history on the year page and the second largest up to that point on the US year page, so the texture states the disagreement instead of picking one. A Fish Called Wanda's box office is $188,597,000 in the table, $62,493,712 as a Box Office Mojo domestic gross in the footnote, and $115 million and $126,103,000 in two Variety citations in the same footnote, and film.gross names all four. Month-only dates. tech.tat8 carries 1988-11 because the year page dates the cable's completion to November with no day. pol.unemployment carries no date at all, because the US year page gives April and throughout the month of November and no days. Facts taking their value from one cached page and part of their detail from another: pol.debates cites the US year page and takes the displaced baseball game from the television page; pol.iran_contra cites the US year page and takes the ten-minute figure for the Bush and Rather exchange from the television page; film.acting_awards cites the ceremony page for the four winners and the three statistical notes and takes the Golden Globes and BAFTA lines from the film page's awards table; film.world_cinema cites the film page for the Cannes, Berlin and Venice prizes and takes the Foreign Language Film nominees, with their countries and directors, from the ceremony page; film.releases cites the film page and takes the June 22 release of Who Framed Roger Rabbit through Touchstone from the US year page; film.how_people_watched cites the film page for the E.T. videocassette and takes the Beverly Hills Cop network premiere from the television page and the ticket price from the series data; music.hot100_year_end cites the year-end chart page and takes the March 26 and July 2 chart-topping dates from the music page; music.listening_format cites the music page for the Hot Modern Rock Tracks chart and takes the Yo! MTV Raps date from the television page; sports.super_bowl cites the sports page for the result and takes January 31 from the television page; sports.champions cites the sports page and takes the UEFA Euro result from the year page and the NBA Game 7 rating from the television page; world.lockerbie cites the year page and takes the count of American dead from the US year page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names with a four-digit number. Nothing in this file needed the src/data/name_years.json allowlist. The two candidates both fall outside the check's 1000 to 2099 range: the 8888 Uprising in Burma, which is in the notes rather than the facts anyway, and Mystery Science Theater 3000, named in the texture. Superfight '88 and Stars & Stripes '88 carry two-digit numbers, which never match. So no entry was added and none was needed. Dropped for lack of a source that says enough, or for room. The Piper Alpha platform fire of July 6, which killed 165 oil workers and 2 rescue mariners with 61 survivors, and the Ramstein air show disaster of August 28, which killed seventy and injured 346, are both fully sourced on the year page and were cut only because the world section already carries three disasters with tolls and the guidance caps a section near seven. The same goes for the 8888 Uprising in Burma from August 8, the proclamation of an independent State of Palestine at Algiers on November 15 by a vote of 253 to 46 and the United States opening dialogue with the PLO on December 14 after Arafat renounced violence, the Clapham Junction rail crash of December 12 which killed 35, the Gare de Lyon rail accident of June 27 which killed 56, the Bangladesh cyclone of December 2 which left five million homeless, the Lancang and Gengma earthquakes of November 6 which killed at least 938, the Aloha Airlines Flight 243 roof failure of April 28, the Kuwait Airways Flight 422 hijacking from April 5 to April 20, the Avianca Flight 410 crash of March 17 which killed 143, the Carrollton bus collision of May 14 which killed 27, the PEPCON explosion of May 4, the Tompkins Square Park police riot of August 6 and 7, and the Al-Qaeda founding meeting of August 11. Also dropped: the Australian Bicentenary and the First Fleet re-enactment arriving in Sydney Harbour on January 26; the Candle demonstration in Bratislava of March 25; Operation Flavius of March 6 and the Milltown Cemetery attack and corporals killings that followed it in Belfast on March 16 and 19; James Hansen's testimony to the US Senate on June 23 that human-made global warming had begun, which is the one drop that hurts, cut because the tech section was full and it belongs to no other fact here; the Fairtrade Max Havelaar label of November 15; Jimmy Swaggart's admission of February 21 and the end of his television ministry; the Kids' Choice Awards of April 18; Geraldo Rivera's death row special of April 13; the Dorothea Puente bodies found at Sacramento from November 11; the killing of Mulugeta Seraw at Portland on November 13; the Sunnyvale ESL shooting of February 16; Lyndon LaRouche's mail fraud conviction of December 16; the United Nations narcotics convention signed at Vienna on December 20; the Khian Sea dumping 4,000 tons of toxic waste in Haiti in January after sixteen months at sea; zebra mussels turning up in the Great Lakes; BlackRock's founding; the Volkswagen Westmoreland plant closing on July 14 after ten years; the last Dodge Aries and Plymouth Reliant of December 9; and the Sonny Bono mayoral election of April 12. Deaths that would have earned a place with more room: John Carradine on November 27, Divine on March 7, Pete Maravich on January 5, Louis L'Amour on June 10, John Houseman on October 31, Isamu Noguchi on December 30, Hal Ashby on December 27, Charles Addams on September 29, Ray Eames on August 21, Max Robinson on December 20, Luis Walter Alvarez on September 1, Isidor Isaac Rabi on January 11, Colleen Moore on January 25, Heather O'Rourke on February 1, Frederick Loewe on February 14, Gil Evans on March 20, Robert Joffrey on March 25, Andy Gibb on March 10 which only the music page carries, Brook Benton on April 9, Daws Butler on May 18, Hillel Slovak on June 25, Judith Barsi on July 25, Frank Zamboni on July 27, Art Rooney on August 25, Roy Buchanan on August 14, Billy Carter on September 25, John N. Mitchell on November 9, Sylvester on December 16, Stuart Symington on December 14 and Alphaeus Philemon Cole on November 25 at 112. Names and titles are written in ASCII per the corpus convention, so Francois Mitterrand, Pedro Almodovar, Istvan Szabo, Gerard Corbiau, Max Theret, Pathe, Miloslav Mecir, Todavia eres mi mujer, Carlos Castellon and Sumqayit lose their diacritics, and Hotel Terminus is not named at all. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. This file runs 52 facts across 10 sections: politics 6, world 7, film 7, tv 4, music 6, tech 5, prices 2, culture 4, sports 6, deaths 5."
+}

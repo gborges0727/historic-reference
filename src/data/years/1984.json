@@ -1,0 +1,536 @@
+{
+  "year": 1984,
+  "tier": "broadcast",
+  "headline": "Indira Gandhi was assassinated in October, gas killed thousands at Bhopal in December, and Reagan carried 49 states",
+  "texture": [
+    "James Huberty walked into a McDonald's in the San Ysidro district of San Diego on July 18 and killed 21 people, and a sniper shot him 77 minutes after the ordeal began. Velma Barfield was executed at Raleigh on November 2, the first woman the United States had put to death since 1965. Six death row inmates escaped Mecklenburg Correctional Center in Virginia on May 31, including the brothers James and Linwood Briley, the only time that has happened in the country. Tyrone Mitchell killed two people at 49th Street Elementary School in South Central Los Angeles on February 24.",
+    "Yvonne Fletcher was shot dead outside the Libyan embassy in London on April 17, and the eleven-day siege that followed ended with Britain severing relations with Libya. Polish secret police killed Father Jerzy Popieluszko on October 19 and left his body in a reservoir, where it was found 11 days later, and between 600,000 and a million people came to his funeral in Zoliborz on November 3. Explosions at the Pemex storage yard at San Juan Ixhuatepec in Mexico City on November 19 killed about 500. Aeroflot Flight 3352 hit maintenance vehicles on the runway at Omsk on October 11, killing 174 aboard and four on the ground.",
+    "Oprah Winfrey took over as host of A.M. Chicago on WLS-TV on January 2. Clara Peller asked where the beef was in a Wendy's advertisement first broadcast on January 9. Hulk Hogan won his first World Wrestling Federation championship on January 23, beating The Iron Sheik at Madison Square Garden. Between takes on the set of Cover Up on October 12, Jon-Erik Hexum put a revolver loaded with a blank against his temple and pulled the trigger, and he was declared brain dead six days later at 26. Michael Larson won $110,237 on Press Your Luck in episodes taped on May 19.",
+    "Reagan tested a radio microphone on August 11 by telling the country he had signed legislation outlawing Russia forever and that the bombing would begin in five minutes. The Itaipu Dam on the Brazil and Paraguay border began generating power on May 5 after nine years of building. Liechtenstein became the last country in Europe to grant women the vote, on July 1. Joe Kittinger set off on September 14 and four days later crossed the Atlantic alone in a balloon, the first person to do it. Cirque du Soleil was founded on June 16 and Virgin Atlantic's first flight was on June 22."
+  ],
+  "lead": [
+    "pol.us_president",
+    "pol.election",
+    "world.indira_gandhi",
+    "world.bhopal",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "tech.macintosh"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Fourth year in office. George H. W. Bush was Vice President, Warren E. Burger was Chief Justice, Tip O'Neill was Speaker of the House and Howard Baker was Senate majority leader. The 98th Congress sat through the year. Reagan used his State of the Union address on January 25 to announce that the United States would develop a permanently crewed space station and invite other space agencies into the project. He met Navy Lieutenant Robert Goodman and the Reverend Jesse Jackson at the White House on January 3 after Goodman's release from Syrian captivity, called for an international ban on chemical weapons on April 4, and visited his ancestral home at Ballyporeen in Ireland on June 3.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "pol.election": {
+      "section": "politics",
+      "label": "Presidential election",
+      "value": "Ronald Reagan defeated Walter F. Mondale with 59 percent of the popular vote and carried 49 states in the electoral college, and Mondale won only his home state of Minnesota, by 3,761 votes, and the District of Columbia",
+      "detail": "The date satisfies the constitutional rule that a federal election falls on the Tuesday after the first Monday in November: November 5 was a Monday and November 6 a Tuesday. The year page and the US year page both give November 6, and both call the popular vote share the highest since Richard Nixon's 61 percent in 1972.",
+      "date": "1984-11-06",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "pol.debates": {
+      "section": "politics",
+      "label": "Presidential and vice presidential debates",
+      "value": [
+        "October 7, Reagan and Mondale meet in Kentucky, with Barbara Walters as host",
+        "October 11, Geraldine Ferraro and George H. W. Bush debate, the first time a woman took part in a presidential or vice presidential debate",
+        "October 21, Reagan and Mondale meet again in Kansas"
+      ],
+      "detail": "The US year page gives the three dates and the two states, and the television page carries the claim about Ferraro and dates the second Reagan and Mondale debate to October 21 as well.",
+      "date": "1984-10-07",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "pol.unemployment": {
+      "section": "politics",
+      "label": "Unemployment falls to 7.2 percent",
+      "value": "The US year page puts the rate at 7.2 percent in November, the same rate it had been when the early 1980s recession started in June 1981",
+      "detail": "The page gives the month and no day.",
+      "date": "1984-11",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "pol.att_divestiture": {
+      "section": "politics",
+      "label": "Bell System broken up",
+      "value": "The US Bell System was broken up on the first day of the year",
+      "detail": "The US year page carries the breakup in one line and gives no terms, no number of successor companies and no figure for what the system had been worth.",
+      "date": "1984-01-01",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "world.indira_gandhi": {
+      "section": "world",
+      "label": "Indira Gandhi assassinated",
+      "value": "The Prime Minister of India was killed by two of her Sikh security guards in New Delhi, anti-Sikh riots broke out that left 10,000 to 20,000 Sikhs dead in Delhi and the surrounding areas, and Rajiv Gandhi became Prime Minister",
+      "detail": "The Indian government had begun Operation Blue Star, the planned attack on the Golden Temple at Amritsar, on June 5. The year page dates the anti-Sikh mass murder in Delhi and other parts of India to November 1 through 4. India had launched Operation Meghdoot on April 13, bringing most of the disputed Siachen Glacier under its control and starting the Siachen conflict with Pakistan.",
+      "date": "1984-10-31",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "world.bhopal": {
+      "section": "world",
+      "label": "Bhopal disaster",
+      "value": "A methyl isocyanate leak from a Union Carbide pesticide plant at Bhopal in Madhya Pradesh killed more than 8,000 people outright and injured over half a million, which the year page calls the worst industrial disaster in history",
+      "detail": "The page says the toll reaches above 23,000 as more of the injured die. It gives no figure for the quantity of gas released and no account of what failed at the plant.",
+      "date": "1984-12-03",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "world.miners_strike": {
+      "section": "world",
+      "label": "British miners strike",
+      "value": "Tens of thousands of miners stopped work in protest at colliery closures, and the year page says the strike called by the National Union of Mineworkers lasted a year",
+      "detail": "The year page's summary of the year lists the strike beginning alongside the Bhopal disaster and the assassination of Indira Gandhi. It gives no figure for how many pits were at issue.",
+      "date": "1984-03-12",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "world.brighton_bombing": {
+      "section": "world",
+      "label": "Brighton hotel bombing",
+      "value": "The Provisional Irish Republican Army tried to kill Prime Minister Margaret Thatcher and the British Cabinet with a device planted nearly a month earlier in their Conservative Party conference hotel, and the blast killed five people and injured 31",
+      "date": "1984-10-12",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "world.ethiopia_famine": {
+      "section": "world",
+      "label": "Famine in Ethiopia reported",
+      "value": "BBC News television reports presented by Michael Buerk showed a famine in which thousands had already starved to death and as many as 10,000,000 more lives were at risk",
+      "detail": "The year page dates the intensification of the famine to renewed drought by mid-year and says a million people died by the end of the year. The European Economic Community made 1.8 million pounds available on October 25. Operation Moses, the evacuation of Beta Israel Ethiopian Jews from Sudan to Israel by way of Brussels, began on November 21. The music page says Bob Geldof was among those watching Buerk's report and was moved by it to make a charity record.",
+      "date": "1984-10-23",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "world.hong_kong": {
+      "section": "world",
+      "label": "Britain agrees to return Hong Kong",
+      "value": "The United Kingdom and the People's Republic of China signed an initial agreement on September 26 to return Hong Kong to China, and signed the Sino-British Joint Declaration on the territory's future on December 19",
+      "detail": "The year page names the handover year, which falls outside this page, so no fact here carries it.",
+      "date": "1984-09-26",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of leadership",
+      "value": [
+        "Konstantin Chernenko succeeds the late Yuri Andropov as General Secretary of the Communist Party of the Soviet Union, February 13",
+        "Brunei gains full independence from the United Kingdom, January 1, and joins the Association of Southeast Asian Nations six days later",
+        "John Turner becomes the seventeenth Prime Minister of Canada, June 30, after Pierre Trudeau announced his retirement on February 29",
+        "Brian Mulroney's Progressive Conservatives take 211 seats on September 4, the largest majority in Canadian history, and he is sworn in on September 17",
+        "P. W. Botha is inaugurated as the first executive State President of South Africa, September 14",
+        "David Lange defeats Rob Muldoon in a snap election in New Zealand, July 14",
+        "The Sandinista Front wins the Nicaraguan general elections, November 4",
+        "Julio Maria Sanguinetti is elected President of Uruguay after twelve years of military dictatorship, November 25"
+      ],
+      "detail": "Upper Volta changed its name to Burkina Faso on August 4. Bob Hawke's Labor government was re-elected in Australia with a reduced majority on December 2. Sultan Iskandar of Johor became Yang di-Pertuan Agong of Malaysia on April 26. General Rahimuddin Khan became the first man in Pakistan's history to rule over two of its provinces on March 23, on becoming interim governor of Sindh. Dom Mintoff resigned as Prime Minister of Malta on December 22, and Morocco left the Organization of African Unity on November 12 in protest at the admission of Western Sahara. The year page dates Andropov's death only by calling him the late general secretary on February 13, so no fact here gives a day for it.",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North America",
+      "value": [
+        "Beverly Hills Cop, $234,760,478, Paramount",
+        "Ghostbusters, $229,242,989, Columbia",
+        "Indiana Jones and the Temple of Doom, $179,870,271, Paramount",
+        "Gremlins, $153,083,102, Warner Bros.",
+        "The Karate Kid, $90,815,558, Columbia"
+      ],
+      "detail": "Box-office gross rather than rentals. The table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence above it calls the entries the top ten films released this year by box office gross in North America, so the two agree and there is no rentals gloss to write. Police Academy was sixth at $81,198,894 for Warner Bros., Footloose seventh at $80,035,402 for Paramount, Romancing the Stone eighth at $76,572,238 for 20th Century Fox, Star Trek III: The Search for Spock ninth at $76,471,076 for Paramount and Splash tenth at $69,821,334 for Buena Vista. The film page says this was the first year in five that the top-grossing film involved neither George Lucas nor Steven Spielberg, though Spielberg directed the third-placed film and executive produced the fourth. Beverly Hills Cop sold 67,150,000 admissions.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Amadeus, produced by Saul Zaentz",
+      "detail": "Awarded the following spring at the 57th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Jack Lemmon, his fourth time. Amadeus won eight awards, more than any other film, from eleven nominations, a count it tied with A Passage to India. The Killing Fields won three, A Passage to India and Places in the Heart two each. Milos Forman took Best Director and Peter Shaffer adapted screenplay from his own play. The other Best Picture nominees were The Killing Fields, A Passage to India, Places in the Heart and A Soldier's Story. The telecast on ABC drew 38.9 million viewers and 27.7 percent of households with a 45 percent share, which the ceremony page calls lower than the previous year on both counts.",
+      "source": "https://en.wikipedia.org/wiki/57th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, F. Murray Abraham, Amadeus",
+        "Best Actress, Sally Field, Places in the Heart",
+        "Best Supporting Actor, Haing S. Ngor, The Killing Fields",
+        "Best Supporting Actress, Peggy Ashcroft, A Passage to India"
+      ],
+      "detail": "The ceremony page says Ngor was the first Asian winner of Best Supporting Actor and that Ashcroft, at 77, became the oldest winner of Best Supporting Actress. Stevie Wonder was the first blind person to win an Oscar, for I Just Called to Say I Love You from The Woman in Red, and the page says all five Best Original Song nominees had reached number one on the Billboard Hot 100, a first. Prince won Best Music, Original Song Score, for Purple Rain, and Maurice Jarre Best Original Score for A Passage to India. Jeff Bridges was nominated for Starman, Albert Finney for Under the Volcano, Tom Hulce for Amadeus, Sam Waterston for The Killing Fields, Pat Morita for The Karate Kid and Ralph Richardson posthumously for Greystoke. The Golden Globes gave best drama to Amadeus and best comedy or musical to Romancing the Stone, and BAFTA gave best film to The Killing Fields and best actress to Maggie Smith for A Private Function.",
+      "source": "https://en.wikipedia.org/wiki/57th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Dangerous Moves, Switzerland, in French, directed by Richard Dembo, winner of the Academy Award for Best Foreign Language Film",
+        "Beyond the Walls, Israel, in Hebrew, directed by Uri Barbash",
+        "Camila, Argentina, in Spanish, directed by Maria Luisa Bemberg",
+        "Double Feature, Spain, in Spanish, directed by Jose Luis Garci",
+        "Wartime Romance, Soviet Union, in Russian, directed by Pyotr Todorovsky"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the ceremony page states each film's country, language and director. The Palme d'Or at Cannes went to Paris, Texas, directed by Wim Wenders for France and West Germany, the Golden Lion at Venice to A Year of the Quiet Sun, directed by Krzysztof Zanussi of Poland, and the Golden Bear at Berlin to Love Streams, directed by John Cassavetes. The film page's table of international markets gives Tohfa, directed by K. Raghavendra Rao, 90,000,000 rupees in India, Aces Go Places 3, directed by Tsui Hark, 29,286,077 Hong Kong dollars, and Disco Dancer, directed by Babbar Subhash of India, $75,900,000 and 60,900,000 admissions in the Soviet Union. Marche a l'ombre, directed by Michel Blanc, drew 6,168,425 admissions in France. Edgar Reitz's film series Heimat began release in Germany on September 16, which the year page carries and the film page does not.",
+      "source": "https://en.wikipedia.org/wiki/57th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Romancing the Stone, March 30",
+        "Breakin', May 4, the first of the year's breakdancing musicals, followed by Beat Street and Breakin' 2: Electric Boogaloo",
+        "Ghostbusters and Gremlins, both June 8",
+        "The Karate Kid, June 22",
+        "Purple Rain, July 27, Prince's first film",
+        "The Terminator, October 26, James Cameron's third film, with Arnold Schwarzenegger, Linda Hamilton and Michael Biehn",
+        "Beverly Hills Cop, December 5",
+        "Dune, December 14"
+      ],
+      "detail": "The Walt Disney Studios set up Touchstone Pictures on February 15 to release films with more mature subject matter than the Walt Disney Pictures banner carried, and Tri-Star Pictures, a joint venture of Columbia, HBO and CBS, released its first film on April 6. Ghostbusters passed Tootsie's $177.2 million on August 25 to become the highest-grossing comedy in the United States. Michael Eisner left Paramount on September 22 to head Walt Disney Productions, with Frank Wells as chief operating officer, and Ned Tanen became president of Paramount's motion picture group on October 8. Joe Wizan left as president of 20th Century Fox Productions on July 9 and Lawrence Gordon replaced him the next day. Johnny Depp made his film debut in A Nightmare on Elm Street. The NeverEnding Story was the most expensive film produced in West Germany.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, under a rating that had not existed in January. The Motion Picture Association of America introduced PG-13 on July 1, and the film page says violent horror films are what produced it, naming Gremlins and Indiana Jones and the Temple of Doom.",
+      "detail": "United States box office grosses reached $4 billion for the first time, and the film page says this was also the first year in which two films returned over $100 million to their distributors, Ghostbusters and Indiana Jones and the Temple of Doom. The average ticket cost $3.36. Films also reached people through network premieres on television: the television page dates ABC's premiere of Superman II to February 20, in a cut using 17 of the 24 minutes the Salkinds had re-inserted, and the first network broadcast of Star Wars, on CBS, to February 26. No cached page says anything about videocassette rental or cable film channels, so this fact claims nothing about them.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$3.36",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1984",
+      "value": [
+        "Dynasty, ABC, 25.0 rating",
+        "Dallas, CBS, 24.7",
+        "The Cosby Show, NBC, 24.2",
+        "60 Minutes, CBS, 22.2",
+        "Family Ties, NBC, 22.1"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Three different networks held the top three places. The A-Team was sixth on 21.9 for NBC and Simon & Simon seventh on 21.8 for CBS, with Murder, She Wrote eighth on 20.1 and Knots Landing ninth on 20.0, both CBS, and Falcon Crest tied with Crazy Like a Fox for tenth on 19.9. Hill Street Blues came thirtieth on 16.6. The television page calls The Burning Bed, broadcast by NBC on October 8 with Farrah Fawcett as a woman who kills her abusive husband, the highest-rated entertainment event of the season.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1984%E2%80%9385"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Riptide, NBC, January 3",
+        "Night Court, NBC, January 4",
+        "Airwolf, CBS, January 22",
+        "Kate and Allie, CBS, March 19",
+        "Lifestyles of the Rich and Famous, syndication, March 31",
+        "Santa Barbara, NBC, July 30",
+        "Jeopardy!, syndication, September 10, with Alex Trebek as host",
+        "Miami Vice and Punky Brewster, NBC, both September 16",
+        "The Transformers, syndication, September 17",
+        "The Cosby Show, NBC, and Who's the Boss?, ABC, both September 20",
+        "Murder, She Wrote, CBS, September 30",
+        "V, NBC, October 26"
+      ],
+      "detail": "Hunter started on NBC on September 18 and Highway to Heaven on September 19, Charles in Charge on CBS on October 3 and Crazy Like a Fox on December 30. Voltron: Defender of the Universe entered syndication on September 10, Muppet Babies started on CBS on September 15 and Tales from the Darkside in syndication on September 30. Kelsey Grammer first appeared as Frasier Crane in the third-season premiere of Cheers on September 27. The television page says the two-hour Miami Vice pilot began developing the look the series became known for, with long stretches of each episode resembling a music video.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Fantasy Island, May 19, having started in 1978",
+        "One Day at a Time, May 28, having started in 1975",
+        "Hollywood Squares, July 27, having started in 1966",
+        "Three's Company, September 18, having started in 1977",
+        "Happy Days, September 24, having started in 1974",
+        "Captain Kangaroo, December 8, after a run of 29 years that began in 1955",
+        "The Edge of Night, December 28, having started in 1956"
+      ],
+      "detail": "The television page's endings table gives each date and start year, and calls Captain Kangaroo the longest-running nationally broadcast children's programme of its day. Hart to Hart ended on May 22, That's Incredible! on April 30, Real People on July 4, The Dean Martin Celebrity Roast on December 1 and AfterMASH on December 11. Happy Days aired its finale on May 8 and then five more episodes, the last of them in September, so the page's date for the series and the date of the episode called Passages do not match. The last three episodes of Three's Company set up the spin-off Three's a Crowd, which started on September 25.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_American_television"
+    },
+    "tv.macintosh_ad": {
+      "section": "tv",
+      "label": "Apple advertises the Macintosh during the Super Bowl",
+      "value": "Apple Computer heralded the introduction of the Macintosh with a commercial shown during CBS's broadcast of Super Bowl XVIII, the only time it was broadcast on national television",
+      "detail": "The advertisement is titled 1984, after the year it ran in. Steve Jobs launched the machine two days later.",
+      "date": "1984-01-22",
+      "source": "https://en.wikipedia.org/wiki/1984_in_American_television"
+    },
+    "tv.cable_launches": {
+      "section": "tv",
+      "label": "New cable channels",
+      "value": [
+        "Arts & Entertainment Network, February 1, from the merger of ARTS and RCA's The Entertainment Channel",
+        "Lifetime, February 1, from the merger of Hearst and ABC's Daytime and Viacom's Cable Health Network",
+        "NetSpan, June 19",
+        "American Movie Classics, October 1",
+        "Cable Music Channel, October 26, which closed on November 30",
+        "MGM/UA Premiere Network, November 10"
+      ],
+      "detail": "The television page's launch table lists all of these as cable, and its closures table gives the Cable Music Channel's end date and the closing of Spotlight on February 1. The music page says Turner Broadcasting meant the Cable Music Channel to compete directly with MTV, that its first video was I Love L.A. by Randy Newman, and that it lasted 34 days. Montana gained a PBS station on October 1, the last state in the Union without one. ABC bought a majority stake in ESPN from Getty Oil on December 17. MuchMusic began broadcasting in Canada on August 31, opening with Rush's The Enemy Within.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_American_television"
+    },
+    "tv.vma": {
+      "section": "tv",
+      "label": "First MTV Video Music Awards",
+      "value": "Dan Aykroyd and Bette Midler hosted the first awards at Radio City Music Hall in New York, where Herbie Hancock won five, more than anyone else, and The Cars took Video of the Year for You Might Think",
+      "detail": "The television page and the music page both carry Madonna's performance of Like a Virgin, in which she rolled around the stage and ground her crotch against her veil, and both say it drew much of the attention. The winners and the count of Hancock's awards come from the music page.",
+      "date": "1984-09-14",
+      "source": "https://en.wikipedia.org/wiki/1984_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "When Doves Cry, Prince",
+        "What's Love Got to Do with It, Tina Turner",
+        "Say, Say, Say, Paul McCartney and Michael Jackson",
+        "Footloose, Kenny Loggins",
+        "Against All Odds (Take a Look at Me Now), Phil Collins"
+      ],
+      "detail": "From the year-end edition of Billboard dated December 22. Lionel Richie had four songs on the list, more than any other artist, with Hello seventh and All Night Long twelfth. Prince had two, Let's Go Crazy at twenty-one. Jump by Van Halen was sixth, Owner of a Lonely Heart by Yes eighth, Ghostbusters by Ray Parker Jr. ninth and Karma Chameleon by Culture Club tenth. Cyndi Lauper took fifteenth with Girls Just Want to Have Fun and seventeenth with Time After Time, and the music page says her fourth single from one album put her in the top five four times over, the first woman to manage that in the chart's 26 years.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1984"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On a compact disc pressed in Indiana, for the first time. The first CD manufacturing plant in North America opened at Terre Haute on September 21, and the music page says discs had until then been imported expensively from Japan or West Germany.",
+      "detail": "Bruce Springsteen's Born in the U.S.A., released June 4, is named by both the music page and the US year page as the first CD manufactured in the United States. The music page also says United Kingdom singles sales this year were the second highest ever, after 1978. No cached page gives a figure for how many discs the Terre Haute plant made, what a player cost, or how the format sold against records.",
+      "date": "1984-09-21",
+      "source": "https://en.wikipedia.org/wiki/1984_in_music"
+    },
+    "music.grammys": {
+      "section": "music",
+      "label": "Michael Jackson wins eight Grammy Awards",
+      "value": "He won eight of twelve nominations at the 26th Grammy Awards, which the music page calls a record for the most won in a single year, seven of them for Thriller and one for his work on the audiobook for the film E.T. the Extra-Terrestrial",
+      "detail": "The ceremony honoured the previous year's recordings, which is why no fact on this page carries an album of the year. John Denver hosted, and the music page says the telecast drew the highest ratings in the awarding body's history. The Police took Song of the Year for Every Breath You Take and Culture Club Best New Artist. Jackson's scalp had been burned a month earlier, on January 27, during the filming of a Pepsi commercial, and the music page says he was admitted to hospital.",
+      "date": "1984-02-28",
+      "source": "https://en.wikipedia.org/wiki/1984_in_music"
+    },
+    "music.van_halen": {
+      "section": "music",
+      "label": "Van Halen release 1984",
+      "value": "The album shares its title with the year it came out in, and the music page lists it among the releases of January 9",
+      "date": "1984-01-09",
+      "source": "https://en.wikipedia.org/wiki/1984_in_music"
+    },
+    "music.purple_rain": {
+      "section": "music",
+      "label": "Prince releases Purple Rain",
+      "value": "His sixth album, which the music page says sold over 20 million copies and gave him two US number one singles, When Doves Cry and Let's Go Crazy",
+      "detail": "The film of the same name, Prince's first, was released on July 27. The US year page dates the album to the same day as the music page and says it is the first billed with his band The Revolution. The music page says Tipper Gore formed the Parents Music Resource Center in December over what she heard on her daughter's copy of the record.",
+      "date": "1984-06-25",
+      "source": "https://en.wikipedia.org/wiki/1984_in_music"
+    },
+    "music.band_aid": {
+      "section": "music",
+      "label": "Band Aid records Do They Know It's Christmas?",
+      "value": "Bob Geldof assembled the group at SARM Studios in Notting Hill on November 25, with Paul Young, Simon Le Bon, Bono, Phil Collins, Paul Weller, Sting, Boy George and Tony Hadley among the singers, and the single was released on December 3",
+      "detail": "The music page calls it the fastest-selling single of all time in the United Kingdom. The year page says the record was made to raise money against the famine in Ethiopia. The music page gives the studio and the list of performers, and the year page names London without the studio.",
+      "date": "1984-11-25",
+      "source": "https://en.wikipedia.org/wiki/1984_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Sweden won with Diggi-Loo Diggi-Ley, performed by the Herreys at the contest in Luxembourg, and the year page says it went on to be a top-ten hit in five European countries",
+      "detail": "The 13th OTI Festival, held at the National Auditorium in Mexico City on November 10, was won by Agualuna, written and performed by Fernando Ubiergo for Chile. The music page and the year page both date Eurovision to May 5 and neither gives a points total.",
+      "date": "1984-05-05",
+      "source": "https://en.wikipedia.org/wiki/1984_in_music"
+    },
+    "tech.macintosh": {
+      "section": "tech",
+      "label": "Macintosh launched",
+      "value": "Steve Jobs launched the Macintosh personal computer in the United States, and the video games page dates Apple's announcement of the original 128K floppy-disc-only machine to the same day",
+      "detail": "The games page's table of best-selling home systems puts the Mac seventh at 370,000 units worldwide, behind Nintendo's Family Computer at 2,940,000, the Commodore 64 at 2,500,000, the IBM Personal Computer at 2,000,000, the TI-99/4A and the Apple II at about a million each, and NEC's PC-88 and PC-98 line. IBM released the PCjr in March to reach the home market, with better sound and graphics than the business PC, and the page calls it a commercial failure.",
+      "date": "1984-01-24",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Punch-Out!!, Nintendo, February 17",
+        "I, Robot, Atari, June, the first polygonal 3D game",
+        "Karate Champ, Data East and Technos Japan, July, which laid the foundations of the one-on-one fighting game",
+        "Elite, Acornsoft, September 20, a wireframe 3D space trading game with an open-ended design",
+        "Pac-Land, Namco, October, which laid the foundations of the horizontally scrolling platform game",
+        "Knight Lore, Ultimate Play the Game, December 7, the first to use the isometric Filmation engine",
+        "Marble Madness, Atari Games, December, their first written in C and their first on a 68000-family processor",
+        "1942, Capcom, December, named for a year four decades earlier"
+      ],
+      "detail": "United States home video game sales fell to $800 million. Pole Position was the highest-grossing arcade game in the United States for the second year running and Track & Field in the United Kingdom, where Jet Set Willy was the best-selling home computer game. Warner Communications sold Atari's home video game and computer business, the logo and the trademark to Tramel Technology, which was renamed Atari Corporation, and kept the arcade division as Atari Games. Mattel sold the Intellivision hardware and software to a group led by a former executive, which became INTV Corporation, and closed its game development offices in California and Taiwan. Sega and CSK merged to form Sega Enterprises. The Atari 5200, the Magnavox Odyssey2 and the Vectrex were discontinued. Infocom released The Hitchhiker's Guide to the Galaxy, Sierra On-Line released King's Quest I for the PCjr, and Nintendo put Ice Climber and Balloon Fight on the Famicom on December 17.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_video_games"
+    },
+    "tech.hiv_identified": {
+      "section": "tech",
+      "label": "The virus that causes AIDS is named",
+      "value": "Margaret Heckler of the US Public Health Service announced the identity of HTLV-III as the virus that causes AIDS",
+      "detail": "The US year page carries the announcement in one line and gives no account of the work behind it. It also says that Ryan White, a student who had contracted AIDS, was expelled from Western High School in Russiaville, Indiana because of his illness, and gives no date for that.",
+      "date": "1984-04-23",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "tech.embryo_transfer": {
+      "section": "tech",
+      "label": "First embryo transfer between women",
+      "value": "John Buster and the research team at Harbor-UCLA Medical Center announced the first transfer of an embryo from one woman to another that resulted in a live birth",
+      "detail": "Both year pages carry the announcement on the same date and neither gives the date of the birth itself.",
+      "date": "1984-02-03",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "tech.spaceflight": {
+      "section": "tech",
+      "label": "First untethered space walk",
+      "value": "Bruce McCandless II and Robert L. Stewart stepped away from the Space Shuttle Challenger with no tether",
+      "detail": "STS-41-B had launched on February 3 and made the first shuttle landing at the Kennedy Space Center on February 11. Svetlana Savitskaya became the first woman to perform a space walk, from Salyut 7, on July 25, and Kathryn D. Sullivan the first American woman to do so, from Challenger, on October 11. Discovery flew its maiden voyage from August 30 to September 5, landing at Edwards Air Force Base. Marc Garneau became the first Canadian in space aboard Challenger on October 5, and the Indian squadron leader Rakesh Sharma was launched aboard Soyuz T-11 on April 2.",
+      "date": "1984-02-07",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.21 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "A president carried forty-nine states while the Bell System came apart on the first day of the year and crack cocaine reached Los Angeles. Children queued for a comedy about exterminators chasing ghosts, a desk computer arrived that answered to a mouse, and a record cut in a single day by a room full of pop singers went out to raise money for Ethiopia."
+    },
+    "culture.worlds_fair": {
+      "section": "culture",
+      "label": "Louisiana World Exposition",
+      "value": "The world's fair opened in New Orleans on May 12 and closed on November 11",
+      "detail": "The year page says locals called it The Fair or Expo 84, and gives no attendance figure for either the opening or the run.",
+      "date": "1984-05-12",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "culture.goetz": {
+      "section": "culture",
+      "label": "Bernhard Goetz shoots four youths on a subway train",
+      "value": "Barry Allen, Troy Canty, James Ramseur and Darrell Cabey boarded an express train in the Bronx and Goetz shot them, and both year pages say the case started a national debate about urban crime",
+      "detail": "The year page says the four demanded five dollars from Goetz and the US year page says they attempted to rob him, so the two accounts of what was said differ and this fact gives neither as settled.",
+      "date": "1984-12-22",
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Jaroslav Seifert",
+        "Peace, Bishop Desmond Mpilo Tutu",
+        "Physics, Carlo Rubbia and Simon van der Meer",
+        "Chemistry, Robert Bruce Merrifield",
+        "Medicine, Niels Kaj Jerne, Georges J. F. Kohler and Cesar Milstein",
+        "Economics, Richard Stone"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1984"
+    },
+    "sports.olympics": {
+      "section": "sports",
+      "label": "Olympic Games",
+      "value": [
+        "Summer Games, Los Angeles, July 28 to August 12, where the United States won the most medals with 174 and the most gold with 83",
+        "Winter Games, Sarajevo, February 8 to 19, where the Soviet Union won the most medals with 25 and East Germany the most gold with 9"
+      ],
+      "detail": "The Soviet Union announced on May 8 that it would boycott the Summer Games. Zola Budd, running barefoot for South Africa, and Mary Decker of the United States collided in the 3000 metres final on August 11, and neither finished as a medallist. Bill Johnson became the first American to win the Olympic downhill. Carl Lewis was the Associated Press male athlete of the year and Mary Lou Retton the female athlete of the year. Stefan Edberg and Steffi Graf won the tennis singles, Pakistan and the Netherlands the field hockey, and Yugoslavia the water polo. ABC opened its coverage on July 28 with Jim McKay and Peter Jennings hosting the opening ceremony, which the television page says was the last Summer Games the network carried.",
+      "date": "1984-07-28",
+      "source": "https://en.wikipedia.org/wiki/1984_in_sports"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Detroit Tigers beat the San Diego Padres four games to one",
+      "detail": "The year page calls it the franchise's fourth championship and dates the clinching game five to October 14. Luis Aparicio, Harmon Killebrew and Don Drysdale were elected to the Baseball Hall of Fame on January 10. The longest game in Major League Baseball history began at 7:30 in the evening on May 8 between the Milwaukee Brewers and the Chicago White Sox, ran to 25 innings across two days and took 8 hours and 6 minutes. On NBC's Game of the Week on June 23, Ryne Sandberg of the Cubs took Bruce Sutter of the Cardinals for home runs in the ninth and the tenth, and Chicago won 12 to 11 in eleven innings.",
+      "date": "1984-10-14",
+      "source": "https://en.wikipedia.org/wiki/1984_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XVIII",
+      "value": "The Los Angeles Raiders beat the Washington Redskins 38 to 9 at Tampa Stadium in front of 72,920, with the running back Marcus Allen named most valuable player",
+      "detail": "The sports page gives the score, the venue, the attendance and the award and no date. The date here comes from the television page, which carries the game because a computer commercial ran during CBS's broadcast of it.",
+      "date": "1984-01-22",
+      "source": "https://en.wikipedia.org/wiki/1984_in_sports"
+    },
+    "sports.football_season": {
+      "section": "sports",
+      "label": "College and league football",
+      "value": [
+        "Walter Payton broke Jim Brown's rushing record on October 7",
+        "Doug Flutie won the Heisman Trophy, and the Hail Flutie game was played on November 23",
+        "The Philadelphia Stars won the United States Football League championship 23 to 3 over the Arizona Wranglers",
+        "Brigham Young won the college national championship after the Holiday Bowl on December 21"
+      ],
+      "detail": "The Miami Hurricanes had taken the previous season's national championship by beating Nebraska 31 to 30 in the Orange Bowl, which the sports page carries without a date. The Supreme Court ruled on June 27 in NCAA v. Board of Regents of the University of Oklahoma that the association's television plan violated the Sherman Antitrust Act, which left individual schools and conferences free to sell their own broadcast rights, and the College Football Association then sold a package to ABC and CBS while the Big Ten and Pacific-10 sold their own to ABC. That ruling comes from the television page.",
+      "date": "1984-10-07",
+      "source": "https://en.wikipedia.org/wiki/1984_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Edmonton Oilers over the New York Islanders, four games to one, their first, clinched May 19",
+        "NBA Finals, Boston Celtics over the Los Angeles Lakers, four games to three",
+        "NCAA basketball, Georgetown 84, Houston 75",
+        "European Championship, France 2, Spain 0, in France on June 27",
+        "European Cup, Liverpool 1, Roma 1, Liverpool winning 4 to 2 on penalties on May 30",
+        "FA Cup, Everton 2, Watford 0, on May 12",
+        "Grey Cup, Winnipeg Blue Bombers 47, Hamilton Tiger-Cats 17",
+        "World Snooker Championship, Steve Davis over Jimmy White, 18 to 16"
+      ],
+      "detail": "Wayne Gretzky of the Edmonton Oilers took the Art Ross Trophy as the NHL's leading scorer and the Hart Memorial Trophy as its most valuable player. The NBA draft of June 23 took Hakeem Olajuwon, Michael Jordan, Charles Barkley and John Stockton, and Donald Sterling moved the San Diego Clippers to Los Angeles. Juventus won the Cup Winners' Cup 2 to 1 over Porto and the Super Cup 2 to 0 over Liverpool, Tottenham Hotspur took the UEFA Cup on penalties after drawing both legs with Anderlecht, and the North American Soccer League folded. Essendon won the 88th VFL premiership over Hawthorn. Ben Crenshaw took the Masters, Fuzzy Zoeller the US Open, Seve Ballesteros the British Open and Lee Trevino the PGA Championship, with Tom Watson leading the money list at $476,260. Martina Navratilova won three tennis majors and Chris Evert the Australian Open, while John McEnroe took Wimbledon and the US Open. Laurent Fignon won the Tour de France and Francesco Moser the Giro d'Italia. Scotland completed the Grand Slam in the 90th Five Nations Championship, and India beat Pakistan in the final of the first Asia Cup at Sharjah. Thomas Hearns knocked out Roberto Duran in two rounds on June 15 in what the sports page calls the most anticipated bout of the year, and Wilfredo Gomez beat Juan Laporte on a twelve-round decision on March 31 for the WBC featherweight title.",
+      "source": "https://en.wikipedia.org/wiki/1984_in_sports"
+    },
+    "deaths.gaye": {
+      "section": "deaths",
+      "label": "Marvin Gaye",
+      "value": "Died April 1. Born 1939",
+      "detail": "Singer, songwriter and musician. The music page says he was shot and killed in Los Angeles during an argument with his father.",
+      "date": "1984-04-01",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "deaths.basie": {
+      "section": "deaths",
+      "label": "Count Basie",
+      "value": "Died April 26. Born 1904",
+      "detail": "Pianist, organist, bandleader and composer.",
+      "date": "1984-04-26",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "deaths.capote": {
+      "section": "deaths",
+      "label": "Truman Capote",
+      "value": "Died August 25. Born 1924",
+      "detail": "Writer.",
+      "date": "1984-08-25",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "deaths.adams": {
+      "section": "deaths",
+      "label": "Ansel Adams",
+      "value": "Died April 22. Born 1902",
+      "detail": "Photographer and environmentalist.",
+      "date": "1984-04-22",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    },
+    "deaths.kaufman": {
+      "section": "deaths",
+      "label": "Andy Kaufman",
+      "value": "Died May 16. Born 1949",
+      "detail": "Entertainer and actor. The television page says his last television appearance was as host of The Top on January 26.",
+      "date": "1984-05-16",
+      "source": "https://en.wikipedia.org/wiki/1984_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1984. figures_basis is gross, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank!! Title !! Distributor !! Box-office gross, and the sentence introducing the table calls the entries the top ten films released this year by box office gross in North America, so header and introduction agree and there is no rentals gloss to write. The film page's own opening paragraph does quote a rentals figure for Beverly Hills Cop, but only for a total reached the year after this one, so it is left out. Date checks. The presidential election falls on November 6, which satisfies the constitutional rule that a federal election is held on the Tuesday after the first Monday in November: November 5 was a Monday. The year page and the US year page both give November 6, so no dedicated article was pulled as wikitext. There is no inauguration this year. The Academy Awards honouring this year of film are the 57th, and the film page's awards table and the ceremony's own page both date it to March 25 of the following year at the Dorothy Chandler Pavilion; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a token for the following year. The 56th Academy Awards of April 9, hosted by Johnny Carson, which honoured the previous year of film and gave Best Picture and Best Director to Terms of Endearment, is left out for the same reason 1982 leaves out the 54th: it would put a second Best Picture on the page. The 26th Grammy Awards of February 28 are kept, unlike the Grammys in 1982, because the fact claimed is the count of awards Michael Jackson won on the night rather than an album of the year, and music.grammys says in its detail that the ceremony honoured the previous year's recordings so that no reader takes Thriller for this year's record. Names that are nothing but a four-digit number. Three came up and all three are left out. The television page names Apple's Macintosh commercial of January 22 after the year, and tv.macintosh_ad describes the commercial without repeating the title. Van Halen's sixth studio album, released January 9 and given by the year page as debuting at number 2 on the Billboard 200 with over 10 million US copies eventually sold, carries the same name and is left out of the music section entirely. Capcom's arcade release of December carries a four-digit number for a wartime year. None of the three can be added to src/data/name_years.json, because that file's rules say a work titled only with a number is indistinguishable from a stray year, which is exactly what the anachronism check looks for. Two of the three would not in fact have tripped the check, since it only fires on a number later than the page's own year, but the allowlist rule is what decides whether a bare number may be written, not whether the check happens to catch it. Orwell's novel is spelled out in words on the pages that mention it and never came up as a fact. No radio fact, because the radio window closed after 1959, and no internet fact, because that window opens in 1993. The Nielsen ranking covers a season that began in the autumn of 1984 and ran into the following spring, which tv.top_shows states without naming a second year; the television page's phrase for The Burning Bed names the span with both years and tv.top_shows gives it as the season. Source disagreements labelled rather than resolved. The year page says the four youths on the Bronx train demanded five dollars from Bernhard Goetz and the US year page says they attempted to rob him, and culture.goetz carries both. The two pages give different sites for the first Papa John's on October 2, Jeffersontown in Kentucky on the year page and Jeffersonville in Indiana on the US year page, so it is left out rather than dated to a place. The year page describes Joe Kittinger's September 14 departure as an attempt to fly a gas balloon solo across the Atlantic and his September 18 arrival as the first solo crossing in a hot air balloon, so the texture says only balloon. The television page dates the Happy Days finale to May 8 and its endings table dates the series to September 24, and tv.endings names the mismatch. The year page calls the Barneveld tornado of June 8 an F5 and the US year page an F6, a rating that does not exist, so the tornado is left out. Month-only dates. pol.unemployment carries 1984-11 because the US year page gives the November figure with no day. Facts taking their value from one cached page and part of their detail from another: film.how_people_watched cites the film page for the PG-13 rating and the box office totals and takes the two network film premieres from the television page; film.world_cinema cites the ceremony page for the Foreign Language Film nominees and takes the festival prizes and the international market table from the film page and Heimat from the year page; tv.top_shows cites the ratings page and takes The Burning Bed from the television page; tv.cable_launches cites the television page and takes the Cable Music Channel's first video and its 34-day life from the music page; tv.vma cites the television page and takes Herbie Hancock's five awards and the Video of the Year from the music page; music.listening_format cites the music page for the Terre Haute plant and names the US year page's version of the Springsteen claim; sports.super_bowl cites the sports page for the score, venue, attendance and award and takes the date from the television page; sports.football_season cites the sports page and takes the Supreme Court ruling from the television page; tech.macintosh cites the year page for the launch and takes the home system sales and the PCjr from the video games page; deaths.gaye cites the US year page for the date and birth year and takes the circumstances from the music page; deaths.kaufman cites the US year page and takes the final television appearance from the television page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year; the music page and the film page give ages instead, and they are not used. Names are written in ASCII per the corpus convention, so Jerzy Popieluszko, Zoliborz, Milos Forman, Jose Luis Garci, Maria Luisa Bemberg, Krzysztof Zanussi, Marche a l'ombre, Georges J. F. Kohler, Cesar Milstein, Julio Maria Sanguinetti, Wilfredo Gomez and Roberto Duran lose their diacritics. Dropped for lack of a source that says enough, or because a figure or date reaches past this year: FIFA awarding Italy the hosting of a World Cup six years out, because the sports page states it only by naming that year; the snooker world rankings, which the sports page gives as a two-year label; the Central Missouri State double basketball title, whose sports page entry reaches forward two decades for its comparison; the return dates the television page gives for We Got It Made, Mama's Family and Hollywood Squares, all later than this year, so tv.endings gives start years only; Konstantin Chernenko's predecessor's date of death, which the year page states only as being late by February 13; the Severomorsk naval base explosion of May 13, which destroyed two thirds of the Northern Fleet's stockpiled missiles and hundreds of technicians with it, and the Abbeystead methane explosion of May 23 that killed 16, both cut for room; the Milperra shootout in Sydney of September 2 and the Kent and Dollar Farm massacres of November 30; the Golden Temple attack's death toll, which the year page does not give; the Hezbollah car bomb at the US Embassy annex in Beirut on September 20 that killed 24, and the kidnapping of the CIA station chief William Francis Buckley on March 16, both cut for room; the Iran and Iraq chemical weapons accusation of March 5 and the United Nations condemnation of March 30; the Bus 300 hijacking of April 12; the Sicilian arrests of 366 suspected Cosa Nostra members on September 29; the McMartin Preschool charges of March 22, which the US year page says were later dropped as unfounded; the Gary Plauche shooting of March 16, which a news crew filmed; the Ricky Kasso murder, dated June 19 on the year page and June 16 on the US year page and left out for that reason as well as for room; Vanessa L. Williams resigning as Miss America on July 23; the Tulsa flash flood of May 27 that killed fourteen; the Morgan Hill earthquake of April 24; the Controlled Impact Demonstration of December 1; Robert Jay Mathews killed in an FBI siege on Whidbey Island on December 8; the Marines leaving Beirut on February 26; the Diretas Ja demonstration of April 16 in Sao Paulo, the largest in Brazilian history; Sao Paulo's million marchers and the Manila half million of August 21; the assassination of Cesar Climaco on November 14; the Chrysler minivans, which the year page dates only to the year and which would have made a sixth tech fact; the Monterey Bay Aquarium opening of October 20; TED's founding on February 23; the first Hackers Conference of November 9 to 11; Thomas the Tank Engine's first two episodes in the United Kingdom on October 9; Advance Australia Fair becoming Australia's anthem on April 19, the Australian one-dollar coin of May 14 and the bank deregulation of August 1, all cut when the fourth texture paragraph was trimmed. Deaths that would have earned a place with more room: Ray Kroc on January 14, Ethel Merman on February 15, Johnny Weissmuller on January 20, Jackie Wilson on January 21, William Powell on March 5, Jackie Coogan on March 1, Lillian Hellman on June 30, Big Mama Thornton on July 25, Ernest Tubb on September 6, Janet Gaynor on September 14, Martin Luther King Sr. on November 11, Peter Lawford on December 24, Sam Peckinpah on December 28, Jon-Erik Hexum on October 18 whose accident is in the texture, and Velma Barfield on November 2 whose execution is in the texture. This file runs 52 facts across 10 sections: politics 5, world 7, film 7, tv 6, music 6, tech 5, prices 2, culture 4, sports 5, deaths 5. No section exceeds 7. The two Olympic Games of the year are one fact rather than two, because the sports page groups them under a single heading and splitting them would have pushed sports over the per-section guidance while saying nothing more. Review pass restored three names this file had left out over the anachronism check, none of which the check would have rejected: it fires only on a year later than the page year, and 1984 on a 1984 page is not later than itself. The Macintosh advertisement is named in tv.macintosh_ad's detail, Capcom's 1942 is back in tech.games, and Van Halen's album of the same name is now music.van_halen. The 1983 file faced the same advertisement and was right to leave it out, because 1984 is later than 1983."
+}

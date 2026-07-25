@@ -1,0 +1,505 @@
+{
+  "year": 1989,
+  "tier": "broadcast",
+  "headline": "The Berlin Wall opened in November, the army cleared Tiananmen Square in June, and the Exxon Valdez ran aground",
+  "texture": [
+    "Hungary pulled down 240 kilometres of barbed wire along its Austrian border on May 2 and opened the crossing to East German refugees on September 10. Nearly 7,000 East Germans who had reached Prague were let out on special refugee trains on September 30. Two million Estonians, Latvians and Lithuanians joined hands on August 23 in a 600-kilometre chain across the Baltic republics. Leipzig went from 50,000 marchers on October 9 to half a million on October 31, and half a million filled Alexanderplatz in East Berlin on November 4. Poland's president signed the Balcerowicz Plan on December 31.",
+    "Ninety-four Liverpool supporters were crushed at Hillsborough Stadium in Sheffield on April 15, with three more dying later. A gun turret exploded on the battleship Iowa on April 19 and killed 47 of the crew. A tornado in the Dhaka Division of Bangladesh killed an estimated 1,300 people on April 26. Sparks from two passing trains lit leaking gas near Ufa on June 4 and killed 575. United Airlines Flight 232 came down at Sioux City on July 19, killing 112 while 184 on board survived. The Loma Prieta earthquake killed 63 around San Francisco Bay on October 17. Marc Lepine murdered fourteen women at the Ecole Polytechnique in Montreal on December 6.",
+    "Tony Coelho resigned as House majority whip on May 26 rather than face an inquiry into his finances. Leona Helmsley got four years and a $7.2 million fine for tax evasion on December 12. A jury in Charlotte convicted Jim Bakker of fraud and conspiracy on October 5, and he was sentenced to 45 years and fined $500,000 on October 24. Oliver North was convicted on May 4 and fined $150,000 on July 5 with a suspended sentence. A federal grand jury indicted the Cornell student Robert Tappan Morris on July 26 for releasing a computer virus. The Guildford Four walked free in Britain on October 19 after fourteen years.",
+    "Iceland ended 74 years of beer prohibition on March 1, a day kept since as bjordagur. Denmark let same-sex couples register a civil union from October 1, under a law enacted on June 7 that the year page calls the first of its kind anywhere. Lexus and Infiniti were unveiled at the North American International Auto Show in Detroit on January 11. Nathan's Famous opened a hot dog stand in Moscow in October and an Estee Lauder counter followed there on November 16. The last golden toad was seen in Costa Rica on May 15. The Nikkei 225 touched 38,957.44 on December 29."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.berlin_wall",
+    "world.tiananmen",
+    "film.gross#0",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "tech.games",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "George H. W. Bush (R)",
+      "detail": "First year in office, from January 20. Ronald Reagan held the office until that morning and gave his farewell address to the nation on January 11. Dan Quayle was Vice President, William Rehnquist was Chief Justice, and George J. Mitchell replaced Robert Byrd as Senate majority leader on January 3. The 100th Congress sat until January 3 and the 101st afterwards. Bush gave his first address to the 101st Congress on February 9, and the Senate rejected his nomination of John Tower as Secretary of Defense by 53 votes to 47 on March 9, after which Dick Cheney was sworn in on March 20.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "Bush inaugurated",
+      "value": "Sworn in as the 41st president of the United States, with Dan Quayle sworn in as the 44th vice president",
+      "detail": "The date satisfies the constitutional rule that a presidential term begins on January 20, and both cached year pages give that day. Neither carries anything else, so this fact cites the dedicated article, which was pulled as raw wikitext and is the only source in this file from outside the cache. It gives Friday, January 20 at the West Front of the United States Capitol, calls it the 51st inauguration, and names Chief Justice William Rehnquist as administering the presidential oath and Justice Sandra Day O'Connor the vice presidential oath.",
+      "date": "1989-01-20",
+      "source": "https://en.wikipedia.org/wiki/Inauguration_of_George_H._W._Bush"
+    },
+    "pol.speaker": {
+      "section": "politics",
+      "label": "Speaker of the House resigns",
+      "value": "Jim Wright announced his resignation on May 31, and the House elected Tom Foley to replace him on June 6",
+      "detail": "The House Committee on Standards of Official Conduct had charged Wright on April 17 with improperly evading limits on outside income and accepting improper gifts.",
+      "date": "1989-05-31",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "pol.savings_and_loan": {
+      "section": "politics",
+      "label": "Savings and loan rescue signed",
+      "value": "Bush signed the Financial Institutions Reform, Recovery, and Enforcement Act, which Congress had passed on August 5",
+      "detail": "The US year page calls it a $166 billion bailout of failed savings and loans and an overhaul of the industry's regulation, and the year page calls it the largest federal rescue to date. The government had seized the Lincoln Savings and Loan Association in California on April 14, for which Charles Keating eventually went to jail. The two cached pages disagree twice on that seizure: the town is Irvine on the year page and Irving on the US year page, and the eventual cost of the crisis to taxpayers is nearly $200,000,000 on the year page and nearly $200 billion on the US year page, so no figure for it is stated here.",
+      "date": "1989-08-09",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "pol.minimum_wage": {
+      "section": "politics",
+      "label": "Minimum wage raised",
+      "value": "Congress passed legislation to raise the federal minimum wage from $3.35 to $4.25 an hour in stages, and Bush signed it on November 17",
+      "detail": "He had vetoed an earlier bill on June 13, passed by Congress on May 17, that would have taken the rate to $4.55. The rate in force through this year stayed at $3.35. The US year page gives a date for the end of the phase-in that falls in a later year, so it is left out.",
+      "date": "1989-11-08",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "pol.panama": {
+      "section": "politics",
+      "label": "United States invades Panama",
+      "value": "Operation Just Cause was launched to overthrow the Panamanian leader Manuel Noriega",
+      "detail": "Noriega had declared void the result of the May 7 presidential election, which the year page says he lost to Guillermo Endara, and Bush had ordered 1,900 troops to Panama on May 11 to protect Americans there. A coup attempt against Noriega was foiled on October 3.",
+      "date": "1989-12-20",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.berlin_wall": {
+      "section": "world",
+      "label": "The Berlin Wall opens",
+      "value": "East Germany opened checkpoints in the wall late in the evening, after Gunter Schabowski told a live broadcast press conference that new rules for travelling to West Germany would take effect immediately",
+      "detail": "The year page says East Germans could travel freely to the West for the first time in decades and that visas were issued to around 25 percent of the population in the first week. The dedicated article was pulled as raw wikitext and agrees on November 9, dating the press conference from 18:53 to 19:01 Central European Time. The border with Czechoslovakia had been reopened on November 1, the government under Willi Stoph resigned on November 7, and the Brandenburg Gate was reopened on December 22.",
+      "date": "1989-11-09",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.tiananmen": {
+      "section": "world",
+      "label": "Tiananmen Square crackdown",
+      "value": "A violent military crackdown broke up the pro-democracy protests in Beijing",
+      "detail": "Students from Beijing, Shanghai, Xi'an and Nanjing had begun protesting on April 21 after the death of Hu Yaobang on April 15. More than a million people marched through Beijing on May 17, Zhao Ziyang met the demonstrators on May 19, the government declared martial law on May 20, and a ten-metre Goddess of Democracy statue was unveiled in the square on May 29. On June 5 an unidentified protester stood in front of a column of tanks on Chang'an Avenue. The year page dates the crackdown to June 4 alone, while the dedicated article, pulled as raw wikitext, dates the massacre to June 3 and 4 and says the protests were suppressed by force between those two days. Jiang Zemin became General Secretary of the Chinese Communist Party on June 24.",
+      "date": "1989-06-04",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.eastern_europe": {
+      "section": "world",
+      "label": "Communist governments give way",
+      "value": [
+        "Poland, Solidarity legalised again on April 17 and Tadeusz Mazowiecki elected prime minister on August 24, the first non-Communist in power in 42 years",
+        "Hungary, the National Assembly votes to restore multi-party democracy on October 18 and the Hungarian Republic is declared on October 23",
+        "Bulgaria, Todor Zhivkov replaced by Petar Mladenov on November 10 after 45 years of Communist rule",
+        "Czechoslovakia, riot police beat back a student demonstration in Prague on November 17 and Vaclav Havel is elected president on December 29",
+        "Romania, Ion Iliescu takes over on December 22 after Nicolae Ceausescu flees his palace by helicopter"
+      ],
+      "detail": "The Polish government and Solidarity had signed the Round Table agreement on April 5, and Solidarity won the first round of the June 4 election. Half a million protesters filled Prague on November 20 and the Communist Party of Czechoslovakia gave up its monopoly on political power on November 28, with Alexander Dubcek elected chairman of the Federal Assembly on December 28. Nicolae and Elena Ceausescu were captured at Targoviste on December 23 and summarily tried and executed outside Bucharest on December 25. Lithuania became the first Soviet republic to abolish the Communist Party's monopoly on power, on December 7. Lech Walesa addressed a joint session of the United States Congress on November 15.",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.soviet_afghanistan": {
+      "section": "world",
+      "label": "Soviet troops leave Afghanistan",
+      "value": "The Soviet Union announced that all of its troops had left the country",
+      "detail": "The last Soviet armoured column had left Kabul on February 2, which the year page says ended nine years of military occupation. The United States embassy in Kabul was closed on January 30. Cuban troops began withdrawing from Angola on January 10 under United Nations Security Council Resolution 626 and the New York Accords, and Vietnam announced on September 26 that it had withdrawn the last of its troops from Cambodia.",
+      "date": "1989-02-15",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.hirohito": {
+      "section": "world",
+      "label": "Emperor Hirohito dies",
+      "value": "His son Akihito ascended as the 125th Emperor of Japan, and the era name changed from Showa to Heisei the following day",
+      "detail": "The state funeral in Tokyo on February 24 was attended by leaders and representatives of 160 nations.",
+      "date": "1989-01-07",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.rushdie_fatwa": {
+      "section": "world",
+      "label": "Fatwa against Salman Rushdie",
+      "value": "Ayatollah Ruhollah Khomeini, the Supreme Leader of Iran, issued a fatwa calling for the death of the author of The Satanic Verses and of his publishers",
+      "detail": "Iran placed a $3,000,000 bounty on Rushdie on February 24 and broke off diplomatic relations with the United Kingdom over the novel on March 7. Khomeini died in Tehran at the age of 89, and Ali Khamenei was elected Supreme Leader on June 3 after announcing the death the day before. Eight people were killed and hundreds injured in a crush at the viewing of the body at the Musalla in Tehran on June 5, and the first funeral on June 6 was abandoned after the crowd stormed the procession.",
+      "date": "1989-02-14",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.south_africa": {
+      "section": "world",
+      "label": "De Klerk replaces Botha",
+      "value": "P. W. Botha resigned as State President on August 15 and F. W. de Klerk was sworn in as the seventh and last holder of the office",
+      "detail": "Botha had resigned as leader of the National Party on February 3 after a stroke, and met the imprisoned 70-year-old Nelson Mandela face to face for the first time on July 5. The September 6 general election, the last held under apartheid, returned the National Party. Walter Sisulu was released from prison on October 15. South African police raided Winnie Mandela's home on February 17 and arrested four of her bodyguards.",
+      "date": "1989-09-20",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "world.exxon_valdez": {
+      "section": "world",
+      "label": "Exxon Valdez oil spill",
+      "value": "The tanker ran aground in Prince William Sound, Alaska, and spilled 240,000 barrels of oil",
+      "detail": "Both cached year pages carry the same date and the same figure and give no cost. Three shipping accidents in a twelve-hour period on June 23 and 24 caused further oil spills in Rhode Island, Delaware and Texas, which the US year page carries without a volume.",
+      "date": "1989-03-24",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, worldwide",
+      "value": [
+        "Indiana Jones and the Last Crusade, $474,171,806, Paramount",
+        "Batman, $411,569,241, Warner Bros.",
+        "Back to the Future Part II, $332,950,002, Universal",
+        "Look Who's Talking, $297,999,813, Tri-Star",
+        "Dead Poets Society, $235,860,116, Touchstone"
+      ],
+      "detail": "Worldwide box-office gross rather than domestic rentals. The table's column header reads Rank, Title, Distributor, Worldwide gross, and the sentence above it calls the entries the top ten films released this year by worldwide gross, so header and text agree. Lethal Weapon 2 was sixth at $227,853,986 for Warner Bros., Honey, I Shrunk the Kids seventh at $222,724,172 and The Little Mermaid ninth at $184,155,863, both Walt Disney Pictures, Ghostbusters II eighth at $215,394,738 for Columbia, and Born on the Fourth of July tenth at $162,001,698 for Universal. An editors' note inside the table's wikitext says The Little Mermaid figure covers the initial theatrical run rather than lifetime gross, and splits it into $84,355,863 in the United States and Canada and $99.8 million overseas. A hidden comment on the same page warns that this list does not match the figures on the decade article.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Driving Miss Daisy, produced by Richard D. Zanuck and Lili Fini Zanuck",
+      "detail": "Awarded the following spring at the 62nd Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and hosted by Billy Crystal for the first time. It took four awards from nine nominations, the most of either kind, and the ceremony page says it became the third film to win Best Picture without a Best Director nomination. Oliver Stone won Best Director for Born on the Fourth of July, which had eight nominations. Glory won three awards, and Born on the Fourth of July, The Little Mermaid and My Left Foot two each. The other Best Picture nominees were Born on the Fourth of July, Dead Poets Society, Field of Dreams and My Left Foot. The telecast on ABC drew 40.24 million viewers for a 27.82 Nielsen share, and ran three hours and 37 minutes.",
+      "source": "https://en.wikipedia.org/wiki/62nd_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Daniel Day-Lewis, My Left Foot",
+        "Best Actress, Jessica Tandy, Driving Miss Daisy",
+        "Best Supporting Actor, Denzel Washington, Glory",
+        "Best Supporting Actress, Brenda Fricker, My Left Foot"
+      ],
+      "detail": "The ceremony page says Tandy, at 80, became the oldest Best Actress winner, and that Kenneth Branagh was the fifth person nominated for both lead actor and director for the same film, Henry V. Tom Cruise was nominated for Born on the Fourth of July, Morgan Freeman for Driving Miss Daisy and Robin Williams for Dead Poets Society. Michelle Pfeiffer was nominated for The Fabulous Baker Boys and Jessica Lange for Music Box. Tom Schulman took original screenplay for Dead Poets Society and Alfred Uhry adapted screenplay for Driving Miss Daisy, from his own play. The film page's awards table gives the Golden Globe for drama to Born on the Fourth of July and for comedy or musical to Driving Miss Daisy, and the BAFTA award for Best Film to Dead Poets Society and Best Director to Branagh.",
+      "source": "https://en.wikipedia.org/wiki/62nd_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Cinema Paradiso, Italy, directed by Giuseppe Tornatore, winner of the Academy Award for Best Foreign Language Film",
+        "Camille Claudel, France, directed by Bruno Nuytten",
+        "Jesus of Montreal, Canada, directed by Denys Arcand",
+        "Waltzing Regitze, Denmark, directed by Kaspar Rostrup",
+        "What Happened to Santiago, Puerto Rico, directed by Jacobo Morales"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the ceremony page states each film's country and director. Isabelle Adjani was nominated for Best Actress for Camille Claudel and Pauline Collins for Shirley Valentine. Kenneth Branagh's Henry V won one award, for costume design. The BAFTA award for best foreign language film went to Life and Nothing But, by the film page's awards table. None of the cached pages carries the Cannes, Venice or Berlin prizes for the year, so no festival winner is named here.",
+      "source": "https://en.wikipedia.org/wiki/62nd_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Indiana Jones and the Last Crusade, May 24, Paramount, the third film in the series",
+        "Licence to Kill, June 13, a James Bond film",
+        "Batman, June 23, Warner Bros., which the film page says established the public and critical attention of Tim Burton",
+        "Honey, I Shrunk the Kids, June 23, the directorial debut of the visual effects supervisor Joe Johnston",
+        "Lethal Weapon 2, July 7, the highest-grossing R-rated film of the year at the domestic box office",
+        "The Little Mermaid, November 17, Walt Disney Feature Animation's 28th feature",
+        "Back to the Future Part II, November 22, Universal"
+      ],
+      "detail": "Sony announced on September 28 that it intended to buy Columbia Pictures and Tri-Star Pictures, and completed the deal in November for nearly $5 billion, appointing Peter Guber and Jon Peters as co-chairmen in a further deal costing up to $1 billion after settling a lawsuit with Warner Bros. Time Inc. and Warner Communications announced plans to merge as Time Warner on March 4. Andrew G. Vajna agreed on November 7 to sell his stake in Carolco Pictures to Mario Kassar for $106 million. A director's cut of Lawrence of Arabia was released at 227 minutes, restored by Robert A. Harris under David Lean's supervision. Ron Howard's Parenthood was released by Universal on August 2. Kim Basinger and her brother Mick bought the town of Braselton, Georgia for $20 million.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and at home in versions cut to fit the medium. The television version of Scarface premiered on ABC on January 7 with 32 minutes of violence, profanity and sex edited out and much of the dialogue muted or replaced with milder alternatives.",
+      "detail": "Universal put a 93-minute cut of Brazil into its syndicated Debut Network film package on January 8, against a theatrical version of 142 minutes, and the television page says Terry Gilliam had refused to make an edited-for-television cut and objected to the advertising reusing praise written for his own version. Return of the Jedi had its network broadcast premiere on NBC on March 19. The average ticket price was $3.99. None of the cached pages says anything about tape rental or laser disc, so this fact claims nothing about either.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$3.99",
+      "detail": "NATO member survey.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1989",
+      "value": [
+        "The Cosby Show, NBC, 23.1 rating",
+        "Roseanne, ABC, 23.1",
+        "Cheers, NBC, 22.7",
+        "A Different World, NBC, 21.1",
+        "America's Funniest Home Videos, ABC, 20.9"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. The Cosby Show and Roseanne tied for first. The Golden Girls was sixth on 20.1 for NBC, 60 Minutes seventh on 19.7 for CBS, The Wonder Years eighth on 19.2 for ABC, Empty Nest ninth on 18.9 for NBC and Monday Night Football tenth on 18.1 for ABC. The Simpsons tied for 28th on 14.5 with Night Court and Doogie Howser, M.D.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1989%E2%80%9390"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "The Arsenio Hall Show, syndication, January 3",
+        "Inside Edition, syndication, January 9",
+        "COPS, Fox, March 11",
+        "Quantum Leap, NBC, March 26",
+        "Tales from the Crypt, HBO, June 10",
+        "Seinfeld, NBC, July 5",
+        "Saved by the Bell, NBC, August 20",
+        "Life Goes On, ABC, September 12",
+        "Doogie Howser, M.D., ABC, September 20",
+        "Baywatch, NBC, September 22",
+        "Family Matters, ABC, September 22",
+        "America's Funniest Home Videos, ABC, November 26"
+      ],
+      "detail": "The television page's premiere table gives each date and network, and its events table calls the July 5 Seinfeld broadcast the pilot episode. ABC started its TGIF block on September 22, two hours of Friday night sitcoms running Full House, Family Matters, Perfect Strangers and Just the Ten of Us with hosts between them. Jaleel White first appeared as Steve Urkel on Family Matters on December 15. Brooke Shields, Luther Vandross and Leslie Nielsen were the guests on Arsenio Hall's first show, and Mike Myers joined the cast of Saturday Night Live on January 21.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_American_television"
+    },
+    "tv.simpsons": {
+      "section": "tv",
+      "label": "The Simpsons premieres",
+      "value": "Fox broadcast the series premiere, Simpsons Roasting on an Open Fire, which also served as a Christmas special",
+      "detail": "The series was a spin-off of animated sketches that had run inside The Tracey Ullman Show, and the television page calls it Fox's first entry in the Nielsen top 30. The US year page gives the same date and episode title.",
+      "date": "1989-12-17",
+      "source": "https://en.wikipedia.org/wiki/1989_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "American Bandstand, October 7, having started in 1952",
+        "Dynasty, May 11, having started in 1981",
+        "Family Ties, May 14, having started in 1982",
+        "Moonlighting, May 14, having started in 1985",
+        "Miami Vice, May 21, having started in 1984",
+        "Kate & Allie, May 22, having started in 1984",
+        "Highway to Heaven, August 4, having started in 1984"
+      ],
+      "detail": "The television page's endings table gives each date and start year. Ryan's Hope ended on January 13 after starting in 1975, Simon & Simon on January 21 after 1981 and Webster on March 9 after 1983. The Equalizer ended on August 24, ThunderCats on September 29 and Major League Baseball on NBC on October 9, the last having started in 1947. Webster's final episode sent the title character aboard the Enterprise from Star Trek: The Next Generation, with Michael Dorn guest starring as Worf.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_American_television"
+    },
+    "tv.hdtv": {
+      "section": "tv",
+      "label": "First high-definition broadcasts",
+      "value": "The world's first high-definition television test broadcasts began in Japan",
+      "detail": "The year page carries the line and nothing further. Eurosport, a multiple-language sports station for Europe, had begun broadcasting on February 5, and Indonesia's first commercial network, RCTI, started on August 24. The television page's launch table adds the Comedy Channel on cable on November 15 and the All News Channel on satellite on November 30.",
+      "date": "1989-06-03",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Look Away, Chicago",
+        "My Prerogative, Bobby Brown",
+        "Every Rose Has Its Thorn, Poison",
+        "Straight Up, Paula Abdul",
+        "Miss You Much, Janet Jackson"
+      ],
+      "detail": "From the year in music edition of Billboard dated December 23. Paula Abdul took fourth and sixth with two songs from her debut album Forever Your Girl, whose title track charted at 30. Bobby Brown had five songs on the chart, more than anyone, and Milli Vanilli four inside the top 30, tied with New Kids on the Block. Bette Midler was seventh with Wind Beneath My Wings, Milli Vanilli eighth with Girl You Know It's True, Will to Power ninth with the Baby, I Love Your Way and Freebird medley and Anita Baker tenth with Giving You the Best That I Got. Three Madonna songs from Like a Prayer appear on the chart.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1989"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "Music video on cable went to a weekday schedule. The weekday version of Yo! MTV Raps, hosted by Ed Lover and Doctor Dre, debuted on March 13.",
+      "detail": "No cached page carries any claim about records, tapes or compact discs for this year, so this fact makes none. What the pages do carry is what happened when a record could not be bought where a listener lived: Paul McCartney released an album exclusively in the Soviet Union on January 14, and the music page says bootleg copies sold for as much as $1,000 in the United States. The year page says N.W.A were the first gangsta rap group to sell 1,000,000 copies of an album, with their debut Straight Outta Compton, and gives no date for it.",
+      "date": "1989-03-13",
+      "source": "https://en.wikipedia.org/wiki/1989_in_American_television"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Yugoslavia won the 34th contest, held at the Palais de Beaulieu in Lausanne, with Rock Me, performed by the band Riva",
+      "detail": "The music page calls it the first win by a Balkan country and the only win for Yugoslavia as a unified state. The 18th OTI Festival, held at the theater of the James L. Knight Center in Miami on November 18, was won by Una cancion no es suficiente, written by Jesus Monarrez and performed by Anali for Mexico.",
+      "date": "1989-05-06",
+      "source": "https://en.wikipedia.org/wiki/1989_in_music"
+    },
+    "music.madonna_pepsi": {
+      "section": "music",
+      "label": "Pepsi drops Madonna",
+      "value": "The Like a Prayer video was criticised for its use of Catholic iconography and burning crosses, and Pepsi dropped her as a spokesperson for fear religious groups would boycott the company",
+      "detail": "The music page says the video was taped in late December of the previous year, and praises its treatment of discrimination, rape and faith alongside the criticism. The Pepsi advertisement built on the song had aired on March 2 during NBC's showing of The Cosby Show, and on ITV in Britain twelve minutes into The Bill. Madonna simulated masturbation in a black bustier and baggy black sweatpants at the MTV Video Music Awards on September 9.",
+      "date": "1989-03-21",
+      "source": "https://en.wikipedia.org/wiki/1989_in_music"
+    },
+    "music.moscow_festival": {
+      "section": "music",
+      "label": "Moscow Music Peace Festival",
+      "value": "Held in the Soviet Union over two days, with Bon Jovi, Ozzy Osbourne, Motley Crue, Skid Row, Cinderella and the Scorpions among the headliners",
+      "detail": "The music page says Doc McGhee and the Make-A-Wish Foundation put the event together. The Rolling Stones opened their Steel Wheels North American tour in Philadelphia on August 31. All four original members of The Monkees reunited at the Universal Amphitheatre in Los Angeles on July 9 and received a star on the Hollywood Walk of Fame the next day, and the Bee Gees played in the United States for the first time in ten years on July 29.",
+      "date": "1989-08-11",
+      "source": "https://en.wikipedia.org/wiki/1989_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Game Boy, Nintendo, first released in Japan on April 21 and in North America on July 31",
+        "Super Mario Land, Nintendo, April 21, on the Game Boy, introducing Princess Daisy",
+        "Sega Genesis, the Mega Drive released in North America under that name on August 14",
+        "TurboGrafx-16, NEC's PC Engine released in North America on August 29",
+        "SimCity, Maxis, October 3, Will Wright's first Sim game",
+        "Prince of Persia, Broderbund, October 3, written for the declining Apple II",
+        "Atari Lynx, October 11, a handheld with colour and backlighting"
+      ],
+      "detail": "The games page puts first-year Game Boy sales at 2,500,000 worldwide, 1,480,000 in Japan and 1,000,000 in the United States, second to the Nintendo Entertainment System, which sold 10,920,000 or more and was the best-selling home system for the sixth year running. The two release dates for the Game Boy come from the year page and the US year page, since the games page dates it only to the year. The highest-grossing arcade games were Namco's Final Lap and Sega's Tetris in Japan, and Double Dragon, Super Off Road and Hard Drivin' in the United States. Tetris shipped with the Game Boy, and Tengen's unlicensed version was recalled after Nintendo sued. Bullfrog released Populous on June 5, which the page calls one of the first commercially successful god games. Nintendo marked its 100th anniversary on September 23, and Pepsi gave away over 4,000 Game Boys in an under-the-cap contest.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_video_games"
+    },
+    "tech.web_proposal": {
+      "section": "tech",
+      "label": "Proposal document for the World Wide Web",
+      "value": "Tim Berners-Lee produced it, and the year page calls it the blueprint for the World Wide Web",
+      "detail": "This was a paper written inside one laboratory. No cached page describes anyone outside CERN using anything built from it this year, and none carries a name for the document or a reader for it.",
+      "date": "1989-03-12",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "tech.gps": {
+      "section": "tech",
+      "label": "First GPS satellite in orbit",
+      "value": "The first of 24 Global Positioning System satellites was placed into orbit",
+      "detail": "Both cached year pages carry the same line and neither names a launch vehicle or an operator.",
+      "date": "1989-02-14",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "tech.microtac": {
+      "section": "tech",
+      "label": "Motorola MicroTAC",
+      "value": "Motorola introduced the personal cellular telephone, which the year page calls the world's smallest mobile phone at this time",
+      "date": "1989-04-25",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "tech.voyager": {
+      "section": "tech",
+      "label": "Voyager 2 reaches Neptune",
+      "value": "The probe made its closest approach to Neptune and to its largest moon, Triton",
+      "detail": "NASA launched the uncrewed Galileo orbiter towards Jupiter on October 18 on mission STS-34, by way of Venus. The asteroid 4769 Castalia became the first directly imaged by radar, from the Arecibo Observatory, on August 9, and the Solar Maximum Mission satellite, launched in 1980, fell back into the atmosphere on December 2.",
+      "date": "1989-08-25",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.02 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1981, and the increase Congress passed in November takes effect later.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Berlin got the crowd that won and Beijing the crowd that lost, and both arrived by television within six months of each other. The money news at home was savings and loans collapsing and a hotelier sentenced for tax evasion. The newest thing to carry in a pocket was a grey games machine with a green screen."
+    },
+    "culture.flag_burning": {
+      "section": "culture",
+      "label": "Flag burning ruled protected speech",
+      "value": "In Texas v. Johnson the Supreme Court held that burning the flag of the United States is protected speech under the First Amendment, and Congress replied with the Flag Protection Act, which Bush allowed to become law without his signature on October 28",
+      "detail": "The year page says the Act drew mass protests in Seattle and New York City as it took effect, and that Shawn Eichman, Dave Blalock, Dread Scott and Joey Johnson burned American flags on the steps of the Capitol on October 30 against it. Congress passed the Act on October 12 by the US year page's account.",
+      "date": "1989-06-21",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "culture.mapplethorpe": {
+      "section": "culture",
+      "label": "Corcoran cancels Mapplethorpe",
+      "value": "The Corcoran Gallery of Art in Washington cancelled the photography exhibition Robert Mapplethorpe: The Perfect Moment over its sexually explicit content",
+      "detail": "Mapplethorpe had died on March 9. The US year page cites a Washington Post report of 900 people gathering at the museum in support of the show.",
+      "date": "1989-06-12",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, Camilo Jose Cela",
+        "Peace, Tenzin Gyatso, the 14th Dalai Lama",
+        "Physics, Norman Foster Ramsey Jr., Hans Georg Dehmelt and Wolfgang Paul",
+        "Chemistry, Sidney Altman and Thomas Cech",
+        "Medicine, J. Michael Bishop and Harold E. Varmus",
+        "Economics, Trygve Haavelmo"
+      ],
+      "detail": "The year page dates the Dalai Lama's Peace Prize to October 5 and gives no date for the others.",
+      "source": "https://en.wikipedia.org/wiki/1989"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Oakland Athletics beat the San Francisco Giants four games to none",
+      "detail": "The sports page names the pitcher Dave Stewart as series most valuable player and says the series was delayed by the Loma Prieta earthquake, which the year page says postponed it for ten days. The US year page dates the clinching win to October 28. Nolan Ryan became the first pitcher in major league history to reach 5,000 strikeouts on August 22. Jim Abbott, a one-handed pitcher, made his major-league debut for the California Angels on April 8 without a day in the minors and finished the season at 12 and 12. Dave Dravecky returned on August 10 ten months after surgery for cancer in his pitching arm, won 4 to 3, and broke the arm in the sixth inning of his next start on August 15. Bill White became president of the National League on April 1, the first African American to head a major sports league.",
+      "date": "1989-10-28",
+      "source": "https://en.wikipedia.org/wiki/1989_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XXIII",
+      "value": "The San Francisco 49ers beat the Cincinnati Bengals 20 to 16 at Joe Robbie Stadium in front of 75,129, with the receiver Jerry Rice named most valuable player",
+      "detail": "The US year page gives the date and the result and neither the score nor the attendance, and the television page says NBC carried the game from Miami. Notre Dame beat West Virginia 34 to 21 in the Fiesta Bowl on January 2 to take the college national championship for the previous season. Pete Rozelle, commissioner since 1960, announced on March 22 that he would step down, and the owners elected Paul Tagliabue on October 26. Joe Montana was Associated Press Male Athlete of the Year.",
+      "date": "1989-01-22",
+      "source": "https://en.wikipedia.org/wiki/1989_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Calgary Flames over the Montreal Canadiens, four games to two",
+        "NBA Finals, Detroit Pistons over the Los Angeles Lakers, four games to none, the franchise's first championship",
+        "NCAA basketball, Michigan 80, Seton Hall 79 in overtime",
+        "Grey Cup, Saskatchewan Roughriders 43, Hamilton Tiger-Cats 40",
+        "World Snooker Championship, Steve Davis over John Parrott, 18 to 3",
+        "VFL premiership, Hawthorn 21.18 (144), Geelong 21.12 (138)"
+      ],
+      "detail": "The sports page calls the Calgary win the only time a visiting team took the cup at the Montreal Forum against the Canadiens, and the year page dates the clinching game to May 25. Greg LeMond won both the Tour de France and the world road race, and Laurent Fignon the Giro d'Italia. Nick Faldo took the Masters, Curtis Strange the US Open, Mark Calcavecchia the British Open and Payne Stewart the PGA Championship, with Tom Kite leading the money list at $1,395,278, and the Ryder Cup finished tied at 14 each. France won the 95th Five Nations Championship. Desert Orchid won the Cheltenham Gold Cup, Little Polveir the Grand National, and Sunday Silence the Kentucky Derby, the Preakness and the Breeders' Cup Classic. Steffi Graf won three of the four tennis majors and was Associated Press Female Athlete of the Year, Boris Becker took Wimbledon and the US Open among the men, and Michael Chang the French Open.",
+      "source": "https://en.wikipedia.org/wiki/1989_in_sports"
+    },
+    "sports.pete_rose": {
+      "section": "sports",
+      "label": "Pete Rose banned for life",
+      "value": "He agreed to a lifetime ban from baseball after an investigation into gambling on the game",
+      "detail": "The US year page says the ban prevented his induction into the Baseball Hall of Fame. The commissioner of baseball, A. Bartlett Giamatti, died of a heart attack eight days later on September 1, and club owners elected Fay Vincent to succeed him on September 13.",
+      "date": "1989-08-24",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "sports.gretzky": {
+      "section": "sports",
+      "label": "Gretzky becomes hockey's leading scorer",
+      "value": "Wayne Gretzky became the leading scorer in the history of the National Hockey League",
+      "detail": "The US year page carries the line and no point total. The sports page gives Gretzky the Hart Memorial Trophy as the league's most valuable player with the Los Angeles Kings, and Mario Lemieux of the Pittsburgh Penguins the Art Ross Trophy as leading scorer over the regular season, and names Gretzky Associated Press Male Athlete of the Decade. On March 22 the Buffalo Sabres goaltender Clint Malarchuk had his jugular vein cut by another player's skate and needed 300 stitches, closed by the trainer Jim Pizzutelli.",
+      "date": "1989-10-15",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "deaths.ball": {
+      "section": "deaths",
+      "label": "Lucille Ball",
+      "value": "Died April 26. Born 1911",
+      "detail": "Film and television comedy actress and model.",
+      "date": "1989-04-26",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "deaths.davis": {
+      "section": "deaths",
+      "label": "Bette Davis",
+      "value": "Died October 6. Born 1908",
+      "detail": "Screen actress.",
+      "date": "1989-10-06",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "deaths.berlin": {
+      "section": "deaths",
+      "label": "Irving Berlin",
+      "value": "Died September 22. Born 1888",
+      "detail": "Composer and lyricist.",
+      "date": "1989-09-22",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "deaths.blanc": {
+      "section": "deaths",
+      "label": "Mel Blanc",
+      "value": "Died July 10. Born 1908",
+      "detail": "Voice actor, actor, radio comedian and recording artist.",
+      "date": "1989-07-10",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    },
+    "deaths.radner": {
+      "section": "deaths",
+      "label": "Gilda Radner",
+      "value": "Died May 20. Born 1946",
+      "detail": "Actress and comedian.",
+      "date": "1989-05-20",
+      "source": "https://en.wikipedia.org/wiki/1989_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1989. figures_basis is gross, checked with bo.mjs rather than assumed from the era, and this year's table is worldwide rather than domestic: the column header reads Rank, Title, Distributor, Worldwide gross, and the sentence directly above it calls the entries the top ten films released in 1989 by worldwide gross, so header and text agree and there is no rentals gloss to write. film.gross says worldwide in its label and its detail so the figures are not read as North American, which is what the neighbouring years' tables give. A hidden editors' comment on the same page says the list does not match the figures on the 1980s in film article, and film.gross repeats that warning rather than resolving it. Date checks. An inauguration falls this year and carries a checkable constitutional constraint, so pol.inauguration cites https://en.wikipedia.org/wiki/Inauguration_of_George_H._W._Bush, pulled as raw wikitext and the only source in this file from outside the cache. It gives Friday, January 20 at the West Front of the Capitol, the 51st inauguration, William Rehnquist administering the presidential oath and Sandra Day O'Connor the vice presidential oath. Both cached year pages give January 20 and nothing else, so there is no disagreement to name, only a gap the dedicated article fills. The article's line about Bush being the first sitting vice president inaugurated since an earlier century was left in the source and not used, and its forward-looking succession links were ignored. The fall of the Berlin Wall was checked the same way: https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall was pulled as raw wikitext and gives 9 November 1989 with the press conference running 18:53 to 19:01 Central European Time, which agrees with both cached year pages, so world.berlin_wall cites the year page and states the time span the dedicated article adds. The Tiananmen check found a real disagreement. https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre, pulled as raw wikitext, dates the massacre to 3 and 4 June and says the protests were suppressed by force between June 3 and June 4, while the year page carries a single June 4 entry. world.tiananmen keeps June 4 as its date field, because that is the day the year page dates the crackdown to, and names the two-day span from the dedicated article in its detail. The dedicated article also dates the initial protests from 15 April, which matches the year page's April 15 death of Hu Yaobang and April 21 start of the demonstrations. The 62nd Academy Awards honouring this year of film fall on a date in the following year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a token later than 1989. The 61st Academy Awards of March 29, held at the Shrine Auditorium and the first since 1971 with no official host, are left out for the same reason 1982 leaves out the 54th: they honoured the previous year of film and would put a second Best Picture on the page. The 31st Grammy Awards of February 22, hosted by Billy Crystal, which gave Album of the Year to George Michael's Faith and both Record and Song of the Year to Bobby McFerrin's Don't Worry, Be Happy and Best New Artist to Tracy Chapman, are left out on the same ground, since they honoured the previous year's recordings. The Golden Globe and BAFTA ceremony dates on the film page's awards table are omitted because both fall in the following year, so film.acting_awards and film.world_cinema name those winners without dating the ceremonies. No radio fact, because the radio window closed after 1959, and no radio material was moved into another section to get round that. Section windows. tech.internet does not open until 1993, so no fact carries a tech.internet id. Berners-Lee's proposal document sits under tech.web_proposal, a plain tech id, because it is a paper written inside one laboratory rather than a service anyone could use, and the fact says so outright. The year page's November line about the first commercial dial-up Internet connection in North America, made by The World STD, is left out entirely rather than dressed in an ungated tech id, because a commercial connection sold to the public is exactly what the 1993 gate covers. The Nielsen ranking covers a season that began in the autumn of 1989 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved. The Lincoln Savings and Loan seizure of April 14 is at Irvine, California on the year page and Irving, California on the US year page, and the eventual taxpayer cost of the savings and loan crisis is nearly $200,000,000 on the year page against nearly $200 billion on the US year page, so pol.savings_and_loan names both spellings and both figures and states neither as fact. Hurricane Hugo caused at least 71 deaths and $8,000,000,000 in damage on the year page and $7 billion in South Carolina on the US year page, so the texture carries the storm without a toll or a cost. Facts taking their value from one cached page and part of their detail from another, recorded here rather than left for a reader to notice: film.how_people_watched and music.listening_format both cite the television page, which is the only page carrying the Scarface and Brazil television cuts and the weekday Yo! MTV Raps debut, and music.listening_format takes the McCartney bootleg line from the music page and the N.W.A sales line from the year page; film.acting_awards and film.world_cinema cite the ceremony page and take the Golden Globe and BAFTA winners from the film page's awards table; tv.top_shows cites the ratings page and takes the Fox top-30 line from the television page; tv.hdtv cites the year page for the Japanese test broadcasts, Eurosport and RCTI and takes the Comedy Channel and All News Channel launches from the television page's launch table; tech.games cites the video games page and takes the April 21 Japanese and July 31 North American Game Boy release dates from the year page and the US year page, since the games page dates the console only to the year; sports.world_series cites the sports page for the result and the most valuable player and takes the ten-day postponement from the year page and the October 28 clinching date, the Nolan Ryan strikeout milestone and the Bill White appointment from the US year page; sports.super_bowl cites the sports page for the score, the venue, the attendance and the most valuable player and takes the date from the US year page and the NBC broadcast from the television page; sports.gretzky cites the US year page for the record and takes the trophies and the Malarchuk injury from the sports page. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, which is the one fact the schema allows to carry no source. Both come out if challenged. Names carrying a four-digit number. Nothing in this file needed an entry in src/data/name_years.json, and that file was not touched. Two candidates were checked and both are safe without one: the asteroid 4769 Castalia in tech.voyager and Nolan Ryan's 5,000 strikeouts in sports.world_series, because the anachronism check matches only 1000 to 2099 and a comma breaks the four-digit run. The Nikkei 225 in the texture is three digits. Mystery Science Theater 3000, which the television page carries as moving from KTMA to the Comedy Channel, is out of the file for room rather than for the number, and 3000 would not have matched anyway. Month-only or undated facts: none. Every fact here carries either a full date or no date at all, and the undated ones are the list facts and the two annual series figures. Dropped for lack of a source that says enough, or because a figure or date reaches past this year: the Lexus LS and Infiniti Q45 model designations, because the year page gives them a model year later than this page's, so the texture names only the two brands and the show; the phase-in end date of the minimum wage rise, for the same reason, which pol.minimum_wage says outright; the Flag Protection Act's later constitutional fate; the Karen Carpenter Story of January 1, which the television page calls the highest-rated two-hour television film of the year, dropped for room; the cable and satellite channel launches of the year, folded into tv.hdtv's detail as the only place they fit; the Loma Prieta earthquake, which has no fact of its own and appears in the texture and in sports.world_series's detail, where the sports page itself makes the connection to the postponed series; Hurricane Hugo, the Hillsborough disaster, the Ufa train disaster, United Airlines Flight 232, the USS Iowa turret explosion, the Daulatpur-Saturia tornado, the Marchioness disaster and the Ecole Polytechnique massacre, all in the texture instead of a disasters list fact; the Central Park jogger case of April 19, the Menendez killings of August 20, the murder of Yusef Hawkins on August 23, the Stockton schoolyard shooting of January 17, the Standard Gravure shooting of September 14 and the execution of Ted Bundy on January 24, all dropped for room rather than for want of a source; the Tony Coelho resignation, the Leona Helmsley sentence, the Jim Bakker conviction, the Oliver North conviction and fine, the Robert Tappan Morris indictment and the release of the Guildford Four, all in the texture instead; the Iceland beer day, the Danish civil union law, the Lexus and Infiniti launch, the Moscow hot dog stand and cosmetics counter, the last golden toad and the Nikkei high, all in the texture instead; the carbon dioxide concentration reaching 350 parts per million, undated on the year page; Walmart's revenues tripling its figures of three years earlier, undated and stated only as a comparison; the cold fusion announcement of March 23 by Stanley Pons and Martin Fleischmann, dropped because no cached page says what became of the claim and the fact would have read as a discovery; the first flight of the B-2 stealth bomber on July 17; the Hydro-Quebec grid collapse of March 13 after a geomagnetic storm, which left 6 million people without power; the murder of Rebecca Schaeffer on July 18, which the year page and the US year page both say led to stricter stalking laws in California, and which is in the texture rather than in the deaths list; the Aung San Suu Kyi house arrest of July 20; the Phillips disaster at Pasadena, Texas of October 23; the Woodstock '89 festival of August 16 and 17; the Time Warner merger announcement, kept only in film.releases's detail because it is a studio ownership change; Nintendo's plan with Fidelity Investments of October 3 for a home trading system; the premiere of The Wizard on December 2, which the games page carries at length for showing Super Mario Bros. 3 to North America before the game shipped there. Names and titles are written in ASCII per the corpus convention, so Gunter Schabowski, Vaclav Havel, Nicolae and Elena Ceausescu, Targoviste, Alexander Dubcek, Lech Walesa, Camilo Jose Cela, Motley Crue, Jesus Monarrez, Estee Lauder, Marc Lepine, Ecole Polytechnique, bjordagur, Una cancion no es suficiente and Doctor Dre lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. Deaths that would have earned a place with more room: Sugar Ray Robinson and Abbie Hoffman on April 12, Vladimir Horowitz on November 5, Lee Van Cleef on December 16, Billy Martin on December 25, Alvin Ailey on December 1, Robert Mapplethorpe on March 9 whose cancelled exhibition is a culture fact instead, John Cassavetes on February 3, Huey P. Newton on August 22, Bill Terry on January 9, Amanda Blake on August 16, Frances Bavier on December 6, Mary McCarthy on October 25, Christine Jorgensen on May 3, Claude Pepper on May 30, Jim Backus on July 3, Steve Rubell on July 25, Ferdinand Marcos on September 28, and Laurence Olivier on July 11, whose death the film page carries with his last filmed role in War Requiem but with no birth year, which is why he is not in the list. This file runs 52 facts across 10 sections, at the top of the 40 to 52 the brief asks for: politics 6, world 8, film 7, tv 5, music 5, tech 5, prices 2, culture 4, sports 5, deaths 5. World runs to 8 against the roughly 7 the brief suggests, which is inside what 1982 already does, because the year carries the opening of the Berlin Wall, the collapse of five Communist governments, the Tiananmen crackdown, the Soviet withdrawal from Afghanistan, the change of head of state in Japan and in South Africa, the fatwa against Rushdie and the Exxon Valdez, and folding any of them into another fact's detail would have parked an unrelated event where it does not belong."
+}

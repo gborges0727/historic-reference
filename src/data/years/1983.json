@@ -1,0 +1,525 @@
+{
+  "year": 1983,
+  "tier": "broadcast",
+  "headline": "A Soviet fighter shot down Korean Air Lines Flight 007, truck bombs hit Beirut, and US troops invaded Grenada",
+  "texture": [
+    "Champion racehorse Shergar was taken from Ballymany Stud near the Curragh on February 8 and never found. The Ash Wednesday bushfires killed 75 people in Victoria and South Australia on February 16, and over 2,000 died two days later in the Nellie massacre in Assam. Benigno Aquino Jr. was shot in Manila on August 21 just as he returned from exile. A bombing in Rangoon on October 9 killed South Korea's foreign minister Lee Bum Suk and 21 others. A Provisional IRA car bomb outside Harrods killed six on December 17, and the Alcala 20 nightclub fire in Madrid killed 83 the same day.",
+    "Thirteen Sri Lanka Army soldiers were killed in an ambush by the Liberation Tigers of Tamil Eelam on July 23, and the Black July riots that started the next day killed between 400 and 3,000 Tamils. The lowest temperature recorded on Earth was measured at Vostok Station on July 21, minus 89.2 degrees Celsius. Richard Noble drove Thrust2 across the Black Rock Desert on October 4 at 633.468 miles per hour. Pioneer 10 passed the orbit of Neptune on June 13. Sally Ride flew on Challenger's STS-7 mission on June 18 with four male crewmates, and Guion Bluford flew on STS-8 on August 30.",
+    "McDonald's introduced the McNugget and Chrysler began building the first minivans, the Dodge Caravan and the Plymouth Voyager. Cabbage Patch Kids made their national debut and their popularity set off the Cabbage Patch riots. The first Hooters opened at Clearwater, Florida on October 4. Interior Secretary James G. Watt banned the Beach Boys from the Fourth of July festivities in Washington in the first week of April, saying rock bands attract the wrong element, and Reagan handed him a plaster foot with a hole in it that same week. Miles City, Montana recorded 31.42 inches of mercury on December 24, the highest mean sea level pressure measured in the contiguous United States.",
+    "Reagan spoke to the National Diet in Tokyo on November 11, the first US president to do so. Samantha Smith, ten years old and from Manchester, Maine, flew to the Soviet Union on July 7 after Yuri Andropov read her letter about being frightened of nuclear war. Poland announced the end of martial law and an amnesty for political prisoners on July 20. Saint Kitts and Nevis became independent on September 19. Yamoussoukro replaced Abidjan as the political capital of the Ivory Coast on March 21, and Sweden restored relations with the Vatican on March 25 after a break of 450 years."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.kal007",
+    "world.beirut_barracks",
+    "film.gross#0",
+    "film.how_people_watched",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Third year in office. George H. W. Bush was Vice President, Warren E. Burger was Chief Justice, Tip O'Neill was Speaker of the House and Howard Baker was Senate majority leader. The 97th Congress sat until January 3 and the 98th from January 3. Reagan delivered his second State of the Union address to the 98th Congress on January 25.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "pol.sdi": {
+      "section": "politics",
+      "label": "Strategic Defense Initiative proposed",
+      "value": "Reagan made his initial proposal to develop technology to intercept enemy missiles, which the US year page says the media dubbed Star Wars",
+      "detail": "Both year pages carry the proposal on the same date and neither gives a cost or a programme name beyond the initiative itself.",
+      "date": "1983-03-23",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "pol.mlk_holiday": {
+      "section": "politics",
+      "label": "Martin Luther King Jr. Day signed into law",
+      "value": "Reagan signed a bill in the White House Rose Garden creating a federal holiday on the third Monday of every January",
+      "detail": "The US year page also gives the year of first observance, which falls after this one, so no date for it appears here.",
+      "date": "1983-11-02",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "pol.senate_bombing": {
+      "section": "politics",
+      "label": "Bomb explodes in the United States Senate",
+      "value": "The bomb was set with the intent of killing Republican senators, nobody was hurt, and the perpetrators were members of the May 19th Communist Organization",
+      "detail": "Both year pages carry the same date and the same account.",
+      "date": "1983-11-07",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "pol.epa_scandal": {
+      "section": "politics",
+      "label": "EPA administrator resigns",
+      "value": "Anne Burford resigned as head of the United States Environmental Protection Agency amid scandal",
+      "detail": "The agency had announced on February 23 that it intended to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri. The US year page gives no further terms for either the buyout or the resignation.",
+      "date": "1983-03-09",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "world.kal007": {
+      "section": "world",
+      "label": "Korean Air Lines Flight 007 shot down",
+      "value": "A Soviet Air Force Su-15 flown by Major Gennadi Osipovich shot the airliner down near Moneron Island after it entered Soviet airspace, killing all 269 on board including the US congressman Larry McDonald",
+      "detail": "The Soviet Union admitted the shootdown on September 6 and said the pilots had not known the aircraft was civilian. The US year page calls McDonald a Representative and its death list gives him as a Representative from Georgia from 1975, born 1935.",
+      "date": "1983-09-01",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "world.beirut_barracks": {
+      "section": "world",
+      "label": "Beirut barracks bombings",
+      "value": "Simultaneous suicide truck bombings destroyed the French Army and United States Marine Corps barracks in Beirut, killing 241 US servicemen, 58 French paratroopers and 6 Lebanese civilians",
+      "detail": "The year page's own picture summary puts the toll at 307 while its October entry adds to 305, so the two do not agree and this fact carries the itemised count. The April 18 bombing of the United States embassy in Beirut had killed 63. Two US Marines were killed by a mortar blast on August 29, the first US combat fatalities of the Multinational Force in Lebanon. Lebanon, Israel and the United States had signed an agreement on Israeli withdrawal from Lebanon on May 17.",
+      "date": "1983-10-23",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "world.grenada": {
+      "section": "world",
+      "label": "United States invades Grenada",
+      "value": "US troops landed at the request of Eugenia Charles of Dominica, a member of the Organization of American States",
+      "detail": "Maurice Bishop, the Prime Minister of Grenada, and 40 others had been assassinated in a military coup on October 19. Neither year page gives troop numbers or casualties.",
+      "date": "1983-10-25",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "world.nuclear_scares": {
+      "section": "world",
+      "label": "Two Soviet nuclear alarms",
+      "value": [
+        "Stanislav Petrov, a Soviet military officer, identified a warning of a US missile attack as a false alarm, September 26",
+        "Soviet officials read the NATO exercise Able Archer 83 as a nuclear first strike, November 7"
+      ],
+      "detail": "The year page says Petrov averted a worldwide nuclear war and calls Able Archer the last nuclear scare of the Cold War. The first US cruise missiles arrived at RAF Greenham Common on November 13 amid protests from peace campaigners, and Erich Honecker had cancelled a goodwill visit to Bonn on April 29 over the same escalation.",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "world.argentina": {
+      "section": "world",
+      "label": "Military rule ends in Argentina",
+      "value": "The first democratic elections after seven years of military rule were held on October 30, and Raul Alfonsin began his term as President of Argentina on December 10",
+      "detail": "The year page carries the election and the restoration of democracy as separate entries and gives no vote share for either.",
+      "date": "1983-10-30",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "world.uk_election": {
+      "section": "world",
+      "label": "UK general election",
+      "value": "Margaret Thatcher's Conservative government was re-elected by a landslide majority",
+      "detail": "The date satisfies the British convention that a general election is held on a Thursday: June 9 was a Thursday. The year page gives no seat count.",
+      "date": "1983-06-09",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "world.new_leaders": {
+      "section": "world",
+      "label": "Changes of leadership",
+      "value": [
+        "Bob Hawke's Labor Party won the Australian federal election on March 5 and Hawke was sworn in on March 11",
+        "Thomas Sankara becomes President of Upper Volta, August 4",
+        "Bettino Craxi is sworn in as Italy's first prime minister from the Italian Socialist Party, August 4",
+        "Neil Kinnock is elected leader of the British Labour Party, October 2",
+        "Jaime Lusinchi's Democratic Action wins the Venezuelan general election of December 4 with 58.4 percent of the vote on an 87.3 percent turnout",
+        "Turgut Ozal of ANAP forms the 45th government of Turkey, December 13"
+      ],
+      "detail": "Malcolm Fraser was granted a double dissolution of both houses on February 3, and as he was being granted it Bill Hayden resigned as Labor leader and was replaced unopposed by Hawke. Fraser resigned the Liberal leadership as the election results became clear and was replaced by Andrew Peacock. Hussain Muhammad Ershad, who headed Bangladesh's military dictatorship, announced on January 14 that he intended to turn the country into an Islamic state. Germany's first elected Green Party members took their seats in the Bundestag on March 29, in jeans and sweaters and with bongo drums.",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North America",
+      "value": [
+        "Return of the Jedi, $252,583,617, 20th Century Fox",
+        "Terms of Endearment, $108,423,489, Paramount",
+        "Flashdance, $92,921,203, Paramount",
+        "Trading Places, $90,404,800, Paramount",
+        "WarGames, $79,567,667, United Artists"
+      ],
+      "detail": "Box-office gross rather than rentals. The table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence above it calls the entries the top ten films released this year by box office gross in North America, so the two agree and there is no rentals gloss to write. Octopussy was sixth at $67,893,619 for United Artists, Sudden Impact seventh at $67,642,693 and Risky Business tenth at $63,541,777, both for Warner Bros., Staying Alive eighth at $64,892,670 for Paramount and Mr. Mom ninth at $64,783,827 for 20th Century Fox. The film page cites Box Office Mojo for the whole table and gives no worldwide figures.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Terms of Endearment, produced by James L. Brooks",
+      "detail": "Awarded the following spring at the 56th Academy Awards, whose date falls outside this year and so is not given here. Terms of Endearment won five awards from eleven nominations, the most nominations of any film, and The Right Stuff came second with eight nominations and won four. Brooks took Best Director and adapted screenplay as well, which the Academy Awards page says made him the third writer-director-producer to win three Oscars for the same film. The other Best Picture nominees were The Big Chill, The Dresser, The Right Stuff and Tender Mercies, and Tender Mercies took original screenplay for Horton Foote. Return of the Jedi received a Special Achievement Award for the visual effects of Richard Edlund, Dennis Muren, Ken Ralston and Phil Tippett, and Hal Roach an Honorary Award. The telecast drew 42.1 million viewers in the United States.",
+      "source": "https://en.wikipedia.org/wiki/56th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, Robert Duvall, Tender Mercies",
+        "Best Actress, Shirley MacLaine, Terms of Endearment",
+        "Best Supporting Actor, Jack Nicholson, Terms of Endearment",
+        "Best Supporting Actress, Linda Hunt, The Year of Living Dangerously"
+      ],
+      "detail": "The Academy Awards page says Hunt, who played the male character Billy Kwan, is the only person to win an Oscar for playing a character of the opposite sex. Debra Winger was nominated for Terms of Endearment alongside MacLaine, with Meryl Streep for Silkwood, Jane Alexander for Testament and Julie Walters for Educating Rita. Michael Caine, Tom Conti, Tom Courtenay and Albert Finney were the other Best Actor nominees, Courtenay and Finney both for The Dresser. Irene Cara, who wrote the lyrics of Flashdance... What a Feeling with Keith Forsey to Giorgio Moroder's music, became the first black woman to win an Oscar in a non-acting category. The Golden Globes gave their drama film award to Terms of Endearment and their musical or comedy award to Yentl, whose director Barbra Streisand took their directing award, and the BAFTA for Best Film went to Educating Rita.",
+      "source": "https://en.wikipedia.org/wiki/56th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "Fanny and Alexander, Sweden, directed by Ingmar Bergman, winner of the Academy Award for Best Foreign Language Film",
+        "Le Bal, Algeria, directed by Ettore Scola, with no dialogue",
+        "Carmen, Spain, directed by Carlos Saura",
+        "Entre Nous, France, directed by Diane Kurys",
+        "Job's Revolt, Hungary, directed by Imre Gyongyossy and Barna Kabay"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the Academy Awards page states each film's country, language and director. Fanny and Alexander also won cinematography for Sven Nykvist, art direction for Anna Asp and costume design for Marik Vos, and the page says those four wins made it the most awarded foreign language film in Academy Award history at the time. The Palme d'Or at Cannes went to The Ballad of Narayama, directed by Shohei Imamura of Japan, and the Golden Lion at Venice to Prenom Carmen, directed by Jean-Luc Godard. The Golden Bear at Berlin was shared between Ascendancy, directed by Edward Bennett of the United Kingdom, and The Beehive, directed by Mario Camus of Spain.",
+      "source": "https://en.wikipedia.org/wiki/56th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "Return of the Jedi, May 25, six years to the day after the original Star Wars",
+        "The Outsiders, March 25, Rob Lowe's feature film debut",
+        "Brainstorm, Natalie Wood's final film, released two years after her death",
+        "A Christmas Story, November 18, which took about $2 million in its first weekend and just over $19.2 million in all",
+        "Let's Spend the Night Together, February 11, the Rolling Stones concert film, opening in New York City"
+      ],
+      "detail": "Frank Price resigned as president of Columbia Pictures in October and was replaced by Guy McElwaine, which the film page dates to the month only. Nicole Kidman made her film debut in the Australian film Bush Christmas, which the film page carries with no date at all. Star 80, about the murder of the Playboy Playmate of the Year Dorothy Stratten, was released on November 10. The US year page describes Return of the Jedi as the third of the twelve Star Wars films George Lucas then projected, and dates the original to May 25, 1977.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_film"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre first. The cached film page carries no home-video entry for the year, and the one home format any cached page names is the videocassette and LaserDisc release of the extended Star Trek: The Motion Picture, which the television page puts in this year after the longer cut premiered on ABC on February 20.",
+      "detail": "That cut added roughly twelve minutes, and the television page says the added footage was largely unfinished and cobbled together for the network premiere, with the director Robert Wise not wanting some of it in the final cut. Paramount is named as the releasing company for both the tape and the disc. Films still reached most people in a cinema, at an average ticket price of $3.15.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$3.15",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1983",
+      "value": [
+        "Dallas, CBS, 25.7 rating",
+        "60 Minutes, CBS, 24.2",
+        "Dynasty, ABC, 24.1",
+        "The A-Team, NBC, 24.0",
+        "Simon & Simon, CBS, 23.8"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. Magnum, P.I. was sixth on 22.4, Falcon Crest seventh on 22.0, Kate & Allie eighth on 21.9, Hotel ninth on 21.1 for ABC and Cagney & Lacey tenth on 20.9, with CBS holding seven of the top ten. AfterMASH came fifteenth on 20.1.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1983%E2%80%9384"
+    },
+    "tv.mash_finale": {
+      "section": "tv",
+      "label": "M*A*S*H ends",
+      "value": "The 251st and final episode, Goodbye, Farewell and Amen, aired on CBS and set the record for the most-watched television broadcast in American history",
+      "detail": "The cached pages disagree on the audience. The year page gives a total audience of 121.6 million, the television page says more than 125 million Americans watched, and the US year page gives no figure at all. The series had started in 1972. AfterMASH premiered on CBS on September 26.",
+      "date": "1983-02-28",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Fraggle Rock, HBO and Canada's CBC, January 10",
+        "The Joy of Painting, PBS, January 11",
+        "The A-Team, NBC, January 23",
+        "Star Search, syndication, May 31",
+        "Reading Rainbow, PBS, July 11",
+        "He-Man and the Masters of the Universe, syndication, September 5",
+        "Webster, ABC, September 16",
+        "Love Connection, syndication, September 19",
+        "Hotel, ABC, September 21",
+        "Scarecrow and Mrs. King, CBS, October 3"
+      ],
+      "detail": "The A-Team's first regular episode ran after NBC's coverage of Super Bowl XVII on January 30. Mama's Family started on NBC on January 22, Inspector Gadget in syndication on September 12, Alvin and the Chipmunks and The Charlie Brown and Snoopy Show on September 17, Hardcastle and McCormick on ABC on September 18, and Automan and Masquerade on ABC on December 15. The nighttime syndicated edition of Wheel of Fortune premiered on September 19 in 59 markets and was shut out of the top three. Press Your Luck premiered on CBS the same day. The MacNeil/Lehrer Report became the MacNeil/Lehrer NewsHour on September 5, the first American network news programme to go from half an hour to an hour.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "Little House on the Prairie, March 21, having started in 1974",
+        "Laverne & Shirley, May 10, having started in 1976",
+        "SCTV, June 24, having started in 1981",
+        "CHiPs, July 17, having started in 1977",
+        "Taxi, July 20, having started in 1978",
+        "Quincy, M.E., September 5, having started in 1976",
+        "Archie Bunker's Place, September 21, having started in 1979",
+        "The Walt Disney anthology series, September 24, having started in 1954"
+      ],
+      "detail": "The television page's endings table gives each date and start year. The Greatest American Hero ended on February 3, Tales of the Gold Monkey on June 1, Square Pegs on September 12 after starting in 1982 and the Pac-Man cartoon on November 5. CBS cancelled Archie Bunker's Place after four seasons without a proper finale, ending Carroll O'Connor's run as Archie Bunker, which had begun in 1971 with All in the Family.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "tv.cable_launches": {
+      "section": "tv",
+      "label": "New cable channels",
+      "value": [
+        "Home Sports Entertainment, January 4",
+        "Country Music Television, March 5",
+        "The Nashville Network, March 7",
+        "Disney Channel, April 18",
+        "BET, July 1"
+      ],
+      "detail": "All five are listed as cable television in the television page's launch table. That page's own events table dates Country Music Television to March 6 instead, so the two entries disagree by a day. The Disney Channel's first programme was Good Morning, Mickey!, and Tiger Town, the first television film made for the channel, premiered on October 9. Satellite News Channel closed on October 27 and the satellite service Star on February 12. Field Enterprises shut down WKBS-TV in the Philadelphia market on August 30 after failing to find a buyer.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "tv.nuclear_movies": {
+      "section": "tv",
+      "label": "Nuclear war on television",
+      "value": "An estimated 100 million people watched The Day After on ABC, a film about the start of a nuclear war",
+      "detail": "NBC had broadcast Special Bulletin on March 20, a fictional depiction of a network covering a nuclear terrorism threat in Charleston, South Carolina, written by Marshall Herskovitz and directed by Edward Zwick. Mister Rogers' Neighborhood ran a five-part story called Conflict on PBS from November 7 to 11, about war, bombs and an arms race, made in response to the invasion of Grenada and the Beirut barracks bombings. The US year page calls The Day After the most watched and controversial television movie of what a real nuclear war would look like.",
+      "date": "1983-11-20",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "tv.miniseries": {
+      "section": "tv",
+      "label": "Miniseries",
+      "value": [
+        "The Winds of War, ABC, February 6, seven episodes, based on the Herman Wouk novel and seen in part or in total by 140 million viewers, which the television page calls the most watched miniseries at the time",
+        "The Thorn Birds, ABC, March 27, four episodes",
+        "V, NBC, May 1, two episodes, whose first episode was viewed by 40 percent of television viewers",
+        "Kennedy, NBC, November 20, five episodes"
+      ],
+      "detail": "The television page's made-for-television table gives each network and premiere date, and its events table gives the audience figures for The Winds of War and V. The animated G.I. Joe: A Real American Hero miniseries debuted in syndication on September 12.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Every Breath You Take, The Police",
+        "Billie Jean, Michael Jackson",
+        "Flashdance... What a Feeling, Irene Cara",
+        "Down Under, Men at Work",
+        "Beat It, Michael Jackson"
+      ],
+      "detail": "From the year-end Billboard issue dated December 24. The chart page says Michael Jackson had five songs on the list, the most of any artist. Total Eclipse of the Heart by Bonnie Tyler was sixth, Maneater by Daryl Hall and John Oates seventh, Baby, Come to Me by Patti Austin and James Ingram eighth, Maniac by Michael Sembello ninth and Sweet Dreams (Are Made of This) by Eurythmics tenth. Little Red Corvette by Prince was twenty-fifth.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1983"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "The compact disc reached shops outside Japan. Discs went on sale in Europe and North America on March 2, having first been released in Japan the previous October, and the music page's trends line says CDs became popular among classical music listeners.",
+      "detail": "The UK singles chart was tabulated by The Gallup Organization from the week of January 8, which the music page gives as a chart week rather than a day, and it says shop returns were still collected by the old sales-diary method. None of the cached pages gives a figure for how many discs or players were sold this year, and none says anything about cassettes or players carried about.",
+      "date": "1983-03-02",
+      "source": "https://en.wikipedia.org/wiki/1983_in_music"
+    },
+    "music.thriller": {
+      "section": "music",
+      "label": "Thriller reaches number one",
+      "value": "Michael Jackson's album hit number one on the US charts, the first of thirty-seven non-consecutive weeks it spent there",
+      "detail": "MTV broadcast the video of Billie Jean on March 10, which the television page calls the first video by a black artist to gain great airplay on the channel and credits with helping the album along. The Thriller video, which the television page puts at nearly fourteen minutes and the music page at fourteen, premiered on MTV on December 2. The year page's picture summary calls Thriller the best selling album of all time and the music page calls it the biggest-selling album of all time.",
+      "date": "1983-02-26",
+      "source": "https://en.wikipedia.org/wiki/1983_in_music"
+    },
+    "music.moonwalk": {
+      "section": "music",
+      "label": "Michael Jackson performs the moonwalk",
+      "value": "He did it for the first time while performing Billie Jean on the Motown 25 television special, broadcast by NBC to mark a quarter century of Motown Records",
+      "detail": "Three cached pages date the broadcast to May 16, the year page, the music page and the television page, and the US year page dates the same special and the same performance to March 25, so this fact follows the three that agree. The music page says he performed with The Jackson Five before the solo number.",
+      "date": "1983-05-16",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Corinne Hermes, a French singer representing Luxembourg, won the 28th contest at the Rudi-Sedlmayer-Halle in Munich with Si la vie est cadeau",
+      "detail": "The 12th OTI Festival, staged at DAR Constitution Hall in Washington on October 29 and broadcast live throughout Ibero-America, was won by Estrela de papel, written by Jesse and Elifas Andreato and performed by Jesse for Brazil. Spanish International Network had broadcast the final of the 6th National OTI-SIN Festival from the Miami Jai-Alai Fronton on October 8.",
+      "date": "1983-04-23",
+      "source": "https://en.wikipedia.org/wiki/1983_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Pole Position, Namco, which the games page calls the year's highest-grossing arcade game",
+        "Mario Bros., Nintendo, June 14, the first appearance of Mario's brother Luigi",
+        "Dragon's Lair, Cinematronics, June 19, the third laserdisc game and the first in the American market",
+        "Star Wars, Atari, May, a colour vector graphics game",
+        "Xevious, Namco, January",
+        "Track & Field, Konami, September",
+        "Manic Miner, written by Matthew Smith and published by Bug-Byte for the ZX Spectrum"
+      ],
+      "detail": "A shakeout of the North American industry that the games page calls the crash of 1983 began during the year, and around 700,000 unsold Atari cartridges, consoles and computers were buried at Alamogordo, New Mexico on September 26. US arcade video game revenues came to $2.9 billion and US home video game sales to $2 billion, with Japanese home sales approaching 400 billion yen. Ms. Pac-Man on the Atari 2600 was the best-selling home game at 1,963,078 copies, ahead of Donkey Kong on the ColecoVision at 1,500,000 and Centipede at 1,475,240. Nintendo's Game & Watch was the best-selling home system at 5,300,000 worldwide, ahead of the Atari 2600 at 3,000,000 and the Commodore 64 at 2,000,000. Nintendo released the Family Computer in Japan on July 15, the same day Sega released the SG-1000, and Coleco put out the Adam home computer in October. Electronic Arts published its first five titles, Hard Hat Mack, Pinball Construction Set, Archon: The Light and the Dark, M.U.L.E. and Worms?. A court dismissed MCA Universal's claim that Donkey Kong infringed its copyright in King Kong, holding that the rights to the original had passed into the public domain, and MCA Universal paid Nintendo $1.8 million in damages.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_video_games"
+    },
+    "tech.mobile_phone": {
+      "section": "tech",
+      "label": "First commercial cellular telephone call",
+      "value": "The world's first commercial mobile cellular telephone call was made in Chicago, four months after the Motorola DynaTAC, which the year page calls the first worldwide mobile telephone, entered the market on June 13",
+      "detail": "Both dates come from the year page, which names the first mobile cellular telephone call in its opening summary of the year and gives no price for the handset.",
+      "date": "1983-10-13",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "tech.personal_computers": {
+      "section": "tech",
+      "label": "Personal computers and software",
+      "value": [
+        "Apple released the Lisa, January 19",
+        "Lotus 1-2-3 was released for IBM-PC compatible computers, January 26",
+        "IBM released the PC XT, March 8",
+        "Microsoft Japan released MSX, an early standardized home computer architecture, June 16",
+        "Multi-Tool Word, soon to become Microsoft Word, was released in the United States, October 25"
+      ],
+      "detail": "Multi-Tool Word was primarily the work of the programmers Richard Brodie and Charles Simonyi, and free demonstration copies on disk went out with the November issue of PC World. Apple released the IIe in January, which the games page calls their most popular 8-bit machine, and Chuck Hull invented the 3D printer on March 9. The Apple Macintosh television advertisement was released on December 31, and the US year page names it by a title that is a four-digit year later than this one, so it is described here rather than named. Acorn released the Electron, a cut-down BBC Micro for the market under 200 pounds, and problems in manufacture saw only one presale in eight delivered for Christmas.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "tech.tcp_ip": {
+      "section": "tech",
+      "label": "ARPANET completes its migration to TCP/IP",
+      "value": "The migration was officially completed, which the year page says is considered the beginning of the true Internet and names in its opening summary of the year",
+      "detail": "The GNU Project was announced publicly on the same network on September 27, on the net.unix-wizards and net.usoft newsgroups. The year page gives no figure for how many hosts were connected.",
+      "date": "1983-01-01",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "tech.medicine": {
+      "section": "tech",
+      "label": "Medicine",
+      "value": [
+        "Two research groups led by Robert Gallo and Luc Montagnier independently declared that a novel retrovirus might be infecting people with AIDS, publishing in the same issue of Science, May 20",
+        "The world's first dedicated hospital ward for HIV and AIDS patients opened at San Francisco General Hospital, July 25",
+        "The FDA approved the anticancer drug etoposide, November 10",
+        "The FDA approved the immunosuppressant cyclosporine, which both year pages say led to a revolution in transplantation, November 14",
+        "The FDA approved the first spermicidal sponge, sold as Today, April 6"
+      ],
+      "detail": "Kary Mullis worked out the polymerase chain reaction while working for Cetus, which the US year page carries with no date. The year page dates the two retrovirus declarations together and gives no name for the virus.",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.24 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1981.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Marines died in their sleep in Beirut and American troops landed on Grenada two days later. The most watched broadcast in the country's history was a sitcom saying goodbye to a war that had ended thirty years before. Shoppers fought over a cloth doll, and a record could now be read by a laser."
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Literature, William Golding",
+        "Peace, Lech Walesa",
+        "Physics, Subrahmanyan Chandrasekhar and William Alfred Fowler",
+        "Chemistry, Henry Taube",
+        "Medicine, Barbara McClintock",
+        "Economics, Gerard Debreu"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "culture.miss_america": {
+      "section": "culture",
+      "label": "First African-American Miss America",
+      "value": "Vanessa Lynn Williams was crowned at Atlantic City, New Jersey",
+      "detail": "The television page says the pageant was broadcast on NBC, and it titles the crown for the year after this one, so no title year appears here.",
+      "date": "1983-09-17",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "culture.hitler_diaries": {
+      "section": "culture",
+      "label": "Stern publishes the Hitler Diaries",
+      "value": "The German magazine printed the diaries, which the year page says were later found to be forgeries",
+      "detail": "The year page gives no purchase price and does not name the forger.",
+      "date": "1983-05-06",
+      "source": "https://en.wikipedia.org/wiki/1983"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Baltimore Orioles beat the Philadelphia Phillies four games to one",
+      "detail": "The US year page dates the clinching Game 5 to October 16, a 5 to 0 win, and calls it Baltimore's third world championship, while the sports page calls it their most recent. Brooks Robinson and Juan Marichal were elected to the Hall of Fame on January 12, Robinson becoming the fourteenth player elected in his first year of eligibility. Major League Baseball agreed a six-year television package with ABC and NBC on April 7 worth $1.2 billion, with each of the 26 clubs to receive $7 million a year against $1.9 million under the previous deal.",
+      "date": "1983-10-16",
+      "source": "https://en.wikipedia.org/wiki/1983_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XVII",
+      "value": "The Washington Redskins beat the Miami Dolphins 27 to 17 at the Rose Bowl in front of 103,667, with the running back John Riggins named most valuable player",
+      "detail": "A players' strike had cut the preceding regular season from 16 games to 9, so the league ran a special 16-team playoff in which division standings were ignored and eight teams from each conference were seeded on their records, and those playoff games were televised regionally rather than nationwide for the first time. Tony Dorsett set the NFL record for the longest run from scrimmage on January 3 with a 99-yard touchdown.",
+      "date": "1983-01-30",
+      "source": "https://en.wikipedia.org/wiki/1983_in_sports"
+    },
+    "sports.americas_cup": {
+      "section": "sports",
+      "label": "America's Cup",
+      "value": "Australia II, of the Royal Perth Yacht Club, beat Liberty of the New York Yacht Club four races to three",
+      "detail": "The sports page says the win broke a 132-year winning streak by the New York Yacht Club through 25 challenges, the longest unbeaten run in all of sport. The year page dates the win to September 26 and calls it the first successful challenge to the club's defence of the trophy.",
+      "date": "1983-09-26",
+      "source": "https://en.wikipedia.org/wiki/1983_in_sports"
+    },
+    "sports.cricket_world_cup": {
+      "section": "sports",
+      "label": "Cricket World Cup",
+      "value": "India beat the West Indies by 43 runs in the final",
+      "detail": "The tournament ran in England from June 9 to 25. The Asian Cricket Council was formed this year, which the sports page carries with no date.",
+      "date": "1983-06-25",
+      "source": "https://en.wikipedia.org/wiki/1983_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, New York Islanders over the Edmonton Oilers, four games to none",
+        "NBA Finals, Philadelphia 76ers over the Los Angeles Lakers, four games to none",
+        "NCAA basketball, North Carolina State 54, Houston 52",
+        "European Cup, Hamburger SV 1, Juventus 0",
+        "FA Cup, Manchester United beat Brighton and Hove Albion 4 to 0 in a replay after a 2 to 2 draw in extra time",
+        "Grey Cup, Toronto Argonauts 18, B.C. Lions 17",
+        "World Snooker Championship, Steve Davis over Cliff Thorburn, 18 to 6"
+      ],
+      "detail": "The 76ers clinched on May 31 and Moses Malone was named most valuable player of the finals. Hamburg won the European Cup on May 25, and Aberdeen beat Real Madrid 2 to 1 in extra time on May 11 to take the Cup Winners' Cup, which the year page calls only the third European trophy won by a Scottish side, before beating Hamburg 2 to 0 on aggregate in the Super Cup. Anderlecht won the UEFA Cup 2 to 1 on aggregate over Benfica and Gremio the Intercontinental Cup 2 to 1 over Hamburg. Dundee United won the Scottish First Division for the first time, clinching it at Dundee's Dens Park. Hawthorn won the 87th VFL premiership 20.20 (140) to 8.9 (57) over Essendon. Wayne Gretzky of the Edmonton Oilers took the Art Ross Trophy and the Hart Memorial Trophy. The inaugural World Championships in Athletics ran at Helsinki from August 7 to 14, and Eamonn Coghlan set a world indoor mile record of 3:49.78 at East Rutherford on February 27. Martina Navratilova won the Australian Open, Wimbledon and the US Open and was Associated Press Female Athlete of the Year, Chris Evert won the French Open, and among the men Mats Wilander, Yannick Noah, John McEnroe and Jimmy Connors took one major each. Carl Lewis was Associated Press Male Athlete of the Year. Seve Ballesteros won the Masters on April 11, Larry Nelson the US Open, Tom Watson the British Open and Hal Sutton both the PGA Championship and the money list at $426,668. Laurent Fignon won the Tour de France and Giuseppe Saronni the Giro d'Italia. Tom Sneva won the Indianapolis 500 on May 29. The Michigan Panthers won the first United States Football League championship 24 to 22 over the Philadelphia Stars.",
+      "source": "https://en.wikipedia.org/wiki/1983_in_sports"
+    },
+    "deaths.carpenter": {
+      "section": "deaths",
+      "label": "Karen Carpenter",
+      "value": "Died February 4. Born 1950",
+      "detail": "Pop singer and drummer.",
+      "date": "1983-02-04",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "deaths.williams": {
+      "section": "deaths",
+      "label": "Tennessee Williams",
+      "value": "Died February 25. Born 1911",
+      "detail": "Playwright and screenwriter. The film page lists A Streetcar Named Desire and Cat on a Hot Tin Roof among his films.",
+      "date": "1983-02-25",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "deaths.swanson": {
+      "section": "deaths",
+      "label": "Gloria Swanson",
+      "value": "Died April 4. Born 1899",
+      "detail": "Actress. The film page lists Sunset Boulevard and Sadie Thompson.",
+      "date": "1983-04-04",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "deaths.waters": {
+      "section": "deaths",
+      "label": "Muddy Waters",
+      "value": "Died April 30. Born 1915",
+      "detail": "Blues singer and songwriter.",
+      "date": "1983-04-30",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    },
+    "deaths.dempsey": {
+      "section": "deaths",
+      "label": "Jack Dempsey",
+      "value": "Died May 31. Born 1895",
+      "detail": "Boxer. The sports page calls him a former world heavyweight champion.",
+      "date": "1983-05-31",
+      "source": "https://en.wikipedia.org/wiki/1983_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1983. figures_basis is gross, checked with bo.mjs rather than assumed from the era: the box office table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence introducing the table calls the entries the top ten 1983 released films by box office gross in North America, so header and introduction agree and there is no rentals gloss to write. Date checks. There is no US federal election and no inauguration this year, so neither constitutional rule applies. The UK general election falls on June 9, which was a Thursday, the day British general elections are held, and world.uk_election says so. The Academy Awards honouring this year of film are the 56th, which the ceremony's own cached page and the film page's awards table both date to April 9, 1984; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a later year token. The 55th Academy Awards of April 11, hosted by Liza Minnelli, Dudley Moore, Richard Pryor and Walter Matthau at the Dorothy Chandler Pavilion, which honoured the previous year of film and gave Best Picture to Gandhi, is left out for the same reason 1982 leaves out the 54th: it would put a second Best Picture on the page. The 25th Grammy Awards of February 23, hosted by John Denver, are left out for the same reason, since they honoured the previous year's recordings and gave Album of the Year to Toto IV and Record of the Year to Rosanna. No dedicated article was pulled as raw wikitext beyond the ceremony page already in the manifest, because no date on the cached pages carries a checkable internal constraint the pages themselves get wrong. No radio fact, because the radio window closed after 1959. The Nielsen ranking covers a season that began in the autumn of 1983 and ran into the following spring, which tv.top_shows states without naming a second year. tech.internet does not open until 1993, so the ARPANET migration to TCP/IP sits under the plain tech id tech.tcp_ip rather than a tech.internet id, and the GNU Project announcement on Usenet rides in its detail as the other network item of the year. Source disagreements labelled rather than resolved. The Motown 25 special and the first moonwalk are dated May 16 by the year page, the music page and the television page, and March 25 by the US year page, so music.moonwalk follows the three that agree and says so. The M*A*S*H finale audience is 121.6 million on the year page and more than 125 million on the television page, with no figure on the US year page, and tv.mash_finale carries both. The Beirut barracks toll is 307 in the year page's own picture summary and 241 plus 58 plus 6, which is 305, in its October entry, so world.beirut_barracks carries the itemised count and names the gap. Country Music Television launches on March 5 in the television page's launch table and March 6 in the same page's events table, and tv.cable_launches carries both. The Baltimore World Series title is their third on the US year page and their most recent on the sports page, and sports.world_series carries both. Pioneer 10 passes the orbit of Neptune on the year page and leaves the Solar System on the US year page, two different claims about the same June 13 event, so the stronger one is left out and the passage of Neptune's orbit goes in texture. The Diana Ross concert in Central Park is July 21 on the music page, which says rain postponed the rest of it to the next day, and July 23 on the US year page, which gives 800,000 attending and a lightning storm, so it is left out rather than dated. Facts taking their value from one cached page and part of their detail from another: film.how_people_watched cites the television page throughout, because the only home-format claim in any cached page is there, and takes the ticket price from the series data; tv.mash_finale cites the television page and names the year page's audience figure; sports.world_series cites the sports page and takes the clinching game, the title count and the television package from the US year page and the television page; music.thriller cites the music page and takes the MTV airplay claims from the television page; tech.personal_computers cites the US year page and takes the Apple IIe and the Acorn Electron from the video games page; tech.medicine cites the year page and takes the etoposide approval and the polymerase chain reaction from the US year page; culture.miss_america cites the US year page and names the television page's titling of the crown. General knowledge rather than a claim from the cached pages: that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched states as the answer to its own question, and the whole of culture.mood, including that M*A*S*H is set in a war that ended thirty years before this year. Both come out if challenged. Names with a four-digit number. Sega's SG-1000 console is named in tech.games and needs no allowlist entry, because the anachronism check only fires on a year later than the file's own and 1000 is earlier. The Atari 2600, the Sega SC-3000, the Casio PV-1000, the NEC PC-6001 and the Atari 1200XL are all outside the check's 1000 to 2099 range or break its word boundary, so none of them was at risk either. The Apple Macintosh television advertisement is the one name that cannot be written: its title is a bare four-digit year later than this one, and src/data/name_years.json forbids listing a work titled only with a number, so tech.personal_computers describes it and says why. Names and titles are written in ASCII per the corpus convention, so Alcala 20, Raul Alfonsin, Turgut Ozal, Corinne Hermes, Prenom Carmen, Imre Gyongyossy, Gerard Debreu, Lech Walesa, Gremio and El Nino lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year, and all five deaths facts are taken from that list for the same reason. Dropped for lack of a source that says enough, or because a figure or date reaches past this year: the video game crash's end figure, which the games page gives as a decline to $0.1 billion by a year after this one, so tech.games carries only that the shakeout began; the Coleco Adam's fifteen months on the market, for the same reason; the first observance of Martin Luther King Jr. Day, noted as omitted in pol.mlk_holiday; Douglas Edward Crabbe's conviction for driving a road train into a motel at Ayers Rock on August 18, which the year page dates to the following March; the Sri Lankan Civil War's end year; the Jules Rimet Trophy theft of December 19, whose recovery status the year page states as of a much later year; the 1983 Cricket World Cup's attendance, which no cached page gives; James G. Watt's September resignation, which the year page carries without a day, with his January remarks in pol.epa_scandal's detail and the Beach Boys ban in texture; the Hurricane Alicia damage figure of over $3.8 billion, which both year pages state in dollars of a later year, so the storm of August 18 and its 22 deaths are left out entirely rather than half-sourced; the second US Festival at Glen Helen Park from May 28 to June 4, the Rolling Stones' $28 million CBS Records contract of August 20, which the music page calls the largest recording contract in history to that point, Quiet Riot's Metal Health topping the US album charts on November 26 as the first heavy metal album to reach number one there, Rita Lee's Tour Brasil 83 finale at Maracanazinho on May 15 before 500,000, and the Kiss appearance without makeup on MTV on September 18, all dropped for room from a music section already at five; the Nintendo Famicom recall for system instability, which the games page carries with no date or number; Shergar, the Ash Wednesday bushfires, the Nellie massacre, Benigno Aquino Jr., the Rangoon bombing, the Harrods bombing, the Alcala 20 fire, Black July, the Vostok Station temperature, Richard Noble's land speed record, Pioneer 10, Sally Ride, Guion Bluford, the McNugget, the minivans, the Cabbage Patch Kids and the riots they set off, the first Hooters, James G. Watt and the Beach Boys, the Miles City barometric record, Reagan at the National Diet, Samantha Smith, the end of martial law in Poland, the independence of Saint Kitts and Nevis, Yamoussoukro and the Swedish restoration of relations with the Vatican, all in texture instead; the Wah Mee massacre of February 18, the Coalinga earthquake of May 2, the Borah Peak earthquake of October 28, the Benton fireworks disaster of May 27, the Sea of Japan earthquake and tsunami of May 26, the Gulf Air Flight 771 bombing of September 23, the Avianca Flight 011 crash of November 27, the Madrid runway collision of December 7, the Orly Airport attack of July 15, the Sikorsky S-61 crash of July 16, the Byford Dolphin diving bell accident of November 5, the Church Street bombing of May 20, the Aeroflot Flight 6833 hijacking of November 19, the Buffalo propane explosion of December 27, the Bilbao floods of August 26 and the Shimane mudslides of July 23; the Seikan Tunnel pilot shaft breakthrough of January 27, the 1983 Code of Canon Law of January 26, the Common Fisheries Policy of January 23, the IRAS launch of January 25, the redefinition of the metre of October 21, the Turkish declaration of independence in Cyprus of November 15, the South African constitution of November 2, the Battle of Tripoli from November 3, the Second Sudanese Civil War from June 5, the Zapatista Army of National Liberation of November 17, the Kakuei Tanaka bribery conviction of October 12, the Chinese crackdown that Amnesty International put at at least 600 executions, the Soyuz T-10-1 pad abort of September 26, the Challenger maiden voyage of April 4, Tokyo Disneyland's opening of April 15, the Emanuela Orlandi disappearance of June 22, the Dennis Nilsen arrest of February 10, the Australian dollar float of December 9, the Venezuelan bolivar devaluation of February 18, the 9th G7 summit at Williamsburg from May 28, the Right Livelihood Award winners, the El Nino event that ran into this year, the American Midwest drought from May to September, the Gordon Kahl shootout of June 4, the Jesse Jackson candidacy announcement of November 3 and Syria trip of December 29, the shooting down of Mark Lange and Bobby Goodman on December 4, the Denver and Detroit 370-point NBA game of December 13, the Memorial Cup won by the Portland Winter Hawks on May 14, the Shergar reward, and the Roberto Duran, Larry Holmes, Michael Dokes and Marvin Hagler fights of May 20, June 16 and November 10. Deaths that would have earned a place with more room: David Niven on July 29, Luis Bunuel on July 29 and Raymond Massey the same day, George Balanchine on April 30 alongside Muddy Waters, Buckminster Fuller on July 1, Ira Gershwin on August 17, Bear Bryant on January 26, George Halas on October 31, George Cukor on January 24, Norma Shearer on June 12, Eubie Blake on February 12, Earl Hines on April 22, Harry James on July 5, Dennis Wilson on December 28, Slim Pickens on December 8, Robert Aldrich on December 5, Ralph Richardson on October 10, Dolores del Rio on April 11, Jessica Savitch on October 23, Henry M. Jackson on September 1, Arthur Godfrey on March 16, Lynn Fontanne on July 30, Klaus Nomi on August 6, Carolyn Jones on August 3, Buster Crabbe on April 23, Earl Tupper on October 5, Otto Messmer on October 28, Lillian Gordy Carter on October 30, Tom McCall on January 8 and Larry McDonald on September 1, whose death is carried inside world.kal007. The film page's death table gives ages rather than birth years, which is the other reason every deaths fact here cites the US year page. This file runs 52 facts across 10 sections: politics 5, world 7, film 7, tv 7, music 5, tech 5, prices 2, culture 4, sports 5, deaths 5. No section exceeds 7. Television carries 7 because tv.miniseries earns a fact of its own: The Winds of War drew 140 million viewers in February and V took 40 percent of the audience in May, and the alternative was to fold two audience figures into the detail of tv.premieres, which they have nothing to do with. Culture sits at 4 because the Cabbage Patch Kids, the McNugget and the first minivans are undated on the US year page and read better in texture than as a fact with no date."
+}

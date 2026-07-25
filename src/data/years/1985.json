@@ -1,0 +1,511 @@
+{
+  "year": 1985,
+  "tier": "broadcast",
+  "headline": "Gorbachev took charge in March, Live Aid filled two stadiums in July, and Coca-Cola changed its formula in April",
+  "texture": [
+    "The FBI charged the suspected heads of all five New York Mafia families on May 11, and Paul Castellano and Thomas Bilotti were shot dead in front of Spark's Steak House on December 16, which made the hit's organiser John Gotti head of the Gambino family. Richard Ramirez, the serial killer known as the Night Stalker, was captured in Los Angeles on August 31. John Anthony Walker Jr. was arrested on May 19 for passing classified naval communications to the Soviets, in a year the press named the Year of the Spy for the number of arrests.",
+    "French intelligence agents bombed and sank the Greenpeace ship Rainbow Warrior in Auckland Harbour on July 10. P. W. Botha declared a state of emergency across 36 South African magisterial districts on July 20, three months after the country ended its ban on interracial marriages. M-19 guerrillas seized the Palace of Justice in Bogota on November 6, and a military raid left almost half of the 25 Supreme Court justices dead. The Gibraltar border with Spain reopened on February 4, shut since Franco closed it in 1969, and Greenland left the European Economic Community on January 1 over fishing rights.",
+    "Rock in Rio opened on January 11 and drew 1.5 million people, with Queen, AC/DC, Iron Maiden, Rod Stewart and Gilberto Gil on the bill. Wham! played Beijing's Workers Stadium on April 7, the first Western pop group to perform in China. Madonna began her first tour in Seattle on April 10 and finished on June 11 at Madison Square Garden. Michael Jackson paid $47 million on September 6 for the publishing rights to most of the Beatles' songs, outbidding Paul McCartney. Christo and Jeanne-Claude wrapped the Pont Neuf for a fortnight from September 22, drawing three million visitors.",
+    "Garry Kasparov beat Anatoly Karpov on November 9 and became, at 22, the youngest undisputed world chess champion. Richard Stallman published the GNU Manifesto in March and set up the Free Software Foundation in Massachusetts on October 4. Harold Kroto, Robert Curl and Richard Smalley prepared buckminsterfullerene at Rice University. Christa McAuliffe was chosen on July 19 to fly aboard the shuttle Challenger as the first teacher in space. U.S. Route 66 was decommissioned on June 26, and Emirates flew its first service from Dubai to Karachi on October 25. The first Farm Aid concert was held at Champaign, Illinois on September 22."
+  ],
+  "lead": [
+    "pol.us_president",
+    "world.gorbachev",
+    "world.mexico_earthquake",
+    "film.gross#0",
+    "film.how_people_watched",
+    "tv.top_shows#0",
+    "music.listening_format",
+    "prices.gas"
+  ],
+  "facts": {
+    "pol.us_president": {
+      "section": "politics",
+      "label": "US President",
+      "value": "Ronald Reagan (R)",
+      "detail": "Fifth year in office, and the first of his second term. George H. W. Bush was Vice President and Warren E. Burger was Chief Justice. Tip O'Neill was Speaker of the House. Howard Baker was Senate majority leader until January 3 and Bob Dole from that date, when the 99th Congress replaced the 98th. Reagan delivered his fourth State of the Union address on February 6, and sold the rights to his autobiography to Random House on November 26.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "pol.inauguration": {
+      "section": "politics",
+      "label": "Reagan sworn in for a second term",
+      "value": "Reagan and George H. W. Bush took the oath privately at the White House on Sunday January 20, and the public ceremony was held the next day in the Capitol rotunda",
+      "detail": "The date satisfies the constitutional rule that a presidential term begins on January 20. That day fell on a Sunday, which is why the public ceremony moved to Monday January 21, and the dedicated article on the inauguration agrees with the US year page on both dates. The article calls it the 50th inauguration and says the public ceremony was moved indoors to the rotunda because daytime temperatures were 7 degrees Fahrenheit with wind chills of minus 25, which also forced the outdoor parade to be cancelled. Warren E. Burger administered the presidential oath and the former associate justice Potter Stewart the vice-presidential one.",
+      "date": "1985-01-20",
+      "source": "https://en.wikipedia.org/wiki/Second_inauguration_of_Ronald_Reagan"
+    },
+    "pol.acting_president": {
+      "section": "politics",
+      "label": "Bush serves as acting president",
+      "value": "George H. W. Bush was, in the US year page's words, the first official acting president, holding the office from 11:28 am to 7:22 pm while Reagan was under anaesthetic for colon cancer surgery",
+      "detail": "The page gives the times as Eastern Standard Time, which cannot be right for a July date, so no time zone is claimed here. It gives no further account of the operation and no name for the hospital.",
+      "date": "1985-07-13",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "pol.iran_contra": {
+      "section": "politics",
+      "label": "First arms shipment to Iran",
+      "value": "Ninety-six BGM-71 TOW missiles were sent to Iran in exchange for hostages held in Lebanon and profits for the Nicaraguan Contras, without public knowledge",
+      "detail": "The US year page carries the Iran-Contra affair as an ongoing item beginning this year, and the year page's summary of the year lists the secret arms sales among the year's events.",
+      "date": "1985-08-20",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "pol.move_bombing": {
+      "section": "politics",
+      "label": "Philadelphia police bomb a MOVE house",
+      "value": "Mayor Wilson Goode ordered police to storm the headquarters of the group MOVE to end a stand-off, and police dropped an explosive device on the building, killing eleven members and destroying the homes of 61 city residents in the fire that followed",
+      "detail": "The year page describes the same event as bombs dropped on a row home during a gun battle and counts the dead as six adults and five children, which comes to the eleven the US year page gives. The year page's summary of the year also gives eleven.",
+      "date": "1985-05-13",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "world.gorbachev": {
+      "section": "world",
+      "label": "Gorbachev becomes Soviet leader",
+      "value": "Mikhail Gorbachev was made General Secretary of the Soviet Communist Party and de facto leader of the Soviet Union",
+      "detail": "The Victory Day parade on Red Square on May 9, the third full one after those of 1945 and 1965, was the first held under him. It featured T-34-85 tanks and Second World War veterans from Poland, Czechoslovakia and the Soviet Union.",
+      "date": "1985-03-11",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "world.geneva_summit": {
+      "section": "world",
+      "label": "Reagan and Gorbachev meet",
+      "value": "The two leaders met for the first time, in Geneva",
+      "detail": "Both year pages carry the meeting in one line and neither gives an agenda or an outcome.",
+      "date": "1985-11-19",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "world.ozone_hole": {
+      "section": "world",
+      "label": "Ozone hole discovered",
+      "value": "Scientists of the British Antarctic Survey announced it",
+      "detail": "The year page cites the paper by J. C. Farman, B. G. Gardiner and J. D. Shanklin in Nature, titled Large losses of total ozone in Antarctica reveal seasonal ClOx NOx interaction.",
+      "date": "1985-05-16",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "world.mexico_earthquake": {
+      "section": "world",
+      "label": "Mexico City earthquake",
+      "value": "An 8.0 magnitude earthquake struck the city, killing between 5,000 and 45,000 people and injuring 30,000 more",
+      "detail": "The year page gives the death toll only as that range, while its own summary of the year puts the figure at an estimated 45,000, so no single number is stated here.",
+      "date": "1985-09-19",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "world.armero": {
+      "section": "world",
+      "label": "Armero tragedy",
+      "value": "The Nevado del Ruiz volcano erupted in Colombia and an estimated 23,000 people were killed, 21,000 of them by lahars in the town of Armero",
+      "detail": "The year page's summary of the year gives over 23,000 and its November entry an estimated 23,000.",
+      "date": "1985-11-13",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "world.aviation_disasters": {
+      "section": "world",
+      "label": "Airline disasters",
+      "value": [
+        "Japan Air Lines Flight 123 crashes in Japan on August 12, killing 520 including the singer Kyu Sakamoto, with four survivors",
+        "Air India Flight 182 is destroyed by a bomb 31,000 feet above the Atlantic south of Ireland on June 23, killing all 329 aboard",
+        "Arrow Air Flight 1285R crashes after takeoff from Gander, Newfoundland on December 12, killing 256, of whom 248 were US servicemen",
+        "Aeroflot Flight 5143 crashes near Uchquduq in the Uzbek SSR on July 10, killing all 200",
+        "Iberia Airlines Flight 610 crashes on February 19, killing all 148 aboard",
+        "Delta Air Lines Flight 191 crashes near Dallas on August 2, killing 137",
+        "British Airtours Flight 28M catches fire on its takeoff roll at Manchester Airport on August 22, and 55 people die trying to evacuate"
+      ],
+      "detail": "The year page calls the Japan Air Lines crash the worst single-aircraft disaster in aviation history, and says the Arrow Air servicemen were returning to Fort Campbell, Kentucky after overseeing a peacekeeping force in the Sinai. Midwest Express Airlines Flight 105 came down just after takeoff from Milwaukee on September 6, killing all 31, and Bar Harbor Airlines Flight 1808 crashed on August 25, killing all 8, including the 13-year-old Samantha Smith, who had written to Yuri Andropov about nuclear war and visited the Soviet Union at his invitation.",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "world.hijackings": {
+      "section": "world",
+      "label": "Hijackings and airport attacks",
+      "value": [
+        "TWA Flight 847, carrying 153 passengers from Athens to Rome, is hijacked by a Hezbollah fringe group on June 14, and the US Navy petty officer Robert Stethem is killed",
+        "The cruise ship Achille Lauro is hijacked in the Mediterranean by four armed Palestinians on October 7, and the American passenger Leon Klinghoffer is killed",
+        "EgyptAir Flight 648 is hijacked by the Abu Nidal group and flown to Malta on November 23, where Egyptian commandos storm the plane and 60 people are killed by gunfire and explosions",
+        "Abu Nidal gunmen open fire in the Rome and Vienna airports on December 27, leaving 18 dead and 120 injured"
+      ],
+      "detail": "The Lebanon hostage crisis ran through the year. The CNN reporter Jeremy Levin was freed on February 14 and the journalist Terry Anderson was taken in Beirut on March 16. A car bomb planted in Beirut on March 8 in an attempt to kill the cleric Sayyed Mohammad Hussein Fadlallah killed more than 80 people and injured 200 more. Israel began withdrawing troops from Lebanon on February 16, and the ideology of Hezbollah was set out in a programme issued in Beirut the same day.",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "film.gross": {
+      "section": "film",
+      "label": "Highest-grossing films, North America",
+      "value": [
+        "Back to the Future, $210,609,762, Universal",
+        "Rambo: First Blood Part II, $150,415,432, Tri-Star",
+        "Rocky IV, $127,873,716, MGM",
+        "The Color Purple, $94,175,854, Warner Bros.",
+        "Out of Africa, $87,071,205, Universal"
+      ],
+      "detail": "Box-office gross rather than rentals. The table's column header reads Rank, Title, Distributor, Box-office gross, and the sentence above it calls the entries the top ten films released this year by box office gross in North America, so the two agree. Cocoon was sixth at $76,113,124 and The Jewel of the Nile seventh at $75,973,200, both for 20th Century Fox, Witness eighth at $68,706,993 for Paramount, and The Goonies ninth at $61,389,680 and Spies Like Us tenth at $60,088,980, both for Warner Bros.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_film"
+    },
+    "film.best_picture": {
+      "section": "film",
+      "label": "Best Picture",
+      "value": "Out of Africa, produced by Sydney Pollack",
+      "detail": "Awarded the following spring at the 58th Academy Awards, held at the Dorothy Chandler Pavilion in Los Angeles and co-hosted by Alan Alda, Jane Fonda and Robin Williams. Out of Africa won seven awards from eleven nominations, including Best Director for Pollack, adapted screenplay for Kurt Luedtke and the score by John Barry. The Color Purple also had eleven nominations and won nothing, which the ceremony page says put it level with The Turning Point of 1977 as the most nominated film in Oscar history without a single win. The other Best Picture nominees were Kiss of the Spider Woman, Prizzi's Honor and Witness, whose original screenplay by Earl W. Wallace and William Kelley won. The telecast on ABC drew 37.8 million viewers and 27.3 percent of households, which the page calls the lowest for an Academy Award telecast at the time.",
+      "source": "https://en.wikipedia.org/wiki/58th_Academy_Awards"
+    },
+    "film.acting_awards": {
+      "section": "film",
+      "label": "Acting Oscars",
+      "value": [
+        "Best Actor, William Hurt, Kiss of the Spider Woman",
+        "Best Actress, Geraldine Page, The Trip to Bountiful",
+        "Best Supporting Actor, Don Ameche, Cocoon",
+        "Best Supporting Actress, Anjelica Huston, Prizzi's Honor"
+      ],
+      "detail": "The ceremony page says Huston's win, alongside her father John's for directing and her grandfather Walter's for supporting actor for The Treasure of the Sierra Madre of 1948, made them the first three-generation Oscar-winning family, and that for the first time every lead acting nominee had been born in the United States. Harrison Ford was nominated for Witness, Jack Nicholson for Prizzi's Honor, Jon Voight for Runaway Train and James Garner for Murphy's Romance. Whoopi Goldberg, Meryl Streep, Anne Bancroft and Jessica Lange were the other lead actress nominees. The Golden Globes gave best drama to Out of Africa and best musical or comedy to Prizzi's Honor, with Voight and Goldberg taking the drama acting awards and Nicholson and Kathleen Turner the comedy ones. BAFTA gave best film to The Purple Rose of Cairo and best actress to Peggy Ashcroft for A Passage to India.",
+      "source": "https://en.wikipedia.org/wiki/58th_Academy_Awards"
+    },
+    "film.world_cinema": {
+      "section": "film",
+      "label": "Notable films from elsewhere",
+      "value": [
+        "The Official Story, Argentina, directed by Luis Puenzo, winner of the Academy Award for Best Foreign Language Film",
+        "Angry Harvest, Federal Republic of Germany, directed by Agnieszka Holland",
+        "Colonel Redl, Hungary, directed by Istvan Szabo",
+        "Three Men and a Cradle, France, directed by Coline Serreau",
+        "When Father Was Away on Business, Yugoslavia, directed by Emir Kusturica"
+      ],
+      "detail": "These are the five nominees in the Foreign Language Film category, which is where the ceremony page states each film's country and director. It calls The Official Story the first Latin American film to win the category. The Palme d'Or at Cannes went to When Father Was Away on Business, the Golden Lion at Venice to Agnes Varda for Vagabond, and the Golden Bear at Berlin was shared between Die Frau und der Fremde, directed by Rainer Simon of East Germany, and Wetherby, directed by David Hare of the United Kingdom. Akira Kurosawa was nominated for directing Ran, which took four nominations in all.",
+      "source": "https://en.wikipedia.org/wiki/58th_Academy_Awards"
+    },
+    "film.releases": {
+      "section": "film",
+      "label": "Releases and studio changes",
+      "value": [
+        "The Breakfast Club, February 15",
+        "Back to the Future, July 3, which the US year page calls the highest-grossing film of the year",
+        "The Black Cauldron, July 24, Walt Disney Feature Animation's 25th feature film"
+      ],
+      "detail": "The film page says News Group Publications, Rupert Murdoch's company, acquired 50 percent of TCF Holdings, the parent of 20th Century Fox, from Marvin Davis and his family in April for $250 million, and that Roger Moore stepped down as James Bond on December 3 after twelve years and seven films and was replaced by Timothy Dalton. The US year page calls The Black Cauldron one of the studio's darkest releases and says its revenue loss put the future of the animation department in jeopardy. Screen debuts this year included Sean Astin and Josh Brolin in The Goonies, Helena Bonham Carter in A Room with a View, Ethan Hawke in Explorers, Steve Buscemi in The Way It Is and Tim Burton as director of Pee Wee's Big Adventure.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "film.how_people_watched": {
+      "section": "film",
+      "label": "How people watched",
+      "value": "In a theatre, and fewer of them went. The film page says ticket sales fell 17 percent against the year before, despite a record number of releases. The first Blockbuster store opened in Dallas on October 19.",
+      "detail": "The film page's account of the year says many films failed at the box office and that executives blamed a lack of original concepts. It says films about fantasy and magic failed while audiences leaned toward science fiction, that a glut of youth-targeted pictures like Return to Oz and The Black Cauldron and science-fiction comedies like Weird Science, Real Genius and My Science Project lost money, and that the few films aimed at older audiences, Cocoon among them, were surprise successes. Against an average ticket price of $3.55, Back to the Future took $210,609,762 in North America. None of the cached pages says how many homes had a video recorder or what share of film watching happened on tape.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_film"
+    },
+    "film.ticket_price": {
+      "section": "film",
+      "label": "Average US ticket price",
+      "value": "$3.55",
+      "detail": "Derived from the CPI-W index.",
+      "source": "https://web.archive.org/web/20240103133403/https://www.natoonline.org/data/ticket-price/"
+    },
+    "tv.top_shows": {
+      "section": "tv",
+      "label": "Most-watched programs, season starting autumn 1985",
+      "value": [
+        "The Cosby Show, NBC, 33.7 rating",
+        "Family Ties, NBC, 30.0",
+        "Murder, She Wrote, CBS, 25.3",
+        "60 Minutes, CBS, 23.9",
+        "Cheers, NBC, 23.7"
+      ],
+      "detail": "Nielsen reports by season, so this ranking covers the season that opened in the autumn and ran into the following spring. NBC held the top two by more than four rating points over the third-placed program. Dallas was sixth on 21.9 for CBS, ABC's Dynasty tied with NBC's The Golden Girls for seventh on 21.8, Miami Vice was ninth on 21.3 for NBC and Who's the Boss? tenth on 21.1 for ABC. The ranking runs to 30 places and ends with The A-Team on 16.9.",
+      "source": "https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_1985%E2%80%9386"
+    },
+    "tv.premieres": {
+      "section": "tv",
+      "label": "Programs that debuted",
+      "value": [
+        "Moonlighting, ABC, March 3",
+        "Larry King Live, CNN, June 3",
+        "227, NBC, September 14",
+        "The Golden Girls, NBC, September 14",
+        "The Equalizer, CBS, September 18",
+        "Growing Pains, ABC, September 24",
+        "Amazing Stories, NBC, September 29",
+        "MacGyver, ABC, September 29",
+        "The Colbys, ABC, November 20"
+      ],
+      "detail": "Saturday Night's Main Event started on NBC on May 11, which the television page says was the first time professional wrestling had been broadcast on network television since the 1950s. A revival of The Twilight Zone began on CBS on September 27 with the episode Shatterday. New episodes of The Jetsons appeared in syndication on September 16 after a 22-year gap. Saturday Night Live opened its eleventh season on November 9 with Lorne Michaels back as executive producer and a cast including Jon Lovitz and Dennis Miller. ThunderCats started in syndication on January 23, G.I. Joe: A Real American Hero on September 16 and Jem on October 6.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_American_television"
+    },
+    "tv.endings": {
+      "section": "tv",
+      "label": "Programs that finished",
+      "value": [
+        "The Dukes of Hazzard, February 8, having started in 1979",
+        "Alice, March 19, having started in 1976",
+        "Family Feud, June 14, having started in 1976",
+        "The Jeffersons, July 2, having started in 1975",
+        "Fat Albert and the Cosby Kids, August 10, having started in 1972",
+        "Super Friends, November 9, having started in 1973",
+        "He-Man and the Masters of the Universe, November 21, having started in 1983"
+      ],
+      "detail": "The television page's endings table gives each date and start year. It says CBS cancelled The Jeffersons without allowing a proper finale and that Sherman Hemsley learned of it from a newspaper. Diff'rent Strokes finished its seventh NBC season on May 4 and returned on ABC on September 27. Three's a Crowd ended on ABC on April 9, closing John Ritter's run as Jack Tripper, which had begun with Three's Company in 1977. The Electric Company left PBS on October 4 after eight straight years of reruns. Insight, which started in 1960, ended on January 21.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_American_television"
+    },
+    "tv.network_sales": {
+      "section": "tv",
+      "label": "Networks change hands",
+      "value": "Capital Cities Communications announced on March 18 that it was buying ABC for $3.5 billion, and General Electric announced on December 12 that it would buy RCA, the owner of NBC, for $6.3 billion",
+      "detail": "The television page calls the ABC deal the first network sale and says it would force Capital Cities to sell several television and radio stations to satisfy FCC ownership limits, which it began doing with affiliation swaps at Durham and Raleigh on August 4 and at Fresno on September 8. Norman Lear sold Tandem Productions and Embassy Television to the Coca-Cola Company, which already owned Columbia Pictures, for $485 million on March 20. News Corporation and 20th Century Fox announced on May 4 that they intended to buy Metromedia's television stations and Metromedia Producers Corp for $3.5 billion.",
+      "date": "1985-03-18",
+      "source": "https://en.wikipedia.org/wiki/1985_in_American_television"
+    },
+    "tv.cable_launches": {
+      "section": "tv",
+      "label": "New cable channels",
+      "value": [
+        "VH-1, January 1, aimed at an older audience than MTV",
+        "The Nostalgia Channel, February 1",
+        "The Discovery Channel, June 17, launched by John Hendricks",
+        "Nick at Nite, July 1, carried on the same channel as Nickelodeon",
+        "A&E, July 1, on its own satellite transponder having shared Nickelodeon's channel",
+        "CNN International, September 1",
+        "Prime Ticket, October 19"
+      ],
+      "detail": "The television page's launch table gives the dates and lists all of them as cable. The music page says the first video played on VH-1 was Marvin Gaye's rendition of The Star-Spangled Banner. Two more cable services, Tele Vida Abundante and the Video Jukebox Network, launched on dates the page does not give. NBC became the first commercial television network to use satellite interconnection for its stations on February 4, and on September 2 the first broadcast network in the United States to carry its prime-time programs in stereo.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_American_television"
+    },
+    "music.hot100_year_end": {
+      "section": "music",
+      "label": "Year-end Hot 100 singles",
+      "value": [
+        "Careless Whisper, George Michael",
+        "Like a Virgin, Madonna",
+        "Wake Me Up Before You Go-Go, Wham!",
+        "I Want to Know What Love Is, Foreigner",
+        "I Feel for You, Chaka Khan"
+      ],
+      "detail": "From Billboard's year-end Top Pop Singles list dated December 28. The chart credits the top single to George Michael, while the same page's caption calls Careless Whisper the year's biggest hit and counts it among four Wham! songs on the list, so the two do not quite agree on the credit. Madonna and Phil Collins each had five songs on the list, more than any other artist. Out of Touch by Daryl Hall and John Oates was sixth, Everybody Wants to Rule the World by Tears for Fears seventh, Money for Nothing by Dire Straits eighth, Crazy for You by Madonna ninth and Take On Me by a-ha tenth. We Are the World was twentieth and the Miami Vice Theme by Jan Hammer twenty-seventh.",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1985"
+    },
+    "music.listening_format": {
+      "section": "music",
+      "label": "How people listened",
+      "value": "On compact disc, which outsold vinyl for a single album for the first time. The music page says Dire Straits' Brothers in Arms, released May 13 and recorded entirely digitally rather than on analogue tape, was the first album to sell more copies on CD than on phonograph record, and calls it a killer app for the format.",
+      "detail": "In February, RCA Records reissued David Bowie's previous fourteen studio albums and four greatest hits albums on CD, which the music page says made him the first major artist to have his whole catalogue converted to the format. It attributes part of the success of Brothers in Arms to the sound quality the all-digital recording gave it. The first fully digital reggae single, Wayne Smith's (Under Me) Sleng Teng, was recorded at Prince Jammy's studio on December 5, which the music page calls the start of ragga. None of the cached pages gives a figure for CDs or players sold this year.",
+      "date": "1985-05-13",
+      "source": "https://en.wikipedia.org/wiki/1985_in_music"
+    },
+    "music.live_aid": {
+      "section": "music",
+      "label": "Live Aid",
+      "value": "The benefit concerts at Wembley Stadium in London and JFK Stadium in Philadelphia raised over 50 million pounds for famine relief in Ethiopia",
+      "detail": "The music page says the Philadelphia bill included a Led Zeppelin reunion, their first since the band broke up in 1980, and that Phil Collins played both venues with the help of Concorde. It names Queen's performance of Radio Ga Ga at Wembley and says Duran Duran had the American number one single that day with their James Bond theme A View to a Kill. The television page says MTV and over-the-air syndication carried the concerts in the United States, with ABC joining for a three-hour prime-time period.",
+      "date": "1985-07-13",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "music.we_are_the_world": {
+      "section": "music",
+      "label": "We Are the World recorded",
+      "value": "Artists under the name USA for Africa recorded the charity single in Hollywood, written by Michael Jackson and Lionel Richie",
+      "detail": "The music page's list of those present includes Ray Charles, Bob Dylan, Billy Joel, Cyndi Lauper, Willie Nelson, Smokey Robinson, Diana Ross, Paul Simon, Bruce Springsteen, Tina Turner, Harry Belafonte, Dionne Warwick, Bob Geldof and Stevie Wonder. The year page carries the recording among its undated items as well, saying USA for Africa and Live Aid raised money while the Ethiopian famine continued. The music page's table of the year's biggest hit singles puts it top of the Billboard chart in March, and it was twentieth on the year-end Hot 100.",
+      "date": "1985-01-28",
+      "source": "https://en.wikipedia.org/wiki/1985_in_music"
+    },
+    "music.pmrc": {
+      "section": "music",
+      "label": "Senate hearing on rock lyrics",
+      "value": "The Parents Music Resource Center's Senate hearing on rock censorship opened in Washington, and Dee Snider of Twisted Sister, Frank Zappa and John Denver testified against the group",
+      "detail": "The music page gives the hearing one line and names those three witnesses and no others. Two young Judas Priest fans in Sparks, Nevada shot themselves on December 23, one fatally, after listening to the band's records, which the page says was blamed on backwards subliminal messages hidden in the music.",
+      "date": "1985-09-19",
+      "source": "https://en.wikipedia.org/wiki/1985_in_music"
+    },
+    "music.eurovision": {
+      "section": "music",
+      "label": "Eurovision Song Contest",
+      "value": "Norway won the 30th contest, held in Gothenburg, with La det swinge, sung by Bobbysocks!, its first win",
+      "detail": "The music page gives the contest one line and no vote. The 14th OTI Festival, the other song contest it carries, was held at the Teatro Lope de Vega in Seville on September 21 and won by El fandango aqui, written by Marcial Alejandro and performed by Eugenia Leon for Mexico.",
+      "date": "1985-05-04",
+      "source": "https://en.wikipedia.org/wiki/1985_in_music"
+    },
+    "tech.games": {
+      "section": "tech",
+      "label": "Video games",
+      "value": [
+        "Super Mario Bros., Nintendo, September 13, the start of the Mario series",
+        "Gauntlet, Atari Games, October",
+        "Tetris, written by Alexei Pajitnov for the Electronika 60",
+        "Commando, Duck Hunt, Ghosts 'n Goblins, Gradius, Hang-On and Space Harrier, which the games page lists among the year's new titles"
+      ],
+      "detail": "The Nintendo Entertainment System, the export version of the Famicom, was launched in a limited test market in the United States on October 18 along with the Robotic Operating Buddy peripheral, which the year page says helped revive the home video game industry after the crash of 1983. The games page names Hang-On and Karate Champ as the year's highest-grossing arcade video games in the United States and Commando as the highest-grossing in the United Kingdom. The games page puts Famicom and NES sales at 6,500,000 in Japan and 90,000 in the United States, the best-selling home system for a second year, ahead of the Commodore 64 at 2,500,000 worldwide and the IBM PC and PCjr at 1,400,000. Super Mario Bros. sold 2.5 million copies in Japan within several months for more than 12.2 billion yen, about $72 million at the time, and 3 million cartridges by the end of the year. Annual home video game sales in the United States fell to $100 million, while the games page says the arcade business began recovering. Sega launched the Mark III in Japan on October 20 and Nintendo the Family Computer Robot on July 26, and the ColecoVision was discontinued. The Way of the Exploding Fist was the best-selling home game in the United Kingdom and took Game of the Year at the third Golden Joystick Awards.",
+      "date": "1985-10-18",
+      "source": "https://en.wikipedia.org/wiki/1985_in_video_games"
+    },
+    "tech.windows": {
+      "section": "tech",
+      "label": "Microsoft releases Windows",
+      "value": "Microsoft put out the first US release of Windows 1.0, as version 1.01",
+      "detail": "The year page gives the version number and no price or sales figure.",
+      "date": "1985-11-20",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "tech.amiga": {
+      "section": "tech",
+      "label": "Commodore launches the Amiga",
+      "value": "Commodore introduced the Amiga personal computer at the Lincoln Center in New York City",
+      "detail": "The US year page carries the launch in one line and gives no price. The games page's ranking of the year's best-selling home systems puts the Commodore 64 second behind the Nintendo Entertainment System, with 1,000,000 sold in the United States and 2,500,000 worldwide.",
+      "date": "1985-07-24",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "tech.next": {
+      "section": "tech",
+      "label": "Steve Jobs leaves Apple",
+      "value": "Jobs resigned from Apple Computer in order to found NeXT",
+      "detail": "The US year page contradicts itself on the order. Its June 20 entry says NeXT was founded by Jobs after he resigned from Apple, and its September 13 entry says he resigned in order to found NeXT. This fact carries September 13, the date the page gives for the resignation itself, and no date is claimed for the founding.",
+      "date": "1985-09-13",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "tech.titanic": {
+      "section": "tech",
+      "label": "Wreck of the Titanic found",
+      "value": "A joint American and French expedition led by Robert Ballard of Woods Hole and Jean-Louis Michel of IFREMER located it using side-scan sonar from the research vessel Knorr",
+      "detail": "The year page gives no depth or position. The main wreck site of the Spanish galleon Nuestra Senora de Atocha, which sank in 1622, was found forty miles off Key West on July 20, and treasure hunters began excavating $400,000,000 in coins and silver.",
+      "date": "1985-09-01",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "prices.gas": {
+      "section": "prices",
+      "label": "Average US gas price",
+      "value": "$1.20 per gallon",
+      "detail": "Unleaded regular, US city average, including taxes, annual average.",
+      "source": "https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04"
+    },
+    "prices.min_wage": {
+      "section": "prices",
+      "label": "Federal minimum wage",
+      "value": "$3.35 per hour",
+      "detail": "The basic rate for covered nonfarm workers, as in effect on December 31. Unchanged since 1981.",
+      "source": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+    },
+    "culture.mood": {
+      "section": "culture",
+      "label": "Mood",
+      "value": "Two stadiums full of people watched a famine appeal in July, and a soft drink company spent under three months undoing a recipe change. The Soviet Union got a leader young enough to sit down with Reagan in Geneva, and a shop opened in Dallas to rent films out by the night."
+    },
+    "culture.new_coke": {
+      "section": "culture",
+      "label": "Coca-Cola changes its formula",
+      "value": "The company released New Coke, and both year pages say the response was overwhelmingly negative and the original formula was back on the market in less than three months",
+      "detail": "Neither page gives a date for the return of the original formula, so this fact carries only the date of the change.",
+      "date": "1985-04-23",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "culture.calvin_and_hobbes": {
+      "section": "culture",
+      "label": "Calvin and Hobbes begins",
+      "value": "The comic strip appeared for the first time, in 35 newspapers",
+      "detail": "The US year page gives the number of papers and names no syndicate.",
+      "date": "1985-11-18",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "culture.nobel_prizes": {
+      "section": "culture",
+      "label": "Nobel Prizes",
+      "value": [
+        "Physics, Klaus von Klitzing",
+        "Chemistry, Herbert A. Hauptman and Jerome Karle",
+        "Literature, Claude Simon",
+        "Peace, International Physicians for the Prevention of Nuclear War",
+        "Physiology or Medicine, Michael Stuart Brown and Joseph L. Goldstein",
+        "Economics, Franco Modigliani"
+      ],
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "sports.world_series": {
+      "section": "sports",
+      "label": "World Series",
+      "value": "Kansas City Royals beat the St. Louis Cardinals four games to three",
+      "detail": "The sports page calls them the first team to win the World Series after losing the first two games at home, and the US year page dates the deciding game to October 27. Rod Carew of the California Angels reached 3,000 hits on August 4, the sixteenth player to do so, and Tom Seaver of the Chicago White Sox and Phil Niekro of the New York Yankees became the seventeenth and eighteenth pitchers to win 300 games, on August 4 and October 6. Rollie Fingers broke Sparky Lyle's American League career record of 232 saves. Dwight Gooden was the Associated Press male athlete of the year.",
+      "date": "1985-10-27",
+      "source": "https://en.wikipedia.org/wiki/1985_in_sports"
+    },
+    "sports.pete_rose": {
+      "section": "sports",
+      "label": "Pete Rose passes Ty Cobb",
+      "value": "The Cincinnati Reds player and manager broke Cobb's record of 4,191 career hits with a single off the San Diego Padres pitcher Eric Show",
+      "detail": "The US year page puts the hit at number 4,192, at Riverfront Stadium in Cincinnati, and dates it to September 11. ABC's Wide World of Sports named Rose its athlete of the year.",
+      "date": "1985-09-11",
+      "source": "https://en.wikipedia.org/wiki/1985_in_sports"
+    },
+    "sports.super_bowl": {
+      "section": "sports",
+      "label": "Super Bowl XIX",
+      "value": "The San Francisco 49ers beat the Miami Dolphins 38 to 16 at Stanford Stadium in front of 84,059, with the quarterback Joe Montana named most valuable player",
+      "detail": "The television page says this was the first Super Bowl televised by ABC, which joined the rotation with CBS and NBC, and the first with closed captioning provided in real time. The Baltimore Stars beat the Oakland Invaders 28 to 24 for the USFL championship.",
+      "date": "1985-01-20",
+      "source": "https://en.wikipedia.org/wiki/1985_in_sports"
+    },
+    "sports.champions": {
+      "section": "sports",
+      "label": "Other championships",
+      "value": [
+        "Stanley Cup, Edmonton Oilers over the Philadelphia Flyers, four games to one",
+        "NBA Finals, Los Angeles Lakers over the Boston Celtics, four games to two",
+        "NCAA basketball, Villanova 66, Georgetown 64",
+        "FA Cup, Manchester United 1, Everton 0 after extra time",
+        "Grey Cup, B.C. Lions 37, Hamilton Tiger-Cats 24",
+        "World Snooker Championship, Dennis Taylor over Steve Davis, 18 to 17",
+        "World middleweight title, Marvin Hagler over Thomas Hearns by a third-round knockout, April 15",
+        "World heavyweight title, Michael Spinks over Larry Holmes on a fifteen-round decision, September 21"
+      ],
+      "detail": "The US year page dates the Lakers' win to June 9 and Villanova's to April 1, and calls Villanova eighth-seeded. The sports page says Kevin Moran of Manchester United took the first red card in an FA Cup final, that Everton were English champions for an eighth time with a record points total for a 42-game programme under three points for a win, and that Spinks was the first world light heavyweight champion to win a world heavyweight title. Wayne Gretzky of the Edmonton Oilers took the Art Ross Trophy and the Hart Memorial Trophy. Essendon won the 89th VFL premiership, beating Hawthorn 170 to 92. Bernard Hinault won both the Tour de France and the Giro d'Italia, Bernhard Langer the Masters and Curtis Strange the money list at $542,321. Boris Becker won Wimbledon, Martina Navratilova took the Australian Open and Wimbledon, and Sweden beat West Germany 3 to 2 in the Davis Cup. Europe won the Ryder Cup 16 and a half to 11 and a half, and Libby Riddles was the first woman to win the Iditarod.",
+      "source": "https://en.wikipedia.org/wiki/1985_in_sports"
+    },
+    "sports.heysel": {
+      "section": "sports",
+      "label": "Heysel Stadium disaster",
+      "value": "Thirty-nine spectators were killed in rioting on the terraces during the European Cup final between Liverpool and Juventus at Heysel Stadium in Brussels, which Juventus won 1 to 0",
+      "detail": "The year page gives the toll and the score and no account of what caused the crush. Fifty-six people had died eighteen days earlier at Valley Parade in Bradford, when a fire engulfed a wooden stand during a match.",
+      "date": "1985-05-29",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "sports.wrestlemania": {
+      "section": "sports",
+      "label": "First WrestleMania",
+      "value": "The World Wrestling Federation held it at Madison Square Garden, with Hulk Hogan and Mr. T against Paul Orndorff and Roddy Piper in the main event",
+      "detail": "The television page says the event went to selected pay-per-view areas and, more widely, to closed-circuit locations across the country, drawing over a million viewers on closed circuit. A technical fault cut the feed early at the Civic Arena in Pittsburgh, close to causing a riot, after which the WWF showed the event in full on the ABC affiliate WTAE-TV two weeks later. Jim Crockett Promotions and the National Wrestling Alliance held the third Starrcade on November 28, split between arenas in Greensboro and Atlanta.",
+      "date": "1985-03-31",
+      "source": "https://en.wikipedia.org/wiki/1985"
+    },
+    "deaths.hudson": {
+      "section": "deaths",
+      "label": "Rock Hudson",
+      "value": "Died October 2. Born 1925",
+      "detail": "Actor. The television page says he appeared gaunt and nearly incoherent at a Hollywood press conference with Doris Day on July 16, and that the footage was replayed on national news programs for days afterwards.",
+      "date": "1985-10-02",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "deaths.welles": {
+      "section": "deaths",
+      "label": "Orson Welles",
+      "value": "Died October 10. Born 1915",
+      "detail": "Actor and director. The television page says he recorded his last interview on the syndicated Merv Griffin Show on October 9, with the biographer Barbara Leaming, and died of a heart attack the following morning.",
+      "date": "1985-10-10",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "deaths.brynner": {
+      "section": "deaths",
+      "label": "Yul Brynner",
+      "value": "Died October 10. Born 1920",
+      "detail": "Actor. The television page says that on January 7, appearing on ABC's Good Morning America with terminal lung cancer, Brynner said he wanted a public service announcement telling people not to smoke to run after his death.",
+      "date": "1985-10-10",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "deaths.hamilton": {
+      "section": "deaths",
+      "label": "Margaret Hamilton",
+      "value": "Died May 16. Born 1902",
+      "detail": "Actress.",
+      "date": "1985-05-16",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    },
+    "deaths.nelson": {
+      "section": "deaths",
+      "label": "Ricky Nelson",
+      "value": "Died December 31. Born 1940",
+      "detail": "Musician and actor.",
+      "date": "1985-12-31",
+      "source": "https://en.wikipedia.org/wiki/1985_in_the_United_States"
+    }
+  },
+  "figures_basis": "gross",
+  "notes": "Research pass July 2026, from the cached wikitext under .sources/1985. figures_basis is gross, checked with bo.mjs rather than assumed from the era. The box office table's column header reads verbatim: Rank!! Title !! Distributor !! Box-office gross, and the sentence introducing the table on the same page reads: The top ten 1985 released films by box office gross in North America are as follows. Header and introduction agree, so there is no rentals gloss to write. Date checks. There is an inauguration this year and it satisfies the constitutional rule that a term begins on January 20. January 20 fell on a Sunday, so the oath was taken privately at the White House that day and the public ceremony was held on Monday January 21. The year page agrees with the US year page, and the dedicated article Second inauguration of Ronald Reagan was pulled as raw wikitext to check the constraint: it gives the same two dates, calls it the 50th inauguration, and supplies the reason the public ceremony moved indoors to the Capitol rotunda. There is no disagreement to name, so pol.inauguration cites the dedicated article for the fuller account and no fact carries a wrong weekday. There are no federal elections this year. The Academy Awards honouring this year of film are the 58th, which the ceremony's own page dates to March 24 of the following year at the Dorothy Chandler Pavilion; that falls outside this year, so film.best_picture says awarded the following spring and gives no ceremony date, and no fact carries a token later than 1985. The 57th Academy Awards of March 25, hosted by Jack Lemmon at the Dorothy Chandler Pavilion, which honoured the previous year of film and gave Best Picture to Amadeus, is left out for the same reason 1982 leaves out the 54th: it would put a second Best Picture on the page. The 27th Grammy Awards of February 26, hosted by John Denver, are left out on the same principle, since they honoured the previous year's recordings and gave Album of the Year to Lionel Richie's Can't Slow Down, Record and Song of the Year to Tina Turner's What's Love Got to Do with It and Best New Artist to Cyndi Lauper. No radio section, because the radio window closed after 1959. No tech.internet fact, because that window does not open until 1993: the year page's January 1 line saying the Internet's Domain Name System was created is left out on that ground rather than for want of a source, and the page itself marks the line as uncited. The Nielsen ranking covers a season that began in the autumn of 1985 and ran into the following spring, which tv.top_shows states without naming a second year. Source disagreements labelled rather than resolved. The Hot 100 year-end page credits the year's top single, Careless Whisper, to George Michael in its table and to Wham! in its own image caption, and music.hot100_year_end carries the table's credit and names the discrepancy. The US year page's June 20 entry says NeXT was founded by Steve Jobs after he resigned from Apple, and its September 13 entry says he resigned in order to found NeXT, so tech.next dates only the resignation and says the page contradicts itself. The MOVE bombing is eleven members killed on the US year page and six adults and five children on the year page, which agree in total, and pol.move_bombing says so. The Mexico City earthquake is between 5,000 and 45,000 dead in the year page's September entry and an estimated 45,000 in the same page's summary of the year, so world.mexico_earthquake gives the range and names the other figure. The March 8 Beirut car bomb is planted by CIA mercenaries on the US year page and simply planted in an attempt to assassinate Fadlallah on the year page, and world.hijackings follows the year page's neutral wording rather than repeating an attribution only one page makes. The May 31 tornado outbreak is 41 tornadoes and 76 dead on the US year page and 44 tornadoes and 90 dead on the year page, so it is left out entirely rather than given a count. Facts taking their value from one cached page and part of their detail from another: pol.move_bombing cites the US year page and names the year page's version; world.gorbachev cites the year page throughout; film.releases cites the US year page for the three dated releases and takes the Murdoch purchase, the Bond recasting and the screen debuts from the film page; film.how_people_watched cites the film page for the ticket-sales fall and the account of the year, takes the Blockbuster opening from the year page and the ticket price from the series data; tv.cable_launches cites the television page for the launch table and takes the first VH-1 video from the music page and the Discovery Channel founder from the US year page; music.live_aid cites the year page for the sum raised and takes the performances from the music page and the broadcast arrangements from the television page; music.we_are_the_world cites the music page and names the year page's undated entry; sports.super_bowl cites the sports page for the score, venue, attendance and most valuable player and takes the ABC broadcast firsts from the television page; sports.champions cites the sports page and takes the Lakers and Villanova dates from the US year page; sports.wrestlemania cites the year page for the venue and main event and takes the closed-circuit figures and the Pittsburgh fault from the television page; sports.pete_rose cites the sports page for the record broken and takes the hit number and the stadium from the US year page; the three October deaths and deaths.brynner take their dates and birth years from the US year page's death list and their detail from the television page. General knowledge rather than a claim from the cached pages: that the Blockbuster store in Dallas rented films on videotape, which the year page does not say and which film.how_people_watched therefore does not state as a fact; that a cinema audience of this period saw a new film in a theatre first, which film.how_people_watched gives as the answer to its own question; and the whole of culture.mood, which is the one fact the schema allows to carry no source. All come out if challenged. Titles and names containing a four-digit number. Nothing on this page needed an entry in src/data/name_years.json. Two flight numbers, Arrow Air 1285R and Bar Harbor Airlines 1808, and Pete Rose's 4,192nd hit fall inside the four-digit range the anachronism check scans, but every one of them is below 1985, and the check only fires on numbers later than the file's own year, so none was at risk. No 1985 game, film, album or product carries a number above 1985. Month-only dates. No fact carries one. Two items used only in detail are dated to the month on their source pages and are stated that way: the Murdoch purchase of half of TCF Holdings in April, in film.releases, and the RCA reissue of the Bowie catalogue on CD in February, in music.listening_format. Dropped for lack of a source that says enough, or for room: the Algarrobo earthquake of March 3, which killed 177 in Chile and left about a million people homeless, dropped rather than parked in the detail of a different country's earthquake; the Schengen Agreement of June 14 and the Plaza Accord of September 22, both carried on the year page in a single line with no terms; Operation Wooden Leg of October 1, the Israeli air force strike on Palestine Liberation Organization headquarters near Tunis, dropped rather than parked in the detail of the hijackings fact, which it has no stated connection to; the North American Soccer League's suspension of operations, dropped for the same reason from the Super Bowl fact and because the sports page gives its hoped-for return as a year after this one; the Tears for Fears single held off the top of the UK chart for two weeks in April by We Are the World, dropped rather than parked in the detail of the Eurovision fact; Tancredo Neves's election on January 15 and Jose Sarney's assumption of the Brazilian presidency on March 15, and Julio Maria Sanguinetti's swearing-in in Uruguay on March 1, all dropped for room; the FDA's approval of an AIDS blood test on March 4; Ryan White being allowed to attend classes by telephone on August 26, which the US year page reports without saying why he had been expelled, so no reason is stated anywhere here; Aspen's restaurant smoking ban of August 28; Hurricane Elena's landfall on September 2; the Mameyes landslide in Puerto Rico of October 7, which killed close to 300; the Val di Stava dam collapse of July 19, which killed 268; the Bangladesh storm surge of May 25, which killed about 10,000; the Newry mortar attack of February 28, which killed nine RUC officers; the El Descanso bombing of April 12; the Accomarca massacre of August 14; the Villa Epecuen flood of November 6; Expo '85 at Tsukuba, which opened March 17 and ran to September 16; Studio Ghibli's founding in Tokyo on June 15; the Ford Taurus and Mercury Sable going on sale on December 1; the first Farm Aid concert, in texture instead; Elmo's introduction on Sesame Street on November 18 and the Sesame Street cast meeting Snuffleupagus in the same episode; Procter & Gamble dropping the moon and stars from its packaging, which the US year page dates only to April and gives no reason for, so it is not parked in the New Coke detail; the Tommy Hilfiger brand and ATI Technologies, both undated on the US year page; DNA's first use in a criminal case, undated on the year page; Bobby Knight throwing a chair on February 13; Danny Sullivan beating Mario Andretti at the Indianapolis 500 on May 26; the Bill James Historical Baseball Abstract; the Pan Pacific Swimming Championships of August 15 to 18 and the world 50m freestyle records of July 21 and December 6; and the Rome and Vienna attacks' attribution beyond Abu Nidal, which neither page gives. Deaths that would have earned a place with more room: E. B. White on October 1, Roger Maris on December 14, Dian Fossey found murdered in Rwanda on December 27 with her death listed as December 26, Anne Baxter on December 12, Phil Silvers on November 1, Louise Brooks on August 8, Ruth Gordon on August 20, Potter Stewart on December 7, Eugene Ormandy on March 12, Nelson Riddle on October 6, Stepin Fetchit on November 19, Nicholas Colasanto on February 12, Cus D'Amato on November 4, Samantha Smith on August 25 whose crash is in world.aviation_disasters, Johnny Olson on October 12, Chester Gould on May 11, Edmond O'Brien on May 9, Sam Ervin on April 23 and James Beard on January 21. Names are written in ASCII per the corpus convention, so Jose Sarney, Julio Maria Sanguinetti, Agnes Varda, Istvan Szabo, Nuestra Senora de Atocha, El fandango aqui and Eugenia Leon lose their diacritics. Deaths carry a birth year rather than an age, because the US year page's death list gives only the year. This file runs 52 facts across 10 sections: politics 5, world 7, film 7, tv 5, music 6, tech 5, prices 2, culture 4, sports 6, deaths 5. No section exceeds 7."
+}
