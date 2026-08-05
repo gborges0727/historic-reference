@@ -4,10 +4,9 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description: string;
-  tier?: 'early' | 'broadcast' | 'modern';
 }
 
-const { title, description, tier = 'modern' } = Astro.props;
+const { title, description } = Astro.props;
 ---
 
 <!doctype html>
@@ -19,16 +18,10 @@ const { title, description, tier = 'modern' } = Astro.props;
     <meta name="description" content={description} />
     <link
       rel="icon"
-      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23dfe1dc'/%3E%3Crect x='2' y='4' width='12' height='8' fill='none' stroke='%2316181d' stroke-width='1.2'/%3E%3Cline x1='6' y1='4' x2='6' y2='12' stroke='%2316181d' stroke-width='1.2' stroke-dasharray='1.5 1.5'/%3E%3C/svg%3E"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Newsreader:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@400;500&display=swap"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23ffffff'/%3E%3Crect x='2' y='11' width='12' height='2' fill='%23eceef0'/%3E%3Crect x='2' y='11' width='4' height='2' fill='%23e8590c'/%3E%3Crect x='2' y='3' width='12' height='2' fill='%23111214'/%3E%3C/svg%3E"
     />
   </head>
-  <body data-tier={tier}>
+  <body>
     <slot />
   </body>
 </html>

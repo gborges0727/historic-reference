@@ -61,11 +61,12 @@ src/
     sections.mjs         availability windows, section grouping
     anchor.mjs           computes the anchoring block, pure
     series.mjs           the only module that imports the baked series
+    lead.mjs             row labels for the lead table
+    entries.mjs          list-fact entry splitting and card width
     format.mjs
   layouts/Base.astro
   components/
-    AnchorStub.astro
-    Fact.astro
+    Card.astro
   pages/
     index.astro
     corrections.astro

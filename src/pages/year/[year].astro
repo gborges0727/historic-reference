@@ -1,12 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import AnchorStub from '../../components/AnchorStub.astro';
-import Fact from '../../components/Fact.astro';
+import Card from '../../components/Card.astro';
 import { buildAnchor } from '../../lib/anchor.mjs';
 import { series, techFirsts, NOW } from '../../lib/series.mjs';
 import { groupFacts } from '../../lib/sections.mjs';
-import { resolveLead } from '../../lib/year-schema.mjs';
+import { resolveLead, FIRST_YEAR } from '../../lib/year-schema.mjs';
+import { leadRows } from '../../lib/lead.mjs';
 
 export async function getStaticPaths() {
   const entries = await getCollection('years');
@@ -27,7 +27,7 @@ export async function getStaticPaths() {
 
 const { data, previous, next } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const anchor = buildAnchor({ year: data.year, now: NOW, series, techFirsts });
+const anchor = buildAnchor({ year: data.year, now: NOW, series, techFirsts, first: FIRST_YEAR });
 
 // Lead pointers resolve to a fact plus the single value they point at. The validator
 // has already proved every one of them resolves, so a null here is impossible.
@@ -38,6 +38,8 @@ const lead = data.lead
   })
   .filter(Boolean);
 
+const rows = leadRows(lead);
+
 // A lead pointer with an index, film.gross#0, borrows one value out of a list fact.
 // The fact still belongs in its section, or the other four films never render and a
 // section whose only fact was promoted disappears from the page. Only a pointer at a
@@ -45,93 +47,151 @@ const lead = data.lead
 const promotedWhole = lead.filter((item: any) => item.index === null).map((item: any) => item.id);
 const groups = groupFacts(data.facts, { exclude: promotedWhole });
 
-const BASIS_NOTE: Record<string, string> = {
-  rentals:
-    'Box office figures for this year are rentals, the distributor share rather than the ticket-window total.',
-  unavailable:
-    'Box office figures for this year could not be established on a consistent basis, so the films are ranked without amounts.',
-};
-const basisNote = data.figures_basis ? BASIS_NOTE[data.figures_basis] : undefined;
+/**
+ * The figures-basis sentence in the footer. `figures_basis` says rentals or gross and
+ * cannot say which territory, so the territory is read back out of the film fact,
+ * where check 9 of the validator has already required one of these four phrases.
+ */
+const TERRITORY = ['worldwide', 'North America', 'United States and Canada', 'domestic'];
+const filmFact: any = data.facts['film.gross'];
+const inText = (text: string) => TERRITORY.find((phrase) => text.includes(phrase));
+// The label first, and the detail only when the label names no territory. A 1983
+// detail explaining that the worldwide figure would be higher must not turn a North
+// American ranking into a worldwide one in the footer. Five years read wrong when
+// both strings were searched together.
+const territory = filmFact ? inText(filmFact.label) ?? inText(filmFact.detail ?? '') : undefined;
+
+const basisNote = (() => {
+  if (data.figures_basis === 'rentals') {
+    return 'Box office figures for this year are rentals, the distributor share rather than the ticket-window total.';
+  }
+  if (data.figures_basis === 'unavailable') {
+    return 'Box office figures for this year could not be established on a consistent basis, so the films are ranked without amounts.';
+  }
+  if (data.figures_basis === 'gross') {
+    if (territory === 'worldwide') return 'Box office figures for this year are worldwide gross.';
+    if (territory) return `Box office figures for this year are gross, ${territory} rather than worldwide.`;
+    return 'Box office figures for this year are gross rather than rentals.';
+  }
+  return undefined;
+})();
+
+const memoryLine = [anchor.livingMemory.line, anchor.technology.sentence].filter(Boolean).join(' ');
 
 const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.replace(/\/{2,}/g, '/');
+const position = `${anchor.distance.position.toFixed(1)}%`;
 ---
 
-<Base
-  title={`${data.year} | Year Context`}
-  description={data.headline}
-  tier={data.tier}
->
-  <main class="shell">
-    <div class="rail">
-      <h1 class="rail__year">{data.year}</h1>
-      <div class="rail__tier">{data.tier}</div>
-      <nav class="rail__nav" aria-label="Nearby years">
+<Base title={`${data.year} | Year Context`} description={data.headline}>
+  <main class="sheet">
+    <div class="topbar">
+      <a class="topbar__home" href={href('')}>Year Context</a>
+      <span class="topbar__nav">
         {previous && <a href={href(`year/${previous}`)}>← {previous}</a>}
         {next && <a href={href(`year/${next}`)}>{next} →</a>}
         <a href={href('')}>all years</a>
-      </nav>
+      </span>
     </div>
 
-    <div class="column">
-      <p class="headline">{data.headline}</p>
+    <div class="hero">
+      <div>
+        <h1 class="hero__year">{data.year}</h1>
+        <p class="hero__headline">{data.headline}</p>
 
-      <AnchorStub anchor={anchor} />
+        <div class="timeline">
+          <div class="timeline__track">
+            <div class="timeline__fill" style={`width: ${position}`}></div>
+            <div class="timeline__marker" style={`left: ${position}`}></div>
+          </div>
+          <div class="timeline__scale">
+            <span>{FIRST_YEAR}</span>
+            <span class="timeline__distance">
+              {
+                anchor.distance.years === 0
+                  ? 'this year'
+                  : `${anchor.distance.years} ${anchor.distance.years === 1 ? 'year' : 'years'} away`
+              }
+            </span>
+            <span>{NOW}</span>
+          </div>
+          <p class="timeline__note">{memoryLine}</p>
+        </div>
+      </div>
 
-      <ul class="lead">
-        {
-          lead.map((item: any) => (
-            <li class="lead__item">
-              <div class="lead__label">{item.fact.label}</div>
-              {/*
-                A pointer at a whole fact can land on an array value, and rendering an
-                array here concatenates it: 1994's games read "December 3Sega Saturn,
-                released in Japan on November 22Sega 32X". Fact.astro already handled
-                this; the lead never did. Eight years were affected.
-              */}
-              {Array.isArray(item.value) ? (
-                <ul class="lead__list">
-                  {item.value.map((entry: string) => (
-                    <li>{entry}</li>
+      <div class="leadbox">
+        <dl class="lead">
+          {
+            rows.map((row: any) => (
+              <>
+                <dt>{row.label}</dt>
+                <dd>
+                  {row.values.map((value: string, i: number) => (
+                    <>
+                      {i > 0 && <br />}
+                      {value}
+                    </>
                   ))}
-                </ul>
-              ) : (
-                <div class="lead__value">{item.value}</div>
-              )}
-            </li>
-          ))
-        }
-      </ul>
+                </dd>
+              </>
+            ))
+          }
+        </dl>
+        <nav class="jumpnav" aria-label="Sections on this page">
+          Below: {
+            groups.map((group: any, i: number) => (
+              <>
+                {i > 0 && ' · '}
+                <a href={`#${group.section}`}>{group.title}</a>
+              </>
+            ))
+          }
+        </nav>
+      </div>
+    </div>
 
-      <div class="texture">
+    <div class="vitals">
+      {
+        anchor.thenAndNow.map((figure: any) => (
+          <div class="vital">
+            <div class="vital__label">{figure.label}</div>
+            <div class="vital__then">{figure.thenShort}</div>
+            {!figure.unchanged && <div class="vital__now">now {figure.nowShort}</div>}
+          </div>
+        ))
+      }
+    </div>
+
+    <section class="block">
+      <h2 class="block__label"><span>The year,</span><span>in prose</span></h2>
+      <div class="prose">
         {data.texture.map((paragraph: string) => <p>{paragraph}</p>)}
       </div>
+    </section>
 
-      <div class="sections">
-        {
-          groups.map((group: any) => (
-            <section>
-              <h2 class="section__title">{group.title}</h2>
-              <ul class="facts">
-                {group.facts.map((fact: any) => (
-                  <Fact fact={fact} />
-                ))}
-              </ul>
-            </section>
-          ))
-        }
-      </div>
-    </div>
+    {
+      groups.map((group: any, i: number) => (
+        <section class:list={['block', i === 0 && 'block--first']} id={group.section}>
+          <h2 class="block__label">
+            <span>{String(i + 1).padStart(2, '0')}</span>
+            <span>{group.title}</span>
+          </h2>
+          <div class="cards">
+            {group.facts.map((fact: any) => (
+              <Card fact={fact} />
+            ))}
+          </div>
+        </section>
+      ))
+    }
 
     <footer class="pagefoot">
-      <div>
-        {previous && <a href={href(`year/${previous}`)}>{previous}</a>}
-        {previous && next && ' / '}
-        {next && <a href={href(`year/${next}`)}>{next}</a>}
-      </div>
-      {basisNote && <div class="pagefoot__basis">{basisNote}</div>}
-      <div>
-        <a href={href('corrections')}>Something wrong? Send a correction</a>
-      </div>
+      <span>
+        {previous && <a href={href(`year/${previous}`)}>← {previous}</a>}
+        {previous && next && ' · '}
+        {next && <a href={href(`year/${next}`)}>{next} →</a>}
+      </span>
+      {basisNote && <span class="pagefoot__basis">{basisNote}</span>}
+      <a href={href('corrections')}>Something wrong? Send a correction</a>
     </footer>
   </main>
 </Base>

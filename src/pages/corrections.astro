@@ -14,12 +14,17 @@ const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.
   title="Corrections | Year Context"
   description="How to report a wrong fact, and what happens to it."
 >
-  <main class="shell" style="grid-template-columns: minmax(0, 1fr);">
-    <div class="column" style="max-width: 62ch;">
-      <h1 style="font-size: clamp(2rem, 1.4rem + 3vw, 3.5rem); margin-bottom: 1.5rem;">
-        Corrections
-      </h1>
-      <div class="texture">
+  <main class="sheet">
+    <div class="topbar">
+      <a class="topbar__home" href={href('')}>Year Context</a>
+      <span class="topbar__nav"><a href={href('')}>all years</a></span>
+    </div>
+
+    <h1 class="pagetitle">Corrections</h1>
+
+    <section class="block">
+      <h2 class="block__label"><span>How it</span><span>works</span></h2>
+      <div class="copy">
         <p>
           Every page here is generated from sourced data, and generated history contains errors.
           What separates a record people can use from one they cannot is whether the errors are
@@ -35,6 +40,12 @@ const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.
           read <a href={`${REPO}/blob/main/CORRECTIONS.md`}>CORRECTIONS.md</a> for what has already
           been fixed.
         </p>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2 class="block__label"><span>What the</span><span>figures mean</span></h2>
+      <div class="copy">
         <p>
           Some figures cannot be pinned down and are labelled rather than guessed. Box office is
           the clearest case, and it changes twice. Through 1976 the tables report rentals, the
@@ -44,8 +55,11 @@ const href = (path: string) => `${base}${base.endsWith('/') ? '' : '/'}${path}`.
           same way. Every page states both the basis and the territory it used, and where no basis
           could be established films are ranked with no amounts at all.
         </p>
-        <p><a href={href('')}>Back to the years</a></p>
       </div>
-    </div>
+    </section>
+
+    <footer class="pagefoot">
+      <a href={href('')}>Back to the years</a>
+    </footer>
   </main>
 </Base>

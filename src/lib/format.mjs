@@ -48,6 +48,40 @@ export function formatPeople(n) {
   return formatInt(n);
 }
 
+/**
+ * The same people figure at vitals size, where 26px of "2.09 billion" does not fit
+ * the column. "124M", "2.09B". The precision matches formatPeople so the two never
+ * disagree about what the series says.
+ */
+export function formatPeopleShort(n) {
+  if (n === null || n === undefined) return null;
+  if (n >= 1_000_000_000) return `${(n / 1_000_000_000).toFixed(2)}B`;
+  if (n >= 10_000_000) return `${Math.round(n / 1_000_000)}M`;
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1)}M`;
+  return formatInt(n);
+}
+
+/** Life expectancy with the unit carried by the label above it rather than repeated. */
+export function formatYearsShort(n) {
+  if (n === null || n === undefined) return null;
+  return n.toFixed(1);
+}
+
+const MONTHS = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+
+/**
+ * The card date stamp. "1931-03-03" reads "MAR 3", "1931-09" reads "SEP". Parsed off
+ * the string rather than through Date, which would shift a UTC midnight backward a
+ * day in any timezone west of London and stamp the wrong month on New Year facts.
+ */
+export function dateStamp(iso) {
+  if (!iso) return '';
+  const [, month, day] = iso.split('-');
+  const name = MONTHS[Number(month) - 1];
+  if (!name) return '';
+  return day ? `${name} ${Number(day)}` : name;
+}
+
 export function formatDollars(n, { decimals = 2 } = {}) {
   if (n === null || n === undefined) return null;
   return `$${n.toFixed(decimals)}`;

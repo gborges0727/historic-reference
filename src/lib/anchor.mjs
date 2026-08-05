@@ -2,8 +2,10 @@ import {
   numberToWords,
   spelledYears,
   formatPeople,
+  formatPeopleShort,
   formatDollars,
   formatYearsOld,
+  formatYearsShort,
   joinClauses,
 } from './format.mjs';
 
@@ -60,15 +62,18 @@ export function valueAt(series, year) {
   return value === undefined ? null : value;
 }
 
-/** How long ago, and the same distance again measured backward from the page year. */
-export function distance(year, now) {
+/** How long ago the year is, and where it sits on the 1920 to now span. */
+export function distance(year, now, first = 1920) {
   const years = now - year;
+  const span = now - first;
   return {
     years,
     words: numberToWords(years),
     spelled: spelledYears(years),
-    mirrorYear: year - years,
     sameYear: years === 0,
+    // Position on the timeline strip, clamped so a year outside the span cannot
+    // push the marker off the track.
+    position: span <= 0 ? 100 : Math.min(100, Math.max(0, ((year - first) / span) * 100)),
   };
 }
 
@@ -97,7 +102,9 @@ export function livingMemory(year, now) {
 export function thenAndNow(year, series) {
   const items = [];
 
-  const add = (key, label, format, options = {}) => {
+  // `short` is the vitals-row form, where a 26px figure has a 180px column to sit in.
+  // `then` and `now` stay the spelled-out sentence forms.
+  const add = (key, label, format, short, options = {}) => {
     const source = series[key];
     if (!source) return;
     const then = valueAt(source, year);
@@ -108,15 +115,17 @@ export function thenAndNow(year, series) {
       label,
       then: format(then),
       now: format(nowest.value),
+      thenShort: short(then),
+      nowShort: short(nowest.value),
       nowYear: nowest.year,
       unchanged: then === nowest.value,
       ...options,
     });
   };
 
-  add('population_us', 'People in the US', formatPeople);
-  add('population_world', 'People on earth', formatPeople);
-  add('life_expectancy_us', 'US life expectancy', formatYearsOld);
+  add('population_us', 'People in the US', formatPeople, formatPeopleShort);
+  add('population_world', 'People on earth', formatPeople, formatPeopleShort);
+  add('life_expectancy_us', 'US life expectancy', formatYearsOld, formatYearsShort);
 
   const cpi = series.cpi_us;
   const cpiThen = valueAt(cpi, year);
@@ -127,6 +136,8 @@ export function thenAndNow(year, series) {
       label: 'One dollar',
       then: formatDollars(1),
       now: formatDollars(cpiNow.value / cpiThen),
+      thenShort: formatDollars(1),
+      nowShort: formatDollars(cpiNow.value / cpiThen),
       nowYear: cpiNow.year,
       unchanged: false,
       note: `A ${year} dollar bought what ${formatDollars(cpiNow.value / cpiThen)} buys in ${cpiNow.year}.`,
@@ -183,11 +194,12 @@ function joinPhrases(phrases) {
   return `${phrases.slice(0, -1).join(', ')} and ${phrases[phrases.length - 1]}`;
 }
 
-export function buildAnchor({ year, now, series, techFirsts }) {
+export function buildAnchor({ year, now, series, techFirsts, first = 1920 }) {
   return {
     year,
     now,
-    distance: distance(year, now),
+    first,
+    distance: distance(year, now, first),
     livingMemory: livingMemory(year, now),
     thenAndNow: thenAndNow(year, series),
     technology: technologyAge(year, techFirsts),

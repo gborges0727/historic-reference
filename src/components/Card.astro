@@ -1,0 +1,60 @@
+---
+/**
+ * One fact as a bordered card. The label and an optional date stamp sit on the head
+ * row, the value under them, then the detail and the source link. A list value takes
+ * the full row and prints its entries in an inner grid.
+ *
+ * A fact with no source renders no link rather than an empty one, which only happens
+ * on qualitative culture facts.
+ */
+import { dateStamp } from '../lib/format.mjs';
+import { entryParts, isWide } from '../lib/entries.mjs';
+
+interface Props {
+  fact: {
+    id: string;
+    label: string;
+    value: string | number | string[];
+    detail?: string;
+    date?: string;
+    source?: string;
+  };
+}
+
+const { fact } = Astro.props;
+const values = Array.isArray(fact.value) ? fact.value : null;
+const entries = values ? values.map((text, i) => entryParts(fact.id, text, i)) : null;
+const stamp = dateStamp(fact.date);
+---
+
+<article class:list={['card', isWide(fact.value) && 'card--wide']} id={fact.id}>
+  <div class="card__head">
+    <span class="card__label">{fact.label}</span>
+    {stamp && <span class="card__date">{stamp}</span>}
+  </div>
+  {
+    entries ? (
+      <div class="card__entries">
+        {entries.map((entry: any) => (
+          <div class="entry">
+            <span class="entry__main">
+              {entry.rank && <>{entry.rank}&nbsp; </>}
+              {entry.main}
+            </span>
+            {entry.sub && <span class="entry__sub">{entry.sub}</span>}
+          </div>
+        ))}
+      </div>
+    ) : (
+      <div class="card__value">{fact.value}</div>
+    )
+  }
+  {fact.detail && <p class="card__detail">{fact.detail}</p>}
+  {
+    fact.source && (
+      <a class="card__source" href={fact.source} rel="nofollow noopener">
+        source
+      </a>
+    )
+  }
+</article>

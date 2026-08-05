@@ -1,36 +1,18 @@
 /*
- * Year Context. See DESIGN.md for the plan this implements.
- * Three tier accents, one layout, one signature element (the stub).
+ * Year Context. One sheet for every year: white ground, Helvetica, 2px ink rules,
+ * a single orange accent, and every fact in a bordered card. No era styling. The
+ * only thing that moves between 1920 and 2025 is the timeline marker and the data.
  */
 
 :root {
-  --ink: #16181d;
-  --ground: #dfe1dc;
-  --card: #f4f5f2;
-  --rule: #b9bdb6;
-
-  /* Overridden per tier on <body>. Modern is the default. */
-  --era: #175a92;
-  --era-wash: rgba(23, 90, 146, 0.08);
-
-  --display: 'Big Shoulders Display', 'Arial Narrow', sans-serif;
-  --body: Newsreader, Georgia, 'Times New Roman', serif;
-  --mono: 'DM Mono', ui-monospace, 'SF Mono', Menlo, monospace;
-
-  --rail: 8.5rem;
-  --measure: 62ch;
-  --gap: 1.5rem;
-  --step: 0.35rem;
-}
-
-[data-tier='early'] {
-  --era: #4a5b70;
-  --era-wash: rgba(74, 91, 112, 0.08);
-}
-
-[data-tier='broadcast'] {
-  --era: #a8322d;
-  --era-wash: rgba(168, 50, 45, 0.08);
+  --ink: #111214;
+  --prose: #26282c;
+  --detail: #3a3d42;
+  --muted: #6b6e73;
+  --hairline: #dfe1e4;
+  --track: #eceef0;
+  --accent: #e8590c;
+  --sheet: 1120px;
 }
 
 *,
@@ -39,538 +21,478 @@
   box-sizing: border-box;
 }
 
-html {
-  -webkit-text-size-adjust: 100%;
-}
-
 body {
   margin: 0;
-  background: var(--ground);
+  background: #ffffff;
   color: var(--ink);
-  font-family: var(--body);
-  font-size: 1.0625rem;
-  line-height: 1.6;
-  font-synthesis: none;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
 }
 
 a {
   color: inherit;
-  text-decoration-color: var(--era);
+  text-decoration-color: var(--accent);
   text-decoration-thickness: 2px;
   text-underline-offset: 0.18em;
 }
 
 a:hover {
-  color: var(--era);
+  color: var(--accent);
 }
 
 :focus-visible {
-  outline: 2px solid var(--era);
+  outline: 2px solid var(--accent);
   outline-offset: 3px;
 }
 
-h1,
-h2,
-h3 {
-  font-family: var(--display);
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-  line-height: 0.95;
-  margin: 0;
-}
-
-/* ------------------------------------------------------------------ shell */
-
-.shell {
-  display: grid;
-  grid-template-columns: var(--rail) minmax(0, 1fr);
-  gap: 0 2.5rem;
-  max-width: 66rem;
+.sheet {
+  max-width: var(--sheet);
   margin: 0 auto;
-  padding: 2rem 1.25rem 5rem;
+  padding: 32px 40px 80px;
 }
 
-.rail {
-  position: sticky;
-  top: 2rem;
-  align-self: start;
-}
+/* Top bar */
 
-.rail__year {
-  font-family: var(--display);
-  font-size: 4.5rem;
-  line-height: 0.85;
-  letter-spacing: -0.01em;
-  margin: 0;
-  font-variant-numeric: lining-nums;
-}
-
-.rail__tier {
-  font-family: var(--mono);
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  color: var(--era);
-  margin-top: 0.5rem;
-}
-
-.rail__nav {
-  margin-top: 1.5rem;
-  font-family: var(--mono);
-  font-size: 0.8rem;
+.topbar {
   display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 10px;
 }
 
-.column {
-  min-width: 0;
+.topbar__home {
+  font-weight: 700;
+  text-decoration: none;
 }
 
-.headline {
-  font-family: var(--body);
-  font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.1rem);
-  line-height: 1.22;
-  font-weight: 600;
-  text-transform: none;
-  letter-spacing: -0.005em;
-  max-width: var(--measure);
-  margin: 0 0 2rem;
+.topbar__nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  color: var(--muted);
+}
+
+.topbar__nav a {
+  text-decoration: none;
+}
+
+/* Hero */
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 380px;
+  gap: 32px 64px;
+  margin-top: 32px;
+  align-items: start;
+}
+
+.hero__year {
+  font-size: clamp(88px, 16vw, 180px);
+  font-weight: 700;
+  line-height: 0.85;
+  letter-spacing: -0.05em;
+  margin: 0;
+}
+
+.hero__headline {
+  font-size: 24px;
+  line-height: 1.3;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  max-width: 30ch;
+  margin: 28px 0 0;
   text-wrap: balance;
 }
 
-/* -------------------------------------------------------------- the stub */
+/* Timeline */
 
-.stub {
-  background: var(--card);
-  border: 1px solid var(--rule);
-  border-left: none;
-  position: relative;
-  padding: 1.4rem 1.5rem 1.2rem 2.1rem;
-  margin-bottom: 2.5rem;
+.timeline {
+  margin-top: 36px;
 }
 
-/* Perforated edge. The one flourish, and it is drawn with a gradient. */
-.stub::before {
-  content: '';
+.timeline__track {
+  height: 6px;
+  background: var(--track);
+  position: relative;
+}
+
+.timeline__fill {
   position: absolute;
   left: 0;
   top: 0;
   bottom: 0;
-  width: 0.9rem;
-  background:
-    radial-gradient(circle at 0.45rem 0.45rem, var(--ground) 0.22rem, transparent 0.23rem) 0 0 / 0.9rem
-      0.9rem repeat-y,
-    var(--era-wash);
-  border-right: 1px dashed var(--rule);
+  background: var(--accent);
 }
 
-.stub__distance {
-  font-family: var(--body);
-  font-size: 1.15rem;
-  line-height: 1.45;
-  margin: 0 0 0.35rem;
-  max-width: 48ch;
-}
-
-.stub__distance b {
-  font-weight: 600;
-  color: var(--era);
-}
-
-.stub__memory,
-.stub__tech {
-  font-family: var(--body);
-  font-size: 0.95rem;
-  line-height: 1.5;
-  margin: 0.3rem 0 0;
-  max-width: 54ch;
-}
-
-.stub__figures {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
-  gap: 0.9rem 1.25rem;
-  margin: 1.1rem 0 0.9rem;
-  padding-top: 1rem;
-  border-top: 1px dashed var(--rule);
-  list-style: none;
-}
-
-.figure__label {
-  font-family: var(--mono);
-  font-size: 0.66rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: color-mix(in srgb, var(--ink) 62%, var(--ground));
-}
-
-/* Then on one line, now on the next, arrow leading the now. Laid out as rows rather
-   than a wrapping line so a long figure never leaves the arrow stranded. */
-.figure__pair {
-  font-family: var(--mono);
-  font-size: 0.95rem;
-  margin-top: 0.25rem;
-  display: grid;
-  gap: 0.1rem;
-}
-
-.figure__then {
-  font-weight: 500;
-}
-
-.figure__arrow {
-  color: var(--era);
-}
-
-.figure__now {
-  color: color-mix(in srgb, var(--ink) 70%, var(--ground));
-}
-
-.figure__nowyear {
-  font-family: var(--mono);
-  font-size: 0.62rem;
-  color: color-mix(in srgb, var(--ink) 55%, var(--ground));
-}
-
-/* --------------------------------------------------------------- lead */
-
-.lead {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 2.5rem;
-  display: grid;
-  gap: 0;
-  border-top: 1px solid var(--rule);
-}
-
-.lead__item {
-  border-bottom: 1px solid var(--rule);
-  border-left: 2px solid var(--era);
-  padding: 0.7rem 0.9rem;
-  display: grid;
-  grid-template-columns: minmax(7rem, 12rem) minmax(0, 1fr);
-  gap: 0.3rem 1.25rem;
-  align-items: baseline;
-  transition: border-left-width 120ms ease, background-color 120ms ease;
-}
-
-.lead__item:hover {
-  border-left-width: 5px;
-  background: var(--era-wash);
-}
-
-.lead__label {
-  font-family: var(--mono);
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: color-mix(in srgb, var(--ink) 62%, var(--ground));
-}
-
-.lead__value {
-  font-family: var(--mono);
-  font-size: 1rem;
-  line-height: 1.4;
-  font-weight: 500;
-}
-
-/* A lead pointer at a whole fact can land on a list, so the lead needs the same
-   treatment the body facts get. Same dash marker as .fact__list, for the same reason:
-   some of these lists are ranked and some are not, and numbering them would invent an
-   order the data does not claim. */
-.lead__list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.lead__list li {
-  font-family: var(--mono);
-  font-size: 1rem;
-  line-height: 1.4;
-  font-weight: 500;
-  padding-left: 1.1rem;
-  position: relative;
-}
-
-.lead__list li + li {
-  margin-top: 0.3rem;
-}
-
-.lead__list li::before {
-  content: '\2013';
+.timeline__marker {
   position: absolute;
-  left: 0.1rem;
-  font-weight: 400;
-  color: var(--era);
+  top: -5px;
+  width: 2px;
+  height: 16px;
+  background: var(--ink);
 }
 
-/* ------------------------------------------------------------ texture */
-
-.texture {
-  max-width: var(--measure);
-  margin: 0 0 3rem;
-}
-
-.texture p {
-  margin: 0 0 1.15rem;
-}
-
-.texture p:first-of-type::first-letter {
-  font-family: var(--display);
-  font-size: 3.4rem;
-  float: left;
-  line-height: 0.78;
-  padding: 0.1em 0.12em 0 0;
-  color: var(--era);
-}
-
-/* ----------------------------------------------------------- sections */
-
-.sections {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
-  gap: 2rem 2.5rem;
-  align-items: start;
-}
-
-.section__title {
-  font-size: 1.05rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 3px solid var(--era);
-  margin-bottom: 0.75rem;
-}
-
-.facts {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.fact {
-  padding: 0.55rem 0;
-  border-bottom: 1px solid var(--rule);
-}
-
-.fact__label {
-  font-family: var(--mono);
-  font-size: 0.68rem;
-  text-transform: uppercase;
-  letter-spacing: 0.09em;
-  color: color-mix(in srgb, var(--ink) 62%, var(--ground));
+.timeline__scale {
   display: flex;
   justify-content: space-between;
-  gap: 0.5rem;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+.timeline__distance {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.timeline__note {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 14px 0 0;
+  max-width: 58ch;
+}
+
+/* Lead table */
+
+.leadbox {
+  border-top: 2px solid var(--ink);
+  padding-top: 4px;
+}
+
+.lead {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 0 16px;
+  font-size: 13px;
+  line-height: 1.45;
+  margin: 0;
+}
+
+.lead dt,
+.lead dd {
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.lead dt {
+  color: var(--muted);
+}
+
+.jumpnav {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 14px;
+  line-height: 1.7;
+}
+
+/* Vitals */
+
+.vitals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  margin-top: 44px;
+  border-top: 2px solid var(--ink);
+}
+
+.vital {
+  padding: 14px 16px 0;
+  border-right: 1px solid var(--hairline);
+}
+
+.vital:first-child {
+  padding-left: 0;
+}
+
+.vital:last-child {
+  padding-right: 0;
+  border-right: 0;
+}
+
+.vital__label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.vital__then {
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 4px;
+}
+
+.vital__now {
+  font-size: 12px;
+  color: var(--accent);
+  margin-top: 1px;
+}
+
+/* Numbered blocks: the prose section and every fact section */
+
+.block {
+  margin-top: 40px;
+  border-top: 2px solid var(--ink);
+  padding-top: 16px;
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  gap: 24px;
+}
+
+.block--first {
+  margin-top: 56px;
+}
+
+.block__label {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+  margin: 0;
+}
+
+.block__label span {
+  display: block;
+}
+
+.prose {
+  columns: 2;
+  column-gap: 48px;
+  font-size: 14.5px;
+  line-height: 1.62;
+  color: var(--prose);
+}
+
+.prose p {
+  margin: 0 0 16px;
+}
+
+.prose p:last-child {
+  margin-bottom: 0;
+}
+
+/* Cards */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  border: 1px solid var(--hairline);
+  padding: 14px 16px;
+}
+
+.card--wide {
+  grid-column: 1 / -1;
+}
+
+.card__head {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
   align-items: baseline;
 }
 
-.fact__value {
-  font-family: var(--mono);
-  font-size: 0.93rem;
-  line-height: 1.45;
-  margin-top: 0.15rem;
+.card__label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
 }
 
-.fact__list {
-  list-style: none;
-  padding: 0;
-  margin: 0.15rem 0 0;
-}
-
-.fact__list li {
-  font-family: var(--mono);
-  font-size: 0.9rem;
-  line-height: 1.4;
-  padding-left: 1.1rem;
-  position: relative;
-}
-
-/* A dash, not a number. Some list facts are ranked and some are not, and the data
-   does not say which, so numbering half of them would invent a ranking. */
-.fact__list li::before {
-  content: '\2013';
-  position: absolute;
-  left: 0.1rem;
-  color: var(--era);
-}
-
-.fact__detail {
-  font-size: 0.92rem;
-  line-height: 1.45;
-  margin-top: 0.25rem;
-  color: color-mix(in srgb, var(--ink) 82%, var(--ground));
-}
-
-.fact__date {
-  font-family: var(--mono);
-  font-size: 0.66rem;
-  color: var(--era);
+.card__date {
+  font-size: 10px;
+  color: var(--accent);
   white-space: nowrap;
 }
 
-.fact__source {
-  font-family: var(--mono);
-  font-size: 0.66rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+.card__value {
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: 5px;
+  line-height: 1.4;
+  max-width: 68ch;
 }
 
-/* -------------------------------------------------------------- footer */
+.card__detail {
+  font-size: 12.5px;
+  color: var(--detail);
+  margin: 5px 0 0;
+  line-height: 1.5;
+}
+
+.card__entries + .card__detail {
+  margin-top: 10px;
+}
+
+.card__source {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  display: inline-block;
+  margin-top: 8px;
+}
+
+.card__entries {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 10px 20px;
+  margin-top: 8px;
+}
+
+.entry {
+  font-size: 13.5px;
+  line-height: 1.45;
+}
+
+.entry__main {
+  font-weight: 700;
+}
+
+.entry__sub {
+  display: block;
+  color: var(--muted);
+}
+
+/* Footer */
 
 .pagefoot {
-  grid-column: 1 / -1;
-  margin-top: 3.5rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--rule);
+  margin-top: 64px;
+  border-top: 2px solid var(--ink);
+  padding-top: 12px;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem 2rem;
+  gap: 12px 32px;
   justify-content: space-between;
-  font-family: var(--mono);
-  font-size: 0.75rem;
+  font-size: 12px;
+  color: var(--muted);
 }
 
 .pagefoot__basis {
-  max-width: 46ch;
-  text-transform: none;
-  letter-spacing: 0;
+  max-width: 52ch;
 }
 
-/* --------------------------------------------------------------- index */
+/* Index */
 
 .masthead {
-  max-width: 60rem;
-  margin: 0 auto;
-  padding: 4rem 1.25rem 2rem;
+  margin-top: 48px;
 }
 
 .masthead h1 {
-  font-size: clamp(3rem, 1.5rem + 7vw, 6.5rem);
-  letter-spacing: -0.02em;
+  font-size: clamp(48px, 7vw, 92px);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 0.92;
+  margin: 0;
+  max-width: 14ch;
 }
 
 .masthead p {
-  max-width: 54ch;
-  font-size: 1.15rem;
-  margin: 1.25rem 0 0;
+  font-size: 17px;
+  max-width: 52ch;
+  margin: 22px 0 0;
+  line-height: 1.55;
+  color: var(--detail);
 }
 
 .decades {
-  max-width: 60rem;
-  margin: 0 auto;
-  padding: 1rem 1.25rem 5rem;
+  margin-top: 56px;
 }
 
 .decade {
   display: grid;
-  grid-template-columns: 4.5rem minmax(0, 1fr);
-  gap: 1rem;
-  align-items: start;
-  padding: 0.9rem 0;
-  border-top: 1px solid var(--rule);
+  grid-template-columns: 120px minmax(0, 1fr);
+  gap: 20px;
+  align-items: baseline;
+  padding: 16px 0;
+  border-top: 2px solid var(--ink);
 }
 
 .decade__label {
-  font-family: var(--display);
-  font-size: 1.5rem;
-  color: color-mix(in srgb, var(--ink) 60%, var(--ground));
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 .decade__years {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 8px;
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 .yearchip {
-  font-family: var(--mono);
-  font-size: 0.9rem;
+  font-size: 14px;
   display: block;
-  padding: 0.35rem 0.55rem;
-  border: 1px solid var(--rule);
-  background: var(--card);
+  padding: 8px 12px;
+  border: 1px solid var(--hairline);
   text-decoration: none;
-  border-bottom: 3px solid var(--era);
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
-.yearchip:hover {
-  background: var(--era-wash);
+a.yearchip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .yearchip--empty {
-  color: color-mix(in srgb, var(--ink) 58%, var(--ground));
-  background: transparent;
-  border-bottom-color: var(--rule);
+  color: var(--muted);
 }
 
-/* --------------------------------------------------------------- motion */
+/* Corrections */
 
-@media (prefers-reduced-motion: no-preference) {
-  .lead__item {
-    animation: rise 420ms cubic-bezier(0.2, 0.7, 0.3, 1) backwards;
-  }
-
-  .lead__item:nth-child(1) { animation-delay: 40ms; }
-  .lead__item:nth-child(2) { animation-delay: 80ms; }
-  .lead__item:nth-child(3) { animation-delay: 120ms; }
-  .lead__item:nth-child(4) { animation-delay: 160ms; }
-  .lead__item:nth-child(5) { animation-delay: 200ms; }
-  .lead__item:nth-child(6) { animation-delay: 240ms; }
-  .lead__item:nth-child(7) { animation-delay: 280ms; }
-  .lead__item:nth-child(8) { animation-delay: 320ms; }
+.pagetitle {
+  font-size: clamp(48px, 7vw, 92px);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 0.92;
+  margin: 48px 0 0;
 }
 
-@keyframes rise {
-  from {
-    opacity: 0;
-    transform: translateY(0.5rem);
-  }
+.copy {
+  max-width: 62ch;
+  font-size: 15px;
+  line-height: 1.62;
+  color: var(--prose);
 }
 
-/* ------------------------------------------------------------ narrow */
+.copy p {
+  margin: 0 0 16px;
+}
 
-@media (max-width: 46rem) {
-  .shell {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 1.5rem;
-    padding-top: 1.25rem;
+.copy p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 760px) {
+  .sheet {
+    padding: 24px 20px 60px;
   }
 
-  .rail {
-    position: static;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0.5rem 1rem;
-    border-bottom: 3px solid var(--era);
-    padding-bottom: 0.5rem;
-  }
-
-  .rail__year {
-    font-size: 3.25rem;
-  }
-
-  .rail__tier,
-  .rail__nav {
-    margin-top: 0;
-  }
-
-  .rail__nav {
-    flex-direction: row;
-    gap: 1rem;
-    width: 100%;
-  }
-
-  .lead__item {
+  .hero,
+  .block,
+  .decade {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .stub {
-    padding-left: 1.8rem;
+  .decade {
+    gap: 8px;
+  }
+
+  .prose {
+    columns: 1;
   }
 }
